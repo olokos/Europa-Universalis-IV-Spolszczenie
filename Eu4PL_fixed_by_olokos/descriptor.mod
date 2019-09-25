@@ -1,5 +1,5 @@
-name="Spolszczenie Europa Universalis IV - 0.52 fixed by olokos"
-version="0.52"
+name="Spolszczenie Europa Universalis IV - 0.9 fixed by olokos"
+version="0.9"
 tags={
 	"Translation"
 }

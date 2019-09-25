@@ -1,6 +1,6 @@
-name="Spolszczenie Europa Universalis IV - 0.52 fixed by olokos"
+name="Spolszczenie Europa Universalis IV - 0.9 fixed by olokos"
 path="mod/Eu4PL_fixed_by_olokos"
-version="0.52"
+version="0.9"
 tags={
 	"Translation"
 }
