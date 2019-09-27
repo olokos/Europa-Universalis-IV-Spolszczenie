@@ -275,7 +275,7 @@
  natives_american_inuit:0 "Inuici amerykaªscy"
  WG_ALLOW_TRADE_POWER:0 "Przekierowanie $AMOUNT|Y%1$ si³y handlu"
  TRANSFER_TRADE_POWER_TO_DESC:0 "$FROM$ przeka¿e $AMOUNT|Y%1$ swojej si³y handlu paªstwu $TO$ w w²z³ach handlowych, w których oboje dysponuj¹ si³¹ handlu. To dzia³anie zachowa wa¿noœ¾ na czas trwania rozejmu."
- WOULD_CANCEL_TRANSFERING_TO_OTHER:1 "\§YnAnuluj¹ równie¿ swoje obecne transfery do kraju $WHO$.§!"
+ WOULD_CANCEL_TRANSFERING_TO_OTHER:1 "§Y\nAnuluj¹ równie¿ swoje obecne transfery do kraju $WHO$.§!"
  WOULD_LEAVE_TRADE_LEAGUE:0 "§R\nThis would force them out of the Trade League led by $LEADER$.§!"
  TRANSFER_OTHERS_TRADE_POWER_TO_DESC:0 "Kraj $FROM$ nie b²dzie d³u¿ej przekazywa¾ si³y handlu paªstwu $ORG$. Zamiast tego przeka¿e jej §Y$AMOUNT|Y%1$§! paªstwu $TO$ w w²z³ach handlowych, w których oboje dysponuj¹ si³¹ handlu. To dzia³anie zachowa wa¿noœ¾ na czas trwania rozejmu."
  HUMILIATE_PEACE_DESC:0 "$FROM$ utraci $AMOUNT|0Y$ punktów presti¿u, zaœ $TO$ zyska $POWER|0Y$ punktów monarchy ka¿dego typu."
