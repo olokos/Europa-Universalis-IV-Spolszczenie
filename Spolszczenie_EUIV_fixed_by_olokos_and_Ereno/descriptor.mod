@@ -1,6 +1,6 @@
 name="Spolszczenie EUIV fixed by olokos and Ereno"
 picture="thumbnail.png"
-version="0.9.5"
+version="1.0"
 tags={
 	"Translation"
 }
