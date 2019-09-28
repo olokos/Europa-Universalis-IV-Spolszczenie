@@ -159,7 +159,7 @@ char id=192  x=166   y=0     width=12    height=16    xoffset=0     yoffset=1   
 char id=193  x=180   y=0     width=12    height=16    xoffset=0     yoffset=1     xadvance=11    page=0  
 char id=194  x=111   y=18    width=12    height=15    xoffset=0     yoffset=2     xadvance=11    page=0  
 char id=195  x=194   y=0     width=12    height=16    xoffset=0     yoffset=1     xadvance=11    page=0  
-char id=196  x=80    y=133    width=10    height=16    xoffset=0     yoffset=1     xadvance=10    page=0
+char id=196  x=80    y=133    width=10    height=16    xoffset=0     yoffset=1     xadvance=10    page=0  
 char id=197  x=208   y=0     width=12    height=16    xoffset=0     yoffset=1     xadvance=11    page=0  
 char id=198  x=144   y=35    width=16    height=13    xoffset=0     yoffset=4     xadvance=15    page=0  
 char id=199  x=14    y=0     width=11    height=17    xoffset=1     yoffset=4     xadvance=12    page=0  
