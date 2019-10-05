@@ -1,7 +1,7 @@
 # Europa Universalis IV / 4 Spolszczenie Polish Language Pack
 
 Polskie Fanowskie spolszczenie do gry Europa Universalis IV / Polish Fan Translation for Europa Universalis IV
-Spolszczenie do najnowszej wersji Europa Universalis 4 1.29.1.
+Spolszczenie do najnowszej wersji Europa Universalis 4 1.29.2.
 Spolszczenie jest ciągle aktualizowane.
 
 Aktualnie spolszczenie posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie spolszczeń.
