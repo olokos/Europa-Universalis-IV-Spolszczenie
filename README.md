@@ -24,7 +24,7 @@ Instalacja moda:
 
 W razie jakichkolwiek problemów/zastrzeżeń/propozycji zachęcamy do kontaktu!
 
-UWAGA! Gdyby w launcherze pojawiał się informacja, że modyfikacja jest do nieaktualnej wersji gry należy:
+UWAGA! Gdyby w launcherze pojawiała się informacja, że modyfikacja jest do nieaktualnej wersji gry należy:
 1. Uruchomić launcher gry (uruchomić grę przez Steam).
 2. Z włączonym launcherem odsubskrybować moda oraz po chwili zasubskrybować go na nowo.
 
