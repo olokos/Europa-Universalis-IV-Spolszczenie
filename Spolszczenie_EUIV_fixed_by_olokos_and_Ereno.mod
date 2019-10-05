@@ -1,8 +1,8 @@
-name="Spolszczenie Europa Universalis IV - 0.9 fixed by olokos"
-path="mod/Eu4PL_fixed_by_olokos"
-version="0.9"
+name="Spolszczenie EUIV fixed by olokos and Ereno"
+path="mod/Spolszczenie_EUIV_fixed_by_olokos_and_Ereno"
+version="1.0"
 tags={
 	"Translation"
 }
-picture="Eu4PL_fixed_by_olokos.png"
+picture="thumbnail.png"
 supported_version="1.29.*.*"
