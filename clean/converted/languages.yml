@@ -1,0 +1,24 @@
+﻿l_english:
+ l_english: "English"
+ l_german: "German"
+ l_french: "French"
+ l_spanish: "Spanish"
+ l_english_tag: ""
+l_german:
+ l_english: "Englisch"
+ l_german: "Deutsch"
+ l_french: "Französisch"
+ l_spanish: "Spanisch"
+ l_english_tag: ""
+l_french:
+ l_english: "Anglais"
+ l_german: "Allemand"
+ l_french: "Français"
+ l_spanish: "Espagnol"
+ l_english_tag: ""
+l_spanish:
+ l_english: "Inglés"
+ l_german: "Alemán"
+ l_french: "Francés"
+ l_spanish: "Español"
+ l_english_tag: ""
