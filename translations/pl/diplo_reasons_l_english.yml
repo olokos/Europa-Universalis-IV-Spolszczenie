@@ -97,6 +97,7 @@
  DIPLO_CORE_PROCESS: "Uczynienie tej prowincji narodow¹##CHAR_DETECT## "
  DIPLO_RICHNESS: "Wartoœ¾ prowincji##CHAR_DETECT## "
  DIPLO_WAR_TIME_PASSED: "Czas trwania wojny##CHAR_DETECT## "
+ DIPLO_THREATHENING_MANDATE: "Mandate is threathened##CHAR_DETECT## "
  DIPLO_THEY_WON_WAR: "Paªstwo $WHO$ wygra³o wojn²##CHAR_DETECT## "
  DIPLO_WAR_STALLED: "Wojna w martwym punkcie##CHAR_DETECT## "
  DIPLO_RIVAL_COLONIST: "Paªstwo $WHO$ jest pot²g¹ kolonialn¹##CHAR_DETECT## "
@@ -369,5 +370,4 @@
  DIPLO_TRIBUTARIES: "Number of Tributary States##CHAR_DETECT## "
  DIPLO_IS_CELESTIAL_EMPEROR: "$WHO$ is the Celestial Emperor##CHAR_DETECT## "
  DIPLO_IS_HORDE_EMPIRE: "$WHO$ is a Horde Empire##CHAR_DETECT## "
- DIPLO_THREATHENING_MANDATE: "Mandate is threathened##CHAR_DETECT## "
  DIPLO_ESCALATED_COLONIAL_WAR: "Doesn't want to get involved in escalated colonial war##CHAR_DETECT## "
