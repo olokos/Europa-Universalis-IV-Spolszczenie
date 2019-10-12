@@ -95,6 +95,7 @@
  opinion_accepted_primas_germaniae: "Zaakceptowano Primas Germaniae"
  opinion_supported_primas_germaniae: "Poparto nowo wybranego Primasa Germaniae"
  opinion_lost_primas_germaniae: "Nie wsparto wybranego na Primas Germaniae"
+ opinion_declined_primas_germaniae: "Declined Primas Germaniae"
  opinion_improved_relations: "Polepszone stosunki"
  opinion_eased_tension: "Z³agodzone napi²cie"
  opinion_granted_privileges: "Przyznano przywileje szlachcie"
@@ -214,4 +215,3 @@
  anglo_portuguese_alliance: "Anglo-Portuguese Alliance"
  opinion_defected_privateer: "Defected Privateer"
  opinion_sublimis_deus: "Sublimis Deus"
- opinion_declined_primas_germaniae: "Declined Primas Germaniae"
