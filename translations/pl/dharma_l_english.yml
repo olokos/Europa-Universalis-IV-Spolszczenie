@@ -154,6 +154,7 @@
  brahmins_estate_events.9.a: "Allow Brahmins to enforce orthodoxy."
  brahmins_estate_events.9.b: "Encourage popular religious movements."
  non_brahmin_tooltip: "Every owned province with the §YBrahmins§! estate gets §Y'Brahmin Orthodoxy Enforced'§! for §Y15 years§!, giving the following effects##CHAR_DETECT##\nLocal Unrest##CHAR_DETECT## §R+5.00§!\nMonthly Autonomy Change##CHAR_DETECT## §G-0.05%§!"
+ brahmins_estate_events.9.b.tt: ""
  brahmins_estate_events.10.t: "Trouble at the Fort in [brahmin_fort_province.GetName]"
  brahmins_estate_events.10.d: "The court of [Root.Country.GetName] has become embroiled in a conflict between the [Root.Monarch.GetTitle] and the military castes. In the wake of these rising tensions, the matter of fort stewardship has risen to our attention. The fort of [brahmin_fort_province.GetName], currently held by a particularly contentious general, lies in a province where the Brahmins are gaining influence of their own.\n\nForeseeing the potential for tensions to break out into hostilities, it may be wise to transfer control of this important fort from the contentious general to the Brahmins. Though less adept than military men at siegecraft, the Brahmins are at least loyal to the [Root.Monarch.GetTitle]. Alternatively, the general could be persuaded to change his attitude in exchange for the retention of his privileges in [brahmin_fort_province.GetName]."
  brahmins_estate_events.10.a: "Hand over the fort to the Brahmins."
