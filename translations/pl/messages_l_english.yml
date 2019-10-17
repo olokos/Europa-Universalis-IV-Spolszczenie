@@ -1303,7 +1303,6 @@
  JUSTIFYTRADECONFLICTTHEM_BTN1: "Rozumiem."
  JUSTIFYTRADECONFLICTTHEM_BTN2: "Rozumiem."
  JUSTIFYTRADECONFLICTTHEM_BTN3: "Idź do"
-
  INFILTRATEADMINME_TITLE: "Szpiegowanie administracji"
  INFILTRATEADMINME_SETUP: "Szpiegujemy administrację innego państwa."
  INFILTRATEADMINME_HEADER: "$MESSENGER$"
@@ -1876,6 +1875,7 @@
  EMPEROR_2: "Elektorzy zdecydowali, że "
  EMPEROR_3: "$KING$ z kraju $COUNTRY$"
  EMPEROR_4: "zostanie nowym cesarzem. Nowy władca Świętego Cesarstwa Rzymskiego obiecał chronić prawa przynależne państwom członkowskim."
+ EMPEROR_5: ""
  EMPEROR_LOG: "Święte Cesarstwo Rzymskie zdecydowało, że $KING$ z kraju $COUNTRY$ będzie jego nowym cesarzem."
  EMPEROR_BTN1: "Rozumiem."
  EMPEROR_BTN2: "Rozumiem."
@@ -6981,4 +6981,3 @@
  MINORITY_EXPULSION_CANCELED_BTN1: "Niech to!"
  MINORITY_EXPULSION_CANCELED_BTN2: "Niech to!"
  MINORITY_EXPULSION_CANCELED_BTN3: "Idź do"
- 
