@@ -53,7 +53,7 @@
  COUNTRY_ALREADY_HAVE_FLAGSHIP: "We already have a Flagship."
  COUNTRY_ALREADY_BUILDING_FLAGSHIP: "We are already building a Flagship."
  FLAGSHIP_NAVY_TOO_SMALL: "Our navy is too small. We need to have at least $REQUIRED_SAILORS|Y$ Sailors employed in our navy but we only have $USED_SAILORS|R$."
- FLAGSHIP_CONSTRUCTION_TOOLTIP: "The Flagship "$NAME|Y$" will be put to sea here on $DATE|Y$."
+ FLAGSHIP_CONSTRUCTION_TOOLTIP: "The Flagship ##CHAR_RETICO##$NAME|Y$##CHAR_RETICO## will be put to sea here on $DATE|Y$."
  FLAGSHIP_MAINTENANCE_MODIFIER: "$VALUE|R$"
  FLAGSHIP_MAINTENANCE_TOTAL: "Total maintenance##CHAR_DETECT## $VALUE|R$¤"
  FLAGSHIP_BASE_MAINTENANCE: "Base maintenance##CHAR_DETECT## $VALUE|R$¤"
