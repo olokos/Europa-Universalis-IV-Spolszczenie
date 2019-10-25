@@ -642,4 +642,3 @@
  OWNS_ALL_PROVINCES: "Owns all provinces##CHAR_DETECT##\n"
  HAS_NON_GENERIC_MISSIONS: "$COUNTRY|Y$ does have non-generic missions.\n"
  HAS_NOT_NON_GENERIC_MISSIONS: "$COUNTRY|Y$ does NOT have non-generic missions.\n"
- 
