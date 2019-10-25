@@ -229,7 +229,7 @@
  social_reforms: "Reformy społeczne"
  desc_social_reforms: "Reformy dotyczące społecznej niesprawiedliwości."
  the_reign_of_terror: "Wielki Terror"
- desc_the_reign_of_terror: "Efekt masowych egzekucji \##CHAR_RETICO##wrogów rewolucji\##CHAR_RETICO##."
+ desc_the_reign_of_terror: "Efekt masowych egzekucji ##GRINNOTO###CHAR_RETICO##wrogów rewolucji##GRINNOTO###CHAR_RETICO##."
  executed_monarch: "Stracony monarcha"
  habsburg_nation_title: "Zjednoczenie dynastii Habsburgów"
  habsburg_nation_desc: "Poprzez zjednoczenie linii albertyńskiej i leopoldyńskiej dynastii Habsburgów, ponownie zapewnimy sobie wpływ na europejską politykę i zabezpieczymy swoje miejsce, najbardziej prestiżowego członka Świętego Cesarstwa Rzymskiego."

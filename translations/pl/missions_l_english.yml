@@ -52,7 +52,7 @@
  migrate_to_neighboring_title: "Przenieś się do prowincji $PROVINCENAME$"
  migrate_to_neighboring_desc: "Nasze plemię zachowało umiejętność wędrowania śladem zdobyczy i znajdowania nowym ziem. Powinniśmy przenieść się do prowincji $PROVINCENAME$."
  recover_manga_title: "Odzyskaj nasze dziedzictwo kulturowe"
- recover_manga_desc: "Legendy mówią o artyście, który uciekł do dalekich krajów po wywołaniu gniewu u władcy. Zabrał ze sobą swoje najcenniejsze dzieło##CHAR_DETECT## książkę z ilustracjami przedstawiającą historię \##CHAR_RETICO##wyższej\##CHAR_RETICO## szkoły, gdzie szkoleni byli najlepszi samuraje. Wierzymy, że ten stracony skarb kulturowy leży gdzieś w dżungli afrykańskiej, a naszym obowiązkiem jest odnalezienie go!"
+ recover_manga_desc: "Legendy mówią o artyście, który uciekł do dalekich krajów po wywołaniu gniewu u władcy. Zabrał ze sobą swoje najcenniejsze dzieło##CHAR_DETECT## książkę z ilustracjami przedstawiającą historię ##GRINNOTO###CHAR_RETICO##wyższej##GRINNOTO###CHAR_RETICO## szkoły, gdzie szkoleni byli najlepszi samuraje. Wierzymy, że ten stracony skarb kulturowy leży gdzieś w dżungli afrykańskiej, a naszym obowiązkiem jest odnalezienie go!"
  vassalize_ramazan_title: "Zwasalizuj Ramazan"
  vassalize_ramazan_desc: "Ramazan przekracza granicę między Azją Mniejszą a Lewantem. Jej strategiczne położenie oznacza, że $COUNTRY$  nie może zignorować innych, mniejszych państw. Przejmijmy więc kontrolę nad tymi ziemiami."
  conquer_the_byzantine_empire_title: "Podbij Imperium Bizantyjskie"

@@ -142,7 +142,7 @@
  religious_events.22.a: "Dobre myśli, dobre słowa, dobre uczynki."
  religious_events.23.t: "Kraj [Root.GetName] przechodzi na judaizm"
  religious_events.23.d: "Wspólnoty żydowskie z naszego kraju radują się na wieść, że zamierzamy nawrócić się na ich religię."
- religious_events.23.a: "\##CHAR_RETICO##Słuchaj, Izraelu, Pan jest naszym Bogiem - Panem jedynym.\##CHAR_RETICO##"
+ religious_events.23.a: "##GRINNOTO###CHAR_RETICO##Słuchaj, Izraelu, Pan jest naszym Bogiem - Panem jedynym.##GRINNOTO###CHAR_RETICO##"
  indian_religious_tensions: "Napięcia religijne"
  desc_indian_religious_tensions: "We have broken with the Muslim establishment and reinstated the religion of our ancestors. Never again shall our country be ruled by heathens. As the Muslim minority in our country remains rather big, however, there has been some tensions."
  move_capital_to_rome: "Nowa stolica - Rzym"
