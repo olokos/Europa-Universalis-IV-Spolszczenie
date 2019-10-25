@@ -536,4 +536,3 @@
  lottery_candidate_bonus_one: "§YLottery Candidate Bonus§!##CHAR_DETECT## One random skill of this candidate has already been changed by §G1§!."
  lottery_candidate_bonus_plural: "§YLottery Candidate Bonus§!##CHAR_DETECT## One random skill of each candidate has already been changed by §G1§!."
  STEPPE_HORDE_BENEFITS: "\nThe §YSteppe Nomads§! Government Reform gives the following benefits##CHAR_DETECT##\nNational Manpower Modifier##CHAR_DETECT## §G+20.0%§!\nLand Force Limit Modifier##CHAR_DETECT## §G+20.0%§!\nYears of Separatism##CHAR_DETECT## §G-5§!\nLooting Speed##CHAR_DETECT## §G+50.00%§!\nInstitution Spread##CHAR_DETECT## §R-15.0%§!\nMovement Speed##CHAR_DETECT## §G+20.00%§!\nReinforce Cost##CHAR_DETECT## §G-50.0%§!\nCavalry to Infantry Ratio##CHAR_DETECT## §G+25.0%§!"
- 
