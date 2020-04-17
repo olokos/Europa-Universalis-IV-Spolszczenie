@@ -197,6 +197,7 @@
  seven_cities_events.223.t: "Legendary City of Quivira"
  seven_cities_events.223.d: "Golden cups hang from the trees in the city of Quivira and anyone who is thirsty may take one and fill it with sweet water from one of the many springs, rivers, and rivulets that keep the area well watered. Prunes, nuts, mulberries, and sweet grapes bigger than anyone has ever seen must be the reason behind the large people of good build that inhabits the city. Gold and jade in great deposits in caves ensure the wealth of the city."
  seven_cities_events.223.a: "We have found it! Finally!"
+ # EVENT MODIFIERS
  sce_search_eldorado: "The Search for El Dorado"
  desc_sce_search_eldorado: "Your conquistador is looking for El Dorado - the City of Gold."
  el_dorado_mod: "El Dorado"
@@ -231,8 +232,11 @@
  desc_sce_saguenay_abandoned: "The ancient city of Saguenay is filled with heretic idols and golden statues of cavorting pagan gods. It is our duty to melt them down and repurpose the riches."
  sce_golden_cups: "The Golden City of Quivira"
  desc_sce_golden_cups: "Despite the lack of golden cups hanging from branches, valuable jade deposits have been located under the ruined city. It will take time and effort, but extracting this material will prove a most worthy endeavour."
+
+ # OPINION MODIFIERS
  cannibal_conquistador: "Cannibal Conquistador"
  threatening_punishment: "Threatened Punishment"
+ # Random Events
  seven_cities_events.300.t: "The Woman Among Us"
  seven_cities_events.300.d: "While replenishing our supplies in $PROVINCENAME$, a young, pregnant woman and her husband, a well-known trapper, applied for the positions of interpreter and guide in our expedition. The woman speaks several languages while her husband is a good hunter with great knowledge of this continent."
  seven_cities_events.300.a: "Hire them."

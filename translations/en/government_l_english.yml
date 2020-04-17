@@ -296,7 +296,7 @@
  republic_mechanic: "Republic"
  theocracy_mechanic: "Theocracy"
  mechanic_allow_migration_yes: "Allows migration"
- mechanic_native_mechanic_no: " "
+ mechanic_native_mechanic_no: " " # intentionally empty
  mechanic_native_mechanic_yes: "Uses Native Mechanic."
  mechanic_different_religion_acceptance: "Different Religion acceptance##CHAR_DETECT## $VALUE|R$"
  mechanic_different_religion_group_acceptance: "Different Religion Group acceptance##CHAR_DETECT## $VALUE|R$"
@@ -306,17 +306,17 @@
  governmental_purbias_register_reform: "Governmental Purbias Register"
  governmental_purbias_register_reform_desc: "The state is taking measures to attract elite Rajput warriors from all over India. Steps should be taken to organize these warriors into cohesive regiments upon arrival so that they can be deployed more effectively."
  mechanic_maratha_general_interaction_yes: "The Marathas Estate Interaction §YRecruit Minister§! will instead recruit a General with §G1§! additional Shock."
- mechanic_maratha_general_interaction_no: " "
+ mechanic_maratha_general_interaction_no: " " # intentionally empty
  mechanic_better_purbias_interaction_yes: "The Rajputs Estate Interaction §YEnlist Purbias§! will give an additional §G5%§! discipline to Rajput Regiments."
- mechanic_better_purbias_interaction_no: " "
+ mechanic_better_purbias_interaction_no: " " # intentionally empty
  venice_merchants_reform: "Venetian Government"
  venice_merchants_reform_desc: "The Most Serene Republic of Venice employs a complex and convoluted system for electing officials to public office. A series of secret ballots appoints 41 electors, who then each cast a vote into an urn. A single vote is extracted from the urn, and the man whose name is written on it becomes the new Doge. The system attempts to combat electoral corruption and ensure a fair vote."
  mechanic_lottery_election_yes: "Election by Lottery."
- mechanic_lottery_election_no: " "
+ mechanic_lottery_election_no: " " # intentionally empty
  mechanic_election_on_death_yes: "Elections only occur when ruler dies."
- mechanic_election_on_death_no: " "
+ mechanic_election_on_death_no: " " # intentionally empty
  mechanic_is_merchant_republic_yes: "Is a Merchant Republic"
- mechanic_is_merchant_republic_no: " "
+ mechanic_is_merchant_republic_no: " " # intentionally empty
  lottery_reform: "Sortition"
  lottery_reform_desc: "Elections by majority votes are prone to corruption or worse, populism. We shall employ a complex system of allotment to determine who should lead our Republic by selecting almost at random from among a pool of suitable candidates."
  appointment_by_committee_reform: "Appointment by Committee"

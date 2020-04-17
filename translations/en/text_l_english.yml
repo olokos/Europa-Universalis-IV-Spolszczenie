@@ -2759,7 +2759,7 @@
  CREATING_BORDERS: "Creating Borders..."
  CREATING_RIVERS: "Creating Rivers..."
  MAP_PROPERLY_INIT: "Map Properly Initialized..."
- CREATING_PROVINCE: "Creating Province "
+ CREATING_PROVINCE: "Creating Province #"
  CREATING_TEXTS: "Creating Texts..."
  LOAD_EVENTS: "Loading Events..."
  ADAPTING_HISTORY: "Adapting History..."

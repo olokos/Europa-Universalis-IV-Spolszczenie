@@ -230,14 +230,14 @@
  IS_COUNTRY_CLAIM: "Is a $COUNTRYADJ$ claim."
  ADVISOR_NOT_EMPLOYED: "§Y$NAME$§W is not currently employed.\n"
  ADVISOR_EMPLOYED: "§Y$NAME$§W is currently employed.\n"
- ADVISOR_TYPE_NOT_EMPLOYED_0: "No $TYPE$ is currently employed.\n"
- ADVISOR_TYPE_NOT_EMPLOYED_1: "No $ARG0$ $TYPE$ is currently employed.\n"
- ADVISOR_TYPE_NOT_EMPLOYED_2: "No $ARG0$ $ARG1$ $TYPE$ is currently employed.\n"
- ADVISOR_TYPE_NOT_EMPLOYED_3: "No $ARG0$ $ARG1$ $ARG2$ $TYPE$ is currently employed.\n"
- ADVISOR_TYPE_EMPLOYED_0: "$TYPE$ is currently employed.\n"
- ADVISOR_TYPE_EMPLOYED_1: "$ARG0$ $TYPE$ is currently employed.\n"
- ADVISOR_TYPE_EMPLOYED_2: "$ARG0$ $ARG1$ $TYPE$ is currently employed.\n"
- ADVISOR_TYPE_EMPLOYED_3: "$ARG0$ $ARG1$ $ARG2$ $TYPE$ is currently employed.\n"
+ ADVISOR_TYPE_NOT_EMPLOYED_0: "No $TYPE$ is currently employed.\n" #Example##CHAR_DETECT## No Quartermaster is currently employed
+ ADVISOR_TYPE_NOT_EMPLOYED_1: "No $ARG0$ $TYPE$ is currently employed.\n" #Example##CHAR_DETECT## No French Advisor is currently employed
+ ADVISOR_TYPE_NOT_EMPLOYED_2: "No $ARG0$ $ARG1$ $TYPE$ is currently employed.\n" #Example##CHAR_DETECT## No Protestant English Statesman is currently employed
+ ADVISOR_TYPE_NOT_EMPLOYED_3: "No $ARG0$ $ARG1$ $ARG2$ $TYPE$ is currently employed.\n" #Example##CHAR_DETECT## No Protestant English female Statesman is currently employed
+ ADVISOR_TYPE_EMPLOYED_0: "$TYPE$ is currently employed.\n" #Example##CHAR_DETECT## Quartermaster is currently employed
+ ADVISOR_TYPE_EMPLOYED_1: "$ARG0$ $TYPE$ is currently employed.\n" #Example##CHAR_DETECT## French Advisor is currently employed
+ ADVISOR_TYPE_EMPLOYED_2: "$ARG0$ $ARG1$ $TYPE$ is currently employed.\n" #Example##CHAR_DETECT## Protestant English Statesman is currently employed
+ ADVISOR_TYPE_EMPLOYED_3: "$ARG0$ $ARG1$ $ARG2$ $TYPE$ is currently employed.\n" #Example##CHAR_DETECT## Protestant English male Statesman is currently employed
  ADD_SPY_NETWORK_IN: "Add size $VAL|+$ to the Spy Network in $TARGET$.\n"
  ADD_SPY_NETWORK_FROM: "$TARGET$ Adds size $VAL|-$ to their Spy Network.\n"
  HAVE_SPY_NETWORK_IN: "Have a Spy Network of at least size $VAL$ in $TARGET$.\n"
@@ -533,7 +533,7 @@
  ISOLATIONISM_LESS_THAN: "Isolationism level lower than $VALUE|Y$.\n"
  INCIDENT_VARIABLE_VALUE: "Incident $INCIDENTNAME|Y$ value is at least $VALUE|Y$\n"
  INCIDENT_VARIABLE_VALUE_NOT: "Incident $INCIDENTNAME|Y$ value is less than $VALUE|Y$\n"
- IS_INCIDENT_POTENTIAL: "Incident $INCIDENTNAME|Y$ is possible in the future for ##CHAR_RETICO##$COUNTRYNAME|Y$##CHAR_RETICO##.\n"
+ IS_INCIDENT_POTENTIAL: "Incident $INCIDENTNAME|Y$ is possible in the future for '$COUNTRYNAME|Y$'.\n"
  IS_INCIDENT_POTENTIAL_NOT: "Incident $INCIDENTNAME|Y$ is NOT possible in the future for $COUNTRYNAME|Y$.\n"
  IS_INCIDENT_ACTIVE: "Incident $INCIDENTNAME|Y$ is active for $COUNTRYNAME|Y$.\n"
  IS_INCIDENT_ACTIVE_NOT: "Incident $INCIDENTNAME|Y$ is NOT active for $COUNTRYNAME|Y$.\n"
@@ -584,8 +584,8 @@
  TRIG_SCHOOL_OPINION: "$FIRST$ has a $OPINION$ relationship or better with $SECOND$.\n"
  EFFECT_SET_SCHOOL_OPINION: "$FIRST$ relation with $SECOND$ will become $OPINION$."
  EFFECT_SET_RELIGIOUS_SCHOOL: "$COUNTRY$ will follow the doctrines of $SCHOOL$.\n($MODIFIER$)"
- HAS_ACTIVE_POLICY: "Has $NAME|Y$##CHAR_RETICO## as active Trading Policy in the $NODE|Y$ Node."
- HAS_NOT_ACTIVE_POLICY: "Does not have $NAME|Y$##CHAR_RETICO## as active Trading Policy in the $NODE|Y$ Node."
+ HAS_ACTIVE_POLICY: "Has $NAME|Y$ as active Trading Policy in the $NODE|Y$ Node."
+ HAS_NOT_ACTIVE_POLICY: "Does not have $NAME|Y$ as active Trading Policy in the $NODE|Y$ Node."
  HAS_ANY_ACTIVE_POLICY: "Has an active Trading Policy in the $NODE|Y$ Node."
  HAS_NOT_ANY_ACTIVE_POLICY: "Does not have an active Trading Policy in the $NODE|Y$ Node."
  has_river_estuary_tooltip: "Has a §YRiver Estuary§!."

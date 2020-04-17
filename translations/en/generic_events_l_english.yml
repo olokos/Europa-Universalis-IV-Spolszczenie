@@ -3336,7 +3336,7 @@
  EVTDESC9461: "The settlement policy we have enacted in this province seems to have been met with success. With the province safely within our cultural sphere, we can now end the policy."
  EVTOPTA9461: "Excellent!"
  EVTNAME9462: "Scheming Bureaucracy"
- EVTDESC9462: "Seizing power? Certainly not. This is simply a normal assumption of the executive office, as laid out in form 32B, on the administration of the Kingdom, whitepaper 48##CHAR_DETECT##53-D, on the transfer of power under certain circumstances, as modified by protective clauses 3, 8 and 12b, law 48-9 and edict 3W-4. What is there not to understand? Your majesty has signed all of them."
+ EVTDESC9462: "Seizing power? Certainly not. This is simply a normal assumption of the executive office, as laid out in form 32B, on the administration of the Kingdom, whitepaper 48:3-D, on the transfer of power under certain circumstances, as modified by protective clauses 3, 8 and 12b, law 48-9 and edict 3W-4. What is there not to understand? Your majesty has signed all of them."
  EVTOPTA9462: "Kill them. All."
  EVTOPTB9462: "Well... yes... Yes this does seem to be all in good order."
  EVTNAME9463: "The $DYNASTY$s"

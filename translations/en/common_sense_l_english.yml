@@ -174,6 +174,7 @@
  opinion_not_erased_rival_pope: "Did not erase the rival's Pope's decisions"
  opinion_not_erased_pope: "Did not erase our former Pope's desicions"
  opinion_cardinal_nephew: "Cardinal Nephew"
+ # Devotion Events
  devotion_events.1.t: "General Hospital"
  devotion_events.1.d: "A suggestion has been put forward to set up a general hospital, to create a place where the needy would be welcomed and assisted. The public health is very important, and to offer a free midwifery course and some establishments to combat disease would increase the well-being of everyone."
  devotion_events.1.a: "If this should improve the public health, then what are we waiting for? Do it!"
@@ -269,6 +270,7 @@
  devotion_events.26.t: "The Influential Reformer"
  devotion_events.26.d: "A no-nonsense [Root.Heir.GetWomanMan], well-versed in the art of rhetoric, the next ruler [Root.Heir.GetName] is already using [Root.Heir.GetHerHis] powers for good, spreading [Root.Heir.GetHerHis] ideas to any who will listen - members of the high society are eager to prove their intellect to [Root.Heir.GetHerHim], while others are simply fascinated by the handsome [Root.Heir.GetWomanMan]. Regardless of why, there is clearly something special about [Root.Heir.GetName], as even folks usually completely uninterested in politics find themselves taking part of the discussion."
  devotion_events.26.a: "[Root.Heir.GetSheHeCap] might be just what [Root.Country.GetName] needs."
+ # Christian Theocracies
  devotion_events.100.t: "Conflict between City and [Root.GovernmentName]"
  devotion_events.100.d: "The long rivalry between the [Root.GovernmentName] and one of our cities has damaged relations between us for many years. The city is seeking freedom from the authority of [Root.Monarch.GetTitle] [Root.Monarch.GetName], and has been unwilling to shelter our [Root.Monarch.GetTitle]s during times of unrest and war."
  devotion_events.100.a: "Sooner or later they will come to their senses."
@@ -322,6 +324,7 @@
  devotion_events.119.b: "Deny it fervently."
  dev_confiscated_reformed_church: "Confiscated Reformed Church"
  desc_dev_confiscated_reformed_church: "The confiscation of a Reformed church by an abbot has greatly upset the peasants and the burghers even though it has been returned."
+ # Muslim Theocracies
  devotion_events.200.t: "The Local Imam Khatib"
  devotion_events.200.d: "[Root.Heir.GetName] was the leader of prayers in the masjid and preacher at the congregational prayer on Friday before [Root.Heir.GetSheHe] was chosen to rule [Root.Country.GetName] after [Root.Monarch.GetTitle] [Root.Monarch.GetName]. The local community who had elected [Root.Heir.GetHerHim] as Imam Khatib will be sad to see [Root.Heir.GetName] leave, for few others are as learned and as virtuous as [Root.Heir.GetHerHim] in instructing the congregation in the basics of Islam. When [Root.Heir.GetSheHe] leaves, religious questions will now have to be asked to someone inferior to [Root.Heir.GetName], but what they will lose, we will gain."
  devotion_events.200.a: "It was wise of us to select [Root.Heir.GetName] as our next [Root.Monarch.GetTitle]."

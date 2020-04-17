@@ -241,6 +241,7 @@
  mission_already_completed: "You have already completed this mission"
  HEADER_MISSIONS: "Missions"
  HEADER_DECISIONS: "Decisions and Policies"
+ #Start New Missions
  secure_the_imperial_crown_title: "Secure Electors"
  secure_the_imperial_crown_desc: "Ever since Rudolph, Count of Habsburg, was crowned Holy Roman Emperor and maneuvered his family into the Duchy of Austria, it has been the goal of all its Dukes to become Emperor. We must do what we can to ensure that the Empire has the stability it needs, an Austrian Emperor."
  subjugate_bohemia_title: "Control Bohemia"

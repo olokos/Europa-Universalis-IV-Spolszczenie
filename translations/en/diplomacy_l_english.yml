@@ -321,7 +321,7 @@
  JUSTIFY_TRADE_CONFLICT_SELECT_DESC: "Justify Trade Conflict will reduce the size of our $ADJ|Y$ Spy Network by $COST|R$ and give us a Trade Conflict Casus Belli."
  FABRICATE_CLAIM_SELECT_DESC: "Fabricate Claim will reduce the size of our $ADJ|Y$ Spy Network by $COST|R$ and give us a claim on §Y$PROV$§W. The claim will last for $YEARS|Y$ years."
  FABRICATE_CLAIM_FOR_VASSAL_SELECT_DESC: "Fabricate Claim will reduce the size of our $ADJ|Y$ Spy Network by $COST|R$ and give $SUBJECT|Y$ a claim on §Y$PROV$§W. The claim will last for $YEARS|Y$ years."
- DIP_DISCOVERY_2: "Risk of discovery per month §Y$VAL$%§W"
+ DIP_DISCOVERY_2: "Risk of discovery per month ##CHAR_DETECT## §Y$VAL$%§W"
  DIP_ENVOY_TIME_PROGRESS: "Progress##CHAR_DETECT## §Y$VAL$%§W"
  MODIFIER_FABRICATE_CLAIMS_TIME: "Cost to fabricate claims"
  MODIFIER_JUSTIFY_TRADE_CONFLICT_TIME: "Cost to justify trade conflict"

@@ -1,4 +1,5 @@
 ﻿l_english:
+ #Personality Options to existing events##CHAR_DETECT##
  personality_options.710.a: "Strike down any who would oppose our bailiff."
  personality_options.711.a: "We must learn to live and let live."
  personality_options.714.a: "Attempt to combine the best aspects of both schools."
@@ -136,6 +137,7 @@
  desc_excellent_diplomacy_modifier: "We are enjoying the fruits of an excellent diplomatic reputation."
  indulgent_feast: "Ruler Invited to Opulent Feast"
  opinion_more_eased_tension: "Highly Eased Tensions"
+ #Personality Events##CHAR_DETECT##
  personality_events.1.t: "The many Interests of [Root.Monarch.GetName]"
  personality_events.1.d: "Our [Root.Monarch.GetTitle] has grown increasingly interested with the higher intellectual pursuits and can spend days talking to the learned men of our court. [Root.Monarch.GetSheHeCap] has started inviting scholars from near and far to help [Root.Monarch.GetHerHim] better understand how the world and the people in it functions.\nThe way things are developing [Root.Monarch.GetName] [Root.Monarch.GetHerselfHimself] could probably become an authority in [Root.Monarch.GetHerHis] own right if [Root.Monarch.GetSheHe] could spend enough time and resources on the areas of [Root.Monarch.GetHerHis] choice."
  personality_events.1.a: "We must strive to understand the physical world around us."
@@ -460,7 +462,10 @@
  personality_events.58.a.tooltip: "§Y[Root.Heir.GetName]§! is made general."
  personality_events.58.b: "We cannot risk the life of our [Root.Monarch.GetTitle]'s heir."
  personality_events.58.b.tooltip: "§Y[Root.Heir.GetName]§! is not made general."
+
  NO_LOCATION: "their home"
+
+ #Death Reasons
  DEATH_IN_BATTLE: "[Root.Monarch.GetSheHeCap] died while leading our troops at $NAME$."
  DEATH_IN_SIEGE: "[Root.Monarch.GetSheHeCap] died while leading the siege of $NAME$."
  DEATH_WHILE_MARCHING: "[Root.Monarch.GetSheHeCap] died while marching an army through $NAME$."
@@ -476,6 +481,7 @@
  DEATH_RANDOM_7: "[Root.Monarch.GetSheHeCap] was the victim of a seemingly unlikely hunting accident."
  DEATH_RANDOM_8: "[Root.Monarch.GetSheHeCap] died from a heart failure."
  DEATH_RANDOM_9: "[Root.Monarch.GetSheHeCap] died from dysentery."
+ #Generals/Admirals##CHAR_DETECT##
  leader_death_reason_accident: "[GetSheHeCap] died in an accident while leading [GetHerHis] troops during an exercise."
  leader_death_reason_age: "While [GetSheHe] never flinched in the face of danger it was old age that eventually got to [GetHerHim]."
  leader_death_reason_disease: "[GetSheHeCap] died from an illness contracted in the field."
@@ -488,6 +494,7 @@
  leader_death_reason_land_idle: "[GetSheHeCap] died in the army camp in $PROVINCE$."
  leader_death_reason_event_default: "[GetSheHeCap] died for mysterious reasons in $PROVINCE$."
  leader_death_reason_drilling: "[GetSheHeCap] died in an accident during a drilling session.\nThe drilling has now stopped."
+ #Obituaries
  just_personality_die_desc: "Our realm will miss [Root.Monarch.GetHerHis] fair and impartial rulings."
  righteous_personality_die_desc: "Our people mourn the passing of the most virtuous [Root.Monarch.GetTitle] in our lifetime."
  kind_hearted_personality_die_desc: "Our people remember [Root.Monarch.GetHerHim] as a kind-hearted and loving ruler."
@@ -533,6 +540,7 @@
  obsessive_perfectionist_personality_die_desc: "[Root.Monarch.GetHerHisCap] constant meddling in every infrastructure project has left our country with a long list of expenses that we will not miss."
  malevolent_personality_die_desc: "Our subjects can rest easier now knowing that [Root.Monarch.GetHerHis] reign of malevolent terror is over."
  conqueror_personality_die_desc: "Our enemies will surely be relieved at [Root.Monarch.GetHerHis] demise."
+ #Obituaries for Generals/Admirals##CHAR_DETECT##
  no_personality_die_desc: "[GetSheHeCap] died too soon without being able to accomplish much of note."
  glory_seeker_personality_die_desc: "[GetHerHisCap] valiant attacks will be missed by our troops."
  born_to_the_saddle_personality_die_desc: "[GetHerHisCap] cavalry troopers mourn [GetHerHim] as one of their own."
@@ -556,6 +564,7 @@
  naval_gunner_personality_die_desc: "[GetHerHisCap] constant drill of our gunnery crews greatly increased our sea power during [GetHerHis] lifetime."
  accomplished_sailor_personality_die_desc: "[GetHerHisCap] great appreciation for the art of sailing in general was revered by [GetHerHis] men."
  level_headed_personality_die_desc: "[GetHerHisCap] ability to keep cool even in the face of grave danger will be greatly missed."
+ #Ruler Personalities##CHAR_DETECT##
  just_personality: "Just"
  righteous_personality: "Righteous"
  kind_hearted_personality: "Kind-Hearted"
@@ -601,6 +610,7 @@
  loose_lips_personality: "Loose Lips"
  obsessive_perfectionist_personality: "Obsessive Perfectionist"
  malevolent_personality: "Malevolent"
+ #Personality Modifier Descriptions - Note##CHAR_DETECT## don't refer directly to the sex or title of the monarch.
  desc_conqueror_personality: "This ruler is a conqueror. We will be able to incorporate new lands into our realm more efficiently under this regime."
  desc_tolerant_personality: "This ruler is Tolerant. Religious minorities will thrive during our regime."
  desc_just_personality: "This ruler is Just. Due to a keen understanding of the many laws and customs of his realm our subjects trust us to rule rightfully and justly."
@@ -646,6 +656,7 @@
  desc_loose_lips_personality: "Often personally responsible for information breaches and leaks this ruler is generally too trusting and easily fooled. Unfortunately the sum of this is that our ruler does more harm than good to our counterespionage efforts."
  desc_obsessive_perfectionist_personality: "This ruler is an Obsessive Perfectionist. A keen interest in detail and minutiae is not always coupled with an equal talent for such things. Constantly causing interruptions and delays our ruler is doing a lot more harm than good when it comes to developing our internal infrastructure."
  desc_malevolent_personality: "This ruler is seen as Malevolent. The actions of your ruler are often seen as motivated by malice or hostile intent. As a result any subject countries under our control are quick to anger and fear any action we take."
+ #Leaders (Generals and Admirals)
  glory_seeker_personality: "Glory Seeker"
  desc_glory_seeker_personality: "This General is a glory seeker. Troops lead by this general will acquire more Prestige and Army Tradition than they otherwise would as they are always deployed where they will make the most visible difference."
  born_to_the_saddle_personality: "Born to the Saddle"

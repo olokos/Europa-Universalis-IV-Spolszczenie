@@ -1135,6 +1135,7 @@
  desc_merchant_council_of_sakai: "We have given the Merchants of this city the right to rule themselves, enabling the city and its influence to grow under our protection."
  azuchi_castle: "Azuchi Castle"
  desc_azuchi_castle: "This province is home to the impressive Azuchi castle. Built to serve as a model for the entire realm with its high stone walls and firearms-oriented design."
+ #New Missions
  thriving_arms_industry: "Thriving Arms Industry"
  desc_thriving_arms_industry: "Our efforts to strengthen the army has resulted in a big upswing for our domestic arms producers."
  growth_of_capital: "Growth of Capital"
@@ -1165,6 +1166,7 @@
  desc_proto_industrialization: "Rapid expansion of more modern means of production and entrepreneurial activities have stimulated an overall increase in productivity and economic prosperity in our country."
  imperial_ambition: "Imperial Ambition"
  desc_imperial_ambition: "Our growing state is increasingly being recognized as one of the true empires of this world and in some ways this has made conquered peoples more willing to accept our rule. Life under the umbrella of a true hegemon like us is not necessarily worse than it would have been under the local power that they once knew."
+ #Austrian Mission Rewards##CHAR_DETECT##
  austrian_silesia: "Austrian Silesia"
  desc_austrian_silesia: "The contentious lands of Silesia often sought protection from our neighbor, Bohemia. With Bohemia out of the way, they shall prosper under our rule."
  succesful_bid_for_imperial_crown: "Successful bid for the Imperial Crown"
@@ -1193,6 +1195,7 @@
  desc_tur_barbary_pirates: "Our naval bases in the Maghreb have allowed us to support a great number of corsairs and pirates that are a constant nuisance to other Mediterranean powers."
  conquest_of_the_levant: "Conquest of the Levant"
  desc_conquest_of_the_levant: "By conquering the greater Syrian region we have secured the holy city of Jerusalem along with the major trade routes in northern Syria. This is stimulating our economy greatly and allows us to control the flow of Iranian silk from the east."
+ # Russian Mission Rewards
  russian_integration: "Russian Integration"
  desc_russian_integration: "Consolidating all of the Russian realms into a single empire is a monumental task, but one which is aided greatly by our capable administration."
  ruthenian_integration: "Ruthenian Integration"
@@ -1207,6 +1210,7 @@
  desc_russian_pacific_port: "We have a port on the Pacific Ocean that can help us construct a new fleet."
  siberian_fur_production: "Siberian Fur Production"
  desc_siberian_fur_production: "Our trappers are exploiting new sources of fur throughout Siberia"
+ # Polish Mission Rewards
  integrating_mazovia: "Integrating Mazovia"
  desc_integrating_mazovia: "We should make the integration of the Duchy of Mazovia a priority for our nation. Our diplomats are working to make this process as efficient as possible."
  integration_of_lithuania: "The Union of Poland and Lithuania"
@@ -1215,6 +1219,7 @@
  desc_teutons_pacified: "At last the upstart Teutonic Knights have fully accepted Polish dominion."
  silesia_conquered: "Silesia Conquered"
  desc_silesia_conquered: "The realm of Silesia is now ours. Once ruled by the Piast dynasty, it once again falls under Polish dominion."
+ #Byzantines
  growth_of_the_orthodox_church: "Growth of the Orthodox Church"
  desc_growth_of_the_orthodox_church: "The strengthening of the Orthodox church in lands reclaimed from the Ottomans have led to large swing towards Greek Orthodoxy among the populations under our control."
  roman_italy: "Roman Italy"
@@ -1236,19 +1241,23 @@
  desc_chastening_of_venice: "The pillaging and destruction suffered by the city of Venice as it came under Byzantine control has left a lasting mark upon it."
  byzantine_treasures_returned: "Treasures Returned"
  desc_byzantine_treasures_returned: "The return of treasures once looted by the crusaders is a great boon to the growth of our Imperial capital."
+ # Swedish mission rewards
  consolidated_sweden: "Consolidated Sweden"
  desc_consolidated_sweden: "The Swedish state has achieved its natural southern borders."
  norway_subjugated_swe: "The Subjugation of Norway"
  desc_norway_subjugated_swe: "Norway has been seized by the Swedish state, wrested from the grasp of the Danish kings."
  swe_pommerania_conquered: "The Conquest of Pomerania"
  desc_swe_pommerania_conquered: "Sweden now has a foothold on the southern Baltic. From here it may be possible to expand further into Germany."
+ # Danish mission rewards
  denmark_norway_united: "Union of Denmark-Norway"
  desc_denmark_norway_united: "Denmark and Norway are now inseparable nations, ruled by one king and administered by one government."
  united_scandinavia: "Scandinavia United"
  desc_united_scandinavia: "The three crowns of Denmark, Norway, and Sweden are now one. All Scandinavia is united under our rule."
  MODIFIER_OWN_COAST_NAVAL_COMBAT_BONUS: "Naval Combat Bonus off owned coast"
+ # Prussian mission rewards
  prussian_rhine: "The Prussian Rhine"
  desc_prussian_rhine: "Prussia's conquest of the northern Rhineland confers a sort of legitimacy for further expansion. While our claims are no stronger in themselves, other nations will see our growth as simply expected from here on."
+ # Portuguese mission rewards
  buffer_zone_commerce: "Buffer Zone Economy"
  desc_buffer_zone_commerce: "Despite the wariness of the locals, newfound access to the European markets results in increased prosperity for all parties."
  the_unknown_frontier: "Unknown Frontier"
@@ -1273,6 +1282,7 @@
  desc_horn_africa_ambition: "Our dominance of coastal islands around Africa gives us a significant tactical advantage."
  por_makeshift_defenses: "Western Fortification"
  desc_por_makeshift_defenses: "The occupation of this province by western forces has had a lasting impact on its geography."
+ # English mission rewards
  eng_irish_revolts: "The Irish Choler"
  desc_eng_irish_revolts: "The inhabitants of Ireland may resent their English overlords, but they certainly know how to work hard."
  eng_culture_mission: "Cultural Acceptance"
@@ -1291,6 +1301,7 @@
  desc_bordeaux_ambition: "The coast of Brittany is pockmarked with small natural caves, harbors, and places to hide ships and their cargo. There is no better place to avoid tariffs!"
  eng_rb_trade_value_mod: "Trade Winds"
  desc_eng_rb_trade_value_mod: "Our captains know well the value of knowledge. Charts of values, inflation, prices and durations are their stock and trade; a small saving can make a fortune when ruthlessly exploited."
+ # English Rule Britannia rewards
  eng_rb_gibraltar_mod: "Rock of Gibraltar"
  desc_eng_rb_gibraltar_mod: "The territory of Gibraltar makes a splendid Naval resupply base for our Mediterranean operations."
  eng_rb_faro_coast: "Island Hopping"
@@ -1327,6 +1338,7 @@
  desc_eng_rb_imperial_ban_mod: "It is not enough to simply be an Emperor, one must wield the very authority of an Emperor"
  gbr_inland_trade: "British East India Company"
  desc_gbr_inland_trade: "By delegating administration of the day-to-day tasks in these areas to the British East India Company, their innate knowledge of local custom and exploitable resources will keep things ticking along perfectly."
+ # Scottish mission rewards
  college_of_justice: "College of Justice"
  desc_college_of_justice: "A centralized justice system administers the law to all Scots."
  sco_the_education_acts: "Education Acts"
@@ -1353,6 +1365,7 @@
  desc_highlands_consolidated: "The Highland clans are now firmly obedient to the crown. They will raise armies to fight for our nation."
  edinburgh_london_modifier: "London to Edinburgh"
  desc_edinburgh_london_modifier: "Many of London's old institutions are being relocated to Edinburgh. Our capital is growing rapidly and will soon be counted among the world's greatest cities."
+ # Spanish mission rewards
  spa_hispaniola_discovered: "Hispaniola Awaits"
  desc_spa_hispaniola_discovered: "There may yet be truth to the tale the India lies within our reach. This land we have discovered, however, is truly wondrous to behold. Perhaps there are those amongst our populace who would venture to make this their home?"
  spa_rb_morale: "Ready for War"
@@ -1367,6 +1380,7 @@
  desc_spa_rb_italian_ambition_mod: "We now have ample ports in which to base our ever-growing Mediterranean fleet. We can also employ the skills of the Neapolitan master ship-builders, who now work for us."
  spa_rb_overseas_trade: "Intendant System"
  desc_spa_rb_overseas_trade: "The Intendant system promotes excellent revenue from the colonies."
+ # Dutch mission rewards
  ned_brazil_mod: "Colonial Mastery"
  desc_ned_brazil_mod: "The establishment of the East and West Trading Companies has revitalised the Dutch sphere of influence. Support for the colonies has never been stronger."
  ned_ceylon_mod: "Dutch Maritime Islands"
@@ -1377,6 +1391,7 @@
  desc_ned_zeelandia_mod: "A foreboding redoubt of hewn stone and Dutch architecture, Fort Zeelandia stands proud over the isle of Formosa."
  ned_lowlands_victory: "Onwards to Victory"
  desc_ned_lowlands_victory: "The repatriation of our brethren has bolstered the morale of our armies considerably."
+ # Irish mission rewards
  trinity_college: "Trinity College Dublin"
  desc_trinity_college: "The foundation of Ireland's first university is opening up new avenues in scholarly learning."
  irish_new_world: "Irish New World"
@@ -1389,6 +1404,7 @@
  desc_ire_recruiting_from_clans: "Many clans of the Highlands and Western Isles trace their root back to Ireland. They are being brought into the fold."
  irish_potatoes: "Potato Imports"
  desc_irish_potatoes: "The import of potatoes is a great boon for Ireland. Easy to plant and grow, a family can easily subsist on these tubers throughout the year."
+ # French mission rewards
  fra_to_india: "To India!"
  desc_fra_to_india: "Having discovered a sea route to India, we should make haste to those shores and establish a colony there."
  french_callais: "Calais Restored to France"
@@ -1397,32 +1413,40 @@
  desc_french_tariffs: "We have established colonies in the New World, and must ensure that they pay their dues to France."
  fra_into_germany: "Into Germany"
  desc_fra_into_germany: "The German Princes are right to fear French incursions into Germany. In time they will accept us as their rightful overlords."
+ # Omani mission rewards
  oma_buildforces_mod: "Military Readiness"
  desc_oma_buildforces_mod: "Our forces are ready, now is the time to strike!"
  oma_maritime_mod: "Maritime Ambitions"
  desc_oma_maritime_mod: "Now that we have reclaimed our coast, we can focus on the acquisition of wealth."
+ # Korean mission rewards
  three_koreas_mod: "Three Koreas Reunited"
  desc_three_koreas_mod: "The ancient era of the Three Kingdoms is long since past, but we have reunited their territory and restored Korea to its former glory."
+ # Orissan mission rewards
  ori_coastal_trade: "Coastal Monopoly"
  desc_ori_coastal_trade: "We now control many of the important shipping ports along the Indian coast. There are few to challenge our right to impose lucrative tariffs on visiting merchants."
  ori_diamonds_golconda: "Diamond Trade"
  desc_ori_diamonds_golconda: "We now own the famed Golconda diamond mines. It is surprising how much more receptive foreign diplomats can be when faced with such opulence."
+ # Persian Mission Rewards
  per_pearl_of_khorasan: "Pearl of Khorasan"
  desc_per_pearl_of_khorasan: "As one of the more important cities of Persian Khorasan, Herat is home to the governor of the region and the center of our operations in the East."
  per_tribal_warriors: "Tribal Recruitment"
  desc_per_tribal_warriors: "Having secured control of the old heartland of the Ilkhanate we have good access to the the tribal warriors that once served it and its successor states."
  per_pashtun_warriors: "Pashtun Recruitment"
  desc_per_pashtun_warriors: "The conquest of Afghanistan has opened up for the recruitment of the warriors of the Pashtun clans into our ranks. Expecting to be allowed to plunder the Indian plains many are eager to join our cause."
+ # Gujarati mission rewards
  solanki_fortress: "Renovate the Solanki Fortress"
  desc_solanki_fortress: "Built by the ancient Solanki Kings, and further built upon by countless overlords, the fortress at Champaner is widely known to be impregnable. We have proven that rumour false, so we must renovate and improve the walls."
+ # Timurid mission rewards
  tim_mountain_reconquest: "Mountain Conquest"
  desc_tim_mountain_reconquest: "Our troops have learned valuable lessons in the treacherous mountain terrain."
  tim_heartland_reconquest: "Heartland Conquest"
  desc_tim_heartland_reconquest: "A centralized administration will benefit us all."
  tim_steppe_reconquest: "Steppe Conquest"
  desc_tim_steppe_reconquest: "The cavalry charge is where our riders excel."
+ # Chinese mission rewards
  conquest_of_beijing: "Conquest of Beijing"
  desc_conquest_of_beijing: "Ming's capital has fallen to us. We must press onward into China!"
+ # Daimyo missions rewards
  improved_han: "Improved Han"
  desc_improved_han: "Farmers and merchants have regained trust in our currency."
  supported_kabuki: "Supporting Kabuki Plays"
@@ -1433,6 +1457,7 @@
  desc_strengthened_shinobi: "By setting up a well funded circle of Shinobi of our own we are protecting family, clan and Han."
  strengthened_bushido: "Strengthened Bushido"
  desc_strengthened_bushido: "The ways of our warriors are guided at all times by a sound philosophy of virtue and proper conduct."
+ # Mughal mission rewards
  mug_hindustan_mod: "Population Boom"
  desc_mug_hindustan_mod: "The densely populated region of Hindustan provides a wealth of recruits and seasoned soldiers for our armies."
  mug_gujarat_mod: "Coastal Trade"
@@ -1441,12 +1466,14 @@
  desc_mug_malwa_mod: "From the relative destruction caused by volcanic eruption, a surprisingly fertile area has developed."
  mug_south_bengal_mod: "Mughal Occupation"
  desc_mug_south_bengal_mod: "This fertile land is perfect for feeding a standing army."
+ # African mission rewards
  africa_slave_trade_mission: "Slave Trade Monopoly"
  desc_africa_slave_trade_mission: "Our merchants dominate the African slave trade, ensuring that the profits reach our nation rather than any other."
  african_abolitionists: "Abolitionism"
  desc_african_abolitionists: "We have not only abolished the brutal slave trade in our own nation, but ensured its abolition in all nations in the vicinity."
  wealth_of_africa_modifier: "Wealth of Africa"
  desc_wealth_of_africa_modifier: "The riches of Africa are being exploited to the fullest."
+ # Generic European mission rewards
  gen_eur_trade_node_mod: "World Renowned"
  desc_gen_eur_trade_node_mod: "Through skill, luck and ruthless exploitation, we have shepherded our investments until they eclipsed all other contenders."
  gen_eur_defender: "Armor of Righteousness"
@@ -1457,16 +1484,19 @@
  desc_gen_america_holding_mod: "With the establishment of our presence in the New World, there are thousands of willing participants in our colonial program."
  gen_indian_holding_mod: "Tea Clippers"
  desc_gen_indian_holding_mod: "The tall ships are a sight to behold, transporting tea and other luxury goods at an astounding pace, so as not to let them spoil. Our merchant fleet must be one of the finest in the world!"
+ # Generic HRE mission rewards
  gen_hre_diplomacy_mod: "Imperial Graces"
  desc_gen_hre_diplomacy_mod: "While we may not yet be seated on the holy throne, it is clear to all that we possess the regnal air of an Emperor."
  gen_hre_emperor_mod: "Imperator Romanorum"
  desc_gen_hre_emperor_mod: "In our right hand resides Justice, Truth and Equity."
  gen_hre_imperial_ban_mod: "Imperial Unity"
  desc_gen_hre_imperial_ban_mod: "All lands belonging to our princes have been restored. A glorious day for the Empire!"
+ # Asian mission rewards
  spice_trade_controlled: "Spice Trade Controlled"
  desc_spice_trade_controlled: "We control the spice trade, funnelling wealth into our own ports."
  silk_road_modifier: "Silk Road Control"
  desc_silk_road_modifier: "We have seized a large portion of the silk road."
+ # Burgundian mission rewards
  bur_diplo_mod: "Voice of Reason"
  desc_bur_diplo_mod: "The Bishop of Liege now speaks for us. Or he loses his tongue."
  bur_arles_mod: "Arelat Restoration"
@@ -1474,18 +1504,22 @@
  desc_bur_arles_mod: "Finally the Kingdom of the Arles has been broken from the grip of the Carolingian successor. Glory to Burgundy!"
  bur_channel_ambition: "Offshore Assets"
  desc_bur_channel_ambition: "Now that we possess the Frisian coast, our merchant fleet can set about making our presence known in the Channel."
+ # Arabia generic mission rewards
  ara_gen_goods_mod: "Doubletime"
  desc_ara_gen_goods_mod: "They say that success breeds further success!"
+ # Mamluk mission rewards
  yemeni_trade_modifier: "Yemeni Trade"
  desc_yemeni_trade_modifier: "We control trade in the Gulf of Aden, home of coffee and incense production."
  bedouins_pacified: "Bedouins Pacified"
  desc_bedouins_pacified: "The raiding Bedouins have been subjugated. This is a great relief to our people."
  beyliks_subjugated: "Turkish Beyliks Subjugated"
  desc_beyliks_subjugated: "The Beyliks of Anatolia once again kneel to the Sultan."
+ # Bohemian mission rewards
  boh_hussite_revolt: "Utraquist Resurgence"
  desc_boh_hussite_revolt: "One way or another, our handling of the Hussite rebellion has caused a great resurgence of the utraquist priesthood."
  boh_premysl_mod: "Lands of our Forefathers"
  desc_boh_premysl_mod: "Our court is most pleased with the reclamation of our noble lands. Not least because this gives them more opportunity for power..."
+ # AKK mission rewards
  white_sheep_ascendant: "White Sheep Ascendant"
  desc_white_sheep_ascendant: "The Black Sheep Turkomans are defeated. The White Sheep rises."
  akk_caucasus: "Conquest of the Caucasus"
@@ -1494,18 +1528,22 @@
  desc_akk_persia: "We have conquered Persia! Now we are truly a great empire in the eyes of all."
  akk_iraq: "Conquest of Baghdad"
  desc_akk_iraq: "Baghdad is not the center of religious learning it once was, but under our rule scholars are returning to the city."
+ # Hungarian mission rewards
  hun_moldavia_mod: "Front Line Preparations"
  desc_hun_moldavia_mod: "The looming tide of the Turks demands extra care in preparing fortresses, traps and ambushes."
  hun_constantinople: "Balkan Conquest"
  desc_hun_constantinople: "We have secured the Balkans against foreign invasion."
+ # Daimyo mission rewards
  divine_wind_modifier: "Divine Wind"
  desc_divine_wind_modifier: "A divine wind propels our ships to foreign shores, inviting us to conquest."
+ # Japanese mission rewards
  japanese_cot_dominated: "Japanese Trade"
  desc_japanese_cot_dominated: "We have dominated trade in the seas around our home islands."
  integrating_ainu: "Subjugating the Ainu"
  desc_integrating_ainu: "Hokkaido has great potential for the Japanese people, and the native Ainu are no longer an obstacle to our expansion."
  jap_three_mountains: "The Three Mountains"
  desc_jap_three_mountains: "Our conquest of Okinawa cements Japan as a true contender in the South China Sea."
+ # RB ENG events
  rb_eng_passage_spheres: "The Passage of the Spheres"
  desc_rb_eng_passage_spheres: "Our astronomers have learned valuable things about our place in the universe. Their findings have made astronomy and astrology much more accessible to the populace!"
  rb_eng_theory_warfare: "Theory of Warfare"
@@ -1516,6 +1554,7 @@
  desc_rb_eng_divine_common: "Commoners throughout the country are overjoyed to hear or read of the importance of their place in the Kingdom of God."
  rb_eng_national_economy: "Economic Studies"
  desc_rb_eng_national_economy: "Only those with financial expertise would understand the intricacies of this tome - nonetheless, the effects are making themselves known on our treasury."
+ # VIJ mission rewards
  vij_maratha_modifier: "Marathi Cavalry"
  desc_vij_maratha_modifier: "Our conquest of Maharashtra allows us to add the expertise of Marathi horsemanship to our own."
  east_africa_conquest: "East African Trade Dominance"
@@ -1539,6 +1578,7 @@
  desc_city_of_victory_modifier: "Our capital is the center of a great Indian empire, a shining monument to our victories."
  vij_africa_trade_modifier: "Indian Ocean Trade"
  desc_vij_africa_trade_modifier: "With trade in East Africa now under our control, the entire Indian Ocean is our oyster!"
+ # Delhi mission rewards
  dlh_textile_modifier: "Growth of the Textile Industry"
  desc_dlh_textile_modifier: "Our investments into textile manufactories have boosted production throughout the empire."
  dlh_bengal_modifier: "The Conquest of Bengal"
@@ -1555,6 +1595,7 @@
  desc_dlh_rajput_conquest_modifier: "The Rajputs have finally been incorporated into our realm, and with them comes their military expertise."
  dlh_deccan_conquest_modifier: "The Conquest of Deccan"
  desc_dlh_deccan_conquest_modifier: "All of the Deccan is now under our rule. We can now make use of the Arabian horses imported through the western coast."
+ # Orissa mission rewards
  ori_jagannath_cult_dh: "Jagannath"
  desc_ori_jagannath_cult_dh: "More than any other deity Jagannath is connected to the people of Orissa and more than any other deity this, the greatest avatar of Vishnu, is connected to our dynasty. Each Gajapati king is supported by Jagannath and his priests and the temple at Puri grows richer by the year due to royal patronage."
  ori_bahmanis_modifier: "The Conquest of the Deccan"
@@ -1565,6 +1606,7 @@
  desc_ori_vedic_education: "Our religious centers of learning promote the development of new and more nuanced theological and political ideas."
  ori_bengal_inland_modifier: "The Conquest of Bengal"
  desc_ori_bengal_inland_modifier: "Our conquest of inland Bengal inspires our armies to greater feats of bravery."
+ # TR Russian mission rewards
  rus_partition_poland_modifier: "The Partition of Poland"
  desc_rus_partition_poland_modifier: "The partition of Poland demonstrates just how easily we can integrate new provinces into our administration, given the proper impetus."
  loyal_streltsy: "Loyalty Streltsy"
@@ -1579,6 +1621,7 @@
  desc_third_rome_modifier: "This city is the Third Rome, most glorious in all the world."
  rus_reactionary_zeal: "Reactionary Zeal"
  desc_rus_reactionary_zeal: "The revolutionaries have been crushed! Nothing can stand in the way of the Tsar's authority."
+ # TR Novgorod mission rewards
  nov_defeated_muscovy: "Muscovy Defeated"
  desc_nov_defeated_muscovy: "We have defeated our Muscovite enemies. Our armies are depleted, but reinforcements and experience will make them stronger."
  nov_tver_conquest: "The Conquest of Tver"
@@ -1602,6 +1645,7 @@
  baltic_ambition_key: "Baltic Ambition"
  nov_lubeck_conquest: "Hanseatic Conquest"
  desc_nov_lubeck_conquest: "We have seized the heart of the Hanseatic trading network. Wealth flows into our nation."
+ # TR Russian minors rewards
  tr_united_russia: "United Russia"
  desc_tr_united_russia: "Russia is united under our rule! We restlessly seek to expand our borders even further."
  tr_ended_tatar_yoke: "Tatar Yoke Dissolved"
@@ -1654,6 +1698,7 @@
  MODIFIER_FREE_ADM_POLICY: "Administrative Free Policies"
  MODIFIER_FREE_DIP_POLICY: "Diplomatic Free Policies"
  MODIFIER_FREE_MIL_POLICY: "Military Free Policies"
+ # Bengali mission rewards
  bng_arabian_sea_trade: "Arabian Sea Trade"
  desc_bng_arabian_sea_trade: "We have carved our way through northern India all the way to the Arabian Sea. We are establishing trade connections so that this conquest benefits our economy."
  bng_defied_china: "In Defiance of the Dragon"
@@ -1676,6 +1721,7 @@
  desc_bng_conquest_burma: "We are extending our administrative reach over Burma, doing away with local traditions of decentralized rule."
  tiger_triumphant: "The Tiger Triumphant"
  desc_tiger_triumphant: "Tyger Tyger, burning bright,\n\nIn the forests of the night;\n\nWhat immortal hand or eye,\n\nCould frame thy fearful symmetry?"
+ # Malwa mission rewards
  mlw_gujarat_modifier: "Gujarati Shipbuilding"
  desc_mlw_gujarat_modifier: "We have commandeered Gujarati shipbuilders so that we can build own own trading fleets."
  mlw_conquest_delhi: "The Conquest of the Doab"
@@ -1692,6 +1738,7 @@
  desc_mlw_fortified: "Having restored the fortification of Mandu, we can look beyond the capital to the improvement of defenses throughout the realm."
  mlw_education: "Educated Court"
  desc_mlw_education: "All courtiers, both men and women, must have an education."
+ #Gujarati Rewards
  gujarati_naval_dominance_modifier: "Gujarati Naval Dominance"
  desc_gujarati_naval_dominance_modifier: "Our naval dominance allows us to control all trade in western India."
  united_saurashtra: "United Saurashtra"
@@ -1741,6 +1788,7 @@
  mer_plains_of_punjab: "Plains of Punjab"
  desc_mer_plains_of_punjab: "The conquest of Punjab has added the Upper Indus to our realm. Unlike our homeland, Punjab may be hot but it is still fertile. The Punjabi fields will feed our armies just as well as the Bhils, Jats and of course Rajputs, will fill out our ranks."
  mer_sindh_conquest: "Conquest of Sindh"
+ # Hindustan/Bharat mission rewards
  hin_riches_modifier: "Riches of India"
  desc_hin_riches_modifier: "Our near-monopolies on diamonds, spices, and textiles bring great wealth to our nation."
  industrialized_bengal: "Industralization in Bengal"
@@ -1755,6 +1803,7 @@
  desc_peacock_throne: "Our monarch sits atop the majestic Peacock Throne, adorned with rubies, garnets, diamonds, pearls, and emeralds."
  hindu_ganges: "Bathing in the Ganges"
  desc_hindu_ganges: "The holy river Ganges brings spiritual purity to our realm."
+ # Taungu mission rewards
  exaggerated_military_statistics: "Exaggerated Military Statistics"
  desc_exaggerated_military_statistics: "We may not quite have seized one million elephants during our conquest of the Lao, but propagating such statistics makes recruitment easier."
  million_rice_fields: "A Million Rice Fields"
@@ -2263,6 +2312,7 @@
  desc_adu_trade_company_founded: "In order to defend our burgeoning shipping lines, great care must be paid to our navies."
  smugglers_struggling: "Smugglers Struggling"
  desc_smugglers_struggling: "Our smugglers are having difficulties selling their wares in legitimate markets."
+ # Pirate mission modifiers
  pirate_trade_practices: "Successful Pirate 'Trade'"
  pirate_trade_ports: "Pirate Monopoly"
  pirate_trade_in_gold: "Pirate Gold"

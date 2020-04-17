@@ -1248,6 +1248,7 @@
  PROV_ADJ1247: "Corsican"
  PROV_ADJ1248: "Maldivian"
  PROV_ADJ1249: "Yolan"
+ # SEAS AND LAKES
  PROV_ADJ1250: "Vänern"
  PROV_ADJ1251: "Vättern"
  PROV_ADJ1252: "Gulf of Bothnia"
@@ -1881,6 +1882,7 @@
  PROV_ADJ1880: "Sundgauer"
  PROV_ADJ1881: "St. Martiner"
  PROV_ADJ1882: "Annaban"
+ # LAKES AND SEAS
  PROV_ADJ1883: "Western Finnish Lakes"
  PROV_ADJ1884: "East Finnish Lakes"
  PROV_ADJ1885: "Central Finnish Lakes"
@@ -1899,7 +1901,9 @@
  PROV_ADJ1898: "Tonlé Sap Lake"
  PROV_ADJ1899: "Tana Lake"
  PROV_ADJ1900: "Lake Turkana"
+ # PROVINCE
  PROV_ADJ1901: "Mpanguan"
+ # LAKES AND SEAS
  PROV_ADJ1902: "Lake Poopo"
  PROV_ADJ1903: "Lake Champlain"
  PROV_ADJ1904: "Lake Saint-Jean"
@@ -1928,9 +1932,12 @@
  PROV_ADJ1927: "Eastern Baltic Sea"
  PROV_ADJ1928: "Western Sea of Åland"
  PROV_ADJ1929: "Western Norwegian Sea"
+ # PROVINCES
  PROV_ADJ1930: "Ålander"
  PROV_ADJ1931: "East Frisian"
+ # SEAS AND LAKES
  PROV_ADJ1932: "Gulf of Satalia"
+ # PROVINCES
  PROV_ADJ1933: "Barian"
  PROV_ADJ1934: "Lucanian"
  PROV_ADJ1935: "Semigallian"
@@ -1973,12 +1980,16 @@
  PROV_ADJ1972: "Udmurtian"
  PROV_ADJ1973: "Urgenchian"
  PROV_ADJ1974: "Yedishkulian"
+ # LAKES AND SEAS
  PROV_ADJ1975: "North Sea"
  PROV_ADJ1976: "Dead Sea"
  PROV_ADJ1977: "Lake Malar"
+ # PROVINCES
  PROV_ADJ1978: "Shetlander"
  PROV_ADJ1979: "Faroese"
+ # PROVINCES
  PROV_ADJ1980: "Sea of Japan"
+ # LAKES AND SEAS
  PROV_ADJ1981: "Bornholmian"
  PROV_ADJ1982: "Blekinger"
  PROV_ADJ1983: "Lollander"

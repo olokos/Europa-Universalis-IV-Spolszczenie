@@ -122,7 +122,7 @@
  NEWSLETTER_DESCRIPTION: "I wish to receive news and offers from Paradox Interactive"
  LOGIN_REQUIRED: "Login required"
  LOGIN: "Login"
- CREATEACCOUNT_CONDITIONS_TEXT: "By clicking ##CHAR_RETICO##Create Account##CHAR_RETICO## you hereby confirm that you have read, understood, and accepted our Terms of use and Privacy Policy."
+ CREATEACCOUNT_CONDITIONS_TEXT: "By clicking 'Create Account' you hereby confirm that you have read, understood, and accepted our Terms of use and Privacy Policy."
  LINK_ACCOUNTS_TITLE: "Link accounts"
  LINK_ACCOUNTS: "Hi! We're noticing that you're playing from Steam. If you link your Steam account to your Paradox Account you'll get automatically logged in to your Paradox account whenever you start the game."
  LINK_ACCOUNTS_DONT_REMIND: "Don't remind me again\n(you can still link accounts on the Paradox web site)"

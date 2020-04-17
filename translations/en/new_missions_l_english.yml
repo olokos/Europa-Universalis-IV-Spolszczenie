@@ -1808,6 +1808,7 @@
  nav_aragonese_inheritance_desc: "With the death of King Alfons, the crowns of Navarra and Aragon are set to be united under one monarch. We must ensure that Navarra is the senior partner in this union, or else we must seize the Crown of Aragon by force."
  nav_dominate_espainiako_title: "Dominate Espainia"
  nav_dominate_espainiako_desc: "Navarra has been a runt among the great nations of Iberia for too long. It is time for the Kingdom of Pamplona to dominate the entire Peninsula and establish a Basque empire!"
+ ###Granadan and Andalusian Missions
  gra_refugees_flock_to_us_title: "The Plight of our Kin"
  gra_refugees_flock_to_us_desc: "For many hundreds of years, the infidel reconquista has persecuted our brethren in Iberia. Where once the benevolent caliphate brought peace to the region, now our people flock to us in droves. It becomes us to prepare a home for them, that they might find the welcoming embrace of the faithful."
  gra_palace_of_alhambra_title: "Qalat Al-Hamra"
@@ -1875,6 +1876,7 @@
  adu_monopolize_africa_desc: "The wealth that appears to exist in these newfound lands is truly astounding. We must ensure that it is kept flowing to our ports, else we find ourselves starved of income."
  adu_persian_conquest_title: "The Heartland"
  adu_persian_conquest_desc: "Persia has seen millenia of war, conquest, and empire. This land belonged to our ancestors, and by extension, belongs to us. Many holy cities lie in this land - claim them in our name."
+ # Pirate missions
  pirate_trade_practices_title: "Pirate Trade Practices"
  pirate_trade_practices_desc: "You can get more with a kind word and a cutlass than with just a kind word."
  pirate_trade_ports_title: "Free Trading Ports"
@@ -1910,6 +1912,6 @@
  pirate_a_famous_pirate_title: "Renowned Buccaneer"
  pirate_a_famous_pirate_desc: "A true pirate leader will inspire our buccaneers to great deeds, and make sure that tribute is paid promptly."
  pirate_the_pirate_round_title: "The Pirate Round"
- pirate_the_pirate_round_desc: "Raiding the rich Indian coast will bring us much booty. Some will have to be shared with the pirates of Madagascar however, if we wish to use their ports to resupply. Unless, unless..."
+ pirate_the_pirate_round_desc: "Raiding the rich Indian coast will bring us much booty. Some will have to be shared with the pirates of Madagascar however, if we wish to use their ports to resupply. Unless, unless..." # some people will get this, some won't
  all_gold_provinces_around_the_caribbean: "By completing this mission we will gain permanent claims on all gold provinces in and around the Caribbean"
  a_mighty_pirate_leader: "§Y[Root.GetName]§! has a famous pirate leader as ruler"
