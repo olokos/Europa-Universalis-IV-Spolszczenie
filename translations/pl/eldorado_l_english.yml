@@ -197,6 +197,7 @@
  seven_cities_events.223.t: ""
  seven_cities_events.223.d: ""
  seven_cities_events.223.a: ""
+ # EVENT MODIFIERS
  sce_search_eldorado: ""
  desc_sce_search_eldorado: ""
  el_dorado_mod: ""
@@ -231,8 +232,11 @@
  desc_sce_saguenay_abandoned: ""
  sce_golden_cups: ""
  desc_sce_golden_cups: ""
+
+ # OPINION MODIFIERS
  cannibal_conquistador: ""
  threatening_punishment: ""
+ # Random Events
  seven_cities_events.300.t: ""
  seven_cities_events.300.d: ""
  seven_cities_events.300.a: ""
