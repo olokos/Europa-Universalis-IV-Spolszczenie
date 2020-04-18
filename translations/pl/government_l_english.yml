@@ -296,7 +296,7 @@
  republic_mechanic: "Republika"
  theocracy_mechanic: "Teokracja"
  mechanic_allow_migration_yes: ""
- mechanic_native_mechanic_no: ""
+ mechanic_native_mechanic_no: "" # intentionally empty
  mechanic_native_mechanic_yes: ""
  mechanic_different_religion_acceptance: ""
  mechanic_different_religion_group_acceptance: ""
@@ -306,17 +306,17 @@
  governmental_purbias_register_reform: ""
  governmental_purbias_register_reform_desc: ""
  mechanic_maratha_general_interaction_yes: ""
- mechanic_maratha_general_interaction_no: ""
+ mechanic_maratha_general_interaction_no: "" # intentionally empty
  mechanic_better_purbias_interaction_yes: ""
- mechanic_better_purbias_interaction_no: ""
+ mechanic_better_purbias_interaction_no: "" # intentionally empty
  venice_merchants_reform: ""
  venice_merchants_reform_desc: ""
  mechanic_lottery_election_yes: ""
- mechanic_lottery_election_no: ""
+ mechanic_lottery_election_no: "" # intentionally empty
  mechanic_election_on_death_yes: ""
- mechanic_election_on_death_no: ""
+ mechanic_election_on_death_no: "" # intentionally empty
  mechanic_is_merchant_republic_yes: ""
- mechanic_is_merchant_republic_no: ""
+ mechanic_is_merchant_republic_no: "" # intentionally empty
  lottery_reform: ""
  lottery_reform_desc: ""
  appointment_by_committee_reform: ""
