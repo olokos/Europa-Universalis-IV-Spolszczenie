@@ -174,6 +174,7 @@
  opinion_not_erased_rival_pope: "Nie anulowano decyzji papieża-rywala"
  opinion_not_erased_pope: "Nie anulowano decyzji poprzedniego papieża"
  opinion_cardinal_nephew: "Siostrzeniec kardynała"
+ # Devotion Events
  devotion_events.1.t: ""
  devotion_events.1.d: ""
  devotion_events.1.a: ""
@@ -269,6 +270,7 @@
  devotion_events.26.t: ""
  devotion_events.26.d: ""
  devotion_events.26.a: ""
+ # Christian Theocracies
  devotion_events.100.t: ""
  devotion_events.100.d: ""
  devotion_events.100.a: ""
@@ -322,6 +324,7 @@
  devotion_events.119.b: "Zaprzeczam!"
  dev_confiscated_reformed_church: "Skonfiskowano majątki kościoła kalwińskiego"
  desc_dev_confiscated_reformed_church: ""
+ # Muslim Theocracies
  devotion_events.200.t: ""
  devotion_events.200.d: ""
  devotion_events.200.a: ""
