@@ -31,5 +31,8 @@ UWAGA! Gdyby w launcherze pojawiała się informacja, że modyfikacja jest do ni
 Twórcy oraz specjalne podziękowania:
 - olokos - twórca
 - Ereno - twórca
+- Sano2 - twórca, tłumacz
+- tdomek - tłumacz
+- Masahara - tłumacz
 - Batziy - polskie czcionki
 - Grajpopolsku.pl - bazowe spolszczenie podstawowej wersji gry w wersji 1.27
