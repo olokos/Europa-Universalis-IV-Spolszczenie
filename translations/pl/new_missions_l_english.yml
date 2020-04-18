@@ -1446,7 +1446,7 @@
  mission_conquer_mongolia_desc: ""
  mission_conquer_china_title: ""
  mission_conquer_china_desc: ""
- mongol_china_mission_tooltip: ""
+ mongol_china_mission_tooltip: "§Y[Root.GetName]§! posiada wszystkie skolonizowane prowincje w regionie mongolskim"
  develop_ukraine_1_title: ""
  develop_ukraine_1_desc: ""
  lit_religious_unity_title: ""
@@ -1808,6 +1808,7 @@
  nav_aragonese_inheritance_desc: ""
  nav_dominate_espainiako_title: ""
  nav_dominate_espainiako_desc: ""
+ ###Granadan and Andalusian Missions
  gra_refugees_flock_to_us_title: ""
  gra_refugees_flock_to_us_desc: ""
  gra_palace_of_alhambra_title: ""
@@ -1875,6 +1876,7 @@
  adu_monopolize_africa_desc: ""
  adu_persian_conquest_title: ""
  adu_persian_conquest_desc: ""
+ # Pirate missions
  pirate_trade_practices_title: ""
  pirate_trade_practices_desc: ""
  pirate_trade_ports_title: ""
@@ -1910,6 +1912,6 @@
  pirate_a_famous_pirate_title: ""
  pirate_a_famous_pirate_desc: ""
  pirate_the_pirate_round_title: ""
- pirate_the_pirate_round_desc: ""
+ pirate_the_pirate_round_desc: "" # some people will get this, some won't
  all_gold_provinces_around_the_caribbean: ""
  a_mighty_pirate_leader: ""
