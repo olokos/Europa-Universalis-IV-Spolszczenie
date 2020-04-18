@@ -3,7 +3,7 @@
  SUB_VIEW_PITCH_PRICE: "Experience everything the game has to offer with the new subscription offer##CHAR_DETECT## gain access to all DLC ever released for only $PRICE$/month.\n\n- All major expansions!\n- More than 40 content packs including new units models\n- All music packs\n- New unit model available as a bonus for subscription"
  SUB_ACTIVE_NEED_DOWNLOAD: "You can now download all DLC. It won't take long!\nAfter downloading you'll need to restart the game to complete the installation process."
  SUB_ACTIVE_NEED_RESTART: "Restart your game to finish installation."
- SUB_ACTIVE_NORMAL: "All available DLC have been installed.\nIf some DLC do not work properly, you can verify your installation by pressing \'Verify\'."
+ SUB_ACTIVE_NORMAL: "All available DLC have been installed.\nIf some DLC do not work properly, you can verify your installation by pressing ##CHAR_DETECT##Verify##CHAR_DETECT##."
  SUB_ACTIVE_VERIFYING_DOWNLOAD: "Verification is in progress"
  SUB_VIEW_BONUS_DLC: "Subscription bonus"
  SUB_VIEW_BONUS_DLC_DESC: "Starting a subscription will\nreward you with a European\npistol-wielding Cuirassiers\nunit."

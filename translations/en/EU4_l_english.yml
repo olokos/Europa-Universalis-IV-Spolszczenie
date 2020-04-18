@@ -4948,7 +4948,7 @@
  ACTIVE_INCIDENTS: "Active Incidents"
  PAST_INCIDENTS: "Past Incidents"
  ISOLATIONISM: "Isolationism"
- ISOLATIONISM_LEVEL_TITLE: ""$ISOLATIONLEVELTITLE|Y$ (§YLevel $ISOLATIONLEVEL$§!)""
+ ISOLATIONISM_LEVEL_TITLE: "##CHAR_DETECT##$ISOLATIONLEVELTITLE|Y$ (§YLevel $ISOLATIONLEVEL$§!)##CHAR_DETECT##"
  ISOLATIONISM_MECHANIC_DESCRIPTION: "Isolationism represents a nation's willingness to adopt ideas and technologies from abroad. It can range from $FIRSTISOLATIONLEVELNAME|Y$ (§YLevel $FIRSTISOLATIONLEVELVALUE$§!) to $LASTISOLATIONLEVELNAME|Y$ (§YLevel $LASTISOLATIONLEVELVALUE$§!).\n\n§MIsolationism is changed through the way you react to Incidents that occur during the game. Each Incident lasts for more than 10 years and can end with your Isolationism moving towards Open, Closed or leaving it unchanged.§!"
  YOUR_CURRENT_ISOLATIONISM_INSTANT: "Your current Isolationism level is '$ISOLATIONLEVELTITLE|Y$ (§YLevel $ISOLATIONLEVEL$§!)'\n$ISOLATIONLEVELDESCRIPTION$"
  THEIR_CURRENT_ISOLATIONISM_INSTANT: "$ISOLATIONLEVELTITLE|Y$ (§Y$ISOLATIONLEVEL$§!)"

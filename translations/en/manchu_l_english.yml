@@ -546,7 +546,7 @@
  establish_tributaries_tt: "Have at least §Y10§! Tributaries"
  xilin_gol_area: "Xilin Gol"
  # mission tooltips
- restore_yuan_tt##CHAR_DETECT##90 "At least §Y20§! provinces in the §YNorth China§! region are owned and cored by [Root.GetName]"
+ restore_yuan_tt: "At least §Y20§! provinces in the §YNorth China§! region are owned and cored by [Root.GetName]"
  reconquer_china_tt: "At least §Y40§! provinces in the §YXinan§! and §YSouth China§! regions are owned by [Root.GetName]"
  mongol_ca_tt: "At least §Y30§! provinces in the §YCentral Asia§! region are owned by [Root.GetName]"
  mongol_persia_tt: "At least §Y30§! provinces in the §YPersia§! and §YKhorasan§! regions are owned by [Root.GetName]"
