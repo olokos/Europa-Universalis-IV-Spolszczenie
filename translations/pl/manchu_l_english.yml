@@ -1,8 +1,10 @@
 ﻿l_english:
+ # New Manchu culture
  manchu_new: "Mand¿uria"
  manchu_culture_tt: ""
  changbai_mountain: ""
  desc_changbai_mountain: ""
+ # Manchu missions
  mch_great_wall_title: ""
  mch_great_wall_desc: ""
  mch_eight_banners_title: ""
@@ -47,6 +49,7 @@
  mch_subjugate_dai_viet_title: ""
  mch_subjugate_dai_viet_desc: ""
  devastate_china_tooltip2: ""
+ # Manchu mission modifiers
  mch_mountain_title: ""
  mch_mountain_desc: ""
  breached_great_wall: ""
@@ -77,8 +80,10 @@
  desc_inner_asian_trade: ""
  mch_combat_modifier: ""
  desc_mch_combat_modifier: ""
+ # Tungning tag
  FRM: ""
  FRM_ADJ: "Tajwanu"
+ # Manchu mission events
  mch_missions.1.t: ""
  mch_missions.1.d: ""
  mch_missions.1.d2: ""
@@ -91,6 +96,7 @@
  mch_missions.5.t: ""
  mch_missions.5.d: ""
  mch_missions.5.a: ""
+ # Ming disaster
  ming_crisis: ""
  ming_crisis_desc: ""
  ming_crisis.1.t: ""
@@ -114,6 +120,7 @@
  ming_crisis.6.d: ""
  ming_crisis.6.a: ""
  ming_crisis.6.b: "ZgódŸ si² na ich ¿¹dania."
+ # Mongol Missions
  mongols_restore_the_khanate_title: ""
  mongols_restore_the_khanate_desc: ""
  mongols_unite_the_mongols_title: ""
@@ -147,6 +154,7 @@
  mongols_russia_title: ""
  mongols_russia_desc: ""
  tumu_crisis_complete_tt: ""
+ # Mongol Mission Modifiers
  tibetan_missionaries: ""
  desc_tibetan_missionaries: ""
  mongol_rule_tibet: ""
@@ -168,6 +176,7 @@
  desc_reorganized_mongols: ""
  genghis_khan_reborn: ""
  desc_genghis_khan_reborn: ""
+ # Mongol Mission Events
  mch_missions.6.t: ""
  mch_missions.6.d: ""
  mch_missions.6.a: ""
@@ -178,6 +187,7 @@
  mch_missions.7.a: ""
  mch_missions.7.b: ""
  unite_mongol_culture_tt: ""
+ # Wokou Pirates
  SOO: ""
  SOO_ADJ: ""
  pirates.21.t: ""
@@ -201,6 +211,7 @@
  soo_port_improvement_desc: ""
  soo_elementary_school: ""
  soo_elementary_school_desc: ""
+ # Manchuria Provinces
  PROV4651: ""
  PROV_ADJ4651: ""
  PROV4652: ""
@@ -230,6 +241,7 @@
  furdan_area: "Furdanu"
  sakhalin_area: "Sachalin"
  evenk: ""
+ # Manchuria Tags
  SOL: ""
  SOL_ADJ: ""
  NVK: ""
@@ -239,7 +251,9 @@
  NHX: ""
  NHX_ADJ: ""
  manchu_manchuria_decision.tooltip: ""
+ # Ming modifier
  desc_repaired_great_wall: ""
+ # Tumu Crisis
  flavor_oir.1.t: ""
  flavor_oir.1.d: ""
  flavor_oir.1.a: ""
@@ -267,6 +281,7 @@
  desc_mng_militry_incompetence: ""
  oir_captured_mng_emperor: ""
  desc_oir_captured_mng_emperor: ""
+ # Misc
  warriors_do_not_read_books: ""
  desc_warriors_do_not_read_books: ""
  IS_NOT_GETTING_EXPELLED_MINORITY: ""
@@ -274,6 +289,7 @@
  IS_RULER_NOT_COMMANDING_UNIT: ""
  IS_RULER_COMMANDING_UNIT: ""
  CLEAR_REBELS: ""
+ # Japanese Missions
  JAP_expand_the_kokka_title: ""
  JAP_expand_the_kokka_desc: ""
  JAP_balance_the_four_divisions_title: ""
@@ -327,6 +343,7 @@
  JAP_toughed_it_out_no_MoH: ""
  JAP_cn_in_rnw: ""
  JAP_no_corruption: ""
+ # Mandate modifiers
  lost_control_of_beijing: ""
  desc_lost_control_of_beijing: ""
  lost_control_of_nanjing: ""
@@ -339,6 +356,7 @@
  petty_personality: ""
  desc_petty_personality: ""
  petty_personality_die_desc: ""
+ #Scripted Loc
  plural_country_name: ""
  already_has_proper_name: ""
  plural_country_name_CAP: ""
@@ -355,13 +373,16 @@
  string_ruler_title_and_name: ""
  string_regency_council_no_cap: ""
  has_manufactory_trigger_tooltip: ""
+ # Colonial borders event
  pretty_colonial_borders.3.name: ""
  pretty_colonial_borders.3.desc: ""
  pretty_colonial_borders.3.A: ""
  pretty_colonial_borders.3.B: ""
  pretty_colonial_borders.3.B.tooltip: ""
+ #Copied from annex_country
  annex_country_japan: "Zaanektuj paªstwo"
  annex_country_japan_desc: "Celem wojny jest zdobycie stolicy. B²dziesz móg³ zaanektowa¾ dane paªstwo, nawet jeœli b²dzie to wbrew pozosta³ym regu³om."
+ #Korean missions
  kor_conquer_changbai_title: ""
  kor_conquer_changbai_desc: ""
  kor_seize_southern_manchuria_title: ""
@@ -417,7 +438,7 @@
  kor_harmonise_shinto_desc: ""
  kor_higher_income_title: ""
  kor_higher_income_desc: ""
- kor_growing_economy: ""
+ kor_growing_economy: "" #copied from growing_economy
  desc_kor_growing_economy: ""
  kor_peasant_struggles_title: ""
  kor_peasant_struggles_desc: ""
@@ -456,11 +477,13 @@
  desc_kor_conquest_manchuria: ""
  kor_peasant_struggles: ""
  desc_kor_peasant_struggles: ""
+ #New Korean estates and their loyalty modifier
  estate_yangban_scholars: ""
  estate_yangban_administrators: ""
  estate_neoconfucian_reformers: ""
  EST_KOR_FACTIONAL_UPHEAVAL: ""
  EST_KOR_FACTIONAL_UNITY: ""
+ #New Korean Events (linked to the missions)##CHAR_DETECT##
  flavor_kor.7.t: ""
  flavor_kor.7.d: ""
  flavor_kor.7.opt: ""
@@ -510,8 +533,10 @@
  leadered_peasant_rebels_desc: ""
  leadered_peasant_rebels_army: ""
  DEVELOPMENT_IN_PROVINCES: ""
+ # Start Screens
  string_start_korea: ""
  string_start_jurchens: ""
+ # Mongolia misc
  chahar_area: "Chahar"
  cicigar_area: "Cicigar"
  flavor_oir.8.t: ""
@@ -520,6 +545,7 @@
  devastate_china_tooltip: ""
  establish_tributaries_tt: ""
  xilin_gol_area: "Xilin Gol"
+ # mission tooltips
  restore_yuan_tt: ""
  reconquer_china_tt: ""
  mongol_ca_tt: ""
@@ -529,6 +555,7 @@
  mongol_tatars_tt: ""
  mongol_yam_tt: ""
  mongol_rus_tt: ""
+ # Mongolia provinces
  PROV4664: ""
  PROV_ADJ4664: ""
  PROV4665: ""
@@ -569,6 +596,7 @@
  PROV_ADJ4682: ""
  PROV4683: ""
  PROV_ADJ4683: ""
+ #New Jurchen/Manchu/Qing Ideas
  MJZ_ideas: ""
  MJZ_ideas_start: ""
  MJZ_ideas_bonus: ""
@@ -603,6 +631,7 @@
  qing_viceroyalties_desc: ""
  the_ten_great_campaigns: ""
  the_ten_great_campaigns_desc: ""
+ #Oirat Ideas
  OIR_ideas: ""
  OIR_ideas_start: ""
  OIR_ideas_bonus: ""
@@ -616,6 +645,7 @@
  todo_besheg_script_desc: ""
  defiance_of_the_dzungars: ""
  defiance_of_the_dzungars_desc: ""
+ #Mongolian Ideas
  KHA_ideas: ""
  KHA_ideas_start: ""
  KHA_ideas_bonus: ""
@@ -631,6 +661,7 @@
  mongolian_mobility_desc: ""
  MNG_kheshig: ""
  MNG_kheshig_desc: ""
+ #Chagatai Ideas
  CHG_ideas: ""
  CHG_ideas_start: ""
  CHG_ideas_bonus: ""
@@ -644,21 +675,27 @@
  CHG_border_wars_desc: ""
  CHG_constant_scheming: ""
  CHG_constant_scheming_desc: ""
+ #Korean Missions
  KOR_has_factional_upheaval_tooltip2: ""
  is_rivalled_by_root: ""
  have_at_least_7point5_more_discipline: ""
+ #A trigger
  TOTAL_OWN_AND_NON_TRIBUTARIES_DEVELOPMENT_AT_LEAST: ""
  TOTAL_OWN_AND_NON_TRIBUTARIES_DEVELOPMENT_LESS_THAN: ""
+ #EoC Rebalance
  new_mandate_holder: ""
  desc_new_mandate_holder: ""
  waging_war_for_china: ""
  desc_waging_war_for_china: ""
+ #Ming Crisis additions
  ming_crisis.8.t: ""
  ming_crisis.8.d: ""
  ming_crisis.8.a: ""
+ #Korean flavour events
  kor_reforms_of_third_literati: ""
  desc_kor_reforms_of_third_literati: ""
  opinion_KOR_supported_war_for_north: ""
+ #Evenk Ideas
  evenk_ideas: ""
  evenk_ideas_start: ""
  evenk_ideas_bonus: ""
@@ -676,6 +713,7 @@
  evenk_love_of_the_forest_desc: ""
  evenk_new_ways_to_hunt: ""
  evenk_new_ways_to_hunt_desc: ""
+ # Uzbek provinces
  PROV4684: ""
  PROV_ADJ4684: ""
  PROV4685: ""
@@ -699,6 +737,7 @@
  aqmola_area: ""
  aqmola_area_name: ""
  aqmola_area_adj: ""
+ # Modifier descs
  JAP_siberian_intervention_tt: ""
  desc_JAP_siberian_boom: ""
  desc_JAP_gokaido_stations: ""
@@ -709,6 +748,7 @@
  desc_JAP_cadastral_surveys: ""
  desc_JAP_currency_regulations: ""
  desc_JAP_sengoku_contender: ""
+ #More Additions to Chinese Crises
  ming_crisis.9.t: ""
  ming_crisis.9.d: ""
  ming_crisis.9.A: ""
@@ -726,6 +766,7 @@
  empire_of_china_nomadic_border_events.5.d: ""
  empire_of_china_nomadic_border_events.5.d.disaster: ""
  empire_of_china_nomadic_border_events.5.opt: "Unfortunate."
+ #Shun Ideas
  CSH_ideas: ""
  CSH_ideas_start: ""
  CSH_ideas_bonus: ""
