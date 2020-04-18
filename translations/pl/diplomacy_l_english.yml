@@ -321,7 +321,7 @@
  JUSTIFY_TRADE_CONFLICT_SELECT_DESC: "Uzasadnienie konfliktu handlowego zmniejszy rozmiar naszej siatki szpiegowskiej w $ADJ|Y$ o $COST|R$ i da nam casus belli do konfliktu handlowego."
  FABRICATE_CLAIM_SELECT_DESC: "Fabrykowanie roszczeń zmniejszy rozmiar naszej siatki handlowej w $ADJ|Y$ o $COST|R$ i da nam roszczenia względem prowincji §Y$PROV$§W. Zachowają one ważność przez $YEARS|Y$ lat."
  FABRICATE_CLAIM_FOR_VASSAL_SELECT_DESC: "Fabricate Claim will reduce the size of our $ADJ|Y$ Spy Network by $COST|R$ and give $SUBJECT|Y$ a claim on §Y$PROV$§W. The claim will last for $YEARS|Y$ years."
- DIP_DISCOVERY_2: "Ryzyko wykrycia wynosi §Y$VAL$%§W na miesiąc."
+ DIP_DISCOVERY_2: ""
  DIP_ENVOY_TIME_PROGRESS: "Postęp##CHAR_DETECT## §Y$VAL$%§W"
  MODIFIER_FABRICATE_CLAIMS_TIME: "Koszt sfabrykowania roszczeń"
  MODIFIER_JUSTIFY_TRADE_CONFLICT_TIME: "Koszt uzasadnienia konfliktu handlowego"
