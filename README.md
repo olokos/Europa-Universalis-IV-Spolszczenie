@@ -1,10 +1,10 @@
 # Europa Universalis IV Community Translation|Spolszczenie
 
-##Polskie Społecznościowe spolszczenie do gry Europa Universalis IV / Polish Community Translation for Europa Universalis IV
+## Polskie Społecznościowe spolszczenie do gry Europa Universalis IV / Polish Community Translation for Europa Universalis IV
 Serdecznie zapraszamy do pomocy w tłumaczeniu!
 Spolszczenie do najnowszej wersji Europa Universalis 4 1.29.2.
 
-##This is mainly polish translation made for Europa Universalis IV.
+## This is mainly polish translation made for Europa Universalis IV.
 With that said, you can request a translation for a new language.
 *If you want to request a new language, make sure you can translate at least 10% of the language!*
 
@@ -19,9 +19,9 @@ Jeżeli chcesz dołączyć się do prac nad spolszczeniem - daj znać na serwerz
 Jak już jesteś na stronie powyżej naciśnij "Help Translate", aby wysłać prośbę o dołączenie do projektu.
 
 
-##**Spolszczenie całkowicie kompatybilne z achievementami! Z włączonym spolszczeniem śmiało można zdobywać wszystkie achievmenty!**##
+## **Spolszczenie całkowicie kompatybilne z achievementami! Z włączonym spolszczeniem śmiało można zdobywać wszystkie achievmenty!**
 
-#Instalacja moda:
+# Instalacja moda:
 1. Zasubskrybuj modyfikację.
 2. Gdy uruchomisz grę, w launcherze w zakładce mody zaznacz "Spolszczenie EU4 - (wersja) fixed by olokos"
 3. Upewnij się, że w launcherze masz zaznaczoną angielską flagę! Spolszczenie podmienia język angielski na język polski.
@@ -34,11 +34,11 @@ Jak już jesteś na stronie powyżej naciśnij "Help Translate", aby wysłać pr
 
 W razie jakichkolwiek problemów/zastrzeżeń/propozycji zachęcamy do kontaktu poprzez serwer discord!
 
-##UWAGA! Gdyby w launcherze pojawiała się informacja, że modyfikacja jest do nieaktualnej wersji gry należy:
+## UWAGA! Gdyby w launcherze pojawiała się informacja, że modyfikacja jest do nieaktualnej wersji gry należy:
 1. Uruchomić launcher gry (uruchomić grę przez Steam).
 2. Z włączonym launcherem odsubskrybować moda oraz po chwili zasubskrybować go na nowo.
 
-#Twórcy oraz specjalne podziękowania:
+# Twórcy oraz specjalne podziękowania:
 - olokos - twórca
 - Ereno - twórca
 - Sano2 - twórca, tłumacz
