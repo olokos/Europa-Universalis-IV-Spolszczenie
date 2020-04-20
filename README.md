@@ -21,7 +21,7 @@ Jak już jesteś na stronie powyżej naciśnij "Help Translate", aby wysłać pr
 
 ## **Spolszczenie całkowicie kompatybilne z achievementami! Z włączonym spolszczeniem śmiało można zdobywać wszystkie achievmenty!**
 
-** Instalacja moda:**
+**Instalacja moda:**
 1. Zasubskrybuj modyfikację.
 2. Gdy uruchomisz grę, w launcherze w zakładce mody zaznacz "Spolszczenie EU4 - (wersja) fixed by olokos"
 3. Upewnij się, że w launcherze masz zaznaczoną angielską flagę! Spolszczenie podmienia język angielski na język polski.
@@ -38,7 +38,7 @@ W razie jakichkolwiek problemów/zastrzeżeń/propozycji zachęcamy do kontaktu 
 1. Uruchomić launcher gry (uruchomić grę przez Steam).
 2. Z włączonym launcherem odsubskrybować moda oraz po chwili zasubskrybować go na nowo.
 
-** Twórcy oraz specjalne podziękowania: **
+**Twórcy oraz specjalne podziękowania:**
 - olokos - twórca
 - Ereno - twórca
 - Sano2 - twórca, tłumacz
