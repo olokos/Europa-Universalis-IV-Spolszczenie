@@ -627,7 +627,6 @@
  LOWER: "lower"
  HIGHER: "higher"
  WITH_GOVERNMENT_TYPE: "The country they form will have $GOV|Y$ Government."
- WITH_GOVERNMENT_REFORM: ""
  HAVE_LESS_THAN_ADM_POWER_COST_TRIGGER: "Have less Administrative Power than $AMOUNT|Y$.\n"
  HAVE_LESS_THAN_DIP_POWER_COST_TRIGGER: "Have less Diplomatic Power than $AMOUNT|Y$.\n"
  HAVE_LESS_THAN_MIL_POWER_COST_TRIGGER: "Have less Military Power than $AMOUNT|Y$.\n"
