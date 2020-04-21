@@ -1,0 +1,20 @@
+
+Replace empty strings with regexp below:
+Search for:
+.+: ""\n
+Replace with: BLANK
+
+Replace polish diacritic characters with characters supported by Europa Universalis IV
+
+¹ - ą
+² - ę
+³ - ł
+¾ - ć
+œ - ś
+ª - ń
+¿ - ż
+Ÿ - ź
+
+µ - Ł
+Œ - Ś
+¯ - Ż
