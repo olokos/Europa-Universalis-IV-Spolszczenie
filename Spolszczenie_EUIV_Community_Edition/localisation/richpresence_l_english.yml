@@ -1,0 +1,10 @@
+﻿l_english:
+ SOCIAL_DSTATUS_IN_MAIN_MENU: "W menu głównym"
+ SOCIAL_DSTATUS_IN_SP_LOBBY: "W lobby gry jednoosobowej"
+ SOCIAL_DSTATUS_IN_MP_LOBBY: "W lobby gry wielosobowej"
+ SOCIAL_DSTATUS_PLAYING_AS: "Rządzi jako $TITLE$ kraju $COUNTRY$ w $YEAR$"
+ SOCIAL_DSTATUS_ATWARWITH: "Dowodzi jako $TITLE$ kraju $COUNTRY$ w wojnie przeciwko $ENEMY$ w $YEAR$"
+ SOCIAL_DSTATUS_OBSERVING: "Obserwuje świat w $YEAR$"
+ SOCIAL_DSTATUS_PLAYING_GAME: "Gra w $GAME$"
+ SOCIAL_DSTATUS_PLAYING_SOME_GAME: "Gra w inną grę"
+ SOCIAL_DSTATUS_BLOCKED_STATUS: " "

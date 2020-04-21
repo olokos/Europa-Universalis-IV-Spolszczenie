@@ -1,0 +1,7 @@
+﻿l_english:
+ demand_dummy_title: "Zażądaj marionetki"
+ demand_dummy_desc: "Zażądaj by [From.Monarch.GetName] z [From.GetName] został naszą marionetką. To wzmocni nasze wzajemne zaufanie!"
+ demand_dummy_tooltip: "Zażądaj, aby stali się naszą marionetką."
+ demand_dummy_dialog: "[This.GetName] żąda abyś został ich marionetką. To wzmocni nasze wzajemne zaufanie!"
+ demand_dummy_alert_tooltip: "Zażądaj, abyśmy zostali ich marionetką"
+ HAS_MORE_MANPOWER: "[This.GetName] ma więcej ludności od [From.GetName].\n"
