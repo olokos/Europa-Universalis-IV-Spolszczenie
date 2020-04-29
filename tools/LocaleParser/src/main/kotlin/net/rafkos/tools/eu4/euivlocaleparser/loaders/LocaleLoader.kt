@@ -45,8 +45,10 @@ object LocaleLoader {
                     locale.entries[language] = hashMapOf()
                     continue
                 } else if (language == null) {
-                    logger.error("Locale file must start with language header. Got \"$line\".")
-                    throw IllegalArgumentException()
+                    logger.warn("Locale file should start with language header. Got \"$line\".")
+                    language = "NO_HEADER"
+                    if (!locale.entries.containsKey(language))
+                        locale.entries[language] = hashMapOf()
                 }
 
                 val key = LoaderUtils.readEntryKey(line)
@@ -79,7 +81,8 @@ object LocaleLoader {
             val writer = OutputStreamWriter(BufferedOutputStream(outputStream), StandardCharsets.UTF_8)
             writer.write("\ufeff")
             locale.entries.forEach { (language, entries) ->
-                writer.write("l_$language:\r\n")
+                if (language != "NO_HEADER")
+                    writer.write("l_$language:\r\n")
                 entries.forEach { (key, pair) ->
                     when (locale.type) {
                         LocaleType.EUIV -> writer.write(" $key:${pair.first} ${pair.second}\r\n")

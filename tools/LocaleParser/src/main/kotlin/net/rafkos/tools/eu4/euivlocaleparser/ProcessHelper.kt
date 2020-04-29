@@ -21,7 +21,7 @@ object ProcessHelper {
         val locales = mutableListOf<Locale>()
 
         for (file in directory.listFiles()!!) {
-            if (file.isFile && file.extension == "yml") {
+            if (file.isFile && (file.extension == "yml" || file.extension == "txt")) {
                 val locale = LocaleLoader.loadFile(file, type)
                 locales.add(locale)
             }
