@@ -1,7 +1,6 @@
 ﻿l_english:
- Faith_Restored: "Odzyskana wiara"
- Homebound: "W drodze do domu"
- Peace_Cannot_Last: "Pokój nie trwa wiecznie"
- Sundered_Hills: "Rozpadliska"
- Whispers_in_the_Dark: "Szepty w ciemnoœci"
- 
+ Whispers_in_the_Dark:0 "Szepty w ciemnoœci"
+ Homebound:0 "W drodze do domu"
+ Peace_Cannot_Last:0 "Pokój nie trwa wiecznie"
+ Sundered_Hills:0 "Rozpadliska"
+ Faith_Restored:0 "Odzyskana wiara"
