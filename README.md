@@ -41,6 +41,10 @@ Serdecznie zapraszamy do pomocy w tłumaczeniu! :smile:
 - Modyfikacja będzie się już poprawnie uruchamiała, oraz nie będzie powodowała dłuższego włączania się gry
 - Zaktualizowano wszystkie klucze tekstów do najnowszych z wersji 1.29.1
 - Rozpoczęto prace nad platformą, gdzie społeczność mogłaby samodzielnie spolszczać grę linijka po linijce
+- Naprawiono błąd z wiekiem władców dzięki @NereXus
+- Zaktualizowano źródłowe stringi do tłumaczenia z gry (30.04.2020)
+- Dzięki @TheBadOgre został zautomatyzowany proces aktualizacji angielskich stringów z gry i aktualizacji spolszczenia na steam workshop!
+
 
 **_W razie jakichkolwiek problemów/zastrzeżeń/propozycji zachęcamy do kontaktu poprzez serwer discord [Dostępny Tutaj](https://discord.gg/QUB7z23])_**
 
