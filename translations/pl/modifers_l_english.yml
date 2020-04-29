@@ -101,11 +101,11 @@
  incompetent_diplomacy: ""
  desc_incompetent_diplomacy: ""
  genoese_trade_concession: ""
- benign_neglect_trade: ""
+ benign_neglect_trade: "Życzliwe zaniedbania"
  desc_benign_neglect_trade: ""
- benign_neglect_tax: ""
+ benign_neglect_tax: "Życzliwe zaniedbania"
  desc_benign_neglect_tax: ""
- benign_neglect_manpower: ""
+ benign_neglect_manpower: "Życzliwe zaniedbania"
  desc_benign_neglect_manpower: ""
  pomjestija_reform: ""
  desc_pomjestija_reform: ""
@@ -251,7 +251,7 @@
  desc_imperial_halic_shipyard: ""
  mimar_sinan: ""
  desc_mimar_sinan: ""
- kosem_sultana: ""
+ kosem_sultana: "Sułtanka Kösem"
  desc_kosem_sultana: ""
  koprulu_family: ""
  desc_koprulu_family: ""
@@ -730,11 +730,11 @@
  desc_accademia_cimento: ""
  institution_cimento: ""
  desc_institution_cimento: ""
- the_chewa: ""
+ the_chewa: "Chewa"
  desc_the_chewa: ""
- maravi_land_of_flames: ""
+ maravi_land_of_flames: "Ziemia ognista"
  desc_maravi_land_of_flames: ""
- increased_african_indian_trade: ""
+ increased_african_indian_trade: "Rosnący handel z Indiami"
  desc_increased_african_indian_trade: ""
  nyau_secret_society: ""
  desc_nyau_secret_society: ""
@@ -1135,6 +1135,7 @@
  desc_merchant_council_of_sakai: ""
  azuchi_castle: ""
  desc_azuchi_castle: ""
+ #New Missions
  thriving_arms_industry: ""
  desc_thriving_arms_industry: ""
  growth_of_capital: ""
@@ -1165,6 +1166,7 @@
  desc_proto_industrialization: ""
  imperial_ambition: "Cesarskie ambicje"
  desc_imperial_ambition: ""
+ #Austrian Mission Rewards##CHAR_DETECT##
  austrian_silesia: ""
  desc_austrian_silesia: ""
  succesful_bid_for_imperial_crown: ""
@@ -1193,6 +1195,7 @@
  desc_tur_barbary_pirates: ""
  conquest_of_the_levant: ""
  desc_conquest_of_the_levant: ""
+ # Russian Mission Rewards
  russian_integration: ""
  desc_russian_integration: ""
  ruthenian_integration: ""
@@ -1207,6 +1210,7 @@
  desc_russian_pacific_port: ""
  siberian_fur_production: ""
  desc_siberian_fur_production: ""
+ # Polish Mission Rewards
  integrating_mazovia: ""
  desc_integrating_mazovia: ""
  integration_of_lithuania: ""
@@ -1215,6 +1219,7 @@
  desc_teutons_pacified: ""
  silesia_conquered: ""
  desc_silesia_conquered: ""
+ #Byzantines
  growth_of_the_orthodox_church: ""
  desc_growth_of_the_orthodox_church: ""
  roman_italy: ""
@@ -1236,19 +1241,23 @@
  desc_chastening_of_venice: ""
  byzantine_treasures_returned: ""
  desc_byzantine_treasures_returned: ""
+ # Swedish mission rewards
  consolidated_sweden: ""
  desc_consolidated_sweden: ""
  norway_subjugated_swe: ""
  desc_norway_subjugated_swe: ""
  swe_pommerania_conquered: ""
  desc_swe_pommerania_conquered: ""
+ # Danish mission rewards
  denmark_norway_united: ""
  desc_denmark_norway_united: ""
  united_scandinavia: ""
  desc_united_scandinavia: ""
  MODIFIER_OWN_COAST_NAVAL_COMBAT_BONUS: ""
+ # Prussian mission rewards
  prussian_rhine: ""
  desc_prussian_rhine: ""
+ # Portuguese mission rewards
  buffer_zone_commerce: ""
  desc_buffer_zone_commerce: ""
  the_unknown_frontier: ""
@@ -1273,6 +1282,7 @@
  desc_horn_africa_ambition: ""
  por_makeshift_defenses: ""
  desc_por_makeshift_defenses: ""
+ # English mission rewards
  eng_irish_revolts: ""
  desc_eng_irish_revolts: ""
  eng_culture_mission: "Cultural Acceptance"
@@ -1291,6 +1301,7 @@
  desc_bordeaux_ambition: ""
  eng_rb_trade_value_mod: ""
  desc_eng_rb_trade_value_mod: ""
+ # English Rule Britannia rewards
  eng_rb_gibraltar_mod: ""
  desc_eng_rb_gibraltar_mod: ""
  eng_rb_faro_coast: ""
@@ -1327,6 +1338,7 @@
  desc_eng_rb_imperial_ban_mod: ""
  gbr_inland_trade: ""
  desc_gbr_inland_trade: ""
+ # Scottish mission rewards
  college_of_justice: "College of Justice"
  desc_college_of_justice: ""
  sco_the_education_acts: ""
@@ -1353,6 +1365,7 @@
  desc_highlands_consolidated: ""
  edinburgh_london_modifier: ""
  desc_edinburgh_london_modifier: ""
+ # Spanish mission rewards
  spa_hispaniola_discovered: ""
  desc_spa_hispaniola_discovered: ""
  spa_rb_morale: ""
@@ -1367,6 +1380,7 @@
  desc_spa_rb_italian_ambition_mod: ""
  spa_rb_overseas_trade: ""
  desc_spa_rb_overseas_trade: ""
+ # Dutch mission rewards
  ned_brazil_mod: ""
  desc_ned_brazil_mod: ""
  ned_ceylon_mod: ""
@@ -1377,6 +1391,7 @@
  desc_ned_zeelandia_mod: ""
  ned_lowlands_victory: ""
  desc_ned_lowlands_victory: ""
+ # Irish mission rewards
  trinity_college: ""
  desc_trinity_college: ""
  irish_new_world: ""
@@ -1389,6 +1404,7 @@
  desc_ire_recruiting_from_clans: ""
  irish_potatoes: ""
  desc_irish_potatoes: ""
+ # French mission rewards
  fra_to_india: ""
  desc_fra_to_india: ""
  french_callais: ""
@@ -1397,32 +1413,40 @@
  desc_french_tariffs: ""
  fra_into_germany: ""
  desc_fra_into_germany: ""
+ # Omani mission rewards
  oma_buildforces_mod: ""
  desc_oma_buildforces_mod: ""
  oma_maritime_mod: ""
  desc_oma_maritime_mod: ""
+ # Korean mission rewards
  three_koreas_mod: ""
  desc_three_koreas_mod: ""
+ # Orissan mission rewards
  ori_coastal_trade: ""
  desc_ori_coastal_trade: ""
  ori_diamonds_golconda: ""
  desc_ori_diamonds_golconda: ""
+ # Persian Mission Rewards
  per_pearl_of_khorasan: ""
  desc_per_pearl_of_khorasan: ""
  per_tribal_warriors: ""
  desc_per_tribal_warriors: ""
  per_pashtun_warriors: ""
  desc_per_pashtun_warriors: ""
+ # Gujarati mission rewards
  solanki_fortress: ""
  desc_solanki_fortress: ""
+ # Timurid mission rewards
  tim_mountain_reconquest: ""
  desc_tim_mountain_reconquest: ""
  tim_heartland_reconquest: ""
  desc_tim_heartland_reconquest: ""
  tim_steppe_reconquest: ""
  desc_tim_steppe_reconquest: ""
+ # Chinese mission rewards
  conquest_of_beijing: ""
  desc_conquest_of_beijing: ""
+ # Daimyo missions rewards
  improved_han: ""
  desc_improved_han: ""
  supported_kabuki: ""
@@ -1433,6 +1457,7 @@
  desc_strengthened_shinobi: ""
  strengthened_bushido: ""
  desc_strengthened_bushido: ""
+ # Mughal mission rewards
  mug_hindustan_mod: ""
  desc_mug_hindustan_mod: ""
  mug_gujarat_mod: ""
@@ -1441,12 +1466,14 @@
  desc_mug_malwa_mod: ""
  mug_south_bengal_mod: ""
  desc_mug_south_bengal_mod: ""
+ # African mission rewards
  africa_slave_trade_mission: ""
  desc_africa_slave_trade_mission: ""
  african_abolitionists: "Abolicjonizm"
  desc_african_abolitionists: ""
  wealth_of_africa_modifier: "Wealth of Africa"
  desc_wealth_of_africa_modifier: ""
+ # Generic European mission rewards
  gen_eur_trade_node_mod: ""
  desc_gen_eur_trade_node_mod: ""
  gen_eur_defender: ""
@@ -1457,16 +1484,19 @@
  desc_gen_america_holding_mod: ""
  gen_indian_holding_mod: ""
  desc_gen_indian_holding_mod: ""
+ # Generic HRE mission rewards
  gen_hre_diplomacy_mod: ""
  desc_gen_hre_diplomacy_mod: ""
  gen_hre_emperor_mod: ""
  desc_gen_hre_emperor_mod: ""
  gen_hre_imperial_ban_mod: ""
  desc_gen_hre_imperial_ban_mod: ""
+ # Asian mission rewards
  spice_trade_controlled: ""
  desc_spice_trade_controlled: ""
  silk_road_modifier: ""
  desc_silk_road_modifier: ""
+ # Burgundian mission rewards
  bur_diplo_mod: ""
  desc_bur_diplo_mod: ""
  bur_arles_mod: ""
@@ -1474,18 +1504,22 @@
  desc_bur_arles_mod: ""
  bur_channel_ambition: ""
  desc_bur_channel_ambition: ""
+ # Arabia generic mission rewards
  ara_gen_goods_mod: ""
  desc_ara_gen_goods_mod: ""
+ # Mamluk mission rewards
  yemeni_trade_modifier: "Yemeni Trade"
  desc_yemeni_trade_modifier: ""
  bedouins_pacified: ""
  desc_bedouins_pacified: ""
  beyliks_subjugated: ""
  desc_beyliks_subjugated: ""
+ # Bohemian mission rewards
  boh_hussite_revolt: ""
  desc_boh_hussite_revolt: ""
  boh_premysl_mod: ""
  desc_boh_premysl_mod: ""
+ # AKK mission rewards
  white_sheep_ascendant: ""
  desc_white_sheep_ascendant: ""
  akk_caucasus: ""
@@ -1494,18 +1528,22 @@
  desc_akk_persia: ""
  akk_iraq: ""
  desc_akk_iraq: ""
+ # Hungarian mission rewards
  hun_moldavia_mod: ""
  desc_hun_moldavia_mod: ""
  hun_constantinople: ""
  desc_hun_constantinople: ""
+ # Daimyo mission rewards
  divine_wind_modifier: ""
  desc_divine_wind_modifier: ""
+ # Japanese mission rewards
  japanese_cot_dominated: ""
  desc_japanese_cot_dominated: ""
  integrating_ainu: ""
  desc_integrating_ainu: ""
  jap_three_mountains: "Trzy góry Dewy"
  desc_jap_three_mountains: ""
+ # RB ENG events
  rb_eng_passage_spheres: ""
  desc_rb_eng_passage_spheres: ""
  rb_eng_theory_warfare: ""
@@ -1516,6 +1554,7 @@
  desc_rb_eng_divine_common: ""
  rb_eng_national_economy: ""
  desc_rb_eng_national_economy: ""
+ # VIJ mission rewards
  vij_maratha_modifier: ""
  desc_vij_maratha_modifier: ""
  east_africa_conquest: ""
@@ -1539,6 +1578,7 @@
  desc_city_of_victory_modifier: ""
  vij_africa_trade_modifier: ""
  desc_vij_africa_trade_modifier: ""
+ # Delhi mission rewards
  dlh_textile_modifier: ""
  desc_dlh_textile_modifier: ""
  dlh_bengal_modifier: ""
@@ -1555,6 +1595,7 @@
  desc_dlh_rajput_conquest_modifier: ""
  dlh_deccan_conquest_modifier: ""
  desc_dlh_deccan_conquest_modifier: ""
+ # Orissa mission rewards
  ori_jagannath_cult_dh: ""
  desc_ori_jagannath_cult_dh: "More than any other deity Jagannath is connected to the people of Orissa and more than any other deity this, the greatest avatar of Vishnu, is connected to our dynasty. Each Gajapati king is supported by Jagannath and his priests and the temple at Puri grows richer by the year due to royal patronage."
  ori_bahmanis_modifier: ""
@@ -1565,6 +1606,7 @@
  desc_ori_vedic_education: ""
  ori_bengal_inland_modifier: ""
  desc_ori_bengal_inland_modifier: ""
+ # TR Russian mission rewards
  rus_partition_poland_modifier: ""
  desc_rus_partition_poland_modifier: ""
  loyal_streltsy: ""
@@ -1579,6 +1621,7 @@
  desc_third_rome_modifier: ""
  rus_reactionary_zeal: ""
  desc_rus_reactionary_zeal: ""
+ # TR Novgorod mission rewards
  nov_defeated_muscovy: ""
  desc_nov_defeated_muscovy: ""
  nov_tver_conquest: ""
@@ -1602,6 +1645,7 @@
  baltic_ambition_key: ""
  nov_lubeck_conquest: ""
  desc_nov_lubeck_conquest: ""
+ # TR Russian minors rewards
  tr_united_russia: ""
  desc_tr_united_russia: ""
  tr_ended_tatar_yoke: ""
@@ -1654,6 +1698,7 @@
  MODIFIER_FREE_ADM_POLICY: ""
  MODIFIER_FREE_DIP_POLICY: ""
  MODIFIER_FREE_MIL_POLICY: ""
+ # Bengali mission rewards
  bng_arabian_sea_trade: "Arabian Sea Trade"
  desc_bng_arabian_sea_trade: ""
  bng_defied_china: ""
@@ -1676,6 +1721,7 @@
  desc_bng_conquest_burma: ""
  tiger_triumphant: "The Tiger Triumphant"
  desc_tiger_triumphant: ""
+ # Malwa mission rewards
  mlw_gujarat_modifier: ""
  desc_mlw_gujarat_modifier: ""
  mlw_conquest_delhi: ""
@@ -1692,6 +1738,7 @@
  desc_mlw_fortified: ""
  mlw_education: ""
  desc_mlw_education: ""
+ #Gujarati Rewards
  gujarati_naval_dominance_modifier: "Gujarati Naval Dominance"
  desc_gujarati_naval_dominance_modifier: ""
  united_saurashtra: ""
@@ -1741,6 +1788,7 @@
  mer_plains_of_punjab: ""
  desc_mer_plains_of_punjab: ""
  mer_sindh_conquest: ""
+ # Hindustan/Bharat mission rewards
  hin_riches_modifier: ""
  desc_hin_riches_modifier: ""
  industrialized_bengal: ""
@@ -1755,6 +1803,7 @@
  desc_peacock_throne: ""
  hindu_ganges: "Bathing in the Ganges"
  desc_hindu_ganges: ""
+ # Taungu mission rewards
  exaggerated_military_statistics: ""
  desc_exaggerated_military_statistics: ""
  million_rice_fields: "A Million Rice Fields"
@@ -2263,6 +2312,7 @@
  desc_adu_trade_company_founded: ""
  smugglers_struggling: "Smugglers Struggling"
  desc_smugglers_struggling: ""
+ # Pirate mission modifiers
  pirate_trade_practices: ""
  pirate_trade_ports: ""
  pirate_trade_in_gold: ""
