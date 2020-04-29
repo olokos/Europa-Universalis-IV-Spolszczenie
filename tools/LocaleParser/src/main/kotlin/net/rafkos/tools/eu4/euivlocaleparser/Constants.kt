@@ -1,0 +1,17 @@
+package net.rafkos.tools.eu4.euivlocaleparser
+
+import java.util.regex.Pattern
+
+object Constants {
+    val BOM = byteArrayOf(0xEF.toByte(), 0xBB.toByte(), 0xBF.toByte())
+
+    /**
+     * Does the Transifex use quotes to start and end strings?
+     */
+    const val TRANSIFEX_QUOTES = true
+
+    /**
+     * Regex for accepted characters for keys.
+     */
+    val ACCEPTED_KEY_CHARS: Pattern = Pattern.compile("[a-zA-Z0-9-_.]")
+}
