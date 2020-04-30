@@ -79,10 +79,10 @@ object LocaleLoader {
         outputStream.use {
             val writer = OutputStreamWriter(BufferedOutputStream(outputStream), StandardCharsets.UTF_8)
             writer.write("\ufeff")
-            locale.entries.keys.sortedBy { it.value }.forEach { language ->
+            locale.entries.keys.sortedBy { it.priority }.forEach { language ->
                 if (language.value != "NO_HEADER")
                     writer.write("l_${language.value}:\r\n")
-                locale.entries[language]!!.keys.sortedBy { it.value }.forEach { key ->
+                locale.entries[language]!!.keys.sortedBy { it.priority }.forEach { key ->
                     val pair = locale.entries[language]!![key]
                     when (locale.type) {
                         LocaleType.EUIV -> writer.write(" ${key.value}:${pair!!.first} ${pair.second}\r\n")
