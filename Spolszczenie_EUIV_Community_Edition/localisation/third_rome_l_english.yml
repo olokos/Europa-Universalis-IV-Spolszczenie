@@ -132,7 +132,7 @@
  russian_principality_events.5.c:0 "The [Root.Monarch.GetTitle] [Root.Monarch.GetHerselfHimself] will help them."
  russian_principality_events.5.d:0 "A combination of disease and harsh weather has completely ruined the harvest in parts of the [Root.GetAdjective] Realm. In times like these many turn to the state or the Church for support, others leave their lands or seek protection from powerful Boyars, Monastic Estates or even join the Cossacks in the wild fields."
  custom_recover_army_morale_speed_desc:0 "The presence of our national instrument on the battlefield has long driven up the fighting spirit of our soldiers."
- EST_VAL_COSSACK_EXPLORERS:0 "Cossack Explorers##CHAR_DETECT## §Y$VAL$%§!"
+ EST_VAL_COSSACK_EXPLORERS:0 "Cossack Explorers: §Y$VAL$%§!"
  custom_monarch_admin_power_desc:0 "Never shall a produce of our dynasty be lacking in education in matters of governance. Education for our soon-to-be monarchs shall be rigorous and omnipresent."
  russian_principality_events.5.t:0 "Famine of $YEAR$"
  custom_monarch_diplomatic_power:0 "Cosmopolitan Upbringing"

@@ -96,7 +96,7 @@
  ESTATE_OL_TOOLTIP:0 "§Y$NAME$§!:\nLojalnoœ¾: §Y$LOYALTY$%§!\nWp³ywy: §Y$INFL$%§!\nTerytorium: §Y$TERR$%§!"
  corruption_event.8.t:0 "Chytrzy przemytnicy"
  central_african.2.t:0 "Spisanie Ibonii"
- CORRUPTION_IRO:0 "§YKorupcja§!\nObecnie##CHAR_DETECT## $CURR|Y$.\nKorupcja zmienia si² co roku o $CHANGE$ z tytu³u:\n$WHY$"
+ CORRUPTION_IRO:0 "§YKorupcja§!\nObecnie: $CURR|Y$.\nKorupcja zmienia si² co roku o $CHANGE$ z tytu³u:\n$WHY$"
  WEUNCONDITIONALLYSURRENDEREDOTHER:0 "§YPoddaliœmy si² bezwarunkowo§! trzeciej stronie."
  espionage_events.3.b:0 "Znowu ich oszuka³? Jest ca³kiem niez³y."
  espionage_events.3.d:0 "Problem z poleganiem na osobach o niskich standardach moralnych polega na tym, ¿e trudno stwierdzi¾, czy zmienianie stron nie wesz³o im w krew. Dzia³alnoœ¾ szpiega z [From.GetAdjective], któremu zaoferowaliœmy mi³osierdzie i znaczn¹ sum² pieni²dzy w zamian za wspó³prac², zosta³a wykryta przez jego rodaków. Inni szpiedzy donosz¹, ¿e z³o¿ono mu ofert² kontynuowania wspó³pracy z obydwoma krajami, przy czym mia³ on pozostawa¾ wierny swojej ojczyŸnie.\n\nNie ulega w¹tpliwoœci, ¿e taka propozycja pad³a. Fakt, ¿e prze¿y³ ca³e zamieszanie, oznacza, ¿e j¹ przyj¹³, a przynajmniej udaje, ¿e to uczyni³. Mimo to mo¿liwe, ¿e ci¹gle pracuje dla nas, i przekazuje wrogowi wy³¹cznie wybrane informacje. Czy sta¾ nas takie ryzyko?"

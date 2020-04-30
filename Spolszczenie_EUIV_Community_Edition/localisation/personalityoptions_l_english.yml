@@ -273,7 +273,7 @@
  personality_options.735.a:0 "A life in the army will harden them again!"
  personality_events.5.t:0 "Pursuit of a Hobby"
  desc_silver_tongued_leverage:0 "Our ruler's ability to convince people that they really want what we want has given us more leverage when negotiating."
- personality_events.13.b.tt:0 "Due to going against the character of [Root.Monarch.GetName] his tolerance bonuses will be nullified by the following modifier##CHAR_DETECT##"
+ personality_events.13.b.tt:0 "Due to going against the character of [Root.Monarch.GetName] his tolerance bonuses will be nullified by the following modifier:"
  ruthless_personality_die_desc:0 "[GetHerHisCap] ruthless tactics could inspire great fear in our enemies."
  personality_options.6004.a:0 "Our [Root.Monarch.GetTitle] will know how to get the most for our money."
  desc_increasing_local_authority:0 "We are rapidly expanding our authority over this area after having crushed local powerholders, stealing their clients."
