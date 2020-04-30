@@ -1,9 +1,6 @@
 package net.rafkos.tools.eu4.euivlocaleparser.loaders
 
-import net.rafkos.tools.eu4.euivlocaleparser.LoaderUtils
-import net.rafkos.tools.eu4.euivlocaleparser.Locale
-import net.rafkos.tools.eu4.euivlocaleparser.LocaleType
-import net.rafkos.tools.eu4.euivlocaleparser.TextUtils
+import net.rafkos.tools.eu4.euivlocaleparser.*
 import net.rafkos.tools.eu4.euivlocaleparser.validators.ValidatorEUIV
 import net.rafkos.tools.eu4.euivlocaleparser.validators.ValidatorTransifex
 import org.apache.commons.io.input.BOMInputStream
@@ -34,25 +31,27 @@ object LocaleLoader {
                     if (stream.bom == null) defaultEncoding else stream.bom.charsetName))
 
             val locale = Locale(src.name, type)
-            var language: String? = null
+            var language: PriorityString? = null
+            var languagePriorityCounter = 0
+            var keyPriorityCounter = 0
             while (reader.ready()) {
                 var line = TextUtils.removeComments(reader.readLine()).trim()
                 if (line == "")
                     continue
 
                 if (LoaderUtils.isLanguageHeader(line)) {
-                    language = LoaderUtils.readLanguageHeader(line)
+                    language = PriorityString(LoaderUtils.readLanguageHeader(line), languagePriorityCounter++)
                     locale.entries[language] = hashMapOf()
                     continue
                 } else if (language == null) {
                     logger.warn("Locale file should start with language header. Got \"$line\".")
-                    language = "NO_HEADER"
+                    language = PriorityString("NO_HEADER", languagePriorityCounter++)
                     if (!locale.entries.containsKey(language))
                         locale.entries[language] = hashMapOf()
                 }
 
-                val key = LoaderUtils.readEntryKey(line)
-                line = line.substring(key.length + 1, line.length)
+                val key = PriorityString(LoaderUtils.readEntryKey(line), keyPriorityCounter++)
+                line = line.substring(key.value.length + 1, line.length)
 
                 var num = 0
                 if (type == LocaleType.EUIV) {
@@ -80,13 +79,14 @@ object LocaleLoader {
         outputStream.use {
             val writer = OutputStreamWriter(BufferedOutputStream(outputStream), StandardCharsets.UTF_8)
             writer.write("\ufeff")
-            locale.entries.forEach { (language, entries) ->
-                if (language != "NO_HEADER")
-                    writer.write("l_$language:\r\n")
-                entries.forEach { (key, pair) ->
+            locale.entries.keys.sortedBy { it.value }.forEach { language ->
+                if (language.value != "NO_HEADER")
+                    writer.write("l_${language.value}:\r\n")
+                locale.entries[language]!!.keys.sortedBy { it.value }.forEach { key ->
+                    val pair = locale.entries[language]!![key]
                     when (locale.type) {
-                        LocaleType.EUIV -> writer.write(" $key:${pair.first} ${pair.second}\r\n")
-                        LocaleType.YAML -> writer.write(" $key: ${pair.second}\r\n")
+                        LocaleType.EUIV -> writer.write(" ${key.value}:${pair!!.first} ${pair.second}\r\n")
+                        LocaleType.YAML -> writer.write(" ${key.value}: ${pair!!.second}\r\n")
                     }
                 }
             }

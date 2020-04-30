@@ -12,7 +12,7 @@ class Locale(val fileName: String,  val type: LocaleType) {
      * Represents locale contents:
      * language -> keys -> (num, text)
      */
-    val entries = hashMapOf<String, HashMap<String, Pair<Int, String>>>()
+    val entries = hashMapOf<PriorityString, HashMap<PriorityString, Pair<Int, String>>>()
 
     /**
      * This function will replace all empty texts with ones in supplementary locale file.
@@ -24,7 +24,7 @@ class Locale(val fileName: String,  val type: LocaleType) {
             logger.error("Can only supplement locales of the same type.")
             throw IllegalArgumentException()
         }
-        hashMapOf<String, HashMap<String, Pair<Int, String>>>().also { it.putAll(entries) }.forEach { (language, lines) ->
+        hashMapOf<PriorityString, HashMap<PriorityString, Pair<Int, String>>>().also { it.putAll(entries) }.forEach { (language, lines) ->
             lines.forEach { (key, pair) ->
                 if ((pair.second == "" || pair.second == "\"\"") && supplement.entries[language]?.containsKey(key) == true) {
                     entries[language]!![key] = supplement.entries[language]!![key]!!
