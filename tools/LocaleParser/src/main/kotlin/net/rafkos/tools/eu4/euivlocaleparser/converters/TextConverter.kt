@@ -20,6 +20,7 @@ object TextConverter {
         val sourceInQuotes = text.startsWith('"') && text.endsWith('"')
         val builder = StringBuilder()
         val textConverted = processCharsets(text, charset.utf8toeu4)
+                .replace("##CHAR_DETECT##", ":") //legacy support
         if (sourceInQuotes) {
             TextUtils.quotesValidation(textConverted)
         } else {
@@ -69,6 +70,7 @@ object TextConverter {
     fun convertToYaml(text: String, charset: Charset, inQuotes: Boolean = Constants.TRANSIFEX_QUOTES): String {
         val builder = StringBuilder()
         val textConverted = processCharsets(text, charset.eu4toutf8)
+                .replace("##CHAR_DETECT##", ":") //legacy support
         TextUtils.quotesValidation(textConverted)
         var index = 0
         while (index < textConverted.length) {
