@@ -1,4 +1,20 @@
-echo "Converting translated files from Transifex into the EU4 format for workshop delivery."
-java -jar LocaleParser-0.1.3-SNAPSHOT.jar folder_supply translations/pl translations/en translations/supplied_pl yaml
-java -jar LocaleParser-0.1.3-SNAPSHOT.jar folder_to_eu4 translations/supplied_pl translations/supplied_pl_eu4 polish
+:: BUILDER SETTINGS
+set language="pl"
+set charset="polish"
+set project_folder="Spolszczenie_EUIV_Community_Edition"
+set parser_version="0.1.3"
+
+:: LOGIC
+echo "Converting translated files from Transifex into the EU4 format for workshop delivery and building mod."
+del /s /f /q temp
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_supply" "translations\\%language%" "translations\\en" "temp\\supply" yaml
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_to_eu4" "temp\\supply" "temp\\eu4" "%charset%"
+cd "%project_folder%"
+echo "Removing old localisations"
+del /s /f /q localisation
+mkdir localisation
+cd ../
+echo "Copying new localisation"
+xcopy /s temp\\eu4 "%project_folder%\\localisation"
+del /s /f /q temp
 pause
