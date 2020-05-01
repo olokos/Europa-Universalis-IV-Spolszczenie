@@ -388,7 +388,6 @@
  LANDING_dlc098_FLAVOR_TEXT: "Enhance the Europa Universalis IV experience with 20 new unit models for Galicia, Granada, Navarra, and the Pirate nations."
  LANDING_dlc099_TEXT: "Main Features##CHAR_DETECT##\n- 3 tracks for Iberian and Pirate nations"
  LANDING_dlc099_FLAVOR_TEXT: "Enjoy 3 tracks of original music inspired by the discovery of the New World."
- #Recommend textsl_english:
  dlcXXX_reason_has_stuff_reason: "\nWe're recommending this unit pack as you have selected a country which gets new unit models from it."
  dlcXXX_reason_india_reason: "\nWe're recommending this DLC as you've picked a country that is in §YIndia§!."
  dlcXXX_reason_muslim_reason: "\nWe're recommending this DLC as you've picked a §YMuslim§! country."
@@ -438,7 +437,7 @@
  dlc020_reason_traders: "The §YTrade Nations Unit Pack§! adds 16 new unique unit models for §YAragon§!, §YGenoa§!, §YNovgorod§! and §YLubeck§!."
  dlc022_reason_republics: "The §YRes Publica Expansion§! adds new mechanics and flavor events for §YRepublics§!, including the ability to become a Dictatorship if Republican Tradition drops too low."
  dlc022_reason_republics_reason: "\nWe're recommending this expansion as you've picked a country that is a §YRepublic§!."
- dlc022_reason_going_dutch: ""
+ dlc022_reason_going_dutch: "The §YRes Publica Expansion§! adds the 'Statist vs Orangists' mechanic to the §YDutch Republic§!, giving it varying bonuses depending on the balance of power."
  dlc022_reason_going_dutch_reason: "\nWe're recommending this expansion as you've picked a country that is or can form the §YNetherlands§!."
  dlc022_reason_merchant_republic: "The §YRes Publica Expansion§! adds new mechanics and flavor events for §YMerchant Republics§!, including a new faction system."
  dlc022_reason_merchant_republic_reason: "\nWe're recommending this expansion as you've picked a country that is a §YMerchant Republic§!."
@@ -566,7 +565,7 @@
  dlc068_reason_has_stuff: "The §YAsian Majors Unit Pack§! adds new army models and textures for §YMing§!, §YQing§!, §YJapan§! and §YKorea§!."
  dlc069_reason_has_stuff: "The §YNorthern Unit Pack§! adds new tribal army models and textures for the §YOirat§!, §YChagatai§!, §YMongol§! and §YManchu§! forces."
  dlc070_reason_generic: "The §YArtillery Pack§! adds new artillery sprites for all culture groups."
- dlc070_reason_generic_reason: "\nWe're recommending this unit pack as you've picked a country that uses artillery." #no really
+ dlc070_reason_generic_reason: "\nWe're recommending this unit pack as you've picked a country that uses artillery."
  dlc071_reason_east_asia: "The §YAsian Ships Pack§! adds new warship models for §YEast Asian§! countries, including the feared Korean Turtle ships and unique Japanese designs."
  dlc071_reason_east_asia_reason: "\nWe're recommending this unit pack as you've picked an §YEast Asian§! country."
  dlc072_reason_russia: "The §YThird Rome Immersion Pack§! adds new mechanics for §YRussia§! such as Tsardoms and Principalities, Streltsy units and colonizing the Siberian Frontier, as well as 48 new unit models for nations in and around the Russian borders."
@@ -625,7 +624,6 @@
  dlc095_reason_pirates_decision_reason: "\nWe're recommending this expansion as you've picked §YPalembang§!, which has the chance to become a Pirate Republic soon after the game starts."
  dlc095_reason_maghreb: "The §YGolden Century Immersion Pack§! adds new content for §YMaghrebi§! nations, including expanded Mission Trees, new ship models and the ability to form Pirate Republics if certain decisions are taken."
  dlc095_reason_maghreb_reason: "\nWe're recommending this expansion as you've picked a country in the §YMaghreb§! region."
- #Some missing lines for Red Queen
  dlc072_reason_orthodox: "The §YThird Rome Immersion Pack§! adds new mechanics for §YOrthodox§! nations such as Piety, Religious Icons and the ability to consecrate highly developed provinces into Metropolitans."
  dlc072_reason_orthodox_reason: "\nWe're recommending this expansion as you've picked an §YOrthodox§! nation."
  dlc060_reason_prussia: "The §YRights of Man Expansion§! adds special mechanics to the §YPrussian§! government form, as well as other features such as Great Powers, Abdications and Monarch Personalities."

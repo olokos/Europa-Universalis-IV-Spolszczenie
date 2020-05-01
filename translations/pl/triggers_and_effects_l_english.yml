@@ -230,14 +230,14 @@
  IS_COUNTRY_CLAIM: "Jest obiektem roszczeń $COUNTRYADJ$."
  ADVISOR_NOT_EMPLOYED: "§Y$NAME$§W nie jest obecnie zatrudniony.\n"
  ADVISOR_EMPLOYED: "§Y$NAME$§W jest obecnie zatrudniony.\n"
- ADVISOR_TYPE_NOT_EMPLOYED_0: "Obecnie nie pracuje dla nas żaden $TYPE$.\n" #Example##CHAR_DETECT## No Quartermaster is currently employed
- ADVISOR_TYPE_NOT_EMPLOYED_1: "Obecnie nie pracuje dla nas żaden $ARG0$ $TYPE$.\n" #Example##CHAR_DETECT## No French Advisor is currently employed
- ADVISOR_TYPE_NOT_EMPLOYED_2: "Obecnie nie pracuje dla nas żaden $ARG0$ $ARG1$ $TYPE$.\n" #Example##CHAR_DETECT## No Protestant English Statesman is currently employed
- ADVISOR_TYPE_NOT_EMPLOYED_3: "Obecnie nie pracuje dla nas żaden $ARG0$ $ARG1$ $ARG2$ $TYPE$.\n" #Example##CHAR_DETECT## No Protestant English female Statesman is currently employed
- ADVISOR_TYPE_EMPLOYED_0: "$TYPE$ już dla nas pracuje.\n" #Example##CHAR_DETECT## Quartermaster is currently employed
- ADVISOR_TYPE_EMPLOYED_1: "$ARG0$ $TYPE$ już dla nas pracuje.\n" #Example##CHAR_DETECT## French Advisor is currently employed
- ADVISOR_TYPE_EMPLOYED_2: "$ARG0$ $ARG1$ $TYPE$ już dla nas pracuje.\n" #Example##CHAR_DETECT## Protestant English Statesman is currently employed
- ADVISOR_TYPE_EMPLOYED_3: "$ARG0$ $ARG1$ $ARG2$ $TYPE$ już dla nas pracuje.\n" #Example##CHAR_DETECT## Protestant English male Statesman is currently employed
+ ADVISOR_TYPE_NOT_EMPLOYED_0: "Obecnie nie pracuje dla nas żaden $TYPE$.\n"
+ ADVISOR_TYPE_NOT_EMPLOYED_1: "Obecnie nie pracuje dla nas żaden $ARG0$ $TYPE$.\n"
+ ADVISOR_TYPE_NOT_EMPLOYED_2: "Obecnie nie pracuje dla nas żaden $ARG0$ $ARG1$ $TYPE$.\n"
+ ADVISOR_TYPE_NOT_EMPLOYED_3: "Obecnie nie pracuje dla nas żaden $ARG0$ $ARG1$ $ARG2$ $TYPE$.\n"
+ ADVISOR_TYPE_EMPLOYED_0: "$TYPE$ już dla nas pracuje.\n"
+ ADVISOR_TYPE_EMPLOYED_1: "$ARG0$ $TYPE$ już dla nas pracuje.\n"
+ ADVISOR_TYPE_EMPLOYED_2: "$ARG0$ $ARG1$ $TYPE$ już dla nas pracuje.\n"
+ ADVISOR_TYPE_EMPLOYED_3: "$ARG0$ $ARG1$ $ARG2$ $TYPE$ już dla nas pracuje.\n"
  ADD_SPY_NETWORK_IN: "Add size $VAL|+$ to the Spy Network in $TARGET$.\n"
  ADD_SPY_NETWORK_FROM: "$TARGET$ Adds size $VAL|-$ to their Spy Network.\n"
  HAVE_SPY_NETWORK_IN: "Have a Spy Network of at least size $VAL$ in $TARGET$.\n"
@@ -642,4 +642,3 @@
  OWNS_ALL_PROVINCES: "Owns all provinces##CHAR_DETECT##\n"
  HAS_NON_GENERIC_MISSIONS: "$COUNTRY|Y$ does have non-generic missions.\n"
  HAS_NOT_NON_GENERIC_MISSIONS: "$COUNTRY|Y$ does NOT have non-generic missions.\n"
- 

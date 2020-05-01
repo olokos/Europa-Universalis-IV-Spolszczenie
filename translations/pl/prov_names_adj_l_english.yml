@@ -1248,7 +1248,6 @@
  PROV_ADJ1247: "Korsyki"
  PROV_ADJ1248: "Malediwów"
  PROV_ADJ1249: "Yoli"
- # SEAS AND LAKES
  PROV_ADJ1250: "Jez. Vänernu"
  PROV_ADJ1251: "Jez. Vätternu"
  PROV_ADJ1252: "Zat. Botnickiej"
@@ -1882,7 +1881,6 @@
  PROV_ADJ1880: "Sundgau"
  PROV_ADJ1881: "Saint Martina"
  PROV_ADJ1882: "Annaby"
- # LAKES AND SEAS
  PROV_ADJ1883: "Zach. Jezior Fińskich"
  PROV_ADJ1884: "Wsch. Jezior Fińskich"
  PROV_ADJ1885: "Śr. Jezior Fińskich"
@@ -1901,9 +1899,7 @@
  PROV_ADJ1898: "Tonlé Sapu"
  PROV_ADJ1899: "Jez. Tana"
  PROV_ADJ1900: "Jez. Turkana"
- # PROVINCE
  PROV_ADJ1901: "Mpangu"
- # LAKES AND SEAS
  PROV_ADJ1902: "Jez. Poopo"
  PROV_ADJ1903: "Jez. Champlain"
  PROV_ADJ1904: "Jez. Saint-Jean"
@@ -1932,12 +1928,9 @@
  PROV_ADJ1927: "Wsch. Morza Bałtyckiego"
  PROV_ADJ1928: "Zach. Morza Alandzkiego"
  PROV_ADJ1929: "Zach. Morza Norweskiego"
- # PROVINCES
  PROV_ADJ1930: "Wysp Alandzkich"
  PROV_ADJ1931: "Fryzji Wschodniej"
- # SEAS AND LAKES
  PROV_ADJ1932: "Zat. Satalia"
- # PROVINCES
  PROV_ADJ1933: "Bari"
  PROV_ADJ1934: "Lucanii"
  PROV_ADJ1935: "Mitawy"
@@ -1980,16 +1973,12 @@
  PROV_ADJ1972: "Udmurcji"
  PROV_ADJ1973: "Urgencza"
  PROV_ADJ1974: "Jedyczkuła"
- # LAKES AND SEAS
  PROV_ADJ1975: "Morza Północnego"
  PROV_ADJ1976: "Morza Martwego"
  PROV_ADJ1977: "Jez. Melar"
- # PROVINCES
  PROV_ADJ1978: "Szetlandów"
  PROV_ADJ1979: "Wysp Owczych"
- # PROVINCES
  PROV_ADJ1980: "Morza Japońskiego"
- # LAKES AND SEAS
  PROV_ADJ1981: "Bornholmu"
  PROV_ADJ1982: "Blekinge"
  PROV_ADJ1983: "Lollandu"
@@ -3601,5 +3590,3 @@
  PROV_ADJ4648: "Acaxee"
  PROV_ADJ4649: "Mayo"
  PROV_ADJ4650: "Opata"
- 
- 

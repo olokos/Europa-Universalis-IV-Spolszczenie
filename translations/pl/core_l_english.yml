@@ -420,7 +420,7 @@
  OUTLINER_CANCEL: "\n§GKliknij PPM, by anulować.§!"
  COUNTRYRIGHTCLICK_INTERESTING_MARK: "Oznacz jako interesujące cię państwo."
  COUNTRYRIGHTCLICK_INTERESTING_UNMARK: "Odznacz status interesującego cię państwa."
- MP_SERVER_ID: ""
+ MP_SERVER_ID: "ID serwera: $VAL|Y$"
  OVEREX: "Przerost"
  BORDER_DISTANCE: "Odległość graniczna"
  DIPLO_ATTITUDE: "$ATTITUDE$ nastawienie względem kraju $COUNTRY$:"
@@ -913,4 +913,3 @@
  CHAT_ERROR_MUTE_MISSINGARGS: ""
  CHAT_ERROR_UNMUTE_MISSINGARGS: ""
  CHAT_ERROR_MUTEUNMUTE_SELF: "Nie możesz siebie samego wyciszyć bądź włączyć!"
-
