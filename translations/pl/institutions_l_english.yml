@@ -41,7 +41,7 @@
  MAPMODE_INSTITUTIONS: "Nurty"
  MAPMODE_INSTITUTIONS_DESC: "Zaznacza kolorem prowincje w zależności od tego, czy przyjęły wszystkie powstałe nurty. Zielony oznacza, że tak uczyniły, żółty - że zmierzają do tego, czerwony - że nie."
  HAS_EMBRACED_INSTITUTION: "$NAME$: §Yobecny§!"
- EMBRACING_INSTITUTION: "$NAME$: §Y$VAL$%§!"
+ EMBRACING_INSTITUTION: ""
  NOT_EMBRACED: "nie przyjęto: "
  OPEN_CLOSE_INSTITUTIONS: "Zamknij/Otwórz nurty"
  HEADER_PRESENT_INSTITUTIONS: "§YObecne nurty:§!"
