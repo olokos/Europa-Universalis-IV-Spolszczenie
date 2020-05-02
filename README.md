@@ -1,6 +1,14 @@
 # Europa Universalis IV Community Translation / Spolszczenie
 Spolszczenie do najnowszej wersji Europa Universalis 4 1.29.2.
 
+##Stan w  wersji 2.2 [2.05.2020]:
+3,316 strings Reviewed
+58,418 strings Translated
+23,986 strings Untranslated
+
+23,986 strings to translate
+55,102 strings to review
+
 Jest to obecnie najpełniejsze spolszczenie, stworzone przez społeczność gry.
 
 Aktualnie nasze spolszczenie posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie spolszczeń. (43% całej gry)
@@ -44,7 +52,7 @@ Serdecznie zapraszamy do pomocy w tłumaczeniu! :smile:
 - Naprawiono błąd z wiekiem władców dzięki @NereXus
 - Zaktualizowano źródłowe stringi do tłumaczenia z gry (30.04.2020)
 - Dzięki @TheBadOgre został zautomatyzowany proces aktualizacji angielskich stringów z gry i aktualizacji spolszczenia na steam workshop!
-
+- Zaktualizowano dostępne spolszczenia - obecnie przetłumaczono 70.89% całej gry z dodatkami! [2.05.2020] 
 
 **_W razie jakichkolwiek problemów/zastrzeżeń/propozycji zachęcamy do kontaktu poprzez serwer discord [Dostępny Tutaj](https://discord.gg/QUB7z23])_**
 
