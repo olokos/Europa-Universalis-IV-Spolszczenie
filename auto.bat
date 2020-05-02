@@ -6,7 +6,7 @@ set parser_version="0.1.3"
 
 :: LOGIC
 echo "Converting translated files from Transifex into the EU4 format for workshop delivery and building mod."
-del /s /f /q temp
+rd /s /q temp
 java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_supply" "translations\\%language%" "translations\\en" "temp\\supply" yaml
 java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_to_eu4" "temp\\supply" "temp\\eu4" "%charset%"
 cd "%project_folder%"
@@ -16,5 +16,5 @@ mkdir localisation
 cd ../
 echo "Copying new localisation"
 xcopy /s temp\\eu4 "%project_folder%\\localisation"
-del /s /f /q temp
+rd /s /q temp
 pause

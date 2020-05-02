@@ -81,12 +81,12 @@ object LocaleLoader {
             writer.write("\ufeff")
             locale.entries.keys.sortedBy { it.priority }.forEach { language ->
                 if (language.value != "NO_HEADER")
-                    writer.write("l_${language.value}:\r\n")
+                    writer.write("l_${language.value}:\n")
                 locale.entries[language]!!.keys.sortedBy { it.priority }.forEach { key ->
                     val pair = locale.entries[language]!![key]
                     when (locale.type) {
-                        LocaleType.EUIV -> writer.write(" ${key.value}:${pair!!.first} ${pair.second}\r\n")
-                        LocaleType.YAML -> writer.write(" ${key.value}: ${pair!!.second}\r\n")
+                        LocaleType.EUIV -> writer.write(" ${key.value}:${pair!!.first} ${pair.second}\n")
+                        LocaleType.YAML -> writer.write(" ${key.value}: ${pair!!.second}\n")
                     }
                 }
             }
