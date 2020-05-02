@@ -420,7 +420,7 @@
  OUTLINER_CANCEL:0 "\n§GKliknij PPM, by anulowa¾.§!"
  COUNTRYRIGHTCLICK_INTERESTING_MARK:0 "Oznacz jako interesuj¹ce ci² paªstwo."
  COUNTRYRIGHTCLICK_INTERESTING_UNMARK:0 "Odznacz status interesuj¹cego ci² paªstwa."
- MP_SERVER_ID:0 "Server ID: $VAL|Y$ (Click to copy)"
+ MP_SERVER_ID:0 "ID serwera: $VAL|Y$"
  OVEREX:0 "Przerost"
  BORDER_DISTANCE:0 "Odleg³oœ¾ graniczna"
  DIPLO_ATTITUDE:0 "$ATTITUDE$ nastawienie wzgl²dem kraju $COUNTRY$:"
