@@ -23,7 +23,7 @@
  TIMELINE_SPEED_3: "Szybko"
  TIMELINE_SPEED_4: "Bardzo szybko"
  HOSTILE_TITLE: "Inne państwa posiadają następujące karty, co zmniejsza nasz wynik."
- HOSTILE_VICTORY_CARD_DESC: ""
+ HOSTILE_VICTORY_CARD_DESC: "§Y$AREA$§!: $COLOR$$SCORE$§!"
  TRADELEAGUE_WELEFT_VOLUNTARILY: "Odeszliśmy na własnych warunkach."
  TRADELEAGUE_WELEFT_GONE: "Nasz kraj już nie istnieje."
  TRADELEAGUE_WELEFT_SUBJECT: "Nasz kraj już nie istnieje."
