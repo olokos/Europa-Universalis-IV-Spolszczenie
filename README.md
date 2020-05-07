@@ -2,13 +2,13 @@
 Spolszczenie do najnowszej wersji Europa Universalis 4 1.29.6.0 (Manchu.4caef1b658 (b3ef))
 Działa bezproblemowo z każdą wersją gry 1.29
 
--##Stan w  wersji 2.2 [2.05.2020]:
--3,316 strings Reviewed
--58,418 strings Translated
--23,986 strings Untranslated
+##Stan w  wersji 2.2 [2.05.2020]:
+*3,316 strings Reviewed
+*58,418 strings Translated
+*23,986 strings Untranslated
 
--23,986 strings to translate
--55,102 strings to review
+*23,986 strings to translate
+*55,102 strings to review
 
 Jest to obecnie najpełniejsze spolszczenie, stworzone przez społeczność gry.
 
