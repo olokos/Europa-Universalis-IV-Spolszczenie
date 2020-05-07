@@ -23,7 +23,7 @@
  TIMELINE_SPEED_3:0 "Szybko"
  TIMELINE_SPEED_4:0 "Bardzo szybko"
  HOSTILE_TITLE:0 "Inne paªstwa posiadaj¹ nast²puj¹ce karty, co zmniejsza nasz wynik."
- HOSTILE_VICTORY_CARD_DESC:0 "§Y$AREA$§!: $COLOR$$SCORE$§!\n"
+ HOSTILE_VICTORY_CARD_DESC:0 "§Y$AREA$§!: $COLOR$$SCORE$§!"
  TRADELEAGUE_WELEFT_VOLUNTARILY:0 "Odeszliœmy na w³asnych warunkach."
  TRADELEAGUE_WELEFT_GONE:0 "Nasz kraj ju¿ nie istnieje."
  TRADELEAGUE_WELEFT_SUBJECT:0 "Nasz kraj ju¿ nie istnieje."
