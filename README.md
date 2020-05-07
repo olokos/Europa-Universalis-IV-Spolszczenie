@@ -66,7 +66,7 @@ Serdecznie zapraszamy do pomocy w tłumaczeniu! :smile:
 - Ereno - twórca
 - Sano2 - twórca, tłumacz
 - tdomek - tłumacz
-- Masahara - tłumacz
+- Masahara - korekta, pomoc w organizacji
 - Batziy - polskie czcionki
 - Grajpopolsku.pl - bazowe spolszczenie podstawowej wersji gry w wersji 1.27 - około 30% gry
 - NereXus - poprawka, która naprawia problem z 3 kropkami zamiast wieku władcy jeśli gracz gra na małym monitorze.
