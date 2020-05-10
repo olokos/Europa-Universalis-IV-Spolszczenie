@@ -69,4 +69,120 @@ object ProcessHelper {
             }
         }
     }
+
+    /**
+     * Filters input locales based on condition. Each input locale's entry will be checked against condition.
+     * - when condition is true the input entry will be added to output locale
+     * - when condition is false the input entry will be filtered from output
+     * Condition takes input's entry.
+     */
+    fun filterLocales(input: List<Locale>, condition: (String, String) -> Boolean): List<Locale> {
+        val output = mutableListOf<Locale>()
+        input.forEach { i ->
+                    val o = Locale(i.fileName, i.type)
+                    i.entries.forEach { (lang, lines) ->
+                        lines.forEach { (key, pair) ->
+                            if (condition(key.value, pair.second)) {
+                                if (!o.entries.containsKey(lang))
+                                    o.entries[lang] = hashMapOf()
+                                o.entries[lang]!![key] = Pair(pair.first, pair.second)
+                            }
+                    }
+                    output.add(o)
+                }
+            }
+        return output
+    }
+
+    fun filterLocales(input: List<Locale>, condition: (String) -> Boolean): List<Locale> =
+            filterLocales(input) { _, value -> condition(value)}
+
+    /**
+     * Filters input locales based on filter locales and condition. Each input locale's entry will be checked against
+     * corresponding filter locale's entry:
+     * - when condition is true the input entry will be added to output locale
+     * - when condition is false the input entry will be filtered from output
+     * - when corresponding locale file does not exist then the locale will be included in output
+     * - when corresponding entry does not exist then the entry will be included in output
+     * Condition takes input's entry and filter's entry.
+     */
+    fun filterLocales(input: List<Locale>, filter: List<Locale>, condition: (String, String) -> Boolean): List<Locale> {
+        val output = mutableListOf<Locale>()
+        input.forEach { i ->
+            when (val f = findCorrespondingLocale(i, filter)) {
+                null -> output.add(i.clone())
+                else -> {
+                    val o = Locale(i.fileName, i.type)
+                    i.entries.forEach { (lang, lines) ->
+                        lines.forEach { (key, pair) ->
+                            val add = when {
+                                f.entries.containsKey(lang) && f.entries[lang]!!.containsKey(key) ->
+                                    condition(pair.second, f.entries[lang]!![key]!!.second)
+                                else -> true
+                            }
+                            if (add) {
+                                if (!o.entries.containsKey(lang))
+                                    o.entries[lang] = hashMapOf()
+                                o.entries[lang]!![key] = Pair(pair.first, pair.second)
+                            }
+                        }
+                    }
+                    output.add(o)
+                }
+            }
+        }
+        return output
+    }
+
+    /**
+     * Returns a locale with input's filename from locales list. Returns null if not found. In case of many
+     * locales it will return first one found.
+     */
+    private fun findCorrespondingLocale(input: Locale, locales: List<Locale>): Locale? =
+        locales.find { it.fileName == input.fileName }
+
+    /**
+     * Merges provided locales to one locale.
+     */
+    fun mergeLocales(locales: List<Locale>, fileName: String, type: LocaleType): Locale {
+        val o = Locale(fileName, type)
+        locales.forEach { loc ->
+            when {
+                loc.type != type -> {
+                    logger.error("Incorrect locale type provided. Expected \"$type\" format, got \"${loc.type}\".")
+                    throw IllegalArgumentException()
+                }
+                else -> loc.entries.forEach { (lang, lines) ->
+                    lines.forEach { (key, pair) ->
+                        if (!o.entries.containsKey(lang))
+                            o.entries[lang] = hashMapOf()
+                        o.entries[lang]!![key] = Pair(pair.first, pair.second)
+                    }
+                }
+            }
+        }
+        return o
+    }
+
+    /**
+     * Patches entries in provided locales with given patch.
+     */
+    fun patchLocales(locales: List<Locale>, patch: Locale): List<Locale> {
+        val output = mutableListOf<Locale>()
+        locales.forEach { loc ->
+            val copy = loc.clone()
+            loc.entries.forEach { (lang, lines) ->
+                lines.forEach { (key, pair) ->
+                    if (patch.entries.containsKey(lang)) {
+                        if (patch.entries[lang]!!.containsKey(key)) {
+                            val patchPair = patch.entries[lang]!![key]!!
+                            copy.entries[lang]!![key] = Pair(patchPair.first, patchPair.second)
+                        }
+                    }
+                }
+            }
+            output.add(copy)
+        }
+        return output
+    }
 }

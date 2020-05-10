@@ -32,4 +32,17 @@ class Locale(val fileName: String,  val type: LocaleType) {
             }
         }
     }
+
+    fun clone(): Locale {
+        val clone = Locale(fileName, type)
+        entries.forEach { (lang, keys) ->
+            if (!clone.entries.containsKey(lang))
+                clone.entries[lang] = hashMapOf()
+            keys.forEach { (key, pair) ->
+                clone.entries[lang]!![key] = Pair(pair.first, pair.second)
+            }
+
+        }
+        return clone
+    }
 }

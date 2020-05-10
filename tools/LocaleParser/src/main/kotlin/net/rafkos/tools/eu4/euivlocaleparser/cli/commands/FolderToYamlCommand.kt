@@ -14,7 +14,7 @@ object FolderToYamlCommand : Command {
         val input = File(args[0])
 
         if (!input.isDirectory) {
-            println("Input folder ${input.canonicalPath}\" does not exist or is a file.")
+            println("Input folder \"${input.canonicalPath}\" does not exist or is a file.")
             return false
         }
 
@@ -22,7 +22,7 @@ object FolderToYamlCommand : Command {
         output.mkdirs()
 
         if (!output.isDirectory) {
-            println("Output folder ${output.canonicalPath}\" does not exist or is a file.")
+            println("Output folder \"${output.canonicalPath}\" does not exist or is a file.")
             return false
         }
 

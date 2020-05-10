@@ -13,14 +13,14 @@ object SupplementCommand : Command {
         val input = File(args[0])
 
         if (!input.isFile) {
-            println("Input file ${input.canonicalPath}\" does not exist or is a folder.")
+            println("Input file \"${input.canonicalPath}\" does not exist or is a folder.")
             return false
         }
 
         val supplementary = File(args[1])
 
         if (!supplementary.isFile) {
-            println("Supplementary file ${supplementary.canonicalPath}\" does not exist or is a folder.")
+            println("Supplementary file \"${supplementary.canonicalPath}\" does not exist or is a folder.")
             return false
         }
 

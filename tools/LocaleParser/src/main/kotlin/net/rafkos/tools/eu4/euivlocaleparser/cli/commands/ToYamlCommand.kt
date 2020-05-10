@@ -20,7 +20,6 @@ object ToYamlCommand : Command {
         }
 
         val output = File(args[1])
-        output.mkdirs()
 
         if (output.isDirectory) {
             println("Output file \"${output.canonicalPath}\" has the same name as folder in this directory.")

@@ -13,14 +13,14 @@ object FolderSupplementCommand : Command {
         val input = File(args[0])
 
         if (!input.isDirectory) {
-            println("Input folder ${input.canonicalPath}\" does not exist or is a file.")
+            println("Input folder \"${input.canonicalPath}\" does not exist or is a file.")
             return false
         }
 
         val supplementary = File(args[1])
 
         if (!supplementary.isDirectory) {
-            println("Supplementary folder ${supplementary.canonicalPath}\" does not exist or is a file.")
+            println("Supplementary folder \"${supplementary.canonicalPath}\" does not exist or is a file.")
             return false
         }
 
@@ -28,7 +28,7 @@ object FolderSupplementCommand : Command {
         output.mkdirs()
 
         if (!output.isDirectory) {
-            println("Output folder ${output.canonicalPath}\" does not exist or is a file.")
+            println("Output folder \"${output.canonicalPath}\" does not exist or is a file.")
             return false
         }
 

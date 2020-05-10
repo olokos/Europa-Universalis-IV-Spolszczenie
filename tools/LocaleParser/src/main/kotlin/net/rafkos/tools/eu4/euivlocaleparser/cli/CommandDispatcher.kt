@@ -13,7 +13,11 @@ object CommandDispatcher {
             "to_eu4" to ToEUIVCommand,
             "folder_to_eu4" to FolderToEUIVCommand,
             "supply" to SupplementCommand,
-            "folder_supply" to FolderSupplementCommand
+            "folder_supply" to FolderSupplementCommand,
+            "extract_untranslated" to FolderExtractUntranslatedCommand,
+            "folder_merge" to FolderMergeCommand,
+            "patch" to PatchCommand,
+            "create_short" to CreateShortCommand
     )
 
     fun processInput(args: Array<String>) {

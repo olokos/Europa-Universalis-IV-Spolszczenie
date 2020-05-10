@@ -14,4 +14,9 @@ object Constants {
      * Regex for accepted characters for keys.
      */
     val ACCEPTED_KEY_CHARS: Pattern = Pattern.compile("[a-zA-Z0-9-_.]")
+
+    /**
+     * Filter for create_short command.
+     */
+    val SHORT_FILES_FILTER: (String, String) -> Boolean = { key, value -> value.length < 60 && !key.startsWith("PROV") }
 }
