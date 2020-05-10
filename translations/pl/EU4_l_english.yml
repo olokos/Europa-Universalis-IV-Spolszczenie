@@ -1692,7 +1692,7 @@
  MANPOWER_DRO2: "Maksymalne zasoby ludzkie prowincji §Y$BASE$§W zależą od\n"
  MANPOWER_IRO_OTHERS: "§YZasoby ludzkie§!\nMaksymalny poziom to §Y$MAX$§W\nObecnie kraj §Y$NAME$§W zyskuje §Y$YEARLY$§W rekrutów miesięcznie.\nAby osiągnąć pełen stan armii, potrzebują §Y$NEED$§W ludzi, a w tym miesiącu do wojska trafi ich §Y$USED$§W."
  SAILOR_MAINT_BASE: ""
- SAILORS_IRO: "§YMarynarze§!\nMaksymalny poziom to §Y$MAX$§W\nObecnie zyskujesz §Y$YEARLY$§W marynarzy miesięcznie i zużywasz ich $MAIN|R$ podczas misji.\nAby osiągnąć pełen stan twojej floty, potrzebujesz §Y$NEED$§W marynarzy, a w tym miesięcy na okręty trafi ich §Y$USED$§W.\nNa misji jest obecnie $FLEET$ flot."
+ SAILORS_IRO: "§YMarynarze§!\nMaksymalny poziom to §Y$MAX$§W\nObecnie zyskujesz §Y$YEARLY$§W marynarzy miesięcznie i zużywasz ich $MAIN|R$ podczas misji.\nAby osiągnąć pełen stan twojej floty, potrzebujesz §Y$NEED$§W marynarzy, a w tym miesiącu na okręty trafi ich §Y$USED$§W.\nNa misji jest obecnie $FLEET$ flot."
  SAILORS_IRO_OTHERS: "§YMarynarze§!\nMaksymalny poziom to §Y$MAX$§W\nObecnie zyskują ich §Y$YEARLY$§W miesięcznie.\nAby osiągnąć pełen stan obsady flot, potrzebują §Y$NEED$§W marynarzy, a w tym miesiącu na okręty trafi ich §Y$USED$§W."
  SAILORS_DRO2: "Maksymalna liczba marynarzy w prowincji §Y$BASE$§W zależy od\n"
  POOL_HAS_SAILORS: "§Y$POOL$§! marynarzy oczekuje na zbudowanie okrętów. Nasza pula marynarzy nie może przekroczyć §Y$MAX$§!."
