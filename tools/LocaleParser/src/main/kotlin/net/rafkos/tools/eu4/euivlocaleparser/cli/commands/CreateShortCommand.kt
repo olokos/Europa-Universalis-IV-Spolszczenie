@@ -20,13 +20,6 @@ object CreateShortCommand : Command {
             return false
         }
 
-        val output = File(args[1])
-
-        if (output.isDirectory) {
-            println("Output file \"${output.canonicalPath}\" has the same name as folder in this directory.")
-            return false
-        }
-
         val format = args[2].toLowerCase()
         if (format != "eu4" && format != "euiv" && format != "yaml" && format != "yml") {
             println("Incorrect format type \"$format\". Should be one of the two: \"eu4\", \"yaml\".")
@@ -44,11 +37,16 @@ object CreateShortCommand : Command {
         }
         val input = File(args[0])
         val output = File(args[1])
+        val output1 = File("${output.canonicalPath}.0_30")
+        val output2 = File("${output.canonicalPath}.31_60")
         val locales = ProcessHelper.loadDirectoryOfType(input, format)
-        val filtered = ProcessHelper.filterLocales(locales, Constants.SHORT_FILES_FILTER)
-        val merged = ProcessHelper.mergeLocales(filtered, output.name, format)
-        LocaleLoader.writeToFile(output, merged)
+        val filtered1 = ProcessHelper.filterLocales(locales, Constants.SHORT_FILES_FILTER)
+        val filtered2 = ProcessHelper.filterLocales(locales, Constants.SHORT_FILES_FILTER_2)
+        val merged1 = ProcessHelper.mergeLocales(filtered1, output1.name, format)
+        val merged2 = ProcessHelper.mergeLocales(filtered2, output2.name, format)
+        LocaleLoader.writeToFile(output1, merged1)
+        LocaleLoader.writeToFile(output2, merged2)
     }
 
-    override val help: String = "<input folder> <output file> <locale type: yaml/eu4> - Creates a single file with short strings based on input folder locales. Input folder has to be of specified type."
+    override val help: String = "<input folder> <output file> <locale type: yaml/eu4> - Creates files with short strings based on input folder locales. Input folder has to be of specified type."
 }

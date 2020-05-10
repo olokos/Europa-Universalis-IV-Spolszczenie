@@ -18,5 +18,6 @@ object Constants {
     /**
      * Filter for create_short command.
      */
-    val SHORT_FILES_FILTER: (String, String) -> Boolean = { key, value -> value.length < 60 && !key.startsWith("PROV") }
+    val SHORT_FILES_FILTER: (String, String) -> Boolean = { key, value -> value.length in 0..30 && !key.startsWith("PROV") }
+    val SHORT_FILES_FILTER_2: (String, String) -> Boolean = { key, value -> value.length in 31..60 && !key.startsWith("PROV") }
 }
