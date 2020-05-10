@@ -480,7 +480,7 @@
  maya_religion_events.15.t:0 "Trade with Quetzal feathers"
  maya_religion_events.15.d:0 "$FROMCOUNTRY$ is desperate for quetzal feathers which are offered to Tohil, god of war, sacrifice and sustenance, a fire deity, sun god and god of rain. They wish to purchase feathers from us."
  maya_religion_events.15.a:0 "Trade with them."
- maya_religion_events.15.b:0 "Refuse."
+ maya_religion_events.15.b:0 "Odrzu¾."
  maya_religion_events.16.t:0 "Tradeoffer accepted"
  maya_religion_events.16.d:0 "$FROMCOUNTRY$ agreed to trade with us, now we have the quetzal feathers we need to please Tohil!"
  maya_religion_events.16.a:0 "Good, they are a true friend."
