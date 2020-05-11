@@ -82,6 +82,8 @@ object LocaleLoader {
             locale.entries.keys.sortedBy { it.priority }.forEach { language ->
                 if (language.value != "NO_HEADER")
                     writer.write("l_${language.value}:\n")
+                else if (locale.type == LocaleType.YAML)
+                    writer.write("l_NO_HEADER:\n")
                 locale.entries[language]!!.keys.sortedBy { it.priority }.forEach { key ->
                     val pair = locale.entries[language]!![key]
                     when (locale.type) {
