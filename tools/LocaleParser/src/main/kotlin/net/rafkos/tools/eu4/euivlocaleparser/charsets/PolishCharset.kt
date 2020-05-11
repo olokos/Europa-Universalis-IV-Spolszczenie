@@ -5,14 +5,19 @@ package net.rafkos.tools.eu4.euivlocaleparser.charsets
  */
 object PolishCharset : Charset(hashMapOf(
         "¹" to "ą",
-        "²" to "ę",
-        "³" to "ł",
+        "¥" to "Ą",
         "¾" to "ć",
-        "Œ" to "Ś",
-        "œ" to "ś",
-        "ª" to "ń",
-        "¿" to "ż",
-        "Ÿ" to "ź",
+        "¶" to "Ć",
+        "²" to "ę",
+        "‡" to "Ę",
+        "³" to "ł",
         "µ" to "Ł",
-        "¯" to "Ż"
+        "ª" to "ń",
+        "Ñ" to "Ń",
+        "œ" to "ś",
+        "Œ" to "Ś",
+        "¿" to "ż",
+        "¯" to "Ż",
+        "Ÿ" to "ź",
+        "Ä" to "Ź"
 ))
