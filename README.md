@@ -1,8 +1,10 @@
-# Europa Universalis IV Community Translation / Spolszczenie
+Europa Universalis IV Community Translation / Spolszczenie
+===
 Spolszczenie do najnowszej wersji Europa Universalis 4 1.29.6.0 (Manchu.4caef1b658 (b3ef))
 Działa bezproblemowo z każdą wersją gry 1.29
 
-## Stan w  wersji 2.44 [11.05.2020]:
+Stan w  wersji 2.44 [11.05.2020]:
+---
  * 6,898 strings Reviewed
  * 62,458 strings Translated
  * 22,846 strings Untranslated
@@ -11,7 +13,8 @@ Jest to obecnie najpełniejsze spolszczenie, stworzone przez społeczność gry.
 
 Aktualnie nasze spolszczenie posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie spolszczeń. (73% całej gry)
 
-## This is mainly polish translation made for Europa Universalis IV.
+This is mainly polish translation made for Europa Universalis IV.
+---
 With that said, you can request a translation for a new language.
 
 _If you want to request a new language, make sure you can translate at least 10% of the language!_
@@ -20,7 +23,8 @@ _If you want to request a new language, make sure you can translate at least 10%
 
 Once you are on the site above - press on "Help Translate" button on the right to help translating it in your language!
 
-## Jak się dołączyć?
+Jak się dołączyć?
+---
 
 Po więcej informacji zapraszamy na serwer discord [Dostępny Tutaj](https://discord.gg/QUB7z23])
 
@@ -33,7 +37,8 @@ Jak już jesteś na stronie z linku, naciśnij "Help Translate", aby wysłać pr
 Serdecznie zapraszamy do pomocy w tłumaczeniu! :smile:
 
 
-## **Spolszczenie całkowicie kompatybilne z achievementami! Z włączonym spolszczeniem śmiało można zdobywać wszystkie achievmenty!**
+**Spolszczenie całkowicie kompatybilne z achievementami! Z włączonym spolszczeniem śmiało można zdobywać wszystkie achievmenty!**
+---
 
 **Instalacja moda:**
 1. Zasubskrybuj modyfikację.
@@ -54,7 +59,8 @@ Serdecznie zapraszamy do pomocy w tłumaczeniu! :smile:
 
 **_W razie jakichkolwiek problemów/zastrzeżeń/propozycji zachęcamy do kontaktu poprzez serwer discord [Dostępny Tutaj](https://discord.gg/QUB7z23])_**
 
-## UWAGA! Gdyby w launcherze pojawiała się informacja, że modyfikacja jest do nieaktualnej wersji gry należy:
+UWAGA! Gdyby w launcherze pojawiała się informacja, że modyfikacja jest do nieaktualnej wersji gry należy:
+---
 1. Uruchomić launcher gry (uruchomić grę przez Steam).
 2. Z włączonym launcherem odsubskrybować moda oraz po chwili zasubskrybować go na nowo.
 
