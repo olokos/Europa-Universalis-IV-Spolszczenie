@@ -397,7 +397,7 @@
  merchant_navy_desc:0 "Our fleet's prime directive is to serve the financial interests of the State. Every effort shall be made to ensure our cargo ships are laden with foreign riches."
  ship_boarding:0 "Aborda¿ statków"
  ship_boarding_desc:0 "With established Prize Law and generous Letters of Marque we will nurture a custom of seizing enemy ships intact."
- wooden_wall:0 "Drewniany mur"
+ wooden_wall:0 "Drewniany mur "
  wooden_wall_desc:0 "In a world of rapid change the seas remain of crucial importance to our nation. Both as means to secure our dominance and as the first line of defense our wooden wall shall prevail."
  alert_can_set_naval_doctrine_instant:0 "§YMo¿esz wybra¾ doktryn² morsk¹§!"
  alert_can_set_naval_doctrine_delayed:0 "We have reached a high enough naval force limit to be able to select a Naval Doctrine giving us permanent naval bonuses."
