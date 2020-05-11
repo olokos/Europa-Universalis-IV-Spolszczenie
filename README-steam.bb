@@ -9,12 +9,12 @@ Działa bezproblemowo z każdą wersją gry 1.29
 
 Jest to obecnie najpełniejsze spolszczenie, stworzone przez społeczność gry.
 
-Aktualnie nasze spolszczenie posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie spolszczeń. (73% całej gry)
+Aktualnie nasze spolszczenie posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie spolszczeń. [b](73% całej gry)[/b]
 
 [h2]This is mainly polish translation made for Europa Universalis IV.[/h2]
 With that said, you can request a translation for a new language.
 
-_If you want to request a new language, make sure you can translate at least 10% of the language!_
+If you want to request a new language, make sure you can translate at least 10% of the language!
 
 [url=https://www.transifex.com/europa-universalis-iv-community-translation/Community-edition/]Press here to visit project page[/url]
 
@@ -25,11 +25,11 @@ Po więcej informacji zapraszamy na serwer discord [url=https://discord.gg/QUB7z
 
 Jeżeli chcesz dołączyć się do prac nad spolszczeniem - daj znać na serwerze discord i dołącz poprzez link poniżej.
 
-[url=https://www.transifex.com/europa-universalis-iv-community-translation/Community-edition/]Link poniżej :smile: [/url]
+[url=https://www.transifex.com/europa-universalis-iv-community-translation/Community-edition/]Link[/url]
 
 Jak już jesteś na stronie z linku, naciśnij "Help Translate", aby wysłać prośbę o dołączenie do projektu.
 
-Serdecznie zapraszamy do pomocy w tłumaczeniu! :smile:
+Serdecznie zapraszamy do pomocy w tłumaczeniu!
 
 
 [h2][b]Spolszczenie całkowicie kompatybilne z achievementami! Z włączonym spolszczeniem śmiało można zdobywać wszystkie achievmenty![/b][/h2]
