@@ -3,9 +3,9 @@ Spolszczenie do najnowszej wersji Europa Universalis 4 1.29.6.0 (Manchu.4caef1b6
 Działa bezproblemowo z każdą wersją gry 1.29
 
 ## Stan w  wersji 2.44 [11.05.2020]:
-* 6,898 strings Reviewed
-* 62,456 strings Translated
-* 22,848 strings Untranslated
+ * 6,898 strings Reviewed
+ * 62,458 strings Translated
+ * 22,846 strings Untranslated
 
 Jest to obecnie najpełniejsze spolszczenie, stworzone przez społeczność gry.
 
@@ -59,13 +59,13 @@ Serdecznie zapraszamy do pomocy w tłumaczeniu! :smile:
 2. Z włączonym launcherem odsubskrybować moda oraz po chwili zasubskrybować go na nowo.
 
 **Twórcy oraz specjalne podziękowania:**
+- Batziy - polskie czcionki
+- Grajpopolsku.pl - bazowe spolszczenie podstawowej wersji gry w wersji 1.27 - około 30% gry
 - olokos - twórca
 - Ereno - twórca
 - Sano2 - twórca, tłumacz
 - tdomek - tłumacz
 - Masahara - korekta, pomoc w organizacji
-- Batziy - polskie czcionki
-- Grajpopolsku.pl - bazowe spolszczenie podstawowej wersji gry w wersji 1.27 - około 30% gry
 - NereXus - poprawka, która naprawia problem z 3 kropkami zamiast wieku władcy jeśli gracz gra na małym monitorze.
-- Rafkos - twórca narzędzi do konwertowania plików
+- Rafkos - twórca narzędzi do konwertowania plików, korekta plików
 - Shick - tłumacz
