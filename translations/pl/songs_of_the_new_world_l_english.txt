@@ -1,4 +1,0 @@
-﻿l_english:
- thegrandarmada: "The Grand Armada"
- thehunt: "The Hunt"
- travelthenewworld: "Travel the New World"
