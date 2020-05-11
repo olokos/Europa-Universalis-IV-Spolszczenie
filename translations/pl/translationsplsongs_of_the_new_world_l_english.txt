@@ -1,0 +1,4 @@
+﻿l_english:
+ thegrandarmada: "The Grand Armada"
+ thehunt: "Polowanie"
+ travelthenewworld: "Podróż po Nowym Świecie"
