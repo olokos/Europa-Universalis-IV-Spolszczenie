@@ -161,7 +161,7 @@
  SHAREMAP_1:0 "Udost²pniono mapy"
  SHAREMAP_2:0 "Panie, kraj $RECIPIENT$ udost²pni³ nam mapy regionu"
  SHAREMAP_3:0 "$REGION$."
- SHAREMAP_4:0 "."
+ SHAREMAP_4:0 "with us."
  SHAREMAP_5:0 "Dowiedzieliœmy si² o $NUM_PROVS|Y$ nowych prowincjach."
  SHAREMAP_6:0 "Kosztowa³o nas to $PRESTIGE$ punktów presti¿u."
  SHAREMAP_LOG:0 "Otrzymaliœmy mapy regionu $REGION$ od kraju $RECIPIENT$."
