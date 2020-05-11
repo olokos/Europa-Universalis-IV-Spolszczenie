@@ -30,11 +30,11 @@ Po więcej informacji zapraszamy na serwer discord [Dostępny Tutaj](https://dis
 
 Jeżeli chcesz dołączyć się do prac nad spolszczeniem - daj znać na serwerze discord i dołącz poprzez link poniżej.
 
-[Link poniżej :smile: ](https://www.transifex.com/europa-universalis-iv-community-translation/Community-edition/)
+[Link](https://www.transifex.com/europa-universalis-iv-community-translation/Community-edition/)
 
 Jak już jesteś na stronie z linku, naciśnij "Help Translate", aby wysłać prośbę o dołączenie do projektu.
 
-Serdecznie zapraszamy do pomocy w tłumaczeniu! :smile:
+Serdecznie zapraszamy do pomocy w tłumaczeniu!
 
 
 **Spolszczenie całkowicie kompatybilne z achievementami! Z włączonym spolszczeniem śmiało można zdobywać wszystkie achievmenty!**
