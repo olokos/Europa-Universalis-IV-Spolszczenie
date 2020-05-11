@@ -2,6 +2,7 @@ package net.rafkos.tools.eu4.euivlocaleparser.converters
 
 import net.rafkos.tools.eu4.euivlocaleparser.Locale
 import net.rafkos.tools.eu4.euivlocaleparser.LocaleType
+import net.rafkos.tools.eu4.euivlocaleparser.SpecialFilenames
 import net.rafkos.tools.eu4.euivlocaleparser.charsets.Charset
 import org.apache.logging.log4j.LogManager
 
@@ -19,7 +20,8 @@ object LocaleConverter {
             logger.error("This file is already in specified format.")
             throw IllegalArgumentException()
         }
-        return Locale(loc.fileName, type).also { locc ->
+        return Locale(SpecialFilenames.getFilename(loc.fileName,
+                if (type == LocaleType.EUIV) LocaleType.YAML else LocaleType.EUIV), type).also { locc ->
             loc.entries.forEach { (lang, lines) ->
                 lines.forEach {(key, pair) ->
                     if (!locc.entries.containsKey(lang))

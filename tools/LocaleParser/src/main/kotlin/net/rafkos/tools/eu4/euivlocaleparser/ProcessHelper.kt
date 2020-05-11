@@ -39,7 +39,7 @@ object ProcessHelper {
             throw IllegalArgumentException()
         }
         for (locale in locales) {
-            val target = File(directory, locale.fileName)
+            val target = File(directory,locale.fileName)
             LocaleLoader.writeToFile(target, locale)
         }
     }
@@ -50,7 +50,9 @@ object ProcessHelper {
     fun convertLocalesToType(locales: List<Locale>, charset: Charset, type: LocaleType): List<Locale> {
         val converted = mutableListOf<Locale>()
         for (locale in locales) {
-            logger.info("Converting locale \"${locale.fileName}\" from type \"${locale.type}\" to \"${type}\" using charset \"${charset.javaClass.simpleName}\".")
+            logger.info("Converting locale \"${locale.fileName}\" from type \"${locale.type}\" to \"$type\" using charset \"${charset.javaClass.simpleName}\".")
+            if (locale.fileName != SpecialFilenames.getFilename(locale.fileName, type))
+                logger.info("Also changing filename from \"${locale.fileName}\" to \"${SpecialFilenames.getFilename(locale.fileName, type)}\".")
             converted.add(LocaleConverter.convertToType(locale, charset, type))
         }
         return converted.toList()
