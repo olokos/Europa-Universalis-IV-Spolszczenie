@@ -11,13 +11,13 @@ Stan w  wersji 2.44 [11.05.2020]:
 
 Jest to obecnie najpełniejsze spolszczenie, stworzone przez społeczność gry.
 
-Aktualnie nasze spolszczenie posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie spolszczeń. (73% całej gry)
+Aktualnie nasze spolszczenie posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie spolszczeń. **(73% całej gry)**
 
 This is mainly polish translation made for Europa Universalis IV.
 ---
 With that said, you can request a translation for a new language.
 
-_If you want to request a new language, make sure you can translate at least 10% of the language!_
+If you want to request a new language, make sure you can translate at least 10% of the language!
 
 [Press here to visit project page](https://www.transifex.com/europa-universalis-iv-community-translation/Community-edition/)
 
