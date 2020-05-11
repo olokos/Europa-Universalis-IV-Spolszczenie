@@ -1,4 +1,5 @@
-﻿ TUT_BAS_CHAPTER01_PAGE05_OBJECTIVES: "To continue you must §MZoom out§! so you can see all of Europe."
+﻿l_NO_HEADER:
+ TUT_BAS_CHAPTER01_PAGE05_OBJECTIVES: "To continue you must §MZoom out§! so you can see all of Europe."
  TUT_BAS_CHAPTER01_PAGE06_OBJECTIVES: "To continue you must §MZoom in as close as you can§!."
  TUT_BAS_CHAPTER02_PAGE04_TITLE: "§YSelecting the Fleet (4/9)§!"
  TUT_BAS_CHAPTER02_PAGE04_TEXT: "Your troops are now attached to the Royal Navy in port Gwynedd. To transport your troops across the Irish Sea you need to select the fleet by clicking on it or by dragging the selection box over it.§W"
