@@ -1,0 +1,7 @@
+﻿l_english:
+ demand_dummy_title:0 "Za¿¹daj marionetki"
+ demand_dummy_desc:0 "Za¿¹daj by [From.Monarch.GetName] z [From.GetName] zosta³ nasz¹ marionetk¹. To wzmocni nasze wzajemne zaufanie!"
+ demand_dummy_tooltip:0 "Za¿¹daj, aby stali si² nasz¹ marionetk¹."
+ demand_dummy_dialog:0 "[This.GetName] ¿¹da abyœ zosta³ ich marionetk¹. To wzmocni nasze wzajemne zaufanie!"
+ demand_dummy_alert_tooltip:0 "Za¿¹daj, abyœmy zostali ich marionetk¹"
+ HAS_MORE_MANPOWER:0 "[This.GetName] ma wi²cej ludnoœci od [From.GetName].\n"

@@ -397,7 +397,7 @@
  merchant_navy_desc: ""
  ship_boarding: "Abordaż statków"
  ship_boarding_desc: ""
- wooden_wall: "Drewniany mur"
+ wooden_wall: "Drewniany mur "
  wooden_wall_desc: ""
  alert_can_set_naval_doctrine_instant: "§YMożesz wybrać doktrynę morską§!"
  alert_can_set_naval_doctrine_delayed: ""
