@@ -673,9 +673,9 @@ source_file = translations/en/womeninhistory_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.translations-en-missing-correct-english-tut-hint-txt--master]
-file_filter = translations/<lang>/missing_correct_english_tut_hint.txt
+[Community-edition.translations-en-missing-correct-english-tut-hint-yml--master]
+file_filter = translations/<lang>/missing_correct_english_tut_hint.yml
 minimum_perc = 0
-source_file = translations/en/missing_correct_english_tut_hint.txt
+source_file = translations/en/missing_correct_english_tut_hint.yml
 source_lang = en
 type = YAML_GENERIC
