@@ -50,7 +50,7 @@
  EMAIL_HINT: "Adres email"
  EMAIL_REQUIRED: "Email"
  FETCH_INFO: "Pobierz informacje"
- FILE_ALREADY_EXISTS: "Mod w tym katalogu już istnieje"
+ FILE_ALREADY_EXISTS: "Modyfikacja w tym katalogu już istnieje"
  FIRST_NAME: "Imię"
  FORGOT_PASSWORD: "Zapomniałeś hasła?"
  HAVE_READ_TOS: "Przeczytałem i akceptuję Warunki użytkowania"
