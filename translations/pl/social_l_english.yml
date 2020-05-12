@@ -77,7 +77,7 @@
  MOD_DETAILS: "Szczegóły:"
  MOD_DIRECTORY: "Katalog:"
  MOD_DIRECTORY_HELP: "Podkatalog twojej Modyfikacji (bez spacji i ukośników)."
- MOD_ID: "Mod ID:"
+ MOD_ID: "ID Modyfikacji:"
  MOD_PATH: "Ścieżka:"
  MOD_TITLE_HELP: "Pełna nazwa twojego Modu:"
  NEWSFEED_LOADING: "Wczytywanie aktualności..."
