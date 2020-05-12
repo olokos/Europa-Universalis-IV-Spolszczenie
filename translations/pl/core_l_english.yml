@@ -551,7 +551,7 @@
  GAMESETUP_SHOW_UNSAFE: "Pokaż niekompatybilne zapisy gry"
  MENU_BAR_LOCALGAMES: "Lokalne"
  MENU_BAR_CLOUDGAMES: "Chmura"
- MENU_BAR_DELETE_ALL: "Usuń wszystkie"
+ MENU_BAR_DELETE_ALL: "Skasuj wszystkie"
  CONFIRMDELETETITLE: "Usuń plik"
  CONFIRMDELETETEXT: "Na pewno chcesz usunąć §Y$NAME$§!?"
  CONFIRM_DELETE_ALL_TITLE: "Usuń wszystkie pliki"
