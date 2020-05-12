@@ -72,7 +72,7 @@
  LOG_IN_NO: "Zaloguj się"
  LOG_OUT: "Wyloguj się"
  MISSING_REQUIRED_FIELD: "§RPominąłeś wymagane pole§!"
- MODTOOLS: "Narzędzia Mod'ów"
+ MODTOOLS: "Narzędzia Modyfikacji"
  MOD_CREATE_SUCCESS: "§GPomyślnie utworzono plik Mod w §!$PATH$"
  MOD_DETAILS: "Szczegóły:"
  MOD_DIRECTORY: "Katalog:"
