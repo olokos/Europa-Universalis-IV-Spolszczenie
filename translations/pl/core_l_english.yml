@@ -893,7 +893,7 @@
  FE_IRONMAN_CHECKSUM: "Aby rozpocząć tryb Ironman, należy określić wersję gry. Proszę czekać."
  PLX_WAIT: "Proszę czekać"
  CAPITAL_STATE_OF: "Stan stołeczny $NAME|Y$"
- TERRITORY_OF: "Terytorium państwa $NAME|Y$"
+ TERRITORY_OF: "Terytorium $NAME|Y$"
  STATE_OF: "Stan $NAME|Y$"
  PROV_REGION_DESC: "Prowincje: $NUM_PROV|Y$\nPoziom rozwoju: $DEV_VAL|Y$\nUtrzymanie: $MAIN_VAL|Y$¤"
  PROV_SOME_PROVINCES_IN_STATE: "Nie jesteś właścicielem tej prowincji, ale posiadasz prowincje w tym stanie."
