@@ -371,7 +371,7 @@
  COURTVIEW_UNION_WITH: "Unia personalna z krajem $WHO|Y$"
  COUNTRY_MODIFIERS: "Modyfikatory państwowe"
  LEDGER_TRADING_BONUS: "Premia do handlu"
- CLAIMS: "Prowincje narodowe i roszczenia"
+ CLAIMS: "Prow. narod. i roszczenia"
  ABANDON_CORE_COST: "Zrezygnowanie ze statusu prowincji narodowej może polepszyć twoje stosunki ze wskazanym państwem. Będzie cię to kosztować §R$COST$§! punktów prestiżu."
  ABANDON_CORE_TITLE: "Zrezygnuj ze statusu prowincji narodowej"
  RETURN_PROVINCE_DESC_1: "Zwrócenie prowincji §Y$PROV$§! państwu §Y$COUNTRY$§! poprawi jego opinię na twój temat o $AMT$."
