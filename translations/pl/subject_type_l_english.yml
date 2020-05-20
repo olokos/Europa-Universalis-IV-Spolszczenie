@@ -30,7 +30,7 @@
  personal_union_is_our: "$NAME|Y$ jest rządzony przez nas w ramach Unii Personalnej."
  protectorate_is_our: "Kraj $NAME|Y$ jest naszym protektoratem."
  colony_is_our: "Kraj $NAME|Y$ jest naszą kolonią."
- daimyo_vassal_is_our: "$NAME|Y$ is our Daimyo Vassal."
+ daimyo_vassal_is_our: "$NAME|Y$ jest naszym Wasalem Daimyo."
  IS_OUR_OVERLORD: "Kraj $NAME|Y$ jest naszym suzerenem."
  colony_cant_fight: "Jako $SUBJECTTYPE$ możesz wypowiedzieć wojnę tylko innym Koloniom oraz sąsiednim Plemionom Pierwotnym lub Niewiernym."
  subject_cant_fight: "$SUBJECTTYPES$ nie może walczyć w swoich wojnach."
