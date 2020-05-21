@@ -9,7 +9,7 @@ object PolishCharset : Charset(hashMapOf(
         "¾" to "ć",
         "¶" to "Ć",
         "²" to "ę",
-        "‡" to "Ę",
+        "½" to "Ę",
         "³" to "ł",
         "µ" to "Ł",
         "ª" to "ń",
