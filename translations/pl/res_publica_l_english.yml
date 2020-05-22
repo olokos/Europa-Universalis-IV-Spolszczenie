@@ -125,7 +125,7 @@
  dutch_republic.20.b: "Za Republikę!"
  dutch_republic.20.c: "Za Królestwo!"
  dutch_republic.20.d: "Za Związek!"
- dutch_republic.21.t: "Brak konsensusu"
+ dutch_republic.21.t: "Brak porozumienia"
  dutch_republic.21.d: "Aby ustrój taki jak [Root.GovernmentName] mógł efektywnie funkcjonować, Stany Generalne muszą osiągnąć konsensus co do pewnych kwestii. Kiedy reprezentanci nie mogą dojść do porozumienia, naszym państwem nie da się rządzić. Nasze działania na rzecz tego, by [Root.GetName] nie była rządzona centralnie żelazną pięścią przynoszą sukcesy; oznacza to jednak, że konsensus musi być osiągany na drodze działań politycznych, a nie narzucany przy pomocy władzy. A czasem w ogóle nie będzie się go dało osiągnąć."
  dutch_republic.21.a: "Czy [Root.GovernmentName] popada w anarchię?"
  dutch_republic.22.t: "Generał żąda władzy"
