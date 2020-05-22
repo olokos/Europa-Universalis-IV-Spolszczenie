@@ -66,6 +66,7 @@ UWAGA! Gdyby w launcherze pojawiała się informacja, że modyfikacja jest do ni
 2. Z włączonym launcherem odsubskrybować moda oraz po chwili zasubskrybować go na nowo.
 
 **Twórcy oraz specjalne podziękowania:**
+- Rafkos - nowe polskie czcionki
 - Batziy - polskie czcionki
 - Grajpopolsku.pl - bazowe spolszczenie podstawowej wersji gry w wersji 1.27 - około 30% gry
 - olokos - twórca
