@@ -318,7 +318,7 @@
  MAPMODE_POLITICAL_DESC: "Każdy kraj posiada swój własny unikatowy kolor. Paski oznaczają prowincje nie będące pod kontrolą swoich właścicieli."
  MAPMODE_RELIGION_DESC: "Wyświetla mapę grup religijnych. Paski oznaczają prowincje o religii innej niż religia narodowa."
  MAPMODE_EMPIRE_DESC: "Zaznacza kolorem prowincje, będące częścią Świętego Cesarstwa Rzymskiego.\nFioletowe należą do Cesarza, brązowe do elektorów, zaś niebieskie - do wolnych miast. Zielone prowincje to zwykłe tereny ŚCR.\nŻółte paski oznaczają prowincje, które są częścią Cesarstwa, ale ich właściciel już nie.\nPomarańczowe paski - prowincje, które będąc częścią Cesarstwa, są poddanymi suwerena spoza jego granic.\n"
- MAPMODE_TRADE_DESC: "Zaznacza kolorem prowincje zgodnie z przynależnością do węzła handlowego. Kratka oznacza prowincje NIE B‡D¥CE w zasięgu handlowym."
+ MAPMODE_TRADE_DESC: "Zaznacza kolorem prowincje zgodnie z przynależnością do węzła handlowego. Kratka oznacza prowincje NIE B½D¥CE w zasięgu handlowym."
  MAPMODE_DIPLOMACY_DESC: "Zaznacza kolorem prowincje zgodnie z utrzymywanymi przez ich właściciela stosunkami dyplomatycznymi z wybranym państwem. Paski wskazują, czy dana prowincja jest prowincją narodową wybranego państwa."
  MAPMODE_ECONOMY_DESC: "Zaznacza prowincje kolorem w zależności od stopnia rozwoju."
  MAPMODE_MANPOWER_DESC: "Zaznacza kolorem prowincje zgodnie z wielkością zasobów ludzkich. Czerwony oznacza niskie zasoby ludzkie, żółty - średnie, zaś zielony - prowincję dysponującą pokaźnymi zasobami ludzkimi."
