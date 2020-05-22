@@ -32,7 +32,7 @@
  in_protectorate: "Protektorat"
  is_tributary: "Stan Zależny"
  they_forced_tributary: "Przymusowy Trybut"
- tributary_state_broke_free: "Zerwali Trybut"
+ tributary_state_broke_free: "Zerwali danine"
  tributary_state_abandoned: "Zaniechali daniny"
  tributary_refused_tribute: "Odmówili daniny"
  colonial_relation: "Więzy kolonialne"
