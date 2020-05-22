@@ -57,6 +57,7 @@ Serdecznie zapraszamy do pomocy w tłumaczeniu!
 2. Z włączonym launcherem odsubskrybować moda oraz po chwili zasubskrybować go na nowo.
 
 [b]Twórcy oraz specjalne podziękowania:[/b]
+- Rafkos - nowe polskie czcionki
 - Batziy - polskie czcionki
 - Grajpopolsku.pl - bazowe spolszczenie podstawowej wersji gry w wersji 1.27 - około 30% gry
 - olokos - twórca
