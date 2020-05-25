@@ -4,7 +4,7 @@
  DIPLO_COALITION_WAR: "Wojna koalicyjna: "
  DIPLO_ALLIANCE_WINNING_WAR: "Wynik wojenny sojuszu: "
  DIPLO_SEPARATE_PEACE: "Oddzielny pokój: "
- TAG_IS_LESSER_SUBJECT: "$SUBJECT$ is a $SUBJECTTYPE$ of $OVERLORD$."
+ TAG_IS_LESSER_SUBJECT: "$SUBJECT$ to $SUBJECTTYPE$ kraju $OVERLORD$."
  TAG_IS_COLONIAL_SUBJECT2: "§Y$WHO$§! jest kolonią państwa §Y$TARGET$§!, a tamtejsze dążenia niepodległościowe wynoszą §Y$VAL$%§!."
  SUBJECT_RELEASE_COLONY: "Daj kolonii niepodległość"
  COLPROVNUM: "Mają $NUMBER$ prowincji w: $WHERE$."
