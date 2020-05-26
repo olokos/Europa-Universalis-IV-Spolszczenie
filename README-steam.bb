@@ -2,14 +2,14 @@
 Spolszczenie do najnowszej wersji Europa Universalis 4 1.29.6.0 (Manchu.4caef1b658 (b3ef))
 Działa bezproblemowo z każdą wersją gry 1.29
 
-[h2]Stan w  wersji 2.44 [11.05.2020]:[/h2]
- * 6,898 strings Reviewed
- * 62,458 strings Translated
- * 22,846 strings Untranslated
+[h2]Stan w  wersji 2.75 [26.05.2020]:[/h2]
+ * 16,328 sprawdzonych wpisów
+ * 62,079 przetłumaczonych wpisów
+ * 20,406 nieprzetłumaczonych wpisów
 
 Jest to obecnie najpełniejsze spolszczenie, stworzone przez społeczność gry.
 
-Aktualnie nasze spolszczenie posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie spolszczeń. [b](73% całej gry)[/b]
+Aktualnie nasze spolszczenie posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie spolszczeń. [b](75% całej gry)[/b]
 
 [h2]This is mainly polish translation made for Europa Universalis IV.[/h2]
 With that said, you can request a translation for a new language.

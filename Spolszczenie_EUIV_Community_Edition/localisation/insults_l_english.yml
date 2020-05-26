@@ -1,6 +1,6 @@
 ﻿l_english:
  insult_default:0 "Twoja matka by³a chomikiem, a twój ojciec œmierdzia³ gnojem!"
- insult_default2:0 "Nadszed³ dzieª s¹du! Stworzenia Lucyfera chodz¹ po Ziemii! A nie, to tylko [Root.GetAdjective]."
+ insult_default2:0 "Nadszed³ dzieª s¹du! Stworzenia Lucyfera chodz¹ po Ziemi! A nie, to tylko [Root.GetAdjective]."
  insult_default3:0 "Ponadto, wierz² ¿e [Root.GetCapital.GetName] musi zosta¾ zniszczone!"
  insult_default4:0 "Kiedy przysz³e pokolenia b²d¹ czyta³y o naszych czasach, spojrz¹ na ciebie z t¹ mieszank¹ litoœci i obrzydzenia zwan¹ wspó³czuciem."
  insult_default5:0 "Moja ostatnia wizyta w toalecie by³a przyjemniejsza ni¿ kolacja z ambasadorem [Root.GetAdjective]."
@@ -53,7 +53,7 @@
  insult_against_european_in_india:0 "Czas odejœ¾."
  insult_japanese:0 "Nawet seppuku nie mo¿e zwróci¾ ci honoru."
  insult_loans:0 "Przera¿aj¹cy stan Twojej gospodarki jest ostrze¿eniem dla wszystkich niedosz³ych w³adców."
- insult_rebels:0 "S³ysza³em, ¿e twój lud si² buntuje. Masz to we krwii."
+ insult_rebels:0 "S³ysza³em, ¿e twój lud si² buntuje. Masz to we krwi."
  insult_low_mil_tech:0 "Czy Twoi ¿o³nierze potrafi¹ trafi¾ w stodo³², czy nadal uwa¿aj¹, ¿e muszkiety to maczugi?"
  insult_golden_horde_vs_muscovy:0 "Twoi sk¹pi poborcy podatkowi powinni zna¾ swoje miejsce: pod kopytami naszych koni! "
  insult_wallachia_to_ottomans:0 "Nabijamy [Root.Monarch.GetName] na w³óczni², tak jak zrobiliœmy to wczeœniej z Twoimi ¿a³osnymi armiami."
