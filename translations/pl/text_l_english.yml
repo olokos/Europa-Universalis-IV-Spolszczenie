@@ -601,7 +601,7 @@
  MAPMODE_RELIGION: "Fanatycy religijni"
  MAPMODE_EMPIRE: "Cesarskie"
  MAPMODE_TRADE: "Handel"
- MAPMODE_TRADE_GOODS: "Tow. handl."
+ MAPMODE_TRADE_GOODS: "Towary handlowe"
  MAPMODE_DIPLOMACY: "Dyplomacja"
  COMBAT_DICE: "Wydarzenia losowe dla tej strony w tej fazie walki."
  COMBAT_SHOCK: "Modyfikator względny porównania wartości STARCIA naszego dowódcy z dowódcą przeciwnika."
