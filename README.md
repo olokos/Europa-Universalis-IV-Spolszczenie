@@ -3,7 +3,7 @@ Europa Universalis IV Community Translation / Spolszczenie
 Spolszczenie do najnowszej wersji Europa Universalis 4 1.29.6.0 (Manchu.4caef1b658 (b3ef))
 Działa bezproblemowo z każdą wersją gry 1.29
 
-Stan w  wersji 2.476[11.05.2020]:
+Stan w  wersji 2.75 [26.05.2020]:
 ---
  * 16,328 sprawdzonych wpisów
  * 62,079 przetłumaczonych wpisów
