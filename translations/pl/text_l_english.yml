@@ -3704,7 +3704,7 @@
  SUBJECT_CANT_CALL_OVERLORD: "Poddany nie może wezwać swojego suwerena na wojnę."
  SUBJECT_CANT_CALL_SUBJECT: "Do wojny przeciw suwerenowi poddany może wezwać wyłącznie podobnych mu wasali."
  MENU_MESSAGES_RESET: "Ustawienia domyślne"
- WARSUBSIDIES_ECOVIEW: "subsydia."
+ WARSUBSIDIES_ECOVIEW: "Subsydia"
  SPOILS_OF_WAR_ECOVIEW: "Łupy wojenne"
  WAR_REPARATIONS_ECOVIEW: "Reparacje wojenne"
  COL_CONST_TIP_FROM_SHIP: "Data przybycia kolonisty do prowincji $LOCATION$ to $DATE$."
