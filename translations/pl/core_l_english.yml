@@ -308,7 +308,7 @@
  PAPAL_CONTROLLER_DIPACTIONS_DESC: "Kontroler papiestwa może podjąć następujące działania dyplomatyczne: \n$LIST|Y$"
  PAPACY_NEXT_CARDINALS: "§YNastępni potencjalni kardynałowie§W"
  UNIT_UNLOCKED_AT_TECH: "Jednostka '$UNIT|Y$' zostanie odblokowana na poziomie $TECH$ ($LEVEL$)."
- UNIT_REORG_TRANSFER: "Kliknij LPM, by przenieść wszystkiego jednostki tego rodzaju.\nKliknij PPM, by przenieść połowę wszystkich jednostek tego rodzaju."
+ UNIT_REORG_TRANSFER: "Kliknij LPM, by przenieść wszystkie jednostki tego rodzaju.\nKliknij PPM, by przenieść połowę jednostek tego rodzaju."
  CONDITION: "Warunek"
  SORT_BY_CONDITION: "Sortuj według warunku"
  AVAILABLE_AT_MILTECH: "Dostępność przy $LEVEL$ poziomie technologii militarnej."
