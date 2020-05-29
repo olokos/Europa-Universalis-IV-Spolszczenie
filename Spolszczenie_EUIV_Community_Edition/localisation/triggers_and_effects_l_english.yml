@@ -573,7 +573,7 @@
  REMOVE_ADVISOR_OF_CATEGORY_MIL:0 "Our Military Advisor $NAME|Y$ leaves our court.\n"
  HAVE_NOT_RULER_FLAG:0 "Does not have ruler flag '§Y$FLAG$§W'."
  HAVE_RULER_FLAG:0 "Have ruler flag '§Y$FLAG$§W'."
- ADD_ARMYPROF_EFFECT:0 "$DIRECTION$ $PERC|2$ Army Professionalism\n"
+ ADD_ARMYPROF_EFFECT:0 "$DIRECTION$ $PERC|2$ profesjonalizmu armii\n"
  SET_ARMYPROF_EFFECT:0 "Set Army Professionalism to $PERC|Y$\n"
  GOVERNMENT_POWER_EFFECT:0 "$DIRECTION$ $VALUE$ $NAME$.\n"
  TRIG_NOT_USES_RELIGIOUS_SCHOOLS:0 "$RELIGION$ does not have religious schools.\n"

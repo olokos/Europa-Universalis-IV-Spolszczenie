@@ -351,7 +351,7 @@
  MAPMODE_SIMPLE_TERRAIN_DESC:0 "Wyœwietla teren. Ka¿dy kolor reprezentuje inny rodzaj terenu. B³²kitna granica oznacza, ¿e przekraczaj¹ce j¹ armie otrzymaj¹ ujemny modyfikator z tytu³u przeprawy. Paski oznaczaj¹ prowincje nie b²d¹ce pod kontrol¹ swojego w³aœciciela."
  MAPMODE_PATRIARCHS_DESC:0 "Wyœwietla stany z konsekrowanymi metropolitami. ¯ó³te stany posiadaj¹ metropolit², zielone mog¹ by¾ przypisane do jednego, a czerwone stany nie mog¹ posiada¾ metropolity."
  MAPMODE_DEVASTATION_DESC:0 "Pokazuje poziom spustoszenia prowincji. Im jaœniejsza czerwieª, tym bardziej spustoszona jest prowincja. Szare prowincje s¹ wolne od spustoszenia."
- MAPMODE_DYNASTY:0 "Dynastyczne"
+ MAPMODE_DYNASTY:0 "Dynastie"
  MAPMODE_DYNASTY_DESC:0 "Zaznacza kolorem prowincje zgodnie z ich dynasti¹ panuj¹c¹ i wyœwietla nazwy tych dynastii."
  MAPMODE_TRADE_LEAGUES:0 "Ligi handlowe"
  MAPMODE_TRADE_LEAGUES_DESC:0 "Zaznacza kolorem prowincje zgodnie z przynale¿noœci¹ do ligi handlowej. Jeœli sam jesteœ przywódc¹ ligi handlowej, pokazuje równie¿, które paªstwa mog¹ do³¹czy¾ do twojej ligi i czy zechc¹ to uczyni¾."
