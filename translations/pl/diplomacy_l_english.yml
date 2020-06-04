@@ -215,7 +215,7 @@
  sabotage_recruitment: "Sabotuj werbunek"
  SABOTAGERECRUITMENTTITLE: "Sabotuj werbunek"
  SABOTAGERECRUITMENTDESC: "Sabotuj werbunek do wojska we wskazanym państwie."
- SABOTAGERECRUITMENTDESCDERIVED: "Sabotowanie werbunku zmniejszy rozmiar naszej siatki szpiegowskiej w $ADJ|Y$ o $COST|R$ i będzie miało następujące skutki##CHAR_DETECT##\n$DESC$\n\nPotrwają one do $DATE|Y$."
+ SABOTAGERECRUITMENTDESCDERIVED: "Sabotowanie werbunku zmniejszy rozmiar naszej siatki szpiegowskiej na terenie $ADJ|Y$ o $COST|R$ i będzie miało następujące skutki##CHAR_DETECT##\n$DESC$\n\nPotrwają one do $DATE|Y$."
  SABOTAGERECRUITMENTALREADYPRESENT: "Ich werbunek jest już sabotowany."
  CORRUPT_OFFICIALS: "Korumpuj urzędników"
  corrupt_officials: "Korumpuj urzędników"
