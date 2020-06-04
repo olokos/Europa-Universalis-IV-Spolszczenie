@@ -76,7 +76,7 @@
  CORRUPTION_IRO: "§YKorupcja§!\nObecnie##CHAR_DETECT## $CURR|Y$.\nKorupcja zmienia się co roku o $CHANGE$ z tytułu:\n$WHY$"
  CORRUPTION_DRO: "Ten poziom korupcji powoduje następujące skutki:"
  STEALMAPTITLE: "Kradnij mapy"
- SPYCOST: "zmniejszy rozmiar naszej siatki szpiegowskiej w $ADJ|Y$ o $COST$."
+ SPYCOST: "zmniejszy rozmiar naszej siatki szpiegowskiej na terenie $ADJ|Y$ o $COST$."
  STEALMAPDESC: "Kradnie mapy regionu od celu."
  STEALMAP_OFFDESC: "Kraj $ACTOR$ zyska wiedzę o regionie $REGION$ i odkryje $NUM_PROVS|Y$ prowincji, kradnąc mapy od $RECIPIENT_ADJ$, co zmniejszy jego siatkę szpiegowską o $COST$."
  SHAREMAPTITLE: "Prośba o udostępnienie map"
