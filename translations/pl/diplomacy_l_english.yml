@@ -248,7 +248,7 @@
  CANCEL_AGITATEFORLIBERTYDESC: "Przestań nawoływać do niepodległości wskazanego kraju."
  SOWDISCONTENTTITLE: "Siej niezadowolenie"
  SOWDISCONTENTDESC: "Siej niezadowolenie wśród ludności wskazanego kraju."
- SOWDISCONTENTDESCDERIVED: "Sianie niezadowolenia zmniejszy rozmiar naszej siatki szpiegowskiej w $ADJ|Y$ o $COST|R$ i będzie miało dla tego kraju następujące skutki##CHAR_DETECT##\n$DESC$\n\nPotrwają one do $DATE|Y$."
+ SOWDISCONTENTDESCDERIVED: "Sianie niezadowolenia zmniejszy rozmiar naszej siatki szpiegowskiej na terenie $ADJ|Y$ o $COST|R$ i będzie miało dla tego kraju następujące skutki##CHAR_DETECT##\n$DESC$\n\nPotrwają one do $DATE|Y$."
  SOWDISCONTENTALREADYPRESENT: "Posiano już niezadowolenia wśród tamtejszych mieszkańców."
  UNTIL_DATE_EFFECTS: "\nBędzie to miało następujące skutki, trwające do §Y$DATE$§!##CHAR_DETECT##\n $DESC$."
  AGITATE_EFFECTS: "§YDążenia niepodległościowe§!##CHAR_DETECT## §G+$VAL$%§!"
