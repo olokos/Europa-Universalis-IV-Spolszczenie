@@ -206,7 +206,7 @@
  CANCEL_INFILTRATETITLE: "Anuluj szpiegowanie"
  SABOTAGETITLE: "Sabotuj reputację"
  SABOTAGEDESC: "Sabotuj reputację dyplomatyczną celu."
- SABOTAGEDESCDERIVED: "Sabotowanie reputacji zmniejszy rozmiar naszej siatki szpiegowskiej w $ADJ|Y$ o $COST|R$ i będzie miało dla tego kraju następujące skutki##CHAR_DETECT##\n$DESC$\n\nPotrwają one do $DATE|Y$."
+ SABOTAGEDESCDERIVED: "Sabotowanie reputacji zmniejszy rozmiar naszej siatki szpiegowskiej na terenie $ADJ|Y$ o $COST|R$ i będzie miało dla tego kraju następujące skutki##CHAR_DETECT##\n$DESC$\n\nPotrwają one do $DATE|Y$."
  SABOTAGEALREADYPRESENTDESC: "Ich reputacja była ostatnio sabotowana."
  INFILTRATEDESC: "Szpiegowanie administracji usunie mgłę wojny ze wskazanego kraju do $DATE|Y$."
  IS_INFILTRATEDESC: "Nasi szpiedzy przeniknęli do ich administracji i będą dostarczać nam informacji do $DATE|Y$."
