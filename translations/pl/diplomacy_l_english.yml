@@ -571,7 +571,7 @@
  SPYNETWORK_BENEFITS_TECH_DIP: "  $AMT$ do kosztu technologii dyplomatycznej"
  SPYNETWORK_BENEFITS_TECH_ADM: "  $AMT$ do kosztu technologii administracyjnej"
  SPYNETWORK_BENEFITS_TECH: "§YPodczas zakupu nowej technologii, jej koszt obniżany jest o największy współczynnik wynikający z twoich siatek szpiegowskich.§!"
- SPYNETWORK_OUTLINER: "Nasza siatka szpiegowska w $ADJ|Y$ osiągnęła rozmiar $SIZE|Y$ na możliwe §Y100§!."
+ SPYNETWORK_OUTLINER: "Nasza siatka szpiegowska na terenie $ADJ|Y$ osiągnęła rozmiar $SIZE|Y$ na możliwe §Y100§!."
  SPYNETWORK_OUTLINER_PLUS: "Będzie powiększał się o $AMT|G$ każdego miesiąca."
  SPYNETWORK_OUTLINER_MINUS: "Będzie powiększał się o $AMT|G$ każdego miesiąca."
  BUILDSPYNETWORKTITLE: "Zbuduj siatkę szpiegowską"
