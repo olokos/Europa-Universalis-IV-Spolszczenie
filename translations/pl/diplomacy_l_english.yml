@@ -17,7 +17,7 @@
  royal_marriage: "Królewski mariaż"
  guaranteed: "Posiada gwarancje"
  alliance: "Sojusz"
- SPYNETWORKTOOSMALL: "Aby można było wykonać to działanie dyplomatyczne, twoja siatka szpiegowska w $ADJ|Y$ musi być co najmniej na poziomie $AMOUNT|Y$."
+ SPYNETWORKTOOSMALL: "Aby można było wykonać to działanie dyplomatyczne, twoja siatka szpiegowska na terenie $ADJ|Y$ musi być co najmniej na poziomie $AMOUNT|Y$."
  federation: "Przywódca federacji"
  in_war_togeather: "Wspólnie na wojnie"
  converted_our_culture: "Reprezentuje naszą kulturę"
