@@ -227,7 +227,7 @@
  slander_merchants: "Oczerniaj kupców"
  SLANDERMERCHANTSTITLE: "Oczerniaj kupców"
  SLANDERMERCHANTSDESC: "Oczerniaj kupców ze wskazanego państwa."
- SLANDERMERCHANTSDESCDERIVED: "Oczernianie kupców zmniejszy rozmiar naszej siatki szpiegowskiej w $ADJ|Y$ o $COST|R$ i będzie miało następujące skutki##CHAR_DETECT##\n$DESC$\n\nPotrwają one do $DATE|Y$."
+ SLANDERMERCHANTSDESCDERIVED: "Oczernianie kupców zmniejszy rozmiar naszej siatki szpiegowskiej na terenie $ADJ|Y$ o $COST|R$ i będzie miało następujące skutki##CHAR_DETECT##\n$DESC$\n\nPotrwają one do $DATE|Y$."
  SLANDERMERCHANTSALREADYPRESENTDESC: "Ich kupcy są już oczerniani."
  SUPPORTREBELSTITLE: "Wspieraj buntowników"
  SUPPORTREBELSDESC: "\nWspieraj buntowników w kraju."
