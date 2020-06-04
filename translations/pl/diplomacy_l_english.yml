@@ -222,7 +222,7 @@
  CORRUPTOFFICIALSALREADYPRESENTDESC: "Ktoś już korumpuje urzędników w państwie $TARGET$."
  CORRUPTOFFICIALSTITLE: "Korumpuj urzędników"
  CORRUPTOFFICIALSDESC: "Korumpuj urzędników wskazanego państwa."
- CORRUPTOFFICIALSDESCDERIVED: "Korumpowanie urzędników zmniejszy rozmiar naszej siatki szpiegowskiej w $ADJ|Y$ o $COST|R$ i będzie miało następujące skutki##CHAR_DETECT##\n$DESC$\n\nPotrwają one do $DATE|Y$."
+ CORRUPTOFFICIALSDESCDERIVED: "Korumpowanie urzędników zmniejszy rozmiar naszej siatki szpiegowskiej na terenie $ADJ|Y$ o $COST|R$ i będzie miało następujące skutki##CHAR_DETECT##\n$DESC$\n\nPotrwają one do $DATE|Y$."
  SLANDER_MERCHANTS: "Oczerniaj kupców"
  slander_merchants: "Oczerniaj kupców"
  SLANDERMERCHANTSTITLE: "Oczerniaj kupców"
