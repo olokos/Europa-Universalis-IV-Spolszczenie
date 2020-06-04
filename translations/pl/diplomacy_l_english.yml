@@ -516,7 +516,7 @@
  PEACEOFFER_TRANSFER: "Przekazanie poddanego $COUNTRY$"
  PEACEOFFER_RELEASE: "Wyzwól kraj $COUNTRY$."
  PEACEOFFER_RETURN_CORES_TO: "$PROV$ dla państwa $COUNTRY$"
- PEACEOFFER_REVOKE_CORES_ON: "$ADJ$ narodowość prowincji $PROV$ zostanie odwołana."
+ PEACEOFFER_REVOKE_CORES_ON: "Narodowość $ADJ$ prowincji $PROV$ zostanie odwołana."
  PEACEOFFER_TRUCE: "To porozumienie wprowadza rozejm do dnia §Y$DATE$§W."
  DEMAND_PROVINCE_TOOLTIP: "Prowincja §Y$PROVINCE$§W staje się częścią państwa §Y$COUNTRY$§W."
  REVOKE_CORE_TOOLTIP: "Państwo §Y$COUNTRY$§W decyduje, że prowincja §Y$PROVINCE$§W nie jest już jego prowincją narodową. Obecnym właścicielem prowincji jest państwo $OWNER$."
