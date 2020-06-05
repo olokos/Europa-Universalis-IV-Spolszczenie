@@ -6336,7 +6336,7 @@
  WARTAX_TIP_DELAYED: "Podatek wojenny będzie pobierany przez §Y$DURATION$§! lat."
  WARTAX_STOP_TIP: "Nie możemy zaprzestać zbierania podatków wojennych."
  STOP_WARTAXES: "Znieś podatki wojenne"
- form_kingdom_of_prussia_title: "Utworzyć Królestwo Pruskie"
+ form_kingdom_of_prussia_title: "Utwórz Królestwo Prus"
  form_kingdom_of_prussia_desc: "W skład Cesarstwa wchodzi tylko jedno królestwo, Królestwo Czech. Jednocześnie, nasze ziemie leżą poza historycznymi granicami Cesarstwa. Jeśli obwołasz się królem Prus, podkreślisz swoją dominującą pozycję wśród innych elektorów."
  bg_decision_taken: "Władca $MONARCHNAME$ $ADJECTIVE2$ $WHICH$."
  bg_dec_tak_1_1: "mądrze zdecydował, by wykonać:"
