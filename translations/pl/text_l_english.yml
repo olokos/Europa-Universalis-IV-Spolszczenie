@@ -7771,7 +7771,7 @@
  fervor_stability: "Zaangażowanie skupia się na stabilności."
  fervor_stability_short: "Stabilność"
  fervor_base: "Baza"
- FERVOR_EFFECT: "$NAME|Y$ będzie kosztować cię $COST|R$ punktów zaangażowania w momencie włączenia oraz tę samą liczbę punktów każdego miesiąca. Jego aktywacja przyniesie następujący efekt:"
+ FERVOR_EFFECT: "$NAME|Y$ będzie kosztować cię $COST|R$ punktów Zapału w momencie włączenia oraz tę samą liczbę punktów każdego miesiąca. Jego aktywacja przyniesie następujący efekt:"
  ENABLED: "Włączony"
  DISABLED: "Wyłączony"
  fervor_modifier: "Moc Zapału"
