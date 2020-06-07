@@ -7831,7 +7831,7 @@
  FLEET_BASING_FORCED_TRUCE: "Nie możesz odwołać narzuconego ci prawa do korzystania z portów przed upłynięciem terminu rozejmu - $DATE|Y$."
  TRANSFER_TRADE_POWER_ENFORCED: "Nie możemy anulować przekierowania siły handlowej w czasie obowiązywania rozejmu z nimi."
  alert_fervor_instant: "§YWysoki Zapał§W"
- alert_fervor_delayed: "Masz $VAL$ punktów zaangażowania do wydania."
+ alert_fervor_delayed: "Masz $VAL$ punktów Zapału do wydania."
  HAVE_MORE_LOCAL_AUTONOMY_THAN: "Lokalna autonomia większa niż "
  HAVE_LESS_LOCAL_AUTONOMY_THAN: "Lokalna autonomia mniejsza niż "
  MONARCHISTS_DURATION: "Gdy władca umiera"
