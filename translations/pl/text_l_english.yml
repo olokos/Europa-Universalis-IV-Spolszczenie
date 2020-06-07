@@ -61,7 +61,7 @@
  ADD_MILSOC_EFFECT: "$DIRECTION$ $VALUE$ militaryzacji kraju.\n"
  ADD_SPLENDOR_EFFECT: "$DIRECTION$ $VALUE$ splendoru.\n"
  ADD_ABSOLUTISM_EFFECT: "$DIRECTION$ $VALUE$ absolutyzmu.\n"
- ADD_FERVOR_EFFECT: "$DIRECTION$ $VALUE$ punktów Zaangażowania.\n"
+ ADD_FERVOR_EFFECT: "$DIRECTION$ $VALUE$ punktów Zapału.\n"
  TREASURY_EFFECT: "$DIRECTION$ $VALUE$ dukatów.\n"
  PRESTIGE_EFFECT: "$DIRECTION$ $VALUE$ prestiżu.\n"
  TRIBAL_ALLEGIANCE_EFFECT: "$DIRECTION$ $VALUE$ Plemiennej Wierności.\n"
