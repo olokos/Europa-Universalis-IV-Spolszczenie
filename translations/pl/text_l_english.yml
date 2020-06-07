@@ -7776,7 +7776,7 @@
  DISABLED: "Wyłączony"
  fervor_modifier: "Moc Zapału"
  MODIFIER_MONTHLY_FERVOR_INCREASE: "Miesięczny Zapał"
- FERVOR_INCREASE_DESC: "Kraj $WHO$ otrzymuje co miesiąc $VAL|+=$ punktów zaangażowania. Jego wartość nie może przekroczyć $MAX|Y$ punktów."
+ FERVOR_INCREASE_DESC: "Kraj $WHO$ otrzymuje co miesiąc $VAL|+=$ punktów Zapału. Jego wartość nie może przekroczyć $MAX|Y$ punktów."
  CURRENT_FERVOR: "Kraj $WHO$ ma obecnie $VAL|Y$ punktów Zapału. Jego maksymalna wartość wynosi $MAX|Y$ punktów."
  START_PRIVATEER_MISSION: "Korsarz"
  START_PRIVATEER_MISSION_DESC: "Flota na misji korsarskiej będzie pływać pod piracką banderą i kraść siłę handlową innych państw w danym węźle handlowym."
