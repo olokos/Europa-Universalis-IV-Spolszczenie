@@ -881,7 +881,7 @@
  RANDOM_WORLD_GENERATE_WORLD_SMOOTHING: "Tworzenie losowego Nowego Świata...\nIteracja $PASS$..."
  POLICYVIEW_TITLE: "Wybór polityki"
  FERVOR_CHANGE: "Miesięczna zmiana:"
- FERVOR_VALUE2: "Punkty zaangażowania:"
+ FERVOR_VALUE2: "Punkty Zapału:"
  ENFORCE_MILITARY_ACCESS: "Państwo $FROM$ będzie musiało przyznać państwu $TO$ prawo przemarszu wojsk. Do końca trwania rozejmu nie będzie można go anulować."
  ENFORCE_FLEET_BASING_RIGHTS: "Państwo $FROM$ będzie musiało przyznać państwu $TO$ prawo dostępu do portów. Do końca trwania rozejmu nie będzie można go anulować."
  WAR_REPARATIONS_DESC: "Przez okres $YEARS$ lat państwo $FROM$ będzie musiało co miesiąc płacić państwu $TO$ reparacje wojenne w wysokości $VALUE|0%$ swojego dochodu."
