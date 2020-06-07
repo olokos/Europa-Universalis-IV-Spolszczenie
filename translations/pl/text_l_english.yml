@@ -718,7 +718,7 @@
  USINGINFLUENCEONSINGLE: "Używa wpływu światowej potęgi na kraju $COUNTRY|Y$."
  BEINGINFLUENCEDBYSINGLE: "Jest pod wpływem państwa $COUNTRY|Y$."
  minimum_diplomats: "(Nigdy mniej niż jednego dyplomatę rocznie)"
- DOOMSDAY_CLOCK: "Roczna zmiana zagłady"
+ DOOMSDAY_CLOCK: "Roczna Zmiana Poziomu Zagłady"
  LOCAL_BUILD_TIME: "Miejscowy czas budowy"
  BUILD_TIME: "Czas budowy"
  LOCAL_BUILD_COST: "Miejscowy koszt budowy"
