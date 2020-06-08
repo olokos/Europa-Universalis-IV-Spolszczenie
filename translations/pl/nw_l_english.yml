@@ -39,7 +39,7 @@
  FATHER_TIME_ON_TECH: "Wzrost z upływem czasu: $VAL$\n"
  MIGRATE: "Migracja"
  MIGRATE_DESC: "Gdy migrujesz, $COUNTRY$ straci kontrolę nad $PROVINCE$. Przeniosą się do wybranej sąsiedniej prowincji. $COUNTRY$ otrzyma także bonus do potęgi monarchy w czasie migracji."
- native_council: "Rada tubylcza"
+ native_council: "Rada Plemienna"
  native_council_desc: "Jedno lub więcej plemion, znajdujących się pod rządami rady, w której udział jest dziedziczny. Jej członkowie podejmują jednogłośne decyzje podczas wielogodzinnych dysput. Przywódca grupy przedstawia oficjalne stanowisko rady."
  native_council_legacy: "Rada tubylcza"
  native_council_legacy_desc: "Jedno lub więcej plemion, znajdujących się pod rządami rady, w której udział jest dziedziczny. Jej członkowie podejmują jednogłośne decyzje podczas wielogodzinnych dysput. Przywódca grupy przedstawia oficjalne stanowisko rady."
