@@ -7708,7 +7708,7 @@
  CAN_SPAWN_REBELS: "Lokalnie właściwy rodzaj buntu: "
  PROVINCIAL_REGIMENT: "Pułk prowincji"
  MERCENARY_REGIMENT: "Pułk najemników"
- BANNER_REGIMENT: "Banner Regiment\nDiscipline Bonus: $DISC$"
+ BANNER_REGIMENT: "Pułk Chorągwi\nPremia Dyscypliny: $DISC|+%$\nZużycie Zasobów Ludzkich: $MANPOWER|Y%$\nSzybkość Uzupełnień: $REINFORCE|+%$\nKoszt Utrzymania: $MAINTENANCE|+%$"
  GARRISON_LESS_THAN: "Garnizon mniejszy niż:"
  GARRISON_MORE_THAN: "Garnizon o wielkości co najmniej:"
  WARSCORE_LESS_THAN: "W wojnie z wynikiem gorszym niż:"
