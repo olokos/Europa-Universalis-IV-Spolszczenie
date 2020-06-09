@@ -72,6 +72,20 @@ guiTypes = {
 			position = { x= 483  y = 72 }
 		}
 
+		iconType =
+		{
+			name ="claim_revolution_icon"
+			spriteType = "GFX_claim_revolution_target"
+			position = { x= 483  y = 72 }
+		}
+
+		guiButtonType =
+		{
+			name ="claim_revolution_button"
+			quadTextureSprite = "GFX_claim_revolution_target"
+			position = { x= 483  y = 72 }
+		}
+
 		guiButtonType =
 		{
 			name ="government_change"
@@ -185,8 +199,6 @@ guiTypes = {
 			buttonFont = "vic_18"
 		}
 
-
-
 		iconType =
 		{
 			name ="absolutism_icon"
@@ -229,6 +241,78 @@ guiTypes = {
 			format = right
 		}
 
+		iconType =
+		{
+			name ="revolutionary_zeal_icon"
+			spriteType = "GFX_icon_revolutionary_zeal"
+			position = { x= 288 y = 152 }
+			Orientation = "UPPER_LEFT"
+			scale = 0.6
+
+		}
+		instantTextBoxType = {
+			name = "revolutionary_zeal_value"
+			position = { x = 320 y = 160 }
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			maxWidth = 42
+			maxHeight = 32
+			format = right
+		}
+		iconType =
+		{
+			name ="max_revolutionary_zeal_icon"
+			spriteType = "GFX_icon_max_revolutionary_zeal"
+			position = { x= 288 y = 184 }
+			Orientation = "UPPER_LEFT"
+			scale = 0.6
+		}
+		instantTextBoxType = {
+			name = "max_revolutionary_zeal_value"
+			position = { x = 320 y = 192 }
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			maxWidth = 42
+			maxHeight = 32
+			format = right
+		}
+
+		guiButtonType = {
+			name ="revolution_spread_button"
+			quadTextureSprite = "GFX_government_revolution_icon"
+			position = { x= 426 y = 255 }
+			Orientation = "UPPER_LEFT"
+			scale = 0.6
+		}
+
+		iconType = {
+			name ="revolution_spread_icon"
+			spriteType = "GFX_government_revolution_icon_medium"
+			position = { x= 426 y = 255 }
+			Orientation = "UPPER_LEFT"
+		}
+
+		iconType = {
+			name ="revolution_spread_bad_bar"
+			spriteType = "GFX_government_revolution_bad_bar"
+			position = { x = 415 y = 316 }
+			Orientation = "UPPER_LEFT"
+		}
+
+		iconType = {
+			name ="revolution_spread_good_bar"
+			spriteType = "GFX_government_revolution_good_bar"
+			position = { x = 415 y = 316 }
+			Orientation = "UPPER_LEFT"
+		}
+
+		iconType = {
+			name ="revolution_spread_frame"
+			spriteType = "GFX_government_revolution_bar_frame"
+			position = { x = 402 y = 313 }
+			Orientation = "UPPER_LEFT"
+			allwaystransparent = yes
+		}
 
 		instantTextBoxType = {
 			name = "election_info"
@@ -285,7 +369,7 @@ guiTypes = {
 			iconType =
 			{
 				name ="statists"
-				spriteType = "GFX_republic_icon"
+				spriteType = "GFX_statists"
 				position = { x= 43 y = -24 }
 				frame = 1
 			}
@@ -293,7 +377,7 @@ guiTypes = {
 			iconType =
 			{
 				name ="monarchists"
-				spriteType = "GFX_monarchism_icon"
+				spriteType = "GFX_monarchists"
 				position = { x= 254 y = -29 }
 				frame = 1
 			}
@@ -636,11 +720,11 @@ guiTypes = {
 				}
 				if_resolution = {
 					min_height = 868
-					max_height = 1047
+					max_height = 1051
 					size = { x = 226 y = 301 }
 				}
 				if_resolution = {
-					min_height = 1048
+					min_height = 1052
 					size = { x = 226 y = 480 }
 				}
 			}
@@ -710,11 +794,11 @@ guiTypes = {
 				}
 				if_resolution = {
 					min_height = 868
-					max_height = 1047
+					max_height = 1051
 					size = { x = 226 y = 301 }
 				}
 				if_resolution = {
-					min_height = 1048
+					min_height = 1052
 					size = { x = 226 y = 480 }
 				}
 			}
@@ -1666,3 +1750,4 @@ guiTypes = {
 			scale = 0.5
 		}
 	}
+}
