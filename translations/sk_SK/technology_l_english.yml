@@ -243,6 +243,7 @@
  dip_tech_cs_31_desc: ""
  dip_tech_cs_32_desc: ""
  FROM_TECH: ""
+ FROM_TECH_NON_PERC: ""
  CURRENT_TECH_DESC: ""
  central_african: ""
  central_african_desc: ""

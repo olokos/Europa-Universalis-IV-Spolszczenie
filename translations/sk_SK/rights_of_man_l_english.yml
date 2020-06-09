@@ -1583,7 +1583,7 @@
  TAKE_LOAN_SUM: ""
  CONSORT_COUNTRY_OF_ORIGIN: ""
  CONSORT_CLAIM_DESC: ""
- EVENTOPTION_ENABLED_BY_TRAIT: ""
+ EVENTOPTION_ENABLED_BY_TRIGGER: ""
  alert_pick_church_aspect_instant: ""
  alert_pick_church_aspect_delayed: ""
  CONTINUE_FAILED_TITLE: ""

@@ -3460,7 +3460,7 @@
  flavor_pap.EVTNAME8: ""
  flavor_pap.EVTDESC8: ""
  flavor_pap.EVTOPTA8: ""
- flavor_pap.EVTOPTB8: ""
+ can_join_council_of_trent_tt: ""
  flavor_mch.EVTNAME1: ""
  flavor_mch.EVTDESC1: ""
  flavor_mch.EVTOPTA1: ""

@@ -22,7 +22,7 @@
  mercantilism_events.3.a: "Potrzebujemy importowanego żelaza do zbrojeń."
  mercantilism_events.3.b: "Musimy polegać na własnych zasobach. Duch liczy się bardziej niż żelazo."
  mercantilism_events.4.t: "Importowanie materiałów okrętowych."
- mercantilism_events.4.d: "Plany związane z ulepszeniem państwowej floty zostały ostatnio wstrzymane. Naszym szkutnikom nie brakuje pomysłów ani projektów, lecz materiałów. Nie mogli oni nie zauważyć, że nasz sąsiad ma pod dostatkiem zaopatrzenia, które pozwoliłoby wyposażyć nowoczesną flotę. Staramy się nie uzależniać od wsparcia z zewnątrz, jednak jeśli stawiamy na strategię rozwoju, może lepiej sprowadzić do kraju przynajmniej tyle materiałów, by przetestować nowe techniki budowy statków."
+ mercantilism_events.4.d: ""
  mercantilism_events.4.a: "Kompromis jest możliwy, jeśli oznacza to postęp prac."
  mercantilism_events.4.b: "Statki z obcego drewna? Już bezpieczniej byłoby zbudować je z kamienia!"
  mercantilism_events.5.t: "$TRADER$, kontrowersyjny protekcjonista"
