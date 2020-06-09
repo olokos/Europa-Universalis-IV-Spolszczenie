@@ -12,7 +12,6 @@ Pracę projektu obejmuą 97 plików z czego do przetłumaczenia pozostało 25.
 
 Aktualnie nasze spolszczenie posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie spolszczeń. [b](76,8% całej gry)[/b]
 
----
 Największe dodatki do EU4:
 
 Emperor                 - 0%     (54 598)  
@@ -24,11 +23,12 @@ Rights of Man           - 9.61%  (36 757)
 Mandate of Heaven       - 13.14% (14 904)
 Cradle of Civilization  - 14.32% (13 289)
 Dharma                  - 16.67% (11 973)  
-[h2]Golden Century          - 41.81% (6 847 )  [/h2]
+Golden Century          - 41.81% (6 847 )  
+
  * procenty pokazują progres postępu dodatku
  * w nawiasie ilość śłów do zakończenia tłumacenia dodatku
 
-[h2]This is mainly polish translation made for Europa Universalis IV.[/h2]
+This is mainly polish translation made for Europa Universalis IV.
 With that said, you can request a translation for a new language.
 
 If you want to request a new language, make sure you can translate at least 10% of the language!
