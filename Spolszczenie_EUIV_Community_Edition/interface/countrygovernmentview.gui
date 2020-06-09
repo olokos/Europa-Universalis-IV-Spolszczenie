@@ -474,7 +474,7 @@ guiTypes = {
 				name = "shogun_interaction_list"
 				position = { x = 39 y = 78 }
 				backGround = ""
-				size = { x = 200 y = 120 }
+				size = { x = 270 y = 120 }
 				Orientation = "UPPER_LEFT"
 				horizontal = 1
 				spacing = 0
@@ -720,11 +720,11 @@ guiTypes = {
 				}
 				if_resolution = {
 					min_height = 868
-					max_height = 1051
+					max_height = 1047
 					size = { x = 226 y = 301 }
 				}
 				if_resolution = {
-					min_height = 1052
+					min_height = 1048
 					size = { x = 226 y = 480 }
 				}
 			}
@@ -794,11 +794,11 @@ guiTypes = {
 				}
 				if_resolution = {
 					min_height = 868
-					max_height = 1051
+					max_height = 1047
 					size = { x = 226 y = 301 }
 				}
 				if_resolution = {
-					min_height = 1052
+					min_height = 1048
 					size = { x = 226 y = 480 }
 				}
 			}
@@ -809,7 +809,7 @@ guiTypes = {
 
 		instantTextBoxType = {
 			name = "modifiers_title"
-			position = { x = 384 y = 120 }
+			position = { x = 390 y = 120 }
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 4 y = 4}

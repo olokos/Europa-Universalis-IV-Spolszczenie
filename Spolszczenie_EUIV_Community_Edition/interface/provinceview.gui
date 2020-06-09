@@ -774,7 +774,7 @@ guiTypes = {
 				font = "vic_18"
 				borderSize = {x = 2 y = 2}
 				text = "CLAIMS"
-				maxWidth = 120
+				maxWidth = 160
 				maxHeight = 20
 				format = left
 				fixedsize = yes
