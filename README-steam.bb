@@ -24,7 +24,7 @@ Największe dodatki do EU4:
 * Dharma                  - 16.67% (11 973)  
 * Golden Century          - 41.81% (6 847 )  
 
- * procenty pokazują progres postępu dodatku
+ * procenty pokazują postęp tłumaczenia dodatku
  * w nawiasie ilość śłów do zakończenia tłumacenia dodatku
 
 This is mainly polish translation made for Europa Universalis IV.
