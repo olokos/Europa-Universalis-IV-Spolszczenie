@@ -243,6 +243,7 @@
  dip_tech_cs_31_desc: "Building ships that are slightly faster than those of our opponents, even if the amount of this extra speed is so negligible that it is of no military significance, can still fill our crews with confidence and make our enemy wary of taking us on in an even fight."
  dip_tech_cs_32_desc: "The ongoing trade deficit between Europe and China has caused a shortage of silver bullion in Europe and all over the world. Switching from silver coinage to gold coinage will allow new coinage to enter circulation and get trade flowing in ever greater amounts."
  FROM_TECH: "From Technology: $VAL|%=+1$"
+ FROM_TECH_NON_PERC: "From Technology: $VAL|=+0$\n"
  CURRENT_TECH_DESC: "Current Technology Level is §Y'$TECH$'§!."
  central_african: "Central African"
  central_african_desc: "With the Central Africa technology group, technology levels are 65% more expensive (165%)."

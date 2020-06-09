@@ -129,7 +129,7 @@
  SKIP_LINK_ACCOUNTS: "Skip linking"
  AGREE_LINK_ACCOUNTS: "Link accounts"
  CREATE_PROFILE_TITLE: "Choose a username"
- CREATE_PROFILE_DESCRIPTION: "Every space general need a name. This username will be used across all Paradox games and online features and cannot be changed after it's been decided.\n\nChoose wisely!"
+ CREATE_PROFILE_DESCRIPTION: "Every general needs a name. This username will be used across all Paradox games and online features and cannot be changed after it's been decided.\n\nChoose wisely!"
  CREATE_PROFILE_USERNAME: "Username"
  CREATE_PROFILE_CONFIRM: "Confirm"
  SOCIAL_JOIN_REQUEST_SENT: "Join request sent"

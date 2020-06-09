@@ -22,7 +22,7 @@
  mercantilism_events.3.a: "We need imported iron for our fist."
  mercantilism_events.3.b: "We need to rely on our own resources. Heart matters more than iron."
  mercantilism_events.4.t: "Importing Naval Supplies"
- mercantilism_events.4.d: "Ambitions to improve our nation's navy has recently come to a halt. The [Root.GetAdjective] shipbuilders don't lack ideas or plans, but supplies. Some of them cannot help but notice, they claim, that our neighbor has an abundance of materials that would be useful in equipping a modern navy. We try not to make our fleet dependent on foreign support, but if these policies stand in the way of progress, perhaps we could import just enough to test the new shipbuilding techniques."
+ mercantilism_events.4.d: "Ambitions to improve our nation's navy have recently come to a halt. The [Root.GetAdjective] shipbuilders don't lack ideas or plans, but supplies. Some of them cannot help but notice, they claim, that our neighbor has an abundance of materials that would be useful in equipping a modern navy. We try not to make our fleet dependent on foreign support, but if these policies stand in the way of progress, perhaps we could import just enough to test the new shipbuilding techniques."
  mercantilism_events.4.a: "We can compromise if it puts some plans in motion."
  mercantilism_events.4.b: "Ships from foreign wood? It'd be safer to fashion them from the rock!"
  mercantilism_events.5.t: "$TRADER$, Controversial Protectionist"

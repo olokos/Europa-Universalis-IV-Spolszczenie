@@ -70,3 +70,5 @@
  RESTART: "Restart"
  PURCHASE: "Purchase"
  GS_MESSAGE_OPEN_URL: "Read More"
+ SUB_VIEW_OVERLAY_DISABLED_TITLE: "Steam Overlay Disabled"
+ SUB_VIEW_OVERLAY_DISABLED_DESC: "To proceed with the purchase you need to enable the Steam overlay for Europa Universalis IV."
