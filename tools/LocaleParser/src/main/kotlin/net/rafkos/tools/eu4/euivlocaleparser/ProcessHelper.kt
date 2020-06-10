@@ -189,30 +189,28 @@ object ProcessHelper {
     fun patchLocales(locales: List<Locale>, patches: List<Locale>): List<Locale> {
         val output = mutableListOf<Locale>()
         locales.forEach {
-            loc -> patches.find { it.fileName == loc.fileName }?.also { output.addAll(patchLocales(listOf(loc), it)) }
+            loc -> patches.find { it.fileName == loc.fileName }?.also { output.add(patchLocales(loc, it)) }
         }
         return output
     }
 
     /**
-     * Patches entries in provided locales with given patch.
+     * Patches entries in provided locale with given patch.
      */
-    fun patchLocales(locales: List<Locale>, patch: Locale): List<Locale> {
-        val output = mutableListOf<Locale>()
-        locales.forEach { loc ->
-            val copy = loc.clone()
-            loc.entries.forEach { (lang, lines) ->
-                lines.forEach { (key, pair) ->
-                    if (patch.entries.containsKey(lang)) {
-                        if (patch.entries[lang]!!.containsKey(key)) {
-                            val patchPair = patch.entries[lang]!![key]!!
-                            copy.entries[lang]!![key] = Pair(patchPair.first, patchPair.second)
-                        }
-                    }
+    fun patchLocales(locale: Locale, patch: Locale): Locale {
+        val output = locale.clone()
+        patch.entries.forEach { (lang, lines) ->
+            lines.forEach { (key, pair) ->
+                val patchPair = patch.entries[lang]!![key]!!
+                val keyPriority = locale.entries[lang]?.keys?.find { it.value == key.value }?.priority ?: key.priority
+                val langPriority = locale.entries.keys.find { it.value == lang.value }?.priority ?: lang.priority
+                if (!locale.entries.containsKey(lang)) {
+                    locale.entries[PriorityString(lang.value, langPriority)] = hashMapOf()
                 }
+                output.entries[PriorityString(lang.value, langPriority)]!![PriorityString(key.value, keyPriority)] = Pair(patchPair.first, patchPair.second)
             }
-            output.add(copy)
         }
+
         return output
     }
 }

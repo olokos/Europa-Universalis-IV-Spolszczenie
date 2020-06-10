@@ -17,8 +17,8 @@ object PatchCommand : Command {
 
         val input = File(args[0])
 
-        if (!input.isDirectory) {
-            logger.error("Input folder \"${input.canonicalPath}\" does not exist or is a file.")
+        if (!input.isFile) {
+            logger.error("Input file \"${input.canonicalPath}\" does not exist or is a folder.")
             return false
         }
 
@@ -30,10 +30,9 @@ object PatchCommand : Command {
         }
 
         val output = File(args[2])
-        output.mkdirs()
 
-        if (!output.isDirectory) {
-            logger.error("Output folder \"${output.canonicalPath}\" does not exist or is a file.")
+        if (output.isDirectory) {
+            logger.error("Output file \"${output.canonicalPath}\" has the same name as folder in this directory.")
             return false
         }
 
@@ -55,11 +54,11 @@ object PatchCommand : Command {
         val input = File(args[0])
         val patch = File(args[1])
         val output = File(args[2])
-        val inputLocales = ProcessHelper.loadDirectoryOfType(input, format)
+        val inputLocales = LocaleLoader.loadFile(input, format)
         val patchLocale = LocaleLoader.loadFile(patch, format)
         val patchedLocales = ProcessHelper.patchLocales(inputLocales, patchLocale)
-        ProcessHelper.writeLocalesToDirectory(output, patchedLocales)
+        LocaleLoader.writeToFile(output, patchedLocales)
     }
 
-    override val help: String = "<input folder> <patch file> <output folder> <locale type: yaml/eu4> - Patches input folder's locales with provided patch file and writes the localess into the output folder. Both patch and input folder has to have the same provided format."
+    override val help: String = "<input file> <patch file> <output folder> <locale type: yaml/eu4> - Patches input file with provided patch file and writes into the output file. Both patch and input files has to have the same provided format."
 }
