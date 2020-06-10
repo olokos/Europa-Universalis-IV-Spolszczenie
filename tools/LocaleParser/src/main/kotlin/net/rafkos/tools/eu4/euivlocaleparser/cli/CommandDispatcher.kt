@@ -17,7 +17,10 @@ object CommandDispatcher {
             "extract_untranslated" to FolderExtractUntranslatedCommand,
             "folder_merge" to FolderMergeCommand,
             "patch" to PatchCommand,
-            "create_short" to CreateShortCommand
+            "folder_patch" to FolderPatchCommand,
+            "create_short" to CreateShortCommand,
+            "diff" to DiffCommand,
+            "folder_diff" to FolderDiffCommand
     )
 
     fun processInput(args: Array<String>) {
@@ -29,6 +32,7 @@ object CommandDispatcher {
             val command = commands[args[0]]
             val commandArgs = args.toMutableList()
             commandArgs.removeAt(0)
+
             if (command!!.validForArguments(commandArgs)) {
                 command.execute(commandArgs)
             } else {

@@ -3,26 +3,29 @@ package net.rafkos.tools.eu4.euivlocaleparser.cli.commands
 import net.rafkos.tools.eu4.euivlocaleparser.LocaleType
 import net.rafkos.tools.eu4.euivlocaleparser.ProcessHelper
 import net.rafkos.tools.eu4.euivlocaleparser.loaders.LocaleLoader
+import org.apache.logging.log4j.LogManager
 import java.io.File
 
 object PatchCommand : Command {
+    private val logger = LogManager.getLogger(this.javaClass)
+
     override fun validForArguments(args: List<String>): Boolean {
         if (args.size != 4) {
-            println("Incorrect number of arguments.")
+            logger.error("Incorrect number of arguments.")
             return false
         }
 
         val input = File(args[0])
 
         if (!input.isDirectory) {
-            println("Input folder \"${input.canonicalPath}\" does not exist or is a file.")
+            logger.error("Input folder \"${input.canonicalPath}\" does not exist or is a file.")
             return false
         }
 
         val patch = File(args[1])
 
         if (patch.isDirectory) {
-            println("Patch file \"${patch.canonicalPath}\" has the same name as folder in this directory.")
+            logger.error("Patch file \"${patch.canonicalPath}\" has the same name as folder in this directory.")
             return false
         }
 
@@ -30,13 +33,13 @@ object PatchCommand : Command {
         output.mkdirs()
 
         if (!output.isDirectory) {
-            println("Output folder \"${output.canonicalPath}\" does not exist or is a file.")
+            logger.error("Output folder \"${output.canonicalPath}\" does not exist or is a file.")
             return false
         }
 
         val format = args[3].toLowerCase()
         if (format != "eu4" && format != "euiv" && format != "yaml" && format != "yml") {
-            println("Incorrect format type \"$format\". Should be one of the two: \"eu4\", \"yaml\".")
+            logger.error("Incorrect format type \"$format\". Should be one of the two: \"eu4\", \"yaml\".")
             return false
         }
 

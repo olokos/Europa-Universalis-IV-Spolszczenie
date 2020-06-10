@@ -1,11 +1,13 @@
 package net.rafkos.tools.eu4.euivlocaleparser.cli.commands
 
+import net.rafkos.tools.eu4.euivlocaleparser.Locale
 import net.rafkos.tools.eu4.euivlocaleparser.LocaleType
+import net.rafkos.tools.eu4.euivlocaleparser.ProcessHelper
 import net.rafkos.tools.eu4.euivlocaleparser.loaders.LocaleLoader
 import org.apache.logging.log4j.LogManager
 import java.io.File
 
-object SupplementCommand : Command {
+object DiffCommand : Command {
     private val logger = LogManager.getLogger(this.javaClass)
 
     override fun validForArguments(args: List<String>): Boolean {
@@ -20,10 +22,10 @@ object SupplementCommand : Command {
             return false
         }
 
-        val supplementary = File(args[1])
+        val diff = File(args[1])
 
-        if (!supplementary.isFile) {
-            logger.error("Supplementary file \"${supplementary.canonicalPath}\" does not exist or is a folder.")
+        if (!diff.isFile) {
+            logger.error("Diff file \"${diff.canonicalPath}\" does not exist or is a folder.")
             return false
         }
 
@@ -34,7 +36,7 @@ object SupplementCommand : Command {
             return false
         }
 
-        if (input.canonicalPath == supplementary.canonicalPath || output.canonicalPath == input.canonicalPath || output.canonicalPath == supplementary.canonicalPath) {
+        if (input.canonicalPath == diff.canonicalPath || output.canonicalPath == input.canonicalPath || output.canonicalPath == diff.canonicalPath) {
             logger.error("At least one of the folders is duplicated. All folders must be different for safety reasons.")
             return false
         }
@@ -56,13 +58,14 @@ object SupplementCommand : Command {
         }
         val input = File(args[0])
         val output = File(args[2])
-        val supplement = File(args[1])
+        val diff = File(args[1])
 
         val inputLocale = LocaleLoader.loadFile(input, format)
-        val supplyLocale = LocaleLoader.loadFile(supplement, format)
-        inputLocale.supplement(supplyLocale)
-        LocaleLoader.writeToFile(output, inputLocale)
+        val diffLocale = LocaleLoader.loadFile(diff, format)
+        val outputLocale = Locale(output.name, format)
+        ProcessHelper.filterLocales(diffLocale, inputLocale, outputLocale) {i, d -> i != d}
+        LocaleLoader.writeToFile(output, outputLocale)
     }
 
-    override val help: String = "<input file> <supply file> <output file> <locale type: yaml/eu4> - Replaces empty strings in input file with values from supplement file then writes to output file. Both input and supplement files need to be of the same provided format."
+    override val help: String = "<input file> <diff file> <output file> <locale type: yaml/eu4> - Outputs differences between input and diff files then writes them to output file. Both input and diff files need to be of the same provided format."
 }

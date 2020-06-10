@@ -2,25 +2,28 @@ package net.rafkos.tools.eu4.euivlocaleparser.cli.commands
 
 import net.rafkos.tools.eu4.euivlocaleparser.LocaleType
 import net.rafkos.tools.eu4.euivlocaleparser.ProcessHelper
+import org.apache.logging.log4j.LogManager
 import java.io.File
 
 object FolderExtractUntranslatedCommand : Command {
+    private val logger = LogManager.getLogger(this.javaClass)
+
     override fun validForArguments(args: List<String>): Boolean {
         if (args.size != 4) {
-            println("Incorrect number of arguments.")
+            logger.error("Incorrect number of arguments.")
             return false
         }
         val base = File(args[0])
 
         if (!base.isDirectory) {
-            println("Base folder \"${base.canonicalPath}\" does not exist or is a file.")
+            logger.error("Base folder \"${base.canonicalPath}\" does not exist or is a file.")
             return false
         }
 
         val translation = File(args[1])
 
         if (!translation.isDirectory) {
-            println("Translation folder \"${translation.canonicalPath}\" does not exist or is a file.")
+            logger.error("Translation folder \"${translation.canonicalPath}\" does not exist or is a file.")
             return false
         }
 
@@ -28,18 +31,18 @@ object FolderExtractUntranslatedCommand : Command {
         output.mkdirs()
 
         if (!output.isDirectory) {
-            println("Output folder \"${output.canonicalPath}\" does not exist or is a file.")
+            logger.error("Output folder \"${output.canonicalPath}\" does not exist or is a file.")
             return false
         }
 
         if (base.canonicalPath == translation.canonicalPath || output.canonicalPath == base.canonicalPath || output.canonicalPath == translation.canonicalPath) {
-            println("At least one of the folders is duplicated. All folders must be different for safety reasons.")
+            logger.error("At least one of the folders is duplicated. All folders must be different for safety reasons.")
             return false
         }
 
         val format = args[3].toLowerCase()
         if (format != "eu4" && format != "euiv" && format != "yaml" && format != "yml") {
-            println("Incorrect format type \"$format\". Should be one of the two: \"eu4\", \"yaml\".")
+            logger.error("Incorrect format type \"$format\". Should be one of the two: \"eu4\", \"yaml\".")
             return false
         }
 

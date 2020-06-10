@@ -4,37 +4,40 @@ import net.rafkos.tools.eu4.euivlocaleparser.LoaderUtils
 import net.rafkos.tools.eu4.euivlocaleparser.LocaleType
 import net.rafkos.tools.eu4.euivlocaleparser.ProcessHelper
 import net.rafkos.tools.eu4.euivlocaleparser.loaders.LocaleLoader
+import org.apache.logging.log4j.LogManager
 import java.io.File
 
 object FolderMergeCommand : Command {
+    private val logger = LogManager.getLogger(this.javaClass)
+
     override fun validForArguments(args: List<String>): Boolean {
         if (args.size != 3) {
-            println("Incorrect number of arguments.")
+            logger.error("Incorrect number of arguments.")
             return false
         }
         val input = File(args[0])
 
         if (!input.isDirectory) {
-            println("Input folder \"${input.canonicalPath}\" does not exist or is a file.")
+            logger.error("Input folder \"${input.canonicalPath}\" does not exist or is a file.")
             return false
         }
 
         val output = File(args[1])
 
         if (output.isDirectory) {
-            println("Output file \"${output.canonicalPath}\" has the same name as folder in this directory.")
+            logger.error("Output file \"${output.canonicalPath}\" has the same name as folder in this directory.")
             return false
         }
 
 
         if (output.canonicalPath == input.canonicalPath) {
-            println("Provided paths cannot be the same.")
+            logger.error("Provided paths cannot be the same.")
             return false
         }
 
         val format = args[2].toLowerCase()
         if (format != "eu4" && format != "euiv" && format != "yaml" && format != "yml") {
-            println("Incorrect format type \"$format\". Should be one of the two: \"eu4\", \"yaml\".")
+            logger.error("Incorrect format type \"$format\". Should be one of the two: \"eu4\", \"yaml\".")
             return false
         }
 

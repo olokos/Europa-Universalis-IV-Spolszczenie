@@ -136,6 +136,23 @@ object ProcessHelper {
         return output
     }
 
+    fun filterLocales(input: Locale, filter: Locale, output: Locale, condition: (String, String) -> Boolean) {
+        input.entries.forEach { (lang, lines) ->
+            lines.forEach { (key, pair) ->
+                val add = when {
+                    filter.entries.containsKey(lang) && filter.entries[lang]!!.containsKey(key) ->
+                        condition(pair.second, filter.entries[lang]!![key]!!.second)
+                    else -> true
+                }
+                if (add) {
+                    if (!output.entries.containsKey(lang))
+                        output.entries[lang] = hashMapOf()
+                    output.entries[lang]!![key] = Pair(pair.first, pair.second)
+                }
+            }
+        }
+    }
+
     /**
      * Returns a locale with input's filename from locales list. Returns null if not found. In case of many
      * locales it will return first one found.
@@ -164,6 +181,17 @@ object ProcessHelper {
             }
         }
         return o
+    }
+
+    /**
+     * Patches entries in provided locales with given patches.
+     */
+    fun patchLocales(locales: List<Locale>, patches: List<Locale>): List<Locale> {
+        val output = mutableListOf<Locale>()
+        locales.forEach {
+            loc -> patches.find { it.fileName == loc.fileName }?.also { output.addAll(patchLocales(listOf(loc), it)) }
+        }
+        return output
     }
 
     /**

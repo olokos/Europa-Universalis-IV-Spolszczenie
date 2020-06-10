@@ -4,35 +4,38 @@ import net.rafkos.tools.eu4.euivlocaleparser.LocaleType
 import net.rafkos.tools.eu4.euivlocaleparser.charsets.Charsets
 import net.rafkos.tools.eu4.euivlocaleparser.converters.LocaleConverter
 import net.rafkos.tools.eu4.euivlocaleparser.loaders.LocaleLoader
+import org.apache.logging.log4j.LogManager
 import java.io.File
 
 object ToYamlCommand : Command {
+    private val logger = LogManager.getLogger(this.javaClass)
+
     override fun validForArguments(args: List<String>): Boolean {
         if (args.size != 3) {
-            println("Incorrect number of arguments.")
+            logger.error("Incorrect number of arguments.")
             return false
         }
         val input = File(args[0])
 
         if (!input.isFile) {
-            println("Input file \"${input.canonicalPath}\" does not exist or is not a file.")
+            logger.error("Input file \"${input.canonicalPath}\" does not exist or is not a file.")
             return false
         }
 
         val output = File(args[1])
 
         if (output.isDirectory) {
-            println("Output file \"${output.canonicalPath}\" has the same name as folder in this directory.")
+            logger.error("Output file \"${output.canonicalPath}\" has the same name as folder in this directory.")
             return false
         }
 
         if (input.canonicalPath == output.canonicalPath) {
-            println("Input and output files must be different.")
+            logger.error("Input and output files must be different.")
             return false
         }
 
         if (!Charsets.charsets.containsKey(args[2])) {
-            println("Incorrect charset provided \"${args[2]}\".")
+            logger.error("Incorrect charset provided \"${args[2]}\".")
             return false
         }
         val charset = Charsets.charsets[args[2]]
