@@ -3,7 +3,7 @@ Europa Universalis IV Community Translation / Spolszczenie
 Spolszczenie do najnowszej wersji Europa Universalis 1.30  
 Działa bezproblemowo z każdą wersją gry 1.30
 
-Stan w  wersji 3.63 [09.06.2020]:
+Stan w  wersji 2.8.0 [10.06.2020]:
 ---
  * 16,813 sprawdzonych wpisów
  * 65,993 przetłumaczonych wpisów
