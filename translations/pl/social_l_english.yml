@@ -129,7 +129,7 @@
  SKIP_LINK_ACCOUNTS: "Pomiń łączenie"
  AGREE_LINK_ACCOUNTS: "Połącz konta"
  CREATE_PROFILE_TITLE: "Wybierz nazwę użytkownika"
- CREATE_PROFILE_DESCRIPTION: ""
+ CREATE_PROFILE_DESCRIPTION: "Każde miejsce potrzebuje jakiejś nazwy. Twoja nazwa użytkownika będzie używana we wszystkich grach Paradox i serwisach online i nie można jej zmienić po podjęciu decyzji.\n\nWybierz mądrze!"
  CREATE_PROFILE_USERNAME: "Nazwa użytkownika"
  CREATE_PROFILE_CONFIRM: "Potwierdź"
  SOCIAL_JOIN_REQUEST_SENT: "Wysłano prośbę o dołączenie"
