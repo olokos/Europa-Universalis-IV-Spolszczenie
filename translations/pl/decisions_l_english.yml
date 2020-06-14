@@ -125,7 +125,7 @@
  from_great_yuan_title: "Zreformuj Wielki Yuan"
  from_great_yuan_desc: "Następcy Kublai-Chana już raz rządzili całymi chińskimi i mongolskimi krainami. Wznówmy roszczenia względem starego Yuan i rozbijmy rodowody, które postanowiły zdobyć Imperium będące naszym dziedzictwem."
  subject_all_mongols: "Wszystkie mongolskie, korchińskie, kalkowskie i ojrackie krainy muszą być rządzone przez [Root.GetName] lub jego wasali."
- custom_tsardom_title: "Zdobądź tytuł Cara"
+ custom_tsardom_title: "Zdobądź tytuł cara"
  custom_tsardom_desc: "Nasze księstwo urosło do rangi jednego z najpotężniejszych państw na świecie. Czy jesteśmy godni przyjąć tytuł Cara nad innymi?"
  yemen_nation_title: "Zjednocz Jemen"
  yemen_nation_desc: "Zbyt długo żyzne ziemie Jemenu cierpiały w rękach niekompetentnych dynastii, które chciały jedynie splądrować swoje skarby. Musimy zjednoczyć te ziemie, aby mogły znów prosperować pod sprawnym władcą."
