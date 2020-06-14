@@ -112,7 +112,7 @@
  recently_changed_government_flag_tooltip: "Nie zmieniono ustroju przez ostatnie 25 lat."
  restore_the_shrine_of_ise_title: "Odnów Świątynie Ise"
  restore_the_shrine_of_ise_desc: "Barbarzyńcy pozwolili, by Wielka Świątynia Ise rozpadła się z powodu braku odpowiedniej konserwacji. Musimy przywrócić to święte miejsce do jego właściwego statusu jako najświętszego miejsca naszej religii."
- empire_of_china_title: "Stwórz roszczenia względem Imperium Chińskiego"
+ empire_of_china_title: "Wysuń roszczenia wobec Cesarstwa Chińskiego"
  empire_of_china_desc: "Chińskie tradycje imperialne zostały zepsute przez ludzi niewładających żadną częścią państwa Chin. Jako główny nestor tegoż dziedzictwa nasz [Root.Monarch.GetTitle] musi być ogłoszony nowym [Root.GetTributaryOverlord], gdy tylko zdobędziemy pierwotne stolice Imperium."
  empire_of_china_not_in_china: "Obecne Imperium Chińskie nie posiada prowincji w żadnych z tych regionów: §YNorth China§!, §YSouth China§! or §YXinan§!."
  become_russian_principality_title: "Przyjmij Autokratyczną Administrację"
