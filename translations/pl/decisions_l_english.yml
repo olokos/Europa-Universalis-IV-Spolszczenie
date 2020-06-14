@@ -138,7 +138,7 @@
  explain_state_firearm_regiments: "Daje następujący modyfikator do odwołania##CHAR_DETECT##"
  standardized_uniforms_title: "Ustandaryzowane mundury"
  standardized_uniforms_desc: "W zakresie, w jakim mundury są używane w naszych armiach, dowódcy pułku armii często powinni je zapewniać i płacić. Prowadzi to do dużej różnorodności kolorów i stylów na polu bitwy i sprawia, że ​​identyfikowanie się z wrogiem jest mylące. Stwórzmy standardowy mundur dla wszystkich żołnierzy na naszych listach płac, które następnie staramy się zapewnić naszym żołnierzom."
- abolish_standardized_uniforms_title: "Znieś Ustandaryzowane Mundury"
+ abolish_standardized_uniforms_title: "Znieś ustandaryzowane mundury"
  abolish_standardized_uniforms_desc: "Państwo ma wiele dobrych sposobów dostarczania znormalizowanych mundurów, ale być może tańsze i bardziej wydajne jest, aby dowódcy pułkowi płacili i zlecali je zamiast tego. Moglibyśmy wrócić do tego, jak było, nawet gdyby nasz wojskowy profesjonalizm nieco ucierpiał."
  abolish_state_firearm_regiments_title: "Znieś nasze Elitarne Uzbrojone Jednostki"
  abolish_state_firearm_regiments_desc: "Płacimy za dużo za nowe technologie. Powinniśmy starać się podnieść całą armię, a nie tylko kilku pionierów."
