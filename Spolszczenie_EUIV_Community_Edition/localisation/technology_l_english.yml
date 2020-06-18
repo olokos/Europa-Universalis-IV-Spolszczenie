@@ -243,7 +243,7 @@
  dip_tech_cs_31_desc:0 "Budowa statków, które s¹ nieznacznie szybsze ni¿ okr²ty naszych przeciwników, nawet jeœli ró¿nica szybkoœci jest w³aœciwie nieistotna, ma olbrzymie znaczenie militarne, gdy¿ mo¿e wzmocni¾ morale za³ogi i sprawi¾, ¿e b²dzie ona bardziej waleczna. "
  dip_tech_cs_32_desc:0 "Nadchodz¹cy deficyt handlowy pomi²dzy Europ¹ a Chinami by³ spowodowany zmniejszeniem si² iloœci sztabek srebra w Europie i na ca³ym œwiecie. Zamiana srebrnych monet na z³ote pozwoli nowemu pieni¹dzu wejœ¾ w obieg i zapewni jeszcze wi²kszy zyski z handlu."
  FROM_TECH:0 "Z tytu³u technologii: $VAL|%=+1$"
- FROM_TECH_NON_PERC:0 "From Technology: $VAL|=+0$\n"
+ FROM_TECH_NON_PERC:0 "Z Technologii: $VAL|=+0$\n"
  CURRENT_TECH_DESC:0 "Obecny poziom technologiczny to §Y'$TECH$'§!."
  central_african:0 "Œrodkowoafrykaªska"
  central_african_desc:0 "W ramach œrodkowoafrykaªskiej grupy technologicznej koszt poziomu technologicznego jest wy¿szy o 65% (165% wartoœci podstawowej)."
