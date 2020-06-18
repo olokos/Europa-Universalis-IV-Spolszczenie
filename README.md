@@ -98,6 +98,6 @@ UWAGA! Gdyby w launcherze pojawiała się informacja, że modyfikacja jest do ni
 - tdomek - tłumacz
 - Robinus - tłumacz
 - Masahara - korekta, pomoc w organizacji
-- NereXus - poprawka, która naprawia problem z 3 kropkami zamiast wieku władcy jeśli gracz gra na małym monitorze.
+- NereXus - pomoc graficzna
 - Rafkos - twórca narzędzi do konwertowania plików, korekta plików
 - Shick - tłumacz
