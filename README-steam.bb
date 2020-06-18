@@ -91,3 +91,4 @@ Serdecznie zapraszamy do pomocy w tłumaczeniu!
 - NereXus - pomoc graficzna
 - Rafkos - twórca narzędzi do konwertowania plików, korekta plików
 - Shick - tłumacz
+- Witcher - korekta, testy

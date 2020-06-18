@@ -101,3 +101,4 @@ UWAGA! Gdyby w launcherze pojawiała się informacja, że modyfikacja jest do ni
 - NereXus - pomoc graficzna
 - Rafkos - twórca narzędzi do konwertowania plików, korekta plików
 - Shick - tłumacz
+- Witcher - korekta, testy
