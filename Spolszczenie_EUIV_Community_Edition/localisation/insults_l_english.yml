@@ -1,6 +1,6 @@
 ﻿l_english:
  insult_default:0 "Twoja matka by³a chomikiem, a twój ojciec œmierdzia³ gnojem!"
- insult_default2:0 "Judgment day is upon us! The minions of Lucifer walk upon the earth- Oh. No, it is merely the [Root.GetAdjective]."
+ insult_default2:0 "Nadszed³ dzieª s¹du! Stworzenia Lucyfera chodz¹ po Ziemi! A nie, to tylko [Root.GetAdjective]."
  insult_default3:0 "Ponadto, wierz² ¿e [Root.GetCapital.GetName] musi zosta¾ zniszczone!"
  insult_default4:0 "Kiedy przysz³e pokolenia b²d¹ czyta³y o naszych czasach, spojrz¹ na ciebie z t¹ mieszank¹ litoœci i obrzydzenia zwan¹ wspó³czuciem."
  insult_default5:0 "Moja ostatnia wizyta w toalecie by³a przyjemniejsza ni¿ kolacja z ambasadorem [Root.GetAdjective]."
@@ -17,7 +17,7 @@
  insult_no_army:0 "Co chcesz zrobic, wykrwawi¾ si² na mnie?"
  insult_bookkeeping:0 "Pewnego dnia nawet [Root.GetAdjective] kupcy zrozumiej¹ ksi²gowoœ¾."
  insult_rome:0 "By¾ mo¿e moje armie powinny dowiedzie¾ si², czy wszystkie drogi prowadz¹ do Rzymu..."
- insult_heir_hunter:0 "I've heard your heir enjoys hunting. Do be careful, it would be such a shame if an unforeseen accident would happen."
+ insult_heir_hunter:0 "S³ysza³em, ¿e twój spadkobierca lubi polowa¾. B¹dŸ ostro¿ny, szkoda by by³o, gdyby przydarzy³ mu si² nieszcz²œliwy wypadek..."
  insult_monarchy:0 "Ca³a twoja dynastia cierpi na z³udzenia co do adekwatnoœci."
  insult_european_indian:0 "To tutaj roœnie pieprz? Wygl¹da na to, ¿e przybyliœmy w sam¹ por² na zbiory..."
  insult_diamonds:0 "Mówi¹, ¿e diamenty s¹ wieczne, a wydaje si², ¿e Ty masz ich du¿o. Daj nam kilka, a dowiemy si², czy mog¹ przetrwa¾ Twoj¹ dynasti²."

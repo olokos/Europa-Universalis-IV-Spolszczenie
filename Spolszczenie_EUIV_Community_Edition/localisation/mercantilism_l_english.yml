@@ -22,7 +22,7 @@
  mercantilism_events.3.a:0 "Potrzebujemy importowanego ¿elaza do zbrojeª."
  mercantilism_events.3.b:0 "Musimy polega¾ na w³asnych zasobach. Duch liczy si² bardziej ni¿ ¿elazo."
  mercantilism_events.4.t:0 "Importowanie materia³ów okr²towych."
- mercantilism_events.4.d:0 "Ambitions to improve our nation's navy have recently come to a halt. The [Root.GetAdjective] shipbuilders don't lack ideas or plans, but supplies. Some of them cannot help but notice, they claim, that our neighbor has an abundance of materials that would be useful in equipping a modern navy. We try not to make our fleet dependent on foreign support, but if these policies stand in the way of progress, perhaps we could import just enough to test the new shipbuilding techniques."
+ mercantilism_events.4.d:0 "Plany zwi¹zane z ulepszeniem paªstwowej floty zosta³y ostatnio wstrzymane. Naszym szkutnikom nie brakuje pomys³ów ani projektów, lecz materia³ów. Nie mogli oni nie zauwa¿y¾, ¿e nasz s¹siad ma pod dostatkiem zaopatrzenia, które pozwoli³oby wyposa¿y¾ nowoczesn¹ flot². Staramy si² nie uzale¿nia¾ od wsparcia z zewn¹trz, jednak jeœli stawiamy na strategi² rozwoju, mo¿e lepiej sprowadzi¾ do kraju przynajmniej tyle materia³ów, by przetestowa¾ nowe techniki budowy statków."
  mercantilism_events.4.a:0 "Kompromis jest mo¿liwy, jeœli oznacza to post²p prac."
  mercantilism_events.4.b:0 "Statki z obcego drewna? Ju¿ bezpieczniej by³oby zbudowa¾ je z kamienia!"
  mercantilism_events.5.t:0 "$TRADER$, kontrowersyjny protekcjonista"
