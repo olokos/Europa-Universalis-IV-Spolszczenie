@@ -31,7 +31,7 @@ Największe dodatki do EU4:
 | Golden Century         | 41.81%    | 6 847       |
 
  * procenty pokazują postęp tłumaczenia dodatku
- * w nawiasie ilość śłów do zakończenia tłumacenia dodatku
+ * w nawiasie ilość słów do zakończenia tłumaczenia dodatku
 
 This is mainly polish translation made for Europa Universalis IV.
 With that said, you can request a translation for a new language.
