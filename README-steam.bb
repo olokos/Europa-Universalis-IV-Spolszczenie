@@ -2,7 +2,7 @@
 Spolszczenie do najnowszej wersji Europa Universalis 1.30  
 Działa bezproblemowo z każdą wersją gry 1.30
 
-[h2]Stan w  wersji 2.8.1 [18.06.2020]:[/h2]
+[h2]Stan w  wersji 2.8.2 [19.06.2020]:[/h2]
  * 17,195 sprawdzonych wpisów
  * 64,816 przetłumaczonych wpisów
  * 26,967 nieprzetłumaczonych wpisów
