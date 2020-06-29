@@ -70,5 +70,5 @@
  RESTART: "Uruchom ponownie"
  PURCHASE: "Kup"
  GS_MESSAGE_OPEN_URL: "Przeczytaj więcej"
- SUB_VIEW_OVERLAY_DISABLED_TITLE: ""
- SUB_VIEW_OVERLAY_DISABLED_DESC: ""
+ SUB_VIEW_OVERLAY_DISABLED_TITLE: "Nakładka Steam wyłączona"
+ SUB_VIEW_OVERLAY_DISABLED_DESC: "Aby kontynuować zakup, musisz włączyć nakładkę Steam dla Europa Universalis IV."
