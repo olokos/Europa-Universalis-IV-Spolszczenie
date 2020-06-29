@@ -680,21 +680,21 @@ source_file = translations/en/missing_correct_english_tut_hint.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.emperor_content_l_englishyml]
+[Community-edition.translations-en-emperor-content-l-english-yml--master]
 file_filter = translations/<lang>/emperor_content_l_english.yml
 minimum_perc = 0
 source_file = translations/en/emperor_content_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.emperor_estates_l_englishyml]
+[Community-edition.translations-en-emperor-estates-l-english-yml--master]
 file_filter = translations/<lang>/emperor_estates_l_english.yml
 minimum_perc = 0
 source_file = translations/en/emperor_estates_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.emperor_l_englishyml]
+[Community-edition.translations-en-emperor-l-english-yml--master]
 file_filter = translations/<lang>/emperor_l_english.yml
 minimum_perc = 0
 source_file = translations/en/emperor_l_english.yml
