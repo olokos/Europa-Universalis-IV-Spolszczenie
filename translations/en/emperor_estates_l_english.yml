@@ -1227,7 +1227,7 @@
  estate_cossacks_exploration_expedition_mod: "Cossack Exploration"
  desc_estate_cossacks_exploration_expedition_mod: "We are harnessing the pioneering instincts of the cossacks to accelerate the settlement and growth of this area."
  decision_once_every_twenty_years: "This decision can only be taken once every §Y20§! years."
- estate_cossacks_exploration_expedition_effect_tooltip: "§G-30%§! local development cost in all Steppe provinces"
+ estate_cossacks_exploration_expedition_effect_tooltip: "§G-15%§! local development cost in all Steppe provinces"
  estate_cossacks_exploration_expedition_mod_revoke_tooltip: "Removes §YCossack Exploration§! from all owned Steppe provinces."
  estate_burghers_exclusive_trade_rights_enact_tooltip: "Adds §R20§! local autonomy and §G-15%§! local development cost to Centers of Trade in §Y[This.GetTradeNodeName]§! trade node."
  estate_burghers_exclusive_trade_rights_revoke_tooltip: "Removes \"Exclusive Trade Rights\" modifier from all owned provinces"

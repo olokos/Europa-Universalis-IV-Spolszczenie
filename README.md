@@ -3,7 +3,7 @@ Europa Universalis IV Community Translation / Spolszczenie
 Spolszczenie do najnowszej wersji Europa Universalis 1.30  
 Działa bezproblemowo z każdą wersją gry 1.30
 
-Stan w  wersji 2.8.1 [18.06.2020]:
+Stan w  wersji 2.8.2 [19.06.2020]:
 ---
  * 17,195 sprawdzonych wpisów
  * 64,816 przetłumaczonych wpisów
@@ -31,7 +31,7 @@ Największe dodatki do EU4:
 | Golden Century         | 41.81%    | 6 847       |
 
  * procenty pokazują postęp tłumaczenia dodatku
- * w nawiasie ilość śłów do zakończenia tłumacenia dodatku
+ * w nawiasie ilość słów do zakończenia tłumaczenia dodatku
 
 This is mainly polish translation made for Europa Universalis IV.
 With that said, you can request a translation for a new language.
@@ -98,6 +98,7 @@ UWAGA! Gdyby w launcherze pojawiała się informacja, że modyfikacja jest do ni
 - tdomek - tłumacz
 - Robinus - tłumacz
 - Masahara - korekta, pomoc w organizacji
-- NereXus - poprawka, która naprawia problem z 3 kropkami zamiast wieku władcy jeśli gracz gra na małym monitorze.
+- NereXus - pomoc graficzna
 - Rafkos - twórca narzędzi do konwertowania plików, korekta plików
 - Shick - tłumacz
+- Witcher - korekta, testy

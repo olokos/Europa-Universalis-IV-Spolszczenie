@@ -698,7 +698,7 @@
  alert_piety_interaction_delayed: ""
  CROWN_LAND_NO_EFFECT: "No Effect"
  CROWN_LAND_NO_EFFECT_TOOLTIP: "The current level of Crown Land has no effect."
- CROWN_LAND_LEVEL_DESC: "Crown Land is a measure of how much land is directly in control by the state. Having very little land means having troubles enforcing your will versus the estates. At §Y40%§! to §Y20%§! land we will have penalties to our Absolutism. Holding less than §Y20%§! Land will have adverse penalties to our Authority.\n\nCrown Land can be gained by:\n  §YSeizing Land§! from Estates.\n  §YDeveloping§! provinces.\n  §YHaving High Absolutism§! and conquering land."
+ CROWN_LAND_LEVEL_DESC: "Crown Land is a measure of how much land is directly in control by the state. Having higher than §Y50%§! land will see us large benefits to our rule. Holding less than §Y30%§! Land will have adverse penalties to our Authority.\n\nCrown Land can be gained by:\n  §YSeizing Land§! from Estates.\n  §YDeveloping§! provinces.\n  §YConquer Land§! with less than §Y60%§! estate influence.\n  §YConquer Land§! with high absolutism."
  DELEGATE_PATRIARCH_TOOLTIP: "§YAssign Metropolis§!"
  DELEGATE_HOLYORDER_TOOLTIP: "§YAssign $ORDER$§!"
  DELEGATE_PASHA_ALREADY_HAS: "§R$STATE|Y$ already has a Pasha assigned!§!\n"

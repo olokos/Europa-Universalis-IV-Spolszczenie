@@ -2,7 +2,7 @@
 Spolszczenie do najnowszej wersji Europa Universalis 1.30  
 Działa bezproblemowo z każdą wersją gry 1.30
 
-[h2]Stan w  wersji 2.8.1 [18.06.2020]:[/h2]
+[h2]Stan w  wersji 2.8.2 [19.06.2020]:[/h2]
  * 17,195 sprawdzonych wpisów
  * 64,816 przetłumaczonych wpisów
  * 26,967 nieprzetłumaczonych wpisów
@@ -88,6 +88,7 @@ Serdecznie zapraszamy do pomocy w tłumaczeniu!
 - tdomek - tłumacz
 - Robinus - tłumacz
 - Masahara - korekta, pomoc w organizacji
-- NereXus - poprawka, która naprawia problem z 3 kropkami zamiast wieku władcy jeśli gracz gra na małym monitorze.
+- NereXus - pomoc graficzna
 - Rafkos - twórca narzędzi do konwertowania plików, korekta plików
 - Shick - tłumacz
+- Witcher - korekta, testy

@@ -3251,3 +3251,4 @@
  imperial_ban_fallback_tt: "Every core province is owned by §Y[Root.GetName]§!."
  EST_VAL_HEATHEN_PEACE_LOYALTY: "Not at War with Heathens: §G$VAL$§!"
  emperor_trying_to_avert_shadow_kingdom_tt: "The Emperor has formally decided to rein in Italy"
+ opinion_left_hre: "Left the Empire"
