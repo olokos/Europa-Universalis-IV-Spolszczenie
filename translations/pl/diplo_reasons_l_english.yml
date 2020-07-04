@@ -352,7 +352,7 @@
  DIPLO_IS_COLONIZER: "Państwo $WHO$ jest kolonizatorem##CHAR_DETECT## "
  DIPLO_NO_TRADE_LEAGUE_LEAD: "Państwo $WHO$ może przewodzić lidze##CHAR_DETECT## "
  DIPLO_TRADE_LEAGUE_MORE: "Kolejny członek ich ligi##CHAR_DETECT## "
- DIPLO_TRADE_LEAGUE_SIZE: "Wielkość ligi handlowej ($NUM$)##CHAR_DETECT## "
+ DIPLO_TRADE_LEAGUE_SIZE: "Wielkość ligi handlowej ($NUM$)"
  DIPLO_WOULD_DISMISS: "Zwolni oddziały"
  DIPLO_FREE_TROOPS: "Wolne oddziały"
  DIPLO_TROOP_QUALITY: "Jakość oddziałów"
