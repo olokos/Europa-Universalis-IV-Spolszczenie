@@ -121,7 +121,7 @@
  DIPLO_WAR_COALITION_BALANCE: "Względna siła koalicji##CHAR_DETECT## "
  DIPLO_CONTROLLING_DESIRED_PROVINCES: "Kontroluje pożądane prowincje na terytorium kraju $WHO$##CHAR_DETECT## "
  DIPLO_DESIRE_YOUR_PROVINCES: "Żąda prowincji z terytorium kraju $WHO$##CHAR_DETECT## "
- DIPLO_DESIRED_PROVINCES: "Oferuje pożądane prowincje##CHAR_DETECT## "
+ DIPLO_DESIRED_PROVINCES: "Oferuje pożądane prowincje"
  DIPLO_UNDESIRED_PROVINCES: "Oferuje niepożądane prowincje"
  DIPLO_HOLD_CAPITAL: "Państwo $WHO$ kontroluje stolicę $CAPITAL$"
  DIPLO_HOLD_WARGOAL: "Państwo $WHO$ zdobyło punkty wojenne w liczbie"
