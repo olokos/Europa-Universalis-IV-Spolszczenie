@@ -364,7 +364,7 @@
  DIPLO_BUDGET_SURPLUS: "Nadwyżka budżetowa $GOLD|1$¤##CHAR_DETECT## "
  DIPLO_UNFAVORABLE_COST: "Niepożądane koszty##CHAR_DETECT## "
  DIPLO_MONTHLY_COST: "Miesięczny koszt $GOLD|1$¤##CHAR_DETECT## "
- DIPLO_WAR_BALANCE_GOOD: "Równowaga wojenna wygląda dobrze##CHAR_DETECT## "
+ DIPLO_WAR_BALANCE_GOOD: "Równowaga wojenna wygląda dobrze"
  DIPLO_IS_RIVAL: "Jest rywalem"
  DIPLO_NO_ACCESS_TO_CAPITAL: "Brak dostępu lądem do stolicy"
  DIPLO_CONDOTTIERI_MALUS: "Nie ufa, że weźmiesz udział"
