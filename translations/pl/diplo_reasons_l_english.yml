@@ -93,7 +93,7 @@
  DIPLO_PUNISH_TRIBUTARY: "$THEM$ odmówił podporządkowania się $WHO$: "
  DIPLO_WAR_BASE_RELUCTANCE: "Podstawowa niechęć##CHAR_DETECT## "
  DIPLO_WAR_BATTLE_RELUCTANCE: "Toczące się bitwy##CHAR_DETECT## "
- DIPLO_IN_HRE: "Kraj $WHO$ jest członkiem cesarstwa##CHAR_DETECT## "
+ DIPLO_IN_HRE: "Kraj $WHO$ jest członkiem cesarstwa"
  DIPLO_NOT_IN_HRE: "Kraj $WHO$ nie jest członkiem cesarstwa "
  DIPLO_CORE_PROCESS: "Uczynienie tej prowincji narodową"
  DIPLO_RICHNESS: "Wartość prowincji"
