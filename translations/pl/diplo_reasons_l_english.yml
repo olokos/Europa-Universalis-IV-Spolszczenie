@@ -125,7 +125,7 @@
  DIPLO_UNDESIRED_PROVINCES: "Oferuje niepożądane prowincje##CHAR_DETECT## "
  DIPLO_HOLD_CAPITAL: "Państwo $WHO$ kontroluje stolicę $CAPITAL$##CHAR_DETECT## "
  DIPLO_HOLD_WARGOAL: "Państwo $WHO$ zdobyło punkty wojenne w liczbie##CHAR_DETECT## "
- DIPLO_WANT_INDEPENDENCE: "Kraj $WHO$ pragnie niepodległości##CHAR_DETECT## "
+ DIPLO_WANT_INDEPENDENCE: "Kraj $WHO$ pragnie niepodległości"
  DIPLO_WAR_CAPACITY: "Możliwości wojenne państwa $WHO$"
  DIPLO_IS_NOMADS: "Jest koczownikiem"
  DIPLO_BADNESS: "Niegodziwość##CHAR_DETECT## "
