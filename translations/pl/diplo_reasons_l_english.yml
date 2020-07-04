@@ -359,7 +359,7 @@
  DIPLO_TROOP_QUANTITY: "Liczba oddziałów##CHAR_DETECT## "
  DIPLO_TOO_EXPENSIVE: "Zbyt kosztowne##CHAR_DETECT## "
  DIPLO_NOT_AT_WAR: "Nie w stanie wojny##CHAR_DETECT## "
- DIPLO_NOT_IN_IMPORTANT_WAR: "Nie toczy ważnej wojny##CHAR_DETECT## "
+ DIPLO_NOT_IN_IMPORTANT_WAR: "Nie toczy ważnej wojny"
  DIPLO_CANT_PAY_UPFRONT: "Nie może sobie pozwolić na zapłatę z góry"
  DIPLO_BUDGET_SURPLUS: "Nadwyżka budżetowa $GOLD|1$¤"
  DIPLO_UNFAVORABLE_COST: "Niepożądane koszty"
