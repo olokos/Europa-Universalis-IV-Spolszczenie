@@ -355,7 +355,7 @@
  DIPLO_TRADE_LEAGUE_SIZE: "Wielkość ligi handlowej ($NUM$)##CHAR_DETECT## "
  DIPLO_WOULD_DISMISS: "Zwolni oddziały##CHAR_DETECT## "
  DIPLO_FREE_TROOPS: "Wolne oddziały##CHAR_DETECT## "
- DIPLO_TROOP_QUALITY: "Jakość oddziałów##CHAR_DETECT## "
+ DIPLO_TROOP_QUALITY: "Jakość oddziałów"
  DIPLO_TROOP_QUANTITY: "Liczba oddziałów##CHAR_DETECT## "
  DIPLO_TOO_EXPENSIVE: "Zbyt kosztowne;"
  DIPLO_NOT_AT_WAR: "Nie w stanie wojny"
