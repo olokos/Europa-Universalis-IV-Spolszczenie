@@ -367,7 +367,7 @@
  DIPLO_WAR_BALANCE_GOOD: "Równowaga wojenna wygląda dobrze##CHAR_DETECT## "
  DIPLO_IS_RIVAL: "Jest rywalem##CHAR_DETECT## "
  DIPLO_NO_ACCESS_TO_CAPITAL: "Brak dostępu lądem do stolicy##CHAR_DETECT## "
- DIPLO_CONDOTTIERI_MALUS: "Nie ufa, że weźmiesz udział##CHAR_DETECT## "
+ DIPLO_CONDOTTIERI_MALUS: "Nie ufa, że weźmiesz udział"
  DIPLO_VASSAL_WAR: "Ustrój polityczny umożliwia wojnę wasali"
  DIPLO_TRIBUTARIES: "Liczba Stanów Zależnych: "
  DIPLO_IS_CELESTIAL_EMPEROR: "$WHO$ jest Niebiańskim Cesarzem: "
