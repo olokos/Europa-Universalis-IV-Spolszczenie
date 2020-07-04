@@ -357,7 +357,7 @@
  DIPLO_FREE_TROOPS: "Wolne oddziały##CHAR_DETECT## "
  DIPLO_TROOP_QUALITY: "Jakość oddziałów##CHAR_DETECT## "
  DIPLO_TROOP_QUANTITY: "Liczba oddziałów##CHAR_DETECT## "
- DIPLO_TOO_EXPENSIVE: "Zbyt kosztowne"
+ DIPLO_TOO_EXPENSIVE: "Zbyt kosztowne;"
  DIPLO_NOT_AT_WAR: "Nie w stanie wojny"
  DIPLO_NOT_IN_IMPORTANT_WAR: "Nie toczy ważnej wojny"
  DIPLO_CANT_PAY_UPFRONT: "Nie może sobie pozwolić na zapłatę z góry"
