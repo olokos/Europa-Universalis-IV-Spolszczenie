@@ -97,7 +97,7 @@
  DIPLO_NOT_IN_HRE: "Kraj $WHO$ nie jest członkiem cesarstwa##CHAR_DETECT## "
  DIPLO_CORE_PROCESS: "Uczynienie tej prowincji narodową##CHAR_DETECT## "
  DIPLO_RICHNESS: "Wartość prowincji##CHAR_DETECT## "
- DIPLO_WAR_TIME_PASSED: "Czas trwania wojny##CHAR_DETECT## "
+ DIPLO_WAR_TIME_PASSED: "Czas trwania wojny"
  DIPLO_THREATHENING_MANDATE: "Mandat jest zagrożony:"
  DIPLO_THEY_WON_WAR: "Państwo $WHO$ wygrało wojnę "
  DIPLO_WAR_STALLED: "Wojna w martwym punkcie"
