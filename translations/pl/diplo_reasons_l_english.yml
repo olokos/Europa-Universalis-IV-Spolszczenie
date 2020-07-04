@@ -114,7 +114,7 @@
  DIPLO_HIGH_DEMANDS: "Żądania przekraczają liczbę punktów wojennych##CHAR_DETECT## "
  DIPLO_WARGOAL_BESIEGED: "Wojenny Cel Oblężenia:"
  DIPLO_OCCUPYING_WARLEADER: "W pełni okupuje ziemie wrogiego przywódcy militarnego##CHAR_DETECT## "
- DIPLO_WAR_EXHAUSTION: "Wyczerpanie $WHO$ wojną##CHAR_DETECT## "
+ DIPLO_WAR_EXHAUSTION: "Wyczerpanie $WHO$ wojną"
  DIPLO_CALL_FOR_PEACE: "Wezwanie do zawarcia pokoju"
  DIPLO_WAR_DIRECTION: "$WHO$ czyni postępy"
  DIPLO_WAR_FORCE_BALANCE: "Względna siła sojuszy"
