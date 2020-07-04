@@ -101,7 +101,7 @@
  DIPLO_THREATHENING_MANDATE: "Mandat jest zagrożony:"
  DIPLO_THEY_WON_WAR: "Państwo $WHO$ wygrało wojnę##CHAR_DETECT## "
  DIPLO_WAR_STALLED: "Wojna w martwym punkcie##CHAR_DETECT## "
- DIPLO_RIVAL_COLONIST: "Państwo $WHO$ jest potęgą kolonialną##CHAR_DETECT## "
+ DIPLO_RIVAL_COLONIST: "Państwo $WHO$ jest potęgą kolonialną"
  DIPLO_WAR_UNOCCUPIED_FORTS: "Żądanie prowincji $PROV$ bez okupywania żadnych fortów w regionie"
  DIPLO_WAR_INCONCLUSIVE: "Potrzebujesz co najmniej $VAL$ wyniku wojny, aby stawiać żądania:"
  DIPLO_UNREASONABLE_DEMANDS: "Niedorzeczne żądania "
