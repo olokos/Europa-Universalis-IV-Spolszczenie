@@ -368,7 +368,7 @@
  DIPLO_IS_RIVAL: "Jest rywalem##CHAR_DETECT## "
  DIPLO_NO_ACCESS_TO_CAPITAL: "Brak dostępu lądem do stolicy##CHAR_DETECT## "
  DIPLO_CONDOTTIERI_MALUS: "Nie ufa, że weźmiesz udział##CHAR_DETECT## "
- DIPLO_VASSAL_WAR: "Ustrój polityczny umożliwia wojnę wasali##CHAR_DETECT## "
+ DIPLO_VASSAL_WAR: "Ustrój polityczny umożliwia wojnę wasali"
  DIPLO_TRIBUTARIES: "Liczba Stanów Zależnych: "
  DIPLO_IS_CELESTIAL_EMPEROR: "$WHO$ jest Niebiańskim Cesarzem: "
  DIPLO_IS_HORDE_EMPIRE: "$WHO$ to Imperium Ordy: "
