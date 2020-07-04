@@ -349,7 +349,7 @@
  DIPLO_BASE_VALUE: "Wartość podstawowa##CHAR_DETECT## "
  DIPLO_INTERESTS_IN_REGION: "Interesy $ADJ$ w regionie##CHAR_DETECT## "
  DIPLO_RIVALS_INTERESTS_IN_REGION: "Interesy rywala w regionie##CHAR_DETECT## "
- DIPLO_IS_COLONIZER: "Państwo $WHO$ jest kolonizatorem##CHAR_DETECT## "
+ DIPLO_IS_COLONIZER: "Państwo $WHO$ jest kolonizatorem"
  DIPLO_NO_TRADE_LEAGUE_LEAD: "Państwo $WHO$ może przewodzić lidze "
  DIPLO_TRADE_LEAGUE_MORE: "Kolejny członek ich ligi"
  DIPLO_TRADE_LEAGUE_SIZE: "Wielkość ligi handlowej ($NUM$)"
