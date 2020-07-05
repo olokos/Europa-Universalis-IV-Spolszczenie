@@ -199,7 +199,7 @@
  DIPLO_NUMBER_OF_ALLIES: "Liczba sojuszników państwa $WHO$:"
  DIPLO_NUMBER_OF_GREAT_POWER_ALLIES: "Liczba światowych potęg będących sojusznikami państwa $WHO$:"
  DIPLO_GREAT_POWER: "Kraj $WHO$ jest światową potęgą:"
- DIPLO_TRUST_WITH: "Zaufanie względem kraju $WHO$##CHAR_DETECT## "
+ DIPLO_TRUST_WITH: "Zaufanie względem kraju $WHO$:"
  DIPLO_NUMBER_OF_POWERFUL_ALLIES: "Kraj $WHO$ ma już potężnych sojuszników##CHAR_DETECT## "
  DIPLO_THREATENED_BY_RIVAL: "Kraj $WHO$ jest zagrożony przez państwo $RIVAL$##CHAR_DETECT## "
  DIPLO_RIVAL_ALLIES: "Kraj $WHO$ jest sojusznikiem państwa $RIVAL$, rywala $ADJ$##CHAR_DETECT## "
