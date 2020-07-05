@@ -290,7 +290,7 @@
  DIPLO_RECENTLY_DID_ACTION: "Ostatnio wykonane $ACTION$##CHAR_DETECT## "
  DIPLO_MSG_FILTER_NEIGHBOURS: "Sąsiedzi##CHAR_DETECT## "
  DIPLO_IS_EMPEROR: "$WHO$ jest Cesarzem Świętego Cesarstwa Rzymskiego##CHAR_DETECT## "
- DIPLO_IS_EMPEROR_ALLY: "$WHO$ ma sojusz ze Świętym Cesarstwem Rzymskim##CHAR_DETECT## "
+ DIPLO_IS_EMPEROR_ALLY: "$WHO$ ma sojusz ze Świętym Cesarstwem Rzymskim:"
  DIPLO_INVALID_TARGET: "Nieprawidłowy cel:"
  DIPLO_SAME_CONTINENT: "Posiada prowincje na tym samych kontynencie:"
  DIPLO_TOO_LARGE_FREE_CITY: "Państwo $WHO$ jest za duże, aby być wolnym miastem:"
