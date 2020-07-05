@@ -171,7 +171,7 @@
  DIPLO_OVERLORDS_ATTITUDE: "$ATTITUDE$ nastawienie suwerena względem kraju $COUNTRY$:"
  DIPLO_TO_LOW_WAR_CAPACITY: "Kraj $WHO$ ma zbyt niskie możliwości wojenne."
  DIPLO_OVERLORD: "Państwo $WHO$ jest suwerenem:"
- DIPLO_WAR_NOT_ACTIVE: "Wojna nieaktywna##CHAR_DETECT## "
+ DIPLO_WAR_NOT_ACTIVE: "Wojna nieaktywna:"
  DIPLO_ONLY_CALL_PRIMITIVES: "To nie jest odpowiednie dla $SUBJECTTYPE$: "
  DIPLO_COALITION_VS_SUBJECT: "Our $SUBJECTTYPE$ przeniósł na siebie tę koalicję: "
  DIPLO_CURRENT_WARSCORE: "Aktualny wynik wojny:"
