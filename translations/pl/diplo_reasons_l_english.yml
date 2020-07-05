@@ -253,7 +253,7 @@
  DIPLO_BETRAYED_ALLY: "Państwo $WHO$ złamało obietnicę przekazania ziem:"
  DIPLO_NOT_WANT_PROVINCES_NOT_ENOUGH_FAVORS: "Za mało przysług, nie chce też żadnych ziem:"
  DIPLO_NOT_WANT_PROVINCES: "Nie chce żadnych ziem kraju $WHO$, jakich nie zażądało państwo $CALLER$:"
- DIPLO_WANTS_PROVINCES: "Obiecano $WHO$ ziemie##CHAR_DETECT## "
+ DIPLO_WANTS_PROVINCES: "Obiecano $WHO$ ziemie:"
  DIPLO_PREPARED_FOR_WAR: "Przygotowania do wojny##CHAR_DETECT## "
  DIPLO_PLAYER_AI_PREFS_KEEP_ALLY: "$WHO$ §GKeep Allies and Rivals§! AI setting is §Genabled§!##CHAR_DETECT## "
  DIPLO_UNION_WAR_GREAT_POWER: "Kraj $WHO$ nie chce, by państwo $TARGET$ zawarło unię z państwem $THEM$##CHAR_DETECT## "
