@@ -197,7 +197,7 @@
  DIPLO_DIPLOMATIC_SKILL_DIFF: "Różnica w umiejętnościach dyplomatycznych państw $WHO$ i $WHO2$:"
  DIPLO_DIPLOMATIC_SKILL_MODIFIERS_DIFF: "Różnica w modyfikatorach umiejętności dyplomatycznych państw $WHO$ i $WHO2$:"
  DIPLO_NUMBER_OF_ALLIES: "Liczba sojuszników państwa $WHO$:"
- DIPLO_NUMBER_OF_GREAT_POWER_ALLIES: "Liczba światowych potęg będących sojusznikami państwa $WHO$##CHAR_DETECT## "
+ DIPLO_NUMBER_OF_GREAT_POWER_ALLIES: "Liczba światowych potęg będących sojusznikami państwa $WHO$:"
  DIPLO_GREAT_POWER: "Kraj $WHO$ jest światową potęgą##CHAR_DETECT## "
  DIPLO_TRUST_WITH: "Zaufanie względem kraju $WHO$##CHAR_DETECT## "
  DIPLO_NUMBER_OF_POWERFUL_ALLIES: "Kraj $WHO$ ma już potężnych sojuszników##CHAR_DETECT## "
