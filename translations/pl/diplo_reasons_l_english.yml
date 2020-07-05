@@ -244,7 +244,7 @@
  DIPLO_LOW_MANPOWER: "Państwo $WHO$ ma niskie zasoby ludzkie:"
  DIPLO_LOANS: "Państwo $WHO$ jest zadłużone na sumę $GOLD|0$¤:"
  DIPLO_DEBT: "$WHO$ posiada pożyczki:"
- DIPLO_TRADE_POWER_ASKED_FOR: "Poproszono o siłę handlową w wysokości "
+ DIPLO_TRADE_POWER_ASKED_FOR: "Poproszono o siłę handlową w wysokości: "
  DIPLO_ARMY_SIZE: "Siła armii $WHO$##CHAR_DETECT## "
  DIPLO_NAVY_SIZE: "Siła floty $WHO$##CHAR_DETECT## "
  DIPLO_FELLOW_VASSAL: "Państwo $COUNTRY01$ jest w dobrych stosunkach z krajem $COUNTRY02$##CHAR_DETECT## "
