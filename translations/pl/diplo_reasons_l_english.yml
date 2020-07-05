@@ -347,7 +347,7 @@
  DIPLO_RECENTLY_THREATENED: "Ostatnio ulegli groźbom:"
  DIPLO_NOT_OUR_CORE: "Prowincja nie jest prowincją narodową $ADJ$:"
  DIPLO_BASE_VALUE: "Wartość podstawowa:"
- DIPLO_INTERESTS_IN_REGION: "Interesy $ADJ$ w regionie"
+ DIPLO_INTERESTS_IN_REGION: "Interesy $ADJ$ w regionie:"
  DIPLO_RIVALS_INTERESTS_IN_REGION: "Interesy rywala w regionie"
  DIPLO_IS_COLONIZER: "Państwo $WHO$ jest kolonizatorem"
  DIPLO_NO_TRADE_LEAGUE_LEAD: "Państwo $WHO$ może przewodzić lidze "
