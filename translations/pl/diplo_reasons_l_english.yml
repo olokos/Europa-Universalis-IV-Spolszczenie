@@ -332,7 +332,7 @@
  DIPLO_LOAN_CANT_AFFORD_INTEREST: "Państwa $WHO$ nie stać na odsetki w wysokości $INTEREST|Y%$##CHAR_DETECT## "
  DIPLO_LOAN_NOT_NEED_LOAN: "Państwo $WHO$ nie potrzebuje żadnych pożyczek##CHAR_DETECT## "
  DIPLO_LOAN_EARNS_ENOUGH: "Państwo $WHO$ zyskuje zbyt wiele##CHAR_DETECT## "
- DIPLO_LOAN_EXPIRY_SOON: "Zbliża się data spłaty##CHAR_DETECT## "
+ DIPLO_LOAN_EXPIRY_SOON: "Zbliża się data spłaty:"
  DIPLO_LOAN_COST_SOON: "Już niedługo pożyczka będzie kosztować zbyt wiele:"
  DIPLO_LOAN_TOO_SMALL: "Pożyczka jest zbyt mała, by się nią kłopotać:"
  DIPLO_ALREADY_HAVE_LOAN: "Kraj $LENDER$ pożycza już pieniądze państwu $WHO$."
