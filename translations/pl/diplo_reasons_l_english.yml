@@ -308,7 +308,7 @@
  DIPLO_ENFORCE_PEACE_WILLINGNESS: "Pragnienie pokoju##CHAR_DETECT## "
  DIPLO_ENFORCE_PEACE_FEAR: "Strach przed państwem $WHO$##CHAR_DETECT## "
  DIPLO_MAY_NOT_DECLARE_WAR: "Nie może wypowiedzieć wojny państwu $WHO$##CHAR_DETECT## "
- DIPLO_IS_DOF: "$WHO$ jest Obrońcą Wiary religii $RELIGION$##CHAR_DETECT## "
+ DIPLO_IS_DOF: "$WHO$ jest Obrońcą Wiary religii ($RELIGION$): "
  DIPLO_PRESTIGE: "Prestiż:"
  DIPLO_OVER_FORCE_LIMIT: "Zakup floty wyczerpie limit sił:"
  DIPLO_OVEREXTENDED: "$WHO$ cechuje się przerostem:"
