@@ -149,7 +149,7 @@
  DIPLO_NEED_MORE_IN_INCOME: "$WHO$ potrzebuje większego przychodu miesięcznego ($VAL$): "
  DIPLO_WOULD_DEFICIT: "$WHO$ skończyłby z miesięcznym deficytem: "
  DIPLO_SUPERIORITY_IN_PROV_MIL_INC: "Przewaga w prowincjach, wojsku oraz gospodarce:"
- DIPLO_IS_DEPENDENT_ON: "Jest zależne od $WHO$##CHAR_DETECT## "
+ DIPLO_IS_DEPENDENT_ON: "Jest zależne od $WHO$:"
  DIPLO_NUM_OF_PROVINCES: "Liczba prowincji##CHAR_DETECT## "
  DIPLO_HAS_NO_PROVINCES: "Nie posiada prowincji##CHAR_DETECT## "
  DIPLO_BASE_TAX: "Podstawa ekonomiczna $WHO$ w porównaniu do $OTHER$##CHAR_DETECT## "
