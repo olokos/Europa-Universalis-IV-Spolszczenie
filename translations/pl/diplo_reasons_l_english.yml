@@ -192,7 +192,7 @@
  DIPLO_DEFENSIVE_BAD_WARSCORE: "To jest wojna obronna i Twój wynik wojny jest mniejszy niż $VAL$: "
  DIPLO_DIPLOMATIC_REP: "Reputacja dyplomatyczna państwa $WHO$:"
  DIPLO_FED_DIPLOMATIC_REP: "Całkowita reputacja dyplomatyczna w kraju $WHO$:"
- DIPLO_DIPLOMATIC_SKILL: "Umiejętności dyplomatyczne państwa $WHO$##CHAR_DETECT## "
+ DIPLO_DIPLOMATIC_SKILL: "Umiejętności dyplomatyczne państwa $WHO$:"
  DIPLO_DIPLOMATIC_SKILL_MODIFIERS: "Modyfikatory umiejętności dyplomatycznych państwa $WHO$##CHAR_DETECT## "
  DIPLO_DIPLOMATIC_SKILL_DIFF: "Różnica w umiejętnościach dyplomatycznych państw $WHO$ i $WHO2$##CHAR_DETECT## "
  DIPLO_DIPLOMATIC_SKILL_MODIFIERS_DIFF: "Różnica w modyfikatorach umiejętności dyplomatycznych państw $WHO$ i $WHO2$##CHAR_DETECT## "
