@@ -138,7 +138,7 @@
  DIPLO_WAR_CAPACITY_TOO_LOW: "Możliwości wojenne $WHO$ są żałosne:"
  DIPLO_WAR_CAPACITY_TOO_HIGH: "Możliwości wojenne $WHO$ są niesamowite:"
  DIPLO_OFFERS_WARSCORE: "Oferta w porównaniu do wyniku wojny:"
- DIPLO_WAR_DURATION: "Czas trwania wojny##CHAR_DETECT## "
+ DIPLO_WAR_DURATION: "Czas trwania wojny:"
  DIPLO_DESPERATE: "$WHO$ rozpaczliwie pragnie pokoju##CHAR_DETECT## "
  DIPLO_PEACE_ABOVE_WAR_SCORE: "Oferta pokoju większa niż wynik wojny:"
  DIPLO_PEACE_SCORE_UNDER: "Propozycja pokojowa niższa niż $SCORE$##CHAR_DETECT## "
