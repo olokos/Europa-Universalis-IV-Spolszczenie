@@ -184,7 +184,7 @@
  DIPLO_NOT_WANT_GALLEY: "$WHO$ nie ma zastosowania dla galer:"
  DIPLO_TOO_MANY_BIG_SHIP: "$WHO$ chce o §R$NUM$§! dużych okrętów mniej:"
  DIPLO_TOO_MANY_LIGHT_SHIP: "$WHO$ chce o §R$NUM$§! lekkich okrętów mniej:"
- DIPLO_TOO_MANY_GALLEY: "$WHO$ chce o §R$NUM$§! galer mniej##CHAR_DETECT## "
+ DIPLO_TOO_MANY_GALLEY: "$WHO$ chce o §R$NUM$§! galer mniej:"
  DIPLO_TOO_MANY_TRANSPORT: "$WHO$ chce o §R$NUM$§! transportowców mniej##CHAR_DETECT## "
  DIPLO_MORE_THAN: "więcej niż "
  DIPLO_ALLYS_FOR_YEARS: "$ALLY1$ jest sojusznikiem kraju $ALLY2$ od $YEARS$ lat##CHAR_DETECT## "
