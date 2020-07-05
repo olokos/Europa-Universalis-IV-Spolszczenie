@@ -249,7 +249,7 @@
  DIPLO_NAVY_SIZE: "Siła floty $WHO$:"
  DIPLO_FELLOW_VASSAL: "Państwo $COUNTRY01$ jest w dobrych stosunkach z krajem $COUNTRY02$:"
  DIPLO_HALF_LAND_SIZE: "Państwo $COUNTRY01$ ma o połowę mniej prowincji niż $COUNTRY02$:"
- DIPLO_LESSER_IN_VASSAL: "Kraj $WHO$ jest wasalem##CHAR_DETECT## "
+ DIPLO_LESSER_IN_VASSAL: "Kraj $WHO$ jest wasalem:"
  DIPLO_BETRAYED_ALLY: "Państwo $WHO$ złamało obietnicę przekazania ziem##CHAR_DETECT## "
  DIPLO_NOT_WANT_PROVINCES_NOT_ENOUGH_FAVORS: "Za mało przysług, nie chce też żadnych ziem##CHAR_DETECT##  "
  DIPLO_NOT_WANT_PROVINCES: "Nie chce żadnych ziem kraju $WHO$, jakich nie zażądało państwo $CALLER$##CHAR_DETECT## "
