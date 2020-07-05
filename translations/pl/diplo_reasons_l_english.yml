@@ -302,7 +302,7 @@
  DIPLO_MAY_REPLACE_WAR: "Może zastąpić państwo $WHO$ w roli przywódcy militarnego##CHAR_DETECT## "
  DIPLO_WE_HAVE_ROYAL_MARRIAGE: "Mamy mariaż królewski##CHAR_DETECT## "
  DIPLO_GOVERNMENT: "W kraju $COUNTRY$ panuje $GOVERNMENT$##CHAR_DETECT## "
- DIPLO_CHANCE_LESSER_THAN: "Mniej powodów niż $VAL|Y$##CHAR_DETECT## "
+ DIPLO_CHANCE_LESSER_THAN: "Mniej powodów niż $VAL|Y$:"
  DIPLO_CHANCE_LARGER_THAN: "Więcej powodów niż $VAL|Y$:"
  DIPLO_PEACE_ACCEPTABLE: "Pokój możliwy:"
  DIPLO_ENFORCE_PEACE_WILLINGNESS: "Pragnienie pokoju:"
