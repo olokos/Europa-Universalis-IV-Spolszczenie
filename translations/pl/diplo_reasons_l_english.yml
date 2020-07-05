@@ -297,7 +297,7 @@
  DIPLO_HAS_SUBJECTS: "Państwo $WHO$ ma własnych poddanych##CHAR_DETECT## "
  DIPLO_IS_LESSERVASSAL_OR_UNION: "Jest wasalem lub członkiem unii##CHAR_DETECT## "
  DIPLO_IS_STRONGER: "Jesteśmy znacznie silniejsi##CHAR_DETECT## "
- DIPLO_IS_SUBJECT: "Kraj $WHO$ jest poddanym##CHAR_DETECT## "
+ DIPLO_IS_SUBJECT: "Kraj $WHO$ jest poddanym:"
  DIPLO_IS_THREAT: "Widzą w nas zagrożenie:"
  DIPLO_MAY_REPLACE_WAR: "Może zastąpić państwo $WHO$ w roli przywódcy militarnego:"
  DIPLO_WE_HAVE_ROYAL_MARRIAGE: "Mamy mariaż królewski:"
