@@ -92,7 +92,7 @@
  DIPLO_ANNEX_US: "Zaowocuje aneksją lub wasalizacją państwa $WHO$:"
  DIPLO_PUNISH_TRIBUTARY: "$THEM$ odmówił podporządkowania się $WHO$: "
  DIPLO_WAR_BASE_RELUCTANCE: "Podstawowa niechęć:"
- DIPLO_WAR_BATTLE_RELUCTANCE: "Toczące się bitwy"
+ DIPLO_WAR_BATTLE_RELUCTANCE: "Toczące się bitwy:"
  DIPLO_IN_HRE: "Kraj $WHO$ jest członkiem cesarstwa"
  DIPLO_NOT_IN_HRE: "Kraj $WHO$ nie jest członkiem cesarstwa "
  DIPLO_CORE_PROCESS: "Uczynienie tej prowincji narodową"
