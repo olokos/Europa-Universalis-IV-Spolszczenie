@@ -336,7 +336,7 @@
  DIPLO_LOAN_COST_SOON: "Już niedługo pożyczka będzie kosztować zbyt wiele##CHAR_DETECT## "
  DIPLO_LOAN_TOO_SMALL: "Pożyczka jest zbyt mała, by się nią kłopotać##CHAR_DETECT## "
  DIPLO_ALREADY_HAVE_LOAN: "Kraj $LENDER$ pożycza już pieniądze państwu $WHO$."
- DIPLO_TOO_MANY_RELATIONS: "Państwo $WHO$ ma zbyt wiele kontaktów dyplomatycznych##CHAR_DETECT## "
+ DIPLO_TOO_MANY_RELATIONS: "Państwo $WHO$ ma zbyt wiele kontaktów dyplomatycznych:"
  DIPLO_BASE: "Podstawa:"
  DIPLO_DIP_POWER_COST_ABOVE: "Koszt siły dyplomatycznej państwa $WHO$ przekracza $VAL|Y$:"
  DIPLO_NO_ALLIANCE_NO_GUARANTEE: "Państwo $COUNTRY01$ nie jest sprzymierzeńcem ani gwarantem kraju $COUNTRY02$:"
