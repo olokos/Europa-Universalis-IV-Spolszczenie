@@ -280,7 +280,7 @@
  DIPLO_ORIGINAL_ENEMY_NOT_BEATEN: "Kraj $COUNTRY$ nie znajduje się pod całkowitą okupacją##CHAR_DETECT## "
  DIPLO_BORDER_DISTANCE: "Odległość między granicami##CHAR_DETECT## "
  DIPLO_PROTECTORATES: "Liczba protektoratów##CHAR_DETECT## "
- DIPLO_OTHER_PROTECTORATE: "Kraj $WHO$ także korzysta z protektoratu w tym samym ośrodku handlu##CHAR_DETECT## "
+ DIPLO_OTHER_PROTECTORATE: "Kraj $WHO$ także korzysta z protektoratu w tym samym ośrodku handlu:"
  DIPLO_FED_BORDER_DISTANCE: "Średnia odległość do $FEDNAME$:"
  DIPLO_CANNOT_REACH: "Kraj $WHO$ nie może osiągnąć $TARGET$:"
  DIPLO_ROYAL_MARRIAGES_FOR: "Liczba mariaży królewskich dla państwa $WHO$:"
