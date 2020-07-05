@@ -304,7 +304,7 @@
  DIPLO_GOVERNMENT: "W kraju $COUNTRY$ panuje $GOVERNMENT$##CHAR_DETECT## "
  DIPLO_CHANCE_LESSER_THAN: "Mniej powodów niż $VAL|Y$##CHAR_DETECT## "
  DIPLO_CHANCE_LARGER_THAN: "Więcej powodów niż $VAL|Y$##CHAR_DETECT## "
- DIPLO_PEACE_ACCEPTABLE: "Pokój możliwy##CHAR_DETECT## "
+ DIPLO_PEACE_ACCEPTABLE: "Pokój możliwy:"
  DIPLO_ENFORCE_PEACE_WILLINGNESS: "Pragnienie pokoju:"
  DIPLO_ENFORCE_PEACE_FEAR: "Strach przed państwem $WHO$:"
  DIPLO_MAY_NOT_DECLARE_WAR: "Nie może wypowiedzieć wojny państwu $WHO$:"
