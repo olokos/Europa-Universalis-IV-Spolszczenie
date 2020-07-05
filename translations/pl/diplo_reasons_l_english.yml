@@ -216,7 +216,7 @@
  DIPLO_THREAT: "Zagrożenie:"
  DIPLO_RIVALS: "Premia rywala:"
  DIPLO_COMMON_RIVALS: "Zwykli rywale:"
- DIPLO_NUM_OF_RIVALS: "Liczba rywali##CHAR_DETECT## "
+ DIPLO_NUM_OF_RIVALS: "Liczba rywali:"
  DIPLO_GAVE_WAR_ACCESS_TO_ENEMY: "Dało prawo przemarszu wrogich wojsk##CHAR_DETECT## "
  DIPLO_WAR_WITH_RIVAL: "W stanie wojny z rywalem##CHAR_DETECT## "
  DIPLO_WAR_WITH_OVERLORDS_RIVAL: "W stanie wojny z rywalem suwerena##CHAR_DETECT## "
