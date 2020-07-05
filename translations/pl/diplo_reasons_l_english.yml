@@ -130,7 +130,7 @@
  DIPLO_IS_NOMADS: "Jest koczownikiem:"
  DIPLO_BADNESS: "Niegodziwość:"
  DIPLO_WEARINESS: "Zmęczenie:"
- DIPLO_NO_THREAT: "Nie stanowią zagrożenia##CHAR_DETECT## "
+ DIPLO_NO_THREAT: "Nie stanowią zagrożenia:"
  DIPLO_IS_NOT_OCCUPYING: "Nie okupuje państwa $WHO$##CHAR_DETECT## "
  DIPLO_OWNS_CORE_PROVINES: "Państwo $WHO$ posiada prowincje narodowe $ADJ$##CHAR_DETECT## "
  DIPLO_WAR_SCORE_AND_CAPACITY_BIGGER: "Wynik Wojny i zdolności większe niż $VAL$:"
