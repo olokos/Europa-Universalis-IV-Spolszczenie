@@ -151,7 +151,7 @@
  DIPLO_SUPERIORITY_IN_PROV_MIL_INC: "Przewaga w prowincjach, wojsku oraz gospodarce:"
  DIPLO_IS_DEPENDENT_ON: "Jest zależne od $WHO$:"
  DIPLO_NUM_OF_PROVINCES: "Liczba prowincji:"
- DIPLO_HAS_NO_PROVINCES: "Nie posiada prowincji##CHAR_DETECT## "
+ DIPLO_HAS_NO_PROVINCES: "Nie posiada prowincji:"
  DIPLO_BASE_TAX: "Podstawa ekonomiczna $WHO$ w porównaniu do $OTHER$##CHAR_DETECT## "
  DIPLO_MORE_BASE_TAX_THAN: "Kraj $WHO$ ma całkowity poziom rozwoju państwa większy niż $VAL$##CHAR_DETECT## "
  DIPLO_LESS_BASE_TAX_THAN: "Kraj $WHO$ ma całkowity poziom rozwoju państwa mniejszy niż $VAL$##CHAR_DETECT## "
