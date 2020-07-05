@@ -317,7 +317,7 @@
  DIPLO_PROVINCE_CLAIM: "Prowincja $PROV$ jest obiektem roszczeń państwa $WHO$##CHAR_DETECT## "
  DIPLO_PROVINCE_NO_STRATEGIC_INTEREST: "Prowincja $PROV$ nie jest prowincją narodową ani dawną prowincją państwa $WHO$##CHAR_DETECT## "
  DIPLO_PROVINCE_SAME_RELIGION: "W prowincji $PROV$ oraz w kraju $WHO$ wyznawana jest religia $RELIGION$##CHAR_DETECT## "
- DIPLO_NOT_NEIGHBOURS: "Nie są sąsiadami##CHAR_DETECT## "
+ DIPLO_NOT_NEIGHBOURS: "Nie są sąsiadami:"
  DIPLO_SELLPROV_NEIGHBOUR_AND_PRICE: "Prowincja $PROV$ jest sąsiadem państwa $WHO$, a cena wynosi $VAL$:"
  DIPLO_SELLPROV_NOPORT_NOCORE: "Prowincja$PROV$ nie może zostać prowincją narodową państwa $WHO$:"
  DIPLO_PROVINCE_ISCORE_OFNUM: "Prowincja $PROV$ jest prowincją narodową $NUM$ państw:"
