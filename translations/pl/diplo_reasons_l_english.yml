@@ -210,7 +210,7 @@
  DIPLO_ROYAL_MARRIAGE_BETWEEN: "Mariaż królewski pomiędzy państwami $WHO1$ a $WHO2$:"
  DIPLO_CANNOT_MARRY: "$WHO$ nie może zawrzeć królewskiego mariażu:"
  DIPLO_WHO_TRUST: "$WHO1$ ufa państwu $WHO2$:"
- DIPLO_TRUST: "Zaufanie##CHAR_DETECT## "
+ DIPLO_TRUST: "Zaufanie:"
  DIPLO_TRUST_BELOW: "Zaufanie poniżej $TRUSTVALUE|Y$: "
  DIPLO_DISTRUST: "Nieufność##CHAR_DETECT## "
  DIPLO_THREAT: "Zagrożenie##CHAR_DETECT## "
