@@ -96,7 +96,7 @@
  DIPLO_IN_HRE: "Kraj $WHO$ jest członkiem cesarstwa:"
  DIPLO_NOT_IN_HRE: "Kraj $WHO$ nie jest członkiem cesarstwa: "
  DIPLO_CORE_PROCESS: "Uczynienie tej prowincji narodową:"
- DIPLO_RICHNESS: "Wartość prowincji"
+ DIPLO_RICHNESS: "Wartość prowincji:"
  DIPLO_WAR_TIME_PASSED: "Czas trwania wojny"
  DIPLO_THREATHENING_MANDATE: "Mandat jest zagrożony:"
  DIPLO_THEY_WON_WAR: "Państwo $WHO$ wygrało wojnę "
