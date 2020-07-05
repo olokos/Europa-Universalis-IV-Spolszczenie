@@ -111,7 +111,7 @@
  DIPLO_WANTS_ANNEX: "Chce zaanektować kraj $COUNTRY$:"
  DIPLO_WANTS_END_TO_WAR: "Chce końca wojny:"
  DIPLO_BEST_POSSIBLE_PEACE_OFFER: "Kraj $TARGET$ nie chce nic więcej od państwa $WHO$:"
- DIPLO_HIGH_DEMANDS: "Żądania przekraczają liczbę punktów wojennych"
+ DIPLO_HIGH_DEMANDS: "Żądania przekraczają liczbę punktów wojennych:"
  DIPLO_WARGOAL_BESIEGED: "Wojenny Cel Oblężenia:"
  DIPLO_OCCUPYING_WARLEADER: "W pełni okupuje ziemie wrogiego przywódcy militarnego"
  DIPLO_WAR_EXHAUSTION: "Wyczerpanie $WHO$ wojną"
