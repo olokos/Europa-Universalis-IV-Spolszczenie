@@ -256,7 +256,7 @@
  DIPLO_WANTS_PROVINCES: "Obiecano $WHO$ ziemie:"
  DIPLO_PREPARED_FOR_WAR: "Przygotowania do wojny:"
  DIPLO_PLAYER_AI_PREFS_KEEP_ALLY: "$WHO$ §GKeep Allies and Rivals§! AI setting is §Genabled§!: "
- DIPLO_UNION_WAR_GREAT_POWER: "Kraj $WHO$ nie chce, by państwo $TARGET$ zawarło unię z państwem $THEM$##CHAR_DETECT## "
+ DIPLO_UNION_WAR_GREAT_POWER: "Kraj $WHO$ nie chce, by państwo $TARGET$ zawarło unię z państwem $THEM$:"
  DIPLO_PLAYER_AI_PREFS_FIGHT_TO_DEATH: "§GDążenie do szybkiego pokoju§! przez SI prowadzącą państwo $WHO$ jest §Gwłączone§!##CHAR_DETECT## "
  DIPLO_VASSAL_UNDER: "Kraj $VASSAL$ jest wasalem państwa $LEADER$##CHAR_DETECT## "
  DIPLO_VASSAL_LOYAL: "Kraj $VASSAL$ jest lojalny względem państwa $OVERLORD$"
