@@ -161,7 +161,7 @@
  DIPLO_WAR_ON_OVERLORD: "Wojna toczy się przeciw suwerenowi państwa $WHO$:"
  DIPLO_NO_ENEMIES: "Brak właściwych wrogów:"
  DIPLO_IS_CONSOLIDATING: "Ma swoje własne plany:"
- DIPLO_HAS_TRUCE_WITH: "$WHO1$ ma rozejm z państwem $WHO2$##CHAR_DETECT## "
+ DIPLO_HAS_TRUCE_WITH: "$WHO1$ ma rozejm z państwem $WHO2$:"
  DIPLO_FEAR_OF_BEING_ANNEXED: "Jest przedmiotem aneksji##CHAR_DETECT## "
  DIPLO_RESTRICTED_REGION: "Regionalna nieufność względem handlu czarterowego"
  DIPLO_TRADING_CITY: "Jest miastem handlowym:"
