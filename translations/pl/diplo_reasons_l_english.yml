@@ -365,7 +365,7 @@
  DIPLO_UNFAVORABLE_COST: "Niepożądane koszty:"
  DIPLO_MONTHLY_COST: "Miesięczny koszt $GOLD|1$¤:"
  DIPLO_WAR_BALANCE_GOOD: "Równowaga wojenna wygląda dobrze:"
- DIPLO_IS_RIVAL: "Jest rywalem"
+ DIPLO_IS_RIVAL: "Jest rywalem:"
  DIPLO_NO_ACCESS_TO_CAPITAL: "Brak dostępu lądem do stolicy"
  DIPLO_CONDOTTIERI_MALUS: "Nie ufa, że weźmiesz udział"
  DIPLO_VASSAL_WAR: "Ustrój polityczny umożliwia wojnę wasali"
