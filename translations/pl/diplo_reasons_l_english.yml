@@ -295,7 +295,7 @@
  DIPLO_SAME_CONTINENT: "Posiada prowincje na tym samych kontynencie##CHAR_DETECT## "
  DIPLO_TOO_LARGE_FREE_CITY: "Państwo $WHO$ jest za duże, aby być wolnym miastem##CHAR_DETECT## "
  DIPLO_HAS_SUBJECTS: "Państwo $WHO$ ma własnych poddanych##CHAR_DETECT## "
- DIPLO_IS_LESSERVASSAL_OR_UNION: "Jest wasalem lub członkiem unii##CHAR_DETECT## "
+ DIPLO_IS_LESSERVASSAL_OR_UNION: "Jest wasalem lub członkiem unii:"
  DIPLO_IS_STRONGER: "Jesteśmy znacznie silniejsi:"
  DIPLO_IS_SUBJECT: "Kraj $WHO$ jest poddanym:"
  DIPLO_IS_THREAT: "Widzą w nas zagrożenie:"
