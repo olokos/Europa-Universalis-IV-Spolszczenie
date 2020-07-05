@@ -10,7 +10,7 @@
  DIPLO_TRADE_VASSALS: "Liczba krajów przekazujących siłę handlową państwu $WHO$ wynosi: "
  DIPLO_TRADE_STEER_SLAVES: "Liczba krajów kierujących handel do $WHO$:"
  DIPLO_ACTIVE_RELATION: "Traktat jest już aktywny:"
- DIPLO_FIGHTING_OTHER_WAR_TOGETHER: "Toczy wspólnie wojnę: "
+ DIPLO_FIGHTING_OTHER_WAR_TOGETHER: "Toczy wspólnie wojnę:"
  DIPLO_MULTI_WARS: "Zostanie wezwane do udziału w wojnach: "
  DIPLO_FIGHTING_OTHER_WAR: "Toczy inne wojny: "
  DIPLO_POSITIVE: "Pozytywny: $VAL|G$"
