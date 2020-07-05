@@ -343,7 +343,7 @@
  DIPLO_ALLIANCE: "Państwo $COUNTRY01$ jest sprzymierzeńcem kraju $COUNTRY02$##CHAR_DETECT## "
  DIPLO_NO_ALLIANCE: "$COUNTRY01$ isn't allied to $COUNTRY02$##CHAR_DETECT## "
  DIPLO_TOO_SMALL: "Niewystarczająca liczba prowincji##CHAR_DETECT## "
- DIPLO_RELATIVE_WORTH_OF_PROV: "Względna wartość prowincji##CHAR_DETECT## "
+ DIPLO_RELATIVE_WORTH_OF_PROV: "Względna wartość prowincji:"
  DIPLO_RECENTLY_THREATENED: "Ostatnio ulegli groźbom:"
  DIPLO_NOT_OUR_CORE: "Prowincja nie jest prowincją narodową $ADJ$"
  DIPLO_BASE_VALUE: "Wartość podstawowa:"
