@@ -264,7 +264,7 @@
  DIPLO_IN_OUR_UNION: "Kraj $WHO$ jest członkiem naszej unii: "
  DIPLO_SUPPORTING_INDEPENDENCE: "Państwo $COUNTRY01$ wspiera kraj $COUNTRY02_ADJ$ w dążeniu do niepodległości:"
  DIPLO_OPINION: "Opinia $COUNTRY01$ o kraju $COUNTRY02$:"
- DIPLO_FED_OPINION: "Całkowita opinia $COUNTRY01$ o kraju $COUNTRY02$##CHAR_DETECT## "
+ DIPLO_FED_OPINION: "Całkowita opinia $COUNTRY01$ o kraju $COUNTRY02$:"
  DIPLO_OPINION_LESSER_THAN: "Opinia $COUNTRY01$ o kraju $COUNTRY02$ jest mniejsza niż $VAL|Y$##CHAR_DETECT## "
  DIPLO_OPINION_LARGER_THAN: "Opinia $COUNTRY01$ o kraju $COUNTRY02$ jest większa niż $VAL|Y$##CHAR_DETECT## "
  DIPLO_CANT_AFFORD: "Kraj $WHO$ nie może pozwolić sobie na więcej stosunków dyplomatycznych##CHAR_DETECT## "
