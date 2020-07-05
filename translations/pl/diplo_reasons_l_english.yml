@@ -187,7 +187,7 @@
  DIPLO_TOO_MANY_GALLEY: "$WHO$ chce o §R$NUM$§! galer mniej:"
  DIPLO_TOO_MANY_TRANSPORT: "$WHO$ chce o §R$NUM$§! transportowców mniej:"
  DIPLO_MORE_THAN: "więcej niż "
- DIPLO_ALLYS_FOR_YEARS: "$ALLY1$ jest sojusznikiem kraju $ALLY2$ od $YEARS$ lat##CHAR_DETECT## "
+ DIPLO_ALLYS_FOR_YEARS: "$ALLY1$ jest sojusznikiem kraju $ALLY2$ od $YEARS$ lat:"
  DIPLO_NOT_BEEN_ALLYS_FOR_YEARS: "$ALLY1$ nie jest sojusznikiem kraju $ALLY2$ od $YEARS$ lat##CHAR_DETECT## "
  DIPLO_DEFENSIVE_BAD_WARSCORE: "To jest wojna obronna i Twój wynik wojny jest mniejszy niż $VAL$: "
  DIPLO_DIPLOMATIC_REP: "Reputacja dyplomatyczna państwa $WHO$##CHAR_DETECT## "
