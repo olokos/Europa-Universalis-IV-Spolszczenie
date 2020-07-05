@@ -104,7 +104,7 @@
  DIPLO_RIVAL_COLONIST: "Państwo $WHO$ jest potęgą kolonialną:"
  DIPLO_WAR_UNOCCUPIED_FORTS: "Żądanie prowincji $PROV$ bez okupywania żadnych fortów w regionie:"
  DIPLO_WAR_INCONCLUSIVE: "Potrzebujesz co najmniej $VAL$ wyniku wojny, aby stawiać żądania:"
- DIPLO_UNREASONABLE_DEMANDS: "Niedorzeczne żądania "
+ DIPLO_UNREASONABLE_DEMANDS: "Niedorzeczne żądania: "
  DIPLO_UNDESIRABLE_PEACE: "Niepożądane warunki"
  DIPLO_UNACCEPTABLE_PEACE: "Kraj $WHO$ nie zgadza się z elementami propozycji"
  DIPLO_WANTS_OTHER_OFFER: "Kraj $WHO$ wymaga, by $NAME$ stanowiło element propozycji"
