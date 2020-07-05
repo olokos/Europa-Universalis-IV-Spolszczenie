@@ -345,7 +345,7 @@
  DIPLO_TOO_SMALL: "Niewystarczająca liczba prowincji:"
  DIPLO_RELATIVE_WORTH_OF_PROV: "Względna wartość prowincji:"
  DIPLO_RECENTLY_THREATENED: "Ostatnio ulegli groźbom:"
- DIPLO_NOT_OUR_CORE: "Prowincja nie jest prowincją narodową $ADJ$"
+ DIPLO_NOT_OUR_CORE: "Prowincja nie jest prowincją narodową $ADJ$:"
  DIPLO_BASE_VALUE: "Wartość podstawowa:"
  DIPLO_INTERESTS_IN_REGION: "Interesy $ADJ$ w regionie"
  DIPLO_RIVALS_INTERESTS_IN_REGION: "Interesy rywala w regionie"
