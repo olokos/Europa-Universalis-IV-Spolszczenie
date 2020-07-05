@@ -7,7 +7,7 @@
  DIPLO_ALREADY_TRANSFERING_TRADE_POWER: "Przekazuje siłę handlową państwu $WHO$: "
  DIPLO_ALREADY_STEERING_TRADE: "Już kierujemy handel do $WHO$: "
  DIPLO_TRADECITY: "$WHO$ to miasto handlowe, które unika sojuszy."
- DIPLO_TRADE_VASSALS: "Liczba krajów przekazujących siłę handlową państwu $WHO$ wynosi: "
+ DIPLO_TRADE_VASSALS: "Liczba krajów przekazujących siłę handlową państwu $WHO$ wynosi:"
  DIPLO_TRADE_STEER_SLAVES: "Liczba krajów kierujących handel do $WHO$:"
  DIPLO_ACTIVE_RELATION: "Traktat jest już aktywny:"
  DIPLO_FIGHTING_OTHER_WAR_TOGETHER: "Toczy wspólnie wojnę:"
