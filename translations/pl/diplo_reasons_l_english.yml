@@ -339,7 +339,7 @@
  DIPLO_TOO_MANY_RELATIONS: "Państwo $WHO$ ma zbyt wiele kontaktów dyplomatycznych##CHAR_DETECT## "
  DIPLO_BASE: "Podstawa##CHAR_DETECT## "
  DIPLO_DIP_POWER_COST_ABOVE: "Koszt siły dyplomatycznej państwa $WHO$ przekracza $VAL|Y$##CHAR_DETECT## "
- DIPLO_NO_ALLIANCE_NO_GUARANTEE: "Państwo $COUNTRY01$ nie jest sprzymierzeńcem ani gwarantem kraju $COUNTRY02$##CHAR_DETECT## "
+ DIPLO_NO_ALLIANCE_NO_GUARANTEE: "Państwo $COUNTRY01$ nie jest sprzymierzeńcem ani gwarantem kraju $COUNTRY02$:"
  DIPLO_ALLIANCE: "Państwo $COUNTRY01$ jest sprzymierzeńcem kraju $COUNTRY02$:"
  DIPLO_NO_ALLIANCE: "$COUNTRY01$ isn't allied to $COUNTRY02$:"
  DIPLO_TOO_SMALL: "Niewystarczająca liczba prowincji:"
