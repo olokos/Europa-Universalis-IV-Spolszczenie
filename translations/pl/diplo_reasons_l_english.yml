@@ -240,7 +240,7 @@
  DIPLO_SUPERIOR_ARMY_SIZE: "$WHO$ ma przewagę w wielkości armii:"
  DIPLO_RELATIVE_POWER_ALLIANCE: "Siła sojuszu $WHO$ w porównaniu z $US$:"
  DIPLO_RECENTLY_FORCED_TO_RETURN_TERRITORY: "Kraj $WHO$ zmusił ostatnio państwo $US$ do zwrotu terytoriów:"
- DIPLO_MANPOWER: "Zasoby ludzkie państwa $WHO$##CHAR_DETECT## "
+ DIPLO_MANPOWER: "Zasoby ludzkie państwa $WHO$:"
  DIPLO_LOW_MANPOWER: "Państwo $WHO$ ma niskie zasoby ludzkie##CHAR_DETECT## "
  DIPLO_LOANS: "Państwo $WHO$ jest zadłużone na sumę $GOLD|0$¤##CHAR_DETECT## "
  DIPLO_DEBT: "$WHO$ posiada pożyczki:"
