@@ -89,7 +89,7 @@
  DIPLO_WAR_SCORE: "Wynik wojny: "
  DIPLO_WAR_SCORE_INDIVIDUAL: "Indywidualny wynik wojny przeciwko:"
  DIPLO_PEACEOFFER_VALUE: "Aktualna propozycja pokojowa: "
- DIPLO_ANNEX_US: "Zaowocuje aneksją lub wasalizacją państwa $WHO$"
+ DIPLO_ANNEX_US: "Zaowocuje aneksją lub wasalizacją państwa $WHO$: "
  DIPLO_PUNISH_TRIBUTARY: "$THEM$ odmówił podporządkowania się $WHO$: "
  DIPLO_WAR_BASE_RELUCTANCE: "Podstawowa niechęć"
  DIPLO_WAR_BATTLE_RELUCTANCE: "Toczące się bitwy"
