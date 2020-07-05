@@ -205,7 +205,7 @@
  DIPLO_RIVAL_ALLIES: "Kraj $WHO$ jest sojusznikiem państwa $RIVAL$, rywala $ADJ$:"
  DIPLO_RIVALRY: "Rywalizacja:"
  DIPLO_HISTORICAL_RIVAL: "Historyczny rywal:"
- DIPLO_HISTORICAL_NEUTRAL: "Państwo historycznie neutralne##CHAR_DETECT## "
+ DIPLO_HISTORICAL_NEUTRAL: "Państwo historycznie neutralne:"
  DIPLO_SIZE_OF_WAR: "Wielkość wojny##CHAR_DETECT## "
  DIPLO_ROYAL_MARRIAGE_BETWEEN: "Mariaż królewski pomiędzy państwami $WHO1$ a $WHO2$##CHAR_DETECT## "
  DIPLO_CANNOT_MARRY: "$WHO$ nie może zawrzeć królewskiego mariażu##CHAR_DETECT## "
