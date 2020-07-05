@@ -221,7 +221,7 @@
  DIPLO_WAR_WITH_RIVAL: "W stanie wojny z rywalem:"
  DIPLO_WAR_WITH_OVERLORDS_RIVAL: "W stanie wojny z rywalem suwerena:"
  DIPLO_WAR_WITH_ALLY: "W stanie wojny z sojusznikiem:"
- DIPLO_WAR_WITH_NEIGHBOUR_RIVAL: "W stanie wojny z sąsiadującym rywalem##CHAR_DETECT## "
+ DIPLO_WAR_WITH_NEIGHBOUR_RIVAL: "W stanie wojny z sąsiadującym rywalem: "
  DIPLO_WAR_WITH_NEIGHBOUR_OVERLORDS_RIVAL: "W stanie wojny z sąsiadującym rywalem suwerena##CHAR_DETECT## "
  DIPLO_WAR_WITH_NEIGHBOUR_ALLY: "W stanie wojny z sąsiadującym sojusznikiem##CHAR_DETECT## "
  DIPLO_SAME_CULTURE_GROUP: "Ta sama grupa kulturowa##CHAR_DETECT## "
