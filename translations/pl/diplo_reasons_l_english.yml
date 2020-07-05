@@ -277,7 +277,7 @@
  DIPLO_AT_WAR_AGAINST: "Państwo $WHO$ jest w stanie wojny z krajem $AGAINST$##CHAR_DETECT## "
  DIPLO_NOT_VALID_FOR_SUPPORT_INDEPENDENCE: "Nie jest odpowiednim celem dla popierania niepodległości##CHAR_DETECT## "
  DIPLO_DIPLOMATIC_DISTANCE: "Odległość między stolicami##CHAR_DETECT## "
- DIPLO_ORIGINAL_ENEMY_NOT_BEATEN: "Kraj $COUNTRY$ nie znajduje się pod całkowitą okupacją##CHAR_DETECT## "
+ DIPLO_ORIGINAL_ENEMY_NOT_BEATEN: "Kraj $COUNTRY$ nie znajduje się pod całkowitą okupacją:"
  DIPLO_BORDER_DISTANCE: "Odległość między granicami:"
  DIPLO_PROTECTORATES: "Liczba protektoratów:"
  DIPLO_OTHER_PROTECTORATE: "Kraj $WHO$ także korzysta z protektoratu w tym samym ośrodku handlu:"
