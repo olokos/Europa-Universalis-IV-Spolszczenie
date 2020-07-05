@@ -180,7 +180,7 @@
  DIPLO_WAREXHAUSTION: "Wyczerpanie wojną:"
  DIPLO_WAREXHAUSTION_LARGER_THAN: "Wyczerpanie wojną większe niż $VAL$:"
  DIPLO_PART_OF_EMPIRE: "$PART$ jest częścią cesarstwa, a $EMPEROR$ jest cesarzem:"
- DIPLO_NOT_WANT_BIG_SHIP: "$WHO$ nie ma zastosowania dla dużych okrętów##CHAR_DETECT## "
+ DIPLO_NOT_WANT_BIG_SHIP: "$WHO$ nie ma zastosowania dla dużych okrętów:"
  DIPLO_NOT_WANT_GALLEY: "$WHO$ nie ma zastosowania dla galer##CHAR_DETECT## "
  DIPLO_TOO_MANY_BIG_SHIP: "$WHO$ chce o §R$NUM$§! dużych okrętów mniej##CHAR_DETECT## "
  DIPLO_TOO_MANY_LIGHT_SHIP: "$WHO$ chce o §R$NUM$§! lekkich okrętów mniej##CHAR_DETECT## "
