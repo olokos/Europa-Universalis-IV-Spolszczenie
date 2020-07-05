@@ -310,7 +310,7 @@
  DIPLO_MAY_NOT_DECLARE_WAR: "Nie może wypowiedzieć wojny państwu $WHO$##CHAR_DETECT## "
  DIPLO_IS_DOF: "$WHO$ jest Obrońcą Wiary religii $RELIGION$##CHAR_DETECT## "
  DIPLO_PRESTIGE: "Prestiż##CHAR_DETECT## "
- DIPLO_OVER_FORCE_LIMIT: "Zakup floty wyczerpie limit sił##CHAR_DETECT## "
+ DIPLO_OVER_FORCE_LIMIT: "Zakup floty wyczerpie limit sił:"
  DIPLO_OVEREXTENDED: "$WHO$ cechuje się przerostem:"
  DIPLO_PROVINCE_PRICE: "Cena:"
  DIPLO_PROVINCE_CORE: "Prowincja $PROV$ jest prowincją narodową kraju $WHO$:"
