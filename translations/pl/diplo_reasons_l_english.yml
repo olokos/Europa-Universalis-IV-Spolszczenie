@@ -358,7 +358,7 @@
  DIPLO_TROOP_QUALITY: "Jakość oddziałów:"
  DIPLO_TROOP_QUANTITY: "Liczba oddziałów:"
  DIPLO_TOO_EXPENSIVE: "Zbyt kosztowne;"
- DIPLO_NOT_AT_WAR: "Nie w stanie wojny"
+ DIPLO_NOT_AT_WAR: "Nie w stanie wojny:"
  DIPLO_NOT_IN_IMPORTANT_WAR: "Nie toczy ważnej wojny"
  DIPLO_CANT_PAY_UPFRONT: "Nie może sobie pozwolić na zapłatę z góry"
  DIPLO_BUDGET_SURPLUS: "Nadwyżka budżetowa $GOLD|1$¤"
