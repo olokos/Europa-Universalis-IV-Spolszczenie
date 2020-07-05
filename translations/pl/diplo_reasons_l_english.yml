@@ -286,7 +286,7 @@
  DIPLO_ROYAL_MARRIAGES_FOR: "Liczba mariaży królewskich dla państwa $WHO$##CHAR_DETECT## "
  DIPLO_LIBERTY_DESIRE_BELOW: "Dążenia niepodległościowe kraju $WHO$ są mniejsze niż $VAL$##CHAR_DETECT## "
  DIPLO_LIBERTY_DESIRE_ABOVE: "Dążenia niepodległościowe kraju $WHO$ są większe niż $VAL$##CHAR_DETECT## "
- DIPLO_STABHIT_FROM_NO_CB: "Brak casus belli##CHAR_DETECT## "
+ DIPLO_STABHIT_FROM_NO_CB: "Brak casus belli:"
  DIPLO_RECENTLY_DID_ACTION: "Ostatnio wykonane $ACTION$:"
  DIPLO_MSG_FILTER_NEIGHBOURS: "Sąsiedzi:"
  DIPLO_IS_EMPEROR: "$WHO$ jest Cesarzem Świętego Cesarstwa Rzymskiego:"
