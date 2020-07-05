@@ -282,7 +282,7 @@
  DIPLO_PROTECTORATES: "Liczba protektoratów##CHAR_DETECT## "
  DIPLO_OTHER_PROTECTORATE: "Kraj $WHO$ także korzysta z protektoratu w tym samym ośrodku handlu##CHAR_DETECT## "
  DIPLO_FED_BORDER_DISTANCE: "Średnia odległość do $FEDNAME$##CHAR_DETECT## "
- DIPLO_CANNOT_REACH: "Kraj $WHO$ nie może osiągnąć $TARGET$##CHAR_DETECT## "
+ DIPLO_CANNOT_REACH: "Kraj $WHO$ nie może osiągnąć $TARGET$:"
  DIPLO_ROYAL_MARRIAGES_FOR: "Liczba mariaży królewskich dla państwa $WHO$:"
  DIPLO_LIBERTY_DESIRE_BELOW: "Dążenia niepodległościowe kraju $WHO$ są mniejsze niż $VAL$:"
  DIPLO_LIBERTY_DESIRE_ABOVE: "Dążenia niepodległościowe kraju $WHO$ są większe niż $VAL$:"
