@@ -226,7 +226,7 @@
  DIPLO_WAR_WITH_NEIGHBOUR_ALLY: "W stanie wojny z sąsiadującym sojusznikiem:"
  DIPLO_SAME_CULTURE_GROUP: "Ta sama grupa kulturowa:"
  DIPLO_SAME_RELIGION_GROUP: "Ta sama grupa religijna:"
- DIPLO_NOT_SAME_CULTURE_GROUP: "Inna grupa kulturowa##CHAR_DETECT## "
+ DIPLO_NOT_SAME_CULTURE_GROUP: "Inna grupa kulturowa:"
  DIPLO_NOT_SAME_RELIGION_GROUP: "Inna grupa religijna "
  DIPLO_SAME_RELIGION: "Oba kraje są znane jako $NAME$##CHAR_DETECT## "
  DIPLO_SAME_CULTURE: "Ta sama kultura##CHAR_DETECT## "
