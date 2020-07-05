@@ -261,7 +261,7 @@
  DIPLO_VASSAL_UNDER: "Kraj $VASSAL$ jest wasalem państwa $LEADER$:"
  DIPLO_VASSAL_LOYAL: "Kraj $VASSAL$ jest lojalny względem państwa $OVERLORD$"
  DIPLO_UNION_UNDER: "Kraj $UNDER$ jest w unii personalnej z państwem $LEADER$:"
- DIPLO_IN_OUR_UNION: "Kraj $WHO$ jest członkiem naszej unii##CHAR_DETECT## "
+ DIPLO_IN_OUR_UNION: "Kraj $WHO$ jest członkiem naszej unii: "
  DIPLO_SUPPORTING_INDEPENDENCE: "Państwo $COUNTRY01$ wspiera kraj $COUNTRY02_ADJ$ w dążeniu do niepodległości##CHAR_DETECT## "
  DIPLO_OPINION: "Opinia $COUNTRY01$ o kraju $COUNTRY02$##CHAR_DETECT## "
  DIPLO_FED_OPINION: "Całkowita opinia $COUNTRY01$ o kraju $COUNTRY02$##CHAR_DETECT## "
