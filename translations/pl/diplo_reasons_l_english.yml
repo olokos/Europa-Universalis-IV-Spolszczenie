@@ -293,7 +293,7 @@
  DIPLO_IS_EMPEROR_ALLY: "$WHO$ ma sojusz ze Świętym Cesarstwem Rzymskim##CHAR_DETECT## "
  DIPLO_INVALID_TARGET: "Nieprawidłowy cel##CHAR_DETECT## "
  DIPLO_SAME_CONTINENT: "Posiada prowincje na tym samych kontynencie##CHAR_DETECT## "
- DIPLO_TOO_LARGE_FREE_CITY: "Państwo $WHO$ jest za duże, aby być wolnym miastem##CHAR_DETECT## "
+ DIPLO_TOO_LARGE_FREE_CITY: "Państwo $WHO$ jest za duże, aby być wolnym miastem:"
  DIPLO_HAS_SUBJECTS: "Państwo $WHO$ ma własnych poddanych:"
  DIPLO_IS_LESSERVASSAL_OR_UNION: "Jest wasalem lub członkiem unii:"
  DIPLO_IS_STRONGER: "Jesteśmy znacznie silniejsi:"
