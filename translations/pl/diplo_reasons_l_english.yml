@@ -212,7 +212,7 @@
  DIPLO_WHO_TRUST: "$WHO1$ ufa państwu $WHO2$:"
  DIPLO_TRUST: "Zaufanie:"
  DIPLO_TRUST_BELOW: "Zaufanie poniżej $TRUSTVALUE|Y$: "
- DIPLO_DISTRUST: "Nieufność##CHAR_DETECT## "
+ DIPLO_DISTRUST: "Nieufność:"
  DIPLO_THREAT: "Zagrożenie##CHAR_DETECT## "
  DIPLO_RIVALS: "Premia rywala##CHAR_DETECT## "
  DIPLO_COMMON_RIVALS: "Zwykli rywale##CHAR_DETECT## "
