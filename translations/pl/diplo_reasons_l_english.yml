@@ -177,7 +177,7 @@
  DIPLO_CURRENT_WARSCORE: "Aktualny wynik wojny:"
  DIPLO_WARSCORE_LESSER_THAN: "Wynik wojny mniejszy niż $VAL$: "
  DIPLO_WARSCORE_LARGER_THAN: "Wynik wojny większy niż $VAL$: "
- DIPLO_WAREXHAUSTION: "Wyczerpanie wojną"
+ DIPLO_WAREXHAUSTION: "Wyczerpanie wojną:"
  DIPLO_WAREXHAUSTION_LARGER_THAN: "Wyczerpanie wojną większe niż $VAL$##CHAR_DETECT## "
  DIPLO_PART_OF_EMPIRE: "$PART$ jest częścią cesarstwa, a $EMPEROR$ jest cesarzem##CHAR_DETECT## "
  DIPLO_NOT_WANT_BIG_SHIP: "$WHO$ nie ma zastosowania dla dużych okrętów##CHAR_DETECT## "
