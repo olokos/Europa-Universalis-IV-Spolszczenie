@@ -268,7 +268,7 @@
  DIPLO_OPINION_LESSER_THAN: "Opinia $COUNTRY01$ o kraju $COUNTRY02$ jest mniejsza niż $VAL|Y$:"
  DIPLO_OPINION_LARGER_THAN: "Opinia $COUNTRY01$ o kraju $COUNTRY02$ jest większa niż $VAL|Y$:"
  DIPLO_CANT_AFFORD: "Kraj $WHO$ nie może pozwolić sobie na więcej stosunków dyplomatycznych:"
- DIPLO_FRIENDLINESS: "Dążenie do przyjaźni##CHAR_DETECT## "
+ DIPLO_FRIENDLINESS: "Dążenie do przyjaźni:"
  DIPLO_ANTAGONISM: "Antagonizm##CHAR_DETECT## "
  DIPLO_MORE_OWNED_PROVINCES: "Państwo $WHO$ jest większe##CHAR_DETECT## "
  DIPLO_AT_WAR_OFFENSIVE: "Państwo $WHO$ toczy wojnę napastniczą##CHAR_DETECT## "
