@@ -313,7 +313,7 @@
  DIPLO_OVER_FORCE_LIMIT: "Zakup floty wyczerpie limit sił##CHAR_DETECT## "
  DIPLO_OVEREXTENDED: "$WHO$ cechuje się przerostem##CHAR_DETECT## "
  DIPLO_PROVINCE_PRICE: "Cena##CHAR_DETECT## "
- DIPLO_PROVINCE_CORE: "Prowincja $PROV$ jest prowincją narodową kraju $WHO$##CHAR_DETECT## "
+ DIPLO_PROVINCE_CORE: "Prowincja $PROV$ jest prowincją narodową kraju $WHO$:"
  DIPLO_PROVINCE_CLAIM: "Prowincja $PROV$ jest obiektem roszczeń państwa $WHO$:"
  DIPLO_PROVINCE_NO_STRATEGIC_INTEREST: "Prowincja $PROV$ nie jest prowincją narodową ani dawną prowincją państwa $WHO$:"
  DIPLO_PROVINCE_SAME_RELIGION: "W prowincji $PROV$ oraz w kraju $WHO$ wyznawana jest religia $RELIGION$:"
