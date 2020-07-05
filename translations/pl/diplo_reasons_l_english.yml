@@ -230,7 +230,7 @@
  DIPLO_NOT_SAME_RELIGION_GROUP: "Inna grupa religijna: "
  DIPLO_SAME_RELIGION: "Oba kraje są znane jako $NAME$:"
  DIPLO_SAME_CULTURE: "Ta sama kultura:"
- DIPLO_NOT_SAME_RELIGION: "Inna religia##CHAR_DETECT## "
+ DIPLO_NOT_SAME_RELIGION: "Inna religia:"
  DIPLO_NOT_SAME_LEAGUE_LEADER: "Lider przeciwnej ligi: "
  DIPLO_NOT_SAME_CULTURE: "Inna kultura:"
  DIPLO_RELIGIOUS_SCHOOL_RELATIONS: "Relacje szkół religijnych:"
