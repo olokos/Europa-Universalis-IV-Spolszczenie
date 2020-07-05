@@ -154,7 +154,7 @@
  DIPLO_HAS_NO_PROVINCES: "Nie posiada prowincji:"
  DIPLO_BASE_TAX: "Podstawa ekonomiczna $WHO$ w porównaniu do $OTHER$:"
  DIPLO_MORE_BASE_TAX_THAN: "Kraj $WHO$ ma całkowity poziom rozwoju państwa większy niż $VAL$:"
- DIPLO_LESS_BASE_TAX_THAN: "Kraj $WHO$ ma całkowity poziom rozwoju państwa mniejszy niż $VAL$##CHAR_DETECT## "
+ DIPLO_LESS_BASE_TAX_THAN: "Kraj $WHO$ ma całkowity poziom rozwoju państwa mniejszy niż $VAL$:"
  DIPLO_TOTAL_DEVELOPMENT: "$TARGET$ has $VAL$ development##CHAR_DETECT## "
  DIPLO_MILITARY_POWER: "Punkty militarne $WHO$ w porównaniu do $OTHER$##CHAR_DETECT## "
  DIPLO_HAS_MORE_PROVINCES_THAN: "Kraj $WHO$ ma ponad $VAL$ prowincji##CHAR_DETECT## "
