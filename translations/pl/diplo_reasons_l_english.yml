@@ -326,7 +326,7 @@
  DIPLO_TREASURY: "Skarbiec państwa $WHO$##CHAR_DETECT## "
  DIPLO_DIPLOMATIC_REPUTATION: "Reputacja dyplomatyczna##CHAR_DETECT## "
  DIPLO_SELLPROV_ABOVE_TREASURY: "Cena przekracza zawartość skarbca państwa $WHO$##CHAR_DETECT## "
- DIPLO_INVALID_LOAN: "Pożyczka jest nieprawidłowa##CHAR_DETECT## "
+ DIPLO_INVALID_LOAN: "Pożyczka jest nieprawidłowa:"
  DIPLO_LOAN_INTEREST_ABOVE: "Odsetki pożyczki wynoszą powyżej $VAL|Y%$:"
  DIPLO_LOAN_TOO_MANY: "Państwo $WHO$ ma zbyt wiele zaciągniętych pożyczek:"
  DIPLO_LOAN_CANT_AFFORD_INTEREST: "Państwa $WHO$ nie stać na odsetki w wysokości $INTEREST|Y%$:"
