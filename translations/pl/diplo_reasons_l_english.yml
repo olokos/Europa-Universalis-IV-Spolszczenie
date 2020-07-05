@@ -232,7 +232,7 @@
  DIPLO_SAME_CULTURE: "Ta sama kultura##CHAR_DETECT## "
  DIPLO_NOT_SAME_RELIGION: "Inna religia##CHAR_DETECT## "
  DIPLO_NOT_SAME_LEAGUE_LEADER: "Lider przeciwnej ligi: "
- DIPLO_NOT_SAME_CULTURE: "Inna kultura##CHAR_DETECT## "
+ DIPLO_NOT_SAME_CULTURE: "Inna kultura:"
  DIPLO_RELIGIOUS_SCHOOL_RELATIONS: "Relacje szkół religijnych:"
  DIPLO_SAME_RELIGIOUS_SCHOOL: "Ta sama szkoła religijna:"
  DIPLO_NOT_ACCEPTED_CULTURE: "Kultura $CULTURE$ nie jest akceptowana przez państwo $WHO$##CHAR_DETECT## "
