@@ -158,7 +158,7 @@
  DIPLO_TOTAL_DEVELOPMENT: "$TARGET$ has $VAL$ development:"
  DIPLO_MILITARY_POWER: "Punkty militarne $WHO$ w porównaniu do $OTHER$:"
  DIPLO_HAS_MORE_PROVINCES_THAN: "Kraj $WHO$ ma ponad $VAL$ prowincji:"
- DIPLO_WAR_ON_OVERLORD: "Wojna toczy się przeciw suwerenowi państwa $WHO$##CHAR_DETECT## "
+ DIPLO_WAR_ON_OVERLORD: "Wojna toczy się przeciw suwerenowi państwa $WHO$:"
  DIPLO_NO_ENEMIES: "Brak właściwych wrogów##CHAR_DETECT## "
  DIPLO_IS_CONSOLIDATING: "Ma swoje własne plany##CHAR_DETECT## "
  DIPLO_HAS_TRUCE_WITH: "$WHO1$ ma rozejm z państwem $WHO2$##CHAR_DETECT## "
