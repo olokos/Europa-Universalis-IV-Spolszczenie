@@ -127,7 +127,7 @@
  DIPLO_HOLD_WARGOAL: "Państwo $WHO$ zdobyło punkty wojenne w liczbie:"
  DIPLO_WANT_INDEPENDENCE: "Kraj $WHO$ pragnie niepodległości:"
  DIPLO_WAR_CAPACITY: "Możliwości wojenne państwa $WHO$:"
- DIPLO_IS_NOMADS: "Jest koczownikiem"
+ DIPLO_IS_NOMADS: "Jest koczownikiem:"
  DIPLO_BADNESS: "Niegodziwość##CHAR_DETECT## "
  DIPLO_WEARINESS: "Zmęczenie##CHAR_DETECT## "
  DIPLO_NO_THREAT: "Nie stanowią zagrożenia##CHAR_DETECT## "
