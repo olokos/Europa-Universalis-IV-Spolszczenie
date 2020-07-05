@@ -135,7 +135,7 @@
  DIPLO_OWNS_CORE_PROVINES: "Państwo $WHO$ posiada prowincje narodowe $ADJ$:"
  DIPLO_WAR_SCORE_AND_CAPACITY_BIGGER: "Wynik Wojny i zdolności większe niż $VAL$:"
  DIPLO_WAR_SCORE_AND_CAPACITY_LESSER: "Wynik Wojny i zdolności mniejsze niż $VAL$:"
- DIPLO_WAR_CAPACITY_TOO_LOW: "Możliwości wojenne $WHO$ są żałosne##CHAR_DETECT## "
+ DIPLO_WAR_CAPACITY_TOO_LOW: "Możliwości wojenne $WHO$ są żałosne:"
  DIPLO_WAR_CAPACITY_TOO_HIGH: "Możliwości wojenne $WHO$ są niesamowite##CHAR_DETECT## "
  DIPLO_OFFERS_WARSCORE: "Oferta w porównaniu do wyniku wojny:"
  DIPLO_WAR_DURATION: "Czas trwania wojny##CHAR_DETECT## "
