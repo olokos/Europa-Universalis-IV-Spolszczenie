@@ -351,7 +351,7 @@
  DIPLO_RIVALS_INTERESTS_IN_REGION: "Interesy rywala w regionie:"
  DIPLO_IS_COLONIZER: "Państwo $WHO$ jest kolonizatorem:"
  DIPLO_NO_TRADE_LEAGUE_LEAD: "Państwo $WHO$ może przewodzić lidze: "
- DIPLO_TRADE_LEAGUE_MORE: "Kolejny członek ich ligi"
+ DIPLO_TRADE_LEAGUE_MORE: "Kolejny członek ich ligi:"
  DIPLO_TRADE_LEAGUE_SIZE: "Wielkość ligi handlowej ($NUM$)"
  DIPLO_WOULD_DISMISS: "Zwolni oddziały"
  DIPLO_FREE_TROOPS: "Wolne oddziały"
