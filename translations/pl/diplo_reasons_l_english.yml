@@ -330,7 +330,7 @@
  DIPLO_LOAN_INTEREST_ABOVE: "Odsetki pożyczki wynoszą powyżej $VAL|Y%$##CHAR_DETECT## "
  DIPLO_LOAN_TOO_MANY: "Państwo $WHO$ ma zbyt wiele zaciągniętych pożyczek##CHAR_DETECT## "
  DIPLO_LOAN_CANT_AFFORD_INTEREST: "Państwa $WHO$ nie stać na odsetki w wysokości $INTEREST|Y%$##CHAR_DETECT## "
- DIPLO_LOAN_NOT_NEED_LOAN: "Państwo $WHO$ nie potrzebuje żadnych pożyczek##CHAR_DETECT## "
+ DIPLO_LOAN_NOT_NEED_LOAN: "Państwo $WHO$ nie potrzebuje żadnych pożyczek:"
  DIPLO_LOAN_EARNS_ENOUGH: "Państwo $WHO$ zyskuje zbyt wiele:"
  DIPLO_LOAN_EXPIRY_SOON: "Zbliża się data spłaty:"
  DIPLO_LOAN_COST_SOON: "Już niedługo pożyczka będzie kosztować zbyt wiele:"
