@@ -106,7 +106,7 @@
  DIPLO_WAR_INCONCLUSIVE: "Potrzebujesz co najmniej $VAL$ wyniku wojny, aby stawiać żądania:"
  DIPLO_UNREASONABLE_DEMANDS: "Niedorzeczne żądania: "
  DIPLO_UNDESIRABLE_PEACE: "Niepożądane warunki:"
- DIPLO_UNACCEPTABLE_PEACE: "Kraj $WHO$ nie zgadza się z elementami propozycji"
+ DIPLO_UNACCEPTABLE_PEACE: "Kraj $WHO$ nie zgadza się z elementami propozycji:"
  DIPLO_WANTS_OTHER_OFFER: "Kraj $WHO$ wymaga, by $NAME$ stanowiło element propozycji"
  DIPLO_WANTS_ANNEX: "Chce zaanektować kraj $COUNTRY$"
  DIPLO_WANTS_END_TO_WAR: "Chce końca wojny"
