@@ -143,7 +143,7 @@
  DIPLO_PEACE_ABOVE_WAR_SCORE: "Oferta pokoju większa niż wynik wojny:"
  DIPLO_PEACE_SCORE_UNDER: "Propozycja pokojowa niższa niż $SCORE$:"
  DIPLO_PEACE_SCORE_OVER: "Propozycja pokojowa przewyższa $SCORE$:"
- DIPLO_NO_UNION_AND_VASSAL: "Nie będzie członkiem unii ani wasalem##CHAR_DETECT## "
+ DIPLO_NO_UNION_AND_VASSAL: "Nie będzie członkiem unii ani wasalem:"
  DIPLO_NEED_MORE_PROVINCES: "$WHO$ potrzebuje więcej prowincji ($VAL$)##CHAR_DETECT## "
  DIPLO_NEED_MORE_MILITARY: "$WHO$ potrzebuje silniejszej armii ($VAL$)##CHAR_DETECT## "
  DIPLO_NEED_MORE_IN_INCOME: "$WHO$ potrzebuje większego przychodu miesięcznego ($VAL$) "
