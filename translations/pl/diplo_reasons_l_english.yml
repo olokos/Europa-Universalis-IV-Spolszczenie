@@ -306,7 +306,7 @@
  DIPLO_CHANCE_LARGER_THAN: "Więcej powodów niż $VAL|Y$##CHAR_DETECT## "
  DIPLO_PEACE_ACCEPTABLE: "Pokój możliwy##CHAR_DETECT## "
  DIPLO_ENFORCE_PEACE_WILLINGNESS: "Pragnienie pokoju##CHAR_DETECT## "
- DIPLO_ENFORCE_PEACE_FEAR: "Strach przed państwem $WHO$##CHAR_DETECT## "
+ DIPLO_ENFORCE_PEACE_FEAR: "Strach przed państwem $WHO$:"
  DIPLO_MAY_NOT_DECLARE_WAR: "Nie może wypowiedzieć wojny państwu $WHO$:"
  DIPLO_IS_DOF: "$WHO$ jest Obrońcą Wiary religii ($RELIGION$): "
  DIPLO_PRESTIGE: "Prestiż:"
