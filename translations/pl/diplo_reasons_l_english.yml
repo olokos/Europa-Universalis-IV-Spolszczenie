@@ -323,7 +323,7 @@
  DIPLO_PROVINCE_ISCORE_OFNUM: "Prowincja $PROV$ jest prowincją narodową $NUM$ państw##CHAR_DETECT## "
  DIPLO_UNOCCUPIED: "$WHO1$ nie jest pod okupacją państwa $WHO2$##CHAR_DETECT## "
  DIPLO_CONQUER_VALUE: "Wartość podboju##CHAR_DETECT## "
- DIPLO_TREASURY: "Skarbiec państwa $WHO$##CHAR_DETECT## "
+ DIPLO_TREASURY: "Skarbiec państwa $WHO$:"
  DIPLO_DIPLOMATIC_REPUTATION: "Reputacja dyplomatyczna:"
  DIPLO_SELLPROV_ABOVE_TREASURY: "Cena przekracza zawartość skarbca państwa $WHO$:"
  DIPLO_INVALID_LOAN: "Pożyczka jest nieprawidłowa:"
