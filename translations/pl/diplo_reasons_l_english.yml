@@ -315,7 +315,7 @@
  DIPLO_PROVINCE_PRICE: "Cena##CHAR_DETECT## "
  DIPLO_PROVINCE_CORE: "Prowincja $PROV$ jest prowincją narodową kraju $WHO$##CHAR_DETECT## "
  DIPLO_PROVINCE_CLAIM: "Prowincja $PROV$ jest obiektem roszczeń państwa $WHO$##CHAR_DETECT## "
- DIPLO_PROVINCE_NO_STRATEGIC_INTEREST: "Prowincja $PROV$ nie jest prowincją narodową ani dawną prowincją państwa $WHO$##CHAR_DETECT## "
+ DIPLO_PROVINCE_NO_STRATEGIC_INTEREST: "Prowincja $PROV$ nie jest prowincją narodową ani dawną prowincją państwa $WHO$:"
  DIPLO_PROVINCE_SAME_RELIGION: "W prowincji $PROV$ oraz w kraju $WHO$ wyznawana jest religia $RELIGION$:"
  DIPLO_NOT_NEIGHBOURS: "Nie są sąsiadami:"
  DIPLO_SELLPROV_NEIGHBOUR_AND_PRICE: "Prowincja $PROV$ jest sąsiadem państwa $WHO$, a cena wynosi $VAL$:"
