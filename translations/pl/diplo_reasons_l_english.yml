@@ -132,7 +132,7 @@
  DIPLO_WEARINESS: "Zmęczenie:"
  DIPLO_NO_THREAT: "Nie stanowią zagrożenia:"
  DIPLO_IS_NOT_OCCUPYING: "Nie okupuje państwa $WHO$:"
- DIPLO_OWNS_CORE_PROVINES: "Państwo $WHO$ posiada prowincje narodowe $ADJ$##CHAR_DETECT## "
+ DIPLO_OWNS_CORE_PROVINES: "Państwo $WHO$ posiada prowincje narodowe $ADJ$:"
  DIPLO_WAR_SCORE_AND_CAPACITY_BIGGER: "Wynik Wojny i zdolności większe niż $VAL$:"
  DIPLO_WAR_SCORE_AND_CAPACITY_LESSER: "Wynik Wojny i zdolności mniejsze niż $VAL$:"
  DIPLO_WAR_CAPACITY_TOO_LOW: "Możliwości wojenne $WHO$ są żałosne##CHAR_DETECT## "
