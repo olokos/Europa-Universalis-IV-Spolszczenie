@@ -208,7 +208,7 @@
  DIPLO_HISTORICAL_NEUTRAL: "Państwo historycznie neutralne:"
  DIPLO_SIZE_OF_WAR: "Wielkość wojny:"
  DIPLO_ROYAL_MARRIAGE_BETWEEN: "Mariaż królewski pomiędzy państwami $WHO1$ a $WHO2$:"
- DIPLO_CANNOT_MARRY: "$WHO$ nie może zawrzeć królewskiego mariażu##CHAR_DETECT## "
+ DIPLO_CANNOT_MARRY: "$WHO$ nie może zawrzeć królewskiego mariażu:"
  DIPLO_WHO_TRUST: "$WHO1$ ufa państwu $WHO2$##CHAR_DETECT## "
  DIPLO_TRUST: "Zaufanie##CHAR_DETECT## "
  DIPLO_TRUST_BELOW: "Zaufanie poniżej $TRUSTVALUE|Y$: "
