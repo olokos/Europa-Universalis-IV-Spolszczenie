@@ -270,7 +270,7 @@
  DIPLO_CANT_AFFORD: "Kraj $WHO$ nie może pozwolić sobie na więcej stosunków dyplomatycznych:"
  DIPLO_FRIENDLINESS: "Dążenie do przyjaźni:"
  DIPLO_ANTAGONISM: "Antagonizm:"
- DIPLO_MORE_OWNED_PROVINCES: "Państwo $WHO$ jest większe##CHAR_DETECT## "
+ DIPLO_MORE_OWNED_PROVINCES: "Państwo $WHO$ jest większe:"
  DIPLO_AT_WAR_OFFENSIVE: "Państwo $WHO$ toczy wojnę napastniczą##CHAR_DETECT## "
  DIPLO_AT_WAR: "Państwo $WHO$ jest w stanie wojny##CHAR_DETECT## "
  DIPLO_IN_IMPORTANT_WAR: "Państwo $WHO$ toczy ważną wojnę##CHAR_DETECT## "
