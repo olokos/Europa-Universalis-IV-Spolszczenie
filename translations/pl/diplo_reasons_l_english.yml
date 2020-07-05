@@ -166,7 +166,7 @@
  DIPLO_RESTRICTED_REGION: "Regionalna nieufność względem handlu czarterowego"
  DIPLO_TRADING_CITY: "Jest miastem handlowym:"
  DIPLO_SELL_PROVINCE_FREE_CITY: "Straci status §Ywolnego miasta§!:"
- DIPLO_SELL_PROVINCE_TRADE_LEAGUE: "Będzie musiało wystąpić z §Yligi handlowej§!##CHAR_DETECT## "
+ DIPLO_SELL_PROVINCE_TRADE_LEAGUE: "Będzie musiało wystąpić z §Yligi handlowej§!:"
  DIPLO_WANT_WAR: "Nastawienie względem wrogów##CHAR_DETECT## "
  DIPLO_OVERLORDS_ATTITUDE: "$ATTITUDE$ nastawienie suwerena względem kraju $COUNTRY$##CHAR_DETECT## "
  DIPLO_TO_LOW_WAR_CAPACITY: "Kraj $WHO$ ma zbyt niskie możliwości wojenne."
