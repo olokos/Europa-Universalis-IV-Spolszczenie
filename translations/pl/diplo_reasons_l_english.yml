@@ -272,7 +272,7 @@
  DIPLO_ANTAGONISM: "Antagonizm:"
  DIPLO_MORE_OWNED_PROVINCES: "Państwo $WHO$ jest większe:"
  DIPLO_AT_WAR_OFFENSIVE: "Państwo $WHO$ toczy wojnę napastniczą:"
- DIPLO_AT_WAR: "Państwo $WHO$ jest w stanie wojny##CHAR_DETECT## "
+ DIPLO_AT_WAR: "Państwo $WHO$ jest w stanie wojny: "
  DIPLO_IN_IMPORTANT_WAR: "Państwo $WHO$ toczy ważną wojnę##CHAR_DETECT## "
  DIPLO_AT_WAR_AGAINST: "Państwo $WHO$ jest w stanie wojny z krajem $AGAINST$##CHAR_DETECT## "
  DIPLO_NOT_VALID_FOR_SUPPORT_INDEPENDENCE: "Nie jest odpowiednim celem dla popierania niepodległości:"
