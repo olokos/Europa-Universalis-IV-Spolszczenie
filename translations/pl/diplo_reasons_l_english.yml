@@ -362,7 +362,7 @@
  DIPLO_NOT_IN_IMPORTANT_WAR: "Nie toczy ważnej wojny:"
  DIPLO_CANT_PAY_UPFRONT: "Nie może sobie pozwolić na zapłatę z góry:"
  DIPLO_BUDGET_SURPLUS: "Nadwyżka budżetowa $GOLD|1$¤:"
- DIPLO_UNFAVORABLE_COST: "Niepożądane koszty"
+ DIPLO_UNFAVORABLE_COST: "Niepożądane koszty:"
  DIPLO_MONTHLY_COST: "Miesięczny koszt $GOLD|1$¤"
  DIPLO_WAR_BALANCE_GOOD: "Równowaga wojenna wygląda dobrze"
  DIPLO_IS_RIVAL: "Jest rywalem"
