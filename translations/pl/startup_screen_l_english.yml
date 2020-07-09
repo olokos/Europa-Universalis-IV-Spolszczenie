@@ -242,7 +242,7 @@
  string_start_steppes_rest_of_asia_description: "[Root.start_tributaries_descriptions]"
  string_tributaries_desc: "£DLC_moh §YTrybutariusz§! to specjalny typ państwa poddanego, który często spotykamy w Azji Wschodniej. Aby relacja trybutarna była możliwa §Ysuweren§! musi należeć do §Ywschodniej grupy religijnej§!, albo być §Yhordą§!.\n\nSuweren będzie chronić swoich trybutariuszy przed atakami z zewnątrz w zamian za regularne §Ypłacenie trybutu§!, ale wciąż mogą oni kierować własną dyplomacją. Trybutariusze mogą prowadzić własne wojny zarówno wewnętrzne z innymi trybutariuszami tego samego suwerena, jak i zewnętrznie przeciwko obcym mocarstwom.\n\n"
  string_tributaries_desc_no: ""
- string_anglicanism_desc: "£DLC_rb Na scenę królującej §Reformacji§! może już wkroczyć §YAnglikanizm§!. Narody z §Ybrytyjskiej§! grupy kulturowej mogą wprowadzić §YAnglikanizm§!, który udostępni zestaw unikalnych §YDziałań Religijnych§!."
+ string_anglicanism_desc: "£DLC_rb Na scenę królującej §YReformacji§! może już wkroczyć §YAnglikanizm§!. Narody z §Ybrytyjskiej§! grupy kulturowej mogą wprowadzić §YAnglikanizm§!, który udostępni zestaw unikalnych §YDziałań Religijnych§!."
  string_anglicanism_no: ""
  string_dharma_government_reforms: "Wszystkie rządy korzystają z §YReform Rządowych§!. Reformy te stopniowo dają rządowi znaczne premie w trakcie gry. Reformy odblokowuje się przez gromadzenie §punktów postępu reform§!, które są naliczane w tempie wyznaczonym przez średni poziom autonomii twoich prowincji.\n\n"
  string_dharma_government_reforms_no: ""
