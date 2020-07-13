@@ -1,7 +1,7 @@
 name="Spolszczenie EUIV Community Edition"
 picture="thumbnail.png"
 path="mod/Spolszczenie_EUIV_Community_Edition"
-version="2.8.2"
+version="2.8.3"
 tags={
 	"Translation"
 }
