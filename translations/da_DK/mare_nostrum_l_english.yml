@@ -137,7 +137,7 @@
  CD_CONODTIERRIS_SENT: ""
  CD_CONODTIERRIS_RECEIVED: ""
  DIPIRO_CONDOTIERRIS: ""
- noattitude: ""
+ noattitude: "Ukendt"
  sailor_event.1.t: ""
  sailor_event.1.d: ""
  sailor_event.1.a: ""
