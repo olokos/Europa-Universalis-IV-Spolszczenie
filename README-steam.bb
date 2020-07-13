@@ -2,28 +2,31 @@
 Spolszczenie do najnowszej wersji Europa Universalis 1.30  
 Działa bezproblemowo z każdą wersją gry 1.30
 
-[h2]Stan w  wersji 2.8.2 [19.06.2020]:[/h2]
- * 17,195 sprawdzonych wpisów
- * 64,816 przetłumaczonych wpisów
- * 26,967 nieprzetłumaczonych wpisów
+[h2]Stan w  wersji 28.3 [13.07.2020]:[/h2]
+ * 17,432 sprawdzonych wpisów
+ * 66,961 przetłumaczonych wpisów
+ * 24,823 nieprzetłumaczonych wpisów
 
 Jest to obecnie najpełniejsze spolszczenie, stworzone przez społeczność gry.
-Pracę projektu obejmuą 97 plików z czego do przetłumaczenia pozostało 25.
+Pracę projektu obejmuą 105 plików z czego do przetłumaczenia pozostało 32.
 
-Aktualnie nasze spolszczenie posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie spolszczeń. [b](76,8% całej gry)[/b]
+Aktualnie nasze spolszczenie posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie spolszczeń. [b](72,95% całej gry)[/b]
 
 Największe dodatki do EU4:
-(stan na 10.06.2020)
-* Emperor                 - 0%     (54 598)  
-* Art of War              - 46,44% (31 448)
-* El Dorado               - 6,68%  (21 792)
-* Common Sense            - 22.41% (25 513)
-* The Cossacks            - 21.3%  (21 042)
-* Rights of Man           - 9.61%  (36 757)
-* Mandate of Heaven       - 13.14% (14 904)
-* Cradle of Civilization  - 14.32% (13 289)
-* Dharma                  - 16.67% (11 973)  
-* Golden Century          - 41.81% (6 847 )  
+(stan na 10.07.2020)
+* Emperor missions        - 41.87% (34,123)   
+* Emperor content         - 12.57% (61,100)
+* Art of War              - 47,16% (31 721)
+* El Dorado               - 12,29% (21 265)
+* Common Sense            - 24.5%  (25 310)
+* The Cossacks            - 22.03% (20 829)
+* Rights of Man           - 13.72% (36 288)
+* Mandate of Heaven       - 14.23% (14 872)
+* Cradle of Civilization  - 19.03% (13 216)
+* Mare_nostrum            - 100%   (     0)
+* Third_rome              - 13.66% ( 6,789)
+* Dharma                  - 100%   (     0)  
+* Golden Century          - 42.75% ( 6 813)  
 
  * procenty pokazują postęp tłumaczenia dodatku
  * w nawiasie ilość śłów do zakończenia tłumacenia dodatku
@@ -60,17 +63,15 @@ Serdecznie zapraszamy do pomocy w tłumaczeniu!
 - Naprawione polskie znaki - teraz powinny już działać bez zarzutu
 - Spolszczono kolejną setkę linijek tekstu
 - Modyfikacja będzie się już poprawnie uruchamiała, oraz nie będzie powodowała dłuższego włączania się gry
-- Zaktualizowano wszystkie klucze tekstów do najnowszych z wersji 1.30
+- Zaktualizowano wszystkie klucze tekstów do najnowszych z wersji 1.30.3.0 Austria
 - Rozpoczęto prace nad platformą, gdzie społeczność mogłaby samodzielnie spolszczać grę linijka po linijce
 - Naprawiono błąd z wiekiem władców dzięki @NereXus
-- Zaktualizowano źródłowe stringi do tłumaczenia z gry (30.04.2020)
-- Dzięki @TheBadOgre został zautomatyzowany proces aktualizacji angielskich stringów z gry i aktualizacji spolszczenia na steam workshop!
-- Zaktualizowano dostępne spolszczenia - obecnie przetłumaczono 76,8% całej gry z dodatkami! [8.06.2020] 
+- Dzięki @TheBadOgre został zautomatyzowany proces aktualizacji angielskich stringów z gry i aktualizacji spolszczenia na steam workshop! 
 - Dodano brakujące polskie znaki dzięki @TheBadOgre i testom @sano2!
 - Dodano bardziej wyrazistą czcionkę do gry
 - Zrobiliśmy porządek z plikami, przez co musieliśmy usunąć zdublowany plik (postęp spolszczenia spadł o 2 procent]
-- STAN GRY DZIEŃ SPRZED UKAZANIA SIĘ DODATKU EMPEROR!!!
-- Kolejna aktualizacja naniesie dodatkowe pliki  nowego dodatku EMPEROR. (także postęp prac procentowy najprawdopodobniej spadnie]
+- Po aktualizacji dodatku Emperor rozszerzyliśmy bazę plików do przetłumaczenia z 97 na 105
+- STAN GRY NA DZIEŃ 10.07.2020!!!
 
 [b]_W razie jakichkolwiek problemów/zastrzeżeń/propozycji zachęcamy do kontaktu poprzez serwer discord [url=https://discord.gg/QUB7z23]]Dostępny Tutaj[/url]_[/b]
 
@@ -92,3 +93,7 @@ Serdecznie zapraszamy do pomocy w tłumaczeniu!
 - Rafkos - twórca narzędzi do konwertowania plików, korekta plików
 - Shick - tłumacz
 - Witcher - korekta, testy
+- Dr Szuriad - tłumacz
+- Mazurczyk - tłumacz
+- Izabella - pomoc
+- DawidOFF - tłumacz
