@@ -129,7 +129,7 @@
  hindu_events.26.b:0 "Lakszmi we w³asnej osobie mo¿e nawet przewy¿sza¾ Wisznu."
  hindu_events.26.c:0 "Pod¹¿² œcie¿k¹ bogini, œcie¿k¹ w³adzy."
  hindu_events.27.t:0 "Przekazywana wiedza"
- hindu_events.27.d:0 "Your search for religious truths sometimes feels impossible, as if the divine and your own spirit were separated by the rules of existence itself. You seek advice from a person at the court, $THEOLOGIAN$, on the matter and [Root.Adm_Advisor.GetSheHe] answers:\n'What you are feeling is the first step to understanding the soul and Lord Vishnu. The absolute truth exists separate from our reality. The sacred knowledge of the gods is passed down through the ages, and if you so wish, I can teach you.'\n\n$THEOLOGIAN$'s boldness in offering to be [Root.Adm_Advisor.GetHerHis] ruler's spiritual master surprises you, but perhaps [Root.Adm_Advisor.GetSheHe] is right. You may need a guide."
+ hindu_events.27.d:0 "Twoje poszukiwania prawd duchowych czasem wydaj¹ si² niemo¿liwe, jak bóstwo i twoja dusza by³y oddzielone od siebie przez prawa wszechœwiata. Zasi²gn¹³eœ w tej sprawie rady jednej z postaci na dworze. $THEOLOGIAN$ rzecze: \n- To, co czujesz, to pierwszy krok na drodze do zrozumienia duszy i pana Wisznu. Prawda absolutna istnieje w oderwaniu od naszej rzeczywistoœci. Œwi²ta wiedza o bogach jest przekazywana z pokolenia na pokolenie. Zdradz² ci j¹, jeœli sobie tego ¿yczysz. \n\nŒmia³oœ¾, z jak¹ zaoferowano ci pomoc jako duchowego nauczyciela, zaskoczy³a ci², ale by¾ mo¿e ta osoba ma racj². Mo¿e potrzebujesz przewodnika."
  hindu_events.27.a:0 "Prawd² rzeczesz. Przyjmuj² twój dar wiedzy."
  hindu_events.27.b:0 "B²d² si² uczy¾ od m²drców, lecz nie tylko od ciebie."
  hindu_events.27.c:0 "Poszukam prawdy na w³asn¹ r²k²"

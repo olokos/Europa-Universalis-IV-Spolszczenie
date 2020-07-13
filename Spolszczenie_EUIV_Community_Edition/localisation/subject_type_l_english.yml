@@ -17,7 +17,7 @@
  daimyo_vassal_title_plural:0 "Daimyo"
  DEFAULT_OVERLORD:0 "Suweren"
  personal_union_overlord_title:0 "Starszy partner"
- colony_overlord_title:0 "Home Nation"
+ colony_overlord_title:0 "Naród Ojczysty"
  vassal_long_desc:0 "Wasal musi pod¹¿a¾ za swoim suwerenem na wojn², nie mo¿e wykonywa¾ pewnych dzia³aª dyplomatycznych i b²dzie wyp³aca¾ cz²œ¾ swoich dochodów swojemu seniorowi."
  march_long_desc:0 "Marchia to wasal, który nie mo¿e zosta¾ zaanektowany i nie p³aci suwerenowi podatków, dysponuje te¿ wi²kszymi mo¿liwoœciami militarnymi ni¿ zwyk³y wasal."
  client_vassal_long_desc:0 "Podobnie jak zwyk³y wasal, Paªstwo Zale¿ne musi pod¹¿a¾ za swoim zwierzchnikiem na wojn², nie mo¿e podejmowa¾ pewnych dzia³aª dyplomatycznych i oddaje cz²œ¾ swojego dochodu zwierzchnikowi."
