@@ -396,7 +396,7 @@
  war_goal_naval_superiority: "Pokaż wyższość na morzu"
  war_goal_naval_superiority_desc: "Celem wojny jest okazanie naszej wyższości na morzu. Wygrywanie bitew morskich da ci dodatkowe punkty do wyniku wojny. Jeśli będziesz blokować port nieprzyjaciela (a on nie będzie blokować twojego) twój wynik wojny będzie rosnąć."
  war_goal_superiority: "Pokaż swoją wyższość"
- war_goal_superiority_desc: "Celem wojny jest okazanie wyższości. Uzyskuj dodatkowe punkty z wygranych bitew. Wynik ponad §YY$THRESHOLD $% §! pozwoli rosnąć Twojemu wynikowi wojny."
+ war_goal_superiority_desc: "Celem wojny jest okazanie wyższości. Uzyskuj dodatkowe punkty z wygranych bitew. Wynik ponad §Y$THRESHOLD$%§! pozwoli rosnąć Twojemu wynikowi wojny."
  war_goal_region: "Podbij region"
  war_goal_region_desc: "Celem wojny jest podbicie danego regionu."
  take_core_defection: "Podbij prowincję narodową"
