@@ -93,7 +93,7 @@ Serdecznie zapraszamy do pomocy w tłumaczeniu!
 - Rafkos - twórca narzędzi do konwertowania plików, korekta plików
 - Shick - tłumacz
 - Witcher - korekta, testy
-- Dr Szuriad - tłumacz
+- DrSzuriad - tłumacz
 - Mazurczyk - tłumacz
 - Izabella - pomoc
 - DawidOFF - tłumacz
