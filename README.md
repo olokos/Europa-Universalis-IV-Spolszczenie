@@ -103,7 +103,7 @@ UWAGA! Gdyby w launcherze pojawiała się informacja, że modyfikacja jest do ni
 - Rafkos - twórca narzędzi do konwertowania plików, korekta plików
 - Shick - tłumacz
 - Witcher - korekta, testy
-- Dr Szuriad - tłumacz
+- DrSzuriad - tłumacz
 - Mazurczyk - tłumacz
 - Izabella - pomoc
 - DawidOFF - tłumacz
