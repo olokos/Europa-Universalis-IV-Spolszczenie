@@ -23,8 +23,8 @@ Największe dodatki do EU4:
 * Rights of Man           - 13.72% (36 288)
 * Mandate of Heaven       - 14.23% (14 872)
 * Cradle of Civilization  - 19.03% (13 216)
-* Mare_nostrum            - 100%   (     0)
-* Third_rome              - 13.66% ( 6,789)
+* Mare nostrum            - 100%   (     0)
+* Third rome              - 13.66% ( 6,789)
 * Dharma                  - 100%   (     0)  
 * Golden Century          - 42.75% ( 6 813)  
 
@@ -93,7 +93,7 @@ Serdecznie zapraszamy do pomocy w tłumaczeniu!
 - Rafkos - twórca narzędzi do konwertowania plików, korekta plików
 - Shick - tłumacz
 - Witcher - korekta, testy
-- Dr Szuriad - tłumacz
+- DrSzuriad - tłumacz
 - Mazurczyk - tłumacz
 - Izabella - pomoc
 - DawidOFF - tłumacz
