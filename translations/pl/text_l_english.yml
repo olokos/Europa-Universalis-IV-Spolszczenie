@@ -6815,7 +6815,7 @@
  CONFORMANCE_WAR_NAME: "$ORDER$ wojna zgodności Świętego Cesarstwa Rzymskiego i $SECOND$ "
  PUNITIVE_WAR_NAME: "$ORDER$ wojna odwetowa $FIRST$ i $SECOND$"
  PRIMITIVE_WAR_NAME: "$ORDER$ inwazja $FIRST$ na kraj $SECOND_NAME$"
- HUMILIATE_WAR_NAME: "$ORDER$ upokorzenie państwa $SECOND_NAME$ ze strony $FIRST$"
+ HUMILIATE_WAR_NAME: "$ORDER$ Upokorzenie państwa $SECOND_NAME$ ze strony $FIRST$"
  CONQUEST_WAR_NAME: "$ORDER$ Inwazja $FIRST$ na prowincję $PROVINCE$"
  VASSAL_MISSION_WAR_NAME: "$ORDER$ ujarzmienie państwa $SECOND_NAME$ rękami $FIRST$"
  SUPPORT_REBELS_WAR_NAME: "$ORDER$ wojna interwencyjna $FIRST$ i $SECOND$"
