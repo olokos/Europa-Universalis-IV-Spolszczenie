@@ -6801,7 +6801,7 @@
  INTERVENTION_WAR_NAME: "$ORDER$ interwencja $FIRST$"
  INSULT_WAR_NAME: "$ORDER$ wojna o honor $FIRST$ i $SECOND$ "
  THRONE_WAR_NAME: "$ORDER$ Wojna $FIRST$ o tron państwa $SECOND$"
- NATION_WAR_NAME: "$ORDER$ wojna nacjonalistyczna $FIRST$ i $SECOND$ "
+ NATION_WAR_NAME: "$ORDER$ Wojna nacjonalistyczna $FIRST$ i $SECOND$ "
  IMPERIAL_WAR_NAME: "$ORDER$ wojna imperialistyczna $FIRST$ i $SECOND$"
  MAYAN_WAR_NAME: "$ORDER$$FIRST$-$SECOND$ Wojna o Zjednoczenie Mayapánu"
  COLONIAL_WAR_NAME: "$ORDER$ Wojna kolonialna $FIRST$ i $SECOND$ "
