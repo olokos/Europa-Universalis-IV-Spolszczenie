@@ -6800,7 +6800,7 @@
  HRE_DEFENSE_WAR_NAME: "$ORDER$ interwencja ŚCR"
  INTERVENTION_WAR_NAME: "$ORDER$ interwencja $FIRST$"
  INSULT_WAR_NAME: "$ORDER$ wojna o honor $FIRST$ i $SECOND$ "
- THRONE_WAR_NAME: "$ORDER$ wojna $FIRST$ o tron państwa $SECOND$"
+ THRONE_WAR_NAME: "$ORDER$ Wojna $FIRST$ o tron państwa $SECOND$"
  NATION_WAR_NAME: "$ORDER$ wojna nacjonalistyczna $FIRST$ i $SECOND$ "
  IMPERIAL_WAR_NAME: "$ORDER$ wojna imperialistyczna $FIRST$ i $SECOND$"
  MAYAN_WAR_NAME: "$ORDER$$FIRST$-$SECOND$ Wojna o Zjednoczenie Mayapánu"
