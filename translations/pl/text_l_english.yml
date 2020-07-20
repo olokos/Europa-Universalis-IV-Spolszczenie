@@ -1539,7 +1539,7 @@
  ND: "."
  TH: "."
  RD: "."
- NORMAL_WAR_NAME: "$ORDER$ wojna $FIRST$ i $SECOND$"
+ NORMAL_WAR_NAME: "$ORDER$ Wojna $FIRST$ i $SECOND$"
  SUCCESSION_WAR_NAME: "$ORDER$ Wojna o sukcesję $TARGET$"
  AGRESSION_WAR_NAME: "$ORDER$ Konflikt zbrojny $FIRST$"
  INF: "Piechota"
