@@ -7315,7 +7315,7 @@
  HAVE_DIPLOMATIC_RELATION: "Mają lepsze relacje, niż"
  AND_TRIGGER_STARTS: "Wszystkie z poniższych muszą być spełnione"
  IS_IN_WAR_TRIGGER_STARTS: "Na wojnie"
- REVOLUTIONARY_WAR_NAME: "$ORDER$ wojna rewolucyjna $FIRST$ i $SECOND$"
+ REVOLUTIONARY_WAR_NAME: "$ORDER$ Wojna rewolucyjna $FIRST$ i $SECOND$"
  end_bosphorous_sound_toll_title: "Koniec ceł sundzkich"
  end_bosphorous_sound_toll_desc: "Handel z koloniami przy Morzu Czarnym załamał się, a nasi kupcy przepływający przez Bosfor zostają oskubani niemal do cna. Musimy jakoś przekonać kontrolujących Bosfor, by przyznali Genui specjalne prawa."
  free_shipping_through_the_sound: "Wolny handel przez Sund"
