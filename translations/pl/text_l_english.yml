@@ -6798,7 +6798,7 @@
  VASSAL_WAR_NAME: "$ORDER$ Wojna wasalizacyjna $FIRST$ i $SECOND$"
  DOF_WAR_NAME: "$ORDER$ Wojna obronna wyznawców religii $FIRST_RELIGION$"
  HRE_DEFENSE_WAR_NAME: "$ORDER$ Interwencja ŚCR"
- INTERVENTION_WAR_NAME: "$ORDER$ interwencja $FIRST$"
+ INTERVENTION_WAR_NAME: "$ORDER$ Interwencja $FIRST$"
  INSULT_WAR_NAME: "$ORDER$ Wojna o honor $FIRST$ i $SECOND$ "
  THRONE_WAR_NAME: "$ORDER$ Wojna $FIRST$ o tron państwa $SECOND$"
  NATION_WAR_NAME: "$ORDER$ Wojna nacjonalistyczna $FIRST$ i $SECOND$ "
