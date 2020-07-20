@@ -6795,7 +6795,7 @@
  SPY_WAR_NAME: "$ORDER$ wojna $FIRST$ z powodu prowokacji państwa $SECOND$"
  SPREAD_REVOLUTION_NAME: "$ORDER$ wojna rewolucyjna $FIRST$ z państwem $SECOND$"
  RELIGIOUS_LEAGUE_WAR_NAME: "$ORDER$ wojna z ligą krajów wyznających $FIRST_RELIGION$"
- VASSAL_WAR_NAME: "$ORDER$ wojna wasalizacyjna $FIRST$ i $SECOND$"
+ VASSAL_WAR_NAME: "$ORDER$ Wojna wasalizacyjna $FIRST$ i $SECOND$"
  DOF_WAR_NAME: "$ORDER$ Wojna obronna wyznawców religii $FIRST_RELIGION$"
  HRE_DEFENSE_WAR_NAME: "$ORDER$ interwencja ŚCR"
  INTERVENTION_WAR_NAME: "$ORDER$ interwencja $FIRST$"
