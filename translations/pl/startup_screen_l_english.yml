@@ -244,7 +244,7 @@
  string_tributaries_desc_no: ""
  string_anglicanism_desc: "£DLC_rb Na scenę królującej §YReformacji§! może już wkroczyć §YAnglikanizm§!. Narody z §Ybrytyjskiej§! grupy kulturowej mogą wprowadzić §YAnglikanizm§!, który udostępni zestaw unikalnych §YDziałań Religijnych§!."
  string_anglicanism_no: ""
- string_dharma_government_reforms: "Wszystkie rządy korzystają z §YReform Rządowych§!. Reformy te stopniowo dają rządowi znaczne premie w trakcie gry. Reformy odblokowuje się przez gromadzenie §punktów postępu reform§!, które są naliczane w tempie wyznaczonym przez średni poziom autonomii twoich prowincji.\n\n"
+ string_dharma_government_reforms: "Wszystkie rządy korzystają z §Yreform rządowych§!. Reformy te stopniowo dają rządowi znaczne premie w trakcie gry. Reformy odblokowuje się przez gromadzenie §Ypunktów postępu reform§!, które są naliczane w tempie wyznaczonym przez średni poziom autonomii twoich prowincji.\n\n"
  string_dharma_government_reforms_no: ""
  string_cossacks_steppe_nomads: "£DLC_cos [Root.GetName] to § [Root.GovernmentName]§!, co oznacza, że używasz §YJedności Ordy§! zamiast legitymizacji. Jedność Ordy zdobywa się poprzez §niszczenie§! rozwiniętych prowincji, zdobyte w nich §Yłupy§! oraz utrzymywanie wysokiej lojalności §YPlemiennej§! klasy społecznej.\n\n"
  string_cossacks_steppe_nomads_no: ""
