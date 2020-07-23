@@ -2797,7 +2797,7 @@
  steppe_horde_reform_title: "Zreformuj rząd"
  steppe_horde_reform_desc: "Już od dawna nasi bardziej postępowi sąsiedzi wyśmiewali nasze przestarzałe formy rządzenia. Dosyć tego - od dziś naszym przywódcą będzie król!"
  steppe_horde_legacy: "Orda Stepowa"
- steppe_horde_legacy_desc: "Już od dawna nasi bardziej postępowi sąsiedzi wyśmiewali nasze przestarzałe formy rządzenia. Dosyć tego - od dziś naszym przywódcą będzie król!"
+ steppe_horde_legacy_desc: "Forma ustroju, w której władca lub dyktator sprawuje rządy plemienne, posiada stałe Casus Belli na wszystkich sąsiadów, a podległe mu jednostki walczą lepiej na równinach. "
  cb_horde_conquest: "Waśń plemienna"
  cb_horde_conquest_desc: "Nasze plemię jest potężniejsze, niż ich plemię!"
  LAG_PAUSE: "$PLAYER$ ma lagi, zatrzymanie gry."
