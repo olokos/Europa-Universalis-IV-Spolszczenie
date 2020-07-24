@@ -707,7 +707,7 @@
  IS_IMPROVE_RELATIONS: "Poprawia stosunki  z państwem $WHO$."
  IS_NOT_IMPROVE_RELATIONS: "NIE poprawia stosunków z państwem $WHO$."
  DIP_FREE_IDEA: "Wolna idea: §Y$NAME$§!"
- DIP_FULL_IDEA: "Pełna grupa##CHAR_DETECT## §Y$NAME$§!"
+ DIP_FULL_IDEA: "Pełna grupa: §Y$NAME$§!"
  POWER_COST_OPINION: "Opinia państwa $COUNTRY01|Y$ na temat państwa $COUNTRY02|Y$##CHAR_DETECT## "
  WAR_SCORE_COST: "Koszt wyniku wojny: $VAL$\n"
  POWER_COST_NOT_IN_WARGOAL: "Koszt nie bycia celem wojny: $VAL|Y$£dip \n"
