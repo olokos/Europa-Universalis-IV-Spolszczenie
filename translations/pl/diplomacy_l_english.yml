@@ -346,7 +346,7 @@
  CANT_TRANSFER_TRADE_POWER_SUBJECT_TYPE: "$SUBJECTTYPE$ może jedynie przekazywać siłę handlową swemu suwerenowi."
  CANT_TRANSFER_TRADE_POWER_PROTECTORATE: "Protektorat może przekazywać siłę handlową wyłącznie swemu suwerenowi."
  DIP_DISCOVERY_TIP: "Szansa odkrycia wynosi §Y$VAL$§W% na dzień."
- DIP_FABRICATE_TIME: "Czas do sfabrykowania roszczeń##CHAR_DETECT## §Y$VAL$§W dni"
+ DIP_FABRICATE_TIME: "Czas do sfabrykowania roszczeń: §Y$VAL$§W dni"
  DIP_FABRICATE_COMPLETION_DATE: "Szacowana data zakończenia to §Y$DATE$§W"
  SPYACTIONSAGAINST: "Jest obecnie celem operacji szpiegowskich ze strony państw $LIST$."
  NO_MODIFIERS: "Brak modyfikatorów."
