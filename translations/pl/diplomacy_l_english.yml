@@ -61,7 +61,7 @@
  PEACE_DEAL_PROVINCES_RIVAL: "Otrzymuje prowincje od rywala: §G$VALUE$§!"
  PEACE_DEAL_SUBJECTS: "Poddani nie są upoważnione do podpisywania umów pokojowych."
  PEACE_DEAL_AFFECTED_SHIELD: "Kliknij, aby zmienić cel pokoju."
- PEACE_DEAL_SEPARATE_PEACE: "Odrębny pokój##CHAR_DETECT## §R$VALUE$§!"
+ PEACE_DEAL_SEPARATE_PEACE: "Odrębny pokój: §R$VALUE$§!"
  in_war_together: "Wspólnie na wojnie"
  transfers_trade_power: "Przekierowuje siłę handlu do"
  getting_trade_power: "Otrzymuje siłę handlową od"
