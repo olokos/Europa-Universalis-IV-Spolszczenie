@@ -88,7 +88,7 @@
  RIVAL_BENEFITS_TRADE: "- brak ujemnego modyfikatora do wydajności handlu w przypadku embarga;\n"
  RIVAL_PRESTIGE: "- $VAL$ punktów prestiżu z wygranych z nimi bitew;\n"
  RIVAL_DIP_POWER: "Zażądanie od nich prowincji w ramach traktatu pokojowego kosztuje $VAL$£dip.\n"
- RIVAL_SPY: "Budowa siatki szpiegowskiej przeciwko nim##CHAR_DETECT## $VAL$.\n"
+ RIVAL_SPY: "Budowa siatki szpiegowskiej przeciwko nim: $VAL$.\n"
  BENEFIT_FOR_EMPEROR: "Cesarz otrzymuje:\n$MODIFIER$"
  BENEFIT_FOR_EMPEROR_PER_PRINCE: "Cesarz otrzymuje (zależnie od ilości książąt):\n$MODIFIER$"
  BENEFIT_FOR_ELECTOR_PER_PRINCE: "Elektorzy otrzymują (zależnie od ilości książąt):\n$MODIFIER$"
