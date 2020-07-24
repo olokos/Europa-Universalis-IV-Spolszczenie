@@ -860,7 +860,7 @@
  SUBJECT_NOT_NEW_VAR: "Państwo $OVERLORD$ nie dołączy do wojny, którą toczą $SUBJECT$ i $SUBJECT_ENEMY$ ze względu na##CHAR_DETECT## $REASON$."
  PART_OF_HRE: "Kraj $COUNTRY|Y$ jest częścią Świętego Cesarstwa Rzymskiego."
  POWER_PROJ_IRO: "§YPrognozowana potęga§!\nZ racji następujących czynników##CHAR_DETECT##"
- POWER_PROJ_DRO: "Przy następujących efektach##CHAR_DETECT##"
+ POWER_PROJ_DRO: "Przy następujących efektach:"
  power_projection: "Prognozowana potęga"
  is_great_power: "Światowa potęga"
  lacking_rival: "Zbyt mała ilość rywali"
