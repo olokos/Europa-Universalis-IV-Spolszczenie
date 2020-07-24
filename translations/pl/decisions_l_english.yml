@@ -135,7 +135,7 @@
  turkish_nation_desc: "Kiedyś Sułtanat Rumu zjednoczył wszystkie tureckie Bey i emiraty Anatolii, ale został pokonany przez zazdrosnych i podstępnych wrogów z daleka. Burząc imperia, które zanieczyszczają pamięć o dynastii Seldżuków, możemy przywrócić Sułtanat, który kiedyś był. Zjednoczmy Bey pod naszym sztandarem i przynieś zniszczenie tym, którzy sami sobie wymarzą naszych władców!"
  state_firearm_regiments_title: "Państwowe pułki broni palnej"
  state_firearm_regiments_desc: "Podczas gdy technologia jest jeszcze w powijakach, broń palna może być śmiertelną siłą na każdym polu bitwy. Aby jednak była skuteczna, broń palna wymaga regularnego szkolenia i stałego zapasu amunicji. Dla zwykłej armii pobierającej opłaty poziom umiejętności może być trudny do utrzymania. Żołnierz, który musi wracać do domu, aby zająć się polami, nie jest tym, który regularnie ćwiczy ze swoją bronią.\nChociaż nie jesteśmy w stanie zmienić całej struktury armii za jednym zamachem, możemy zapewnić, że trzon dobrze wyszkolonych płatnych żołnierzy specjalizuje się w tej broni."
- explain_state_firearm_regiments: "Daje następujący modyfikator do odwołania##CHAR_DETECT##"
+ explain_state_firearm_regiments: "Daje następujący modyfikator do odwołania:"
  standardized_uniforms_title: "Ustandaryzowane mundury"
  standardized_uniforms_desc: "W zakresie, w jakim mundury są używane w naszych armiach, dowódcy pułku armii często powinni je zapewniać i płacić. Prowadzi to do dużej różnorodności kolorów i stylów na polu bitwy i sprawia, że ​​identyfikowanie się z wrogiem jest mylące. Stwórzmy standardowy mundur dla wszystkich żołnierzy na naszych listach płac, które następnie staramy się zapewnić naszym żołnierzom."
  abolish_standardized_uniforms_title: "Znieś ustandaryzowane mundury"
