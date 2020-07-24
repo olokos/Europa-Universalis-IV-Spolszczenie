@@ -58,7 +58,7 @@
  warned: "Ostrzeżenie"
  PEACE_DEAL_NO_PROVINCES: "Nie otrzymali prowincji narodowych lub takich, wobec których mieli roszczenia w ramach traktatu pokojowego: §G$VALUE$§!"
  PEACE_DEAL_PROVINCES: "Otrzymali prowincje w ramach traktatu pokojowego: §G$VALUE$§!"
- PEACE_DEAL_PROVINCES_RIVAL: "Otrzymuje prowincje od rywala##CHAR_DETECT## §G$VALUE$§!"
+ PEACE_DEAL_PROVINCES_RIVAL: "Otrzymuje prowincje od rywala: §G$VALUE$§!"
  PEACE_DEAL_SUBJECTS: "Poddani nie są upoważnione do podpisywania umów pokojowych."
  PEACE_DEAL_AFFECTED_SHIELD: "Kliknij, aby zmienić cel pokoju."
  PEACE_DEAL_SEPARATE_PEACE: "Odrębny pokój##CHAR_DETECT## §R$VALUE$§!"
