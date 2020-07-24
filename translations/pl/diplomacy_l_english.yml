@@ -57,7 +57,7 @@
  insulted: "Obraza"
  warned: "Ostrzeżenie"
  PEACE_DEAL_NO_PROVINCES: "Nie otrzymali prowincji narodowych lub takich, wobec których mieli roszczenia w ramach traktatu pokojowego: §G$VALUE$§!"
- PEACE_DEAL_PROVINCES: "Otrzymali prowincje w ramach traktatu pokojowego##CHAR_DETECT## §G$VALUE$§!"
+ PEACE_DEAL_PROVINCES: "Otrzymali prowincje w ramach traktatu pokojowego: §G$VALUE$§!"
  PEACE_DEAL_PROVINCES_RIVAL: "Otrzymuje prowincje od rywala##CHAR_DETECT## §G$VALUE$§!"
  PEACE_DEAL_SUBJECTS: "Poddani nie są upoważnione do podpisywania umów pokojowych."
  PEACE_DEAL_AFFECTED_SHIELD: "Kliknij, aby zmienić cel pokoju."
