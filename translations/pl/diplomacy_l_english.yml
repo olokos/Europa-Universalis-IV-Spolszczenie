@@ -706,7 +706,7 @@
  ENFORCEPEACE_LOW_RELATION: "Opinia państwa $WHO$ na twój temat musi wynosić co najmniej $NEED$, a na razie wynosi $VAL$."
  IS_IMPROVE_RELATIONS: "Poprawia stosunki  z państwem $WHO$."
  IS_NOT_IMPROVE_RELATIONS: "NIE poprawia stosunków z państwem $WHO$."
- DIP_FREE_IDEA: "Wolna idea##CHAR_DETECT## §Y$NAME$§!"
+ DIP_FREE_IDEA: "Wolna idea: §Y$NAME$§!"
  DIP_FULL_IDEA: "Pełna grupa##CHAR_DETECT## §Y$NAME$§!"
  POWER_COST_OPINION: "Opinia państwa $COUNTRY01|Y$ na temat państwa $COUNTRY02|Y$##CHAR_DETECT## "
  WAR_SCORE_COST: "Koszt wyniku wojny: $VAL$\n"
