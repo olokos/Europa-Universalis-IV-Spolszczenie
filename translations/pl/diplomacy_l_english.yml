@@ -72,7 +72,7 @@
  CANNOT_ENFORCEPEACE_OWN_SUBJECT: "Nie możesz wymusić pokoju na swoich poddanych."
  ENFORCEPEACE_NOT_IN_WAR_YOUR_SUBJECT: "Oni nie są w stanie wojny z żadnym z Twoich poddanych."
  FAB_CLAIMS_AT_WAR: "W stanie wojny z: $VAL$\n"
- FAB_CLAIMS_RELATIONS: "Złe stosunki z##CHAR_DETECT## $VAL$\n"
+ FAB_CLAIMS_RELATIONS: "Złe stosunki z: $VAL$\n"
  JOINED_RECENT_WAR: "Nie da się rozpocząć nowej wojny w czasie krótszym niż miesiąc od rozpoczęcia poprzedniej."
  IS_IN_INDEPENDENCE_WAR: "Nie da się rozpocząć nowej wojny, tocząc wojnę o niepodległość."
  NO_SHIP_CAPACITY_NO_BASE: "Nie mają możliwości budowania statków, toteż nie można nie można u nich korzystać z portów."
