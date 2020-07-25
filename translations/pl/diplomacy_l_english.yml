@@ -181,7 +181,7 @@
  ENFORCEPEACETITLE: "Wymuś pokój"
  ENFORCEPEACEDESC: "Wymuś biały pokój pomiędzy wybranym krajem a jednym z jego wrogów. Jeśli wybrany kraj odmówi zaakceptowania warunków pokoju, przystąpisz do wojny po stronie przeciwnej."
  ENFORCPEACEDESC_OVERLORD: "§RIch Zwierzchnik dołączy do tej wojny, jeżeli odmówią!§!"
- ENFORCEPEACE_CHOOSE_TARGET: "Wybierz kraj z którym chcesz się sprzymierzyć##CHAR_DETECT##"
+ ENFORCEPEACE_CHOOSE_TARGET: "Wybierz kraj z którym chcesz się sprzymierzyć:"
  enforced_peace_against: "Wymuszono pokój z krajem"
  enforced_peace_for: "Wymuszono pokój"
  improved_imperial_relations: "Poprawiono stosunki imperialne"
