@@ -696,7 +696,7 @@
  HAS_NO_INTEGRATION: "Nie ma żadnej aktywnej integracji."
  REDUCED_BADBOY: "Ograniczono agresywną ekspansję##CHAR_DETECT## "
  AGGRESSIVE_EXPANSION_TITLE: "Akt agresji rozgniewa inne kraje o wartość $VAL$."
- AGGRESSIVE_EXPANSION_FACTOR: "Modyfikatory agresywnej ekspansji##CHAR_DETECT##"
+ AGGRESSIVE_EXPANSION_FACTOR: "Modyfikatory agresywnej ekspansji:"
  PEACE_EFFECTS_BADBOY: "Z Casus Belli $THE CASUS$ $ACTIVE$ cierpi z powodu kary $BADBOY$ za agresywną ekspansję."
  PEACE_DEFENDER_EFFECTS_BADBOY: "Jako obrońca $ACTIVE$ cierpi z powodu kary $BADBOY$ za agresywną ekspansję."
  ENFORCE_PEACE_INVALID_TARGET: "Nie możesz wymusić pokoju pomiędzy dwoma podrzędnymi partnerami w stanie wojny, takimi jak $WHO$ i $TARGET$."
