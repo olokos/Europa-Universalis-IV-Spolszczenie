@@ -371,7 +371,7 @@
  IS_INFILTRATE: "Szpieguje administrację."
  IS_NOT_INFILTRATE: "NIE szpieguje administracji."
  SUPPORT_REBELS_NO_MONEY: "Brakuje ci $COST$¤, aby poprzeć tę frakcję buntowników."
- REBEL_SUPPORT_MONEY: "Koszt##CHAR_DETECT##"
+ REBEL_SUPPORT_MONEY: "Koszt:"
  REBEL_SUPPORT_MONEY_DESC: "Tą kwotą będziesz wspierać rebeliantów. Jest to jednorazowy koszt, który jest obliczany na podstawie rozmiaru buntu i kosztu rekrutacji w każdej prowincji, w której mogą się oni buntować. Pamiętaj, że faktyczny rozmiar buntu może być inny, jeśli zmieni się sytuacja w kraju docelowym."
  war_goal_take_colony: "Podbij kolonię $PROV$ na kontynencie $CONTINENT$"
  war_goal_take_colony_desc: "Celem wojny jest podbicie kolonii $PROV$ na kontynencie $CONTINENT$."
