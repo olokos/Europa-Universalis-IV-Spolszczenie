@@ -567,7 +567,7 @@
  BACK: "Powrót"
  BUILDSPYNETWORK_DISCOV: "Odkąd odkryto naszych szpiegów nie możemy ponownie wysłać szpiegów, aż do $WHEN|Y$."
  SPYNETWORK_DIPLO: "Nasza siatka szpiegowska na terenie $ADJ|Y$ osiągnęła rozmiar $SIZE|Y$ na możliwe §Y100§!."
- SPYNETWORK_BENEFITS: "Daje nam to następujące korzyści##CHAR_DETECT##"
+ SPYNETWORK_BENEFITS: "Daje nam to następujące korzyści:"
  SPYNETWORK_BENEFITS_SIEGE: "  $AMT$ do umiejętności oblężniczych przeciwko krajowi $WHO|Y$"
  SPYNETWORK_BENEFITS_AE: "  $AMT$ do agresywnej ekspansji w stosunkach z państwem $WHO|Y$"
  SPYNETWORK_BENEFITS_TECH_MIL: "  $AMT$ do kosztu technologii militarnej"
