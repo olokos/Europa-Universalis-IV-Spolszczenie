@@ -325,7 +325,7 @@
  FABRICATE_CLAIM_SELECT_DESC: "Fabrykowanie roszczeń zmniejszy rozmiar naszej siatki handlowej na terenie $ADJ|Y$ o $COST|R$ i da nam roszczenia względem prowincji §Y$PROV$§W. Zachowają one ważność przez $YEARS|Y$ lat."
  FABRICATE_CLAIM_FOR_VASSAL_SELECT_DESC: "Fabrykowanie roszczeń zmniejszy rozmiar naszej siatki handlowej na terenie $ADJ|Y$ o $COST|R$ i da $SUBJECT|Y$ roszczenia względem prowincji §Y$PROV$§W. Zachowają one ważność przez $YEARS|Y$ lat."
  DIP_DISCOVERY_2: "Ryzyko wykrycia wynosi §Y$VAL$%§W na miesiąc."
- DIP_ENVOY_TIME_PROGRESS: "Postęp##CHAR_DETECT## §Y$VAL$%§W"
+ DIP_ENVOY_TIME_PROGRESS: "Postęp: §Y$VAL$%§W"
  MODIFIER_FABRICATE_CLAIMS_TIME: "Koszt sfabrykowania roszczeń"
  MODIFIER_JUSTIFY_TRADE_CONFLICT_TIME: "Koszt uzasadnienia konfliktu handlowego"
  CANCEL_FABRICATE_CLAIM_REQUEST: "Czy chcesz odwołać dyplomatę fabrykującego roszczenia? Spowoduje to zakończenie podjętej próby."
