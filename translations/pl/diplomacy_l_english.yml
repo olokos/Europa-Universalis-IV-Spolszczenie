@@ -127,7 +127,7 @@
  DIP_MAINT: "$RELATION$##CHAR_DETECT## (§Y$COUNTRY$§W)##CHAR_DETECT## §Y-$VAL$§W."
  RIVAL_IMPACT_ON_SPY: "Rywale: $VAL$\n"
  MILACCESS_TYPE: "Prawo przemarszu wojsk"
- ANNEX_TARGET_CORE: "Wysuwamy roszczenia względem ich stolicy##CHAR_DETECT## "
+ ANNEX_TARGET_CORE: "Wysuwamy roszczenia względem ich stolicy:"
  ANNEX_INPROGRESS3: "Postęp aneksji wynosi §Y$PROGRESS|1$%§! ($VAL|G$/$COST|Y$), szacowana data ukończenia $DATE|Y$.\nZużywa §R$DRAIN$§!£dip miesięcznie.\n"
  INTEGRATE_INPROGRESS3: "Postęp integracji wynosi §Y$PROGRESS|1$%§! ($VAL|G$/$COST|Y$), szacowana data ukończenia $DATE|Y$.\nZużywa §R$DRAIN$§!£dip miesięcznie.\n"
  NO_ANNEX_PROGRESS_LACK_DIP: "Potrzeba co najmniej $COST$£dip, by kontynuować."
