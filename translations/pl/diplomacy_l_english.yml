@@ -134,7 +134,7 @@
  ANNEX_SAME_RELIGION: "Ta sama religia"
  ANNEX_SAME_CULTURE: "Ta sama grupa kulturowa##CHAR_DETECT##"
  ANNEX_TARGET_LOW_STAB: "Cel ma niską stabilność:"
- ANNEX_LONG_TIME_VASSAL: "Wieloletni wasal##CHAR_DETECT## "
+ ANNEX_LONG_TIME_VASSAL: "Wieloletni wasal:"
  ANNEX_WAREXHAUSTION: "Wyczerpanie wojną##CHAR_DETECT## "
  ANNEX_OVERSEAS: "Za morzem:"
  ANNEX_LARGER: "Ich kraj jest większy od naszego:"
