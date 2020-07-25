@@ -694,7 +694,7 @@
  AGGRESSIVE_EXPANSION: "Agresywna ekspansja##CHAR_DETECT## §R$VAL$§!"
  AGGRESSIVE_EXPANSION_DESC: "Agresywna ekspansja rozsierdzi tych, którzy interesują się krajem §Y$COUNTRY$§! o §R$VAL$§! pkt opinii jako podstawę"
  HAS_NO_INTEGRATION: "Nie ma żadnej aktywnej integracji."
- REDUCED_BADBOY: "Ograniczono agresywną ekspansję##CHAR_DETECT## "
+ REDUCED_BADBOY: "Ograniczono agresywną ekspansję:"
  AGGRESSIVE_EXPANSION_TITLE: "Akt agresji rozgniewa inne kraje o wartość $VAL$."
  AGGRESSIVE_EXPANSION_FACTOR: "Modyfikatory agresywnej ekspansji:"
  PEACE_EFFECTS_BADBOY: "Z Casus Belli $THE CASUS$ $ACTIVE$ cierpi z powodu kary $BADBOY$ za agresywną ekspansję."
