@@ -1527,7 +1527,7 @@
  PROV_PROD_GOODS: "Z towarów:"
  PROV_PROD_GOLD: "Ze złota:"
  PROV_PROD_EFF: "Wydajność produkcji: $VALUE$%"
- PROV_PROD_TOTAL: "Suma##CHAR_DETECT##"
+ PROV_PROD_TOTAL: "Suma:"
  IDEA_NOT_AVAILIABLE: "Nie jesteśmy wystarczająco zaawansowani, aby stosować tę doktrynę."
  IDEA_ALLREADY_SELECTED: "Już przyjęliśmy tę doktrynę."
  REGIMENT_NAME: "$HOME$ - $NUM$$ORDER$ Pułk"
