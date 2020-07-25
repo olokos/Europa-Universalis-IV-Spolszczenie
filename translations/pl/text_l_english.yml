@@ -982,7 +982,7 @@
  MVIEW_LAND: "Wojsko"
  MVIEW_NAVAL: "Flota"
  MVIEW_MORALE: "Morale"
- MVIEW_TOTAL: "Suma##CHAR_DETECT##"
+ MVIEW_TOTAL: "Suma:"
  MVIEW_MAXIMUM: "Limit wojsk"
  MVIEW_MAINTENANCE: "Utrzymanie:"
  COUVIEW_MCOST: "miesięcznie"
