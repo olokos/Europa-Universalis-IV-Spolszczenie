@@ -2514,7 +2514,7 @@
  PW_SEND: "Wyślij"
  PW_TAX: "Podatek:"
  PW_PRODUCTION: "Produkcja:"
- PW_TOTAL: "Suma##CHAR_DETECT##"
+ PW_TOTAL: "Suma:"
  PW_PRICE: "Cena:"
  PW_SUPPLY_LIMIT: "Limit zapasów"
  PW_MAX_ATTRITION: "Maks. wyniszczenie"
