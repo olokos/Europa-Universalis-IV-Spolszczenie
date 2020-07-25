@@ -137,7 +137,7 @@
  ANNEX_LONG_TIME_VASSAL: "Wieloletni wasal##CHAR_DETECT## "
  ANNEX_WAREXHAUSTION: "Wyczerpanie wojną##CHAR_DETECT## "
  ANNEX_OVERSEAS: "Za morzem:"
- ANNEX_LARGER: "Ich kraj jest większy od naszego##CHAR_DETECT## "
+ ANNEX_LARGER: "Ich kraj jest większy od naszego:"
  INTEGRATE_MULTI_UNIONS: "Roszczenia wobec tego państwa wysuwają liczni pretendenci##CHAR_DETECT## "
  ANNEXTITLE: "Zaanektuj wasala"
  CANCEL_ANNEXTITLE: "Odwołaj aneksję"
