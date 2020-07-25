@@ -138,7 +138,7 @@
  ANNEX_WAREXHAUSTION: "Wyczerpanie wojną##CHAR_DETECT## "
  ANNEX_OVERSEAS: "Za morzem:"
  ANNEX_LARGER: "Ich kraj jest większy od naszego:"
- INTEGRATE_MULTI_UNIONS: "Roszczenia wobec tego państwa wysuwają liczni pretendenci##CHAR_DETECT## "
+ INTEGRATE_MULTI_UNIONS: "Roszczenia wobec tego państwa wysuwają liczni pretendenci:"
  ANNEXTITLE: "Zaanektuj wasala"
  CANCEL_ANNEXTITLE: "Odwołaj aneksję"
  ANNEXNEWDESC: "Czy chcesz rozpocząć proces wcielania kraju $COUNTRY$ do twojego państwa? \nZajmie to jednego z twoich dyplomatów do momentu ukończenia wcielania, lub anulowania jego próby."
