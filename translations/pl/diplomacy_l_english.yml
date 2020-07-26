@@ -809,7 +809,7 @@
  non_restricted_colonial_wars: "Nieograniczone wojny kolonialne"
  restricted_colonial_expansion_opinion: "Ograniczona ekspansja kolonialna"
  non_restricted_colonial_expansion_opinion: "Nieograniczona ekspansja kolonialna"
- POWER_COST_CLAIM: "Mamy prawomocne roszczenia##CHAR_DETECT## $VAL$\n"
+ POWER_COST_CLAIM: "Mamy prawomocne roszczenia: $VAL$\n"
  CANCEL_DIPLOMAT_DIALOG_TITLE: "Potwierdź anulowanie działalności dyplomatycznej"
  CANCEL_DIPLOMAT_DIALOG_DESC: "$ACTIVITY$\n\nCzy na pewno chcesz, by powrócił do domu?"
  PEACE_EFFECT_PRESTIGE_DISHONORABLE: "Kraj $WHO$ zyskuje dodatkowe $PRESTIGE$ punktów prestiżu z tytułu podpisania pokoju odrębnego przy jednoczesnym uzyskaniu ponad $WS|Y$ punktów wojennych w ciągu pierwszych $MONTHS$ miesięcy wojny."
