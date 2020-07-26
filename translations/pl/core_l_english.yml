@@ -525,7 +525,7 @@
  WAR_ENTHUSIASM_HIGH: "§GWysokie§!"
  WAR_ENTHUSIASM_MEDIUM: "§YŚrednie§!"
  WAR_ENTHUSIASM_LOW: "§RNiskie§!"
- WAR_ENTHUSIASM: "Ich poparcie dla wojny wynosi "
+ WAR_ENTHUSIASM: "Ich poparcie dla wojny jest"
  MODIFIER_MAX_COALITION_SIZE: "Maksymalny rozmiar koalicji"
  SIEGE_MERGE_UNITS: "Połącz swoje jednostki oblegające."
  SIEGE_MERGE_UNITS_MERGED: "Twoje jednostki oblegające są już połączone."
