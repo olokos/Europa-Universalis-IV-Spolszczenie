@@ -124,7 +124,7 @@
  alert_agreement_fail_delayed: "Nasza umowa z $LIST$ straci swą ważność z powodu niskiej siły dyplomatycznej."
  UPKEEP_EXPLANATION: "$CURR$/$ALLOW$ Relacje Dyplomatyczne: $COST$\n$LIST$"
  UPKEEP_MOD_DESC: "Możemy utrzymywać stosunki dyplomatyczne z $NUM|Y$ państwami, ponieważ:"
- DIP_MAINT: "$RELATION$##CHAR_DETECT## (§Y$COUNTRY$§W)##CHAR_DETECT## §Y-$VAL$§W."
+ DIP_MAINT: "$RELATION$: (§Y$COUNTRY$§W): §Y-$VAL$§W."
  RIVAL_IMPACT_ON_SPY: "Rywale: $VAL$\n"
  MILACCESS_TYPE: "Prawo przemarszu wojsk"
  ANNEX_TARGET_CORE: "Wysuwamy roszczenia względem ich stolicy:"
