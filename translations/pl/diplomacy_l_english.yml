@@ -108,7 +108,7 @@
  DIPIRO_CLAIMTRHONE: "$WHO|Y$ posiada roszczenia do tronu państwa $NAME|Y$.\nTo pozwala państwu $WHO|Y$ zażądać tronu w ramach traktatu pokojowego."
  DIPIRO_WARSUBSIDIES: "$WHO|Y$ wypłaca państwu $NAME|Y$ comiesięczne subsydia w wysokości $AMOUNT|Y2$¤.\nBędą one wypłacane do $DATE|Y$."
  DIPIRO_MILACCESS: "$WHO|Y$ przyznaje prawo przemarszu wojsk państwu $NAME|Y$.\nUmożliwia to wojskom tego drugiego pobyt na terenie prowincji pierwszego państwa."
- DIPIRO_CONDITIONAL_ACCESS: "$TAKER|Y$ posiada warunkową zgodę na przemarsz wojsk przez ziemie kraju $GIVER|Y$ z następujących powodów##CHAR_DETECT##\n"
+ DIPIRO_CONDITIONAL_ACCESS: "$TAKER|Y$ posiada warunkową zgodę na przemarsz wojsk przez ziemie kraju $GIVER|Y$ z następujących powodów:\n"
  DIPIRO_FLEETACCESS: "$WHO|Y$ przyznaje prawo dostępu do portów państwu $NAME|Y$.\nUmożliwia to okrętom tego drugiego cumowanie i naprawę w portach pierwszego państwa."
  DIPIRO_CB: "$WHO|Y$ ma casus belli - $CB|Y$ - przeciwko państwu $NAME|Y$ - $DESC$ \n$WHO|Y$ może użyć go do wypowiedzenia wojny państwu $NAME|Y$."
  DIPIRO_CB_EXPIRE: "To casus belli jest ważny do §Y$DATE$§!."
