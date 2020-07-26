@@ -2728,7 +2728,7 @@
  CELESTIAL_CLOSE: "Zamknij"
  CELESTIAL_EMPIRE: "Cesarstwo Chińskie"
  PAPACY_CARDINALS: "Kard."
- PAPACY_COST: "Koszt##CHAR_DETECT##"
+ PAPACY_COST: "Koszt: "
  PAPACY_CHANCE: "Szansa:"
  PAPACY_LOYALTY: "Lojalność:"
  PAPACY_CLOSE: "Zamknij"
