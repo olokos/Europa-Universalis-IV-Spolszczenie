@@ -306,7 +306,7 @@
  CANCEL_IMPROVERELATIONDESC_NEW: "Czy chcesz odwołać dyplomatę, który poprawia nasze stosunki z państwem §Y$COUNTRY$§W?\nJeśli zakończy pracę, z czasem jego wpływy wygasną."
  improved_relation: "Polepszone stosunki"
  WE_INCREASE_RELATIONS: "Polepszanie stosunków z państwami $LIST$."
- THEY_INCREASE_RELATIONS: "Następujące państwa polepszają swoje stosunki##CHAR_DETECT## $LIST$."
+ THEY_INCREASE_RELATIONS: "Następujące państwa polepszają swoje stosunki: $LIST$."
  ICON_ENFORCE_PEACE: "Wymuś pokój"
  ICON_ENFORCE_PEACE_COALITION_LEADER: "Pokój wymuszony przez przywódcę koalicji"
  ICON_GRANT_ELECTORATE: "Nadaj elektorat"
