@@ -74,7 +74,7 @@
  AUTO_DUE_TO_MOD: "$WHAT$"
  AUTO_HEADER: "Nie może spaść poniżej §Y$VAL$%§! z tytułu:\n$WHAT$"
  MODIFIER_YEARLY_CORRUPTION: "Roczna korupcja"
- CORRUPTION_IRO: "§YKorupcja§!\nObecnie##CHAR_DETECT## $CURR|Y$.\nKorupcja zmienia się co roku o $CHANGE$ z tytułu:\n$WHY$"
+ CORRUPTION_IRO: "§YKorupcja§!\nObecnie: $CURR|Y$.\nKorupcja zmienia się co roku o $CHANGE$ z tytułu:\n$WHY$"
  CORRUPTION_DRO: "Ten poziom korupcji powoduje następujące skutki:"
  STEALMAPTITLE: "Kradnij mapy"
  SPYCOST: "zmniejszy rozmiar naszej siatki szpiegowskiej na terenie $ADJ|Y$ o $COST$."
