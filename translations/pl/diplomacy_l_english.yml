@@ -118,7 +118,7 @@
  NO_WAR_ON_EMPIRE_FIRST_MONTHS: "Nie możesz wypowiedzieć wojny członkowi Cesarstwa, jeśli jesteś sojusznikiem Cesarza, a ten wyruszył na wojnę."
  ALREADY_WAR_EMPIRE: "Nie możesz wypowiedzieć wojny członkowi Cesarstwa, jeśli jesteś już w stanie wojny z Cesarzem."
  PEACE_IN_EMPIRE_NO_WAR: "Po ogłoszeniu landfrieden członkowie Świętego Cesarstwa Rzymskiego nie mogą przedsięwziąć wrogich działań przeciwko sobie."
- DIP_MAINT_RM: "Mariaż królewski##CHAR_DETECT## (§Y$COUNTRY$§W)##CHAR_DETECT## §Y-$VAL$§W."
+ DIP_MAINT_RM: "Mariaż królewski: (§Y$COUNTRY$§W): §Y-$VAL$§W."
  DIP_MAINT_VASSAL: "Ma wasala: (§Y$COUNTRY$§W): §Y-$VAL$§W."
  alert_agreement_fail_instant: "§YUmowa straci swą moc z powodu słabego poparcia!§W"
  alert_agreement_fail_delayed: "Nasza umowa z $LIST$ straci swą ważność z powodu niskiej siły dyplomatycznej."
