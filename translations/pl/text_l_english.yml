@@ -3295,7 +3295,7 @@
  desc_daimyo_navy: "Bycie małym daimyo ogranicza nasz potencjał morski."
  MODIFIERS_STRATEGIC_EFFECTS: "Uruchomione modyfikatory"
  HRE_LEAVE_ALL_PROVINCES: "Wszystkie prowincje pozostaną we władaniu obecnych właścicieli i zostaną usunięte z Cesarstwa."
- HRE_LEAVE_RELEASE: "Państwo §Y$COUNTRY$§W zostanie uwolnione wraz z następującymi prowincjami##CHAR_DETECT## $LIST$.\n"
+ HRE_LEAVE_RELEASE: "Państwo §Y$COUNTRY$§W zostanie uwolnione wraz z następującymi prowincjami: $LIST$.\n"
  RELEASE_RELIGION: "Będą wyznawać §Y$RELIGION$§!."
  RELEASE_REFORMS: "Rozpoczną bez uchwalonych Reform, ale uzyskają Twój aktualny poziom Postępu Reform i odzyskają wszystkie dotychczas wydane Postępy Reform."
  HRE_LEAVE_EMPEROR: "Cesarz (§Y$COUNTRY$§W) przejmie następujące prowincje: $LIST$.\n"
