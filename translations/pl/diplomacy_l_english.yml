@@ -661,7 +661,7 @@
  CALL_COLONIAL_ALLIES: "Wezwij poddanych"
  FULL_ALLY_CHECKBOX_WILL_AUTOJOIN: "Wróg $SUBJECTORALLY$ §Y$COUNTRY$§! będzie uważany za walczącego w tej wojnie, ale NIE będzie mógł wzywać własnych sojuszników."
  FULL_ALLY_CHECKBOX_WILL_CALL: "Wróg $SUBJECTORALLY$ §Y$COUNTRY$§! będzie uważany za walczącego w tej wojnie. Będzie mógł także wzywać własnych sojuszników."
- FULL_ALLY_CHECKBOX_WILL_NOT_CALL: "Wróg $SUBJECTORALLY$ §Y$COUNTRY$§! NIE będzie uważany za walczącego w tej wojnie. NIE będzie mógł wzywać własnych sojuszników, ale przejęcie ich prowincji będzie dwa razy droższe."
+ FULL_ALLY_CHECKBOX_WILL_NOT_CALL: "Wrogi $SUBJECTORALLY$ §Y$COUNTRY$§! NIE będzie uważany za walczącego w tej wojnie. NIE będzie mógł wzywać własnych sojuszników, ale przejęcie ich prowincji będzie dwa razy droższe."
  FULL_ALLY_CHECKBOX_DESC: "§GKliknij, aby zmienić albo nie uznać tego wroga $SUBJECTORALLY$ za współwalczącego.§!"
  ENEMY_STRENGTH_UNACCOUNTED: "Nie będziemy mieli żadnych informacji o sile armii żadnego z tych narodów, które mogą zostać wezwane do wojny."
  NOT_COBELLIGERENT_CALL: "Dołączymy jako zwykły sojusznik. Koszt odebrania naszych prowincji przez przeciwnika będzie dwa razy większy, ale nie będziemy mogli wezwać własnych sojuszników."
