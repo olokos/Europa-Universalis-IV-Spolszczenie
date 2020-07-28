@@ -4856,7 +4856,7 @@
  nationalist_rebels_name: "Separatyści z $INDEP$"
  nationalist_rebels_desc: "Zbuntowani separatyści chcą wolności dla swego ludu. Są dobrze zorganizowani i wyposażeni, jednak zwykle pozostają w prowincjach o tej samej kulturze."
  noble_rebels_title: "Szlachta"
- noble_rebels_name: "Zbuntowana szlachta; ( $COUNTRY$)"
+ noble_rebels_name: "Zbuntowana szlachta $COUNTRY$"
  noble_rebels_desc: "Zbuntowana szlachta jest niezadowolona ze swego władcy, zwykle z powodu liberalnych reform. Korzysta z zawodowych oddziałów z dużą ilością konnicy."
  colonial_rebels_title: "Koloniści"
  colonial_rebels_name: "Separatyści z $INDEP$"
