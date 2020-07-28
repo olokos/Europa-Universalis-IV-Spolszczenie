@@ -3679,7 +3679,7 @@
  OTHERS_IN_COT: "inne prowincje związane z Ośrodkiem handlu."
  RELATION_CHANGE_VALUE: "Przewidywana zmiana (rocznie):"
  NEW_CORE_EFFECT_EMPEROR: "Cesarz zyskuje rdzenną prowincję §Y$NEW$§W.\n"
- PEACE_OFFER_WARSCORE: "Wartość propozycji:"
+ PEACE_OFFER_WARSCORE: "Koszt propozycji:"
  TAG_CHANGE: "Zmiana państwa na: $NEW$.\n"
  CONFIRMCONVERSIONTITLE: "Zmień wiarę na: §Y$NAME$§W."
  CONFIRMCONVERSIONTEXT: "Czy na pewno chcesz zmienić wyznanie na §Y$NAME$§W? To spowoduje potężną destabilizację państwa i zerwanie wszystkich sojuszy oraz królewskich mariaży."
