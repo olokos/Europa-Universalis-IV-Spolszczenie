@@ -525,7 +525,7 @@
  March_on_Granada: "Marsz na Grenadę"
  Conflict_in_the_Caribbean: "Konflikt na Karaibach"
  PW_SEND_MISSIONARY_COST: "$COST|Y$¤"
- MONTHLY_COST: "Miesięczny koszt"
+ MONTHLY_COST: "Koszt/msc"
  mechanic_gives_war_against_the_world_tooltip_dummy_yes: "Pozwala na casus belli \"wojna przeciwko światu\""
  NO_RELIGIOUS_UNITY_PENALTY: "Prowincje heretyckie i pogańskie nie dają nam żadnej kary za jedność religijną."
  CANNOT_AFFORD_COST: "Nie stać nas teraz na wydatek wysokości $AMOUNT|Y$$CURRENCY$."
