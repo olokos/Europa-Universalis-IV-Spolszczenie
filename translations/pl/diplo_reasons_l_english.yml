@@ -80,7 +80,7 @@
  DIPLO_WAR_REBELS: "Bunty w państwie $WHO$: "
  DIPLO_WAR_CB: "Casus belli $CB$: "
  DIPLO_DEFEATED: "Doszczętnie rozbite: "
- DIPLO_PEACE_SCORE: "Wartość propozycji: "
+ DIPLO_PEACE_SCORE: "Koszt propozycji:"
  DIPLO_PERSONALITY_MILITARIST: "Władca $WHO$ jest militarystą: "
  DIPLO_HAS_PERSONALITY: "Władca kraju $WHO$ to $TRAIT$: "
  DIPLO_LACKS_PERSONALITY: "Nie ma określenia na osobowość władcy państwa $WHO$."
