@@ -3941,7 +3941,7 @@
  NAVAL_ATTRITION: "Wyniszczenie na morzach"
  naval_provisioning: "Zaopatrzenie na morzu"
  naval_provisioning_desc: "Dzięki postępom naukowym zarówno na polu przechowywania żywności, jak i w medycynie, możemy teraz wyposażać nasze okręty w racje żywnościowe. Są one nie tylko bardziej trwałe, ale również zapobiegają chorobom, takim jak szkorbut."
- STARTED: " rozpoczęta "
+ STARTED: "Rok rozpoczęcia."
  WON: "§GWygrana"
  LOST: "§RPrzegrana"
  LEDGER_POPULATION: "Osadnicy"
