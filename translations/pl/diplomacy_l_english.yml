@@ -563,7 +563,7 @@
  ANNEX_NATION: "Aneksja"
  DEMAND_PEACE: "Zażądaj daniny"
  OFFER_WP: "Zaoferuj biały pokój"
- OFFER_PEACE: "Zaoferuj daninę"
+ OFFER_PEACE: "Zaoferuj trybut"
  BACK: "Powrót"
  BUILDSPYNETWORK_DISCOV: "Odkąd odkryto naszych szpiegów nie możemy ponownie wysłać szpiegów, aż do $WHEN|Y$."
  SPYNETWORK_DIPLO: "Nasza siatka szpiegowska na terenie $ADJ|Y$ osiągnęła rozmiar $SIZE|Y$ na możliwe §Y100§!."
