@@ -3169,7 +3169,7 @@
  CONFIRM_BUILDING_DESTROY_TITLE: "Zniszcz budynek"
  CONFIRM_BUILDING_DESTROY: "Czy na pewno chcesz zburzyć $BUILDING$ w prowincji $PROVINCE$?\n$EFFECT$"
  PEACE_NAME: "Nazwa"
- INCOME_TRIBUTE: "Danina"
+ INCOME_TRIBUTE: "Trybut"
  EXPENSE_TRIBUTE: "Trybut"
  COLONY_TO_REMOTE: "Ten obszar znajduje się za daleko i jest zbyt nieprzystępny, by go skolonizować na stałe."
  CANT_COLONIZE_WHILE_BANKRUPT: "Nie można prowadzić kolonizacji, jeśli państwo zbankrutowało."
