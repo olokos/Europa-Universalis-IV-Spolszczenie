@@ -2747,7 +2747,7 @@
  PP_CHARGE: "Do ataku!"
  PP_FEROCITY: "Zaciekłość:"
  LEDGER_CORE: "Prowincje narodowe"
- LEDGER_NOT_CORE: "Prowincje nienarodowe"
+ LEDGER_NOT_CORE: "nienarodowe"
  LOADING_MAP_SPRITES: "Wczytywanie grafik mapy..."
  LOADING_GUI_DEF: "Wczytywanie definicji interfejsu graficznego..."
  LOADING_DATABASES: "Wczytywanie baz danych..."
