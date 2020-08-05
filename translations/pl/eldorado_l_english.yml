@@ -1016,7 +1016,7 @@
  inti_events.33.d: "Delegacja niektórych z najlepszych rodzin ze stolicy zwróciła się do [Root.Monarch.GetName] z żądaniem odesłania nowych członków gwardii królewskiej do ich domów na prowincji. Chociaż są zadowoleni, że instytucja jako taka nie została zmieniona, czują odrazę do ludzi, którzy mają teraz dziedziczne prawo do ochrony [Root.Monarch.GetTitle]. Ci ludzie nie nadają się do bycia częścią arystokracji [From.Capital.GetCapitalName]."
  inti_events.33.a: "Cofnij decyzję o rozwoju gwardii."
  inti_events.33.b: "Dajmy im kilka pokoleń."
- inti_events.34.t: "Atak w stolicy"
+ inti_events.34.t: "Atak w stolicy [From.Capital.GetCapitalName]"
  inti_events.34.d: "Podczas zwyczajowego serwowania napojów pospólstwu z królewskiej lektyki na placach stolicy [Root.Monarch.GetName] został zaatakowany przez niewielką grupę niedoszłych zabójców. Grupa nagle się wycofała, nie będąc nawet blisko osiągnięcia celu, jakim jest zranienie [Root.Monarch.GetName], ale było niepokojąco jasne, że straż królewska tego nie przewidziała. Być może dlatego, że nie są jeszcze przyzwyczajeni do tętniącego życiem środowiska stolicy."
  inti_events.34.a: "Cofnij decyzję o rozwoju gwardii."
  inti_events.34.b: "Wydaje się to być zbyt wygodne..."
