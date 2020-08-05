@@ -271,7 +271,7 @@
  mechanic_can_use_trade_post_no: ""
  mechanic_can_form_trade_league_yes: ""
  mechanic_can_form_trade_league_no: ""
- mechanic_trade_city_reform: ""
+ mechanic_trade_city_reform: "Może stworzyć $VALUE$."
  mechanic_assimilation_cultures: ""
  mechanic_states_general_mechanic: ""
  statists_MECHANIC_TOOLTIP: "Etatyści"
