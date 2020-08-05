@@ -3,34 +3,35 @@ Europa Universalis IV Community Translation / Spolszczenie
 Spolszczenie do najnowszej wersji Europa Universalis 1.30  
 Działa bezproblemowo z każdą wersją gry 1.30
 
-Stan w  wersji 2.8.3 [13.07.2020]:
+Stan w  wersji 2.8.4 [04.08.2020]:
 ---
- * 17,432 sprawdzonych wpisów
- * 66,961 przetłumaczonych wpisów
- * 24,823 nieprzetłumaczonych wpisów
+ * 17,537 sprawdzonych wpisów
+ * 68,954 przetłumaczonych wpisów
+ * 22,830 nieprzetłumaczonych wpisów
 
 Jest to obecnie najpełniejsze spolszczenie, stworzone przez społeczność gry.
 Pracę projektu obejmuą 105 plików z czego do przetłumaczenia pozostało 32.
 
-Aktualnie nasze spolszczenie posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie spolszczeń. **(72,95% całej gry)**
+Aktualnie nasze spolszczenie posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie spolszczeń. **(75,13% całej gry)**
 
 Największe dodatki do EU4:
-(stan na 10.07.2020)
+(stan na 04.08.2020)
 
 |         Dodatek        | Ukończono | Liczba słów |
 |:----------------------:|:---------:|:-----------:|
-| Emperor missions       | 41.87%    | 34,123      |
-| Emperor content        | 12.57%    | 61,100      |
-| Art of War             | 47,16%    | 31 721      |
-| El Dorado              | 12,29%    | 21 265      |
-| Common Sense           | 24.5%     | 25 310      |
-| The Cossacks           | 22.03%    | 20 829      |
-| Rights of Man          | 13.72%    | 36 288      |
-| Mandate of Heaven      | 14.23%    | 14 872      |
-| Cradle of Civilization | 19.03%    | 13 216      |
-| Mare_nostrum           | 100%      |      0      |
-| Third_rome             | 13.66%    |  6,789      |
+| Emperor missions       | 43.01%    | 33,806      |
+| Emperor content        | 12.67%    | 61,094      |
+| Art of War             | 48,22%    | 31 408      |
+| El Dorado              | 100%      |      0      |
+| Common Sense           | 24.73%    | 25 294      |
+| The Cossacks           | 22.64%    | 20 756      |
+| Rights of Man          | 14.08%    | 36 270      |
+| Mandate of Heaven      | 14.6%     | 14 802      |
+| Cradle of Civilization | 19.61%    | 13 199      |
+| Mare Nostrum           | 100%      |      0      |
+| Third Rome             | 13.92%    |  6,786      |
 | Dharma                 | 100%      |      0      |
+| Rule Britannia         | 12.74%    |  7,111      |
 | Golden Century         | 42.75%    |  6 813      |
 
  * procenty pokazują postęp tłumaczenia dodatku
@@ -80,7 +81,7 @@ Serdecznie zapraszamy do pomocy w tłumaczeniu!
 - Dodano bardziej wyrazistą czcionkę do gry
 - Zrobiliśmy porządek z plikami, przez co musieliśmy usunąć zdublowany plik (postęp spolszczenia spadł o 2 procent]
 - Po aktualizacji dodatku Emperor rozszerzyliśmy bazę plików do przetłumaczenia z 97 na 105
-- STAN GRY NA DZIEŃ 10.07.2020!!!
+- STAN GRY NA DZIEŃ 04.08.2020!!!
 
 **_W razie jakichkolwiek problemów/zastrzeżeń/propozycji zachęcamy do kontaktu poprzez serwer discord [Dostępny Tutaj](https://discord.gg/QUB7z23])_**
 
