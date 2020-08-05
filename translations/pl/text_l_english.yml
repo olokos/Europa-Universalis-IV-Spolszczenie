@@ -2746,7 +2746,7 @@
  PP_AGGRESSIVE: "Agresywność:"
  PP_CHARGE: "Do ataku!"
  PP_FEROCITY: "Zaciekłość:"
- LEDGER_CORE: "narodowe"
+ LEDGER_CORE: "Narodowe"
  LEDGER_NOT_CORE: "Nienarodowe"
  LOADING_MAP_SPRITES: "Wczytywanie grafik mapy..."
  LOADING_GUI_DEF: "Wczytywanie definicji interfejsu graficznego..."
