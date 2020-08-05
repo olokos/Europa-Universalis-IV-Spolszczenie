@@ -907,7 +907,7 @@
  inti_events.6.d: "Oczekuje się, że władca będzie podróżował po swoim królestwie, sprawdzając każdą jego część i że będzie brał udział w religijnych i światowych ceremoniach swoich wodzów. Gdy [Root.Monarch.GetName] zbliża się do ogromnej świątyni lokalnego boga Huaca, mumii dawno minionej dynastii, królewscy kapłani wzywali do ostrożności. Jest to niezwykle popularne Huaca i jeśli pokazalibyśmy poddanym, że honorujemy je zbyt poważnie, dalibyśmy im zbyt dużą władzę i autorytet.\nZ drugiej strony mówi się, że ten Huaca jest bardzo potężny, a jego popularność wraz z przysługami, jakie może zapewnić, są bardzo kuszące."
  inti_events.6.a: "Uhonoruj Huaca"
  inti_events.6.b: "Uniknij odwiedzania świątyni."
- inti_events.6.c: "Zmusić wodza do wysłania Huaca do stolicy"
+ inti_events.6.c: "Zmusić wodza do wysłania Huaca do stolicy [Root.Capital.GetCapitalName]."
  inti_events.7.t: "Młodzi mężczyźni i kobiety z [Root.GetName]"
  inti_events.7.d: "Kapłani [Root.GetName] martwią się, że zbyt wielu młodych mężczyzn i kobiet w okolicy pozostaje niezamężnych. Wygląda na to, że wydarzenia sprzysięgły się, aby utrudnić tu dobre małżeństwa dopasowane pod względem poziomu społecznego i ekonomicznego. Nie jest niczym niezwykłym, że [Root.Owner.Monarch.GetTitle] wkracza i siłą aranżuje małżeństwa. Być może nadszedł czas na tak radykalne kroki?"
  inti_events.7.a: "Wyślij księdza, aby wymusił zwiększoną ilość małżeństw."
