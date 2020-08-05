@@ -289,7 +289,7 @@
  personality_events.28.a:0 "Let them compete for the honor to serve in our administration."
  personality_events.28.b:0 "The most talented will be given the right to serve in our armies."
  demanded_support:0 "Demanded Support"
- personality_events.29.t:0 "Legal Reform"
+ personality_events.29.t:0 "Reforma prawa"
  personality_events.29.d:0 "Like many states of similar size the outward unity of [Root.GetName] is partly a mirage. Locally any city, estate or even village may have its own rules and laws since time immemorial. Eager to reduce inconsistent legislation in our country the [Root.Monarch.GetTitle] has been withdrawing privileges and issuing new, nationwide, directives to bring order into chaos. This is, however, not always immediately successful. With a recent government directive is outright being ignored in one part of our country [Root.Monarch.GetName]'s authority is in question."
  personality_events.29.a:0 "Analyze their objections and thoroughly harmonize our legislation."
  local_legal_reform:0 "Local Legal Reform"

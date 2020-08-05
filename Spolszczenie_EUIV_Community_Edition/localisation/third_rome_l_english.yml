@@ -130,7 +130,7 @@
  russian_tsardom_events.4.a:0 "We must make the Tatars Pay!"
  russian_tsardom_events.5.t:0 "The Sobor of $YEAR$"
  russian_tsardom_events.5.d:0 "In times of need the rulers of [Root.GetName] have been able to call upon the people of [Root.Capital.GetCapitalName] to lend their support in important decisions about the continued future of our [Root.GovernmentName]. The participation in such an assembly, or Sobor, is the duty of any upstanding subject of the [Root.Monarch.GetTitle] and can strengthen the national resolve in difficult times.\nPerhaps in this perilous age the time has come to convene a Sobor, so that we can move forward with the support of the people?"
- russian_tsardom_events.5.a:0 "An excellent idea."
+ russian_tsardom_events.5.a:0 "Doskona³y pomys³."
  russian_tsardom_events.5.b:0 "[Root.Monarch.GetName] is the true [Root.Monarch.GetTitle] and requires no such support!"
  russian_tsardom_events.6.t:0 "Expansion of the Bureaucracy"
  russian_tsardom_events.6.d:0 "As our [Root.GovernmentName] expands so does the need for more people to administer it. In the past, we have relied on local provincial governors, but over time the need to increase the number of people in the central chancellery, the [Root.GetAdjective] prikazy, has been growing greater and greater.\nUnless we increase the cadres soon we will not be able to meet the demands for more experienced clerks later on as the bureaucracy keeps on growing."
