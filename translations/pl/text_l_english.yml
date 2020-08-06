@@ -6818,7 +6818,7 @@
  HUMILIATE_WAR_NAME: "$ORDER$ Upokorzenie państwa $SECOND_NAME$ ze strony $FIRST$"
  CONQUEST_WAR_NAME: "$ORDER$ Inwazja $FIRST$ na prowincję $PROVINCE$"
  VASSAL_MISSION_WAR_NAME: "$ORDER$ Ujarzmienie państwa $SECOND_NAME$ rękami $FIRST$"
- SUPPORT_REBELS_WAR_NAME: "$ORDER$Wojna interwencyjna $FIRST$ i $SECOND$"
+ SUPPORT_REBELS_WAR_NAME: "$ORDER$ Wojna interwencyjna $FIRST$ i $SECOND$"
  JIHAD: "Dżihad"
  HOLY_WAR: "Święta wojna"
  DEFECTED_IN_THE_LAST: "Zdrada w ostatniej"
