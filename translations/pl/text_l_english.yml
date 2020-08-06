@@ -6816,7 +6816,7 @@
  PUNITIVE_WAR_NAME: "$ORDER$Wojna odwetowa $FIRST$ i $SECOND$"
  PRIMITIVE_WAR_NAME: "$ORDER$Inwazja $FIRST$ na kraj $SECOND_NAME$"
  HUMILIATE_WAR_NAME: "$ORDER$Upokorzenie państwa $SECOND_NAME$ ze strony $FIRST$"
- CONQUEST_WAR_NAME: "$ORDER$Inwazja $FIRST$ na prowincję $PROVINCE$"
+ CONQUEST_WAR_NAME: "$ORDER$ Inwazja $FIRST$ na prowincję $PROVINCE$"
  VASSAL_MISSION_WAR_NAME: "$ORDER$Ujarzmienie państwa $SECOND_NAME$ rękami $FIRST$"
  SUPPORT_REBELS_WAR_NAME: "$ORDER$Wojna interwencyjna $FIRST$ i $SECOND$"
  JIHAD: "Dżihad"
