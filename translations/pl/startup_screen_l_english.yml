@@ -139,7 +139,7 @@
  string_start_religion_zoroastrian: "[Root.start_religion_intro]\n\nZoroastryzm jest bardzo małą religią i można go znaleźć w prowincji Yazd w Iranie. Nie współdzieli on §YGrupy Religijnej§! z żadną inną §YReligią§! w grze."
  string_start_religion_mayan: "[Root.start_religion_intro][Root.start_mayan_mechanics]\nProwincje Majów można znaleźć przede wszystkim na Półwyspie Jukatan, a Majowie współdzielą swoją wiarę w §YGrupie Religijnej§! z wyznaniem pobliskiego §YNahuatl§!."
  string_start_religion_nahuatl: "[Root.start_religion_intro][Root.start_nahuatl_doom]\nProwincje Nahuatl można znaleźć przede wszystkim w dolinie Meksyku, a Nahuatl współdzieli swoją wiarę w §YGrupie Religijnej§! z wiarą pobliskich §YMajów§!."
- string_start_religion_inti: "[Root.start_religion_intro][Root.start_inti_authority]\nProwincje Inti można znaleźć przede wszystkim w Andach, a Inti współdzielą swoją wiarę w §YGrupie Religijnej§! z wiarą pobliskich §YAnimistów§!."
+ string_start_religion_inti: "[Root.start_religion_intro][Root.start_inti_authority]\nProwincje Inti można znaleźć przede wszystkim w Andach, a Inti współdzielą swoją wiarę w §Ygrupie religijnej§! z wiarą pobliskich §Yanimistów§!."
  string_start_religion_tengri: "[Root.start_religion_intro][Root.start_tengri_syncretism]\nTengryzm pochodzi z Mongolii, a prowincje tengrystyczne można znaleźć głównie w północnej Azji."
  string_start_religion_fetishist: "[Root.start_religion_intro][Root.start_fetishist_cults]\nFetyszyzm pochodzi z Afryki, a wszystkie prowincje fetyszystyczne można znaleźć na kontynencie afrykańskim."
  string_start_religion_hindu: "[Root.start_religion_intro][Root.start_hindu_deities]\nHinduizm pochodzi z Indii, a większość prowincji hinduistycznych można znaleźć na subkontynencie indyjskim."
