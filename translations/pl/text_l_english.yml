@@ -6807,7 +6807,7 @@
  COLONIAL_WAR_NAME: "$ORDER$Wojna kolonialna $FIRST$ i $SECOND$ "
  UNION_WAR_NAME: "$ORDER$Wojna zjednoczeniowa $FIRST$ i $SECOND$"
  LIBERATION_WAR_NAME: "$ORDER$Wojna wyzwoleńcza $FIRST$ i $SECOND$"
- HERETIC_WAR_NAME: "$ORDER$Czystka rękami $FIRST$ z herezji $SECOND$"
+ HERETIC_WAR_NAME: "$ORDER$ Czystka rękami $FIRST$ z herezji $SECOND$"
  BORDER_WAR_NAME: "$ORDER$ Wojna graniczna $FIRST$ i $SECOND$"
  EXCOM_WAR_NAME: "$ORDER$ Wojna ekskomunikacyjna $FIRST$ i $SECOND$"
  TRADE_WAR_NAME: "$ORDER$ Wojna handlowa $FIRST$ i $SECOND$"
