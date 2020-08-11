@@ -6110,7 +6110,7 @@
  PROV_TARIFF_DESCR: "Cła z handlu morskiego stanowią dodatkowe wpływy do budżetu. W celu jego ochrony należy posiadać silną marynarkę."
  PROV_TARIFF_S_DESCR: "Uzyskasz wpływy z cła, jeśli handel ma charakter zamorski."
  TARIFF_FACTOR: "Ściągane cło:"
- TARIFF_EFF: "Obecna stawka celna wynosi §Y$EFF|%1$§W z $INC|Y$¤ dochodu państwa $WHO$, wysyłają $VAL|Y$¤ do nas."
+ TARIFF_EFF: "Obecna stawka celna wynosi §Y$EFF|%1$§W z $INC|Y$¤ dochodu państwa $WHO$, wysyłają do nas $VAL|Y$¤."
  TARIFF_EXTRA: "Następnie jest zwiększane o $VAL|+=$ z powodu:\n$WHY$"
  NO_TARIFF_HERE: "Cło można pobierać tylko w terytoriach zamorskich."
  UNIT_ENABLE_PATROL: "Nie jest patrolowana"
