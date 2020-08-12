@@ -631,7 +631,7 @@
  CUSTOM_NATION: "Własny kraj"
  FE_CUSTOM_NATION_DIFFICULTY: "Trudność własnego kraju"
  FE_CUSTOM_NATION_MAP: "Państwa"
- FE_CUSTOM_NATION_TAX: "Podatek z prowincji i zasoby ludzkie"
+ FE_CUSTOM_NATION_TAX: "Poziom rozwoju prowincji"
  FE_CUSTOM_NATION_ADD_TO_SAVE: "Pozwól dodawać kraje do zapisu gry"
  FE_RANDOM_NATION_NAMING: "Kraje losowe"
  CN_RANDOM_HISTORICAL: "Historycznie"
