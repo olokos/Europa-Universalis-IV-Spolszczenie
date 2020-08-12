@@ -644,7 +644,7 @@
  CN_HARD: "Trudny ($VAL$)"
  CN_VERY_HARD: "Bardzo trudny ($VAL$)"
  CN_DIFFICULTY_TOOLTIP: "Ta opcja określa liczbę punktów otrzymywanych przez gracz podczas tworzenia własnego kraju. Im więcej dostępnych punktów, tym łatwiejszy początek."
- CN_TAX_TOOLTIP1: "Ta opcja określa poziom rozwoju wszystkich prowincji."
+ CN_TAX_TOOLTIP1: "Ta opcja określa podatek podstawowy i zasoby ludzkie wszystkich prowincji."
  CN_TAX_TOOLTIP2: "§YStandardowo:§! Wartości podatków i zasobów ludzkich wszystkich prowincji mają charakter historyczny.\n§YLosowo:§! Wartości podatków i zasobów ludzkich wszystkich prowincji mają charakter losowy.\n§YRównomiernie:§! Wartości podatków i zasobów ludzkich wszystkich prowincji są identyczne."
  CN_ADD_TO_SAVE_TOOLTIP1: "Pozwala na dodawanie nowych własnych krajów po wczytaniu zapisu gry"
  CN_ADD_TO_SAVE_TOOLTIP2: ""
