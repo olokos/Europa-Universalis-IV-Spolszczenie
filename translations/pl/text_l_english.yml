@@ -7324,7 +7324,7 @@
  HISTORY_DISCOVERED_BY: "Odkrywca: §Y$DISCOVERER$§W ze strefy: §Y$GROUP$§W."
  HISTORY_BUILDING_CONSTRUCTED: "Ukończono budowę: §Y$BUILDING$§W."
  HISTORY_BUILDING_DEMOLISHED: "Rozebrano: §Y$BUILDING$§W."
- HISTORY_TRADE_GOODS_CHANGE: "Rozpoczyna handel z: §Y$NEW$§W."
+ HISTORY_TRADE_GOODS_CHANGE: "Rozpoczyna handel towarem §Y$NEW$§W."
  HISTORY_RELIGION_CHANGE: "Porzucili starą wiarę i przyjęli: §Y$RELIGION$§W."
  HISTORY_CULTURE_CHANGE: "Przyjęli kulturę typu: §Y$CULTURE$§W."
  HISTORY_OCCUPIED_BY: "Prowincja była okupowana przez państwo §Y$COUNTRY$§W."
