@@ -672,7 +672,7 @@
  COT_ADD_LEVEL_EFFECT: "Centrum handlowe w $PROVINCE|Y$ zwiększyło się o $DELTA|Y$\n"
  COT_REMOVE_LEVEL_EFFECT: "Centrum handlowe w $PROVINCE|Y$ zmniejszyło się o $DELTA|Y$\n"
  COT_COASTAL: "Nadmorskie"
- COT_INLAND: "Śródlądowy"
+ COT_INLAND: "Śródlądowe"
  COT_DESCRIPTION_SHORT: "$NAME|Y$ (Poziom $LEVEL|Y$ $TYPE$ centrum handlowego)\n"
  COT_UPGRADE_DOWNGRADE: "Kliknij LPM lub PPM aby ulepszyć lub obniżyć"
  COT_DESCRIPTION: "$DESCRIPTION$\n$NAME|Y$ daje następujące korzyści:\n\n$MODIFIERS$\n"
