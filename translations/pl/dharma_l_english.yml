@@ -459,7 +459,7 @@
  CULTURE_VIEW_IS_ASSIMILATED_CULTURE: "Kultura $NAME|Y$ została zasymilowana poprzez posiadanie wszystkich prowincji, więc nie daje nam żadnych kar."
  CULTURE_VIEW_GROUP_NOT_ASSIMILATED: "Posiadamy $OWNED|Y$ prowincji z $PROVINCES|Y$ tej grupy kulturowej. Musimy posiadać je wszystkie, aby zasymilować grupę kulturową i uzyskać efekty."
  CULTURE_VIEW_GROUP_CONTAINS: "Grupa kulturowa $GROUP|Y$ zwiera następujące kultury:\n"
- CANNOT_CHANGE_LEVEL_LOCKED: "Nie możesz zmienić swojej reformy na tym poziomie ponieważ uchwaliłeś REFORM|Y$."
+ CANNOT_CHANGE_LEVEL_LOCKED: "Nie możesz zmienić swojej reformy na tym poziomie ponieważ uchwalono $REFORM|Y$."
  FROM_REFORM: "Reforma $REFORM|Y$"
  LOSE_REFORMS: "Utrata $NUM|Y$ reformy rządowej.\n"
  ASSIMILATED_CULTURES: "Zasymilowane kultury"
