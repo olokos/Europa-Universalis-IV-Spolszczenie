@@ -497,7 +497,7 @@
  superiority_chinese_unification:0 "Podbij Chiny"
  superiority_chinese_unification_desc:0 "Celem wojny jest okazanie pozosta³ym chiªskim paªstwom naszej wy¿szoœci."
  CHINESE_UNIFICATION_WAR_NAME:0 "$ORDER$Wojna $FIRST$ i $SECOND$ o hegemoni² nad Chinami"
- CELESTIAL_EMPIRE_WAR_NAME:0 "$ORDER$$FIRST$-$SECOND$ wojna o Mandate of Heaven"
+ CELESTIAL_EMPIRE_WAR_NAME:0 "$ORDER$$FIRST$-$SECOND$ wojna o mandat niebios"
  FORCE_MIGRATION_WAR_NAME:0 "$ORDER$Wymuszona wojna $FIRST$ i $SECOND$ o wymuszenie migracji"
  IN_WARGOAL_COST:0 "Jest cz²œci¹ celu wojny i nie b²dzie skutkowa¾ ¿adnym dodatkowym kosztem dla paªstwa $WHO|Y$!"
  NOT_IN_WARGOAL_COST:0 "Nie jest cz²œci¹ celu wojny i b²dzie wymaga¾ od paªstwa $WHO|Y$! poniesienia dodatkowego kosztu §Y$COST$§!£dip."

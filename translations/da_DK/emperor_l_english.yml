@@ -1012,3 +1012,6 @@
  emperor_landfriede: ""
  ESTATE_NOT_ENOUGH_CROWNLAND: ""
  EXPAND_EMPIRE_CB: ""
+ force_peasant_republic_desc: ""
+ CB_ALLOWED_force_peasant_republic: ""
+ PEACE_force_peasant_republic: ""

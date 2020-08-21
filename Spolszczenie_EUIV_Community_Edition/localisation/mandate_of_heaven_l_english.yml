@@ -6,7 +6,7 @@
  ISOLATIONISM_SAME:0 "To jest to równe poziomowi naszego Izolacjonizmu, daj¹c nam:\n$EFFECTS$\n"
  TRIBUTARY_NOT_HORDE_OR_EASTERN_RELIGION:0 "Only the Celestial Emperor, countries in the Eastern religion group and countries with Steppe Nomad Government can establish Tributary States."
  TRIBUTARY_IS_TRIBUTARY:0 "Tributaries cannot establish Tributary States."
- TRIBUTARYTITLE:0 "Establish Tributary"
+ TRIBUTARYTITLE:0 "Utwórz trybut"
  TRIBUTARYDESC:0 "Suggest that they become a Tributary State under us."
  CANCELTRIBUTARYTITLE:0 "Anuluj trybut"
  CANCELTRIBUTARYDESC:0 "Cancel our Tributary State arrangement."
