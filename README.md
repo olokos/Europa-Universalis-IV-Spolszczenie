@@ -3,11 +3,11 @@ Europa Universalis IV Community Translation / Spolszczenie
 Spolszczenie do najnowszej wersji Europa Universalis 1.30  
 Działa bezproblemowo z każdą wersją gry 1.30
 
-Stan w  wersji 2.8.5 [04.08.2020]:
+Stan w  wersji 2.8.6 [21.08.2020]:
 ---
- * 17,537 sprawdzonych wpisów
- * 68,954 przetłumaczonych wpisów
- * 22,830 nieprzetłumaczonych wpisów
+ * 17,683 sprawdzonych wpisów
+ * 69,392 przetłumaczonych wpisów
+ * 22,395 nieprzetłumaczonych wpisów
 
 Jest to obecnie najpełniejsze spolszczenie, stworzone przez społeczność gry.
 Pracę projektu obejmuą 105 plików z czego do przetłumaczenia pozostało 32.
