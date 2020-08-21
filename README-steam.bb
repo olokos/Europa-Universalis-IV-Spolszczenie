@@ -42,7 +42,7 @@ If you want to request a new language, make sure you can translate at least 10% 
 Once you are on the site above - press on "Help Translate" button on the right to help translating it in your language!
 
 [h2]Jak się dołączyć?[/h2]
-Po więcej informacji zapraszamy na serwer discord [url=https://discord.gg/QUB7z23]]Dostępny Tutaj[/url]
+Po więcej informacji zapraszamy na serwer discord [url=https://discord.gg/QUB7z23]Dostępny Tutaj[/url]
 
 Jeżeli chcesz dołączyć się do prac nad spolszczeniem - daj znać na serwerze discord i dołącz poprzez link poniżej.
 
