@@ -4239,7 +4239,7 @@
  CONTROLS: "Mysz "
  IS_NOT: "Nie występuje: "
  IS: "jest "
- SIMPLE_TRIGGER_AT_LEAST: "$VALUENAME$ co najmniej"
+ SIMPLE_TRIGGER_AT_LEAST: "$VALUENAME$ co najmniej "
  SIMPLE_TRIGGER_LESS_THAN: "$VALUENAME$ mniej niż"
  PROVINCE_MODIFIERS: "Modyfikator prowincji"
  HAVE_THE_MODIFIER: "Ma modyfikator "
