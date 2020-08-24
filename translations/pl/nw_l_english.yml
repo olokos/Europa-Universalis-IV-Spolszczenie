@@ -4,7 +4,7 @@
  LIBERTY_DESIRE_CURRENT_DESC: "Dążenia niepodległościowe oznaczają dążenie kolonii do niepodległości. Zwiększanie opłat celnych skutkuje wzrostem dążeń niepodległościowych w perspektywie czasu."
  LIBERTY_DESIRE_CURRENT_LIMITS: "Dążenia niepodległościowe oznaczają dążenie kraju do niepodległości. Jeśli przekroczą one §Y$VAL$%§!, może wybuchnąć powstanie."
  INCREASE_TARIFFS: "Podnieś cła"
- INCREASE_TARIFFS_DESC: "Wydaj $POINTS|R$ $TYPE$, aby podnieść cło o $TARIFFS|%0G$ (obecnie jego wartość wynosi $WORTH|Y$¤ miesięcznie). Zwiększy to również dążenia niepodległościowe kraju $COUNTRY|Y$ o §R$LIBERTY|0$%§!."
+ INCREASE_TARIFFS_DESC: "Wydaj $POINTS|R$ $TYPE$, aby podnieść cła o $TARIFFS|%0G$ (obecnie jego wartość wynosi $WORTH|Y$¤ miesięcznie). Zwiększy to również dążenia niepodległościowe kraju $COUNTRY|Y$ o §R$LIBERTY|0$%§!."
  INCREASE_TARRIF_MAX: "Stawka celna osiągnęła już maksymalny poziom."
  INCREASE_TARIFFS_NO_POWER: "Potrzebujesz §Y$VAL$§! $TYPE$, aby podnieść cło."
  DECREASE_TARIFFS: "Obniżenie cła"
