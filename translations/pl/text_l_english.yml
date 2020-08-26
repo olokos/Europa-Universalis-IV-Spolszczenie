@@ -7328,7 +7328,7 @@
  HISTORY_RELIGION_CHANGE: "Porzucili starą wiarę i przyjęli: §Y$RELIGION$§W."
  HISTORY_CULTURE_CHANGE: "Przyjęli kulturę typu: §Y$CULTURE$§W."
  HISTORY_OCCUPIED_BY: "Prowincja była okupowana przez państwo §Y$COUNTRY$§W."
- HISTORY_LIBERATED_BY: "Prowincja została uwolniona spod okupacji §Y$OLD_ADJ$§W."
+ HISTORY_LIBERATED_BY: "Prowincja została uwolniona od okupanta, którym jest §Y$OLD_ADJ$§W."
  HISTORY_CORE_ADD: "Stała się prowincją narodową państwa §Y$COUNTRY$§W."
  HISTORY_CORE_REMOVE: "Przestała być prowincją narodową państwa §Y$COUNTRY$§W."
  HISTORY_JOINED_EMPIRE: "Prowincja dołączyła do Świętego Cesarstwa Rzymskiego."
