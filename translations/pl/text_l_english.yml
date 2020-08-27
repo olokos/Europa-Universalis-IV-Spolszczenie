@@ -4780,7 +4780,7 @@
  TOLERANCE_TO_RELIGION_GREATER_THAN: "Tolerancja religijna większa niż "
  ANY_KNOWN_COUNTRY_STARTS: "Każdy znany kraj"
  EXTRA_NATIONALISM_DESC: "$DIRECTION$ $VALUE$ lat separatyzmu w prowincji $WHERE$.\n"
- MODIFIER_TOLERANCE_OWN: "Tolerancja dla Prawdziwej Wiary"
+ MODIFIER_TOLERANCE_OWN: "Tolerancja dla prawdziwej wiary"
  MODIFIER_TOLERANCE_HERETIC: "Tolerancja dla heretyków"
  MODIFIER_TOLERANCE_HEATHEN: "Tolerancja dla pogan"
  TOLERANCE_DESC: "Tolerancja oznacza akceptację obecności innych religii w twoim narodzie. Niska tolerancja ma negatywny wpływ na prowincje, na przykład zwiększa lokalne i globalne niepokoje społeczne."
