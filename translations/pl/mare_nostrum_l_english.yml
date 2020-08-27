@@ -7,7 +7,7 @@
  LEADS_TRADE_LEAGUE: "Przewodzi lidze handlowej"
  ANOTHER_MAX_STATE: "Pozwala innemu stanowi"
  GOV_MAX_STATES: "Stanów maksymalnie: $NUM$"
- MAX_STATE_TITLE_TECH: "Zdolność Zarządzania"
+ MAX_STATE_TITLE_TECH: "Zdolność zarządzania"
  MAKESTATE_NOT_CORE: "$NAME$ nie ma charakteru narodowego.\n"
  STATE_MAINTENANCE_MODIFIER: "Utrzymanie stanu"
  ECONOMY_STATE_MAINTENANCE_DRO: "Utrzymanie stanu to comiesięczny koszt administracji w stanach, które nie są naszą stolicą. Oblicza się je na podstawie całkowitego poziomu rozwoju i odległości do stolicy."
