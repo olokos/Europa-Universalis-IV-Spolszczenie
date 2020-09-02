@@ -339,7 +339,7 @@
  TRADE_LEAGUE_WILL_TRANSFER_TO_LEADER: "Członek ligi handlowej nie może teraz transferować siły handlowej, ponieważ musi ją transferować do przywódcy ligi."
  SUBJECT_MUST_TRANSFER_TO_OVERLORD: "$SUBJECT_TYPE$ musi przekazywać siłę handlową swemu suwerenowi. "
  COLONY_MOST_TRANSFER_TO_OVERLORD: "Kolonia musi przekazywać siłę handlową swemu suwerenowi."
- NO_COMMON_TRADE_NODE: "Nie dzieli się siłą handlową w żadnym ośrodku handlowym."
+ NO_COMMON_TRADE_NODE: "Nie dzieli się siłą handlową w żadnym węzłem handlowym."
  IS_TRANSFERING_TRADE_POWER: "Przekazują nam już siłę handlową."
  IS_NOT_TRANSFERING_TRADE_POWER: "Nie przekazują nam siły handlowej."
  TRANSFERING_TO_OTHER: "Przekazują już siłę handlową państwu $WHO$."
