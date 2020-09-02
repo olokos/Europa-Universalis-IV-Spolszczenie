@@ -239,7 +239,7 @@
  HINT_TRADEPOWER_TITLE: "Siła handlowa"
  HINT_TRADEPOWER_TEXT: "Siła handlowa wpływa bezpośrednio na wielkość handlu, jaką kontrolujesz w węźle handlowym. Jej wartość zależy od prowincji oraz od lekkich okrętów wykonujących działanie ochrony handlu. Statki te są kluczowym elementem w rywalizacji o kontrolę nad ośrodkiem handlowym. Siła handlowa określa wartość handlu, jaką możesz sterować, oraz wielkość dochodu, jaką możesz pozyskać."
  HINT_TRADEVALUE_TITLE: "Wartość handlu"
- HINT_TRADEVALUE_TEXT: "Prowincje produkują towary handlowe, które mają swoją wartość. Ilość produkowanych towarów oraz ich wartość tworzą razem wartość handlu. Wartość handlu przesyłana jest do ośrodka handlowego w celu oszacowania handlu na jego terenie. Jest też używana do określenia dochodu z produkcji w prowincji."
+ HINT_TRADEVALUE_TEXT: "Prowincje produkują towary handlowe, które mają swoją wartość. Ilość produkowanych towarów oraz ich wartość tworzą razem wartość handlu. Wartość handlu przesyłana jest do węzła handlowego w celu oszacowania handlu na jego terenie. Jest też używana do określenia dochodu z produkcji w prowincji."
  HINT_TRADEGOODS_TITLE: "Tow. handl."
  HINT_TRADEGOODS_TEXT: "Każda prowincja produkuje określony rodzaj towarów handlowych. Należą do nich ryby, materiały okrętowe, zboże, miedź, żelazo, wino, sukno, wełna, sól, złoto, towary orientalne, przyprawy, niewolnicy i kość słoniowa. Złoto jest jedynym towarem, którym nie można handlować, a które bezpośrednio przekłada się na dochody z produkcji."
  HINT_PAPALCONTROLLER_TITLE: "Kontrola nad papiestwem"
