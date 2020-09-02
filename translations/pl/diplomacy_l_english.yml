@@ -755,7 +755,7 @@
  GRANTFREECITYREQDESC_REFORM: "\n§RJeśli zaakceptujemy, nasza obecnie uchwalona reforma rządowa $CURRENT|Y$ poziomu 1 zostanie zniesiona.§!"
  DEMANDUNLAWFULTERRITORYREQDESC: "Cesarz $ACTOR$ żąda zwrotu prowincji $PROV|Y$ do Świętego Cesarstwa Rzymskiego. Odrzucenie tego żądania znacząco wpłynie na nasze stosunki z ŚCR."
  DEMANDUNLAWFULTERRITORYREQDENYEFFECTS: "Odrzucenie żądania będzie miało następujące skutki:\nCesarz otrzyma casus belli przeciwko tobie.\nEfekty w prowincji:\n$PROVEFFECT$\n\nModyfikator opinii członków ŚCR:\n$OPINIONEFFECT$"
- TRANSFERTRADEPOWERDESC: "$ACTOR$ chciałby, żebyśmy przekazali mu $VAL|0%$ naszej siły handlowej we wszystkich wspólnych ośrodkach handlowych. Zgadzasz się?"
+ TRANSFERTRADEPOWERDESC: "$ACTOR$ chciałby, żebyśmy przekazali mu $VAL|0%$ naszej siły handlowej we wszystkich wspólnych węzłach handlowych. Zgadzasz się?"
  revoke_elector_opinion: "Zrezygnowano z elektoratu"
  grant_freecity: "Nadano status wolnego miasta"
  removed_our_freecity: "Odebrano status wolnego miasta"
