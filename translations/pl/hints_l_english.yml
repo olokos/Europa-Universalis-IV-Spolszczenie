@@ -237,7 +237,7 @@
  HINT_BASETAX_TITLE: "Podatek podst."
  HINT_BASETAX_TEXT: "Podatek podstawowy to ważny parametr, reprezentujący wartość prowincji. Wyraża jej poziom zaludnienia, jakość gleby oraz infrastrukturę. Określa cenę, jaką trzeba będzie zapłacić za przekształcenie prowincji w narodową, lub za zmianę jej kultury bądź religii. Podatek podstawowy należy do czynników decydujących o twoim limicie sił lądowych oraz limicie sił morskich w prowincjach nadmorskich."
  HINT_TRADEPOWER_TITLE: "Siła handlowa"
- HINT_TRADEPOWER_TEXT: "Siła handlowa wpływa bezpośrednio na wielkość handlu, jaką kontrolujesz w węźle handlowym. Jej wartość zależy od prowincji oraz od lekkich okrętów wykonujących działanie ochrony handlu. Statki te są kluczowym elementem w rywalizacji o kontrolę nad ośrodkiem handlowym. Siła handlowa określa wartość handlu, jaką możesz sterować, oraz wielkość dochodu, jaką możesz pozyskać."
+ HINT_TRADEPOWER_TEXT: "Siła handlowa wpływa bezpośrednio na wielkość handlu, jaką kontrolujesz w węźle handlowym. Jej wartość zależy od prowincji oraz od lekkich okrętów wykonujących działanie ochrony handlu. Statki te są kluczowym elementem w rywalizacji o kontrolę nad węzłem handlowym. Siła handlowa określa wartość handlu, jaką możesz sterować, oraz wielkość dochodu, jaką możesz pozyskać."
  HINT_TRADEVALUE_TITLE: "Wartość handlu"
  HINT_TRADEVALUE_TEXT: "Prowincje produkują towary handlowe, które mają swoją wartość. Ilość produkowanych towarów oraz ich wartość tworzą razem wartość handlu. Wartość handlu przesyłana jest do węzła handlowego w celu oszacowania handlu na jego terenie. Jest też używana do określenia dochodu z produkcji w prowincji."
  HINT_TRADEGOODS_TITLE: "Tow. handl."
