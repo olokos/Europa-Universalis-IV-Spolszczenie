@@ -30,7 +30,7 @@
  is_vassal: "Wasal"
  in_union: "Unia"
  in_protectorate: "Protektorat"
- is_tributary: "Stan Zależny"
+ is_tributary: "Stan zależny"
  they_forced_tributary: "Przymusowy trybut"
  tributary_state_broke_free: "Zerwali trybut"
  tributary_state_abandoned: "Zaniechali trybut"
