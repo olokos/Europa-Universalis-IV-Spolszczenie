@@ -4678,7 +4678,7 @@
  HISTORY_BECAME_COT: "Utworzono węzeł handlowy."
  HISTORY_LOST_COT: "Przestał być węzłem handlowym."
  LEDGER_COT_STATISTICS_SHILEDS_S: "Dwukrotne kliknięcie spowoduje wysłanie kupca do wybranego węzła handlowego."
- LEDGER_COT_STATISTICS_SHILEDS_L: "Ta funkcja umożliwia szybkie wysyłanie kupców przy minimalnym wysiłku, do ośrodków handlu na całym świecie."
+ LEDGER_COT_STATISTICS_SHILEDS_L: "Ta funkcja umożliwia szybkie wysyłanie kupców przy minimalnym wysiłku, do węzłach handlowych na całym świecie."
  CCOT_NOT_OWNED: "Możesz utworzyć węzły handlowe tylko w prowincjach, których jesteś właścicielem."
  CCOT_NOT_CONTROLLED: "Musisz kontrolować prowincję, aby utworzyć w niej węzeł handlowy."
  CCOT_SIEGE: "Nie jest możliwe stworzenie węzła handlowego, jeśli w prowincji trwa oblężenie."
