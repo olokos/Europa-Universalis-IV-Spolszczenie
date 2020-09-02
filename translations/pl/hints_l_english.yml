@@ -122,7 +122,7 @@
  HINT_TAXES_TITLE: "Podatki"
  HINT_TAXES_TEXT: "Podatki pobierane są z prowincji i powiązane są bezpośrednio z podatkiem podstawowym. Wysokość zbieranych podatków w prowincji zależy od wzrostu jej podatku podstawowego, tego, czy jest ona prowincją narodową oraz od poziomu niepokojów społecznych. Dochody z podatków zwiększane są przez współczynnik efektywności podatkowej."
  HINT_TRADE_TITLE: "Handel"
- HINT_TRADE_TEXT: "Handel może być głównym źródłem dochodów państwa. Świat podzielony jest pomiędzy ośrodki handlowe. Cała wartość handlu wyprodukowana w prowincji trafia do powiązanego z nią ośrodka handlowego, w którym możesz sterować handlem, lub pobierać przychód. Bardzo ważnym parametrem jest siła handlowa, która określa, ile ośrodków handlowych możesz kontrolować. Na wartość dochodów z handlu bezpośrednio wpływa wydajność handlu."
+ HINT_TRADE_TEXT: "Handel może być głównym źródłem dochodów państwa. Świat podzielony jest pomiędzy węzły handlowe. Cała wartość handlu wyprodukowana w prowincji trafia do powiązanego z nią węzła handlowego, w którym możesz sterować handlem, lub pobierać przychód. Bardzo ważnym parametrem jest siła handlowa, która określa, ile węzłów handlowych możesz kontrolować. Na wartość dochodów z handlu bezpośrednio wpływa wydajność handlu."
  HINT_INCOME_TITLE: "Dochód"
  HINT_INCOME_TEXT: "Dochód pochodzi z podatków, produkcji i cła. Podatki pobierane są od prowincji. Dochód z nich może być zwiększony dzięki wydajności podatkowej. Produkcja jest pochodną wartości handlu w prowincji. Dochód z niej może być zwiększony dzięki wydajności produkcji. Cła reprezentują dochód z państw kolonijnych. Niektóre idee umożliwiają zwiększenie dochodu z cła."
  HINT_ROYALMARRIAGE_TITLE: "Królewski mariaż"
