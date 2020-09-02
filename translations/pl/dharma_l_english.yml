@@ -4,7 +4,7 @@
  CHANGE_GOVERNMENT_REFORM_PROGRESS: "$DIRECTION$ $VALUE$ Postęp Reformy Rządowej.\n"
  SCORNFUL_DESC: "Pogardliwa zniewaga dwukrotnie pogorszy naszą opinię, ale także uczyni ich wrogów podobnymi do nas. To kosztuje §Y5§! prestiżu."
  SCORNFUL_ENEMIES_DESC: "§YWróg państwa $COUNTRY$§!"
- SCORNFUL: "Pogardliwa Zniewaga"
+ SCORNFUL: "Pogardliwa zniewaga"
  RANDOM_SCORNFUL_INSULT: "Losuj nową zniewagę"
  PREVIOUS_SCORNFUL_INSULT: "Powrót do uprzedniej zniewagi."
  POLICY_MP_COST: "Polityki: §R-§!$COST|R$\n"
