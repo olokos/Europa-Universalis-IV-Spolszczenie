@@ -31,7 +31,7 @@
  in_union: "Unia"
  in_protectorate: "Protektorat"
  is_tributary: "Stan Zależny"
- they_forced_tributary: "Przymusowa danina"
+ they_forced_tributary: "Przymusowa trybut"
  tributary_state_broke_free: "Zerwali trybut"
  tributary_state_abandoned: "Zaniechali trybut"
  tributary_refused_tribute: "Odmówili trybutu"
