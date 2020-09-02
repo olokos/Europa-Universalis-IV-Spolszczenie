@@ -263,7 +263,7 @@
  HINT_TRADENODE_TITLE: "Węzeł handlowy"
  HINT_TRADENODE_TEXT: "Wartość handlowa z prowincji spływa do przypisanego węzła handlowego. Świat podzielony jest na wiele takich węzłów, a każda prowincja przypisana jest  do jednego z nich. Wartość handlowa może przepływać z jednego węzła do drugiego w kierunku wychodzącym. Siła handlowa jest kluczem do czerpania zysków z danego węzła, lub określenia transferowanej zeń wartości handlowej. Nie można wyprowadzać handlu z Wenecji, Genui i Kanału La Manche."
  HINT_TRADEPOST_TITLE: "Placówka handlowa"
- HINT_TRADEPOST_TEXT: "Republiki kupieckie mogą zakładać w swoich prowincjach placówki handlowe. Takie placówki zapewniają prowincji dodatkową siłę handlową oraz zwiększają limit sił morskich. Republika kupiecka może mieć tylko jedną placówkę handlową w danym węźle i nie może zakładać ich w swoim głównym ośrodku handlowym."
+ HINT_TRADEPOST_TEXT: "Republiki kupieckie mogą zakładać w swoich prowincjach placówki handlowe. Takie placówki zapewniają prowincji dodatkową siłę handlową oraz zwiększają limit sił morskich. Republika kupiecka może mieć tylko jedną placówkę handlową w danym węźle i nie może zakładać ich w swoim głównym węźle handlowym."
  HINT_FORTDEFENSE_TITLE: "Ufortyfikowanie"
  HINT_FORTDEFENSE_TEXT: "Obronność fortu bezpośrednio wpływa na długość trwania poszczególnych faz oblężenia. Standardowo jedna faza trwa 30 dni; posiadanie +50% do obronności fortu przedłuży fazę do 45 dni."
  HINT_EMPEROR_TITLE: "Cesarz Świętego Cesarstwa Rzymskiego"
