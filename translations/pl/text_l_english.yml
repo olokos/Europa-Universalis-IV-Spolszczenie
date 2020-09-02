@@ -6925,7 +6925,7 @@
  CB_ALLOWED_CHANGE_HRE_RELIGION: "Dominacja religijna"
  ENFORCED_VASSALAGE: "Wasal państwa $WHO$"
  ENFORCED_PROTECTORATE: "Protektorat państwa $WHO$"
- ENFORCED_TRIBUTARY: "Stan Zależny państwa: $WHO$"
+ ENFORCED_TRIBUTARY: "Stan zależny państwa: $WHO$"
  ANNUL_TREATY_WITH: "Unieważnij traktat z państwem $WHO$"
  NO_DEMAND: "Żadnych żądań"
  LARGE_AMOUNT_NATIONS: "duża liczba narodów."
