@@ -4697,7 +4697,7 @@
  DCOT_NOT_CONTROLLED: " Możesz niszczyć węzły handlowe tylko w tych prowincjach, które kontrolujesz."
  DCOT_SIEGE: "Nie jest możliwe zniszczenie węzła handlowego, jeśli w prowincji trwa oblężenie."
  DCOT_ALREADY: "W tej prowincji nie ma węzła handlowego."
- DCOT_MIN_VALUE: "Możesz zniszczyć węzeł handlowy, tylko jeśli jest wystarczająco biedny. Ośrodek w mieście $WHO$ ma obecnie wartość $CURRENT$, podczas gdy musi być wart mniej niż $VALUE$."
+ DCOT_MIN_VALUE: "Możesz zniszczyć węzeł handlowy, tylko jeśli jest wystarczająco biedny. Węzeł w mieście $WHO$ ma obecnie wartość $CURRENT$, podczas gdy musi być wart mniej niż $VALUE$."
  DCOT_DOIT: "Zniszcz ten węzeł handlowy."
  PROV_TRADE_VALUE: "Wartość wniesiona do węzła handlowego."
  TRADETOFAR: "Węzeł handlowy znajduje się §Y$VAL$§W od naszej najbliższej prowincji. Nasz maksymalny zasięg wynosi §Y$MAX$§W."
