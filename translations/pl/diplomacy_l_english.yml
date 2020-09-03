@@ -611,7 +611,7 @@
  CONVERT_RELIGION: "$WHO$ nawróci się na $RELIGION$. "
  BECOME_VASSAL_2: "$WHO$ stanie się wasalem państwa $BOSS$. "
  BECOME_PROTECTORATE: "$WHO$ stanie się protektoratem państwa $BOSS$. "
- BECOME_TRIBUTARY: "$WHO$ stanie się Stanem Zależnym państwa $BOSS$. "
+ BECOME_TRIBUTARY: "$WHO$ stanie się stanem zależnym państwa $BOSS$. "
  BECOME_TRIBUTARY_TRADE_LEAGUE: "$WHO$ opuści ich Ligę Handlową."
  BECOME_UNION: "Kraje $FIRST$ i $SECOND$ utworzą unię personalną, którą rządzić będzie $NAME$."
  SECEDE_PROVINCES: "$WHO$ zrzeknie się prowincji $WHAT$ na rzecz państwa $TO$."
