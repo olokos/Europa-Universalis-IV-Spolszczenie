@@ -59,7 +59,7 @@
  tributary_state: "Stan Zależny"
  tributary_state_title: "Stan zależny"
  tributary_state_title_plural: "Stany zależne"
- tributary_state_is_our: "§Y$NAME$§! jest naszym Stanem zależnym."
+ tributary_state_is_our: "§Y$NAME$§! jest naszym stanem zależnym."
  tributary_state_long_desc: "Stan Zależny musi co roku składać hołd swojemu zwierzchnikowi w zamian za ochronę przed wojnami z innymi niepodległymi narodami. Stany Zależne nie podążają za swoim Zwierzchnikiem w wojnie i mają swobodę prowadzenia własnej dyplomacji."
  dummy: "Marionetka"
  dummy_title: "Marionetka"
