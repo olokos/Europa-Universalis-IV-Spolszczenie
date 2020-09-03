@@ -56,7 +56,7 @@
  relation_ally: "sojusznik"
  relation_marry: "ma królewski mariaż z krajem"
  THEIR_SUBJECT_TYPE_NO_ALLOW: "Oni są $SUBJECTTYPE$."
- tributary_state: "Stan Zależny"
+ tributary_state: "Stan zależny"
  tributary_state_title: "Stan zależny"
  tributary_state_title_plural: "Stany zależne"
  tributary_state_is_our: "§Y$NAME$§! jest naszym stanem zależnym."
