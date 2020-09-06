@@ -1031,7 +1031,7 @@
  ENABLE: "Włącz"
  DISABLE: "Wyłącz"
  ND_COST_START: "Obecny koszt twojego państwa wynika z następujących czynników:  "
- ND_DISABLED_BY_GOVERNMENT: "§RTwoja Forma Ustroju na to nie pozwala§!"
+ ND_DISABLED_BY_GOVERNMENT: "§RTwoja forma ustroju na to nie pozwala§!"
  ND_TOGGLE_USE_HEIR: "Władca posiada następcę."
  ND_TOGGLE_USE_CONSORT: "Władca posiada małżonka."
  ND_PART_COST: "§YKoszt§!"
