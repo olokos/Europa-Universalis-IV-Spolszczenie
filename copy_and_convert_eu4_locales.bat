@@ -1,7 +1,7 @@
 @echo off
 :: SCRIPT SETTINGS
 set charset="polish"
-set parser_version="0.1.9"
+set parser_version="0.1.10"
 
 ::
 echo Ten skrypt kopiuje pliki jezykowe z ".../EUIV/localisation/" oraz konwertuje je na format YAML. Przekonwertowane pliki zostana przeniesione do "translations/en/".
