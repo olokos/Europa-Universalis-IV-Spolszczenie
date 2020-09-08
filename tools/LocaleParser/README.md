@@ -12,3 +12,9 @@ Europa Universalis IV locale parser. The purpose of this tool is to provide an e
 * Install Maven.
 * Clone the repository and run the following command from command line:
 `mvn clean package`
+
+# Compatibility
+* EUIV
+* CK2 (should work, not tested)
+* CK3 (should work, not tested)
+* Other Paradox games following the same file structure (???)
