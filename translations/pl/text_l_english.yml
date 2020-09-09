@@ -7548,7 +7548,7 @@
  TAKE_MANDATE_PO_LIST_TEXT: "Żądaj mandatu niebios"
  TAKE_MANDATE_PO_TOOLTIP: "Żądaj mandatu niebios od fałszywego pretendenta z kraju $CURRENTHOLDER|Y$!"
  TAKE_MANDATE_PO_NOT_EMPEROR: "Kraj $COUNTRYNAME$ nie ma Mandatu Niebios."
- lost_mandate_of_heaven: "Utracony Mandat Niebios"
+ lost_mandate_of_heaven: "Utracony mandat niebios"
  cb_revolutionary: "Wojna rewolucyjna"
  cb_revolutionary_desc: "Oni są naszymi wrogami ideowymi!"
  SRU: "Saruhanu"
