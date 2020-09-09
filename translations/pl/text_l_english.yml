@@ -7545,7 +7545,7 @@
  ALL_NATIVES: "Wszyscy tubylcy"
  ALL_CHINESE_PROVS: "Wszystkie prowincje subkontynentu chińskiego"
  CHINESE_EMPIRE_COUNTRY: "Cesarz Chin"
- TAKE_MANDATE_PO_LIST_TEXT: "Żądaj Mandatu Niebios"
+ TAKE_MANDATE_PO_LIST_TEXT: "Żądaj mandatu niebios"
  TAKE_MANDATE_PO_TOOLTIP: "Żądaj Mandatu Niebios od fałszywego pretendenta z kraju $CURRENTHOLDER|Y$!"
  TAKE_MANDATE_PO_NOT_EMPEROR: "Kraj $COUNTRYNAME$ nie ma Mandatu Niebios."
  lost_mandate_of_heaven: "Utracony Mandat Niebios"
