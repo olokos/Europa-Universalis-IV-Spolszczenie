@@ -2831,7 +2831,7 @@
  TRIGGER_OVERLORD: "Liege"
  LEDGER_SUPPLY_LIMIT: "Limit zapasów"
  LEDGER_COLONIAL_RANGE: "Maks. odl. kolonii"
- MODIFIER_COLONIAL_RANGE: "Zasięg kolonii"
+ MODIFIER_COLONIAL_RANGE: "Zasięg kolonialny"
  LOG_SETTING_PAUSE: "Pauza przy wyskakującym oknie"
  SM_WATER: "Ulepszona woda"
  hungarian_hussarDESCR: "Doskonała węgierska kawaleria, znana w całej Europie ze względu na swoją dyscyplinę i umiejętności."
