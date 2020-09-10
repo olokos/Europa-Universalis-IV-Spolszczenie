@@ -2271,7 +2271,7 @@
  CHARTERCOMPANY_REQDESC: "$ACTOR$ proponuje zakup naszej prowincji $PROV$ za kwotę §Y$PRICE$§!¤, aby utworzyć Kompanię Handlową. Zgadzasz się?"
  CHARTERCOMPANYTITLE: "Kup prowincję, aby uczynić ją Kompanią Handlową"
  CHARTERCOMPANY_OFFDESC: "Proponujesz państwu $RECIPIENT$ sprzedaż ich prowincji $PROV|Y$. Zapłacisz $BASE|Y$¤ punktów administracji i otrzymasz $GAIN|Y$¤, aby osłodzić transakcję."
- CHARTERCOMPANY_EXPENSEDESC: "Musisz ponieść minimalny koszt w wysokości $BASE|Y$¤ wynikający z Twojej rangi kolonialnej, zaś $GAIN|Y$¤ zostanie Ci dodane, aby osłodzić tę transakcję."
+ CHARTERCOMPANY_EXPENSEDESC: "Musisz ponieść minimalny koszt w wysokości $BASE|Y$¤ wynikający z twojego zasięgu kolonialnego, zaś $GAIN|Y$¤ zostanie Ci dodane, aby osłodzić tę transakcję."
  SELLPROV_REQDESC: "$ACTOR$ proponuje nam zakup prowincji $PROV$ za kwotę §Y$PRICE$§!¤. Zgadzasz się?"
  SELLSHIPS_REQDESC: "$ACTOR$ proponuje, że flota $FLEETNAME$, tworzona przez $COMPOSITION$, przejdzie na naszą własność za kwotę §Y$PRICE$§!¤. Zgadzasz się?"
  SELLPROVTITLE: "Sprzedaj prowincję"
