@@ -7261,7 +7261,7 @@
  privilegia_de_non_appelando_emperor: "Przywileje cofnięte"
  desc_privilegia_de_non_appelando_emperor: "Privilegia de non appelando zostało cofnięte w całym Cesarstwie."
  EFFECTIVE_DISTANCE: "Odległość efektywna"
- COL_MAPMODE_CAN_COLONIZE: "Ta prowincja znajduje się w naszym zasięgu kolonizacyjnym i może zostać skolonizowana."
+ COL_MAPMODE_CAN_COLONIZE: "Ta prowincja znajduje się w naszym zasięgu kolonialnego i może zostać skolonizowana."
  COL_MAPMODE_COLONIST: "$COLONIST$ pracuje obecnie nad założeniem tu kolonii."
  COL_MAPMODE_TO_FAR: "Ta prowincja znajduje się zbyt daleko, aby zostać skolonizowaną."
  COL_MAPMODE_CANNOT: "Ta prowincja nie może być skolonizowana."
