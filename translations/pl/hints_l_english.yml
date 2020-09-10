@@ -176,7 +176,7 @@
  HINT_COALITION_TEXT: "Aby utworzyć koalicję, państwo musi być oburzone agresywną ekspansją ze strony innego kraju. Jeśli żaden z członków koalicji nie będzie miał statusu oburzonego, zostanie ona rozwiązana. Jednak status ten nie jest niezbędny, aby do niej dołączyć. Na prawdopodobieństwo dołączenia nowych członków do koalicji wpływ mają reputacja, odległość i zagrożenie. Kiedy członek koalicji znajdzie się w stanie wojny z wrogiem koalicji, do konfliktu dołączą wszyscy pozostali jej członkowie."
  HINT_ATTRITION_TITLE: "Wyniszczenie"
  HINT_ATTRITION_TEXT: "Każdy regiment w twojej armii zwiększa wielkość tej armii. Wielkość jednostki oznacza jak dużo wojska może być wewnątrz prowincji bez ponoszenia strat z powodu wyniszczenia. Wyniszczenie powoduje powolne straty w wielkich armiach i jest bardziej dokuczliwe w klimacie tropikalnym oraz w okresie zimowym."
- HINT_COLONIALRANGE_TITLE: "Zasięg kolonii"
+ HINT_COLONIALRANGE_TITLE: "Zasięg kolonialny"
  HINT_COLONIALRANGE_TEXT: "Zasięg kolonialny określa, jak daleko może znajdować się nieskolonizowany teren, by można było wysłać tam kolonistę. Ten parametr może zostać zwiększony przez idee eksploracyjne lub poziom technologii."
  HINT_COLONY_TITLE: "Kolonie"
  HINT_COLONY_TEXT: "Kiedy wyślesz kolonistę, aby założył kolonię, będzie najpierw musiał dotrzeć we wskazane miejsce, co zajmie mu nieco czasu. Kiedy już tego dokona, w prowincji zostanie założona kolonia. Kiedy populacja osadników w kolonii osiągnie 1000, prowincja stanie się miastem, umożliwiając wznoszenie w niej budynków i przynosząc większe dochody."
