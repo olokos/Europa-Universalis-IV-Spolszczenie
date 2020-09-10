@@ -206,7 +206,7 @@
  cb_colonial_independance_war_desc: "Zasługujemy na niepodległość."
  COLONIAL_NAME_FROM_OWNER_PROVINCE: "Nowy $NAME$"
  TRADE_WIND_TITLE: "§YPasat§!"
- TRADE_WIND_DESC: "Koszt ruchu do przyległej morzem prowincji będzie większy lub mniejszy, zależni od tego, czy żeglujesz z wiatrem czy pod wiatr. Wpływa on zarówno na zasięg handlu, jak i zasięg kolonii."
+ TRADE_WIND_DESC: "Koszt ruchu do przyległej morzem prowincji będzie większy lub mniejszy, zależni od tego, czy żeglujesz z wiatrem czy pod wiatr. Wpływa on zarówno na zasięg handlu, jak i zasięg kolonialny."
  resource_depleted: "Środki wyczerpane przez migrantów"
  desc_resource_depleted: "Zwierzyna w lesie została przetrzebiona, owoce leśne wyzbierane, a ryby w rzekach są rzadkim widokiem. Natura potrzebuje czasu, aby się zregenerować."
  SUBJECT_SHOW_RELEASE_COLONY: "Wyzwól jedno ze swych państw kolonialnych."
