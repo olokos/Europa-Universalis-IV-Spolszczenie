@@ -697,7 +697,7 @@
  ROYALMARRIAGE: "Królewski mariaż z: $LIST$."
  LEADSUBJECTSLIST: "Następujące państwa to $SUBJECTTYPES$ tego kraju: $LIST$."
  WEAKSUBJECTSLIST: "To $SUBJECTTYPE$ kraju $LIST$."
- WEAKSUBJECTSLIST_WITH_NAME: "Kraj $COUNTRYNAME|Y$ jest $SUBJECTTYPE$ kraju $LIST$"
+ WEAKSUBJECTSLIST_WITH_NAME: "Kraj $COUNTRYNAME|Y$ to $SUBJECTTYPE$ kraju $LIST$"
  LEADMARCHLIST: "Posiada następujące marchie: $LIST$."
  WEAKMARCHLIST: "Jest marchią państwa $LIST$."
  LEADVASSAL: "Posiada następujących wasali: $LIST$."
