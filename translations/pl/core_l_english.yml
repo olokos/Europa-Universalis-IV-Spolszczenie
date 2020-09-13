@@ -604,7 +604,7 @@
  PROV_TRADEVALUE_DESCR: "Jest obliczana poprzez przemnożenie liczby towarów przez ich wartość. Wartość handlu zwiększa dochód prowincji z produkcji."
  PROV_GOODSPROD_DESCR: "Produkowane towary zwiększają wartość handlu w prowincji poprzez dostarczanie większej ilości dóbr."
  HRE_VOTE_ELECTOR_YOU: "Ty"
- HRE_CAST_VOTE_DESC: "Możesz wybrać, na kogo zagłosujesz podczas wyboru cesarza!"
+ HRE_CAST_VOTE_DESC: "Możesz wybrać, na kogo zagłosujesz podczas elekcji cesarza!"
  SUPPORT_EFFICIENCY: "Skuteczność wsparcia"
  REBEL_SUPPORT_EFFICIENCY_DESC: "Skuteczność wsparcia buntowników określa, jak twoje wsparcie przełoży się na ich postępy w dążeniu do powstania."
  SLIDER_VALUE: "Wartość suwaka"
