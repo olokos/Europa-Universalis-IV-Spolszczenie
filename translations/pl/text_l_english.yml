@@ -696,7 +696,7 @@
  INUNION: "W unii personalnej z: $LIST$."
  ROYALMARRIAGE: "Królewski mariaż z: $LIST$."
  LEADSUBJECTSLIST: "Następujące państwa to $SUBJECTTYPES$ tego kraju: $LIST$."
- WEAKSUBJECTSLIST: "Jest $SUBJECTTYPE$ kraju $LIST$."
+ WEAKSUBJECTSLIST: "To $SUBJECTTYPE$ kraju $LIST$."
  WEAKSUBJECTSLIST_WITH_NAME: "Kraj $COUNTRYNAME|Y$ jest $SUBJECTTYPE$ kraju $LIST$"
  LEADMARCHLIST: "Posiada następujące marchie: $LIST$."
  WEAKMARCHLIST: "Jest marchią państwa $LIST$."
