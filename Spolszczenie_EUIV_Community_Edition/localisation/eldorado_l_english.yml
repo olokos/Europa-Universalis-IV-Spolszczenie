@@ -1031,7 +1031,7 @@
  ENABLE:0 "W³¹cz"
  DISABLE:0 "Wy³¹cz"
  ND_COST_START:0 "Obecny koszt twojego paªstwa wynika z nast²puj¹cych czynników:  "
- ND_DISABLED_BY_GOVERNMENT:0 "§RTwoja Forma Ustroju na to nie pozwala§!"
+ ND_DISABLED_BY_GOVERNMENT:0 "§RTwoja forma ustroju na to nie pozwala§!"
  ND_TOGGLE_USE_HEIR:0 "W³adca posiada nast²pc²."
  ND_TOGGLE_USE_CONSORT:0 "W³adca posiada ma³¿onka."
  ND_PART_COST:0 "§YKoszt§!"
