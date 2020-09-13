@@ -102,7 +102,7 @@
  DIPIRO_RM_WITH: "Mariaż królewski z państwem §Y$NAME$§!."
  DIPDRO_RM_WITH: "$NAME$ (§Y$DYNASTY$§W)"
  DIPIRO_GUARANTEED_BY: "Kraj §Y$NAME$§! jest gwarantem naszej niepodległości."
- DIPIRO_GUARANTEE: "Gwarancje dla niepodległości państwa §Y$NAME$§!."
+ DIPIRO_GUARANTEE: "Gwarancje niepodległości dla państwa: §Y$NAME$§!."
  DIPIRO_WARNED: "Ostrzeżone przez państwo §Y$NAME$§!. §Y$NAME$§! może wypowiedzieć wojnę państwu $WHO|Y$ jeśli rozpocznie ono wojnę przeciwko trzeciej stronie.\nTo ostrzeżenie zachowuje ważność do §Y$DATE$§!."
  DIPIRO_WARNING: "$WHO|Y$ ostrzega państwo §Y$NAME$§!. Jeśli wypowie ono wojnę, $WHO|Y$ może je zaatakować.\nTo ostrzeżenie zachowuje ważność do §Y$DATE$§!."
  DIPIRO_CLAIMTRHONE: "$WHO|Y$ posiada roszczenia do tronu państwa $NAME|Y$.\nTo pozwala państwu $WHO|Y$ zażądać tronu w ramach traktatu pokojowego."
