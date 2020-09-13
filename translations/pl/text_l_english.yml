@@ -1835,7 +1835,7 @@
  HRE_ELECTOR: "§Y$NAME$§W jest elektorem Świętego Cesarstwa Rzymskiego. Gdyby zmarł obecny cesarz, ten kraj oddałby swój głos na władcę kraju §Y$VOTE$§W."
  HRE_MEMBER: "§Y$NAME$§W należy do Świętego Cesarstwa Rzymskiego."
  HRE_FREE_CITY: "§Y$NAME$§W jest wolnym miastem w ramach Świętego Cesarstwa Rzymskiego."
- HRE_RELATION: "W czasie następnego głosowania na cesarza państwo o nazwie$NAME$ da nam §Y$POINTS$§W."
+ HRE_RELATION: "W czasie następnego głosowania na cesarza państwo o nazwie $NAME$ przyzna nam §Y$POINTS$§W pkt."
  EMPEROR_BENEFIT: "Korona cesarska zapewnia następujące korzyści:\n"
  NUM_OF_PRINCES: "§Y$TOTAL$§! książąt i §Y$CITIES$§! wolnych miast w ramach ŚCR popiera Cesarza:\n"
  HRE_NUM_MEMBERS: "Oni są członkiem Cesarstwa."
