@@ -7128,7 +7128,7 @@
  HAVE_WHAT_MORE_THAN: "Ma $WHAT$ w ilości co najmniej"
  HAVE_LEGITIMACY_LESS_THAN: "Ma legitymizację poniżej "
  HAVE_LEGITIMACY_MORE_THAN: "Ma legitymizację co najmniej "
- HAVE_HORDE_UNITY_LESS_THAN: "Jedność Ordy wynosi poniżej "
+ HAVE_HORDE_UNITY_LESS_THAN: "Jedność hordy wynosi poniżej "
  HAVE_HORDE_UNITY_MORE_THAN: "Jedność ordy wynosi co najmniej "
  HORDE_UNITY_EFFECT: "$DIRECTION$ $VALUE$ jedności ordy.\n"
  LEGITIMACY_EFFECT: "$DIRECTION$ $VALUE$ pkt. legitymizacji.\n"
