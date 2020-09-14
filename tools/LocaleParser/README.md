@@ -16,5 +16,5 @@ Europa Universalis IV locale parser. The purpose of this tool is to provide an e
 # Compatibility
 * EUIV
 * CK2 (should work, not tested)
-* CK3 (should work, not tested)
+* CK3 (works, does not need charsets)
 * Other Paradox games following the same file structure (???)
