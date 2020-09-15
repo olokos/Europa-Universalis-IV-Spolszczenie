@@ -656,7 +656,7 @@
  custom_idea_merc_maintenance_modifier: "Tytuły dla najemników"
  custom_idea_merc_maintenance_modifier_desc: "Nadawanie tytułów dowódcom najemnym gwarantuje, że otrzymamy najlepszych żołnierzy za uczciwą cenę, co obniży koszty utrzymania najemników."
  custom_idea_mercenary_manpower: "Ośrodki rekrutacji najemników"
- custom_idea_mercenary_manpower_desc: "Tworzenie w całym kraju ośrodków rekrutacji najemników zwiększyło liczbę dostępnych nam kompani najemniczych."
+ custom_idea_mercenary_manpower_desc: "Tworzenie w całym kraju ośrodków rekrutacji najemników zwiększyło liczbę dostępnych nam kompani najemników."
  custom_idea_land_forcelimit_modifier: "Utworzenie armii narodowej"
  custom_idea_land_forcelimit_modifier_desc: "Armia narodowa oznaczałaby, że nie musimy już polegać na najemnikach lub prywatnych armiach podczas wojny i że możemy tworzyć większe armie z większą liczbą żołnierzy."
  custom_idea_global_manpower_modifier: "Pobór chłopów"
