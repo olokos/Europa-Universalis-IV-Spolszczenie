@@ -627,7 +627,7 @@
  NO_REORGANISE_UNIT_IN_COMBAT: "Aby dało się dokonać reorganizacji, żadna z jednostek nie może toczyć walki."
  NO_REORGANISE_UNIT_RETREATING: "Aby dało się dokonać reorganizacji, żadna z jednostek nie może uciekać."
  NO_REORGANISE_UNITS_DIFFERENT_LOCATION: "Aby dało się dokonać reorganizacji, jednostki muszą być w tej samej lokacji."
- REORGANISE_UNITS_DRO: "Reorganizacja dwóch jednostek umożliwia przenoszenie pułków pomiędzy nimi."
+ REORGANISE_UNITS_DRO: " Reorganizacja dwóch jednostek umożliwia przenoszenie pułków pomiędzy nimi."
  TRANSFER_SUB: "Przenieś"
  TRANSFER_SUB_DRO: "Klikając tu, możesz przenieść pułk z jednej jednostki do drugiej."
  MANEUEVER: "Manewrowość"
