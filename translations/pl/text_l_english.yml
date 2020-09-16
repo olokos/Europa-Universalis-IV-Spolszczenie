@@ -784,7 +784,7 @@
  SUPPLY_LIMIT: "Limit zapasów"
  SUPPLY_LIMIT_MODIFIER: "Modyfikator limitu zapasów"
  GLOBAL_SUPPLY_LIMIT_MODIFIER: "Krajowy modyfikator limitu zapasów"
- CHURCH_POWER_MODIFIER: "Modyfikator siły kościelnej"
+ CHURCH_POWER_MODIFIER: "Modyf. siły kościelnej"
  GARRISON_SIZE: "Liczebność garnizonu"
  LOOT_AMOUNT: "Wartość łupu"
  MODIFIER_VASSAL_FORCELIMIT_BONUS: "Limit kontrybucji sił wasala"
