@@ -739,7 +739,7 @@
  GLOBAL_TAX_MODIFIER: "Modyf. podatków państw."
  LOCAL_TAX_VALUE: "Wartość lokalnych podatków"
  STABILITY_COST: "Koszt stabilności"
- STABILITY_COST_MODIFIER: "Modyfikator kosztu stabilności"
+ STABILITY_COST_MODIFIER: "Modyf. kosztu stabilności"
  STABILITY_INVESTMENT: "Mies. wydatki na stabilność"
  INFLATION_REDUCTION: "Roczna redukcja inflacji"
  INTEREST: "Roczne odsetki"
