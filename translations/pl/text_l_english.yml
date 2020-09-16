@@ -7279,7 +7279,7 @@
  ADD_HEIR_SUPPORT: "Poparto elekcję kandydata $HEIR$"
  CW_WARNDOF: "Państwo $COUNTRY$ jest Obrońcą Wiary religii $RELIGION$ i stoi na jej straży."
  CW_WARNDOF2: "Państwo $COUNTRY$ jest Obrońcą Wiary religii $RELIGION$ i będzie bronić kraju $ENEMY$."
- LAND_MAINTENANCE_MODIFIER: "Modyfikator utrzymania armii"
+ LAND_MAINTENANCE_MODIFIER: "Modyf. utrzymania armii"
  NAVAL_MAINTENANCE_MODIFIER: "Modyfikator utrzymania floty"
  CURRENT_DEFENDER_TIP: "Państwo $COUNTRY$ zachowa tytuł do czasu pokonania go w wojnie lub przejęcia tytułu przez inne państwo o wyższym prestiżu."
  CAN_CLAIM_DOF: "§YMożesz przejąć tytuł Obrońcy Wiary!§W"
