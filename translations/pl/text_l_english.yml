@@ -776,7 +776,7 @@
  land_tech_cost_modifier: "Modyfikator kosztu technologii lądowej"
  naval_tech_cost_modifier: "Modyfikator kosztu technologii morskiej"
  trade_tech_cost_modifier: "Modyfikator kosztu handlu"
- production_tech_cost_modifier: "Modyfikator kosztu produkcji"
+ production_tech_cost_modifier: "Modyf. kosztu produkcji"
  government_tech_cost_modifier: "Modyfikator kosztu technologii w sferze rządowej"
  PAPAL_MAX_STORE: "Możesz zgromadzić §Y$VAL$§! wpływów papieskich (w ciągu $YEAR$ lat)"
  ATTRITION: "Wyniszczenie"
