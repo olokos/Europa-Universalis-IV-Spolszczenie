@@ -5153,7 +5153,7 @@
  HAS_OWNER_CULTURE: "Ma kulturę narodową właściciela"
  COLONIAL_MAINTENANCE: "Utrzymanie kolonii"
  EXPENSECOLONIAL: "Kolonie, utrzymanie"
- COLONIAL_MAINT_IRO: "Posiadamy §Y$NUM_COLONIES$§! $COLONIES_EACH$§, ich utrzymanie kosztuje nas $MAINTENANCE|%$ co powoduje Przyrost Osadników o $GROWTH$ rocznie.\n"
+ COLONIAL_MAINT_IRO: "Posiadamy §Y$NUM_COLONIES$§! $COLONIES_EACH$§ i utrzymanie $MAINTENANCE|%$ z nich powoduje Przyrost Osadników o $GROWTH$ rocznie.\n"
  COLONIAL_MAINT_SETTLEMENT_GROWTH: "$NUM|Y$ Kolonistów promuje Rozwój Osadnictwa.\n"
  COLONIAL_MAINT_COST: "Kosztowało nas to $COST|Y$¤ naszych dostaw.\nJeżeli posiadamy więcej niż $FREE|Y$ kolonii, ich koszt rośnie wykładniczo."
  COLONIST_MAINT_COST: "Kosztowało nas to $COST|Y$¤.\nJeżeli posiadamy więcej niż $FREE|Y$ kolonii i/lub kolonistów pracujących nad Rozwojem Osadników, ten koszt rośnie wykładniczo."
