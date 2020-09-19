@@ -7486,7 +7486,7 @@
  military_modernization_western_desc: "Udało nam się osiągnąć status życia kulturalnego, porównywalny do naszych potężnych sąsiadów. Nosimy takie szaty, jak oni, praktykujemy ich zwyczaje, a niektórzy z nas mówią nawet ich językami. Prawdziwym wyzwaniem jest teraz kwestia wojskowości."
  action_and_reaction: "Akcja i reakcja"
  desc_action_and_reaction: "Każda akcja wywołuje stosowną reakcję. Udało nam się zreformować jedną z najważniejszych instytucji państwa, ale potężne siły spiskują, by przywrócić stan poprzedni. Musimy przetrwać ten atak."
- tribal_rebels_title: "Zbuntowani tubylcy"
+ tribal_rebels_title: "Zbuntowane plemiona"
  tribal_rebels_name: "Plemiona z $COUNTRY$"
  tribal_rebels_desc: "Spostrzegłszy naszą słabość, zbuntowani tubylcy próbują zastąpić naszą władzę własną."
  tribal_rebels_army: "Armia plemienna"
