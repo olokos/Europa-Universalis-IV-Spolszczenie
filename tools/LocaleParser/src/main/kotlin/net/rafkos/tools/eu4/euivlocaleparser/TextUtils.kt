@@ -21,20 +21,24 @@ object TextUtils {
         val builder = StringBuilder()
         var insideQuote = false
         var index = 0
+        var cutIndex = -1
         loop@ while (index < text.length) {
             val c = text[index]
             when (c) {
-                '#' -> if (!insideQuote) break@loop
+                '#' -> if (!insideQuote && cutIndex == -1) cutIndex = index
                 '\\' -> {
                     builder.append("\\${text[++index]}")
                     index++
                     continue@loop
                 } // skip escaped char
-                '"' -> insideQuote = !insideQuote
+                '"' -> insideQuote = !insideQuote.also { if (insideQuote) cutIndex = -1 }
             }
             builder.append(c)
             index++
         }
-        return builder.toString()
+        return when (cutIndex) {
+            -1 -> builder.toString()
+            else -> builder.toString().substring(0, cutIndex)
+        }
     }
 }
