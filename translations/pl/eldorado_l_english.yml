@@ -600,7 +600,7 @@
  custom_idea_war_exhaustion_cost: "Wojna taktyczna"
  custom_idea_war_exhaustion_cost_desc: "Jeszcze przed rozpoczęciem wojny plany bitewne, przewagi taktyczne i różne strategie zostaną przeanalizowane i omówione, aby straty żołnierzy i zaopatrzenia były jak najmniejsze."
  custom_idea_navy_tradition_decay: "Prawo morskie"
- custom_idea_navy_tradition_decay_desc: "Jak powie ci każdy dżentelmen, zestaw niewypowiedzianych praw, które decydują o tym, jak postępować w różnych okolicznościach, zagwarantują, że nigdy nie będziesz czuć się niepewnie. Zostało to zastosowane w naszej marynarce wojennej i chociaż nasi marynarze narzekają, ale ostatecznie przestrzegają tych praw."
+ custom_idea_navy_tradition_decay_desc: "Każdy dżentelmen wie, że zestaw niewypowiedzianych praw określających sposób postępowania w różnych okolicznościach jest gwarancją, że nigdy nie będziesz czuć się niepewnie. Podobne zasady znalazły zastosowane w naszej marynarce wojennej i chociaż nasi marynarze niekiedy narzekają, to ostatecznie przestrzegają tych praw."
  custom_idea_navy_tradition: "Duma marynarki wojennej"
  custom_idea_navy_tradition_desc: "Nowo wprowadzony system zarządzania marynarką wojenną da naszym żeglarzom i piechocie morskiej powód do dumy, dzięki czemu będą zdolni do większych poświęceń."
  custom_idea_leader_naval_fire: "Artylerzyści morscy"
