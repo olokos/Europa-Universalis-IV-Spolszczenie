@@ -614,7 +614,7 @@
  custom_idea_spy_defense: "Infiltracja wroga"
  custom_idea_spy_defense_desc: "Nasi szpiedzy będą próbowali zinfiltrować siły szpiegowskie wroga, aby przekazywać fałszywe dane i upewnić się, że ich rząd nie otrzyma żadnych poufnych informacji o naszym kraju."
  custom_idea_ship_recruit_speed: "Doświadczeni szkutnicy"
- custom_idea_ship_recruit_speed_desc: "Duża flota wymaga wielu stoczni i doświadczonych szkutników. Przy każdym budowanym przez nas statku, czy to okrętu wojenny,, czy transportowcu, nasi szkutnicy zdobywają wiedzę i doświadczenie. Pozwala im to szybciej konstruować kolejne statki."
+ custom_idea_ship_recruit_speed_desc: "Duża flota wymaga wielu stoczni i doświadczonych szkutników. Podczas budowy każdego statku, niezależnie czy to okręt wojenny, czy też transportowiec, nasi szkutnicy zdobywają wiedzę i doświadczenie. Pozwala im to szybciej konstruować kolejne jednostki pływające."
  custom_idea_blockade_efficiency: "Standaryzacja blokady"
  custom_idea_blockade_efficiency_desc: "Nowa, znormalizowana siła blokady okazała się już niezwykle efektywna, dzięki czemu nasze blokady są znacznie skuteczniejsze."
  custom_idea_embargo_efficiency: "Efektywne embarga"
