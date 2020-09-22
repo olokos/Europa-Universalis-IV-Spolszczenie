@@ -642,7 +642,7 @@
  custom_idea_heavy_ship_power: "Ćwiczenia strzelania z burty"
  custom_idea_heavy_ship_power_desc: "Strzelanie z burty wymaga dobrze wyszkolonej załogi, która jest w stanie szybko przeładować i strzelać jednocześnie. Regularne ćwiczenia zapewnią, że nasze statki będą miały taką załogę."
  custom_idea_light_ship_power: "Podwójny strzał"
- custom_idea_light_ship_power_desc: "Lekkie okręty są szybsze, ale mają mniej armat niż inne okręty wojenne. Nowa praktyka polegająca na załadowaniu dwóch pocisków do jednego działa i wystrzeleniu ich jednocześnie oznacza, że statki mają mniejszy zasięg i celność, ale za to jest niszczycielskie z bliskiej odległości."
+ custom_idea_light_ship_power_desc: "Lekkie okręty są szybsze, ale mają mniej armat niż inne okręty wojenne. Nowa praktyka, polegająca na załadowaniu dwóch pocisków do jednego działa i jednoczesnym ich wystrzeleniu, obniża zasięg i celność wystrzału, ale czyni go niszczycielskim z bliskiej odległości."
  custom_idea_galley_power: "Mechanizm skałkowy"
  custom_idea_galley_power_desc: "Mechanizm skałkowy używany w muszkietach i karabinach został przystosowany do użycia w armatach. Jest on bezpieczniejszy niż stary sposób strzelania z użyciem lontu."
  custom_idea_land_morale: "Dumne oddziały"
