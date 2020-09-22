@@ -427,7 +427,7 @@
  FE_USETI_DESC: "Włącza lub wyłącza opcję ziemi nieznanej w lobby. Opcja przydatna szczególnie wtedy, gdy nie chcesz zepsuć sobie zabawy i dowiedzieć się od razu, jak wygląda §YLosowy Nowy Świat§! zanim go odkryjesz."
  NOCOLONIALCOLONISENONCITYADJACENT: "Kraje kolonialne mogą kolonizować poza swoim obszarem kolonizacji tylko wtedy, gdy dana prowincja sąsiaduje z prowincją już do nich należącą."
  OBSERVER_SELECT_COUNTRY_D: "Możesz także wcisnąć klawisz Ctrl klikając na państwo na mapie, lub kliknąć na gracza w przyborniku."
- temperate: "Umiarkowanie"
+ temperate: "Umiarkowany"
  ALREADY_CALLED_TO_ARMS: "Już wezwano do udziału w jednej z toczących się wojen."
  SupportIndependenceREQDESC: "§Y$ACTOR$§! prosi o wsparcie w walce o niepodległość. Oznacza to, że jeśli rozpoczną oni wojnę o wyzwolenie, zostaniemy wezwani do wzięcia w niej udziału. Czy zgadzasz się na to?"
  SupportOurIndependenceREQDESC: "§Y$ACTOR$§! oferuje wsparcie w naszej walce o niepodległość. Oznacza to, że jeśli rozpoczniemy wojnę o wyzwolenie, zostaną oni wezwani do wzięcia w niej udziału. Czy zgadzasz się na to?"
