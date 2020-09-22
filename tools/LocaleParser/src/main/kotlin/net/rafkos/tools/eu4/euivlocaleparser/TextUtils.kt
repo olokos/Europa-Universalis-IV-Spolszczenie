@@ -17,28 +17,43 @@ object TextUtils {
         }
     }
 
-    fun removeComments(text: String): String {
+    fun removeComments(text: String, type: LocaleType): String {
+        return when (type) {
+            LocaleType.YAML -> removeCommentsInYAMLFormat(text)
+            LocaleType.EUIV -> removeCommentsInEU4Format(text)
+        }
+    }
+
+    private fun removeCommentsInYAMLFormat(text: String): String {
         val builder = StringBuilder()
         var insideQuote = false
         var index = 0
-        var cutIndex = -1
         loop@ while (index < text.length) {
             val c = text[index]
             when (c) {
-                '#' -> if (!insideQuote && cutIndex == -1) cutIndex = index
+                '#' -> if (!insideQuote) break@loop
                 '\\' -> {
                     builder.append("\\${text[++index]}")
                     index++
                     continue@loop
                 } // skip escaped char
-                '"' -> insideQuote = !insideQuote.also { if (insideQuote) cutIndex = -1 }
+                '"' -> insideQuote = !insideQuote
             }
             builder.append(c)
             index++
         }
-        return when (cutIndex) {
-            -1 -> builder.toString()
-            else -> builder.toString().substring(0, cutIndex)
+        return builder.toString()
+    }
+
+    /**
+     * Due to inconsistent yaml format in Paradox games the comments are supported at the beginning of the text only.
+     */
+    private fun removeCommentsInEU4Format(text: String): String {
+        val trimmed = text.trim()
+        if (trimmed.length == 0) return ""
+        return when (trimmed[0]) {
+            '#' -> ""
+            else -> text
         }
     }
 }

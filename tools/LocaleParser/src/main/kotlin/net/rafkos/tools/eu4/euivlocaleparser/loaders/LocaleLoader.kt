@@ -35,7 +35,7 @@ object LocaleLoader {
             var languagePriorityCounter = 0
             var keyPriorityCounter = 0
             while (reader.ready()) {
-                var line = TextUtils.removeComments(reader.readLine()).trim()
+                var line = TextUtils.removeComments(reader.readLine(), type).trim()
                 if (line == "")
                     continue
 
