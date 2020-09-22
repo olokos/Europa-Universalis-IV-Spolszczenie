@@ -2913,7 +2913,7 @@
  VLA_ADJ: "Włodzimierza"
  WASTELAND: "Pustkowie"
  WASTELAND_DESC: "Nie można przebyć, ani skolonizować."
- arctic: "Arktyka"
+ arctic: "Arktyczny"
  IS_VASSAL_SPHERE: "Wasal państwa §Y$COUNTRY$§W"
  WT_NOT_NOMADS: "Nie możesz podnieść podatków wojennych, gdy walczysz tylko z koczownikami."
  NO_NOMAD_NO_COLONY: "Koczownicy nie kolonizują ziem."
