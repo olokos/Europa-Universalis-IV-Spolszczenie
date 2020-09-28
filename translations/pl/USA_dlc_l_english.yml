@@ -124,7 +124,7 @@
  usa_dlc.EVTOPTA41: "Sfinansuj tę wyprawę"
  usa_dlc.EVTOPTB41: "Potrzebują więcej przygotowań "
  usa_dlc.EVTNAME42: "Pierwszy Bank Stanów Zjednoczonych"
- usa_dlc.EVTDESC42: "Sekretarz skarbu Alexander Hamilton zaproponował trzy znaczące innowacje w dziedzinie finansów. Pierwszą z nich jest utworzenie narodowego banku, co - jak twierdzi Hamilton - jest najważniejsze dla osiągnięcia trzech celów, jakie postawił przed Stanami Zjednoczonymi##CHAR_DETECT##\nWprowadzenie ładu, przejrzystości i hierarchii w finansach świeżo utworzonego państwa;\nUzyskanie zdolności kredytowej - zarówno na rynku wewnętrznym jak i zagranicznym - dla nowego narodu;\nRozwiązanie problemu dolara kontynentalnego - waluty fiducjarnej emitowanej przez Kongres Kontynentalny tuż przed i w trakcie amerykańskiej wojny o niepodległość."
+ usa_dlc.EVTDESC42: "Sekretarz skarbu Alexander Hamilton zaproponował trzy znaczące innowacje w dziedzinie finansów. Pierwszą z nich jest utworzenie narodowego banku, co - jak twierdzi Hamilton - jest najważniejsze dla osiągnięcia trzech celów, jakie postawił przed Stanami Zjednoczonymi;\nWprowadzenie ładu, przejrzystości i hierarchii w finansach świeżo utworzonego państwa;\nUzyskanie zdolności kredytowej - zarówno na rynku wewnętrznym jak i zagranicznym - dla nowego narodu;\nRozwiązanie problemu dolara kontynentalnego - waluty fiducjarnej emitowanej przez Kongres Kontynentalny tuż przed i w trakcie amerykańskiej wojny o niepodległość."
  usa_dlc.EVTOPTA42: "Postąp zgodnie z radami Hamiltona i ustanów bank centralny"
  usa_dlc.EVTOPTB42: "Znajdź inny sposób, by zrealizować cele Hamiltona"
  usa_dlc.EVTNAME43: "Rola kobiet w rewolucji amerykańskiej"
