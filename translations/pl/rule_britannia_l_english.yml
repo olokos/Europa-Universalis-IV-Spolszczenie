@@ -84,7 +84,7 @@
  industrialization_events.12.a: "Świetnie."
  industrialization_events.13.t: "Urbanizacja przemysłowa"
  industrialization_events.13.d: "Rozwijająca się gospodarka w prowincji [urbanization_province.GetName] przyciąga ludzi z całego kraju. Stały strumień ludzi opuszcza wieś, aby szukać nowych możliwości pracy i nowego życia w mieście [urbanization_province.GetCapitalName]."
- industrialization_events.13.a: "Przyjdźcie, przejdźcie wszyscy!"
+ industrialization_events.13.a: "Przyjdźcie, przyjdźcie wszyscy!"
  industrialization_events.14.t: "Hutnictwo w prowincji [iron_province.GetName]"
  industrialization_events.14.d: "Wprowadzenie nowoczesnych maszyn przemysłowych, takich jak koks, koleje napędzane parą i pompy, w znacznym stopniu przyczyniło się do rozwoju lokalnej gospodarki w prowincji [iron_province.GetName]. Miejscowe huty należą obecnie do najlepszych w regionie."
  industrialization_events.14.a: "To początek nowej ery."
