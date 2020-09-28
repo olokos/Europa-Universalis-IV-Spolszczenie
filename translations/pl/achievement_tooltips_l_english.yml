@@ -51,7 +51,7 @@
  discovered_random_new_world: "Cały Nowy Świat został odkryty."
  captured_a_flagship: "Wrogi okręt flagowy został zdobyty."
  expelled_5_different_minorities_tooltip: "5 różnych mniejszości zostało wypędzonych."
- spanish_fly_tooltip: "Każdy kraj ze stolicą w regionie Iberii jest Młodszym Partnerem [Root.GetName]."
+ spanish_fly_tooltip: "Dowolny kraj ze stolicą w regionie Iberii jest Młodszym Partnerem państwa [Root.GetName]."
  spread_revolution_ten_times_tt: "Rozpowszechnij rewolucję dziesięć razy"
  kingdom_of_god_achievement_tt: "Jest Królestwem Bożym"
  completed_austrian_missions: "Ukończ austriackie drzewko misji."
