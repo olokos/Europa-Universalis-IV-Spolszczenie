@@ -4582,7 +4582,7 @@
  LEVEL_WITH: "Na równi z"
  RMN: "Rumunia"
  RMN_ADJ: "Rumunii"
- romanian_nation_title: "Stwórz naród rumuński"
+ romanian_nation_title: "Utwórz państwo rumuńskie"
  romanian_nation_desc: "Ostatnie pozostałości po Cesarstwie Rzymskim zniknęły i choć wielu zgłasza pretensje do cesarskiej korony, to my jesteśmy jego prawowitymi spadkobiercami. Zjednoczymy ziemie naszych przodków pod swymi rządami i wejdziemy w nową erę rozwoju. Jesteśmy dziećmi Rzymu - Rumunami!"
  REV_LOSE_CB: "§Y$ACTIVE$§W traci §Y$TYPE$§W Casus Belli wobec §Y$PASSIVE$§!.\n"
  RENAME_CAPITAL_EFF: "Stolica prownicji §Y$PROVINCE$§! zmieniła nazwę na §Y$NEW$§!.\n"
