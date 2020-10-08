@@ -117,7 +117,7 @@
  industrialization_events.22.d: "Nasza polityka wydobywania surowców z naszych odległych prowincji w celu napędzania industrializacji w naszej ojczyźnie zaowocowała szybkim rozwojem gospodarczym na obszarze [overseas_production_province.GetAreaName]. Pomimo dumnej historii [overseas_production_province.GetFancyTradeGood], region został teraz zredukowany do eksportu nieprzetworzonych produktów."
  industrialization_events.22.a: "Musimy wspierać lokalnych rzemieślników."
  industrialization_events.22.b: "Tak będzie lepiej."
- anglican_religion_desc: "Anglikanizm jest formą protestantyzmu, w której głowa państwa jest jednocześnie najwyższym przywódcą kościoła. Teologicznie i instytucjonalnie anglikanizm zachowuje wiele elementów katolicyzmu, będąc jednocześnie pod wpływem reformowanych purytanów i kontynentalnych protestantów."
+ anglican_religion_desc: "Anglikanizm jest formą protestantyzmu, w której głowa państwa jest jednocześnie najwyższym przywódcą Kościoła. Teologicznie i instytucjonalnie anglikanizm zachowuje wiele elementów katolicyzmu, będąc jednocześnie pod wpływem reformowanych purytanów i kontynentalnych protestantów."
  anglican: "Anglikanizm"
  divorce_consort_aspect: "§YRozwód§!"
  desc_divorce_consort_aspect: "Monarcha obawia się, że jego małżonka nie dała mu odpowiedniego następcy. Ona musi odejść."
