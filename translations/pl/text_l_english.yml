@@ -7748,7 +7748,7 @@
  MOVE_TRADE_PORT_LONG: "Przeniesienie głównego miasta handlowego może być korzystne, jeśli nowy węzeł jest bogatszy i pozwala uzyskać większą siłę handlową."
  MOVE_TRADE_PORT_COST: "Koszt przeniesienia wyniesie $POWER$£dip."
  PROVINCEVIEW_OTHERS_TRADE_PORT: "To główne miasto handlowe kraju $COUNTRY$."
- CHURCH_POWER: "Siła Kościoła: $POWER|Y$"
+ CHURCH_POWER: "Siła kościoła: $POWER|Y$"
  CHURCH_OF: "Kościół państwa $COUNTRY$"
  CHURCH_POWER_MONTHLY: "$DIFF$ miesięcznie (podstawowo §Y$SKILL$§! siły monarchy * §Y$SCALE$§! modyfikowane przez $MOD$)\n\nBrane są pod uwagę następujące modyfikatory:\n"
  NO_ASPECT_SELECTED: "Nie wybrano aspektu wiary"
