@@ -691,7 +691,7 @@
  COT_UPGRADE_DOWNGRADE_SIEGE: "§RNie możesz ulepszyć ani obniżyć poziomu centrum handlowego w prowincji, która jest oblegana!§!"
  COT_UPGRADE_DOWNGRADE_OCCUPIED: "§RNie możesz ulepszyć ani obniżyć poziomu centrum handlowego w prowincji, która jest okupowana!§!"
  COT_UPGRADE_DOWNGRADE_NON_CORE: "§RNie możesz ulepszyć ani obniżyć poziomu centrum handlowego w prowincji, której nie jest twoją prowincją narodową!§!"
- COT_UPGRADE_NOT_STATE: "§RYMożesz ulepszać centrum handlowe w prowincjach które są stanami lub należą do kompanii handlowej!§!"
+ COT_UPGRADE_NOT_STATE: "§RMożesz ulepszać centrum handlowe w prowincjach, które są stanami lub należą do kompanii handlowej!§!"
  COT_UPGRADE_CONFIRM_TITLE: "Ulepsz centrum handlowe"
  COT_UPGRADE_CONFIRM_DESC: "Ulepsz do $NAME|Y$:\n$DESCRIPTION$.\nZapewni to następujące korzyści:\n$BENEFITS$\ni będzie kosztować $COST|Y$¤."
  COT_DOWNGRADE_CONFIRM_TITLE: "Obniż poziom centrum handlowego"
