@@ -193,7 +193,7 @@
  anglican_events.14.c: "To brzmi jak kiepska podstawa dla nowej religii."
  anglican_events.14.c.tt: "Nie będzie kolejnej okazji do przejścia na anglikanizm."
  anglican_events.15.t: "Nonkonformistyczny monarcha"
- anglican_events.15.d: "[Root.Monarch.GetName] znalazł się w nie do pozazdroszczenia sytuacji bycia zarówno religijnym nonkonformistą, jak i Najwyższym Przełożonym Kościoła państwa $COUNTRY$. Anglikanie z państwa $COUNTRY$ walczą o tolerowanie tego stanu rzeczy, a władza kościoła jest dramatycznie osłabiona."
+ anglican_events.15.d: "[Root.Monarch.GetName] znalazł się w nie do pozazdroszczenia sytuacji bycia zarówno religijnym nonkonformistą, jak i Najwyższym Przełożonym Kościoła państwa $COUNTRY$. Anglikanie z państwa $COUNTRY$ walczą o tolerowanie tego stanu rzeczy, a władza Kościoła jest dramatycznie osłabiona."
  anglican_events.15.a: "To będzie trudne do połączenia."
  anglican_events.15.b: "Monarcha musi być anglikaninem."
  angry_nonconformists: "Rozgniewani nonkonformiści"
