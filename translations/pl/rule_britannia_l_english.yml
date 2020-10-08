@@ -126,7 +126,7 @@
  dissolve_monasteries_aspect: "§YRozwiąż zakony§!"
  desc_dissolve_monasteries_aspect: "Papistowski monastycyzm jest przestarzały i heretycki. Musimy rozwiązać więcej pozostałych nonkonformistycznych domów religijnych, pozbawić je ziemi i skonfiskować ich kosztowności."
  monopoly_aspect: "§YPrzyznaj monopol§!"
- desc_monopoly_aspect: "Karty monopolu powinny być nadawane tylko lojalnym i wiernym ludziom, którzy przestrzegają doktryny kościoła."
+ desc_monopoly_aspect: "Karty monopolu powinny być nadawane tylko lojalnym i wiernym ludziom, którzy przestrzegają doktryny Kościoła."
  stability_aspect: "§YPromowanie Najwyższego Przywódcy§!"
  desc_stability_aspect: "Parady z Najwyższym Przywódcą, także głową państwa, w całym kraju wzmacniają ducha narodowego i zachęcają do lojalności."
  anglican_events.1.t: "Pokazanie Królewskiej Armii"
