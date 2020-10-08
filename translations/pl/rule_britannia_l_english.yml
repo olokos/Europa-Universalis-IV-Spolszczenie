@@ -458,7 +458,7 @@
  PROVINCE_IS_NOT_ON_AN_ISLAND: "Prowincja $PROVINCE|Y$ nie znajduje się na wyspie.\n"
  PROVINCE_IS_ON_AN_ISLAND: "Prowincja $PROVINCE|Y$ znajduje się na wyspie.\n"
  MODIFIER_INNOVATIVENESS_GAIN: "Wzrost innowacyjności"
- CHANGE_ASPECT_COST: "Kosztuje $COST|Y$ siły kościoła"
+ CHANGE_ASPECT_COST: "Kosztuje $COST|Y$ siły Kościoła."
  COMPLETE_MISSION_EFFECT: "Ukończ misję $MISSION|Y$ bez nagród"
  island_provinces_tooltip: "Posiadaj lub spraw, by poddany niebędący trybutem posiadał wszystkie prowincje bez bezpośredniego połączenia lądowego ze Sztokholmem, Panamą lub Guugu Yimithirr."
  CLICK_TO_CENTER_HIGHLIGHTED: "Kliknij, aby wyśrodkować"
