@@ -169,7 +169,7 @@
  anglican_events.9.a: "Znieść większość dni świątecznych."
  anglican_events.9.b: "Niech się bawią."
  anglican_events.10.t: "Purytanie wyjeżdżający do kolonii"
- anglican_events.10.d: "Purytanie od jakiegoś czasu krytykują hierarchię i doktryny kościoła państwa  $COUNTRY$. W ich oczach, dzięki reformacji, [Root.Monarch.GetTitle] zastąpił papieża i otwarcie potępiają gnuśne podejście państwa do reform. Pomijając spory teologiczne, purytanie byli również prześladowani jako nonkonformiści, w zależności od skłonności obecnego władcy. W końcu wyczerpani sprawami religijnymi Europy, purytanie zdecydowali się na migrację do nowego świata. Zorganizowali się w kompanię kolonialną i zażądali przywileju zakładania nowych osad w obu amerykach."
+ anglican_events.10.d: "Purytanie od jakiegoś czasu krytykują hierarchię i doktryny Kościoła państwa $COUNTRY$. W ich oczach, dzięki reformacji, [Root.Monarch.GetTitle] zastąpił papieża i otwarcie potępiają gnuśne podejście państwa do reform. Pomijając spory teologiczne, purytanie byli również prześladowani jako nonkonformiści, w zależności od skłonności obecnego władcy. W końcu wyczerpani sprawami religijnymi Europy, purytanie zdecydowali się na migrację do nowego świata. Zorganizowali się w kompanię kolonialną i zażądali przywileju zakładania nowych osad w obu Amerykach."
  anglican_events.10.b: "Nadaj im konkretną kolonię."
  anglican_events.10.a: "Niech zbudują własną osadę."
  anglican_events.11.t: "Kontrowersje wokół szat"
