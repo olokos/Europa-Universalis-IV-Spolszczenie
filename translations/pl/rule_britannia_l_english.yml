@@ -188,7 +188,7 @@
  anglican_events.13.b: "Dowiedz się, skąd pochodzą"
  anglican_events.14.t: "Kościół państwa $COUNTRY$"
  anglican_events.14.d: "Ponieważ reformacja protestancka radykalnie zmienia religijny krajobraz Europy, kraj $COUNTRY$ musi zająć zdecydowane stanowisko w sprawie swojej wiary. To oczywiście wywołało wiele dyskusji na dworze, przy czym niektórzy opowiadali się po stronie protestanckiej, a inni w obronie tradycyjnej religii.\n\n[Root.Monarch.GetTitle] [Root.Monarch.GetName] ma jednak nowy pomysł na stworzenie innego rodzaju kościoła. [Root.Monarch.GetTitle] jako jego Najwyższy Przełożony, jednocząc kościół i państwo. Ani protestancki, ani katolicki, ani reformowany, miałby elastyczne podejście do doktryny stosownie do okoliczności.\n\nTaki kościół miałby swoje zalety. Nie podlegając już żadnemu wyższemu autorytetowi kościelnemu, [Root.Monarch.GetTitle] mógłby dowolnie żenić się i rozwodzić, określać teologiczne kierownictwo narodu i mieć pewność, że został wyznaczony do rządzenia bezpośrednio przez Boga."
- anglican_events.14.a: "Załóż nowy kościół państwowy"
+ anglican_events.14.a: "Załóż nowy Kościół państwowy"
  anglican_events.14.b: "Nawracaj świat na wiarę nowego kościóła!"
  anglican_events.14.c: "To brzmi jak kiepska podstawa dla nowej religii."
  anglican_events.14.c.tt: "Nie będzie kolejnej okazji do przejścia na anglikanizm."
