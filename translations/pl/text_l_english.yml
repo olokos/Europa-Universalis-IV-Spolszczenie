@@ -3248,7 +3248,7 @@
  CONTROL_BONUS_HEAD: "Handlowanie §Y$VAL$§W% światowego zaopatrzenia daje:"
  ITEMS_TRADED_OF_WORLD: "Handluje się tu następującymi towarami (% światowego rynku):"
  GOODS_WE_TRADE_OF_LIMIT: "Mamy dostęp do §Y$VAL$§W% zaopatrzenia światowego, potrzebujemy §Y$VAL2$§W%."
- TRADING_IN: "Handluje towarem $GOOD|Y$"
+ TRADING_IN: "Handel towarem $GOOD|Y$"
  PRODUCTION_LEADER_THEY_DESC: "§Y$LEADER$§W jest głównym wytwórcą (Oni: §Y$THEIR$§W% My: §Y$OUR$§W%)."
  PRODUCTION_LEADER_WE_DESC: "Jesteśmy głównym wytwórcą (§Y$OUR$§W%)."
  de_heretico_comburendo: "Akt De Heretico Comburendo"
