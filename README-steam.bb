@@ -8,7 +8,7 @@ Działa bezproblemowo z każdą wersją gry 1.30
  * 19,265 nieprzetłumaczonych wpisów
 
 Jest to obecnie najpełniejsze spolszczenie, stworzone przez społeczność gry.
-Pracę projektu obejmuą 105 plików z czego do przetłumaczenia pozostało 28.
+Pracę projektu obejmują 105 plików z czego do przetłumaczenia pozostało 28.
 
 Aktualnie nasze spolszczenie posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie spolszczeń. [b](77,59 całej gry)[/b]
 
@@ -42,7 +42,7 @@ If you want to request a new language, make sure you can translate at least 10% 
 Once you are on the site above - press on "Help Translate" button on the right to help translating it in your language!
 
 [h2]Jak się dołączyć?[/h2]
-Po więcej informacji zapraszamy na serwer discord [url=https://discord.gg/QUB7z23]]Dostępny Tutaj[/url]
+Po więcej informacji zapraszamy na serwer discord [url=https://discord.gg/QUB7z23]Dostępny Tutaj[/url]
 
 Jeżeli chcesz dołączyć się do prac nad spolszczeniem - daj znać na serwerze discord i dołącz poprzez link poniżej.
 
