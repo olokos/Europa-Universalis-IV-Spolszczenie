@@ -2415,7 +2415,7 @@
  CV_MILITARY_DETACH_LEADER_DIALOG_DESC: ""
  CV_MILITARY_DETACH_LEADER_NOATTACHED: "Ten dowódca nie dowodzi żadną jednostką!"
  CALL_COALITION: ""
- FLAGSHIP_COST: ""
+ FLAGSHIP_COST: "Koszt okrętu flagowego"
  REBELSIZE: "Armia $SIZE|Y$ buntowników będzie walczyć przeciwko nam."
  REBELENTRY_OUTLINER: "($SIZE$) $NAME$"
  NO_POSSIBLE_BUILDINGS_DESC: "Więcej budynków można odblokować dzięki postępowi technologicznemu."
