@@ -7,7 +7,7 @@
  insult_default6:0 "O, spójrz. Tu jest troch² brudu!"
  insult_default7:0 "Twoja krew sprawi, ¿e ziemia któr¹ od ciebie zabior², b²dzie bogatsza!"
  insult_default8:0 "[Root.GetAdjective] nie wie nic o prowadzeniu kraju!"
- insult_default9:0 "Najwi²kszy problem jest z [Root.GetName], i podejrzewam ¿e przyczyn¹ jest kultura [Root.Culture.GetName]."
+ insult_default9:0 "Najwi²kszy problem stanowi kraj [Root.GetName], i podejrzewam ¿e przyczyn¹ jest ich kultura [Root.Culture.GetName]."
  insult_default10:0 "W tej wspania³ej grze, w któr¹ gramy, jesteœ tylko pionkiem."
  insult_default11:0 "W [From.GetName], '[Root.GetName]' to s³owo b²d¹ce synonimem obornika."
  insult_default12:0 "Opowieœci o twych z³ych czynach kr¹¿¹ od Irlandii po Kataj."

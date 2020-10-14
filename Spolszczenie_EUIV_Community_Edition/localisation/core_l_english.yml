@@ -604,7 +604,7 @@
  PROV_TRADEVALUE_DESCR:0 "Jest obliczana poprzez przemno¿enie liczby towarów przez ich wartoœ¾. Wartoœ¾ handlu zwi²ksza dochód prowincji z produkcji."
  PROV_GOODSPROD_DESCR:0 "Produkowane towary zwi²kszaj¹ wartoœ¾ handlu w prowincji poprzez dostarczanie wi²kszej iloœci dóbr."
  HRE_VOTE_ELECTOR_YOU:0 "Ty"
- HRE_CAST_VOTE_DESC:0 "Mo¿esz wybra¾, na kogo chcesz g³osowa¾ na cesarza!"
+ HRE_CAST_VOTE_DESC:0 "Mo¿esz wybra¾, na kogo zag³osujesz podczas elekcji cesarza!"
  SUPPORT_EFFICIENCY:0 "Skutecznoœ¾ wsparcia"
  REBEL_SUPPORT_EFFICIENCY_DESC:0 "Skutecznoœ¾ wsparcia buntowników okreœla, jak twoje wsparcie prze³o¿y si² na ich post²py w d¹¿eniu do powstania."
  SLIDER_VALUE:0 "Wartoœ¾ suwaka"

@@ -2415,7 +2415,7 @@
  CV_MILITARY_DETACH_LEADER_DIALOG_DESC:0 "This will detach $NAME$ from $ARMY|Y$ in $LOCATION|Y$.\n$DESC$"
  CV_MILITARY_DETACH_LEADER_NOATTACHED:0 "Ten dowódca nie dowodzi ¿adn¹ jednostk¹!"
  CALL_COALITION:0 "$COUNTRY|Y$ is in a coalition against you. If called co-belligerant all the members of the coalition will be called in the war.§!"
- FLAGSHIP_COST:0 "Flagship cost"
+ FLAGSHIP_COST:0 "Koszt okr²tu flagowego"
  REBELSIZE:0 "Armia $SIZE|Y$ buntowników b²dzie walczy¾ przeciwko nam."
  REBELENTRY_OUTLINER:0 "($SIZE$) $NAME$"
  NO_POSSIBLE_BUILDINGS_DESC:0 "Wi²cej budynków mo¿na odblokowa¾ dzi²ki post²powi technologicznemu."

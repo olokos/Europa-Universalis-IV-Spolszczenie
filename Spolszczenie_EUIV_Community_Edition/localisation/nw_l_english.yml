@@ -96,7 +96,7 @@
  MIGRATE_REASON_POSSIBLE:0 "Mo¿emy migrowa¾ do $PROVINCE$."
  MODIFIER_NATIVE_ADVANCEMENT_COST:0 "Koszt rozwoju narodowego"
  WHEN_GROUPS_FILLED:0 "Kiedy wszystkie z $MAX|Y$ grup rozwoju zostan¹ odblokowane, b²dziesz w stanie zmieni¾ rodzaj rz¹du. Jak dot¹d  $UNLOCKED|Y$ z grup zosta³o odblokowanych."
- MAPMODE_COLONIALANDTRADECOMPANYREGIONS:0 "Regiony kolonialne i handlowe"
+ MAPMODE_COLONIALANDTRADECOMPANYREGIONS:0 "Regiony kolonialne i handl."
  MAPMODE_COLONIALANDTRADECOMPANYREGIONS_DESC:0 "Regiony, w których mog¹ powstawa¾ paªstwa kolonijne i kompanie handlowe."
  NOT_IN_FEDERATION:0 "$NAME$ nie jest cz³onkiem federacji"
  federation_leader:0 "Przywódca federacji"

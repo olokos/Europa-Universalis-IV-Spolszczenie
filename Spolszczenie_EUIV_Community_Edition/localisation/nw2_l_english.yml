@@ -427,7 +427,7 @@
  FE_USETI_DESC:0 "W³¹cza lub wy³¹cza opcj² ziemi nieznanej w lobby. Opcja przydatna szczególnie wtedy, gdy nie chcesz zepsu¾ sobie zabawy i dowiedzie¾ si² od razu, jak wygl¹da §YLosowy Nowy Œwiat§! zanim go odkryjesz."
  NOCOLONIALCOLONISENONCITYADJACENT:0 "Kraje kolonialne mog¹ kolonizowa¾ poza swoim obszarem kolonizacji tylko wtedy, gdy dana prowincja s¹siaduje z prowincj¹ ju¿ do nich nale¿¹c¹."
  OBSERVER_SELECT_COUNTRY_D:0 "Mo¿esz tak¿e wcisn¹¾ klawisz Ctrl klikaj¹c na paªstwo na mapie, lub klikn¹¾ na gracza w przyborniku."
- temperate:0 "Umiarkowanie"
+ temperate:0 "Umiarkowany"
  ALREADY_CALLED_TO_ARMS:0 "Ju¿ wezwano do udzia³u w jednej z tocz¹cych si² wojen."
  SupportIndependenceREQDESC:0 "§Y$ACTOR$§! prosi o wsparcie w walce o niepodleg³oœ¾. Oznacza to, ¿e jeœli rozpoczn¹ oni wojn² o wyzwolenie, zostaniemy wezwani do wzi²cia w niej udzia³u. Czy zgadzasz si² na to?"
  SupportOurIndependenceREQDESC:0 "§Y$ACTOR$§! oferuje wsparcie w naszej walce o niepodleg³oœ¾. Oznacza to, ¿e jeœli rozpoczniemy wojn² o wyzwolenie, zostan¹ oni wezwani do wzi²cia w niej udzia³u. Czy zgadzasz si² na to?"
