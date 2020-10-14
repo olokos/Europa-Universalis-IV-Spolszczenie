@@ -74,7 +74,7 @@ Serdecznie zapraszamy do pomocy w tłumaczeniu!
 - Po aktualizacji dodatku Emperor rozszerzyliśmy bazę plików do przetłumaczenia z 97 na 105
 - STAN GRY NA DZIEŃ 11.09.2020!!!
 
-[b]_W razie jakichkolwiek problemów/zastrzeżeń/propozycji zachęcamy do kontaktu poprzez serwer discord [url=https://discord.gg/QUB7z23]]Dostępny Tutaj[/url]_[/b]
+[b][i]W razie jakichkolwiek problemów/zastrzeżeń/propozycji zachęcamy do kontaktu poprzez serwer discord [url=https://discord.gg/QUB7z23] Dostępny Tutaj [/url][/i][/b]
 
 [h2]UWAGA! Gdyby w launcherze pojawiała się informacja, że modyfikacja jest do nieaktualnej wersji gry należy:[/h2]
 1. Uruchomić launcher gry (uruchomić grę przez Steam).
