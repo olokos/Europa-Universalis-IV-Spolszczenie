@@ -181,7 +181,7 @@
  NO_TRADE_COMPANY_OVERSEAS: "Kompanie handlowe możesz tworzyć wyłącznie za morzem."
  TRADE_NAME_SORT_TOOLTIP: "Sortuj według kraju"
  WHO_HAS_TRADE_COMPANY_IN: "$WHO|Y$ posiada kompanię handlową w regionie $REGION|Y$."
- GOODS_PRODUCED_BONUS: "§YProduction Increase§!\nKompanie handlowe z tego regionu zwiększają ilość towarów wytwarzanych przez prowincje spoza kompanii o $VAL|2+=%$ dzięki:\n$WHY$"
+ GOODS_PRODUCED_BONUS: "§YWzrost produkcji§!\nKompanie handlowe z tego regionu zwiększają ilość towarów wytwarzanych przez prowincje spoza kompanii o $VAL|2+=%$ dzięki:\n$WHY$"
  TRADE_SHIPS_IN_NODE: "W tym węźle $COUNT|Y$ twoich lekkich okrętów zajmuje się ochroną handlu.\nGenerują one $TRADEPOWER|Y$ siły handlowej."
  PRIVATEERS_IN_NODE: "W tym węźle $PRIVATEERCOUNT|Y$ twoich okrętów uprawia korsarstwo.\nMają one $PRIVATEERTRADEPOWER|Y$ całkowitej siły handlowej."
  aleppo: "Aleppo"
