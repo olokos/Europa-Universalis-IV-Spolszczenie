@@ -7591,7 +7591,7 @@
  MANDATE_FROM_PROSPERITY: "Dobrobyt:"
  MANDATE_FROM_DEVASTATION: "Dewastacja:"
  MANDATE_FROM_TRIBUTARIES: "Trybutariusze: "
- MANDATE_FROM_NONTRIBUTARIES: "Nie-trybutariusze: "
+ MANDATE_FROM_NONTRIBUTARIES: "Nietrybutariusze: "
  MANDATE_FROM_5_LOANS: "Co najmniej $LOANS|Y$ pożyczek: "
  CELESTIAL_DECISION_ALREADY_ENACTED: "Ta Decyzja została już podjęta."
  CELESTIAL_DECISION_NEED_EARLIER: "Zanim będzie można podjąć tę Decyzję, musisz uchwalić poprzednie."
