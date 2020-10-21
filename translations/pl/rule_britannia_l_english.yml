@@ -460,7 +460,7 @@
  MODIFIER_INNOVATIVENESS_GAIN: "Wzrost innowacyjności"
  CHANGE_ASPECT_COST: "Kosztuje $COST|Y$ siły Kościoła."
  COMPLETE_MISSION_EFFECT: "Ukończ misję $MISSION|Y$ bez nagród"
- island_provinces_tooltip: "Posiadaj lub spraw, by poddany niebędący trybutem posiadał wszystkie prowincje bez bezpośredniego połączenia lądowego ze Sztokholmem, Panamą lub Guugu Yimithirr."
+ island_provinces_tooltip: "Posiadaj lub spraw, by poddany niebędący trybutariuszem posiadał wszystkie prowincje bez bezpośredniego połączenia lądowego ze Sztokholmem, Panamą lub Guugu Yimithirr."
  CLICK_TO_CENTER_HIGHLIGHTED: "Kliknij, aby wyśrodkować"
  HAVE_THE_ACTIVE_PROVINCE_MODIFIER: "Ma aktywny modyfikator prowincji "
  DONT_HAVE_THE_ACTIVE_PROVINCE_MODIFIER: "NIE ma aktywnego modyfikatora prowincji"
