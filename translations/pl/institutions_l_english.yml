@@ -26,7 +26,7 @@
  FEUDALISM_AND_NOBLES: "Lojalna szlachta obecna i sąsiadująca przyjęła §Yfeudalizm§!"
  NEIGHBOR_NOT_OWNED_IS_FEUDAL: "Graniczy z państwem z §Yfeudalizmem§!"
  PORT_OR_CAPITAL_IN_COLONY_FEUDAL: "Port lub stolica państwa kolonialnego"
- CAPITAL_IN_OLD_WORLD_FEUDAL: "Stolica nie-plemienna w Starym świecie"
+ CAPITAL_IN_OLD_WORLD_FEUDAL: "Stolica nieplemienna w Starym świecie"
  INSTITUTION_PENALTY_INFO: "Kara nieobecność nurtu $NAME$ wynosi $CURR$, ale przez okres swojego trwania będzie rosnąć o §Y+1%§! rocznie, do poziomu $MAX$."
  INSTITUTION_PENALTY_INFO_FULL: "Kara za nieobecność nurtu $NAME$ wynosi $CURR$."
  CV_EMBRACE_INSTITUTION: "Wprowadź $NAME$"
