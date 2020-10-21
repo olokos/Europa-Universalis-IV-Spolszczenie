@@ -781,7 +781,7 @@
  alert_uncontested_claims_instant: "§YPosiadasz niepodważalne roszczenia, które wygasną.§W"
  alert_uncontested_claims_delayed: "Posiadasz wygasające roszczenia do prowincji:\n$LIST$"
  alert_high_overextension_instant: "§YTwój przerost jest niebezpiecznie wysoki!§W"
- alert_high_overextension_delayed: "Aby ograniczyć przerost, rozważ przekształcenie kilku swoich prowincji w prowincje narodowe. Dopóki to nie nastąpi, zachowaj ostrożność w kwestii przyłączania do swojego państwa kolejnych nie-narodowych prowincji."
+ alert_high_overextension_delayed: "Aby ograniczyć przerost, rozważ przekształcenie kilku swoich prowincji w prowincje narodowe. Dopóki to nie nastąpi, zachowaj ostrożność w kwestii przyłączania do swojego państwa kolejnych nienarodowych prowincji."
  alert_high_war_exhaustion_instant: "§YTwoje wyczerpanie wojną jest wysokie!§W"
  alert_high_war_exhaustion_delayed: "To wpłynie negatywnie na nasze państwo!"
  alert_too_many_leaders_instant: "§YZbyt wielu przywódców militarnych!§W"
