@@ -146,7 +146,7 @@
  HINT_REBELTYPES_TITLE: "Rodzaje buntowników"
  HINT_REBELTYPES_TEXT: "Istnieje wiele rodzajów buntowników, od chłopów i heretyków do pretendentów i nacjonalistów. Poszczególne odmiany różnią się siłą, przy czym najsilniejsi są pretendenci, ponieważ mają dostęp do lepszych oddziałów, zaś osobiste dowództwo pretendenta do tronu zapewnia im wyższe morale."
  HINT_LEADER_TITLE: "Dowódcy"
- HINT_LEADER_TEXT: "Dowódcy kierują twoim wojskiem i marynarką. Armią dowodzą generałowie, a ich zatrudnienie kosztuje 50£mil. Admirałowie wydają rozkazy flocie, a ich zatrudnienie kosztuje 50£dip. Każdy dowódca powyżej limitu darmowego utrzymania będzie cię kosztować 1 punkt siły wojskowej miesięcznie."
+ HINT_LEADER_TEXT: "Dowódcy kierują twoim wojskiem i marynarką. Armią dowodzą generałowie, a ich zatrudnienie kosztuje 50£mil. Admirałowie wydają rozkazy flocie, a ich zatrudnienie kosztuje 50£dip. Każdy dowódca powyżej limitu darmowego utrzymania będzie cię kosztować 1 punkt militarny miesięcznie."
  HINT_EXPCONQ_TITLE: "Odkrywcy i konkwistadorzy"
  HINT_EXPCONQ_TEXT: "Odkrywcy to admirałowie, których można wysłać do niezbadanych prowincji morskich w celu ich odkrycia. Konkwistadorzy to generałowie, którzy umożliwiają swoim wojskom wkroczenie na niezbadane terytorium. Odkrywcy i konkwistadorzy wymagają idei 'Podbój Nowego Świata' z grupy ideowej odkryć."
  HINT_EXPLORATION_TITLE: "Odkrycia"
