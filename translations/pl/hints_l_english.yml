@@ -116,7 +116,7 @@
  HINT_ADMTECH_TITLE: "Technologia administracyjna"
  HINT_ADMTECH_TEXT: "Technologia administracyjna wykorzystuje punkty siły administracyjnej. Ma bardzo duże znaczenie przy odblokowywaniu kolejnych grup ideowych i budynków z kategorii rządowej."
  HINT_DIPTECH_TITLE: "Technologia dyplomatyczna"
- HINT_DIPTECH_TEXT: "Technologia dyplomatyczna wykorzystuje punkty siły dyplomatycznej. Ma duże znaczenie przy odblokowywaniu technologii związanych z handlem i budynków z kategorii handlu i marynarki. Daje też dostęp do potężniejszych statków."
+ HINT_DIPTECH_TEXT: "Technologia dyplomatyczna wykorzystuje punkty dyplomatyczne. Ma duże znaczenie przy odblokowywaniu technologii związanych z handlem i budynków z kategorii handlu i marynarki. Daje też dostęp do potężniejszych statków."
  HINT_MILTECH_TITLE: "Technologia wojskowa"
  HINT_MILTECH_TEXT: "Technologia wojskowa wykorzystuje punkty militarne. Ma duże znaczenie przy odblokowywaniu nowych jednostek oraz technologii związanych z wojskiem. Daje też dostęp do budynków z kategorii fort i armia."
  HINT_TAXES_TITLE: "Podatki"
