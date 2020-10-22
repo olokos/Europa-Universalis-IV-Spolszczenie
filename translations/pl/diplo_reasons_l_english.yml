@@ -156,7 +156,7 @@
  DIPLO_MORE_BASE_TAX_THAN: "Kraj $WHO$ ma całkowity poziom rozwoju państwa większy niż $VAL$:"
  DIPLO_LESS_BASE_TAX_THAN: "Kraj $WHO$ ma całkowity poziom rozwoju państwa mniejszy niż $VAL$:"
  DIPLO_TOTAL_DEVELOPMENT: "$TARGET$ has $VAL$ development:"
- DIPLO_MILITARY_POWER: "Punkty wojskowe $WHO$ w porównaniu do $OTHER$:"
+ DIPLO_MILITARY_POWER: "Punkty militarne $WHO$ w porównaniu do $OTHER$:"
  DIPLO_HAS_MORE_PROVINCES_THAN: "Kraj $WHO$ ma ponad $VAL$ prowincji:"
  DIPLO_WAR_ON_OVERLORD: "Wojna toczy się przeciw suwerenowi państwa $WHO$:"
  DIPLO_NO_ENEMIES: "Brak właściwych wrogów:"
