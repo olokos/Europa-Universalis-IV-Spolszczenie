@@ -138,7 +138,7 @@
  HINT_WARTAXES_TITLE: "Podatki wojenne"
  HINT_WARTAXES_TEXT: "Podatki wojenne mogą być pobierane w czasie wojny. Pozwalają znacząco obniżyć koszty jednostek, jednak za cenę 50 £mil co dwa lata."
  HINT_WAREXHAUSTION_TITLE: "Wyczerpanie wojną"
- HINT_WAREXHAUSTION_TEXT: "Wyczerpanie wojną odzwierciedla stopień wyniszczenia twojego państwa przez wojnę. Wysoka wartość tego parametru zwiększa niepokoje społeczne, jednocześnie znacząco zwalniając tempo budowy statków i rekrutowania pułków. Rośnie również koszt przekształcania prowincji w narodowe. Wyczerpanie wojną można obniżyć, wydając punkty siły dyplomatycznej."
+ HINT_WAREXHAUSTION_TEXT: "Wyczerpanie wojną odzwierciedla stopień wyniszczenia twojego państwa przez wojnę. Wysoka wartość tego parametru zwiększa niepokoje społeczne, jednocześnie znacząco zwalniając tempo budowy statków i rekrutowania pułków. Rośnie również koszt przekształcania prowincji w narodowe. Wyczerpanie wojną można obniżyć, wydając punkty dyplomatyczne."
  HINT_REVOLTRISK_TITLE: "Niepokoje"
  HINT_REVOLTRISK_TEXT: "Niepokoje społeczne określają prawdopodobieństwo pojawienia się buntowników w jednej z twoich prowincji. Na ich wzrost na terenie prowincji wpływają nieodpowiednia kultura, religia, a także wydarzenia losowe. Przykładowymi czynnikami podnoszącymi niepokoje społeczne w skali kraju są niska stabilność, niska legitymizacja i wysoki stopień wyczerpania wojną."
  HINT_REBELS_TITLE: "Buntownicy"
