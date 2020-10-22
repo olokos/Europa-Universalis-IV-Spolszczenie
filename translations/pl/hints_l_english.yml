@@ -118,7 +118,7 @@
  HINT_DIPTECH_TITLE: "Technologia dyplomatyczna"
  HINT_DIPTECH_TEXT: "Technologia dyplomatyczna wykorzystuje punkty siły dyplomatycznej. Ma duże znaczenie przy odblokowywaniu technologii związanych z handlem i budynków z kategorii handlu i marynarki. Daje też dostęp do potężniejszych statków."
  HINT_MILTECH_TITLE: "Technologia wojskowa"
- HINT_MILTECH_TEXT: "Technologia wojskowa wykorzystuje punkty siły wojskowej. Ma duże znaczenie przy odblokowywaniu nowych jednostek oraz technologii związanych z wojskiem. Daje też dostęp do budynków z kategorii fort i armia."
+ HINT_MILTECH_TEXT: "Technologia wojskowa wykorzystuje punkty militarne. Ma duże znaczenie przy odblokowywaniu nowych jednostek oraz technologii związanych z wojskiem. Daje też dostęp do budynków z kategorii fort i armia."
  HINT_TAXES_TITLE: "Podatki"
  HINT_TAXES_TEXT: "Podatki pobierane są z prowincji i powiązane są bezpośrednio z podatkiem podstawowym. Wysokość zbieranych podatków w prowincji zależy od wzrostu jej podatku podstawowego, tego, czy jest ona prowincją narodową oraz od poziomu niepokojów społecznych. Dochody z podatków zwiększane są przez współczynnik efektywności podatkowej."
  HINT_TRADE_TITLE: "Handel"
