@@ -80,7 +80,7 @@
  HINT_DIPLOPOWER_TITLE: "Siła dyplomatyczna"
  HINT_DIPLOPOWER_TEXT: "Siła dyplomatyczna to jeden z podstawowych zasobów w grze. Jest wykorzystywana przede wszystkim do zmieniania kultury w prowincjach, zwiększania poziomu technologii dyplomatycznej oraz odblokowywania nowych idei."
  HINT_MILPOWER_TITLE: "Punkty militarne"
- HINT_MILPOWER_TEXT: "Siła militarna to jeden z podstawowych zasobów w grze. Jest wykorzystywana przede wszystkim do zwiększania poziomu technologii militarnej, zatrudniania dowódców oraz odblokowywania nowych idei."
+ HINT_MILPOWER_TEXT: "Punkty militarne to jeden z podstawowych zasobów w grze. Jest wykorzystywana przede wszystkim do zwiększania poziomu technologii militarnej, zatrudniania dowódców oraz odblokowywania nowych idei."
  HINT_CHANGEGOV_TITLE: "Zmiana formy rządów"
  HINT_CHANGEGOV_TEXT: "Możesz zmienić swoją formę rządów. Monarchie mogą zostać przekształcone tylko w inne monarchie itd. Jedyną drogą do zmiany monarchii w republikę są odpowiednie decyzje państwowe. Zmiana formy rządów kosztuje 100 punktów administracyjnych."
  HINT_GOVTYPE_TITLE: "Ustrój państwa"
