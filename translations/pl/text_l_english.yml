@@ -7594,7 +7594,7 @@
  MANDATE_FROM_NONTRIBUTARIES: "Nietrybutariusze: "
  MANDATE_FROM_5_LOANS: "Co najmniej $LOANS|Y$ pożyczek: "
  CELESTIAL_DECISION_ALREADY_ENACTED: "Ta Decyzja została już podjęta."
- CELESTIAL_DECISION_NEED_EARLIER: "Zanim będzie można podjąć tę Decyzję, musisz uchwalić poprzednie."
+ CELESTIAL_DECISION_NEED_EARLIER: "Zanim będzie można podjąć tę decyzję, musisz uchwalić poprzednie."
  CELESTIAL_DECISION_ALL_ENACTED: "Wszystkie decyzje zostały już podjęte."
  CELESTIAL_DECISION_NONE_EXIST: "Brak istniejących decyzji."
  CELESTIAL_DECISION_MINIMUM_TO_ENACT: "Potrzebujesz minimum $MINVALUE|Y$ mandatu, aby podjąć tę Decyzję."
