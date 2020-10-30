@@ -7598,7 +7598,7 @@
  CELESTIAL_DECISION_ALL_ENACTED: "Wszystkie Decyzje zostały już podjęte."
  CELESTIAL_DECISION_NONE_EXIST: "Brak istniejących Decyzji."
  CELESTIAL_DECISION_MINIMUM_TO_ENACT: "Potrzebujesz minimum $MINVALUE|Y$ mandatu, aby podjąć tę Decyzję."
- CELESTIAL_DECISION_NOT_ENOUGH_MANDATE: "Ta Decyzje kosztuje $MANDATECOST|Y$ Mandatu, a ty posiadasz tylko $CURRENTMANDATE|Y$ Mandatu."
+ CELESTIAL_DECISION_NOT_ENOUGH_MANDATE: "Ta Decyzje kosztuje $MANDATECOST|Y$ mandatu, a ty posiadasz tylko $CURRENTMANDATE|Y$ mandatu."
  CELESTIAL_DECISION_NOT_ENOUGH_STABILITY: "Nie możesz obecnie wprowadzić tej reformy, ponieważ twój kraj jest zbyt zdezorganizowany. Ta Decyzja kosztuje $STABILITYCOST|Y$ Stabilności i nie możesz spaść poniżej $MINIMUMSTABILITY|Y$! Stabilności."
  CELESTIAL_DECISION_NOT_EMPEROR: "Musisz być §YCesarzem Chin§!, aby uchwalić Niebiańskie Reformy."
  CURRENT_CELESTIAL_EMPEROR: "$RULERNAME|Y$ jest aktualnym Cesarzem Chin."
