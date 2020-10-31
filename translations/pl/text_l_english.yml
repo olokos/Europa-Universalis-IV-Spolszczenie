@@ -6456,7 +6456,7 @@
  build_wharf_desc: "Ma miejsce wielki postęp na polu technologii produkcji, jednak spowodowane nim zmiany jeszcze się u nas nie przyjęły. Prowincja $PROVINCENAME$ to świetne miejsce, aby zbudować w niej manufakturę wyposażenia okrętowego. Znacznie zwiększymy tym miejscowy potencjał gospodarczy."
  build_plantations_title: "Plantacje w prowincji $PROVINCENAME$"
  build_plantations_desc: "Ma miejsce wielki postęp na polu technologii produkcji, jednak spowodowane nim zmiany jeszcze się u nas nie przyjęły. Prowincja $PROVINCENAME$ to świetne miejsce, aby założyć w niej plantacje. Znacznie zwiększymy tym miejscowy potencjał gospodarczy."
- build_tradecompany_title: "Stacja Handlowa w prowincji $PROVINCENAME$"
+ build_tradecompany_title: "Punkt handlowy w prowincji $PROVINCENAME$"
  build_tradecompany_desc: "Poczyniono wielkie postępy w dziedzinie technik produkcji, ale nie przyjęliśmy jeszcze tych zmian. Prowincja $PROVINCENAME$ jest idealnym miejscem do budowy Manufaktury Stacji Handlowych. Nasza gospodarka bardzo skorzysta na tej budowie."
  build_weapons_title: "Wytwórnia broni w prowincji $PROVINCENAME$"
  build_weapons_desc: "Ma miejsce wielki postęp na polu technologii produkcji, jednak spowodowane nim zmiany jeszcze się u nas nie przyjęły. Prowincja $PROVINCENAME$ to świetne miejsce, aby zbudować w niej manufakturę broni. Znacznie zwiększymy tym miejscowy potencjał gospodarczy."
