@@ -889,6 +889,6 @@
  PEACE_OPTION_REQUIRES_DEMANDING_INDPENDENCE: "Nie można tego żądać bez równoczesnego domagania się Niepodległości."
  MUST_WAIT_UNTIL_NEXT_PEACE_OFFER: "Musisz odczekać dzień, aby wysłać kolejną propozycję pokojową."
  PEACE_SUBJECT_WILL_CALL: "§RJeśli wybrano, zostaniesz wezwany do przyłączenia się do innych ich wojen.§!"
- CLAIMSTATETITLE: "Fabrykuj roszczenia w Regionie"
+ CLAIMSTATETITLE: "Fabrykuj roszczenia w obszarze"
  CLAIMSTATETITLEDESC: "Fabrykuj roszczenia względem wszystkich prowincji w tym regionie."
  CLAIM_STATE_SELECT_DESC: "Fabrykowanie roszczeń w Regionie zmniejszy rozmiar naszej siatki szpiegowskiej na terenie $ADJ|Y$ o $COST|R$ i da nam roszczenia względem wszystkich prowincji $ADJ$ w §Y$AREA$§W. Zachowają one ważność przez $YEARS|Y$ lat."
