@@ -464,7 +464,7 @@
  NAVY_BALANCE_LESS_THAN: "Względny stosunek rozmiaru floty do $COUNTRY|Y$ jest mniejszy niż"
  NAVY_BALANCE_AT_LEAST: "Względny stosunek rozmiaru floty do $COUNTRY|Y$ wynosi co najmniej"
  MILITARY_STRENGTH_LESS_THAN: "Względny stosunek siły militarnej do $COUNTRY|Y$ jest mniejszy niż"
- MILITARY_STRENGTH_AT_LEAST: "Względny stosunek siły militarnej do $COUNTRY|Y$ wynosi co najmniej"
+ MILITARY_STRENGTH_AT_LEAST: "Względny stosunek siły militarnej do państwa $COUNTRY|Y$ wynosi co najmniej"
  ARMY_STRENGTH_LESS_THAN: "Względny stosunek siły armii do $COUNTRY|Y$ jest mniejszy niż"
  ARMY_STRENGTH_AT_LEAST: "Względny stosunek siły armii do $COUNTRY|Y$ wynosi co najmniej"
  NAVY_STRENGTH_LESS_THAN: "Względny stosunek siły morskiej do $COUNTRY|Y$ jest mniejszy niż"
