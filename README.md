@@ -5,8 +5,8 @@ Działa bezproblemowo z każdą wersją gry 1.30
 
 Stan w  wersji 2.8.9 [16.11.2020]:
 ---
- * 19,606 sprawdzonych wpisów
- * 71,217 przetłumaczonych wpisów
+ * 19,808 sprawdzonych wpisów
+ * 75,551 przetłumaczonych wpisów
  * 18,861 nieprzetłumaczonych wpisów
 
 Jest to obecnie najpełniejsze spolszczenie, stworzone przez społeczność gry.
