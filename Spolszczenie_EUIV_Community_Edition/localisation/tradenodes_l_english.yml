@@ -181,7 +181,7 @@
  NO_TRADE_COMPANY_OVERSEAS:0 "Kompanie handlowe mo¿esz tworzy¾ wy³¹cznie za morzem."
  TRADE_NAME_SORT_TOOLTIP:0 "Sortuj wed³ug kraju"
  WHO_HAS_TRADE_COMPANY_IN:0 "$WHO|Y$ posiada kompani² handlow¹ w regionie $REGION|Y$."
- GOODS_PRODUCED_BONUS:0 "§YProduction Increase§!\nKompanie handlowe z tego regionu zwi²kszaj¹ iloœ¾ towarów wytwarzanych przez prowincje spoza kompanii o $VAL|2+=%$ dzi²ki:\n$WHY$"
+ GOODS_PRODUCED_BONUS:0 "§YWzrost produkcji§!\nKompanie handlowe z tego regionu zwi²kszaj¹ iloœ¾ towarów wytwarzanych przez prowincje spoza kompanii o $VAL|2+=%$ dzi²ki:\n$WHY$"
  TRADE_SHIPS_IN_NODE:0 "W tym w²Ÿle $COUNT|Y$ twoich lekkich okr²tów zajmuje si² ochron¹ handlu.\nGeneruj¹ one $TRADEPOWER|Y$ si³y handlowej."
  PRIVATEERS_IN_NODE:0 "W tym w²Ÿle $PRIVATEERCOUNT|Y$ twoich okr²tów uprawia korsarstwo.\nMaj¹ one $PRIVATEERTRADEPOWER|Y$ ca³kowitej si³y handlowej."
  aleppo:0 "Aleppo"

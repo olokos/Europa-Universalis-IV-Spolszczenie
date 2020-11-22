@@ -156,7 +156,7 @@
  DIPLO_MORE_BASE_TAX_THAN:0 "Kraj $WHO$ ma ca³kowity poziom rozwoju paªstwa wi²kszy ni¿ $VAL$:"
  DIPLO_LESS_BASE_TAX_THAN:0 "Kraj $WHO$ ma ca³kowity poziom rozwoju paªstwa mniejszy ni¿ $VAL$:"
  DIPLO_TOTAL_DEVELOPMENT:0 "$TARGET$ has $VAL$ development:"
- DIPLO_MILITARY_POWER:0 "Punkty militarne $WHO$ w porównaniu do $OTHER$:"
+ DIPLO_MILITARY_POWER:0 "Si³a militarna $WHO$ w porównaniu do $OTHER$:"
  DIPLO_HAS_MORE_PROVINCES_THAN:0 "Kraj $WHO$ ma ponad $VAL$ prowincji:"
  DIPLO_WAR_ON_OVERLORD:0 "Wojna toczy si² przeciw suwerenowi paªstwa $WHO$:"
  DIPLO_NO_ENEMIES:0 "Brak w³aœciwych wrogów:"

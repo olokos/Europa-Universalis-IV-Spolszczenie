@@ -460,7 +460,7 @@
  MODIFIER_INNOVATIVENESS_GAIN:0 "Wzrost innowacyjnoœci"
  CHANGE_ASPECT_COST:0 "Kosztuje $COST|Y$ si³y Koœcio³a."
  COMPLETE_MISSION_EFFECT:0 "Ukoªcz misj² $MISSION|Y$ bez nagród"
- island_provinces_tooltip:0 "Posiadaj lub spraw, by poddany nieb²d¹cy trybutem posiada³ wszystkie prowincje bez bezpoœredniego po³¹czenia l¹dowego ze Sztokholmem, Panam¹ lub Guugu Yimithirr."
+ island_provinces_tooltip:0 "Posiadaj lub spraw, by poddany nieb²d¹cy trybutariuszem posiada³ wszystkie prowincje bez bezpoœredniego po³¹czenia l¹dowego ze Sztokholmem, Panam¹ lub Guugu Yimithirr."
  CLICK_TO_CENTER_HIGHLIGHTED:0 "Kliknij, aby wyœrodkowa¾"
  HAVE_THE_ACTIVE_PROVINCE_MODIFIER:0 "Ma aktywny modyfikator prowincji "
  DONT_HAVE_THE_ACTIVE_PROVINCE_MODIFIER:0 "NIE ma aktywnego modyfikatora prowincji"
