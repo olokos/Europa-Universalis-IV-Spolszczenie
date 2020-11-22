@@ -892,3 +892,4 @@
  CLAIMSTATETITLE: "Fabricate Claim on Area"
  CLAIMSTATETITLEDESC: "Fabricate a claim on all provinces in an area."
  CLAIM_STATE_SELECT_DESC: "Fabricate Claim on Area will reduce the size of our $ADJ|Y$ Spy Network by $COST|R$ and give us claims on all $ADJ$ provinces in §Y$AREA$§W. The claims will last for $YEARS|Y$ years."
+ CURIA_BUY_INDULGENCE_AT_WAR: "§RYou are currently fighting a war over your excommunication.§!"
