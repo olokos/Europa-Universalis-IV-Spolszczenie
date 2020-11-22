@@ -2143,7 +2143,7 @@
  CV_ECONOMY_LOAN_REPAY_DESC: "Spłać pożyczkę"
  CV_ECONOMY_LOAN_REPAY_BUTTON_DESC: "Kliknij tu aby otworzyć okno z twoimi pożyczkami"
  CV_ECONOMY_LOAN_NOREPAY_BUTTON_DESC: "Nie masz żadnych pożyczek!"
- CV_BALANCE_DESC: "Balans to §dochód§! minus §koszty§!."
+ CV_BALANCE_DESC: "Saldo to §Gdochód§! minus §Rkoszty§!."
  CV_INCOMES_TOTAL_DESC: "Suma przychodów wynosi §Y$VAL$§W"
  CV_EXPENSES_TOTAL_DESC: "Suma wydatków wynosi §Y$VAL$§W"
  CV_INCOMES_TEMP_DESC: "Dary: §Y$GIFTS$§W\nWydarzenia: §Y$EVENTS$§W\nZatrudnieni doradcy: §Y$ADVISOR$§W"
