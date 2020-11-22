@@ -1,6 +1,6 @@
 name="Spolszczenie EUIV Community Edition"
 picture="Spolszczenie_EUIV_Community_Edition.jpg"
-version="2.8.8"
+version="2.8.9"
 tags={
 	"Translation"
 }
