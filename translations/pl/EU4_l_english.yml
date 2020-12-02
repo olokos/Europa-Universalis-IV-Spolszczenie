@@ -1163,7 +1163,7 @@
  IA_CHANGE_TOTAL: "Autorytet cesarstwa zmienia się miesięcznie o $VAL$."
  HRE_HERETIC_IMPACT: "Obecnie §Y$NUM$§! prowincji ŚCR wyznaje herezję. Zmniejsza to autorytet cesarstwa o $VAL$ miesięcznie."
  FREE_CITIES_IA: "§Y$NUM$§! wolnych miast w obrębie ŚCR zwiększa autorytet cesarstwa o $VAL$ miesięcznie."
- HRE_NUM_PRINCES_IMPACT: "Do imperium obecnie należy §Y$CURR$§! państw członkowskich, a potrzebne jest §Y$NEED$§ aby utrzymania legitymacji. To zmienia autorytet cesarstwa o $VAL$ miesięcznie."
+ HRE_NUM_PRINCES_IMPACT: "Do imperium obecnie należy §Y$CURR$§! państw członkowskich, a potrzebne jest §Y$NEED$§! aby utrzymania legitymacji. To zmienia autorytet cesarstwa o $VAL$ miesięcznie."
  LACK_OF_ELECTORS: "Cesarstwo posiada tylko §Y$CURR$§! elektorów, a potrzebuje §Y$NEED$§! aby działało prawidłowo. Dlatego autorytet cesarstwa zmniejsza się o §R$VAL$§! miesięcznie."
  VASSALIZED_ELECTORS: "§Y$CURR$§! z elektorów jest podległymi państwami. Dlatego autorytet cesarstwa spada o §R$VAL$§! miesięcznie."
  ENACT_DECREE_ONLY_ONE: "Tylko jeden dekret może zostać uchwalony na raz i nie można go anulować przed datą końcową.\n"
