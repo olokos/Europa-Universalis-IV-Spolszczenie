@@ -346,7 +346,7 @@
  CANT_STEER_TRADE_SUBJECT_TYPE: "$SUBJECTTYPE$ musi sterować handlem do swojego suwerena."
  PEACE_STEER_TRADE: "Steruj handlem"
  PEACE_OTHERS_STEER_TRADE: "$WHOS$ steruje handlem"
- STEER_TRADE_TO_DESC: "Kupcy z państwa $FROM$ będą zmuszeni do sterowania handlem do $TO$. Będzie to obowiązywać do koca trwania rozejuy."
+ STEER_TRADE_TO_DESC: "Kupcy z państwa $FROM$ będą zmuszeni do sterowania handlem do państwa $TO$. Będzie to obowiązywać do końca trwania rozejmu."
  OTHERS_STEER_TRADE_TO_DESC: "Kraj $FROM$ nie będzie już sterować handlem do $ORG$. Zamiast tego ich kupcy będą kierować transakcjami do $TO$. Będzie to obowiązywać przez czas rozejmu."
  KNOWLEDGE_SHARING_INTERACT_WHAT: "aby rozpocząć udostępnianie wiedzy"
  KNOWLEDGE_SHARING_INTERACT_EFFECT: "Rozszerzanie $INSTITUTION$ zostanie przyspieszone w obszarze stolicy państwa $SUBJECT$."
