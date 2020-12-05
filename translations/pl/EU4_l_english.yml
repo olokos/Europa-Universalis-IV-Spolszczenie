@@ -363,7 +363,7 @@
  ATTACK_BONUS_IN_CAPITAL_TERRAIN_IN_PROV: "§G+1 Premii do Walki§! dla nas ze względu na ten sam teren co w naszej Stolicy"
  CAN_BYPASS_FORTS: "Ignoruj Strefę Kontroli"
  IGNORE_CORING_DISTANCE: "Ignoruj dystans unaradawiania"
- FORCE_MARCH_FREE: "Siły wojskowe Marchii nie kosztują Siły"
+ FORCE_MARCH_FREE: "Forsowny marsz nie kosztuje punktów"
  SPLENDOR_MONTHLY_GAIN: "Zyskujesz $VAL$ splendoru miesięcznie z powodu:\n"
  ADD_AGE_AB_NOT_ENOUGH_SPLENDOR: "Potrzebujesz więcej splendoru, ponieważ zakup kosztuje $NEED|Y$, a masz tylko $CURR|Y$."
  AGE_STARTS_WHEN: "Ta era zaczyna się gdy\n$HOW$\ngdy powyższe warunki były spełnione przez $MONTHS|Y$ miesięcy."
