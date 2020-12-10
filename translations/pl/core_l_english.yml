@@ -51,7 +51,7 @@
  PROVINCEGROUPS: "Grupy prowincji"
  COLONIALREGION: "Region kolonialny"
  TRADE_COMPANY: "Kompania handlowa"
- THE_NAME_AREATYPE: "§W§Y$NAME$§! $AREATYPE$§!"
+ THE_NAME_AREATYPE: "$AREATYPE$§! §W§Y$NAME$§!"
  IS_ATPEACE: "W trakcie pokoju"
  IS_IN_DEFICIT: "Ma deficyt budżetowy"
  IS_NOT_IN_DEFICIT: "NIE ma deficytu budżetowego"
