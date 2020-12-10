@@ -4952,7 +4952,7 @@
  INSTITUTION_JUST_ONE_GROWING: "W danym momencie w prowincji może rozwijać się tylko jeden nurt."
  RELIGIOUS_FAITH: "$RELIGIOUS$ Wiary"
  RNW_BLOCKED_BY_MOD: "§RPoniższy mod wyklucza losowy Nowy Świat:§! §Y$NAME$§!"
- AGE_X_MONTHS_AFTER: "Ta erarozpocznie się za $MONTH|Y$ miesięcy po spełnieniu następujących warunków:"
+ AGE_X_MONTHS_AFTER: "Ta era rozpocznie się $MONTH|Y$ miesięcy po spełnieniu następujących warunków:"
  alert_age_ending_soon_instant: "$AGENAME|Y$ kończy się za $MONTH|Y$ miesięcy!"
  alert_age_ending_soon_delayed: "Obecny wiek dobiega końca. Splendor spadnie do zera i zostaną usunięte wszystkie zdolności, oraz będzie dostępny nowy zestaw celów."
  alert_age_can_spend_splendor_instant: "§YMożesz kupić zdolność§!"
