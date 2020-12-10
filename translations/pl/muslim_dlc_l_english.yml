@@ -53,7 +53,7 @@
  muslim_dlc.EVTDESC13: "Wielki dwudniowy pożar w Istambule zniszczył dzielnice żydowskie. Podjęto decyzję, że spalone dzielnice zostaną obowiązkowo wykupione przez państwo. Żydowscy kupcy protestują przeciwko temu i dążą do zmiany niekorzystnych dla nich decyzji, oferując Wielkiemu Wezyrowi dużą łapówkę z ich \"funduszu wypadków i sytuacji nadzwyczajnych\". Wielki Wezyr powiedział $MONARCHTITLE$ co zaoferowali żydowscy kupcy, aby uniknąć obowiązkowego wykupu i czeka teraz na odpowiedź."
  muslim_dlc.EVTOPTA13: "Przyjmij łapówkę"
  muslim_dlc.EVTOPTB13: "Odmów łapówki i ukaż łapówkarzy"
- muslim_dlc.EVTNAME14: "Zakon Chishti"
+ muslim_dlc.EVTNAME14: "Zakon Czisztijja"
  muslim_dlc.EVTDESC14: "Zakon Chishti znany ze swojego nastawienia na miłość, tolerancję i otwartość, rozprzestrzenił się w prowincjach $COUNTRY$, a ich przyjazne nastawienie względem ludzi poszukujących wiary może pomóc zdobyć więcej wyznawców islamowi. Zakon jest raczej restrykcyjny w swoim przekonaniu, że nauczyciele Chishti nie powinni pojawiać się na dworze królewskim, ani nie powinni angażować się w sprawy państwowe, gdyż zdeprawuje to ich dusze sprawami tego świata. Niektórzy muzułmanie twierdzą, że muzyka jest zakazana, podczas gdy wyznawcy Chishti wierzą, że pieśni lub słuchanie muzyki mogą wywołać boskie objawienie."
  muslim_dlc.EVTOPTA14: "Uznaj zakon Chishti"
  muslim_dlc.EVTOPTB14: "Wyrzuć ich z $COUNTRY$!"
