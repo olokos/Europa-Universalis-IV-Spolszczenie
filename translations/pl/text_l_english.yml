@@ -7114,7 +7114,7 @@
  GOV_TRIBAL_WOES: "Plemienny kryzys sukcesji"
  HRE_DECISIONS: "Reformy cesarstwa"
  ALL_OWNED_PROVS: "wszystkie posiadane prowincje"
- EVERY_OWNED_PROV: "Każda posiadana prowincja"
+ EVERY_OWNED_PROV: "każdej posiadanej"
  alert_incoming_disaster_instant: "§YNadciągająca katastrofa§!"
  alert_incoming_disaster_delayed: "Twojemu państwu przydarzy się co najmniej jedna katastrofa.\n$LIST$"
  alert_disputed_succession_instant: "§YSpór o sukcesję§W"
