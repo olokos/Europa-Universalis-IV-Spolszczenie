@@ -133,7 +133,7 @@
  ADD_BUILDING: "§Y$NAME$§W w prowincji §Y$WHERE$§W - zyskane.\n"
  REM_BUILDING: "§R$NAME$§W w prowincji §Y$WHERE$§W - stracone.\n"
  GOODS_CHANGE: "§Y$NAME$§W - to dobro będzie odtąd produkowane w prowincji §Y$WHERE$§W.\n"
- PCULTURE_CHANGE: "Kulturą podstawową w prowincji §Y$WHERE$§W stanie się §Y$NAME$§W.\n"
+ PCULTURE_CHANGE: "Kulturą podstawową w prowincji §Y$WHERE$§W stanie się kultura §Y$NAME$§W.\n"
  SECEDE_PROVINCE: "Zrzeknij się prowincji §Y$WHERE$§W na rzecz kraju §Y$WHO$§W.\n"
  INHERIT: "Odziedzicz kraj §Y$WHO$§W.\n"
  RELEASE: "Przyznaj niepodległość państwu §Y$WHO$§W.\n"
