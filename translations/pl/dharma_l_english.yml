@@ -303,7 +303,7 @@
  jains_estate_events.7.t: "Hojna darowizna od dźinistów"
  jains_estate_events.7.d: "Stan [Root.GetAdjective] sprzymierzył się z wieloma zamożnymi rodzinami dźinistów. Przyznano im stanowiska w administracji, kontrolę nad miejscami pielgrzymkowymi oraz preferencyjne traktowanie w systemie podatkowym. Nasz ciężki patronat w końcu się opłacił; zaoferowali nam pomoc wielu wykwalifikowanych finansistów, którzy pomagają naszej administracji, i przekazali dużą sumę do naszego skarbca. Funkcjonowanie państwa przebiega teraz tak sprawnie, jak nigdy wcześniej."
  jains_estate_events.7.a: "To bardzo hojne"
- EST_VAL_JAINS_PREFERRED_BANKERS: "Preferowanie dźińskich bankierów: §Y$VAL$%§!"
+ EST_VAL_JAINS_PREFERRED_BANKERS: "Preferowanie dźinijskich bankierów: §Y$VAL$%§!"
  EST_VAL_BRAHMINS_PREFERRED_BANKERS: "Preferowanie bramińskich bankierów: §Y$VAL$%§!"
  EST_VAL_JAIN_ADMINISTRATION: "Dźiniści w administracji: §Y$VAL$%§!"
  jains_estate_events.8.t: "Paryushana"
