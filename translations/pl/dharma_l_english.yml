@@ -296,7 +296,7 @@
  jains_estate_events.5.c: "Sami spłacimy dług."
  EST_VAL_JAINS_PAYMENT: "Spłata długów dźinistów: §Y$VAL$%§!"
  EST_VAL_JAINS_PAYMENT_DENIED: "Odmowa spłaty długów dźinistów: §Y$VAL$%§!"
- jains_estate_events.6.t: "Dźinscy i bramińscy bankierzy"
+ jains_estate_events.6.t: "Dźinijscy i bramińscy bankierzy"
  jains_estate_events.6.d: "Podczas gdy państwo [Root.Country.GetName] zwykle polega na dźnickich rodzinach bankowych do finansowania pożyczek państwowych, Dźiniści są jednak dalecy od monopolu w tej dziedzinie. Kilka rodzin bramińskich również zajmuje się bankowością. Ich przedstawiciele argumentują za faworyzowaniem ich usług nad dźinitami. Chociaż nie mogą zaoferować takich samych niskich stóp procentowych, podkreślają, że zaufanie Hindusów do przywództwa bramińskiego będzie odpowiadać zwiększonej wierze w gospodarkę [Root.GetAdjective]."
  jains_estate_events.6.a: "Dźinscy bankierzy doskonale nam służą."
  jains_estate_events.6.b: "Zacznijmy faworyzować braminów."
