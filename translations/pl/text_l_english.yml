@@ -7096,7 +7096,7 @@
  western: "Zachodnia"
  basque_group: "Kraju Basków"
  sub_saharan: "zachodnioafrykańska"
- SPAWN_EVENT: "Nastąpiło wydarzenie '§Y$WHICH$§W' w dniu$TIME$."
+ SPAWN_EVENT: "Nastąpiło wydarzenie '§Y$WHICH$§W' w dniu$TIME$.\n"
  CG_UNION_DESC: "Każda kultura §Y$GROUP$§W uznaje kraj §Y$COUNTRY$§W za jeden ze swoich, stąd brak kar."
  INTERREGNUM: "(Bezkrólewie)"
  CANT_EMBARGO_SUBJECTTYPE: "$SUBJECTTYPES$ nie może nałożyć Embarga."
