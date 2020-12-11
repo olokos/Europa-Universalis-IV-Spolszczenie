@@ -326,7 +326,7 @@
  jains_estate_events.11.d: "[Root.jain_advisor.GetName], bogaty mąż z kasty dźinistów, od dawna jest bliskim sojusznikiem i powiernikiem [Root.Monarch.GetName]. Przez lata służby narodowi [Root.GetAdjective] [Root.jain_advisor.GetName] udowodnił nie tylko, że jest bezgranicznie lojalny, ale także, że jest wykwalifikowanym administratorem i strategiem wojskowym. [Root.jain_advisor.GetName] najlepiej byłby w stanie dalej służyć państwu, gdybyśmy formalnie przyznali mu tytuł Peśwy, czyli urząd premiera."
  jains_estate_events.11.a: "Mianuj [Root.jain_advisor.GetName] na premiera."
  jains_estate_events.11.b: "Zamiast tego nadaj mu mniej znaczący tytuł."
- EST_VAL_JAIN_PESHWA: "Dźinicki peśwa: §Y$VAL$%§!"
+ EST_VAL_JAIN_PESHWA: "Dźinijski Peśwa: §Y$VAL$%§!"
  EST_VAL_JAIN_PESHWA_REFUSED: "Odmowa stanowiska dźińskiemu doradcy: §Y$VAL$%§!"
  marathas_estate_events.1.t: "Bunt marathów w [Root.GetName]"
  marathas_estate_events.1.d: "Marathowie nie zgadzają się na konfiskatę ich własności w [Root.GetName] i zbuntowali się przeciwko nam!"
