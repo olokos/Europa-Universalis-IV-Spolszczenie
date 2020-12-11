@@ -1350,7 +1350,7 @@
  TECH_ALLOW_SUPPORT_REBELS: "Umożliwia wspieranie rebeliantów w obcych krajach."
  MAY_LOWER_N_ATTRITION: "§YWyniszczenie na morzach§! nie jest już co miesiąc zwiększane przez przebywanie na morzu.."
  RULER_SKILLS: " ($ADM$/$DIP$/$MIL$)"
- RULER_CLAIM: " z roszczeniami do prowincji $CLAIM$ "
+ RULER_CLAIM: " posiada $CLAIM$ roszczenia"
  RULER_CULTURE: ", z kultury $CULTURE|Y$"
  RULER_RELIGION: ", zgodnie z wiarą $RELIGION|Y$"
  RULER_AGE: " w wieku $AGE|Y$ lat"
