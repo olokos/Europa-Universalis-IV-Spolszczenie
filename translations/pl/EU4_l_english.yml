@@ -1351,7 +1351,7 @@
  MAY_LOWER_N_ATTRITION: "§YWyniszczenie na morzach§! nie jest już co miesiąc zwiększane przez przebywanie na morzu.."
  RULER_SKILLS: " ($ADM$/$DIP$/$MIL$)"
  RULER_CLAIM: "z roszczeniami do prowincji $CLAIM$ "
- RULER_CULTURE: ", z dziedzictwa $CULTURE|Y$"
+ RULER_CULTURE: ", z kultury $CULTURE|Y$"
  RULER_RELIGION: ", zgodnie z wiarą $RELIGION|Y$"
  RULER_AGE: " w wieku $AGE|Y$ lat"
  DEFINE_RULER_EFFECT: "$NAME|Y$$SKILLS$$CLAIM$$CULTURE$$RELIGION$ zostaje władcą$AGE$.\n$SKILL_CHANGE$"
