@@ -313,7 +313,7 @@
  jains_estate_events.9.t: "Rozprawa o dźinizmie"
  jains_estate_events.9.d: "Podczas gdy pogańskie religie mogą być tolerowane, w [Root.Country.GetName] nie ma miejsca dla kafirów, którzy w ogóle nie wierzą w Boga. $ESTATE_CHURCH$ oskarżył dźinistów o bycie kafirami, niewierzącymi w Boga i zwołał debatę przed [Root.Monarch.GetTitle], aby rozstrzygnąć sprawę.\n\n$ESTATE_CHURCH$ argumentują, że dźiniści nie wierzą w tego, kto jest czysty, bez formy fizycznej, niezmienny, bezgrzeszny, wyzwolony z odrodzenia, beznamiętny, niezależny, pogromcą grzechów i architektem całej radości. Twierdzą, że ta koncepcja Boga jest wspólna u muzułmanów i hindusów, ale nieobecna wśród dźinistów.\n\nObecni podczas debaty dźinijscy mnisi gorliwie odrzucają ten pogląd. Wybierając elastyczność, przedstawili wiele doktryn dźinizmu, aby zademonstrować swój teizm od kultu dźinji do samej koncepcji Dharmy.\n\nOstatecznie to [Root.Monarch.GetTitle] decyduje o losie dźinizmu w [Root.Country.GetName]. Musimy rozważyć, które argumenty są dla nas najbardziej przekonujące."
  jains_estate_events.9.a: "Dźiniści są teistami, tak jak my."
- jains_estate_events.9.b: "Dźinowie są kafirami, nie wierzą w żadnego Boga."
+ jains_estate_events.9.b: "Dźiniści są kafirami, nie wierzą w żadnego Boga."
  EST_VAL_JAINS_ARE_THEISTS: "Uznanie dźinistów za teistów: §Y$VAL$%§!"
  EST_VAL_JAINS_ARE_KHAFIRS: "Potępienie dźinistów jako kafirów: §Y$VAL$%§!"
  jains_estate_events.10.t: "Dźiniści żądają przywilejów religijnych"
