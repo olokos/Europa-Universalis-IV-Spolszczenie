@@ -246,7 +246,7 @@
  corruption_event.1.a: "Po co kłamać, skoro mamy najlepszą ofertę?"
  corruption_event.2.t: "Ufaj sąsiadowi"
  corruption_event.2.d: "Choć zachęca się obywateli do wykazywania dobrej wiary i zaufania podczas robienia interesów, w rzeczywistości jest to ryzyko, na które ludzie często nie mogą sobie pozwolić. Zupełnie inaczej jest w kraju [Root.GetName]. Udało nam się zwalczyć korupcję na tak wielu poziomach, że ludzie nie tylko ufają urzędnikom, że ci bez łapówek będą robić, co do nich należy, lecz również ufają sobie podczas robienia interesów. Powszechna wiara w ludzką uczciwość jest nicią, z której tkana jest materia społeczeństwa - a nasz kraj jest tego najlepszym przykładem."
- corruption_event.2.a: "Jak tego naucza religia [Root.Religion.GetName]."
+ corruption_event.2.a: "Jak tego naucza [Root.Religion.GetName]."
  corruption_event.3.t: "Sumienni badacze"
  corruption_event.3.d: "Instytucje akademickie nie są odporne na korupcję, a zyski czerpane z nadużywania stanowiska potrafią stanąć na drodze budowie dobrego środowiska do badań. Jednakże badacze z [Root.GetAdjective] są w znacznej mierze ponad takie kwestie, przekładając osobiste osiągnięcia naukowe nad tytuły i dobra doczesne. Nieobecność korupcji w społeczeństwie pozwala prowadzić badania i tworzyć wynalazki, nie oglądając się na partykularne interesy."
  corruption_event.3.a: "Poszukiwanie wiedzy musi być wartością samo w sobie."
