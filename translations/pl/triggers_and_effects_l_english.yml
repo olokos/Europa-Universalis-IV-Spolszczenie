@@ -268,7 +268,7 @@
  DIPLO_REP_LESS_THAN: "Reputacja dyplomatyczna wynosi mniej niż §Y$VAL$§!.\n"
  DIPLO_REP_AT_LEAST: "Reputacja dyplomatyczna wynosi co najmniej §Y$VAL$§!.\n"
  TARGET_GETS_NEW_CLAIM_EFFECT: "§Y$WHO$§W zyskuje roszczenia wobec §Y$NEW$§W.\n"
- TARGET_GETS_NEW_PERMANENT_CLAIM_EFFECT: "§Y$WHO$§W zyskuje stałe roszczenia wobec §Y$NEW$§W.\n"
+ TARGET_GETS_NEW_PERMANENT_CLAIM_EFFECT: "§Y$WHO$§W zyskuje stałe roszczenia do §Y$NEW$§W.\n"
  TARGET_LOSE_CLAIM_EFFECT: "§Y$WHO$§W traci roszczenia do §Y$LOSE$§W.\n"
  HAVE_NOT_CORE_CLAIM_AGAINST: "Nie ma roszczeń przeciwko "
  HAVE_CORE_CLAIM_AGAINST: "Ma roszczenia przeciwko "
