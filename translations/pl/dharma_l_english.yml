@@ -888,7 +888,7 @@
  LIT_parliament_name: "Seimas"
  turko_semitic_parliament_name: "Mejlis"
  maghrebi_parliament_name: "Madżlis"
- ENACT_REFORM_EFFECT_LOCK_WARNING: "(§RJest to zamknięta reforma. Nie będziesz mógł zmienić na innych reform na tym samym poziomie.§!)\n"
+ ENACT_REFORM_EFFECT_LOCK_WARNING: "(§RJest to zamknięta reforma. Nie będziesz mógł zmienić na inną reform na tym samym poziomie.§!)\n"
  ADD_PRESTIGE_SCALED_TO_SEATS: "$DIRECTION$ $PRESTIGE|G$ prestiżu z miejsc w parlamencie."
  ADD_MILITARIZATION_SCALED_TO_SEATS: "$DIRECTION$ $VALUE|G$ militaryzacji z miejsc w parlamencie."
  CREATE_TEAM: "Stwórz drużynę"
