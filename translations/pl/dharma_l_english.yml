@@ -776,7 +776,7 @@
  HAS_NOT_GOVERNMENT_ATTRIBUTE_SHORT_DESC: "$REFORM|Y$: $ATTRIBUTE|Y$"
  CANNOT_UPGRADE_RANK_DISALLOWED_BY_REFORMS: "Reformy rządu uniemożliwiają awans na następną rangę."
  monsoon_events.1.t: "Ogromny monsun w [severe_monsoon_province.GetAreaName]"
- monsoon_events.1.d: "Pogoda w [severe_monsoon_province.GetAreaName] była znacznie bardziej dotkliwa niż oczekiwano. Potężne wiatry i ulewne deszcze wyrządziły ogromne szkody zarówno osadom wiejskim, jak i miejskim. Konieczne będą kosztowne wysiłki na rzecz napraw, aby cofnąć część szkód, jednak całkowita naprawa będzie wymagała czasu [severe_monsoon_province.GetAreaName]."
+ monsoon_events.1.d: "Pogoda na obszarze [severe_monsoon_province.GetAreaName] była znacznie bardziej dotkliwa niż oczekiwano. Potężne wiatry i ulewne deszcze wyrządziły ogromne szkody zarówno osadom wiejskim, jak i miejskim. Konieczne będą kosztowne wysiłki na rzecz napraw, aby cofnąć część szkód, jednak całkowita naprawa obszaru [severe_monsoon_province.GetAreaName] będzie wymagała czasu."
  monsoon_events.1.a: "Zorganizuj akcję wsparcia."
  monsoon_events.1.b: "Straszna katastrofa."
  monsoon_events.2.t: "Susza na obszarze [monsoon_failure_province.GetAreaName]"
