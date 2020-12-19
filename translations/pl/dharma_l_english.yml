@@ -783,7 +783,7 @@
  monsoon_events.2.d: "Oczekiwane sezonowe deszcze nie dotarły do obszaru [monsoon_failure_province.GetAreaName]. Rozpoczął się okres suszy, a głód prawdopodobnie nadejdzie wraz ze zniszczeniem plonów."
  monsoon_events.2.a: "Ciężkie czasy."
  monsoon_events.3.t: "Deszcze powodują wzrost plonów w [good_monsoon_province.GetAreaName]"
- monsoon_events.3.d: "Sezonowe deszcze przyniosły dobrobyt w [good_monsoon_province.GetAreaName], ponieważ nie są ani zbyt łagodne, ani zbyt silne. Wraz z rozkwitem rolnictwa ludzie zyskują, a bogactwo w okolicy wzrasta."
+ monsoon_events.3.d: "Sezonowe deszcze przyniosły dobrobyt w obszarze [good_monsoon_province.GetAreaName], ponieważ nie są ani zbyt łagodne, ani zbyt silne. Wraz z rozkwitem rolnictwa ludzie zyskują, a bogactwo w okolicy wzrasta."
  monsoon_events.4.t: "Głód w [company_drought_province.GetAreaName]"
  monsoon_events.4.d: "[company_drought_province.TradeCompany.GetName] przekształciła krajobraz rolniczy w [company_drought_province.GetAreaName]. Tam, gdzie kiedyś na polach rosła żywność dla miejscowej ludności, kompania wymaga od nich silnego skupienia się na uprawach przemysłowych. Ta krótkowzroczna polityka mająca na celu natychmiastowy zysk przyniosła efekty odwrotne, ponieważ prowincja [company_drought_province.GetAreaName] została dotknięta szczególnie dotkliwa suszą. Kompania nie jest w stanie zebrać wystarczającej ilości żywności, aby wyżywić ludzi, i ponosi dużą odpowiedzialność za nadchodzący głód."
  monsoon_events.4.a: "Zysk ważniejszy od ludzi."
