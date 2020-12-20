@@ -530,7 +530,7 @@
  LIBERTY_DESIRE_FROM_DEVELOPMENT_VASSAL: "Z $AMOUNT|Y$ rozwoju: $VAL$"
  LEDGER_LOCAL_TRADE_GOODS_BONUS: " - $EFF$ do kontrolującego."
  PROV_PRODUCED_GOODS: "Produkuje $GOOD|Y$"
- OUR_CURRENT_SCORE: "Nasz aktualny Wskaźnik wynosi $SCORE|Y$."
+ OUR_CURRENT_SCORE: "Nasz aktualny wskaźnik wynosi $SCORE|Y$."
  MACRO_TEMPLATE_MAINT_COST_TT: "Koszt utrzymania: $VAL|Y$¤"
  CVIEW_OVEREXTENSION_AFFECTS: "§YEfekty aktualnego przerostu:§!"
  BLOCK_END_GAME_TAGS: "Ograniczone tworzenie państw"
