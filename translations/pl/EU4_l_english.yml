@@ -1877,7 +1877,7 @@
  SET_PRIMARY_CULTURE_NO_POINTS: "Potrzebujesz co najmniej $COST|Y$ punktów dyplomatycznych, by zmienić główną kulturę, a masz ich tylko $VAL|Y$!"
  SET_PRIMARY_CULTURE_COST: "Aby kultura $NAME|Y$ stałą się twoją kulturą główną, będziesz musiał wydać $COST|Y$ punktów dyplomatycznych."
  SET_PRIMARY_CULTURE_WRONG_TYPE: "$NAME|Y$ nie jest ani akceptowaną kulturą, ani nie należy do grupy kulturowej $GROUP|Y$, więc nie może zostać przekształcona w naszą kulturę podstawową."
- SET_PRIMARY_CULTURE_TOO_WEAK: "$NAME|Y$ musi wynosić co najmniej $NEED|Y$% rozwoju w twoich stanach, aby stać się kulturą podstawową. Aktualnie wynosi $VAL|Y$%."
+ SET_PRIMARY_CULTURE_TOO_WEAK: "$NAME|Y$ musi wynosić co najmniej  §Y$NEED$%§! rozwoju w twoich stanach, aby stać się kulturą podstawową. Aktualnie wynosi §Y$VAL$%§!."
  ADD_ACCEPTED_CULTURE_NO_POINTS: "Aby promować kulturę potrzebujesz co najmniej $COST|Y$ punktów dyplomatycznych, aby nadać jej status akceptowanej. Aktualnie posiadasz tylko $VAL|Y$."
  ADD_ACCEPTED_CULTURE_COST: "Promowanie kultury $NAME|Y$ będzie kosztować $COST|Y$ punktów dyplomatycznych."
  ADD_ACC_CULTURE_TOO_WEAK: "$NAME|Y$ musi wynosić co najmniej $NEED|Y$ rozwoju w twoich prowincjach, aby stać się kulturą podstawową. Aktualnie wynosi $VAL|Y$."
