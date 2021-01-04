@@ -20,7 +20,7 @@
  SPYNETWORKTOOSMALL:0 "Aby mo¿na by³o wykona¾ to dzia³anie dyplomatyczne, twoja siatka szpiegowska na terenie $ADJ|Y$ musi by¾ co najmniej na poziomie $AMOUNT|Y$."
  federation:0 "Przywódca federacji"
  in_war_togeather:0 "Wspólnie na wojnie"
- converted_our_culture:0 "Reprezentuje nasz¹ kultur²"
+ converted_our_culture:0 "Narzuciliœmy im nasz¹ kultur²"
  same_dynasty:0 "Ta sama dynastia"
  have_claim:0 "Wysuwa roszczenia"
  have_core:0 "Posiada prowincje narodowe"
@@ -892,3 +892,4 @@
  CLAIMSTATETITLE:0 "Fabrykuj roszczenia w obszarze"
  CLAIMSTATETITLEDESC:0 "Fabrykuj roszczenia wzgl²dem wszystkich prowincji w tym regionie."
  CLAIM_STATE_SELECT_DESC:0 "Fabrykowanie roszczeª w Regionie zmniejszy rozmiar naszej siatki szpiegowskiej na terenie $ADJ|Y$ o $COST|R$ i da nam roszczenia wzgl²dem wszystkich prowincji $ADJ$ w §Y$AREA$§W. Zachowaj¹ one wa¿noœ¾ przez $YEARS|Y$ lat."
+ CURIA_BUY_INDULGENCE_AT_WAR:0 "§RObecnie toczysz wojn², której powodem jest na³o¿ona na ciebie ekskomunika.§!"

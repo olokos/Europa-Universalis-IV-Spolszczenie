@@ -271,7 +271,7 @@
  WE_CONSCRIPTED_GENERAL:0 "to let their General $NAME|Y$ ($FIRE$/$SHOCK$/$MANUEVER$/$SIEGE$) fight for us instead. He was too good to serve an inferior Clan."
  NO_VALID_SUBJECT:0 "Nie masz ¿adnych Daimyo. "
  TOO_ILLEGITIMATE:0 "Twoja legitymizacja jest zbyt niska!"
- COOLDOWN_UNTIL:0 "$ACTION$ can only be used once every $YEARS$ years. You will be able to do it again in $UNTIL|Y$."
+ COOLDOWN_UNTIL:0 "$ACTION$ mo¿na u¿y¾ tylko raz na $YEARS$ lat. B²dziesz móg³ to zrobi¾ ponownie po $UNTIL|Y$."
  SWORD_HUNT_TITLE:0 "Polowanie na miecze"
  SWORD_HUNT_DESCRIPTION:0 "Wœród naszych poddanych jest wielu dysydentów, zw³aszcza roninów i Ikko-ikki, którzy stanowi¹ potencjalne zagro¿enie dla naszych prawych rz¹dów nad Japoni¹. Powinniœmy przeprowadzi¾ Polowanie na miecze, rozkazuj¹c naszym armiom w ca³ym kraju konfiskowa¾ broª od tych, którzy mog¹ chcie¾ nam zagrozi¾."
  SANKIN_KOTAI_TITLE:0 "Sankin kotai"

@@ -93,7 +93,7 @@
  NOFM_NO_POINTS:0 "Potrzebujesz §Y$COST$§W£mil, aby rozkaza¾ forsowny marsz, obecnie masz tylko §Y$VAL$§W£mil."
  NOT_AN_ARMY_FM:0 "Tylko armiom mo¿na wyda¾ rozkaz forsownego marszu."
  ALREADY_ON_FM:0 "Ta armia obecnie wykonuje forsowny marsz."
- IS_MOVING_FM:0 "Forsowny marsz mo¿esz rozkaza¾ tylko jednostkom stacjonarnym."
+ IS_MOVING_FM:0 "Forsowny marsz mo¿esz rozkaza¾ tylko jednostkom nie poruszaj¹cym si²."
  FORCE_MARCH:0 "Forsowny marsz"
  FORCE_MARCH_IRO:0 "Ordering a Forced March will increase movement speed to §Y$SPEED$%§W when moving, while costing §Y$COST$§W£mil per province moved."
  NO_MORALE_WHILE_FORCE_MARCH:0 "Armies cannot recover any morale while moving with forced march enabled."

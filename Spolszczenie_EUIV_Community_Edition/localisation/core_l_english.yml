@@ -51,7 +51,7 @@
  PROVINCEGROUPS:0 "Grupy prowincji"
  COLONIALREGION:0 "Region kolonialny"
  TRADE_COMPANY:0 "Kompania handlowa"
- THE_NAME_AREATYPE:0 "§W§Y$NAME$§! $AREATYPE$§!"
+ THE_NAME_AREATYPE:0 "$AREATYPE$§! §Y$NAME$§W"
  IS_ATPEACE:0 "W trakcie pokoju"
  IS_IN_DEFICIT:0 "Ma deficyt bud¿etowy"
  IS_NOT_IN_DEFICIT:0 "NIE ma deficytu bud¿etowego"

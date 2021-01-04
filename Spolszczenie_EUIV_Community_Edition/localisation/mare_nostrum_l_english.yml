@@ -246,7 +246,7 @@
  corruption_event.1.a:0 "Po co k³ama¾, skoro mamy najlepsz¹ ofert²?"
  corruption_event.2.t:0 "Ufaj s¹siadowi"
  corruption_event.2.d:0 "Cho¾ zach²ca si² obywateli do wykazywania dobrej wiary i zaufania podczas robienia interesów, w rzeczywistoœci jest to ryzyko, na które ludzie cz²sto nie mog¹ sobie pozwoli¾. Zupe³nie inaczej jest w kraju [Root.GetName]. Uda³o nam si² zwalczy¾ korupcj² na tak wielu poziomach, ¿e ludzie nie tylko ufaj¹ urz²dnikom, ¿e ci bez ³apówek b²d¹ robi¾, co do nich nale¿y, lecz równie¿ ufaj¹ sobie podczas robienia interesów. Powszechna wiara w ludzk¹ uczciwoœ¾ jest nici¹, z której tkana jest materia spo³eczeªstwa - a nasz kraj jest tego najlepszym przyk³adem."
- corruption_event.2.a:0 "Jak tego naucza religia [Root.Religion.GetName]."
+ corruption_event.2.a:0 "Jak tego naucza [Root.Religion.GetName]."
  corruption_event.3.t:0 "Sumienni badacze"
  corruption_event.3.d:0 "Instytucje akademickie nie s¹ odporne na korupcj², a zyski czerpane z nadu¿ywania stanowiska potrafi¹ stan¹¾ na drodze budowie dobrego œrodowiska do badaª. Jednak¿e badacze z [Root.GetAdjective] s¹ w znacznej mierze ponad takie kwestie, przek³adaj¹c osobiste osi¹gni²cia naukowe nad tytu³y i dobra doczesne. Nieobecnoœ¾ korupcji w spo³eczeªstwie pozwala prowadzi¾ badania i tworzy¾ wynalazki, nie ogl¹daj¹c si² na partykularne interesy."
  corruption_event.3.a:0 "Poszukiwanie wiedzy musi by¾ wartoœci¹ samo w sobie."
