@@ -1015,3 +1015,4 @@
  force_peasant_republic_desc: ""
  CB_ALLOWED_force_peasant_republic: ""
  PEACE_force_peasant_republic: ""
+ ESTATE_PRIVILEGE_MAX_GRANTED: ""

@@ -93,7 +93,7 @@
  NOFM_NO_POINTS: "Potrzebujesz §Y$COST$§W£mil, aby rozkazać forsowny marsz, obecnie masz tylko §Y$VAL$§W£mil."
  NOT_AN_ARMY_FM: "Tylko armiom można wydać rozkaz forsownego marszu."
  ALREADY_ON_FM: "Ta armia obecnie wykonuje forsowny marsz."
- IS_MOVING_FM: "Forsowny marsz możesz rozkazać tylko jednostkom stacjonarnym."
+ IS_MOVING_FM: "Forsowny marsz możesz rozkazać tylko jednostkom nie poruszającym się."
  FORCE_MARCH: "Forsowny marsz"
  FORCE_MARCH_IRO: ""
  NO_MORALE_WHILE_FORCE_MARCH: ""

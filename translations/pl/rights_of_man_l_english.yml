@@ -271,7 +271,7 @@
  WE_CONSCRIPTED_GENERAL: ""
  NO_VALID_SUBJECT: "Nie masz żadnych Daimyo. "
  TOO_ILLEGITIMATE: "Twoja legitymizacja jest zbyt niska!"
- COOLDOWN_UNTIL: ""
+ COOLDOWN_UNTIL: "$ACTION$ można użyć tylko raz na $YEARS$ lat. Będziesz mógł to zrobić ponownie po $UNTIL|Y$."
  SWORD_HUNT_TITLE: "Polowanie na miecze"
  SWORD_HUNT_DESCRIPTION: "Wśród naszych poddanych jest wielu dysydentów, zwłaszcza roninów i Ikko-ikki, którzy stanowią potencjalne zagrożenie dla naszych prawych rządów nad Japonią. Powinniśmy przeprowadzić Polowanie na miecze, rozkazując naszym armiom w całym kraju konfiskować broń od tych, którzy mogą chcieć nam zagrozić."
  SANKIN_KOTAI_TITLE: "Sankin kotai"
