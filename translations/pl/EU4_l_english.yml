@@ -2940,7 +2940,7 @@
  NO_MORE_BANKLOANS_UNCONDITIONAL: "Nie można zaciągać pożyczek bez bezwarunkowego wykupu!"
  WE_IMPACT_ON_ANNEX_INTEGRATE: "Aneksja dyplomatyczna i integracja: $VAL$\n"
  TRIBAL: "Plemię"
- NUM_OF_OWNED_PROVINCES_WITH: "posiadane prowincje (obecnie: $CURRENT$) z"
+ NUM_OF_OWNED_PROVINCES_WITH: " posiadane prowincje (obecnie: $CURRENT$) z"
  NUM_OF_OWNED_PROVINCES_WITH_INCLUDING_NON_SOVEREIGN_SUBJECTS: "prowincje posiadane przez ciebie lub przez twoich wasali niebędących trybutami (obecnie: $CURRENT$) z"
  NUM_OF_OWNED_STATES_WITH: "posiadane stany z"
  NUM_OF_OWNED_STATES_WITH_INCLUDING_NON_SOVEREIGN_SUBJECTS: "stany posiadane przez ciebie lub przez twoich wasali niebędących trybutami z"
