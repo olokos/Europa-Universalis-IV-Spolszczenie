@@ -334,7 +334,7 @@
  trade_company_events.EVTOPTA5: "Zmuś ich do wycofania się"
  trade_company_events.EVTOPTB5: "Wspieraj te działania"
  trade_company_events.EVTNAME6: "Masakra w kraju [Root.GetName]"
- trade_company_events.EVTDESC6: "Odkryto spisek w państwie [Root.GetName]! Kilku niezadowolonych pracowników zatrudnionych w miejscu [Root.TradeCompany.GetName] wspólnie z handlarzami z państwa [enemy_country.GetUsableName] oraz z gubernatorem [target_province.TradeCompany.GetName] planowało zająć pobliski fort i zamordować miejscowego gubernatora w celu osłabienia gospodarczej pozycji Kompanii. Na rozkaz gubernatora wszystkich spiskowców skazano na śmierć i ścięto. Incydent ten wywołał, oczywiście, skrajne reakcje..."
+ trade_company_events.EVTDESC6: "Odkryto spisek w państwie [Root.GetName]! Kilku niezadowolonych pracowników zatrudnionych w miejscu [Root.TradeCompany.GetName] wspólnie z handlarzami z państwa [enemy_country.GetName] oraz z gubernatorem [target_province.TradeCompany.GetName] planowało zająć pobliski fort i zamordować miejscowego gubernatora w celu osłabienia gospodarczej pozycji Kompanii. Na rozkaz gubernatora wszystkich spiskowców skazano na śmierć i ścięto. Incydent ten wywołał, oczywiście, skrajne reakcje..."
  trade_company_events.EVTOPTA6: "Wtrąć gubernatora do więzienia"
  trade_company_events.EVTOPTB6: "Wesprzyj gubernatora"
  trade_company_events.EVTNAME7: "Masakra w kraju [From.GetName]"
