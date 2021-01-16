@@ -7125,7 +7125,7 @@
  NOCLAIMLEGITIMACY: "Musisz posiadać co najmniej 50 pkt. legitymizacji."
  CANNOT_CLAIM_THRONES: "Nie ma pretensji do tronów"
  HAVE_WHAT_LESS_THAN: "Ma mniej $WHAT$ niż"
- HAVE_WHAT_MORE_THAN: "Ma $WHAT$ w ilości co najmniej"
+ HAVE_WHAT_MORE_THAN: "Ma $WHAT$ w ilości co najmniej "
  HAVE_LEGITIMACY_LESS_THAN: "Ma legitymizację poniżej "
  HAVE_LEGITIMACY_MORE_THAN: "Ma legitymizację co najmniej "
  HAVE_HORDE_UNITY_LESS_THAN: "Jedność hordy wynosi poniżej "
