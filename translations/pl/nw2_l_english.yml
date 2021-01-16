@@ -330,7 +330,7 @@
  trade_company_events.EVTOPTA4: "Wspaniała inicjatywa!"
  trade_company_events.EVTOPTB4: "Lepiej nie drażnić tubylców."
  trade_company_events.EVTNAME5: "Konflikt na granicy"
- trade_company_events.EVTDESC5: "Agresywne zachowanie [Root.TradeCompany.GetName] spowodowało konflikt z [enemy_country.GetUsableName] o prowincję [target_province.GetName]."
+ trade_company_events.EVTDESC5: "Agresywne zachowanie [Root.TradeCompany.GetName] spowodowało konflikt z [enemy_country.GetName] o prowincję [target_province.GetName]."
  trade_company_events.EVTOPTA5: "Zmuś ich do wycofania się"
  trade_company_events.EVTOPTB5: "Wspieraj te działania"
  trade_company_events.EVTNAME6: "Masakra w kraju [Root.GetName]"
