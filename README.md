@@ -65,7 +65,7 @@ Serdecznie zapraszamy do pomocy w tłumaczeniu!
 
 **Instalacja moda:**
 1. Zasubskrybuj modyfikację.
-2. Gdy uruchomisz grę, w launcherze w zakładce mody zaznacz "Spolszczenie EU4 - (wersja) fixed by olokos"
+2. Gdy uruchomisz grę, w launcherze w zakładce mody zaznacz "Spolszczenie EUIV Community Edition"
 3. Upewnij się, że w launcherze masz zaznaczoną angielską flagę! Spolszczenie podmienia język angielski na język polski.
 
 
