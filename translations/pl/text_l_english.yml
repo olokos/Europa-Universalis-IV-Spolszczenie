@@ -7095,7 +7095,7 @@
  RESET_CULTURE_GROUP_UNION: "§Y$OLD$§W kultury mogą teraz narzucać kary.\n"
  western: "Zachodnia"
  basque_group: "Kraju Basków"
- sub_saharan: "zachodnioafrykańska"
+ sub_saharan: "Zachodnioafrykańska"
  SPAWN_EVENT: "Nastąpiło wydarzenie '§Y$WHICH$§W'$TIME$.\n"
  CG_UNION_DESC: "Każda kultura §Y$GROUP$§W uznaje kraj §Y$COUNTRY$§W za jeden ze swoich, stąd brak kar."
  INTERREGNUM: "(Bezkrólewie)"
