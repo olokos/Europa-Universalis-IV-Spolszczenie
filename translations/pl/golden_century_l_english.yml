@@ -123,7 +123,7 @@
  EXPEL_MINORITY: "Wydal mniejszość: $NAME$"
  EXPEL_MINORITIES_FROM: "Wydal mniejszości z prowincji $PROVINCE$"
  EXPEL_MINORITIES_TOOLTIP: ""
- EXPEL_MINORITIES_TOOLTIP_EXTRA: ""
+ EXPEL_MINORITIES_TOOLTIP_EXTRA: "Kolonia przyjmie kulturę $CULTURE|Y$ oraz religię $RELIGION|Y$.\nTo będzie nas kosztowało $COST|Y$£dip oraz zmieni utrzymanie o $MAINTENANCE$.\nWydalenie mniejszości zwiększa szanse kolonisty o $SETTLER_CHANCE$ oraz po zakończeniu zwiększa rozwój kolonii o $VAL$.\n "
  EXPEL_MINORITIES_ALREADY_SHIPPED_OFF: "Ta mniejszość jest już wysyłana do kolonii $COLONY$."
  EXPEL_MINORITIES_NOT_CONTROLLED: "Możemy wydalać tylko mniejszości z prowincji, które obecnie kontrolujemy."
  EXPEL_MINORITIES_NOT_CORE: "Możemy wydalić mniejszości tylko z prowincji narodowych, będących częścią państwa."

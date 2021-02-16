@@ -13,7 +13,7 @@
  orthodox_icon_events.1.a: "Cudowny!"
  orthodox_icon_events.2.t: "Bunt w [eleusa_church_province.GetName]"
  orthodox_icon_events.2.d: "Lud [eleusa_church_province.GetName] zjednoczył się z miejscowym duchowieństwem i zbuntował się przeciwko naszej okupacji."
- orthodox_icon_events.2.a: "Buntownicze Ścierwo!"
+ orthodox_icon_events.2.a: "Buntownicze ścierwa!"
  orthodox_icon_events.3.t: "Św. Michał"
  orthodox_icon_events.3.d: "Niedawna kampania rekrutacyjna w  [michael_icon_church_province.GetName] przyczyniła się do zgłoszenia się niespotykanej liczby rekrutów. Lokalne duchowieństwo jest przekonane, że był to wynik rozprzestrzenienia się religijnego zapału który zapoczątkowała nasza ikona Świętego Michała. Mówią, że młodzi mężczyźni przybywali tu z całej okolicy, żeby zobaczyć ikonę Archistrategosa, a miejsce to opuszczali z silną wolą walki w imię naszej wiary."
  orthodox_icon_events.3.a: "Do broni!"
