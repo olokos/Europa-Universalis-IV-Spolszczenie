@@ -1,0 +1,35 @@
+#AVIALABLE CUSTOM LOCALISATION KEYS
+#When adding new custom loc keys, add them to the appropriate category (or add a new one) and describe them. Name the strings "String_X" where x is its content.
+# To not display anything, you can use 'localisation_key = ""'
+# Please add one example sentence for each key.
+
+
+## Dodanie żeńskiej końcówki -a lub męskiej -null
+defined_text = {
+	name = GetA
+	random = no
+	text = {
+		localisation_key = string_female_a
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_man_empty
+	}
+}
+
+## Dodanie żeńskiej końcówki -a lub męskiej -y
+defined_text = {
+	name = GetAY
+	random = no
+	text = {
+		localisation_key = string_female_a
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_man_y
+	}
+}

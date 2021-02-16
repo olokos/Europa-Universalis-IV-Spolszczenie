@@ -1,0 +1,331 @@
+#AVIALABLE CUSTOM LOCALISATION KEYS
+#When adding new custom loc keys, add them to the appropriate category (or add a new one) and describe them. Name the strings "String_X" where x is its content.
+# To not display anything, you can use 'localisation_key = string_""'
+# Please add one example sentence for each key.
+
+
+# Nazwy członków społeczności wyznaniowych
+
+defined_text = {
+	name = GetReligionPeop
+	random = no
+	text = {
+		localisation_key = string_catholicism_people
+		trigger = {
+			religion = catholic
+		}
+	}
+	text = {
+		localisation_key = string_anglicanism_people
+		trigger = {
+			religion = anglican
+		}
+	}
+	text = {
+		localisation_key = string_protestantism_people
+		trigger = {
+			religion = protestant
+		}
+	}
+	text = {
+		localisation_key = string_reformed_people
+		trigger = {
+			religion = reformed
+		}
+	}
+	text = {
+		localisation_key = string_orthodox_people
+		trigger = {
+			religion = orthodox
+		}
+	}
+	text = {
+		localisation_key = string_coptic_people
+		trigger = {
+			religion = coptic
+		}
+	}
+	text = {
+		localisation_key = string_sunni_people
+		trigger = {
+			religion = sunni
+		}
+	}
+	text = {
+		localisation_key = string_shia_people
+		trigger = {
+			religion = shiite
+		}
+	}
+	text = {
+		localisation_key = string_ibadism_people
+		trigger = {
+			religion = ibadi
+		}
+	}
+	text = {
+		localisation_key = string_theravada_people
+		trigger = {
+			religion = buddhism
+		}
+	}
+	text = {
+		localisation_key = string_vajrayana_people
+		trigger = {
+			religion = vajrayana
+		}
+	}
+	text = {
+		localisation_key = string_mahayana_people
+		trigger = {
+			religion = mahayana
+		}
+	}
+	text = {
+		localisation_key = string_confucianism_people
+		trigger = {
+			religion = confucianism
+		}
+	}
+	text = {
+		localisation_key = string_shintoism_people
+		trigger = {
+			religion = shinto
+		}
+	}
+	text = {
+		localisation_key = string_hinduism_people
+		trigger = {
+			religion = hinduism
+		}
+	}
+	text = {
+		localisation_key = string_sikhism_people
+		trigger = {
+			religion = sikhism
+		}
+	}
+	text = {
+		localisation_key = string_animism_people
+		trigger = {
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_fetishism_people
+		trigger = {
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_totemism_people
+		trigger = {
+			religion = totemism
+		}
+	}
+	text = {
+		localisation_key = string_inti_people
+		trigger = {
+			religion = inti
+		}
+	}
+	text = {
+		localisation_key = string_nahuatl_people
+		trigger = {
+			religion = nahuatl
+		}
+	}
+	text = {
+		localisation_key = string_mayan_people
+		trigger = {
+			religion = mesoamerican_religion
+		}
+	}
+	text = {
+		localisation_key = string_norse_people
+		trigger = {
+			religion = norse_pagan_reformed
+		}
+	}
+	text = {
+		localisation_key = string_tengrianism_people
+		trigger = {
+			religion = tengri_pagan_reformed
+		}
+	}
+	text = {
+		localisation_key = string_judaism_people
+		trigger = {
+			religion = jewish
+		}
+	}
+	text = {
+		localisation_key = string_zoroastrianism_people
+		trigger = {
+			religion = zoroastrian
+		}
+	}
+}
+
+## Nazwy członków społeczności wyznaniowych zapisany dużą literą
+defined_text = {
+	name = GetReligionPeopCap
+	random = no
+	text = {
+		localisation_key = string_catholicism_peopleCap
+		trigger = {
+			religion = catholic
+		}
+	}
+	text = {
+		localisation_key = string_anglicanism_peopleCap
+		trigger = {
+			religion = anglican
+		}
+	}
+	text = {
+		localisation_key = string_protestantism_peopleCap
+		trigger = {
+			religion = protestant
+		}
+	}
+	text = {
+		localisation_key = string_reformed_peopleCap
+		trigger = {
+			religion = reformed
+		}
+	}
+	text = {
+		localisation_key = string_orthodox_peopleCap
+		trigger = {
+			religion = orthodox
+		}
+	}
+	text = {
+		localisation_key = string_coptic_peopleCap
+		trigger = {
+			religion = coptic
+		}
+	}
+	text = {
+		localisation_key = string_sunni_peopleCap
+		trigger = {
+			religion = sunni
+		}
+	}
+	text = {
+		localisation_key = string_shia_peopleCap
+		trigger = {
+			religion = shiite
+		}
+	}
+	text = {
+		localisation_key = string_ibadism_peopleCap
+		trigger = {
+			religion = ibadi
+		}
+	}
+	text = {
+		localisation_key = string_theravada_peopleCap
+		trigger = {
+			religion = buddhism
+		}
+	}
+	text = {
+		localisation_key = string_vajrayana_peopleCap
+		trigger = {
+			religion = vajrayana
+		}
+	}
+	text = {
+		localisation_key = string_mahayana_peopleCap
+		trigger = {
+			religion = mahayana
+		}
+	}
+	text = {
+		localisation_key = string_confucianism_peopleCap
+		trigger = {
+			religion = confucianism
+		}
+	}
+	text = {
+		localisation_key = string_shintoism_peopleCap
+		trigger = {
+			religion = shinto
+		}
+	}
+	text = {
+		localisation_key = string_hinduism_peopleCap
+		trigger = {
+			religion = hinduism
+		}
+	}
+	text = {
+		localisation_key = string_sikhism_peopleCap
+		trigger = {
+			religion = sikhism
+		}
+	}
+	text = {
+		localisation_key = string_animism_peopleCap
+		trigger = {
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_fetishism_peopleCap
+		trigger = {
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_totemism_peopleCap
+		trigger = {
+			religion = totemism
+		}
+	}
+	text = {
+		localisation_key = string_inti_peopleCap
+		trigger = {
+			religion = inti
+		}
+	}
+	text = {
+		localisation_key = string_nahuatl_peopleCap
+		trigger = {
+			religion = nahuatl
+		}
+	}
+	text = {
+		localisation_key = string_mayan_peopleCap
+		trigger = {
+			religion = mesoamerican_religion
+		}
+	}
+	text = {
+		localisation_key = string_norse_peopleCap
+		trigger = {
+			religion = norse_pagan_reformed
+		}
+	}
+	text = {
+		localisation_key = string_tengrianism_peopleCap
+		trigger = {
+			religion = tengri_pagan_reformed
+		}
+	}
+	text = {
+		localisation_key = string_judaism_peopleCap
+		trigger = {
+			religion = jewish
+		}
+	}
+	text = {
+		localisation_key = string_zoroastrianism_peopleCap
+		trigger = {
+			religion = zoroastrian
+		}
+	}
+}
+
