@@ -3235,6 +3235,7 @@
  MATCHMAKING_FRIEND_STATUS_ONLINE: "§MOnline§!"
  MATCHMAKING_FRIEND_STATUS_PLAYING_THIS: "§lPlaying Europa Universalis IV§!"
  MATCHMAKING_FRIEND_STATUS_PLAYING_OTHER: "§MPlaying Other Game§!"
+ MATCHMAKING_PLAYER_NAME: "Player name\nMust be unique"
  ALLOW_HOTJOIN: "Allow players to hotjoin"
  ALLOW_COOP: "Allow players to play the same country"
  ALLOW_COOP_MP: "Allow players to play the same country"

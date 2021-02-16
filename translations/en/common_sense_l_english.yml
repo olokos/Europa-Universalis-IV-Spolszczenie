@@ -1621,7 +1621,7 @@
  PLS_WAIT_CHECKSUM: "Please wait for the version to finish being calculated."
  MP_DISABLED_NO_STEAM: "Please start Steam to access multiplayer features."
  MP_DISABLED_NO_PDX_LOGIN: "Please log in to your Paradox Account to access multiplayer features."
- LOGOUT_PDX: "You are currently logged in. Click here to log out of your Paradox Account."
+ LOGOUT_PDX: "You are currently logged in with $ACCOUNT$ account. Click here to log out of your Paradox Account."
  LOGIN_PDX: "You are currently not logged in. Click here to log in to your Paradox Account."
  ACHIEVEMENTS_CAN_BE_EARNED: "Achievements §GCAN§! be earned this session."
  ACHIEVEMENTS_CANNOT_BE_EARNED: "Achievements §RCANNOT§! be earned this session."
