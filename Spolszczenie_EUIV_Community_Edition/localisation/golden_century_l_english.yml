@@ -123,7 +123,7 @@
  EXPEL_MINORITY:0 "Wydal mniejszoœ¾: $NAME$"
  EXPEL_MINORITIES_FROM:0 "Wydal mniejszoœci z prowincji $PROVINCE$"
  EXPEL_MINORITIES_TOOLTIP:0 "Minorities from $PROVINCE|Y$ will be slowly shipped off to $COLONY|Y$, leaving only subjects of our primary culture and faith."
- EXPEL_MINORITIES_TOOLTIP_EXTRA:0 "The colony will adopt the $CULTURE|Y$ culture and $RELIGION|Y$ religion.\nThis will cost us $COST|Y$£dip and change the colonist maintenance by $MAINTENANCE$.\nExpelled minorities will also increase the settler chance by $SETTLER_CHANCE$ and the colony development by $VAL$ on completion."
+ EXPEL_MINORITIES_TOOLTIP_EXTRA:0 "Kolonia przyjmie kultur² $CULTURE|Y$ oraz religi² $RELIGION|Y$.\nTo b²dzie nas kosztowa³o $COST|Y$£dip oraz zmieni utrzymanie o $MAINTENANCE$.\nWydalenie mniejszoœci zwi²ksza szanse kolonisty o $SETTLER_CHANCE$ oraz po zakoªczeniu zwi²ksza rozwój kolonii o $VAL$.\n "
  EXPEL_MINORITIES_ALREADY_SHIPPED_OFF:0 "Ta mniejszoœ¾ jest ju¿ wysy³ana do kolonii $COLONY$."
  EXPEL_MINORITIES_NOT_CONTROLLED:0 "Mo¿emy wydala¾ tylko mniejszoœci z prowincji, które obecnie kontrolujemy."
  EXPEL_MINORITIES_NOT_CORE:0 "Mo¿emy wydali¾ mniejszoœci tylko z prowincji narodowych, b²d¹cych cz²œci¹ paªstwa."

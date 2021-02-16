@@ -1365,7 +1365,7 @@
  incan_nation_rnw_title:0 "Tawantinsuyu, Imperium Inków"
  incan_nation_rnw_desc:0 "Niegdyœ jedno z wielu ma³ych regionalnych królestw, a dziœ nasze paªstwo posiada ziemi² we wszystkich czterech regionach Andów. Nasze królestwo przekszta³ci³o si² w coœ wi²kszego, pot²¿ne imperium wielu narodów zjednoczonych pod siln¹ klas¹ w³adców. Dla naszych poddanych jesteœmy po prostu ich zwierzchnikami, Inkami."
  incan_nation_empire_custom_tooltip:0 "The Government Rank of §Y[Root.GetName]§! changes to §YEmpire§!."
- andean_group:0 "Andyjska"
+ andean_group:0 "andyjska"
  andean_desc:0 "W ramach andyjskiej grupy technologicznej koszt poziomu technologicznego jest wy¿szy o 150% (250% wartoœci podstawowej)."
  oromo_spawn_region:0 "Oromia"
  eth_independent_church:0 "An Independent Church"
