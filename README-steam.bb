@@ -2,10 +2,14 @@
 Spolszczenie do najnowszej wersji Europa Universalis 1.30.4.0
 Działa bezproblemowo z każdą wersją gry 1.30
 
-[h2]Stan w  wersji 2.9 [04.01.2021]:[/h2]
- * 19,812 sprawdzonych wpisów
- * 73,393 przetłumaczonych wpisów
- * 18,396 nieprzetłumaczonych wpisów
+[h2]Stan w  wersji 2.9.1 [16.02.2021]:[/h2]
+ * 19,813 sprawdzonych wpisów
+ * 73,788 przetłumaczonych wpisów
+ * 18,001 nieprzetłumaczonych wpisów
+
+  strings Reviewed
+  strings Translated
+ 18,001 strings Untranslated
 
 Jest to obecnie najpełniejsze spolszczenie, stworzone przez społeczność gry.
 Pracę projektu obejmuą 105 plików z czego do przetłumaczenia pozostało 23.
@@ -42,7 +46,7 @@ If you want to request a new language, make sure you can translate at least 10% 
 Once you are on the site above - press on "Help Translate" button on the right to help translating it in your language!
 
 [h2]Jak się dołączyć?[/h2]
-Po więcej informacji zapraszamy na serwer discord [url=https://discord.gg/QUB7z23]]Dostępny Tutaj[/url]
+Po więcej informacji zapraszamy na serwer discord [url=https://discord.gg/bTW7G7zJGX] Dostępny Tutaj[/url]
 
 Jeżeli chcesz dołączyć się do prac nad spolszczeniem - daj znać na serwerze discord i dołącz poprzez link poniżej.
 
@@ -73,8 +77,9 @@ Serdecznie zapraszamy do pomocy w tłumaczeniu!
 - Zrobiliśmy porządek z plikami, przez co musieliśmy usunąć zdublowany plik (postęp spolszczenia spadł o 2 procent]
 - Po aktualizacji dodatku Emperor rozszerzyliśmy bazę plików do przetłumaczenia z 97 na 105
 - STAN GRY NA DZIEŃ 16.11.2020!!!
+- Regularne aktualizacje tłumaczeń
 
-[b]_W razie jakichkolwiek problemów/zastrzeżeń/propozycji zachęcamy do kontaktu poprzez serwer discord [url=https://discord.gg/QUB7z23]]Dostępny Tutaj[/url]_[/b]
+[b][i] W razie jakichkolwiek problemów/zastrzeżeń/propozycji zachęcamy do kontaktu poprzez serwer discord [url=https://discord.gg/bTW7G7zJGX]Dostępny Tutaj[/url][/i][/b]
 
 [h2]UWAGA! Gdyby w launcherze pojawiała się informacja, że modyfikacja jest do nieaktualnej wersji gry należy:[/h2]
 1. Uruchomić launcher gry (uruchomić grę przez Steam).
