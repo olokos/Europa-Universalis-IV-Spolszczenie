@@ -38,7 +38,7 @@
  synth_harvesters_desc: "Odpowiednie techniki – od diagnostyki pożywek, przez bilansowanie składników pokarmowych na terenie, po mikro-młóckę łodyg – pozwalają robotnikom zwiększyć plony."
  synth_emotion_emulators: "Emulator emocji"
  synth_emotion_emulators_desc: "Socjalne modele przewidujące o wysokiej złożoności pomagają jednostkom imitować odpowiednie emocje oraz uzyskiwać pożądane reakcje u istot organicznych, jak i syntetycznych."
- SYNTH_GOV: "Sztuczna inteligencja"
+ SYNTH_GOV: "Sztuczna Inteligencja"
  SYNTH_RULER: "Egzekutor"
  SYNTH_RULER_fem: "Egzekutor"
  synthetic_remnants_enabled.tooltip: "Aktywuje modyfikator §YSyntetyczne pozostałości§!."
