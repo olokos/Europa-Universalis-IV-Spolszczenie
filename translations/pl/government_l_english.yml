@@ -215,7 +215,7 @@
  mansabdari_reform_desc: "Nasze imperium potrzebuje lojalnych i zdolnych sług. Przekształćmy naszą szlachetną klasę zgodnie z numerycznym systemem mansabów. Każdy szlachcic otrzyma rangę odpowiadającą jego obowiązkom, a następnie nasza administracja przydzieli ziemie wokół imperium, aby wspierać go zgodnie z jego stopniem. Główną zasadą określającą, jak wysoko ktoś jest oceniany, muszą być zdolności, a ta droga musi być otwarta niezależnie od religii lub pochodzenia. Tylko w ten sposób możemy być pewni, że powołamy dwór tych, którzy są w stanie najlepiej rozwinąć nasze imperium."
  zabt_reform: "System zabt"
  zabt_reform_desc: "Penetracja administracyjna była największą przeszkodą dla każdego imperium w tym regionie. W interesie państwa jest pobudzanie produktywności gospodarczej i musimy przez cały czas o tym pamiętać, jednocześnie stale obserwując gospodarkę regionalną. Rozwiązanie tego problemu będzie wymagało ogromnych zasobów i zaangażowania, ponieważ nie ma łatwego sposobu na rządzenie tyloma podmiotami.\nStwórzmy administrację, która prowadzi regularne badania katastralne gruntów, upraw, dochodów z ziemi i lokalnej gospodarki. Ponadto musimy stale żądać od wszystkich naszych poddanych płatności gotówkowych i oferować niższe podatki, gdy jest to konieczne, aby pobudzić lokalną gospodarkę."
- FEDERAL_KINGDOM: "Królestwo federalne"
+ FEDERAL_KINGDOM: "Królestwo Federalne"
  FEDERAL_EMPIRE: "Imperium Federalne"
  mechanic_enables_plutocratic_idea_group_yes: "Pozwala na wybranie grupy plutokratycznych idei."
  mechanic_enables_plutocratic_idea_group_no: "Zabrania wybrania grupy plutokratycznych idei."
