@@ -435,7 +435,7 @@
  ENOUGH_CONSORTS: "$VAL$ małżonek/ków"
  FOREIGN_PROVINCES_HRE_NOT: "Mniej niż §Y$NUM$§! prowincje Imperium znajdujące się pod kontrolą innych państw lub poddanych innych państw państw."
  FOREIGN_PROVINCES_HRE: "§Y$NUM$§! prowincje Imperium znajdujące się pod kontrolą innych państw lub poddanych innych państw państw."
- LORDSHIP: "Panowanie"
+ LORDSHIP: "Seniorat"
  cb_hundred_years_union: "Wymuszona unia"
  cb_hundred_years_union_desc: "Księstwo Francji musi się nam kłaniać przez wieczność."
  MISSIONS_SWAPPED: "Zdobądź nowe misje."
