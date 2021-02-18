@@ -216,7 +216,7 @@
  zabt_reform: "System zabt"
  zabt_reform_desc: "Penetracja administracyjna była największą przeszkodą dla każdego imperium w tym regionie. W interesie państwa jest pobudzanie produktywności gospodarczej i musimy przez cały czas o tym pamiętać, jednocześnie stale obserwując gospodarkę regionalną. Rozwiązanie tego problemu będzie wymagało ogromnych zasobów i zaangażowania, ponieważ nie ma łatwego sposobu na rządzenie tyloma podmiotami.\nStwórzmy administrację, która prowadzi regularne badania katastralne gruntów, upraw, dochodów z ziemi i lokalnej gospodarki. Ponadto musimy stale żądać od wszystkich naszych poddanych płatności gotówkowych i oferować niższe podatki, gdy jest to konieczne, aby pobudzić lokalną gospodarkę."
  FEDERAL_KINGDOM: "Królestwo federalne"
- FEDERAL_EMPIRE: "Imperium federalne"
+ FEDERAL_EMPIRE: "Imperium Federalne"
  mechanic_enables_plutocratic_idea_group_yes: "Pozwala na wybranie grupy plutokratycznych idei."
  mechanic_enables_plutocratic_idea_group_no: "Zabrania wybrania grupy plutokratycznych idei."
  mechanic_enables_aristocratic_idea_group_yes: "Pozwala na wybranie grupę arystokratycznych idei."
