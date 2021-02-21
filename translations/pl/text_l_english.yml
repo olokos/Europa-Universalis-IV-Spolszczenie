@@ -1520,7 +1520,7 @@
  PROV_TAX_YEARLY_DESCR: "Jest to roczny przychód z podatków z tej prowincji. Daje to miesięczny przychód w wysokości $MONTHLY|Y2$."
  PROV_TAX_MONTHLY_DESCR: "Jest to miesięczny przychód z podatków z tej prowincji. Daje to roczny przychód w wysokości $YEARLY|Y2$¤."
  PROV_TAX_DESCR: "Rzeczywista wartość zależy od podatku podstawowego i wzniesionych w prowincji budynków.\n"
- PROV_PRODUCTION_DESCR: "Jest to miesięczny przychód z podatków w tej prowincji. Daje to roczny przychód w wysokości $YEARLY|Y2$¤. Rzeczywista wartość zależy od produkcji podstawowej i wartości produkowanych w prowincji towarów handlowych.\n"
+ PROV_PRODUCTION_DESCR: "To miesięczny przychód z produkcji w prowincji. Daje to roczny przychód w wysokości $YEARLY|Y2$¤. Rzeczywista wartość zależy od produkcji podstawowej i wartości produkowanych w prowincji towarów handlowych.\n"
  PROV_TOTALINCOME_DESCR: "Całkowity przychód składa się z podatków oraz z zysków z produkcji i handlu."
  PROV_RESOURCE_UNITS: "Całkowita liczba utworzonych jednostek."
  PROV_RESOURCE_PRICE: "Aktualna cena rynkowa tego towaru."
