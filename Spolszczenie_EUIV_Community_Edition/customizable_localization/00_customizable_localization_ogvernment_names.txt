@@ -1,0 +1,2916 @@
+defined_text = {
+	name = GetGovNameGen
+	random = no
+	text={
+		localisation_key = string_adj_ISLAMIC_CALIPHATE
+		trigger = {
+			government_rank = 3
+			has_country_modifier = unified_islam
+		}
+	}
+	text={
+		localisation_key = string_adj_REVOLUTIONARY_PEASANT_REPUBLIC
+		trigger = {
+			government_rank = 3
+			is_revolutionary_republic_trigger = yes
+			have_had_reform = peasants_republic
+		}
+	}
+	text={
+		localisation_key = string_adj_REVOLUTIONARY_SPANISH_REPUBLIC
+		trigger = {
+			is_revolutionary_republic_trigger = yes
+			tag = SPA
+		}
+	}
+	text={
+		localisation_key = string_adj_REVOLUTIONARY_SWEDISH_REPUBLIC
+		trigger = {
+			is_revolutionary_republic_trigger = yes
+			OR = {
+				tag = SWE
+				AND = {
+					tag = SCA
+					NOT = { was_tag = DAN }
+					NOT = { was_tag = NOR }
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_REVOLUTIONARY_DANISH_REPUBLIC
+		trigger = {
+			is_revolutionary_republic_trigger = yes
+			OR = {
+				tag = DAN
+				tag = NOR
+				AND = {
+					tag = SCA
+					OR = {
+						was_tag = DAN
+						was_tag = NOR
+					}
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_GOV_REVOLUTIONARY_REPUBLIC
+		trigger = {
+			is_revolutionary_republic_trigger = yes
+		}
+	}
+
+	text={
+		localisation_key = string_adj_MOST_SERENE_REPUBLIC
+		trigger = {
+			government_rank = 3
+			primary_culture = polish
+			government = republic
+		}
+	}
+	text={
+		localisation_key = string_adj_KAISERREICH
+		trigger = {
+			government_rank = 3
+			culture_group = germanic
+			OR = {
+				tag = HLR
+				tag = GER
+			}
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_adj_STRATOCRACY
+		trigger = {
+			has_reform = prussian_republic_reform
+		}
+	}
+	text={
+		localisation_key = string_adj_SUPREME_ADMIRALTY
+		trigger = {
+			government_rank = 3
+			has_reform = admiralty_reform
+		}
+	}
+	text={
+		localisation_key = string_adj_COMMONWEALTH
+		trigger = {
+			has_reform = protectorate_parliament_reform
+		}
+	}
+	text={
+		localisation_key = string_adj_SAVANAROLA_GOVERNMENT
+		trigger = {
+			has_ruler_flag = savonarola_flag
+		}
+	}
+	text={
+		localisation_key = string_adj_MILITARY_GOVERNMENT
+		trigger = {
+			has_reform = military_dictatorship_reform
+		}
+	}
+	text={
+		localisation_key = string_adj_GRAND_PIRATE_CONFEDERACY
+		trigger = {
+			government_rank = 3
+			has_reform = pirate_republic_reform
+			NOT = { has_reform = pirate_king_reform }
+		}
+	}
+	text={
+		localisation_key = string_adj_PIRATE_EMPIRE
+		trigger = {
+			government_rank = 3
+			has_reform = pirate_king_reform
+		}
+	}
+	text={
+		localisation_key = string_adj_SYNTH_GOV
+		trigger = {
+			tag = SYN
+		}
+	}
+	text={
+		localisation_key = string_adj_KHAGANATE
+		trigger = {
+			government_rank = 3
+			tag = YUA
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_adj_PARLIAMENT_OF_HEAVEN
+		trigger = {
+			government_rank = 3
+			has_reform = celestial_empire
+			has_reform = parliamentary_reform
+		}
+	}
+	text={
+		localisation_key = string_adj_EMPIRE
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			religion_group = christian
+			NOT = { religion = orthodox }
+			NOT = { religion = coptic }
+			is_march = yes
+		}
+	}
+	text={
+		localisation_key = string_adj_PAPACY
+		trigger = {
+			has_reform = papacy_reform
+			is_elector = yes
+		}
+	}
+	text={
+		localisation_key = string_adj_EMPIRE
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			tag = PAL
+		}
+	}
+	text={
+		localisation_key = string_adj_EMPIRE
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			is_elector = yes
+			is_emperor = no
+			NOT = { tag = HAB }
+		}
+	}
+	text={
+		localisation_key = string_adj_PATRIARCHATE
+		trigger = {
+			government_rank = 3
+			government = theocracy
+			is_elector = yes
+			is_emperor = no
+		}
+	}
+	text={
+		localisation_key = string_adj_GREAT_ELECTORAL_REPUBLIC
+		trigger = {
+			government_rank = 3
+			government = republic
+			is_elector = yes
+			is_emperor = no
+		}
+	}
+	text={
+		localisation_key = string_adj_EMPIRE
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			OR = {
+				AND = {
+					tag = JAP
+					NOT = { has_reform = shogunate }
+				}
+				AND = {
+					NOT = { religion_group = muslim }
+					has_country_flag = sultan_titles_for_non_muslims
+				}
+				AND = {
+					NOT = { has_reform = revolutionary_empire_reform }
+					OR = {
+						tag = FRA
+						tag = AUV
+					}
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_GRAND_SHARIFATE
+		trigger = {
+			government_rank = 3
+			religion_group = muslim
+			OR = {
+				tag = HED
+				tag = MDA
+				tag = MFL
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_KHAGANATE
+		trigger = {
+			government_rank = 3
+			tag = AVR
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_adj_EMPIRE
+		trigger = {
+			government_rank = 3
+			OR = {
+				AND = {
+					government = monarchy
+					OR = {
+						primary_culture = georgian
+						tag = MAL
+					}
+				}
+				AND = {
+					religion_group = muslim
+					tag = NJR
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_GREAT_EMIRATE
+		trigger = {
+			government_rank = 3
+			religion_group = muslim
+			primary_culture = bedouin_arabic
+			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_adj_EMPIRE
+		trigger = {
+			government_rank = 3
+			OR = {
+				AND = {
+					religion_group = muslim
+					government = tribal
+					NOT = { has_reform = steppe_horde }
+				}
+				AND = {
+					government = monarchy
+					OR = {
+						culture_group = iranian
+						primary_culture = somali
+						primary_culture = sindhi
+						primary_culture = croatian
+						primary_culture = turkish
+						primary_culture = finnish
+						primary_culture = serbian
+						primary_culture = greek
+						primary_culture = pontic_greek
+						tag = SIS
+						tag = KAT
+						tag = LIT
+						tag = HAB
+						tag = TUS
+						tag = FEO
+						tag = BYZ
+						tag = TRE
+						tag = EPI
+						tag = MOE
+						tag = ARK
+						AND = {
+							tag = DAN
+							has_ruler = "Christopher III"
+						}
+						AND = {
+							tag = HUN
+							has_heir = "Ladislaus Postumus"
+						}
+						AND = {
+							tag = BAD
+							has_idea = bad_grand_duchy
+						}
+						AND = {
+							tag = LUX
+							has_idea = lux_grand_duchy_of_luxembourg
+						}
+						AND = {
+							OR = {
+								has_reform = feudalism_reform
+								has_reform = autocracy_reform
+							}
+							primary_culture = serbian
+							religion = orthodox
+						}
+					}
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_GREAT_BARANGAY
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			tag = PGS
+			religion_group = eastern
+		}
+	}
+	text={
+		localisation_key = string_adj_EMPIRE
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			OR = {
+				tag = ALB
+				tag = QNG
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_EMPIRE
+		trigger = {
+			government_rank = 3
+			OR = {
+				has_reform = enlightened_despotism
+				has_reform = letat_cest_moi_reform
+				has_reform = regional_representation_reform
+			}
+			primary_culture = al_misr_arabic
+			religion_group = muslim
+		}
+	}
+	text={
+		localisation_key = string_adj_BONDEVALDE
+		trigger = {
+			government_rank = 3
+			has_reform = peasants_republic
+			primary_culture = scanian
+		}
+	}
+	text={
+		localisation_key = string_adj_EMPIRE
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			OR = {
+				primary_culture = athenian
+				primary_culture = spartan
+				primary_culture = atlantean
+				primary_culture = old_egyptian
+				primary_culture = roman
+				AND = {
+					religion = animism
+					OR = {
+						primary_culture = al_misr_arabic
+						primary_culture = greek
+						primary_culture = umbrian
+					}
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_KHAGANATE
+		trigger = {
+			government_rank = 3
+			has_reform = steppe_horde
+			primary_culture = manchu
+		}
+	}
+	text={
+		localisation_key = string_adj_EMPIRE
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			OR = {
+				primary_culture = romanian
+				primary_culture = lunda
+				primary_culture = luba
+				primary_culture = rwandan
+				primary_culture = ganda
+				tag = DEC
+				tag = BHA
+				tag = KAF
+				tag = NKO
+				tag = BNY
+				tag = ZIM
+				tag = RZW
+				tag = ANT
+				tag = BTS
+				AND = {
+					primary_culture = rajput
+					religion = hinduism
+				}
+				AND = {
+					OR = {
+						culture_group = dravidian
+						culture_group = western_aryan
+						culture_group = hindusthani
+						culture_group = eastern_aryan
+						has_reform = indian_sultanate_reform
+					}
+					religion_group = muslim
+				}
+				AND = {
+					primary_culture = marathi
+					religion = hinduism
+				}
+				AND = {
+					religion_group = christian
+					OR = {
+						primary_culture = amhara
+						primary_culture = sidamo
+						primary_culture = tigray
+					}
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_GREAT_BARANGAY
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			OR = {
+				tag = BTU
+				tag = MNA
+				tag = CEB
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_EMPIRE
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			OR = {
+				primary_culture = shan
+				culture_group = burman
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_GREAT_BARANGAY
+		trigger = {
+			government_rank = 3
+			OR = {
+				government = monarchy
+				government = republic
+			}
+			NOT = { tag = SUL }
+			NOT = { tag = MGD }
+			primary_culture = filipino
+		}
+	}
+	text={
+		localisation_key = string_adj_EMPIRE
+		trigger = {
+			government_rank = 3
+			OR = {
+				AND = {
+					government = monarchy
+					OR = {
+						primary_culture = irish
+						AND = {
+							culture_group = south_slavic
+							NOT = { tag = CLI }
+						}
+					}
+				}
+				primary_culture = highland_scottish
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_TSARDOM
+		trigger = {
+			government_rank = 3
+			OR = {
+				has_reform = principality
+				has_reform = tsardom
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_EMPIRE
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			OR = {
+				culture_group = east_slavic
+				religion = inti
+				tag = PRM
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_GREAT_LEAGUE
+		trigger = {
+			government_rank = 3
+			OR = {
+				government = monarchy
+				government = tribal
+			}
+			religion = mesoamerican_religion
+		}
+	}
+	text={
+		localisation_key = string_adj_EMPIRE
+		trigger = {
+			government_rank = 3
+			OR = {
+				AND = {
+					OR = {
+						government = monarchy
+						government = tribal
+						has_reform = tribal_democracy_legacy
+					}
+					religion = nahuatl
+				}
+				AND = {
+					government = monarchy
+					OR = {
+						religion = hinduism
+						culture_group = east_asian
+						AND = {
+							NOT = { government = tribal }
+							OR = {
+								religion = buddhism
+								religion = vajrayana
+								religion = mahayana
+							}
+						}
+						AND = {
+							NOT = { has_reform = steppe_horde }
+							religion_group = muslim
+						}
+					}
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_GREAT_HETMANATE
+		trigger = {
+			government_rank = 3
+			government = republic
+			has_reform = cossacks_reform
+		}
+	}
+	text={
+		localisation_key = string_adj_GREAT_REPUBLIC
+		trigger = {
+			government_rank = 3
+			OR = {
+				has_reform = ambrosian_republic
+				AND = {
+					government = republic
+					OR = {
+						tag = RAG
+						tag = TUS
+						tag = LAN
+						AND = {
+							primary_culture = dutch
+							NOT = { is_revolutionary_republic_trigger = yes }
+							NOT = { has_reform = presidential_despot_reform }
+						}
+						AND = {
+							NOT = { is_revolutionary_republic_trigger = yes }
+							NOT = { has_reform = parliamentary_reform }
+							NOT = { has_reform = presidential_despot_reform }
+							OR = {
+								culture_group = south_slavic
+								culture_group = east_slavic
+								tag = PRM
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_FEDERAL_REPUBLIC
+		trigger = {
+			government_rank = 3
+			government = republic
+			culture_group = germanic
+		}
+	}
+	text={
+		localisation_key = string_adj_GREAT_REPUBLIC
+		trigger = {
+			government_rank = 3
+			government = republic
+			OR = {
+				culture_group = latin
+				religion = hinduism
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_GREAT_PRINCEDOM
+		trigger = {
+			government_rank = 3
+			has_reform = noble_elite_reform
+			OR = {
+				religion = buddhism
+				religion = vajrayana
+				religion = mahayana
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_GREAT_REPUBLIC
+		trigger = {
+			government_rank = 3
+			government = republic
+			religion_group = muslim
+		}
+	}
+	text={
+		localisation_key = string_adj_KHAGANATE
+		trigger = {
+			government_rank = 3
+			has_reform = steppe_horde
+		}
+	}
+	text={
+		localisation_key = string_adj_TRIBE
+		trigger = {
+			OR = {
+				government = native
+				has_reform = siberian_tribe
+				has_reform = native_basic_reform
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_FEDERAL_EMPIRE
+		trigger = {
+			government_rank = 3
+			has_reform = states_general_reform
+			OR = {
+				is_statists_in_power = yes
+				is_monarchists_in_power = yes
+			}
+			NOT = { has_reform = parliamentary_reform }
+			NOT = { has_reform = presidential_reform }
+			NOT = { is_revolutionary_republic_trigger = yes }
+			NOT = { has_reform = constitutional_republic }
+			NOT = { has_reform = presidential_despot_reform }
+		}
+	}
+	text={
+		localisation_key = string_adj_GOV_REVOLUTIONARY_REPUBLIC
+		trigger = {
+			is_revolutionary_republic_trigger = yes
+		}
+	}
+	text={
+		localisation_key = string_adj_GREAT_PRINCEDOM
+		trigger = {
+			government_rank = 3
+			OR = {
+				has_reform = noble_elite_reform
+				has_reform = noble_republic
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_PRESIDENTIAL_DICTATORSHIP
+		trigger = {
+			government_rank = 3
+			has_reform = presidential_despot_reform
+		}
+	}
+	text={
+		localisation_key = string_adj_GREAT_REPUBLIC
+		trigger = {
+			government_rank = 3
+			has_reform = bureaucratic_despotism
+		}
+	}
+	text={
+		localisation_key = string_adj_PAPACY
+		trigger = {
+			has_reform = papacy_reform
+		}
+	}
+	text={
+		localisation_key = string_adj_GREAT_INDEP_DAIMYO
+		trigger = {
+			government_rank = 3
+			has_reform = indep_daimyo
+		}
+	}
+	text={
+		localisation_key = string_adj_TRIBAL_EMPIRE
+		trigger = {
+			government_rank = 3
+			OR = {
+				has_reform = tribal_kingdom
+				has_reform = tribal_despotism
+				has_reform = tribal_federation
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_GREAT_CHIEFDOM
+		trigger = {
+			government_rank = 3
+			has_reform = tribal_democracy_legacy
+		}
+	}
+	text={
+		localisation_key = string_adj_FEDERAL_REPUBLIC
+		trigger = {
+			government_rank = 3
+			government = republic
+			OR = {
+				has_reform = constitutional_republic
+				has_reform = presidential_reform
+				has_reform = parliamentary_reform
+			}
+			NOT = { has_reform = presidential_despot_reform }
+		}
+	}
+	text={
+		localisation_key = string_adj_EMPIRE
+		trigger = {
+			government_rank = 3
+			has_reform = monarchy_mechanic
+			is_part_of_hre = yes
+			NOT = { total_development = 50 }
+		}
+	}
+	text={
+		localisation_key = string_adj_DIVINE_PROTECTORS
+		trigger = {
+			government_rank = 3
+			has_reform = monastic_order_reform
+			OR = {
+				religion_group = eastern
+				culture_group = japanese
+				capital_scope = { region = japan_region }
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_MONASTIC_EMPIRE
+		trigger = {
+			government_rank = 3
+			has_reform = monastic_order_reform
+			OR = {
+				tag = TEU
+				tag = LIV
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_SOVREIGN_MONASTIC_CONFEDERATION
+		trigger = {
+			government_rank = 3
+			OR = {
+				has_reform = monastic_order_reform
+				AND = {
+					government = theocracy
+					has_reform = holy_state_reform
+				}
+			}
+			culture_group = germanic
+		}
+	}
+	text={
+		localisation_key = string_adj_BREWING_EMPIRE
+		trigger = {
+			government_rank = 3
+			has_reform = monastic_breweries_reform
+			religion = catholic
+		}
+	}
+	text={
+		localisation_key = string_adj_HOLY_EMPIRE
+		trigger = {
+			government_rank = 3
+			government = theocracy
+			OR = {
+				religion = jewish
+				religion = zoroastrian
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_CONFEDERATION
+		trigger = {
+			government_rank = 3
+			religion = sikhism
+			government = theocracy
+		}
+	}
+	text={
+		localisation_key = string_adj_HOLY_EMPIRE
+		trigger = {
+			government_rank = 3
+			government = theocracy
+			OR = {
+				religion = hinduism
+				religion = shinto
+				religion = buddhism
+				religion = vajrayana
+				religion = mahayana
+				religion = confucianism
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_EMPIRE
+		trigger = {
+			government_rank = 3
+			religion = ibadi
+			OR = {
+				government = theocracy
+				has_reform = feudal_theocracy
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_HIGH_IMAMATE
+		trigger = {
+			government_rank = 3
+			religion = shiite
+			OR = {
+				government = theocracy
+				AND = {
+					has_reform = feudal_theocracy
+					primary_culture = yemeni_culture
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_HOLY_EMPIRE
+		trigger = {
+			government_rank = 3
+			religion = sunni
+			government = theocracy
+			OR = {
+				primary_culture = uyghur
+				has_country_flag = end_of_khojas
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_HIGH_IMAMATE
+		trigger = {
+			government_rank = 3
+			religion = sunni
+			OR = {
+				has_reform = feudal_theocracy
+				government = theocracy
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_PATRIARCHATE
+		trigger = {
+			government_rank = 3
+			OR = {
+				religion = orthodox
+				religion = coptic
+			}
+			government = theocracy
+		}
+	}
+	text={
+		localisation_key = string_adj_HOLY_EMPIRE
+		trigger = {
+			government_rank = 3
+			government = theocracy
+			OR = {
+				religion = inti
+				religion_group = pagan
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_MONASTIC_EMPIRE
+		trigger = {
+			government_rank = 3
+			OR = {
+				has_reform = monastic_order_reform
+				AND = {
+					government = theocracy
+					tag = KOJ
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_EMPIRE
+		trigger = {
+			government_rank = 3
+			has_reform = monarchy_mechanic
+		}
+	}
+	text={
+		localisation_key = string_adj_GREAT_REPUBLIC
+		trigger = {
+			government_rank = 3
+			government = republic
+		}
+	}
+	text={
+		localisation_key = string_adj_PATRIARCHATE
+		trigger = {
+			government_rank = 3
+			government = theocracy
+		}
+	}
+	text={
+		localisation_key = string_adj_TRIBAL_EMPIRE
+		trigger = {
+			government_rank = 3
+			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_adj_SERENE_REPUBLIC
+		trigger = {
+			government_rank = 2
+			primary_culture = polish
+			government = republic
+		}
+	}
+	text={
+		localisation_key = string_adj_HIGH_ADMIRALTY
+		trigger = {
+			government_rank = 2
+			has_reform = admiralty_reform
+		}
+	}
+	text={
+		localisation_key = string_adj_PIRATE_CONFEDERACY
+		trigger = {
+			government_rank = 2
+			has_reform = pirate_republic_reform
+			NOT = { has_reform = pirate_king_reform }
+		}
+	}
+	text={
+		localisation_key = string_adj_PIRATE_KINGDOM
+		trigger = {
+			government_rank = 2
+			has_reform = pirate_king_reform
+		}
+	}
+	text={
+		localisation_key = string_adj_KHANATE
+		trigger = {
+			government_rank = 2
+			tag = YUA
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_adj_VICEROYALTY
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			religion_group = christian
+			NOT = { religion = orthodox }
+			NOT = { religion = coptic }
+			is_march = yes
+		}
+	}
+	text={
+		localisation_key = string_adj_KINGDOM_PALATINE
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			tag = PAL
+		}
+	}
+	text={
+		localisation_key = string_adj_GRAND_HERCEGSEG
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			NOT = { government_rank = 3 }
+			tag = HRZ
+		}
+	}
+	text={
+		localisation_key = string_adj_KINGDOM
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			is_elector = yes
+			is_emperor = no
+			NOT = { tag = HAB }
+		}
+	}
+	text={
+		localisation_key = string_adj_ARCHBISHOPRIC
+		trigger = {
+			government_rank = 2
+			government = theocracy
+			is_elector = yes
+			is_emperor = no
+		}
+	}
+	text={
+		localisation_key = string_adj_GRAND_ELECTORAL_REPUBLIC
+		trigger = {
+			government_rank = 2
+			government = republic
+			is_elector = yes
+			is_emperor = no
+		}
+	}
+	text={
+		localisation_key = string_adj_KINGDOM
+		trigger = {
+			government_rank = 2
+			tag = JAP
+			government = monarchy
+			NOT = { has_reform = shogunate }
+		}
+	}
+	text={
+		localisation_key = string_adj_SULTANATE
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			NOT = { religion_group = muslim }
+			has_country_flag = sultan_titles_for_non_muslims
+		}
+	}
+	text={
+		localisation_key = string_adj_KINGDOM
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			NOT = { has_reform = revolutionary_empire_reform }
+			OR = {
+				tag = FRA
+				tag = AUV
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_GREAT_SHARIFATE
+		trigger = {
+			government_rank = 2
+			religion_group = muslim
+			OR = {
+				tag = HED
+				tag = MDA
+				tag = MFL
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_KINGDOM
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			primary_culture = georgian
+		}
+	}
+	text={
+		localisation_key = string_adj_SULTANATE
+		trigger = {
+			government_rank = 2
+			religion_group = muslim
+			tag = NJR
+		}
+	}
+	text={
+		localisation_key = string_adj_KINGDOM
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			tag = MAL
+		}
+	}
+	text={
+		localisation_key = string_adj_EMIRATE
+		trigger = {
+			government_rank = 2
+			religion_group = muslim
+			primary_culture = bedouin_arabic
+			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_adj_SULTANATE
+		trigger = {
+			government_rank = 2
+			religion_group = muslim
+			government = tribal
+			NOT = { has_reform = steppe_horde }
+		}
+	}
+	text={
+		localisation_key = string_adj_KINGDOM
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			OR = {
+				tag = KAT
+				primary_culture = sindhi
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_SHAHDOM
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			OR = {
+				culture_group = iranian
+				tag = SIS
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_SULTANATE
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			primary_culture = somali
+		}
+	}
+	text={
+		localisation_key = string_adj_KINGDOM
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			OR = {
+				tag = LIT
+				tag = HAB
+				AND = {
+					has_ruler = "Christopher III"
+					tag = DAN
+				}
+				AND = {
+					tag = HUN
+					has_heir = "Ladislaus Postumus"
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_SULTANATE
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			primary_culture = turkish
+		}
+	}
+	text={
+		localisation_key = string_adj_KINGDOM
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			OR = {
+				primary_culture = finnish
+				primary_culture = croatian
+				tag = FEO
+				tag = TUS
+				AND = {
+					tag = BAD
+					has_idea = bad_grand_duchy
+				}
+				AND = {
+					tag = LUX
+					has_idea = lux_grand_duchy_of_luxembourg
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_DESPOTATE
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			OR = {
+				has_reform = feudalism_reform
+				has_reform = autocracy_reform
+			}
+			primary_culture = serbian
+			religion = orthodox
+		}
+	}
+	text={
+		localisation_key = string_adj_KINGDOM
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			OR = {
+				primary_culture = serbian
+				primary_culture = greek
+				primary_culture = pontic_greek
+				tag = BYZ
+				tag = TRE
+				tag = EPI
+				tag = MOE
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_SULTANATE
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			tag = ARK
+		}
+	}
+	text={
+		localisation_key = string_adj_GRAND_BARANGAY
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			tag = PGS
+			religion_group = eastern
+		}
+	}
+	text={
+		localisation_key = string_adj_KINGDOM
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			tag = ALB
+		}
+	}
+	text={
+		localisation_key = string_adj_KHANATE
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			tag = QNG
+		}
+	}
+	text={
+		localisation_key = string_adj_SULTANATE
+		trigger = {
+			government_rank = 2
+			OR = {
+				has_reform = enlightened_despotism
+				has_reform = letat_cest_moi_reform
+				has_reform = regional_representation_reform
+			}
+			primary_culture = al_misr_arabic
+			religion_group = muslim
+		}
+	}
+	text={
+		localisation_key = string_adj_HERRED
+		trigger = {
+			government_rank = 2
+			has_reform = peasants_republic
+			primary_culture = scanian
+		}
+	}
+	text={
+		localisation_key = string_adj_KINGDOM
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			OR = {
+				AND = {
+					religion = animism
+					OR = {
+						primary_culture = al_misr_arabic
+						primary_culture = greek
+						primary_culture = umbrian
+					}
+				}
+				primary_culture = old_egyptian
+				primary_culture = athenian
+				primary_culture = spartan
+				primary_culture = atlantean
+				primary_culture = roman
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_KHANATE
+		trigger = {
+			government_rank = 2
+			has_reform = steppe_horde
+			primary_culture = manchu
+		}
+	}
+	text={
+		localisation_key = string_adj_KINGDOM
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			primary_culture = romanian
+		}
+	}
+	text={
+		localisation_key = string_adj_NIZAMATE
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			tag = DEC
+		}
+	}
+	text={
+		localisation_key = string_adj_SULTANATE
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			OR = {
+				culture_group = dravidian
+				culture_group = western_aryan
+				culture_group = hindusthani
+				culture_group = eastern_aryan
+				has_reform = indian_sultanate_reform
+			}
+			religion_group = muslim
+		}
+	}
+	text={
+		localisation_key = string_adj_KINGDOM
+		trigger = {
+			government_rank = 2
+			OR = {
+				AND = {
+					government = monarchy
+					OR = {
+						primary_culture = lunda
+						primary_culture = luba
+						primary_culture = rwandan
+						primary_culture = ganda
+						tag = BHA
+						tag = KAF
+						tag = NKO
+						tag = BNY
+						tag = RZW
+						tag = ZIM
+						tag = BTS
+						tag = ANT
+						AND = {
+							religion = hinduism
+							OR = {
+								primary_culture = rajput
+								primary_culture = marathi
+							}
+						}
+						AND = {
+							religion_group = christian
+							OR = {
+								primary_culture = amhara
+								primary_culture = sidamo
+								primary_culture = tigray
+							}
+						}
+					}
+				}
+				AND = {
+					OR = {
+						has_reform = administrative_monarchy
+						has_reform = clergy_in_administration_reform
+						has_reform = of_noble_bearing_reform
+						has_reform = meritocratic_focus_reform
+					}
+					primary_culture = marathi
+					religion = hinduism
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_GRAND_BARANGAY
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			OR = {
+				tag = BTU
+				tag = MNA
+				tag = CEB
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_KINGDOM
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			culture_group = burman
+		}
+	}
+	text={
+		localisation_key = string_adj_GRAND_BARANGAY
+		trigger = {
+			government_rank = 2
+			OR = {
+				government = monarchy
+				government = republic
+			}
+			NOT = { tag = SUL }
+			NOT = { tag = MGD }
+			primary_culture = filipino
+		}
+	}
+	text={
+		localisation_key = string_adj_KINGDOM
+		trigger = {
+			government_rank = 2
+			OR = {
+				primary_culture = highland_scottish
+				AND = {
+					government = monarchy
+					OR = {
+						AND = {
+							culture_group = south_slavic
+							NOT = { tag = CLI }
+						}
+						AND = {
+							primary_culture = irish
+							OR = {
+								tag = DMS
+								tag = ORD
+								tag = KID
+								tag = ULS
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_GRAND_PRINCIPALITY
+		trigger = {
+			government_rank = 2
+			OR = {
+				has_reform = principality
+				has_reform = tsardom
+				AND = {
+					government = monarchy
+					OR = {
+						culture_group = east_slavic
+						tag = PRM
+					}
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_KINGDOM
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			religion = inti
+		}
+	}
+	text={
+		localisation_key = string_adj_KUCHKABAL
+		trigger = {
+			government_rank = 2
+			OR = {
+				government = monarchy
+				government = tribal
+			}
+			religion = mesoamerican_religion
+		}
+	}
+	text={
+		localisation_key = string_adj_ALTEPETL_FEDERATION
+		trigger = {
+			government_rank = 2
+			OR = {
+				government = monarchy
+				government = tribal
+				has_reform = tribal_democracy_legacy
+			}
+			religion = nahuatl
+		}
+	}
+	text={
+		localisation_key = string_adj_KINGDOM
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			OR = {
+				culture_group = east_asian
+				religion = hinduism
+				AND = {
+					NOT = { government = tribal }
+					OR = {
+						religion = buddhism
+						religion = vajrayana
+						religion = mahayana
+					}
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_SULTANATE
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			NOT = { has_reform = steppe_horde }
+			religion_group = muslim
+		}
+	}
+	text={
+		localisation_key = string_adj_GRAND_HETMANATE
+		trigger = {
+			government_rank = 2
+			government = republic
+			has_reform = cossacks_reform
+		}
+	}
+	text={
+		localisation_key = string_adj_GRAND_REPUBLIC
+		trigger = {
+			government_rank = 2
+			government = republic
+			tag = RAG
+		}
+	}
+	text={
+		localisation_key = string_adj_UNITED_PROVINCES
+		trigger = {
+			government_rank = 2
+			government = republic
+			primary_culture = dutch
+			NOT = { is_revolutionary_republic_trigger = yes }
+			NOT = { has_reform = presidential_despot_reform }
+		}
+	}
+	text={
+		localisation_key = string_adj_GRAND_REPUBLIC
+		trigger = {
+			government_rank = 2
+			OR = {
+				has_reform = ambrosian_republic
+				AND = {
+					government = republic
+					OR = {
+						culture_group = germanic
+						tag = TUS
+						tag = LAN
+						AND = {
+							OR = {
+								culture_group = east_slavic
+								culture_group = south_slavic
+								tag = PRM
+							}
+							NOT = { is_revolutionary_republic_trigger = yes }
+							NOT = { has_reform = parliamentary_reform }
+							NOT = { has_reform = presidential_despot_reform }
+						}
+					}
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_SERENE_REPUBLIC
+		trigger = {
+			government_rank = 2
+			government = republic
+			culture_group = latin
+		}
+	}
+	text={
+		localisation_key = string_adj_GRAND_REPUBLIC
+		trigger = {
+			government_rank = 2
+			government = republic
+			religion = hinduism
+		}
+	}
+	text={
+		localisation_key = string_adj_GRAND_PRINCEDOM
+		trigger = {
+			government_rank = 2
+			has_reform = noble_elite_reform
+			OR = {
+				religion = buddhism
+				religion = vajrayana
+				religion = mahayana
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_GRAND_REPUBLIC
+		trigger = {
+			government_rank = 2
+			government = republic
+			religion_group = muslim
+		}
+	}
+	text={
+		localisation_key = string_adj_KHANATE
+		trigger = {
+			government_rank = 2
+			has_reform = steppe_horde
+		}
+	}
+	text={
+		localisation_key = string_adj_FEDERAL_KINGDOM
+		trigger = {
+			government_rank = 2
+			has_reform = states_general_reform
+			OR = {
+				is_statists_in_power = yes
+				is_monarchists_in_power = yes
+			}
+			NOT = { has_reform = parliamentary_reform }
+			NOT = { has_reform = presidential_reform }
+			NOT = { is_revolutionary_republic_trigger = yes }
+			NOT = { has_reform = constitutional_republic }
+			NOT = { has_reform = presidential_despot_reform }
+		}
+	}
+	text={
+		localisation_key = string_adj_GRAND_PRINCEDOM
+		trigger = {
+			government_rank = 2
+			OR = {
+				has_reform = noble_elite_reform
+				has_reform = noble_republic
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_DICTATORSHIP
+		trigger = {
+			government_rank = 2
+			has_reform = presidential_despot_reform
+		}
+	}
+	text={
+		localisation_key = string_adj_GRAND_REPUBLIC
+		trigger = {
+			government_rank = 2
+			has_reform = bureaucratic_despotism
+		}
+	}
+	text={
+		localisation_key = string_adj_GRAND_INDEP_DAIMYO
+		trigger = {
+			government_rank = 2
+			has_reform = indep_daimyo
+		}
+	}
+	text={
+		localisation_key = string_adj_SHOGUNATE
+		trigger = {
+			government_rank = 2
+			has_reform = shogunate
+		}
+	}
+	text={
+		localisation_key = string_adj_TRIBAL_KINGDOM
+		trigger = {
+			government_rank = 2
+			OR = {
+				has_reform = tribal_kingdom
+				has_reform = tribal_despotism
+				has_reform = tribal_federation
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_GRAND_CHIEFDOM
+		trigger = {
+			government_rank = 2
+			has_reform = tribal_democracy_legacy
+		}
+	}
+	text={
+		localisation_key = string_adj_GRAND_REPUBLIC
+		trigger = {
+			government_rank = 2
+			government = republic
+			OR = {
+				has_reform = constitutional_republic
+				has_reform = presidential_reform
+				has_reform = parliamentary_reform
+			}
+			NOT = { has_reform = presidential_despot_reform }
+		}
+	}
+	text={
+		localisation_key = string_adj_KINGDOM
+		trigger = {
+			government_rank = 2
+			has_reform = monarchy_mechanic
+			is_part_of_hre = yes
+			NOT = { total_development = 50 }
+		}
+	}
+	text={
+		localisation_key = string_adj_WARRIOR_MONK_HIGH_ORDER
+		trigger = {
+			government_rank = 2
+			has_reform = monastic_order_reform
+			OR = {
+				religion_group = eastern
+				culture_group = japanese
+				capital_scope = { region = japan_region }
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_BLACK_LONG_KNIGHTS
+		trigger = {
+			government_rank = 2
+			has_reform = monastic_order_reform
+			has_reform = commander_king_reform
+			OR = {
+				tag = NOL
+				capital_scope = { area = yorkshire_area }
+				capital_scope = { area = scottish_marches_area }
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_BLACK_WATCH
+		trigger = {
+			government_rank = 2
+			has_reform = monastic_order_reform
+			OR = {
+				tag = NOL
+				capital_scope = { area = yorkshire_area }
+				capital_scope = { area = scottish_marches_area }
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_MONASTIC_STATE
+		trigger = {
+			government_rank = 2
+			has_reform = monastic_order_reform
+			OR = {
+				tag = TEU
+				tag = LIV
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_SOVREIGN_MONASTIC_ORDER
+		trigger = {
+			government_rank = 2
+			OR = {
+				has_reform = monastic_order_reform
+				AND = {
+					government = theocracy
+					has_reform = holy_state_reform
+				}
+			}
+			culture_group = germanic
+		}
+	}
+	text={
+		localisation_key = string_adj_MONASTIC_STATE
+		trigger = {
+			government_rank = 2
+			has_reform = monastic_breweries_reform
+			religion = catholic
+		}
+	}
+	text={
+		localisation_key = string_adj_HOLY_STATE
+		trigger = {
+			government_rank = 2
+			government = theocracy
+			OR = {
+				religion = jewish
+				religion = zoroastrian
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_MISL
+		trigger = {
+			government_rank = 2
+			religion = sikhism
+			government = theocracy
+		}
+	}
+	text={
+		localisation_key = string_adj_HOLY_STATE
+		trigger = {
+			government_rank = 2
+			government = theocracy
+			OR = {
+				religion = shinto
+				religion = buddhism
+				religion = vajrayana
+				religion = mahayana
+				religion = hinduism
+				religion = confucianism
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_GREAT_IMAMATE
+		trigger = {
+			government_rank = 2
+			OR = {
+				religion = ibadi
+				AND = {
+					religion = shiite
+					primary_culture = yemeni_culture
+				}
+			}
+			OR = {
+				government = theocracy
+				has_reform = feudal_theocracy
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_HOLY_STATE
+		trigger = {
+			government_rank = 2
+			government = theocracy
+			OR = {
+				religion = shiite
+				AND = {
+					religion = sunni
+					OR = {
+						primary_culture = uyghur
+						has_country_flag = end_of_khojas
+					}
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_IMAMATE
+		trigger = {
+			government_rank = 2
+			religion = sunni
+			OR = {
+				has_reform = feudal_theocracy
+				government = theocracy
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_GREAT_METROPOLIS
+		trigger = {
+			government_rank = 2
+			OR = {
+				religion = orthodox
+				religion = coptic
+			}
+			government = theocracy
+		}
+	}
+	text={
+		localisation_key = string_adj_HOLY_STATE
+		trigger = {
+			government_rank = 2
+			government = theocracy
+			OR = {
+				religion = inti
+				religion_group = pagan
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_MONASTIC_STATE
+		trigger = {
+			government_rank = 2
+			OR = {
+				has_reform = monastic_order_reform
+				AND = {
+					government = theocracy
+					tag = KOJ
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_KINGDOM
+		trigger = {
+			government_rank = 2
+			has_reform = monarchy_mechanic
+		}
+	}
+	text={
+		localisation_key = string_adj_GRAND_REPUBLIC
+		trigger = {
+			government_rank = 2
+			government = republic
+		}
+	}
+	text={
+		localisation_key = string_adj_ARCHBISHOPRIC
+		trigger = {
+			government_rank = 2
+			government = theocracy
+		}
+	}
+	text={
+		localisation_key = string_adj_TRIBAL_KINGDOM
+		trigger = {
+			government_rank = 2
+			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_adj_REPUBLIC
+		trigger = {
+			primary_culture = polish
+			government = republic
+		}
+	}
+	text={
+		localisation_key = string_adj_ADMIRALTY
+		trigger = {
+			has_reform = admiralty_reform
+		}
+	}
+	text={
+		localisation_key = string_adj_PIRATE_REPUBLIC
+		trigger = {
+			has_reform = pirate_republic_reform
+			NOT = { has_reform = pirate_king_reform }
+			primary_culture = greek
+		}
+	}
+	text={
+		localisation_key = string_adj_PIRATE_DAIMYO
+		trigger = {
+			tag = SOO
+			OR = {
+				has_reform = pirate_republic_reform
+				has_reform = pirate_king_reform
+				has_reform = war_against_the_world_doctrine_reform
+				has_reform = black_market_consortium_reform
+			}
+			is_subject_of_type = daimyo_vassal
+		}
+	}
+	text={
+		localisation_key = string_adj_PIRATE_REPUBLIC
+		trigger = {
+			has_reform = pirate_republic_reform
+			NOT = { has_reform = pirate_king_reform }
+			NOT = { primary_culture = greek }
+		}
+	}
+	text={
+		localisation_key = string_adj_PIRATE_PRINCIPALITY
+		trigger = {
+			has_reform = pirate_king_reform
+		}
+	}
+	text={
+		localisation_key = string_adj_HORDE
+		trigger = {
+			tag = YUA
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_adj_ILKHANATE
+		trigger = {
+			tag = ILK
+			is_march = yes
+		}
+	}
+	text={
+		localisation_key = string_adj_PASHALIK
+		trigger = {
+			is_march = yes
+			religion_group = muslim
+			overlord = { primary_culture = turkish }
+		}
+	}
+	text={
+		localisation_key = string_adj_BEYLIK
+		trigger = {
+			government = monarchy
+			religion_group = muslim
+			NOT = { is_march = yes }
+			overlord = { primary_culture = turkish }
+		}
+	}
+	text={
+		localisation_key = string_adj_MARCH
+		trigger = {
+			government = monarchy
+			religion_group = christian
+			NOT = { religion = orthodox }
+			NOT = { religion = coptic }
+			is_march = yes
+		}
+	}
+	text={
+		localisation_key = string_adj_ELECTORAL_PALATINATE
+		trigger = {
+			government = monarchy
+			is_elector = yes
+			tag = PAL
+		}
+	}
+	text={
+		localisation_key = string_adj_COUNTY_PALATINE
+		trigger = {
+			government = monarchy
+			tag = PAL
+		}
+	}
+	text={
+		localisation_key = string_adj_HERCEGSEG
+		trigger = {
+			government = monarchy
+			NOT = { government_rank = 3 }
+			tag = HRZ
+		}
+	}
+	text={
+		localisation_key = string_adj_ELECTORATE_DUCHY
+		trigger = {
+			government = monarchy
+			is_elector = yes
+			is_emperor = no
+			NOT = { tag = HAB }
+		}
+	}
+	text={
+		localisation_key = string_adj_ELECTORATE_BISHOPRIC
+		trigger = {
+			government = theocracy
+			is_elector = yes
+			is_emperor = no
+		}
+	}
+	text={
+		localisation_key = string_adj_ELECTORAL_REPUBLIC
+		trigger = {
+			government = republic
+			is_elector = yes
+			is_emperor = no
+		}
+	}
+	text={
+		localisation_key = string_adj_DAIMYO
+		trigger = {
+			tag = JAP
+			government = monarchy
+			NOT = { has_reform = shogunate }
+		}
+	}
+	text={
+		localisation_key = string_adj_EMIRATE
+		trigger = {
+			government = monarchy
+			NOT = { religion_group = muslim }
+			has_country_flag = sultan_titles_for_non_muslims
+		}
+	}
+	text={
+		localisation_key = string_adj_DUCHY
+		trigger = {
+			government = monarchy
+			NOT = { has_reform = revolutionary_empire_reform }
+			OR = {
+				tag = FRA
+				tag = AUV
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_SHARIFATE
+		trigger = {
+			religion_group = muslim
+			OR = {
+				tag = HED
+				tag = MDA
+				tag = MFL
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_KHANATE
+		trigger = {
+			government = monarchy
+			OR = {
+				tag = AVR
+				primary_culture = georgian
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_EMIRATE
+		trigger = {
+			religion_group = muslim
+			tag = NJR
+		}
+	}
+	text={
+		localisation_key = string_adj_PRINCEDOM
+		trigger = {
+			government = monarchy
+			tag = MAL
+		}
+	}
+	text={
+		localisation_key = string_adj_SHEIKHDOM
+		trigger = {
+			religion_group = muslim
+			primary_culture = bedouin_arabic
+			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_adj_MALIKATE
+		trigger = {
+			religion_group = muslim
+			government = tribal
+			NOT = { has_reform = steppe_horde }
+		}
+	}
+	text={
+		localisation_key = string_adj_PRINCEDOM
+		trigger = {
+			government = monarchy
+			OR = {
+				tag = KAT
+				primary_culture = sindhi
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_MALIKATE
+		trigger = {
+			government = monarchy
+			tag = SIS
+		}
+	}
+	text={
+		localisation_key = string_adj_SHEIKHDOM
+		trigger = {
+			government = monarchy
+			culture_group = iranian
+		}
+	}
+	text={
+		localisation_key = string_adj_PRINCEDOM
+		trigger = {
+			government = monarchy
+			primary_culture = somali
+		}
+	}
+	text={
+		localisation_key = string_adj_GRAND_DUCHY
+		trigger = {
+			tag = LIT
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_adj_ARCHDUCHY
+		trigger = {
+			tag = DAN
+			government = monarchy
+			has_ruler = "Christopher III"
+		}
+	}
+	text={
+		localisation_key = string_adj_DUCHY
+		trigger = {
+			tag = HUN
+			government = monarchy
+			has_heir = "Ladislaus Postumus"
+		}
+	}
+	text={
+		localisation_key = string_adj_ARCHDUCHY
+		trigger = {
+			tag = HAB
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_adj_BEYLIK
+		trigger = {
+			government = monarchy
+			primary_culture = turkish
+		}
+	}
+	text={
+		localisation_key = string_adj_PRINCEDOM
+		trigger = {
+			government = monarchy
+			OR = {
+				tag = FEO
+				primary_culture = croatian
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_GRAND_DUCHY
+		trigger = {
+			government = monarchy
+			OR = {
+				primary_culture = finnish
+				tag = TUS
+				AND = {
+					tag = BAD
+					has_idea = bad_grand_duchy
+				}
+				AND = {
+					tag = LUX
+					has_idea = lux_grand_duchy_of_luxembourg
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_PRINCEDOM
+		trigger = {
+			government = monarchy
+			OR = {
+				primary_culture = serbian
+				tag = BYZ
+				tag = TRE
+				tag = EPI
+				tag = MOE
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_DUCHY
+		trigger = {
+			government = monarchy
+			OR = {
+				primary_culture = greek
+				primary_culture = pontic_greek
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_EMIRATE
+		trigger = {
+			government = monarchy
+			tag = ARK
+		}
+	}
+	text={
+		localisation_key = string_adj_BARANGAY
+		trigger = {
+			government = monarchy
+			tag = PGS
+			religion_group = eastern
+		}
+	}
+	text={
+		localisation_key = string_adj_PRINCEDOM
+		trigger = {
+			government = monarchy
+			OR = {
+				tag = QNG
+				tag = ALB
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_KHEDIVATE
+		trigger = {
+			OR = {
+				has_reform = enlightened_despotism
+				has_reform = letat_cest_moi_reform
+				has_reform = regional_representation_reform
+			}
+			primary_culture = al_misr_arabic
+			religion_group = muslim
+		}
+	}
+	text={
+		localisation_key = string_adj_SOGN
+		trigger = {
+			has_reform = peasants_republic
+			primary_culture = scanian
+		}
+	}
+	text={
+		localisation_key = string_adj_PRINCEDOM
+		trigger = {
+			OR = {
+				AND = {
+					government = monarchy
+					OR = {
+						AND = {
+							religion = animism
+							OR = {
+								primary_culture = al_misr_arabic
+								primary_culture = greek
+								primary_culture = umbrian
+							}
+						}
+						primary_culture = old_egyptian
+						primary_culture = athenian
+						primary_culture = spartan
+						primary_culture = atlantean
+						primary_culture = roman
+					}
+				}
+				AND = {
+					has_reform = steppe_horde
+					primary_culture = manchu
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_PRINCIPALITY
+		trigger = {
+			government = monarchy
+			primary_culture = romanian
+		}
+	}
+	text={
+		localisation_key = string_adj_NAWABATE
+		trigger = {
+			government = monarchy
+			OR = {
+				tag = DEC
+				AND = {
+					OR = {
+						culture_group = dravidian
+						culture_group = western_aryan
+						culture_group = hindusthani
+						culture_group = eastern_aryan
+						has_reform = indian_sultanate_reform
+					}
+					religion_group = muslim
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_PRINCEDOM
+		trigger = {
+			government = monarchy
+			OR = {
+				primary_culture = lunda
+				primary_culture = luba
+				primary_culture = rwandan
+				primary_culture = ganda
+				tag = BHA
+				tag = KAF
+				tag = NKO
+				tag = BNY
+				tag = ZIM
+				tag = ANT
+				tag = BTS
+				tag = RZW
+				AND = {
+					religion = hinduism
+					OR = {
+						primary_culture = rajput
+						primary_culture = marathi
+					}
+				}
+				AND = {
+					religion_group = christian
+					OR = {
+						primary_culture = amhara
+						primary_culture = sidamo
+						primary_culture = tigray
+					}
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_BARANGAY
+		trigger = {
+			government = monarchy
+			OR = {
+				tag = BTU
+				tag = MNA
+				tag = CEB
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_MONG
+		trigger = {
+			government = monarchy
+			primary_culture = shan
+		}
+	}
+	text={
+		localisation_key = string_adj_PRINCEDOM
+		trigger = {
+			government = monarchy
+			culture_group = burman
+		}
+	}
+	text={
+		localisation_key = string_adj_BARANGAY
+		trigger = {
+			OR = {
+				government = monarchy
+				government = republic
+			}
+			NOT = { tag = SUL }
+			NOT = { tag = MGD }
+			primary_culture = filipino
+		}
+	}
+	text={
+		localisation_key = string_adj_PRINCEDOM
+		trigger = {
+			government = monarchy
+			culture_group = south_slavic
+			NOT = { tag = CLI }
+		}
+	}
+	text={
+		localisation_key = string_adj_EARLDOM
+		trigger = {
+			government = monarchy
+			primary_culture = irish
+			OR = {
+				tag = DMS
+				tag = ORD
+				tag = KID
+				tag = ULS
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_KINGDOM
+		trigger = {
+			government = monarchy
+			primary_culture = irish
+		}
+	}
+	text={
+		localisation_key = string_adj_LORDSHIP
+		trigger = {
+			primary_culture = highland_scottish
+		}
+	}
+	text={
+		localisation_key = string_adj_GRAND_PRINCIPALITY
+		trigger = {
+			OR = {
+				has_reform = principality
+				has_reform = tsardom
+			}
+			tag = MOS
+		}
+	}
+	text={
+		localisation_key = string_adj_PRINCIPALITY
+		trigger = {
+			OR = {
+				has_reform = principality
+				has_reform = tsardom
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_PRINCEDOM
+		trigger = {
+			government = monarchy
+			OR = {
+				culture_group = east_slavic
+				tag = PRM
+				religion = inti
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_CAH
+		trigger = {
+			OR = {
+				government = monarchy
+				government = tribal
+			}
+			religion = mesoamerican_religion
+		}
+	}
+	text={
+		localisation_key = string_adj_ALTEPETL
+		trigger = {
+			OR = {
+				government = monarchy
+				government = tribal
+				has_reform = tribal_democracy_legacy
+			}
+			religion = nahuatl
+		}
+	}
+	text={
+		localisation_key = string_adj_PRINCEDOM
+		trigger = {
+			government = monarchy
+			OR = {
+				culture_group = east_asian
+				religion = hinduism
+				AND = {
+					NOT = { government = tribal }
+					OR = {
+						religion = buddhism
+						religion = vajrayana
+						religion = mahayana
+					}
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_EMIRATE
+		trigger = {
+			government = monarchy
+			NOT = { has_reform = steppe_horde }
+			religion_group = muslim
+		}
+	}
+	text={
+		localisation_key = string_adj_FREE_CITY
+		trigger = {
+			has_reform = free_city
+		}
+	}
+	text={
+		localisation_key = string_adj_COLONY
+		trigger = {
+			has_reform = colonial_government
+			OR = {
+				culture_group = iberian
+				primary_culture = dutch
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_HETMANATE
+		trigger = {
+			government = republic
+			has_reform = cossacks_reform
+		}
+	}
+	text={
+		localisation_key = string_adj_REPUBLIC
+		trigger = {
+			OR = {
+				has_reform = ambrosian_republic
+				AND = {
+					government = republic
+					OR = {
+						culture_group = germanic
+						culture_group = latin
+						religion = hinduism
+						tag = RAG
+						tag = TUS
+						tag = LAN
+						AND = {
+							primary_culture = dutch
+							NOT = { is_revolutionary_republic_trigger = yes }
+							NOT = { has_reform = presidential_despot_reform }
+						}
+						AND = {
+							OR = {
+								culture_group = south_slavic
+								culture_group = east_slavic
+								tag = PRM
+							}
+							NOT = { is_revolutionary_republic_trigger = yes }
+							NOT = { has_reform = parliamentary_reform }
+							NOT = { has_reform = presidential_despot_reform }
+						}
+					}
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_PRINCEDOM
+		trigger = {
+			has_reform = noble_elite_reform
+			OR = {
+				religion = buddhism
+				religion = vajrayana
+				religion = mahayana
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_REPUBLIC
+		trigger = {
+			government = republic
+			religion_group = muslim
+		}
+	}
+	text={
+		localisation_key = string_adj_PRINCEDOM
+		trigger = {
+			government = monarchy
+			NOT = { has_reform = principality }
+			OR = {
+				religion = coptic
+				religion = orthodox
+			}
+			is_march = yes
+		}
+	}
+	text={
+		localisation_key = string_adj_HORDE
+		trigger = {
+			has_reform = steppe_horde
+		}
+	}
+	text={
+		localisation_key = string_adj_COLONY
+		trigger = {
+			has_reform = colonial_government
+		}
+	}
+	text={
+		localisation_key = string_adj_UNITED_PROVINCES
+		trigger = {
+			has_reform = states_general_reform
+			OR = {
+				is_monarchists_in_power = yes
+				is_statists_in_power = yes
+			}
+			NOT = { has_reform = parliamentary_reform }
+			NOT = { has_reform = presidential_reform }
+			NOT = { is_revolutionary_republic_trigger = yes }
+			NOT = { has_reform = constitutional_republic }
+			NOT = { has_reform = presidential_despot_reform }
+		}
+	}
+	text={
+		localisation_key = string_adj_PRINCEDOM
+		trigger = {
+			OR = {
+				has_reform = noble_elite_reform
+				has_reform = noble_republic
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_DESPOTISM
+		trigger = {
+			has_reform = presidential_despot_reform
+		}
+	}
+	text={
+		localisation_key = string_adj_REPUBLIC
+		trigger = {
+			has_reform = bureaucratic_despotism
+		}
+	}
+	text={
+		localisation_key = string_adj_DAIMYO
+		trigger = {
+			has_reform = daimyo
+		}
+	}
+	text={
+		localisation_key = string_adj_INDEP_DAIMYO
+		trigger = {
+			has_reform = indep_daimyo
+		}
+	}
+	text={
+		localisation_key = string_adj_CHIEFDOM
+		trigger = {
+			OR = {
+				has_reform = tribal_despotism
+				has_reform = tribal_federation
+				has_reform = tribal_kingdom
+				has_reform = tribal_democracy_legacy
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_REPUBLIC
+		trigger = {
+			government = republic
+			OR = {
+				has_reform = constitutional_republic
+				has_reform = presidential_reform
+				has_reform = parliamentary_reform
+			}
+			NOT = { has_reform = presidential_despot_reform }
+		}
+	}
+	text={
+		localisation_key = string_adj_COUNTY
+		trigger = {
+			has_reform = monarchy_mechanic
+			is_part_of_hre = yes
+			NOT = { total_development = 50 }
+		}
+	}
+	text={
+		localisation_key = string_adj_WARRIOR_MONK_ORDER
+		trigger = {
+			has_reform = monastic_order_reform
+			OR = {
+				religion_group = eastern
+				culture_group = japanese
+				capital_scope = { region = japan_region }
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_BLACK_KNIGHTS
+		trigger = {
+			has_reform = monastic_order_reform
+			OR = {
+				tag = NOL
+				capital_scope = { area = scottish_marches_area }
+				capital_scope = { area = yorkshire_area }
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_MONASTIC_ORDER
+		trigger = {
+			OR = {
+				has_reform = monastic_order_reform
+				AND = {
+					government = theocracy
+					has_reform = holy_state_reform
+				}
+			}
+			culture_group = germanic
+		}
+	}
+	text={
+		localisation_key = string_adj_TRAPPIST_STATE
+		trigger = {
+			has_reform = monastic_breweries_reform
+			religion = catholic
+		}
+	}
+	text={
+		localisation_key = string_adj_HOLY_PRINCIPALITY
+		trigger = {
+			government = theocracy
+			OR = {
+				religion = jewish
+				religion = zoroastrian
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_HOLY_STATE
+		trigger = {
+			religion = sikhism
+			government = theocracy
+		}
+	}
+	text={
+		localisation_key = string_adj_HOLY_PRINCIPALITY
+		trigger = {
+			government = theocracy
+			OR = {
+				religion = hinduism
+				religion = shinto
+				religion = buddhism
+				religion = vajrayana
+				religion = mahayana
+				religion = confucianism
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_IMAMATE
+		trigger = {
+			OR = {
+				religion = ibadi
+				AND = {
+					religion = shiite
+					primary_culture = yemeni_culture
+				}
+			}
+			OR = {
+				government = theocracy
+				has_reform = feudal_theocracy
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_SHEIKHDOM
+		trigger = {
+			OR = {
+				AND = {
+					religion = shiite
+					government = theocracy
+				}
+				AND = {
+					religion = sunni
+					OR = {
+						has_reform = feudal_theocracy
+						government = theocracy
+					}
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_METROPOLIS
+		trigger = {
+			OR = {
+				religion = orthodox
+				religion = coptic
+			}
+			government = theocracy
+		}
+	}
+	text={
+		localisation_key = string_adj_HOLY_PRINCIPALITY
+		trigger = {
+			government = theocracy
+			OR = {
+				religion = inti
+				religion_group = pagan
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_MONASTIC_ORDER
+		trigger = {
+			OR = {
+				has_reform = monastic_order_reform
+				AND = {
+					government = theocracy
+					tag = KOJ
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_adj_DUCHY
+		trigger = {
+			has_reform = monarchy_mechanic
+		}
+	}
+	text={
+		localisation_key = string_adj_REPUBLIC
+		trigger = {
+			government = republic
+		}
+	}
+	text={
+		localisation_key = string_adj_BISHOPRIC
+		trigger = {
+			government = theocracy
+		}
+	}
+	text={
+		localisation_key = string_adj_CHIEFDOM
+		trigger = {
+			government = tribal
+		}
+	}
+	text={
+		localisation_key = "abcd"
+	}
+}
