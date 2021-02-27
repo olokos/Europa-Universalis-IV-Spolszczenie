@@ -16,7 +16,7 @@
  string_mahayana_peopleCap: "Mahajiœci"
  string_vajrayana_peopleCap: "WadŸrajniœci"
  string_theravada_peopleCap: "Therewadyœci"
- string_ibadism_peopleCap: "Ibadyœci"
+ string_ibadism_peopleCap: "Ibadyci"
  string_shia_peopleCap: "Szyici"
  string_sunni_peopleCap: "Sunnici"
  string_coptic_peopleCap: "Koptowie"
@@ -43,7 +43,7 @@
  string_mahayana_people: "mahajiœci"
  string_vajrayana_people: "wadŸrajniœci"
  string_theravada_people: "therewadyœci"
- string_ibadism_people: "ibadyœci"
+ string_ibadism_people: "ibadyci"
  string_shia_people: "szyici"
  string_sunni_people: "sunnici"
  string_coptic_people: "koptowie"
@@ -85,7 +85,7 @@
  string_adj_GREAT_LEAGUE: "Wielkiej Ligii" #Wielka Liga Ż
  string_adj_GREAT_HETMANATE: "Wielkiego Hetmanatu" #Wielki Hetmanat M
  string_adj_GREAT_REPUBLIC: "Wielkiej Republiki" #Wielka Republika Ż
- string_adj_FEDERAL_REPUBLIC: "Republiki Federlanej" #Republika Federalna Ż
+ string_adj_FEDERAL_REPUBLIC: "Republiki Federalnej" #Republika Federalna Ż
  string_adj_GREAT_PRINCEDOM: "Wielkiego Ksi²stwa" #Wielkie Ksi²stwo N
  string_adj_TRIBE: "Plemienia" #Plemi² N
  string_adj_FEDERAL_EMPIRE: "Imperium Federalnego" #Imperium Federalne N
@@ -98,7 +98,7 @@
  string_adj_BLACK_WATCH: "Stra¿y Hadriana" #Stra¿ Hadriana Ż
  string_adj_MONASTIC_EMPIRE: "Federacji Zakonnej" #Federacja Zakonna Ż
  string_adj_SOVREIGN_MONASTIC_CONFEDERATION: "Niepodleg³ej Konfederacji Zakonnej" #Niepodleg³a Konfederacja Zakonna Ż
- string_adj_BREWING_EMPIRE: "Imperium browarniczego" #Imperium Browarnicze N
+ string_adj_BREWING_EMPIRE: "Imperium Browarniczego" #Imperium Browarnicze N
  string_adj_HOLY_EMPIRE: "Imperium Teokratycznego" #Imperium Teokratyczne N
  string_adj_CONFEDERATION: "Konfederacji" #Konfederacja Ż
  string_adj_HIGH_IMAMATE: "Wysokiego Imamatu" #Wysoki Imamat M
@@ -110,7 +110,7 @@
  string_adj_PIRATE_KINGDOM: "Królestwa Piratów" #Królestwo Piratów N
  string_adj_KHANATE: "Chanatu" #Chanat M
  string_adj_VICEROYALTY: "Wicekrólestwa" #Wicekrólestwo N
- string_adj_ELECTORAL_PALATINATE: "Elektorskiego Palatynatu" #Elektorski Palatynat M
+ string_adj_ELECTORAL_PALATINATE: "Elektoratu Palatynatu" #Elektorat Palatynatu M
  string_adj_KINGDOM_PALATINE: "Królewskiego Palatynatu" #Królewski Palatynat M
  string_adj_GRAND_HERCEGSEG: "Grandhercegsegu" #Grandhercegseg M
  string_adj_KINGDOM: "Królestwa" #Królestwo N
@@ -191,8 +191,8 @@
  string_adj_METROPOLIS: "Meropolii" #Metropolia Ż
  string_adj_BISHOPRIC: "Biskupstwa" #Biskupstwo N
  string_adj_CHIEFDOM: "Wodzostwa" #Wodzostwo N
- string_adj_SAVANAROLA_GOVERNMENT: "Rządu Savanaroli" #Rząd Savanaroli M
-## Odmiana czasowników dla nazw rządów
+ string_adj_SAVANAROLA_GOVERNMENT: "Rz¹du Savanaroli" #Rz¹d Savanaroli M
+## Odmiana czasowników dla nazw rz¹dów
  string_Z: "³a"#Republika
  string_M: "³"#Hetmanat
  string_N: "³o"#Wodzostwo
