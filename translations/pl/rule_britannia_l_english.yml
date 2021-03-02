@@ -380,7 +380,7 @@
  SELECT_NAVAL_DOCTRINE_HEADER: "Wybierz doktrynę morską"
  NO_NAVAL_DOCTRINE_SELECTED: "Nie wybrano doktryny morskiej.\n\nKiedy osiągniemy limit sił morskich, możemy wesprzeć naszą potężną marynarkę wojenną poprzez wybranie doktryny. To zapewni naszej flocie określony, stały efekt."
  CURRENT_NAVAL_DOCTRINE: "Obecnie: "
- NAVAL_DOCTRINE_NOT_ENOUGH_FORCE_LIMIT: "§RYMusisz osiągnąć limit sił morskich wynoszący co najmniej $VALUE$, aby móc zmienić doktrynę morską.§!"
+ NAVAL_DOCTRINE_NOT_ENOUGH_FORCE_LIMIT: "§RMusisz osiągnąć limit sił morskich wynoszący co najmniej $VALUE$, aby móc zmienić doktrynę morską.§!"
  NAVAL_DOCTRINE_COST: "Wybór tej doktryny morskiej będzie cię kosztował $COST|Y2$¤, ponieważ twoja marynarka może pomieścić $SAILORS|Y0$ marynarzy."
  NAVAL_DOCTRINE_NOT_AVAILABLE: "§RTa doktryna morska nie jest dla ciebie dostępna:§!"
  NAVAL_DOCTRINE_CHANGE_TITLE: "Zmiana doktryny morskiej"
