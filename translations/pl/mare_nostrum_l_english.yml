@@ -424,7 +424,7 @@
  counterintelligence_operation: "Operacja kontrwywiadowcza"
  imprisoned_ambassador: "Uwięziony ambasador"
  ESTATE_OL_ENTRY: "£estate_loyalty $LOYALTY$ £estate_influence $INFL$ £estate_territory $TERR$"
- ESTATE_OL_TOOLTIP: "§Y$NAME$§!:\nLojalność: §Y$LOYALTY$%§!\nWpływy: §Y$INFL$%§!\nTerytorium: §Y$TERR$%§!"
+ ESTATE_OL_TOOLTIP: "§Y$NAME$§!:\nLojalność: §Y$LOYALTY$%§!\nWpływy: §Y$INFL$%§!\nZiemie: §Y$TERR$%§!"
  CONDOTTIERI_PARTICIPATION_FAILURE1: "Oczekiwali, że stawimy większy opór."
  CONDOTTIERI_PARTICIPATION_FAILURE2: "Nasza reputacja została nadszarpnięta; trudno będzie"
  CONDOTTIERI_PARTICIPATION_FAILURE3: "składać nowe propozycje w ciągu najbliższych $YEARS|Y$ lat."
