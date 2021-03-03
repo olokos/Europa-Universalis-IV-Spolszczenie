@@ -678,7 +678,7 @@
  COT_DESCRIPTION: "$DESCRIPTION$\n$NAME|Y$ daje następujące korzyści:\n\n$MODIFIERS$\n"
  COT_CLICK_TO_UPGRADE: "Kliknij aby ulepszyć do $NAME|Y$ za $COST|Y$¤."
  COT_RIGHT_CLICK_TO_DOWNGRADE: "Kliknij PPM aby obniżyć do poziomu $NAME|Y$ za $COST|R$ prestiżu."
- COT_RIGHT_CLICK_TO_DOWNGRADE_SUBJECT: "Kliknij prawym przyciskiem myszy, aby obniżyć do $NAME|Y$ za $COST|R$ prestiżu. Obniżenie poziomu centrum handlowego kontrolowanego przez podmiot spowoduje dodanie §§R$LIBERTY_DESIRE$%§! dążeń niepodległościowych."
+ COT_RIGHT_CLICK_TO_DOWNGRADE_SUBJECT: "Kliknij prawym przyciskiem myszy, aby obniżyć do $NAME|Y$ za $COST|R$ prestiżu. Obniżenie poziomu centrum handlowego kontrolowanego przez podmiot spowoduje dodanie §R$LIBERTY_DESIRE$%§! dążeń niepodległościowych."
  COT_MIN_LEVEL: "§RNie możesz obniżyć poziomu centrum handlowego, ponieważ jest ono już na najniższym poziomie!§!"
  COT_NEGATIVE_PRESTIGE: "§RNie możesz obniżyć poziomu centrum handlowego, ponieważ masz ujemny prestiż!§!"
  COT_MAX_LEVEL: "§RNie możesz zwiększyć poziomu centrum handlowego, ponieważ już jest ono na najwyższym poziomiel!§!"
