@@ -40,7 +40,7 @@
  synth_emotion_emulators_desc: "Socjalne modele przewidujące o wysokiej złożoności pomagają jednostkom imitować odpowiednie emocje oraz uzyskiwać pożądane reakcje u istot organicznych, jak i syntetycznych."
  SYNTH_GOV: "Sztuczna Inteligencja"
  SYNTH_RULER: "Egzekutor"
- SYNTH_RULER_fem: "Egzekutor"
+ SYNTH_RULER_fem: "Egzekutorka"
  synthetic_remnants_enabled.tooltip: "Aktywuje modyfikator §YSyntetyczne pozostałości§!."
  synthetic_remnants: "Syntetyczne pozostałości"
  desc_synthetic_remnants: "Inwazja obcych zrodziła więcej pytań niż ich pokonanie dało odpowiedzi. Niemniej technologia, którą po sobie zostawili, pozwala na nowe odkrycia na całym świecie."
