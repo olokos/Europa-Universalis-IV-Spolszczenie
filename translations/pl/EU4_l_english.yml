@@ -1820,7 +1820,7 @@
  WANTS_NEUTRAL: "Neutralne"
  WANTS_ALLY: "Przyjazne"
  WANTS_ENEMY: "Nieufne"
- IS_THREAT: "Wrogie"
+ IS_THREAT: "Bojaźliwe"
  GOV_HAS_HAREM: "Posiada harem, co umożliwia wybór dziedzica!"
  militarized_society: "Militaryzacja kraju"
  MIL_SOC_CURR_VAL: "Obecnie §Y$VAL$%§!, co daje następujące efekty:\n"
