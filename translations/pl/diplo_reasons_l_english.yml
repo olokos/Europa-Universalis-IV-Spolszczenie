@@ -201,7 +201,7 @@
  DIPLO_GREAT_POWER: "Kraj $WHO$ jest światową potęgą:"
  DIPLO_TRUST_WITH: "Zaufanie względem kraju $WHO$:"
  DIPLO_NUMBER_OF_POWERFUL_ALLIES: "Kraj $WHO$ ma już potężnych sojuszników:"
- DIPLO_THREATENED_BY_RIVAL: "Kraj $WHO$ jest zagrożony przez państwo $RIVAL$:"
+ DIPLO_THREATENED_BY_RIVAL: "Kraj $WHO$ boi się państwa $RIVAL$:"
  DIPLO_RIVAL_ALLIES: "Kraj $WHO$ jest sojusznikiem państwa $RIVAL$, rywala $ADJ$:"
  DIPLO_RIVALRY: "Rywalizacja:"
  DIPLO_HISTORICAL_RIVAL: "Historyczny rywal:"
