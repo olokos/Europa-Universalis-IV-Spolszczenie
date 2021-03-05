@@ -1819,7 +1819,7 @@
  MANAGE_MANUAL: "Określ nastawienie"
  WANTS_NEUTRAL: "Neutralne"
  WANTS_ALLY: "Przyjazne"
- WANTS_ENEMY: "Nieufne"
+ WANTS_ENEMY: "Wrogie"
  IS_THREAT: "Bojaźliwe"
  GOV_HAS_HAREM: "Posiada harem, co umożliwia wybór dziedzica!"
  militarized_society: "Militaryzacja kraju"
