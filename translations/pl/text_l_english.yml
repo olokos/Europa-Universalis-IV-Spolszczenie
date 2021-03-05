@@ -8046,7 +8046,7 @@
  coalition_rule: "Wskaż Oburzone Kraje"
  allies_rule: "Wskaż Sojuszników"
  threats_rule: "Wskaż Zagrożenia"
- MACRO_DIPLOMACY_NEIGHBOURS_RULE: "Sąsiednie Kraje"
+ MACRO_DIPLOMACY_NEIGHBOURS_RULE: "Sąsiednie państwa"
  MACRO_DIPLOMACY_NEIGHBOURS_RULE_NO_VALID: "Brak dostępnych celów w pobliżu!"
  MACRO_DIPLOMACY_NEIGHBOURS_RULE_DESC: "Twoi dyplomaci będę poprawiać relacje z sąsiednimi państwami ."
  MACRO_DIPLOMACY_SUBJECTS_RULE: "Państwa nam podległe"
