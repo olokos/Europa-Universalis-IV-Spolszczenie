@@ -8049,7 +8049,7 @@
  MACRO_DIPLOMACY_NEIGHBOURS_RULE: "Sąsiednie Kraje"
  MACRO_DIPLOMACY_NEIGHBOURS_RULE_NO_VALID: "Brak dostępnych celów w pobliżu!"
  MACRO_DIPLOMACY_NEIGHBOURS_RULE_DESC: "Twoi dyplomaci będę poprawiać relacje z sąsiednimi państwami ."
- MACRO_DIPLOMACY_SUBJECTS_RULE: "Państwa Nam Podległe"
+ MACRO_DIPLOMACY_SUBJECTS_RULE: "Państwa nam podległe"
  MACRO_DIPLOMACY_SUBJECTS_RULE_NO_VALID: "Brak dostępnych państw podległych!"
  MACRO_DIPLOMACY_SUBJECTS_RULE_DESC: "Twoi dyplomaci będę poprawiać relacje z podległymi nam państwami ."
  MACRO_DIPLOMACY_COALITION_RULE: "Oburzone Państwa"
