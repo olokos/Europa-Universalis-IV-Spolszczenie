@@ -492,7 +492,7 @@
  ai_colonialist_desc: "Władca §Y$ADJ$§! to kolonialista. Interesy jego państwa skupiają się na zamorskiej ekspansji, toteż będzie się ono starało zachowywać dobre stosunki z sąsiadami na macierzystym kontynencie."
  attitude_unknown: "Nieznane"
  attitude_human: "Człowiek"
- attitude_hostile: "Nieufne"
+ attitude_hostile: "Wrogie"
  attitude_rivalry: "Rywalizujące"
  attitude_outraged: "Oburzone"
  attitude_friendly: "Przyjazne"
