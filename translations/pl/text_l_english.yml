@@ -8054,7 +8054,7 @@
  MACRO_DIPLOMACY_SUBJECTS_RULE_DESC: "Twoi dyplomaci będę poprawiać relacje z podległymi nam państwami ."
  MACRO_DIPLOMACY_COALITION_RULE: "Oburzone państwa"
  MACRO_DIPLOMACY_COALITION_RULE_NO_VALID: "Brak dostępnych państw z karą za Agresywną Ekspansję!"
- MACRO_DIPLOMACY_COALITION_RULE_DESC: "Twoi dyplomaci będę poprawiać relacje z państwami, które mają wysoką karę za Agresywną Ekspansję wobec ciebie.."
+ MACRO_DIPLOMACY_COALITION_RULE_DESC: "Twoi dyplomaci będę poprawiać relacje z państwami, które mają wysoką karę za Agresywną Ekspansję wobec ciebie."
  MACRO_DIPLOMACY_ALLIES_RULE: "Sojusznicy"
  MACRO_DIPLOMACY_ALLIES_RULE_NO_VALID: "Brak dostępnych sojuszników!"
  MACRO_DIPLOMACY_ALLIES_RULE_DESC: "Twoi dyplomaci będę poprawiać relacje z twoimi sojusznikami."
