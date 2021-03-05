@@ -5058,7 +5058,7 @@
  no_territory_to_france_header: " "
  no_territory_to_france_title: "Powstrzymaj Francuzów"
  no_territory_to_france_desc: "Paryż nie może władać nawet piędzią hiszpańskiej ziemi. Nie złożymy broni, dopóki choć jedna z naszych prowincji będzie pozostawać we francuskich rękach."
- THREATENEDBY: "Czuje zagrożenie ze strony: $LIST$."
+ THREATENEDBY: "Boję się państw: $LIST$."
  recover_negative_stability_header: " "
  recover_negative_stability_title: "Odzyskaj stabilność"
  recover_negative_stability_desc: "Zaufanie do naszego rządu jest niskie, a lud ma buntownicze nastroje. Odwróćmy tę sytuację, by zaprowadzić pokój w kraju."
