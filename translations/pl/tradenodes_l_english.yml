@@ -102,7 +102,7 @@
  TRADE_PULL: "§Y$PART$§W% siły handlowej przenosi §Y$VAL$§W¤ dalej."
  TRADE_POWER_TAKE_PART: "Państwo §Y$COUNTRY$§W posiada §Y$PART$%§W siły handlowej wszystkich państw czerpiących zyski z handlu."
  TRADER_ALLREADY_THERE: "W każdym węźle dozwolony jest tylko jeden kupiec."
- TRADER_IN_RANGE: "Musi znajdować się w zasięgu (obecny zasięg: §Y$CURR$§W, maks. zasięg: §Y$MAX$§W)."
+ TRADER_IN_RANGE: "Musi znajdować się w zasięgu (obecna odległość: §Y$CURR$§W, maks. zasięg: §Y$MAX$§W)."
  TRADER_FREE_ENVOY: "Musi posiadać dostępnego kupca."
  TRADE_CANCEL: "Odwołaj kupca"
  TRADE_CANCEL_TIME: "Kupiec wróci do stolicy za §Y$DATE$§W dni."
