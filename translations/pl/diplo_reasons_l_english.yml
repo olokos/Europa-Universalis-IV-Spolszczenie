@@ -18,7 +18,7 @@
  DIPLO_UNSTABLE: "Kraj jest zbyt niestabilny: "
  DIPLO_ALLIANCE_IS_BREAKING: "Kraj nie chce już, by kraj $WHO$ był jego sojusznikiem:  "
  DIPLO_BLOCKED_OFFENSIVE_CALLS: "Kraj $THEM$ nie chce dołączyć do naszej wojny napastniczej: "
- DIPLO_SET_AS_ENEMY: "Grający krajem $THEM$ wykazuje nieufne nastawienie względem państwa $WHO$: "
+ DIPLO_SET_AS_ENEMY: "Grający krajem $THEM$ wykazuje wrogie nastawienie względem państwa $WHO$: "
  DIPLO_SET_AS_FRIENDLY: "Grający krajem $THEM$ wykazuje przyjazne nastawienie względem państwa $WHO$: "
  DIPLO_SET_AS_NEUTRAL: "Grający krajem $THEM$ wykazuje neutralne nastawienie względem państwa $WHO$: "
  DIPLO_NOT_ENOUGH_FAVORS: "Państwo $WHO$ nie musi odwzajemnić państwu $US$ co najmniej $AMT$ przysług: "
