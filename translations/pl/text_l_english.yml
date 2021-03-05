@@ -1108,7 +1108,7 @@
  BREAKMARNEWDESC: "Chwała dynastii jest jednym z priorytetów każdego państwa. Zerwanie powiązań dynastycznych z danym państwem rozgniewa ich i spowoduje niepokoje wśród naszej arystokracji."
  SUPPORT_INDEPENDENCE_ONLY_VASSAL_NONVASSAL: "Traktat popierający niepodległość może być podpisany tylko pomiędzy państwem podległym i państwem niepodległym."
  ASKSUPPORTINDEPENDENCETITLE: "Poproś o wsparcie dla niepodległości."
- OFFERSUPPORTINDEPENDENCETITLE: "wsparcia dla niepodległości."
+ OFFERSUPPORTINDEPENDENCETITLE: "Wsparcie niepodległości"
  CANCELASKSUPPORTINDEPENDENCETITLE: "Zakończ wsparcie dla niepodległości"
  CANCELOFFERSUPPORTINDEPENDENCETITLE: "Zakończ wsparcie dla niepodległości"
  ASKSUPPORTINDEPENDENCENEWDESC: "Zapytaj kraj $COUNTRY$ nas w naszej walce o niepodległość. Jeśli się zgodzą, to przyjdą nam z pomocą, gdy wypowiemy wojnę naszemu władcy."
