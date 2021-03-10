@@ -350,7 +350,7 @@
  START_GOLDEN_AGE: "Rozpocznij złotą erę"
  WE_ARE_IN_A_GOLDEN_ERA: "Jesteśmy już w złotej erze. Złota Era będzie trwać do $UNTIL|Y$.\nZłota Era przynosi następujące efekty:\n$EFFECTS$"
  GOLDEN_ERA_NOT_NUF: "Aby rozpocząć złotą erę, musisz mieć co najmniej $NUM|Y$ spełnionych celów.\nZłota era ma następujące efekty:\n$EFFECTS$"
- GOLDEN_ERA_ENACT: "Złota era trwa przez $YEARS|Y$ lat i przynosi następujące efekty:\n$ EFEKTY $\nNależy pamiętać, że kraj może wprowadzić Złotą Erę tylko raz."
+ GOLDEN_ERA_ENACT: "Złota era trwa przez $YEARS|Y$ lat i przynosi następujące efekty:\n$EFFECTS$\nNależy pamiętać, że kraj może wprowadzić Złotą Erę tylko raz."
  GOLDENAGETTITLE: "Rozpocznij złotą erę!"
  PRESTIGE_FROM_CONV: "Zwiększy to nasz prestiż o §G+$VAL$§!."
  KARMA_FROM_CONV: "Zwiększy to naszą Karmę o §G+$VAL$§!."
