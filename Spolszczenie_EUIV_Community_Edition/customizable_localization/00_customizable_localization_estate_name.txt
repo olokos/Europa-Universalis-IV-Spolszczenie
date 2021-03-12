@@ -1,0 +1,273 @@
+defined_text = {
+	name = GetBrahminsName_CL
+	random = no
+	text = {
+		localisation_key = estate_brahmins
+	}
+}
+
+defined_text = {
+	name = GetClergyName_CL
+	random = no
+	text = {
+		localisation_key = estate_monasteries
+		trigger = {
+			OR = {
+				religion = buddhism
+				religion = mahayana
+				religion = vajrayana
+			}
+		}		
+	}
+	text = {
+		localisation_key = estate_babaylanes
+		trigger = {
+			tag = MAS
+		}
+	}
+	text = {
+		localisation_key = estate_brahmins
+		trigger = {
+			religion = hinduism
+		}
+	}
+	text = {
+		localisation_key = estate_gentry
+		trigger = {
+			OR = {
+				has_reform = celestial_empire
+				culture_group = east_asian
+			}
+		}
+	}
+	text = {
+		localisation_key = estate_ulema
+		trigger = {
+			religion_group = muslim
+		}
+	}
+	text = {
+		localisation_key = estate_tlamacazqueh
+		trigger = {
+			religion = nahuatl
+		}
+	}
+	text = {
+		localisation_key = estate_yangban_scholars
+		trigger = {
+			tag = KOR
+			religion = confucianism
+		}
+	}		
+	text = {
+		localisation_key = estate_church
+	}
+}
+
+defined_text = {
+	name = GetMarathasName_CL
+	random = no
+	text = {
+		localisation_key = estate_maratha
+	}
+}
+
+defined_text = {
+	name = GetNobilityName_CL
+	random = no
+	text = {
+		localisation_key = estate_beys
+		trigger = {
+			technology_group = ottoman
+		}
+	}
+	text = {
+		localisation_key = estate_boyars
+		trigger = {
+			OR = {
+				culture_group = east_slavic
+				primary_culture = bulgarian
+				primary_culture = romanian
+			}
+		}
+	}
+	text = {
+		localisation_key = estate_szlachta
+		trigger = {
+			OR = {
+				primary_culture = polish
+				primary_culture = lithuanian
+			}
+		}
+	}
+	text = {
+		localisation_key = estate_timawa
+		trigger = {
+			tag = MAS
+		}
+	}
+	text = {
+		localisation_key = estate_nayaks
+		trigger = {
+			tag = VIJ
+		}
+	}
+	text = {
+		localisation_key = estate_samantas
+		trigger = {
+			tag = ORI
+		}
+	}
+	text = {
+		localisation_key = estate_kshatriyas
+		trigger = {
+			religion = hinduism
+		}
+	}
+	text = {
+		localisation_key = estate_qinwang
+		trigger = {
+			has_reform = celestial_empire
+		}
+	}
+	text = {
+		localisation_key = estate_mansabdars
+		trigger = {
+			tag = MUG
+		}
+	}
+	text = {
+		localisation_key = estate_tetecuhtin
+		trigger = {
+			religion = nahuatl
+		}
+	}
+	text = {
+		localisation_key = estate_andriana
+		trigger = {
+			tag = MIR
+		}
+	}
+	text = {
+		localisation_key = estate_amirs
+		trigger = {
+			religion_group = muslim
+			NOT = { technology_group = ottoman } #Should possibly be more restricted
+		}
+	}
+	text = {
+		localisation_key = estate_planters
+		trigger = {
+			tag = USA
+		}
+	}
+	text = {
+		localisation_key = estate_bushi
+		trigger = {
+			culture_group = japanese_g
+		}
+	}
+	text = {
+		localisation_key = estate_yangban_administrators
+		trigger = {
+			tag = KOR
+			religion = confucianism
+		}
+	}
+	text = {
+		localisation_key = estate_junkers
+		trigger = {
+			OR = {
+				has_reform = prussian_republic_reform
+				has_reform = prussian_monarchy
+				tag = GER
+			}
+		}
+	}	
+	text = {
+		localisation_key = estate_nobles
+	}
+}
+
+defined_text = {
+	name = GetBurghersName_CL
+	random = no
+	text = {
+		localisation_key = estate_bourgeoisie
+		trigger = {
+			culture_group = french
+		}
+	}
+	text = {
+		localisation_key = estate_shangbang
+		trigger = {
+			culture_group = east_asian
+		}
+	}
+	text = {
+		localisation_key = estate_neoconfucian_reformers
+		trigger = {
+			tag = KOR
+			religion = confucianism
+		}
+	}
+	text = {
+		localisation_key = estate_merchant_guilds
+		trigger = {
+			NOT = { religion_group = christian } #Diversify a bit more.
+		}
+	}	
+	text = {
+		localisation_key = estate_burghers
+	}
+}
+
+defined_text = {
+	name = GetVaishyasName_CL
+	random = no
+	text = {
+		localisation_key = estate_vaisyas
+	}
+}
+
+defined_text = {
+	name = GetCossacksName_CL
+	random = no
+	text = {
+		localisation_key = estate_cossacks
+	}
+}
+
+defined_text = {
+	name = GetTribesName_CL
+	random = no
+	text = {
+		localisation_key = estate_nomadic_tribes
+	}
+}
+
+defined_text = {
+	name = GetDhimmiName_CL
+	random = no
+	text = {
+		localisation_key = estate_dhimmi
+	}
+}
+
+defined_text = {
+	name = GetJainsName_CL
+	random = no
+	text = {
+		localisation_key = estate_jains
+	}
+}
+
+defined_text = {
+	name = GetRajputsName_CL
+	random = no
+	text = {
+		localisation_key = estate_rajput
+	}
+}
+
+

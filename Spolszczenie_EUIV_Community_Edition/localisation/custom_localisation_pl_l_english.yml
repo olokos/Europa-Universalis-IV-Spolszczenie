@@ -71,7 +71,7 @@
  string_adj_PIRATE_EMPIRE: "Imperium Piratów" #Imperium Piratów N
  string_adj_GRAND_PIRATE_CONFEDERACY: "Wielkiej Konfederacji Piratów" #Wielka Konfederacja Piratów Ż
  string_adj_SYNTH_GOV: "Sztucznej inteligencji" #Sztuczna Inteligencja Ż
- string_adj_KHAGANATE: "Kanagatu" #Kaganat M
+ string_adj_KHAGANATE: "Kaganatu" #Kaganat M
  string_adj_PARLIAMENT_OF_HEAVEN: "Parlamentu Niebios" #Parlament Niebios M
  string_adj_EMPIRE: "Cesarstwa" #Cesarstwo N
  string_adj_PAPACY: "Papiestwa" #Papiestwo N
@@ -116,7 +116,7 @@
  string_adj_KINGDOM: "Królestwa" #Królestwo N
  string_adj_ARCHBISHOPRIC: "Arcybiskupstwa" #Arcybiskupstwo N
  string_adj_GRAND_ELECTORAL_REPUBLIC: "Wielkiej Republiki Elekcyjnej" #Wielka Republika Elekcyjna Ż
- string_adj_SULTANATE: "Sultanatu" #Sultanate M
+ string_adj_SULTANATE: "Sułtanatu" #Sułtanat M
  string_adj_GREAT_SHARIFATE: "Szarifatu" #Szarifat M
  string_adj_EMIRATE: "Emiratu" #Emirat M
  string_adj_SHAHDOM: "Szachatu" #Szachat M
@@ -144,7 +144,7 @@
  string_adj_MISL: "Mislu" #Misl M
  string_adj_IMAMATE: "Imamatu" #Imamat M
  string_adj_GREAT_METROPOLIS: "Wielkiej Metropolii" #Wielka Metropolia Ż
- string_adj_TRIBAL_KINGDOM: "Monarchi Plemiennej" #Monarchia Plemienna Ż
+ string_adj_TRIBAL_KINGDOM: "Królestwa Plemienngo" #Królestwo Plemienne N
  string_adj_REPUBLIC: "Republiki" #Republika Ż
  string_adj_ADMIRALTY: "Admiralicji" #Admiralicja Ż
  string_adj_PIRATE_DAIMYO: "Pirackiego Daimyo" #Piracki Daimyo M
@@ -155,7 +155,7 @@
  string_adj_PASHALIK: "Ejaletu" #Ejalet M
  string_adj_BEYLIK: "Bejliku" #Bejlik M
  string_adj_MARCH: "Marchii" #Marchia Ż
- string_adj_COUNTY_PALATINE: "Ksi¹¿²cego Palatynatu" #Ksi¹¿²cy Palatynat M
+ string_adj_COUNTY_PALATINE: "Hrabstwa Palatynatu" #Hrabstwo Palatynatu N
  string_adj_HERCEGSEG: "Hercegsegu" #Hercegseg M
  string_adj_ELECTORATE_DUCHY: "Elektoratu" #Elektorat M
  string_adj_ELECTORATE_BISHOPRIC: "Biskupstwa Elektorskiego" #Biskupstwo Elektorskie N
@@ -173,7 +173,7 @@
  string_adj_SOGN: "Sognu" #Sogn M
  string_adj_PRINCIPALITY: "Ksi²stwa" #Ksi²stwo N
  string_adj_NAWABATE: "Nawabatu" #Nawabat M
- string_adj_EARLDOM: "Hrabstwa" #Hrabstwo N
+ string_adj_EARLDOM: "Earlostwa" #Earlostwo N
  string_adj_LORDSHIP: "Senioratu" #Seniorat M
  string_adj_CAH: "Cahu" #Cah M
  string_adj_ALTEPETL: "Altepetlu" #Altepetl M
@@ -191,7 +191,7 @@
  string_adj_METROPOLIS: "Meropolii" #Metropolia Ż
  string_adj_BISHOPRIC: "Biskupstwa" #Biskupstwo N
  string_adj_CHIEFDOM: "Wodzostwa" #Wodzostwo N
- string_adj_SAVANAROLA_GOVERNMENT: "Rz¹du Savanaroli" #Rz¹d Savanaroli M
+ string_adj_SAVANAROLA_GOVERNMENT: "Rz¹du Savonaroli" #Rz¹d Savonaroli M
 ## Odmiana czasowników dla nazw rz¹dów
  string_Z: "³a"#Republika
  string_M: "³"#Hetmanat

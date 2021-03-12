@@ -1,0 +1,594 @@
+defined_text = {
+	name = GetHeirGen
+	random = no
+	text={
+		localisation_key = string_HEIR
+		trigger = {
+			has_female_heir = no
+			government_rank = 3
+			has_reform = celestial_empire
+			has_reform = parliamentary_reform
+		}
+	}
+	text={
+		localisation_key = string_DAUPHIN
+		trigger = {
+			has_female_heir = no
+			government = monarchy
+			NOT = { has_reform = revolutionary_empire_reform }
+			OR = {
+				tag = FRA
+				tag = AUV
+			}
+		}
+	}
+	text={
+		localisation_key = string_SHAHZADE
+		trigger = {
+			has_female_heir = no
+			government_rank = 3
+			religion_group = muslim
+			primary_culture = bedouin_arabic
+			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_AMIR
+		trigger = {
+			has_female_heir = no
+			government = monarchy
+			primary_culture = somali
+		}
+	}
+	text={
+		localisation_key = string_HEIR
+		trigger = {
+			has_female_heir = no
+			tag = HUN
+			government = monarchy
+			has_heir = "Ladislaus Postumus"
+		}
+	}
+	text={
+		localisation_key = string_VALI_AHAD
+		trigger = {
+			has_female_heir = no
+			government = monarchy
+			primary_culture = turkish
+		}
+	}
+	text={
+		localisation_key = string_SHAHZADE
+		trigger = {
+			has_female_heir = no
+			government_rank = 3
+			government = monarchy
+			OR = {
+				tag = DEC
+				AND = {
+					OR = {
+						culture_group = dravidian
+						culture_group = western_aryan
+						culture_group = hindusthani
+						culture_group = eastern_aryan
+						has_reform = indian_sultanate_reform
+					}
+					religion_group = muslim
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_RAJKUMAR
+		trigger = {
+			has_female_heir = no
+			government = monarchy
+			OR = {
+				tag = BHA
+				AND = {
+					religion = hinduism
+					OR = {
+						primary_culture = rajput
+						primary_culture = marathi
+					}
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_RAJKUMAR
+		trigger = {
+			has_female_heir = no
+			OR = {
+				has_reform = administrative_monarchy
+				has_reform = clergy_in_administration_reform
+				has_reform = of_noble_bearing_reform
+				has_reform = meritocratic_focus_reform
+			}
+			religion = hinduism
+		}
+	}
+	text={
+		localisation_key = string_ABETO
+		trigger = {
+			has_female_heir = no
+			government = monarchy
+			religion_group = christian
+			OR = {
+				primary_culture = amhara
+				primary_culture = sidamo
+				primary_culture = tigray
+			}
+		}
+	}
+	text={
+		localisation_key = string_RAJKUMAR
+		trigger = {
+			has_female_heir = no
+			government = monarchy
+			religion = hinduism
+		}
+	}
+	text={
+		localisation_key = string_HEIR
+		trigger = {
+			has_female_heir = no
+			OR = {
+				government = theocracy
+				has_reform = monarchy_mechanic
+				government = tribal
+			}
+		}
+	}
+	text={
+		localisation_key = string_KHANZADEH
+		trigger = {
+			has_female_heir = no
+			government_rank = 2
+			tag = YUA
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_AMIRZADE
+		trigger = {
+			has_female_heir = no
+			government_rank = 2
+			religion_group = muslim
+			primary_culture = bedouin_arabic
+			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_SHAHZADE
+		trigger = {
+			has_female_heir = no
+			government_rank = 2
+			OR = {
+				AND = {
+					religion_group = muslim
+					government = tribal
+					NOT = { has_reform = steppe_horde }
+				}
+				AND = {
+					government = monarchy
+					OR = {
+						tag = SIS
+						culture_group = iranian
+					}
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_NIZAMZADA
+		trigger = {
+			has_female_heir = no
+			government_rank = 2
+			government = monarchy
+			tag = DEC
+		}
+	}
+	text={
+		localisation_key = string_MIRZA
+		trigger = {
+			has_female_heir = no
+			government_rank = 2
+			government = monarchy
+			OR = {
+				culture_group = dravidian
+				culture_group = western_aryan
+				culture_group = hindusthani
+				culture_group = eastern_aryan
+				has_reform = indian_sultanate_reform
+			}
+			religion_group = muslim
+		}
+	}
+	text={
+		localisation_key = string_SHAHZADE
+		trigger = {
+			has_female_heir = no
+			government_rank = 2
+			government = monarchy
+			NOT = { has_reform = steppe_horde }
+			religion_group = muslim
+		}
+	}
+	text={
+		localisation_key = string_KHANZADEH
+		trigger = {
+			has_female_heir = no
+			government_rank = 2
+			has_reform = steppe_horde
+		}
+	}
+	text={
+		localisation_key = string_HEIR
+		trigger = {
+			has_female_heir = no
+			tag = YUA
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_KHANZADEH
+		trigger = {
+			has_female_heir = no
+			tag = ILK
+			is_march = yes
+		}
+	}
+	text={
+		localisation_key = string_PASHAZADE
+		trigger = {
+			has_female_heir = no
+			is_march = yes
+			religion_group = muslim
+			overlord = { primary_culture = turkish }
+		}
+	}
+	text={
+		localisation_key = string_BEYSADE
+		trigger = {
+			has_female_heir = no
+			government = monarchy
+			religion_group = muslim
+			NOT = { is_march = yes }
+			overlord = { primary_culture = turkish }
+		}
+	}
+	text={
+		localisation_key = string_MALIK
+		trigger = {
+			has_female_heir = no
+			religion_group = muslim
+			government = tribal
+			OR = {
+				primary_culture = bedouin_arabic
+				NOT = { has_reform = steppe_horde }
+			}
+		}
+	}
+	text={
+		localisation_key = string_MIRZA
+		trigger = {
+			has_female_heir = no
+			government = monarchy
+			tag = SIS
+		}
+	}
+	text={
+		localisation_key = string_HEIR
+		trigger = {
+			has_female_heir = no
+			government = monarchy
+			culture_group = iranian
+		}
+	}
+	text={
+		localisation_key = string_NAWABZADA
+		trigger = {
+			has_female_heir = no
+			government = monarchy
+			OR = {
+				tag = DEC
+				AND = {
+					OR = {
+						culture_group = dravidian
+						culture_group = western_aryan
+						culture_group = hindusthani
+						culture_group = eastern_aryan
+						has_reform = indian_sultanate_reform
+					}
+					religion_group = muslim
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_HEIR
+		trigger = {
+			has_female_heir = no
+			OR = {
+				has_reform = steppe_horde
+				AND = {
+					government = monarchy
+					NOT = { has_reform = steppe_horde }
+					religion_group = muslim
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_KHANUM
+		trigger = {
+			tag = YUA
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_HEIR_fem
+		trigger = {
+			government_rank = 3
+			has_reform = celestial_empire
+			has_reform = parliamentary_reform
+		}
+	}
+	text={
+		localisation_key = string_DAUPHINE
+		trigger = {
+			government = monarchy
+			NOT = { has_reform = revolutionary_empire_reform }
+			OR = {
+				tag = FRA
+				tag = AUV
+			}
+		}
+	}
+	text={
+		localisation_key = string_SHAHZADE
+		trigger = {
+			government_rank = 3
+			religion_group = muslim
+			primary_culture = bedouin_arabic
+			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_AMIRAD
+		trigger = {
+			government = monarchy
+			primary_culture = somali
+		}
+	}
+	text={
+		localisation_key = string_HEIR_fem
+		trigger = {
+			tag = HUN
+			government = monarchy
+			has_heir = "Ladislaus Postumus"
+		}
+	}
+	text={
+		localisation_key = string_VALI_AHAD
+		trigger = {
+			government = monarchy
+			primary_culture = turkish
+		}
+	}
+	text={
+		localisation_key = string_PADISHAH_BEGUM
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			OR = {
+				tag = DEC
+				AND = {
+					OR = {
+						culture_group = dravidian
+						culture_group = western_aryan
+						culture_group = hindusthani
+						culture_group = eastern_aryan
+						has_reform = indian_sultanate_reform
+					}
+					religion_group = muslim
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_RAJKUMARI
+		trigger = {
+			government = monarchy
+			OR = {
+				tag = BHA
+				AND = {
+					religion = hinduism
+					OR = {
+						primary_culture = rajput
+						primary_culture = marathi
+					}
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_RAJKUMARI
+		trigger = {
+			OR = {
+				has_reform = administrative_monarchy
+				has_reform = clergy_in_administration_reform
+				has_reform = of_noble_bearing_reform
+				has_reform = meritocratic_focus_reform
+			}
+			primary_culture = marathi
+			religion = hinduism
+		}
+	}
+	text={
+		localisation_key = string_LE_ELT
+		trigger = {
+			government = monarchy
+			religion_group = christian
+			OR = {
+				primary_culture = amhara
+				primary_culture = sidamo
+				primary_culture = tigray
+			}
+		}
+	}
+	text={
+		localisation_key = string_RAJKUMARI
+		trigger = {
+			government = monarchy
+			religion = hinduism
+		}
+	}
+	text={
+		localisation_key = string_KHANUM
+		trigger = {
+			has_reform = steppe_horde
+		}
+	}
+	text={
+		localisation_key = string_HEIR_fem
+		trigger = {
+			OR = {
+				has_reform = monarchy_mechanic
+				government = theocracy
+				government = tribal
+			}
+		}
+	}
+	text={
+		localisation_key = string_AMIRZADE
+		trigger = {
+			government_rank = 2
+			religion_group = muslim
+			primary_culture = bedouin_arabic
+			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_SHAHZADE
+		trigger = {
+			government_rank = 2
+			religion_group = muslim
+			government = tribal
+			NOT = { has_reform = steppe_horde }
+		}
+	}
+	text={
+		localisation_key = string_SHAHDOKHT
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			OR = {
+				culture_group = iranian
+				tag = SIS
+			}
+		}
+	}
+	text={
+		localisation_key = string_NIZAM_BEGUM
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			OR = {
+				tag = DEC
+				AND = {
+					OR = {
+						culture_group = dravidian
+						culture_group = western_aryan
+						culture_group = hindusthani
+						culture_group = eastern_aryan
+						has_reform = indian_sultanate_reform
+					}
+					religion_group = muslim
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_SHAHZADE
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			NOT = { has_reform = steppe_horde }
+			religion_group = muslim
+		}
+	}
+	text={
+		localisation_key = string_KHANUM
+		trigger = {
+			tag = ILK
+			is_march = yes
+		}
+	}
+	text={
+		localisation_key = string_PASHAZADE
+		trigger = {
+			is_march = yes
+			religion_group = muslim
+			overlord = { primary_culture = turkish }
+		}
+	}
+	text={
+		localisation_key = string_BEYSADI
+		trigger = {
+			government = monarchy
+			religion_group = muslim
+			NOT = { is_march = yes }
+			overlord = { primary_culture = turkish }
+		}
+	}
+	text={
+		localisation_key = string_MALIKAH
+		trigger = {
+			religion_group = muslim
+			government = tribal
+			OR = {
+				primary_culture = bedouin_arabic
+				NOT = { has_reform = steppe_horde }
+			}
+		}
+	}
+	text={
+		localisation_key = string_SHEIKHA
+		trigger = {
+			government = monarchy
+			OR = {
+				culture_group = iranian
+				tag = SIS
+			}
+		}
+	}
+	text={
+		localisation_key = string_NAWAB_BEGUM
+		trigger = {
+			government = monarchy
+			OR = {
+				tag = DEC
+				AND = {
+					OR = {
+						culture_group = dravidian
+						culture_group = western_aryan
+						culture_group = hindusthani
+						culture_group = eastern_aryan
+						has_reform = indian_sultanate_reform
+					}
+					religion_group = muslim
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_HEIR_fem
+		trigger = {
+			government = monarchy
+			NOT = { has_reform = steppe_horde }
+			religion_group = muslim
+		}
+	}
+}
