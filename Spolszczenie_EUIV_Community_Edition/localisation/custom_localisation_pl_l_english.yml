@@ -58,55 +58,55 @@
  string_man_y: "y"
  ###### odmiana nazwy rz¹dów Kogo? Czego?
  string_adj_ISLAMIC_CALIPHATE: "Islamskiego Kalifatu" #Islamski Kalifat M
- string_adj_REVOLUTIONARY_PEASANT_REPUBLIC: "Ch³opskiej Junty" #Ch³opska Junta Ż
- string_adj_MOST_SERENE_REPUBLIC: "Najjaœniejszej Republiki" #Najjaœniejsza Republika Ż
+ string_adj_REVOLUTIONARY_PEASANT_REPUBLIC: "Ch³opskiej Junty" #Ch³opska Junta ¯
+ string_adj_MOST_SERENE_REPUBLIC: "Najjaœniejszej Republiki" #Najjaœniejsza Republika ¯
  string_adj_KAISERREICH: "Kaiserreichu" #Kaiserreich M
- string_adj_SUPREME_ADMIRALTY: "Najwy¿szej Admiralicji" #Najwy¿sza Admiralicja Ż 
- string_adj_REVOLUTIONARY_SPANISH_REPUBLIC: "Najwy¿szej Junty" #Najwy¿sza Junta Ż
+ string_adj_SUPREME_ADMIRALTY: "Najwy¿szej Admiralicji" #Najwy¿sza Admiralicja ¯ 
+ string_adj_REVOLUTIONARY_SPANISH_REPUBLIC: "Najwy¿szej Junty" #Najwy¿sza Junta ¯
  string_adj_REVOLUTIONARY_SWEDISH_REPUBLIC: "Säkerhetstingetu" #Säkerhetstinget M
  string_adj_REVOLUTIONARY_DANISH_REPUBLIC: "Sikkerhedtingetu" #Sikkerhedtinget M
- string_adj_STRATOCRACY: "Junty Wojskowej" #Junta Wojskowa Ż
- string_adj_COMMONWEALTH: "Rrzeczpospolitej" #Rzeczpospolita Ż
- string_adj_MILITARY_GOVERNMENT: "Republiki Militarnej" #Republika Militarna Ż
+ string_adj_STRATOCRACY: "Junty Wojskowej" #Junta Wojskowa ¯
+ string_adj_COMMONWEALTH: "Rrzeczpospolitej" #Rzeczpospolita ¯
+ string_adj_MILITARY_GOVERNMENT: "Republiki Militarnej" #Republika Militarna ¯
  string_adj_PIRATE_EMPIRE: "Imperium Piratów" #Imperium Piratów N
- string_adj_GRAND_PIRATE_CONFEDERACY: "Wielkiej Konfederacji Piratów" #Wielka Konfederacja Piratów Ż
- string_adj_SYNTH_GOV: "Sztucznej inteligencji" #Sztuczna Inteligencja Ż
+ string_adj_GRAND_PIRATE_CONFEDERACY: "Wielkiej Konfederacji Piratów" #Wielka Konfederacja Piratów ¯
+ string_adj_SYNTH_GOV: "Sztucznej inteligencji" #Sztuczna Inteligencja ¯
  string_adj_KHAGANATE: "Kaganatu" #Kaganat M
  string_adj_PARLIAMENT_OF_HEAVEN: "Parlamentu Niebios" #Parlament Niebios M
  string_adj_EMPIRE: "Cesarstwa" #Cesarstwo N
  string_adj_PAPACY: "Papiestwa" #Papiestwo N
  string_adj_PATRIARCHATE: "Patriarchatu" #Patriarchat M
- string_adj_GREAT_ELECTORAL_REPUBLIC: "Wielkiej Republiki Elekcyjnej" #Wielka Republika Elekcyjna Ż
+ string_adj_GREAT_ELECTORAL_REPUBLIC: "Wielkiej Republiki Elekcyjnej" #Wielka Republika Elekcyjna ¯
  string_adj_GRAND_SHARIFATE: "Szarifatu" #Szarifat M
  string_adj_GREAT_EMIRATE: "Wielkiego Emiratu" #Wielki Emirat M
  string_adj_GREAT_BARANGAY: "Wielkiego Barangayu" #Wielki Barangay M
  string_adj_BONDEVALDE: "Bondeväldu" #Bondevälde N
  string_adj_TSARDOM: "Carstwa" #Carstwo N
- string_adj_GREAT_LEAGUE: "Wielkiej Ligii" #Wielka Liga Ż
+ string_adj_GREAT_LEAGUE: "Wielkiej Ligii" #Wielka Liga ¯
  string_adj_GREAT_HETMANATE: "Wielkiego Hetmanatu" #Wielki Hetmanat M
- string_adj_GREAT_REPUBLIC: "Wielkiej Republiki" #Wielka Republika Ż
- string_adj_FEDERAL_REPUBLIC: "Republiki Federalnej" #Republika Federalna Ż
+ string_adj_GREAT_REPUBLIC: "Wielkiej Republiki" #Wielka Republika ¯
+ string_adj_FEDERAL_REPUBLIC: "Republiki Federalnej" #Republika Federalna ¯
  string_adj_GREAT_PRINCEDOM: "Wielkiego Ksi²stwa" #Wielkie Ksi²stwo N
  string_adj_TRIBE: "Plemienia" #Plemi² N
  string_adj_FEDERAL_EMPIRE: "Imperium Federalnego" #Imperium Federalne N
- string_adj_GOV_REVOLUTIONARY_REPUBLIC: "Republiki Rewolucyjnej" #Republika Rewolucyjna Ż
- string_adj_PRESIDENTIAL_DICTATORSHIP: "Dyktatury Prezydenckiej" #Dyktatura Prezydencka Ż
+ string_adj_GOV_REVOLUTIONARY_REPUBLIC: "Republiki Rewolucyjnej" #Republika Rewolucyjna ¯
+ string_adj_PRESIDENTIAL_DICTATORSHIP: "Dyktatury Prezydenckiej" #Dyktatura Prezydencka ¯
  string_adj_GREAT_INDEP_DAIMYO: "Wielkiego Daimyo" #Wielki Daimyo M
  string_adj_GREAT_CHIEFDOM: "Wielkiego Wodzostwa" #Wielkie Wodzostwo N
  string_adj_DIVINE_PROTECTORS: "Boskiego Protektoratu" #Boski Protektorat M
  string_adj_BLACK_LONG_KNIGHTS: "Wiecznych Rycerzy" #Wieczni Rycerze MM
- string_adj_BLACK_WATCH: "Stra¿y Hadriana" #Stra¿ Hadriana Ż
- string_adj_MONASTIC_EMPIRE: "Federacji Zakonnej" #Federacja Zakonna Ż
- string_adj_SOVREIGN_MONASTIC_CONFEDERATION: "Niepodleg³ej Konfederacji Zakonnej" #Niepodleg³a Konfederacja Zakonna Ż
+ string_adj_BLACK_WATCH: "Stra¿y Hadriana" #Stra¿ Hadriana ¯
+ string_adj_MONASTIC_EMPIRE: "Federacji Zakonnej" #Federacja Zakonna ¯
+ string_adj_SOVREIGN_MONASTIC_CONFEDERATION: "Niepodleg³ej Konfederacji Zakonnej" #Niepodleg³a Konfederacja Zakonna ¯
  string_adj_BREWING_EMPIRE: "Imperium Browarniczego" #Imperium Browarnicze N
  string_adj_HOLY_EMPIRE: "Imperium Teokratycznego" #Imperium Teokratyczne N
- string_adj_CONFEDERATION: "Konfederacji" #Konfederacja Ż
+ string_adj_CONFEDERATION: "Konfederacji" #Konfederacja ¯
  string_adj_HIGH_IMAMATE: "Wysokiego Imamatu" #Wysoki Imamat M
  string_adj_MONASTIC_STATE: "Paªstwa Zakonnego" #Paªstwo Zakonne N
  string_adj_TRIBAL_EMPIRE: "Imperium Plemiennego" #Imperium Plemienne N
- string_adj_SERENE_REPUBLIC: "Najjaœniejszej Republiki" #Najjaœniejsza Republika Ż
- string_adj_HIGH_ADMIRALTY: "Wysokiej Admiralicji" #Wysoka Admiralicja Ż
- string_adj_PIRATE_CONFEDERACY: "Konfederacji Piratów" #Konfederacja Piratów Ż
+ string_adj_SERENE_REPUBLIC: "Najjaœniejszej Republiki" #Najjaœniejsza Republika ¯
+ string_adj_HIGH_ADMIRALTY: "Wysokiej Admiralicji" #Wysoka Admiralicja ¯
+ string_adj_PIRATE_CONFEDERACY: "Konfederacji Piratów" #Konfederacja Piratów ¯
  string_adj_PIRATE_KINGDOM: "Królestwa Piratów" #Królestwo Piratów N
  string_adj_KHANATE: "Chanatu" #Chanat M
  string_adj_VICEROYALTY: "Wicekrólestwa" #Wicekrólestwo N
@@ -115,8 +115,8 @@
  string_adj_GRAND_HERCEGSEG: "Grandhercegsegu" #Grandhercegseg M
  string_adj_KINGDOM: "Królestwa" #Królestwo N
  string_adj_ARCHBISHOPRIC: "Arcybiskupstwa" #Arcybiskupstwo N
- string_adj_GRAND_ELECTORAL_REPUBLIC: "Wielkiej Republiki Elekcyjnej" #Wielka Republika Elekcyjna Ż
- string_adj_SULTANATE: "Sułtanatu" #Sułtanat M
+ string_adj_GRAND_ELECTORAL_REPUBLIC: "Wielkiej Republiki Elekcyjnej" #Wielka Republika Elekcyjna ¯
+ string_adj_SULTANATE: "Su³tanatu" #Su³tanat M
  string_adj_GREAT_SHARIFATE: "Szarifatu" #Szarifat M
  string_adj_EMIRATE: "Emiratu" #Emirat M
  string_adj_SHAHDOM: "Szachatu" #Szachat M
@@ -127,13 +127,13 @@
  string_adj_MONG: "Mongu" #Mong M
  string_adj_GRAND_PRINCIPALITY: "Wielkiego Ksi²stwa" #Wielkie Ksi²stwo N
  string_adj_KUCHKABAL: "Kuchkabalu" #Kuchkabal M
- string_adj_ALTEPETL_FEDERATION: "Federacji Altepetli" #Federacja Altepetli Ż
+ string_adj_ALTEPETL_FEDERATION: "Federacji Altepetli" #Federacja Altepetli ¯
  string_adj_GRAND_HETMANATE: "Wielkiego Hetmanatu" #Wielki Hetmanat M
- string_adj_GRAND_REPUBLIC: "Wielkiej Republiki" #Wielka Republika Ż
+ string_adj_GRAND_REPUBLIC: "Wielkiej Republiki" #Wielka Republika ¯
  string_adj_UNITED_PROVINCES: "Zjednoczonych Prowincji" #Zjednoczone Prowincje MN
  string_adj_GRAND_PRINCEDOM: "Wielkiego Ksi²stwa" #Wielkie Ksi²stwo N
  string_adj_FEDERAL_KINGDOM: "Królestwa Federalnego" #Królestwo Federalne N
- string_adj_DICTATORSHIP: "Dyktatury" #Dyktatura Ż
+ string_adj_DICTATORSHIP: "Dyktatury" #Dyktatura ¯
  string_adj_GRAND_INDEP_DAIMYO: "Wielkiego Daimyo" #Wielki Daimyo M
  string_adj_SHOGUNATE: "Szogunatu" #Szogunat M
  string_adj_GRAND_CHIEFDOM: "Wysokiego Wodzostwa" #Wysokie Wodzostwo N
@@ -143,23 +143,23 @@
  string_adj_HOLY_STATE: "" #Paªstwo Koœcielne N
  string_adj_MISL: "Mislu" #Misl M
  string_adj_IMAMATE: "Imamatu" #Imamat M
- string_adj_GREAT_METROPOLIS: "Wielkiej Metropolii" #Wielka Metropolia Ż
+ string_adj_GREAT_METROPOLIS: "Wielkiej Metropolii" #Wielka Metropolia ¯
  string_adj_TRIBAL_KINGDOM: "Królestwa Plemienngo" #Królestwo Plemienne N
- string_adj_REPUBLIC: "Republiki" #Republika Ż
- string_adj_ADMIRALTY: "Admiralicji" #Admiralicja Ż
+ string_adj_REPUBLIC: "Republiki" #Republika ¯
+ string_adj_ADMIRALTY: "Admiralicji" #Admiralicja ¯
  string_adj_PIRATE_DAIMYO: "Pirackiego Daimyo" #Piracki Daimyo M
- string_adj_PIRATE_REPUBLIC: "Republiki Piratów" #Republika Piratów Ż
+ string_adj_PIRATE_REPUBLIC: "Republiki Piratów" #Republika Piratów ¯
  string_adj_PIRATE_PRINCIPALITY: "Ksi²stwa Piratów" #Ksi²stwo Piratów N
- string_adj_HORDE: "Ordy" #Orda Ż
+ string_adj_HORDE: "Ordy" #Orda ¯
  string_adj_ILKHANATE: "Ilchanatu" #Ilchanat M
  string_adj_PASHALIK: "Ejaletu" #Ejalet M
  string_adj_BEYLIK: "Bejliku" #Bejlik M
- string_adj_MARCH: "Marchii" #Marchia Ż
+ string_adj_MARCH: "Marchii" #Marchia ¯
  string_adj_COUNTY_PALATINE: "Hrabstwa Palatynatu" #Hrabstwo Palatynatu N
  string_adj_HERCEGSEG: "Hercegsegu" #Hercegseg M
  string_adj_ELECTORATE_DUCHY: "Elektoratu" #Elektorat M
  string_adj_ELECTORATE_BISHOPRIC: "Biskupstwa Elektorskiego" #Biskupstwo Elektorskie N
- string_adj_ELECTORAL_REPUBLIC: "Republiki Elektorskiej" #Republika Elektorska Ż
+ string_adj_ELECTORAL_REPUBLIC: "Republiki Elektorskiej" #Republika Elektorska ¯
  string_adj_DAIMYO: "Daimyo" #Daimyo M
  string_adj_DUCHY: "Ksi²stwa" #Ksi²stwo N
  string_adj_SHARIFATE: "Szarifatu" #Szarifat M
@@ -178,7 +178,7 @@
  string_adj_CAH: "Cahu" #Cah M
  string_adj_ALTEPETL: "Altepetlu" #Altepetl M
  string_adj_FREE_CITY: "Wolnego Miasta" #Wolne Miasto N
- string_adj_COLONY: "Kolonii" #Kolonia Ż
+ string_adj_COLONY: "Kolonii" #Kolonia ¯
  string_adj_HETMANATE: "Hetmanatu" #Hetmanat M
  string_adj_DESPOTISM: "Despotyzmu" #Despotyzm M
  string_adj_INDEP_DAIMYO: "Niezale¿nego Daimyo" #Niezale¿ny Daimyo M
@@ -188,7 +188,7 @@
  string_adj_MONASTIC_ORDER: "Paªstwa Zakonnego" #Paªstwo Zakonne N
  string_adj_TRAPPIST_STATE: "Zakonu Trapistów" #Zakon Trapistów M
  string_adj_HOLY_PRINCIPALITY: "Ksi²stwa Koœcielnego" #Ksi²stwo Koœcielne N
- string_adj_METROPOLIS: "Meropolii" #Metropolia Ż
+ string_adj_METROPOLIS: "Meropolii" #Metropolia ¯
  string_adj_BISHOPRIC: "Biskupstwa" #Biskupstwo N
  string_adj_CHIEFDOM: "Wodzostwa" #Wodzostwo N
  string_adj_SAVANAROLA_GOVERNMENT: "Rz¹du Savonaroli" #Rz¹d Savonaroli M

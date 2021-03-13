@@ -4,6 +4,7 @@ defined_text = {
 	text={
 		localisation_key = string_YEKHE_KHAGAN
 		trigger = {
+			has_female_consort = no
 			government_rank = 3
 			tag = YUA
 			government = monarchy
