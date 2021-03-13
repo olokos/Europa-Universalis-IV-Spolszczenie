@@ -4422,7 +4422,7 @@
  OR_TRIGGER_STARTS: "Spełnione jedno z poniższych"
  ADVISOR_HAVE_LOWER_SKILL_THAN: "Doradca typu $ADVISORTYPE$ ma niższe umiejętności niż: "
  ADVISOR_HAVE_HIGHER_SKILL_THAN: "$ADVISORTYPE$ ma wyższe umiejętności niż: "
- NEIGHBOR_COUNTRY_STARTS: "Kraj sąsiadujący:"
+ NEIGHBOR_COUNTRY_STARTS: "Kraj sąsiadujący"
  TRIGGER_NUM: "Zakres Liczb"
  TRIGGER_ALLY: "Dowolny sprzymierzeniec"
  TRIGGER_OWNER: "Właściciel prowincji"
