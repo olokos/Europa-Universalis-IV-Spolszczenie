@@ -2487,7 +2487,7 @@
  flavor_brapru.29.b: "Doświadczony żołnierz? Chcemy, żeby dowodził naszymi żołnierzami."
  flavor_brapru.29.c: "Mamy dość filozofów w naszym królestwie."
  flavor_brapru.30.t: "Mieszczanie Królewca"
- flavor_brapru.30.d: "[Root.GovernmentName] wprowadziliśmy wiele reform, co może spowodować tarcia między różnymi klasami rządzącymi. Szczególnie niezadowoleni są obecnie mieszczanie Królewca, którzy stanowczo sprzeciwiają się idei zwoływania rady tylko wtedy, gdy [Root.Monarch.GetTitle] [Root.Monarch.GetName] ma czas. Mieszczanie, prowadzeni przez elokwentnego i dobrze wspieranego starostę o imieniu Hieronymusa Rotha, grożą, że jeśli nie zgodzimy się na ich warunki, poproszą o pomoc jednego z naszych sąsiadów. Podejrzewamy, że będzie to [some_neighbor_country.Monarch.GetTitle] [some_neighbor_country.Monarch.GetName] z państwa [some_neighbor_country.Country.GetName]."
+ flavor_brapru.30.d: "[Root.GovernmentName] wprowadziliśmy wiele reform, co może spowodować tarcia między różnymi klasami rządzącymi. Szczególnie niezadowoleni są obecnie mieszczanie Królewca, którzy stanowczo sprzeciwiają się idei zwoływania rady tylko wtedy, gdy [Root.Monarch.GetTitle] [Root.Monarch.GetName] ma czas. Mieszczanie, prowadzeni przez elokwentnego i silnie wspieranego starostę o imieniu Hieronymusa Rotha, grożą, że jeśli nie zgodzimy się na ich warunki, poproszą o pomoc jednego z naszych sąsiadów. Podejrzewamy, że będzie to [some_neighbor_country.Monarch.GetTitle] [some_neighbor_country.Monarch.GetName] z państwa [some_neighbor_country.Country.GetName]."
  flavor_brapru.30.a: "Niech nasze wojsko się tym zajmie."
  flavor_brapru.30.b: "Będziemy musieli pójść na ustępstwa."
  flavor_brapru.31.t: "Bez opieki"
