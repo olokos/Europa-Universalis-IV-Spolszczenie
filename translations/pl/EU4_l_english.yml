@@ -337,7 +337,7 @@
  execute_rebel_acceptance_command_abs_impact: "Przyjmij Żądania Rebeliantów: $VAL$\n"
  seat_in_parliament_abs_impact: "Przydziel Siedzibę Parlamentowi: $VAL$ na $SCALE$ rozwoju.\n"
  war_exhaustion_abs_impact: "Zmniejsz Wyczerpanie Wojną: $VAL$\n"
- strengthen_government_abs_impact: "Wzmocnij Rząd: $VAL$\n"
+ strengthen_government_abs_impact: "Wzmocnij rząd: $VAL$\n"
  MERC_BASE: "Najemnik:"
  FROM_ADM_EFF: "Sprawność administracyjna: $VAL|%=+1$"
  ABSOLUTISM_NOT_YET_TOOLTIP: "§YAbsolutyzm§!\nAbsolutyzm określa jak bezwzględny i skuteczny jest rząd. Jest to koncepcja pojawiająca się w erze absolutyzmu. Im jest wyższy, tym większe korzyści czerpiemy ze sprawności administracyjnej i dyscypliny."
