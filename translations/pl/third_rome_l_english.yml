@@ -229,7 +229,7 @@
  custom_fire_damage_received: "Stoicyzm"
  custom_fire_damage_received_desc: "Stanie w ogniu pocisków wroga jest przykrą sprawą, ale jesteśmy stoickim ludem i potrafimy zachować spokój w najtrudniejszych sytuacjach."
  custom_shock_damage_received: ""
- custom_shock_damage_received_desc: ""
+ custom_shock_damage_received_desc: "Kiedy wróg szarżuje, pierwszym odruchem jest ucieczka. Z silnym duchem koleżeństwa wpojonym w naszą armię, możemy zapewnić, że nie załamie się w ogniu bitwy."
  custom_cavalry_flanking: ""
  custom_cavalry_flanking_desc: ""
  custom_shock_damage: ""

@@ -2,14 +2,10 @@
 Spolszczenie do najnowszej wersji Europa Universalis 1.30.4.0
 Działa bezproblemowo z każdą wersją gry 1.30
 
-[h2]Stan w  wersji 2.9.1 [16.02.2021]:[/h2]
- * 19,813 sprawdzonych wpisów
- * 73,788 przetłumaczonych wpisów
- * 18,001 nieprzetłumaczonych wpisów
-
-  strings Reviewed
-  strings Translated
- 18,001 strings Untranslated
+[h2]Stan w  wersji 2.9.2 [16.03.2021]:[/h2]
+ * 19,818 sprawdzonych wpisów
+ * 74,746 przetłumaczonych wpisów
+ * 17,044 nieprzetłumaczonych wpisów
 
 Jest to obecnie najpełniejsze spolszczenie, stworzone przez społeczność gry.
 Pracę projektu obejmuą 105 plików z czego do przetłumaczenia pozostało 23.
@@ -78,6 +74,8 @@ Serdecznie zapraszamy do pomocy w tłumaczeniu!
 - Po aktualizacji dodatku Emperor rozszerzyliśmy bazę plików do przetłumaczenia z 97 na 105
 - STAN GRY NA DZIEŃ 16.11.2020!!!
 - Regularne aktualizacje tłumaczeń
+- Kolejna porcja tłumaczeń i poprawki błędów / składni
+- Przetłumaczono kolejne 1000 stringów gry
 
 [b][i] W razie jakichkolwiek problemów/zastrzeżeń/propozycji zachęcamy do kontaktu poprzez serwer discord [url=https://discord.gg/bTW7G7zJGX]Dostępny Tutaj[/url][/i][/b]
 
