@@ -102,7 +102,7 @@
  TRADE_PULL:0 "§Y$PART$§W% si³y handlowej przenosi §Y$VAL$§W¤ dalej."
  TRADE_POWER_TAKE_PART:0 "Paªstwo §Y$COUNTRY$§W posiada §Y$PART$%§W si³y handlowej wszystkich paªstw czerpi¹cych zyski z handlu."
  TRADER_ALLREADY_THERE:0 "W ka¿dym w²Ÿle dozwolony jest tylko jeden kupiec."
- TRADER_IN_RANGE:0 "Musi znajdowa¾ si² w zasi²gu (obecny zasi²g: §Y$CURR$§W, maks. zasi²g: §Y$MAX$§W)."
+ TRADER_IN_RANGE:0 "Musi znajdowa¾ si² w zasi²gu (obecna odleg³oœ¾: §Y$CURR$§W, maks. zasi²g: §Y$MAX$§W)."
  TRADER_FREE_ENVOY:0 "Musi posiada¾ dost²pnego kupca."
  TRADE_CANCEL:0 "Odwo³aj kupca"
  TRADE_CANCEL_TIME:0 "Kupiec wróci do stolicy za §Y$DATE$§W dni."

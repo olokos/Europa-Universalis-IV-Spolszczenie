@@ -2487,7 +2487,7 @@
  flavor_brapru.29.b:0 "Doœwiadczony ¿o³nierz? Chcemy, ¿eby dowodzi³ naszymi ¿o³nierzami."
  flavor_brapru.29.c:0 "Mamy doœ¾ filozofów w naszym królestwie."
  flavor_brapru.30.t:0 "Mieszczanie Królewca"
- flavor_brapru.30.d:0 "[Root.GovernmentName] wprowadziliœmy wiele reform, co mo¿e spowodowa¾ tarcia mi²dzy ró¿nymi klasami rz¹dz¹cymi. Szczególnie niezadowoleni s¹ obecnie mieszczanie Królewca, którzy stanowczo sprzeciwiaj¹ si² idei zwo³ywania rady tylko wtedy, gdy [Root.Monarch.GetTitle] [Root.Monarch.GetName] ma czas. Mieszczanie, prowadzeni przez elokwentnego i dobrze wspieranego starost² o imieniu Hieronymusa Rotha, gro¿¹, ¿e jeœli nie zgodzimy si² na ich warunki, poprosz¹ o pomoc jednego z naszych s¹siadów. Podejrzewamy, ¿e b²dzie to [some_neighbor_country.Monarch.GetTitle] [some_neighbor_country.Monarch.GetName] z paªstwa [some_neighbor_country.Country.GetName]."
+ flavor_brapru.30.d:0 "[Root.GovernmentName] wprowadziliœmy wiele reform, co mo¿e spowodowa¾ tarcia mi²dzy ró¿nymi klasami rz¹dz¹cymi. Szczególnie niezadowoleni s¹ obecnie mieszczanie Królewca, którzy stanowczo sprzeciwiaj¹ si² idei zwo³ywania rady tylko wtedy, gdy [Root.Monarch.GetTitle] [Root.Monarch.GetName] ma czas. Mieszczanie, prowadzeni przez elokwentnego i silnie wspieranego starost² o imieniu Hieronymusa Rotha, gro¿¹, ¿e jeœli nie zgodzimy si² na ich warunki, poprosz¹ o pomoc jednego z naszych s¹siadów. Podejrzewamy, ¿e b²dzie to [some_neighbor_country.Monarch.GetTitle] [some_neighbor_country.Monarch.GetName] z paªstwa [some_neighbor_country.Country.GetName]."
  flavor_brapru.30.a:0 "Niech nasze wojsko si² tym zajmie."
  flavor_brapru.30.b:0 "B²dziemy musieli pójœ¾ na ust²pstwa."
  flavor_brapru.31.t:0 "Bez opieki"
