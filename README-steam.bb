@@ -8,7 +8,7 @@ Działa bezproblemowo z każdą wersją gry 1.30
  * 17,044 nieprzetłumaczonych wpisów
 
 Jest to obecnie najpełniejsze spolszczenie, stworzone przez społeczność gry.
-Pracę projektu obejmuą 105 plików z czego do przetłumaczenia pozostało 22.
+Prace projektu obejmują 105 plików z czego do przetłumaczenia pozostało 22.
 
 Aktualnie nasze spolszczenie posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie spolszczeń. [b](81,17% całej gry)[/b]
 

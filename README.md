@@ -10,7 +10,7 @@ Stan w  wersji 2.9.2 [16.03.2021]:
  * 17,044 nieprzetłumaczonych wpisów
 
 Jest to obecnie najpełniejsze spolszczenie, stworzone przez społeczność gry.
-Pracę projektu obejmuą 105 plików z czego do przetłumaczenia pozostało 22.
+Prace projektu obejmują 105 plików z czego do przetłumaczenia pozostało 22.
 
 Aktualnie nasze spolszczenie posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie spolszczeń. **(81,17% całej gry)**
 
