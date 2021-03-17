@@ -10,29 +10,29 @@ Stan w  wersji 2.9.2 [16.03.2021]:
  * 17,044 nieprzetłumaczonych wpisów
 
 Jest to obecnie najpełniejsze spolszczenie, stworzone przez społeczność gry.
-Pracę projektu obejmuą 105 plików z czego do przetłumaczenia pozostało 23.
+Pracę projektu obejmuą 105 plików z czego do przetłumaczenia pozostało 22.
 
-Aktualnie nasze spolszczenie posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie spolszczeń. **(80% całej gry)**
+Aktualnie nasze spolszczenie posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie spolszczeń. **(81,17% całej gry)**
 
 Największe dodatki do EU4:
-(stan na 16.11.2020)
+(stan na 14.03.2021)
 
 |         Dodatek        | Ukończono | Liczba słów |
 |:----------------------:|:---------:|:-----------:|
-| Emperor missions       | 47.45%    | 33,240      |
-| Emperor content        | 19.46%    | 60,274      |
-| Art of War             | 53.65%    | 29,795      |
+| Emperor missions       | 47.66%    | 33,192      |
+| Emperor content        | 22.32%    | 60,087      |
+| Art of War             | 54.07%    | 29,679      |
 | El Dorado              | 100%      |      0      |
-| Common Sense           | 29.06%    | 24,344      |
-| The Cossacks           | 35%       | 18,826      |
-| Rights of Man          | 25.95%    | 33,282      |
-| Mandate of Heaven      | 19.59%    | 14,313      |
-| Cradle of Civilization | 23,2%     | 12,947      |
+| Common Sense           | 29.95%    | 24,152      |
+| The Cossacks           | 38.92%    | 17,730      |
+| Rights of Man          | 27.68%    | 32,953      |
+| Mandate of Heaven      | 20.68%    | 14,240      |
+| Cradle of Civilization | 32.37%    | 12,015      |
 | Mare Nostrum           | 100%      |      0      |
-| Third Rome             | 16.75%    |  6,740      |
+| Third Rome             | 17.01%    |  6,708      |
 | Dharma                 | 100%      |      0      |
 | Rule Britannia         | 100%      |      0      |
-| Golden Century         | 51.22%    |  6,087      |
+| Golden Century         | 56.12%    |  5,719      |
 
  * procenty pokazują postęp tłumaczenia dodatku
  * w nawiasie ilość słów do zakończenia tłumaczenia dodatku
@@ -111,3 +111,4 @@ UWAGA! Gdyby w launcherze pojawiała się informacja, że modyfikacja jest do ni
 - Mazurczyk - tłumacz
 - Izabella - pomoc
 - blizzer92 - tłumacz
+- newMDK - tłumacz
