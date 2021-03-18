@@ -7767,7 +7767,7 @@
  FERVOR: "Zapał"
  FERVOR_VALUE: "Zapał: $VAL|Y0$"
  MONTHLY_CHANGE: "Miesięczna zmiana: $VAL|=+0$"
- fervor_trade: "Skupienie Zapału na handlu"
+ fervor_trade: "Skupienie zapału na handlu"
  fervor_trade_short: "Handel"
  fervor_war: "Skupienie Zapału na wojnie."
  fervor_war_short: "Wojna"
