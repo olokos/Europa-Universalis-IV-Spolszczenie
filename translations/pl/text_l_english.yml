@@ -8068,7 +8068,7 @@
  CANT_PROMOTE_ADVISOR_WRONG_CULTURE: "Nie możesz promować tego doradcy.\nJego kultura nie należy do tej samej grupy co kultura podstawowa w twoim kraju oraz nie należy do kultur promowanych."
  PROMOTE_ADVISOR: "Promuj tego Doradcę.\nTo będzie cię kosztowało §Y$PROMOTE_COST$§W¤ i na stałe podniesie Umiejętności tego Doradcy o §G1§W."
  CONFIRM_PROMOTE_ADVISOR: "Na pewno chcesz, aby Doradca $NAME$ był promowany kosztem §Y$PROMOTE_COST$§W¤? To na stałe podniesie jego umiejętności o §G1§W."
- CONFIRM_PROMOTE_ADVISOR_TITLE: "Promuj Doradcę"
+ CONFIRM_PROMOTE_ADVISOR_TITLE: "Promuj doradcę"
  DATE_IS_BEFORE: "Jest przed "
  DATE_IS_AFTER: "Jest co najmniej "
  ANY_CONTROLLED_PROVINCE_STARTS: "Dowolna kontrolowana prowincja"
