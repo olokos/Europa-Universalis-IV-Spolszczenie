@@ -8062,7 +8062,7 @@
  MACRO_DIPLOMACY_THREATS_RULE_NO_VALID: "Brak dostępnych Zagrożeń!"
  MACRO_DIPLOMACY_THREATS_RULE_DESC: "Twoi dyplomaci wezmą na cel państwa, których się boimy."
  MACRO_DIPLOMACY_TARGET_NO_FREE_DIPLOMATS: "Brak wolnych dyplomatów!"
- LEADER_NAME: "Imię Lidera"
+ LEADER_NAME: "Imię lidera"
  CANT_PROMOTE_ADVISOR_MAX_SKILL: "Nie możemy nadal promować tego doradcy."
  CANT_PROMOTE_ADVISOR_NO_FUNDS: "Nie możesz sobie pozwolić na promocję tego doradcy. To by cię kosztowało §Y$PROMOTE_COST$§W¤."
  CANT_PROMOTE_ADVISOR_WRONG_CULTURE: "Nie możesz promować tego doradcy.\nJego kultura nie należy do tej samej grupy co kultura podstawowa w twoim kraju oraz nie należy do kultur promowanych."
