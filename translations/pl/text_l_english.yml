@@ -7771,7 +7771,7 @@
  fervor_trade_short: "Handel"
  fervor_war: "Skupienie Zapału na wojnie."
  fervor_war_short: "Wojna"
- fervor_stability: "Skupienie Zapału na stabilności"
+ fervor_stability: "Skupienie zapału na stabilności"
  fervor_stability_short: "Stabilność"
  fervor_base: "Baza"
  FERVOR_EFFECT: "$NAME|Y$ będzie kosztować cię $COST|R$ punktów Zapału w momencie włączenia oraz tę samą liczbę punktów każdego miesiąca. Jego aktywacja przyniesie następujący efekt:"
