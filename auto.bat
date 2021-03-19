@@ -10,6 +10,8 @@ echo "Removing temp directory - might say does not exist. That is normal, just a
 rd /s /q temp
 echo "Starting compiling latest source strings directory for EU4 format into the temp supply directory"
 java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_supply" "translations\\%language%" "translations\\en" "temp\\supply" yaml
+echo "Copy polish localisation file"
+xcopy /s CL_files temp\\supply
 echo "Starting compiling latest translations to desired language - in this case - polish."
 java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_to_eu4" "temp\\supply" "temp\\eu4" "%charset%"
 cd "%project_folder%"
