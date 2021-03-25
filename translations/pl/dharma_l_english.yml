@@ -74,7 +74,7 @@
  INVESTIGATE_CORRUPTION: "Śledztwo w sprawie korupcji"
  GRANT_MAGISTRATE: "Mianuj sędziego"
  EST_VAL_GRANTED_MAGISTRATE: "Mianuj sędziego: §Y$VAL$%§!"
- EST_VAL_JAINS_JAIN_TEMPLES: "Zbudowane Świątynie dźinistyczne: §Y$VAL$%§!"
+ EST_VAL_JAINS_JAIN_TEMPLES: "Zbudowane Świątynie dźinijskie: §Y$VAL$%§!"
  jain_tax_burden_autonomy_tooltip: "Wszystkie prowincje kontrolowane przez  §Ydźinistów§! zyskuje §R15%§! lokalnej autonomii."
  BUILD_JAIN_TEMPLE: "Zbuduj świątynię dżinijską"
  jain_temples_built: "Świątynia dżinijska"
