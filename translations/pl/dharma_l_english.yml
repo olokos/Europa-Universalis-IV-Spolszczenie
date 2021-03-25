@@ -178,7 +178,7 @@
  vaisyas_estate_events.2.d: "Wiele problemów społecznych i ekonomicznych w [Root.Country.GetName] doprowadziło do wybuchu bandytyzmu na drogach w całym królestwie. Bandytyzm stał się tak powszechny, że do niektórych miast nie dodarła żadna karawana handlowa od kilku miesięcy.\n\nMiejscowa ludność postrzega kilku przywódców bandytów jako bohaterów ludowych, dzielnie przeciwstawiających się rządowi pasożytniczego stanu [Root.Country.GetName], zakładającym nowe miasta graniczne i rekrutującym miejscową siłę roboczą. Wciągając w swoje szeregi Hindusów i muzułmanów, zbieraczy kokosów i kowali, bandyci zdobyli szerokie poparcie.\n\nBezpośrednia konfrontacja wojskowa z bandytami rozwiązałaby natychmiastowy problem, gdybyśmy mogli wygonić ich z prowizorycznych fortów. Jednak problem może przybrać na sile, gdy nie zajmiemy się czynnikami społecznymi i ekonomicznymi, które sprawiają, że bandyci są tak potężni i popularni."
  vaisyas_estate_events.2.a: "Zabić ich wszystkich!"
  vaisyas_estate_events.2.b: "Zajmij się społecznymi przyczynami bandytyzmu."
- vaisyas_estate_events.3.t: "Wajśjnizm rozwija się w państwie [Root.Country.GetName]"
+ vaisyas_estate_events.3.t: "Wajśjowie prosperują w państwie [Root.Country.GetName]"
  vaisyas_estate_events.3.d: "Kasta wajśjów zajmuje uprzywilejowaną i faworyzowaną pozycję w [Root.Country.GetName]. Jako podstawa naszej gospodarki, wiedza wajśjów we wszystkich sprawach handlowych i pracowniczych jest wielkim dobrodziejstwem dla naszego narodu. Dzięki naszemu patronatowi i rosnącej fortunie wajśjów rozwinął się lokalny przemysł w [thriving_vaisyas_province.GetName]."
  vaisyas_estate_events.3.a: "Doskonale."
  vaisyas_estate_events.4.t: "Rozwój produkcji tekstylnej"
