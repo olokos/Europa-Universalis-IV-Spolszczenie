@@ -171,7 +171,7 @@
  EST_VAL_BRAHMIN_ORTHODOXY: "Bramiński fanatyzm: §Y$VAL$%§!"
  EST_VAL_NONBRAHMIN_MOVEMENTS: "Niebramińskie ruchy religijne: §Y$VAL$%§!"
  EST_VAL_BRAHMIN_FORT: "Bramiński fort: §Y$VAL$%§!"
- vaisyas_estate_events.1.t: "Wajśjki bunt w [Root.GetName]"
+ vaisyas_estate_events.1.t: "Bunt wajśjów w [Root.GetName]"
  vaisyas_estate_events.1.d: "Przerażeni utratą swoich przywilejów wajśjowie z prowincji [Root.GetName] podnieśli broń przeciwko nam!"
  vaisyas_estate_events.1.a: "Rozumiem."
  vaisyas_estate_events.2.t: "Społeczni bandyci"
