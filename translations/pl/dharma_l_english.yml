@@ -148,7 +148,7 @@
  brahmins_estate_events.8.b: "Zamiast niego wyznacz szlachcica."
  brahmins_estate_events.8.c: "Wyznacz obiecującego handlarza z kasty wajśja."
  EST_VAL_BRAHMIN_PESHWA: "Bramiński peśwa: §Y$VAL$%§!"
- EST_VAL_VAISYA_PESHWA: "Wajśki peśwa: §Y$VAL$%§!"
+ EST_VAL_VAISYA_PESHWA: "Peśwa z wajśjów: §Y$VAL$%§!"
  EST_VAL_NOBLE_PESHWA: "Szlachecki peśwa: §Y$VAL$%§!"
  brahmins_estate_events.9.t: "Ruchy religijne inne niż bramini"
  brahmins_estate_events.9.d: "Bramini tradycyjnie mieli monopol na hinduską władzę religijną, ale czasami pojawiały się ruchy religijne, które rzucały wyzwanie braminizmowi. Takie ruchy stają się popularne w całym [Root.Country.GetName] pomimo starań braminów o to by je stłumić. Zwolennicy religii popularnej twierdzą, że bramini usunęli święte znaki z czoła i uchylili się od swoich duchowych obowiązków, aby zająć miejsca doczesnej władzy i wymierzyć niesprawiedliwość biednym. Oświadczają, że bezinteresowne oddanie jest jedyną drogą do zbawienia, cnotą, którą może osiągnąć każdy wystarczająco żarliwy Hindus.\n\nGrupa wpływowych braminów zwróciła się do [Root.Monarch.GetTitle] z prośbą o [Root.Monarch.GetHerHis] pomoc w przywróceniu zaufania publicznego do władzy bramińskiej i tłumieniu ruchów nie-bramińskich religii."
