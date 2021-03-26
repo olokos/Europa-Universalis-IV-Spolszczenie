@@ -783,7 +783,7 @@
  MACRO_IS_ONE_PER_COUNTRY: "Możliwy tylko jeden na kraj."
  BUILD_BUILDING_COST_TOO_HIGH: "Nie stać nas na poniesienie niezbędnego kosztu w wysokości $COST|Y$¤."
  DEVELOPMENT_COST: "Koszt rozwoju"
- LOCAL_DEVELOPMENT_COST: "Miejscowy koszt rozwoju"
+ LOCAL_DEVELOPMENT_COST: "Lokalny koszt rozwoju"
  MODIFIER_ALLOWED_NUM_OF_BUILDINGS: "Możliwa liczba budynków"
  BUILDING_NOT_IN_GOLD_PROVINCE: "W prowincji produkującej towary takie jak $GOODS$ nie można zbudować budynku $NAME$."
  TOO_MANY_BUILDINGS: "W tej prowincji nie można zbudować więcej budynków."
