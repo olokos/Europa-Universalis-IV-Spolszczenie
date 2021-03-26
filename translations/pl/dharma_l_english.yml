@@ -80,7 +80,7 @@
  jain_temples_built: "Świątynia dżinijska"
  desc_jain_temples_built: "Nasz patronat nad świątyniami dżinistów w tej prowincji zachęca lokalną społeczność do pomocy w naszych wysiłkach na rzecz rozwoju prowincji."
  tooltip_own_jain_province: "Co najmniej jedna posiadana prowincja należy do klasy społecznej §Ydźinistów§!"
- jain_temples_tooltip: "Losowej prowincji kontrolowanej przez §Ydźinistów§! zostanie zmieniony koszt lokalnego rozwoju o §G-10%§! na §Y10§! lat.\nZdobądź §G1§! podatku podstawowego w prowincji kontrolowanej przez dźinistów."
+ jain_temples_tooltip: "Losowej prowincji kontrolowanej przez §Ydźinistów§! zostanie zmieniony lokalny koszt rozwoju o §G-10%§! na §Y10§! lat.\nZdobądź §G1§! podatku podstawowego w prowincji kontrolowanej przez dźinistów."
  jain_temples_tooltip_2: "Losowej prowincji kontrolowanej przez §Ydźinistów§! zostanie zmieniony wielkość lokalnego podatku o §G+1§! na §Y10§! lat.\nZdobądź §G1§! podatku podstawowego w prowincji kontrolowanej przez dźinistów."
  SEEK_SUPPORT_OF_BRAHMINS: "Szukanie aprobaty braminów"
  EXEMPT_FROM_JIZYA: "Zwolnienie z dżizji"
