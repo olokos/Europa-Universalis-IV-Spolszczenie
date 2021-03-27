@@ -4606,7 +4606,7 @@
  NAT_FOCUS_CHANGE_DESC: "Kliknij, by zmienić swój priorytet państwowy na §Y$POWER$§!, zyskując §G+$VAL$§! takie punkty każdego miesiąca. Pozostałe dwa zasoby będą zmniejszane o §R$OTHERVAL$§! każdego miesiąca."
  NAT_FOCUS_UNSET_DESC: "Kliknij, aby usunąć priorytet państwowy z §Y$POWER$§!."
  NAT_FOCUS_COOLDOWN: "§RMożesz zmienić swój priorytet państwowy tylko po upływie §Y$YEARS$§! lat; najbliższa data zmiany to §Y$DATE$§!.§!"
- MONARCH_NATIONAL_FOCUS: "Cel narodowy: $VAL$\n"
+ MONARCH_NATIONAL_FOCUS: "Priorytet państwowy: $VAL$\n"
  NO_WAR_WITH_SUBJECT_OF_SUBJECTS: "Oni są podległymi jednego z naszych poddanych, więc nie możemy wypowiadać im wojny bezpośrednio."
  ATTACKER_SIEGE_ABILITY: "Umiejętności oblężnicze $WHO$: $VAL$"
  DEFENDER_DEFENSIVENESS: "Obronność państwa $WHO$: $VAL$"
