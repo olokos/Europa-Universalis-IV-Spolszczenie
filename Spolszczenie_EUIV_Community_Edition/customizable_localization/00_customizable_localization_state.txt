@@ -1,0 +1,44 @@
+defined_text = {
+	name = GetStateForm_ins
+
+	text = {
+		localisation_key = string_crown_ins
+		trigger = {
+			government = monarchy
+			NOT = { tag = TUR }
+		}
+	}
+	text = {
+		localisation_key = string_sublime_porte_ins
+		trigger = {
+			government = monarchy
+			tag = TUR
+		}
+	}
+	text = {
+		localisation_key = string_council_ins
+		trigger = {
+			government = republic
+		}
+	}
+	text = {
+		localisation_key = string_govtname
+	}
+}
+
+defined_text = {
+	name = GetLegitimacyOrMeritocracy_PL
+	random = no
+	
+	text = {
+		localisation_key = string_meritocracy_acc
+		trigger = {
+			has_reform = celestial_empire
+			has_dlc = "Mandate of Heaven"
+		}
+	}
+	
+	text = {
+		localisation_key = string_legitimacy_acc
+	}
+}

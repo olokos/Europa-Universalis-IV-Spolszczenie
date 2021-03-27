@@ -25,8 +25,8 @@
  string_protestantism_peopleCap: "Protestanci"
  string_anglicanism_peopleCap: "Anglikanie"
  string_catholicism_peopleCap: "Katolicy"
- string_zoroastrianism_people: "Zaratusztrianie"
  ##########
+ string_zoroastrianism_people: "zaratusztrianie"
  string_judaism_people: "¿ydzi"
  string_tengrianism_people: "tengryœci"
  string_norse_people: "nordycy"
@@ -52,6 +52,32 @@
  string_protestantism_people: "protestanci"
  string_anglicanism_people: "anglikanie"
  string_catholicism_people: "katolicy"
+ ##dopełniacz dla religii
+ string_judaism_gen: "Judaizmu" #Judaizm
+ string_tengrianism_gen: "Tengryzmu" #Tengryzm
+ string_norse_gen: "Nordycyzmu" #Nordycyzm
+ string_mayan_gen: "Majów" #Majów
+ string_nahuatl_gen: "Nahuatlu" #Nahuatl
+ string_inti_gen: "Inti" #Inti
+ string_totemism_gen: "Totemizmu" #Totemizm
+ string_fetishism_gen: "Fetyszyzmu" #Fetyszyzm
+ string_animism_gen: "Animizmu" #Animizm
+ string_sikhism_gen: "Sikhizmu" #Sikhizm
+ string_hinduism_gen: "Hinduizmu" #Hinduizm
+ string_shintoism_gen: "Szintoizmu" #Szintoizm
+ string_confucianism_gen: "Konfucjanizmu" #Konfucjanizm
+ string_mahayana_gen: "Mahajany" #Mahajana
+ string_vajrayana_gen: "Wadźrajany" #Wadźrajana
+ string_theravada_gen: "Therawady" #Therawada
+ string_ibadism_gen: "Ibadytyzmu" #Ibadytyzm
+ string_shia_gen: "Szyizmu" #Szyizm
+ string_sunni_gen: "Sunnizmu" #Sunnizm
+ string_coptic_gen: "Koptyzmu" #Koptyzm
+ string_orthodox_gen: "Prawosławia" #Prawosławie
+ string_reformed_gen: "Kalwinizmu" #Kalwinizm
+ string_protestantism_gen: "Protestantyzmu" #Protestantyzm
+ string_anglicanism_gen: "Anglikanizmu" #Anglikanizm
+ string_catholicism_gen: "Katolicyzmu" #Katolicyzm
  ###### koªcówki odmiany dla p³ci
  string_female_a: "a"
  string_man_empty: ""
@@ -200,43 +226,43 @@
  string_MM: "li"#Wieczni Rycerze
 ##Klasy społeczne
 #mała
- estate_brahmins: "bramini" #Bramini
- monasteries: "zakony" #Zakony
- babaylanes: "babaylanowie" #Babaylanowie
- string_gen_estate_gentry: "shizu" #Shizu
- string_gen_estate_ulema: "ulemowie" #Ulemowie
- string_gen_estate_tlamacazqueh: "tlamacazqueh" #Tlamacazqueh
- string_gen_estate_yangban_scholars: "jangbańscy uczeni" #Jangbańscy uczeni
- string_gen_estate_church: "duchowieństwo" #Duchowieństwo
- string_gen_estate_maratha: "marathowie" #Marathowie
- string_gen_estate_beys: "ümera" #Ümera
- string_gen_estate_boyars: "bojarzy" #Bojarzy
- string_gen_estate_szlachta: "szlachta" #Szlachta
- string_gen_estate_timawa: "timawa" #Timawa
- string_gen_estate_nayaks: "nayakowie" #Nayakowie
- string_gen_estate_samantas: "samantowie" #Samantowie
- string_gen_estate_kshatriyas: "kszatrijowie" #Kszatrijowie
- string_gen_estate_qinwang: "qinwang" #Qinwang
- string_gen_estate_mansabdars: "mansabdarowie" #Mansabdarowie
- string_gen_estate_tetecuhtin: "tetecuhtin" #Tetecuhtin
- string_gen_estate_andriana: "andriana" #Andriana
- string_gen_estate_amirs: "emirowie" #Emirowie
- string_gen_estate_planters: "plantatorzy" #Plantatorzy
- string_gen_estate_bushi: "bushi" #Bushi
- string_gen_estate_yangban_administrators: "jangbańscy administratorzy" #Jangbańscy administratorzy
- string_gen_estate_junkers: "junkrzy" #Junkrzy
- string_gen_estate_nobles: "arystokracja" #Arystokracja
- string_gen_estate_bourgeoisie: "burżuazja" #Burżuazja
- string_gen_estate_shangbang: "shangbang" #Shangbang
- string_gen_estate_neoconfucian_reformers: "neokonfucjańscy reformatorzy" #Neokonfucjańscy reformatorzy
- string_gen_estate_merchant_guilds: "gildie kupieckie" #Gildie kupieckie
- string_gen_estate_burghers: "mieszczaństwo" #Mieszczaństwo
- string_gen_estate_vaisyas: "wajśjowie" #Wajśjowie
- string_gen_estate_cossacks: "kozacy" #Kozacy
- string_gen_estate_nomadic_tribes: "plemiona" #Plemiona
- string_gen_estate_dhimmi: "zimmi" #Zimmi
- string_gen_estate_jains: "dźiniści" #Dźiniści
- string_gen_estate_rajput: "radźputowie" #Radźputowie
+ string_estate_brahmins: "bramini" #Bramini
+ string_monasteries: "zakony" #Zakony
+ string_babaylanes: "babaylanowie" #Babaylanowie
+ string_estate_gentry: "shizu" #Shizu
+ string_estate_ulema: "ulemowie" #Ulemowie
+ string_estate_tlamacazqueh: "tlamacazqueh" #Tlamacazqueh
+ string_estate_yangban_scholars: "jangbańscy uczeni" #Jangbańscy uczeni
+ string_estate_church: "duchowieństwo" #Duchowieństwo
+ string_estate_maratha: "marathowie" #Marathowie
+ string_estate_beys: "ümera" #Ümera
+ string_estate_boyars: "bojarzy" #Bojarzy
+ string_estate_szlachta: "szlachta" #Szlachta
+ string_estate_timawa: "timawa" #Timawa
+ string_estate_nayaks: "nayakowie" #Nayakowie
+ string_estate_samantas: "samantowie" #Samantowie
+ string_estate_kshatriyas: "kszatrijowie" #Kszatrijowie
+ string_estate_qinwang: "qinwang" #Qinwang
+ string_estate_mansabdars: "mansabdarowie" #Mansabdarowie
+ string_estate_tetecuhtin: "tetecuhtin" #Tetecuhtin
+ string_estate_andriana: "andriana" #Andriana
+ string_estate_amirs: "emirowie" #Emirowie
+ string_estate_planters: "plantatorzy" #Plantatorzy
+ string_estate_bushi: "bushi" #Bushi
+ string_estate_yangban_administrators: "jangbańscy administratorzy" #Jangbańscy administratorzy
+ string_estate_junkers: "junkrzy" #Junkrzy
+ string_estate_nobles: "arystokracja" #Arystokracja
+ string_estate_bourgeoisie: "burżuazja" #Burżuazja
+ string_estate_shangbang: "shangbang" #Shangbang
+ string_estate_neoconfucian_reformers: "neokonfucjańscy reformatorzy" #Neokonfucjańscy reformatorzy
+ string_estate_merchant_guilds: "gildie kupieckie" #Gildie kupieckie
+ string_estate_burghers: "mieszczaństwo" #Mieszczaństwo
+ string_estate_vaisyas: "wajśjowie" #Wajśjowie
+ string_estate_cossacks: "kozacy" #Kozacy
+ string_estate_nomadic_tribes: "plemiona" #Plemiona
+ string_estate_dhimmi: "zimmi" #Zimmi
+ string_estate_jains: "dźiniści" #Dźiniści
+ string_estate_rajput: "radźputowie" #Radźputowie
 ## Dopełniacz klas społecznych
 ##mała
  string_gen_estate_brahmins: "braminów" #Bramini
@@ -277,43 +303,43 @@
  string_gen_estate_jains: "dźinistów" #Dźiniści
  string_gen_estate_rajput: "radźputów" #Radźputowie
 ## duża
- string_gen_estate_brahmins: "Braminów" #Bramini
- string_gen_estate_monasteries: "Zakonów" #Zakony
- string_gen_estate_babaylanes: "Babaylanów" #Babaylanowie
- string_gen_estate_gentry: "Dhizu" #Shizu
- string_gen_estate_ulema: "Ulemów" #Ulemowie
- string_gen_estate_tlamacazqueh: "Tlamacazqueh" #Tlamacazqueh
- string_gen_estate_yangban_scholars: "Jangbańskich uczonych" #Jangbańscy uczeni
- string_gen_estate_church: "Duchowieństwa" #Duchowieństwo
- string_gen_estate_maratha: "Marathów" #Marathowie
- string_gen_estate_beys: "Ümery" #Ümera
- string_gen_estate_boyars: "Bojarów" #Bojarzy
- string_gen_estate_szlachta: "Szlachty" #Szlachta
- string_gen_estate_timawa: "Timawy" #Timawa
- string_gen_estate_nayaks: "Nayaków" #Nayakowie
- string_gen_estate_samantas: "Samantanów" #Samantowie
- string_gen_estate_kshatriyas: "Kszatrijów" #Kszatrijowie
- string_gen_estate_qinwang: "Qinwangu" #Qinwang
- string_gen_estate_mansabdars: "Mansabdarów" #Mansabdarowie
- string_gen_estate_tetecuhtin: "Tetecuhtin" #Tetecuhtin
- string_gen_estate_andriana: "Andriany" #Andriana
- string_gen_estate_amirs: "Emirów" #Emirowie
- string_gen_estate_planters: "Plantatorów" #Plantatorzy
- string_gen_estate_bushi: "Bushi" #Bushi
- string_gen_estate_yangban_administrators: "Jangbańskich administratorów" #Jangbańscy administratorzy
- string_gen_estate_junkers: "Junkrów" #Junkrzy
- string_gen_estate_nobles: "Arystokracji" #Arystokracja
- string_gen_estate_bourgeoisie: "Burżuazji" #Burżuazja
- string_gen_estate_shangbang: "Shangbangu" #Shangbang
- string_gen_estate_neoconfucian_reformers: "Neokonfucjańskich reformatorów" #Neokonfucjańscy reformatorzy
- string_gen_estate_merchant_guilds: "Gildii kupieckich" #Gildie kupieckie
- string_gen_estate_burghers: "Mieszczaństwa" #Mieszczaństwo
- string_gen_estate_vaisyas: "Wajśjów" #Wajśjowie
- string_gen_estate_cossacks: "Kozaków" #Kozacy
- string_gen_estate_nomadic_tribes: "Plemion" #Plemiona
- string_gen_estate_dhimmi: "Zimmów" #Zimmi
- string_gen_estate_jains: "Dźinistów" #Dźiniści
- string_gen_estate_rajput: "Radźputów" #Radźputowie
+ string_gen_estate_brahmins_Cap: "Braminów" #Bramini
+ string_gen_estate_monasteries_Cap: "Zakonów" #Zakony
+ string_gen_estate_babaylanes_Cap: "Babaylanów" #Babaylanowie
+ string_gen_estate_gentry_Cap: "Shizu" #Shizu
+ string_gen_estate_ulema_Cap: "Ulemów" #Ulemowie
+ string_gen_estate_tlamacazqueh_Cap: "Tlamacazqueh" #Tlamacazqueh
+ string_gen_estate_yangban_scholars_Cap: "Jangbańskich uczonych" #Jangbańscy uczeni
+ string_gen_estate_church_Cap: "Duchowieństwa" #Duchowieństwo
+ string_gen_estate_maratha_Cap: "Marathów" #Marathowie
+ string_gen_estate_beys_Cap: "Ümery" #Ümera
+ string_gen_estate_boyars_Cap: "Bojarów" #Bojarzy
+ string_gen_estate_szlachta_Cap: "Szlachty" #Szlachta
+ string_gen_estate_timawa_Cap: "Timawy" #Timawa
+ string_gen_estate_nayaks_Cap: "Nayaków" #Nayakowie
+ string_gen_estate_samantas_Cap: "Samantanów" #Samantowie
+ string_gen_estate_kshatriyas_Cap: "Kszatrijów" #Kszatrijowie
+ string_gen_estate_qinwang_Cap: "Qinwangu" #Qinwang
+ string_gen_estate_mansabdars_Cap: "Mansabdarów" #Mansabdarowie
+ string_gen_estate_tetecuhtin_Cap: "Tetecuhtin" #Tetecuhtin
+ string_gen_estate_andriana_Cap: "Andriany" #Andriana
+ string_gen_estate_amirs_Cap: "Emirów" #Emirowie
+ string_gen_estate_planters_Cap: "Plantatorów" #Plantatorzy
+ string_gen_estate_bushi_Cap: "Bushi" #Bushi
+ string_gen_estate_yangban_administrators_Cap: "Jangbańskich administratorów" #Jangbańscy administratorzy
+ string_gen_estate_junkers_Cap: "Junkrów" #Junkrzy
+ string_gen_estate_nobles_Cap: "Arystokracji" #Arystokracja
+ string_gen_estate_bourgeoisie_Cap: "Burżuazji" #Burżuazja
+ string_gen_estate_shangbang_Cap: "Shangbangu" #Shangbang
+ string_gen_estate_neoconfucian_reformers_Cap: "Neokonfucjańskich reformatorów" #Neokonfucjańscy reformatorzy
+ string_gen_estate_merchant_guilds_Cap: "Gildii kupieckich" #Gildie kupieckie
+ string_gen_estate_burghers_Cap: "Mieszczaństwa" #Mieszczaństwo
+ string_gen_estate_vaisyas_Cap: "Wajśjów" #Wajśjowie
+ string_gen_estate_cossacks_Cap: "Kozaków" #Kozacy
+ string_gen_estate_nomadic_tribes_Cap: "Plemion" #Plemiona
+ string_gen_estate_dhimmi_Cap: "Zimmów" #Zimmi
+ string_gen_estate_jains_Cap: "Dźinistów" #Dźiniści
+ string_gen_estate_rajput_Cap: "Radźputów" #Radźputowie
 ## Celownik klas społecznych komu czemu szlachcie
 #mała
  string_dat_estate_brahmins: "braminom" #Bramini
@@ -354,43 +380,43 @@
  string_dat_estate_jains: "dźinistom" #Dźiniści
  string_dat_estate_rajput: "radźputom" #Radźputowie
 #duża
- string_dat_estate_brahmins: "Braminom" #Bramini
- string_dat_estate_monasteries: "Zakonom" #Zakony
- string_dat_estate_babaylanes: "Babaylanom" #Babaylanowie
- string_dat_estate_gentry: "Shizu" #Shizu
- string_dat_estate_ulema: "Ulemom" #Ulemowie
- string_dat_estate_tlamacazqueh: "Tlamacazqueh" #Tlamacazqueh
- string_dat_estate_yangban_scholars: "Jangbańskim uczonym" #Jangbańscy uczeni
- string_dat_estate_church: "Duchowieństwu" #Duchowieństwo
- string_dat_estate_maratha: "Marathom" #Marathowie
- string_dat_estate_beys: "Ümerze" #Ümera
- string_dat_estate_boyars: "Bojarom" #Bojarzy
- string_dat_estate_szlachta: "Szlachcie" #Szlachta
- string_dat_estate_timawa: "Timawie" #Timawa
- string_dat_estate_nayaks: "Nayakom" #Nayakowie
- string_dat_estate_samantas: "Samantom" #Samantowie
- string_dat_estate_kshatriyas: "Kszatrijom" #Kszatrijowie
- string_dat_estate_qinwang: "Qinwangowi" #Qinwang
- string_dat_estate_mansabdars: "Mansabdarom" #Mansabdarowie
- string_dat_estate_tetecuhtin: "Tetecuhtin" #Tetecuhtin
- string_dat_estate_andriana: "Andrianie" #Andriana
- string_dat_estate_amirs: "Emirom" #Emirowie
- string_dat_estate_planters: "Plantatorom" #Plantatorzy
- string_dat_estate_bushi: "Bushi" #Bushi
- string_dat_estate_yangban_administrators: "Jangbańskim administratorom" #Jangbańscy administratorzy
- string_dat_estate_junkers: "Junkrom" #Junkrzy
- string_dat_estate_nobles: "Arystokracji" #Arystokracja
- string_dat_estate_bourgeoisie: "Burżuazji" #Burżuazja
- string_dat_estate_shangbang: "Shangbangowi" #Shangbang
- string_dat_estate_neoconfucian_reformers: "Neokonfucjańskim reformatorom" #Neokonfucjańscy reformatorzy
- string_dat_estate_merchant_guilds: "Gildiom kupieckim" #Gildie kupieckie
- string_dat_estate_burghers: "Mieszczaństwu" #Mieszczaństwo
- string_dat_estate_vaisyas: "Wajśjom" #Wajśjowie
- string_dat_estate_cossacks: "Kozakom" #Kozacy
- string_dat_estate_nomadic_tribes: "Plemionom" #Plemiona
- string_dat_estate_dhimmi: "Zimmom" #Zimmi
- string_dat_estate_jains: "Dźinistom" #Dźiniści
- string_dat_estate_rajput: "Radźputom" #Radźputowie
+ string_dat_estate_brahmins_Cap: "Braminom" #Bramini
+ string_dat_estate_monasteries_Cap: "Zakonom" #Zakony
+ string_dat_estate_babaylanes_Cap: "Babaylanom" #Babaylanowie
+ string_dat_estate_gentry_Cap: "Shizu" #Shizu
+ string_dat_estate_ulema_Cap: "Ulemom" #Ulemowie
+ string_dat_estate_tlamacazqueh_Cap: "Tlamacazqueh" #Tlamacazqueh
+ string_dat_estate_yangban_scholars_Cap: "Jangbańskim uczonym" #Jangbańscy uczeni
+ string_dat_estate_church_Cap: "Duchowieństwu" #Duchowieństwo
+ string_dat_estate_maratha_Cap: "Marathom" #Marathowie
+ string_dat_estate_beys_Cap: "Ümerze" #Ümera
+ string_dat_estate_boyars_Cap: "Bojarom" #Bojarzy
+ string_dat_estate_szlachta_Cap: "Szlachcie" #Szlachta
+ string_dat_estate_timawa_Cap: "Timawie" #Timawa
+ string_dat_estate_nayaks_Cap: "Nayakom" #Nayakowie
+ string_dat_estate_samantas_Cap: "Samantom" #Samantowie
+ string_dat_estate_kshatriyas_Cap: "Kszatrijom" #Kszatrijowie
+ string_dat_estate_qinwang_Cap: "Qinwangowi" #Qinwang
+ string_dat_estate_mansabdars_Cap: "Mansabdarom" #Mansabdarowie
+ string_dat_estate_tetecuhtin_Cap: "Tetecuhtin" #Tetecuhtin
+ string_dat_estate_andriana_Cap: "Andrianie" #Andriana
+ string_dat_estate_amirs_Cap: "Emirom" #Emirowie
+ string_dat_estate_planters_Cap: "Plantatorom" #Plantatorzy
+ string_dat_estate_bushi_Cap: "Bushi" #Bushi
+ string_dat_estate_yangban_administrators_Cap: "Jangbańskim administratorom" #Jangbańscy administratorzy
+ string_dat_estate_junkers_Cap: "Junkrom" #Junkrzy
+ string_dat_estate_nobles_Cap: "Arystokracji" #Arystokracja
+ string_dat_estate_bourgeoisie_Cap: "Burżuazji" #Burżuazja
+ string_dat_estate_shangbang_Cap: "Shangbangowi" #Shangbang
+ string_dat_estate_neoconfucian_reformers_Cap: "Neokonfucjańskim reformatorom" #Neokonfucjańscy reformatorzy
+ string_dat_estate_merchant_guilds_Cap: "Gildiom kupieckim" #Gildie kupieckie
+ string_dat_estate_burghers_Cap: "Mieszczaństwu" #Mieszczaństwo
+ string_dat_estate_vaisyas_Cap: "Wajśjom" #Wajśjowie
+ string_dat_estate_cossacks_Cap: "Kozakom" #Kozacy
+ string_dat_estate_nomadic_tribes_Cap: "Plemionom" #Plemiona
+ string_dat_estate_dhimmi_Cap: "Zimmom" #Zimmi
+ string_dat_estate_jains_Cap: "Dźinistom" #Dźiniści
+ string_dat_estate_rajput_Cap: "Radźputom" #Radźputowie
  #Narzędnik klas społecznych kim czym szlachtą
  #mała
  string_ins_estate_brahmins: "braminami" #Bramini
@@ -431,41 +457,47 @@
  string_ins_estate_jains: "dźinistami" #Dźiniści
  string_ins_estate_rajput: "radźputami" #Radźputowie
  #duża
- string_ins_estate_brahmins: "Braminami" #Bramini
- string_ins_estate_monasteries: "Zakonami" #Zakony
- string_ins_estate_babaylanes: "Babaylanami" #Babaylanowie
- string_ins_estate_gentry: "Shizu" #Shizu
- string_ins_estate_ulema: "Ulemami" #Ulemowie
- string_ins_estate_tlamacazqueh: "Tlamacazqueh" #Tlamacazqueh
- string_ins_estate_yangban_scholars: "Jangbańskimi uczonymi" #Jangbańscy uczeni
- string_ins_estate_church: "Duchowieństwem" #Duchowieństwo
- string_ins_estate_maratha: "Marathami" #Marathowie
- string_ins_estate_beys: "Ümerą" #Ümera
- string_ins_estate_boyars: "Bojarami" #Bojarzy
- string_ins_estate_szlachta: "Szlachtą" #Szlachta
- string_ins_estate_timawa: "Timawą" #Timawa
- string_ins_estate_nayaks: "Nayakami" #Nayakowie
- string_ins_estate_samantas: "Samantanami" #Samantowie
- string_ins_estate_kshatriyas: "Kszatrijami" #Kszatrijowie
- string_ins_estate_qinwang: "Qinwangiem" #Qinwang
- string_ins_estate_mansabdars: "Mansabdarami" #Mansabdarowie
- string_ins_estate_tetecuhtin: "Tetecuhtin" #Tetecuhtin
- string_ins_estate_andriana: "Andrianą" #Andriana
- string_ins_estate_amirs: "Emirami" #Emirowie
- string_ins_estate_planters: "Plantatorami" #Plantatorzy
- string_ins_estate_bushi: "Bushi" #Bushi
- string_ins_estate_yangban_administrators: "Jangbańskimi administratorami" #Jangbańscy administratorzy
- string_ins_estate_junkers: "Junkrami" #Junkrzy
- string_ins_estate_nobles: "Arystokracją" #Arystokracja
- string_ins_estate_bourgeoisie: "Burżuazją" #Burżuazja
- string_ins_estate_shangbang: "Shangbangiem" #Shangbang
- string_ins_estate_neoconfucian_reformers: "Neokonfucjańskimi reformatorami" #Neokonfucjańscy reformatorzy
- string_ins_estate_merchant_guilds: "Gildiami kupieckimi" #Gildie kupieckie
- string_ins_estate_burghers: "Mieszczaństwem" #Mieszczaństwo
- string_ins_estate_vaisyas: "Wajśjami" #Wajśjowie
- string_ins_estate_cossacks: "Kozakami" #Kozacy
- string_ins_estate_nomadic_tribes: "Plemionami" #Plemiona
- string_ins_estate_dhimmi: "Zimmami" #Zimmi
- string_ins_estate_jains: "Dźinistami" #Dźiniści
- string_ins_estate_rajput: "Radźputami" #Radźputowie
- 
+ string_ins_estate_brahmins_Cap: "Braminami" #Bramini
+ string_ins_estate_monasteries_Cap: "Zakonami" #Zakony
+ string_ins_estate_babaylanes_Cap: "Babaylanami" #Babaylanowie
+ string_ins_estate_gentry_Cap: "Shizu" #Shizu
+ string_ins_estate_ulema_Cap: "Ulemami" #Ulemowie
+ string_ins_estate_tlamacazqueh_Cap: "Tlamacazqueh" #Tlamacazqueh
+ string_ins_estate_yangban_scholars_Cap: "Jangbańskimi uczonymi" #Jangbańscy uczeni
+ string_ins_estate_church_Cap: "Duchowieństwem" #Duchowieństwo
+ string_ins_estate_maratha_Cap: "Marathami" #Marathowie
+ string_ins_estate_beys_Cap: "Ümerą" #Ümera
+ string_ins_estate_boyars_Cap: "Bojarami" #Bojarzy
+ string_ins_estate_szlachta_Cap: "Szlachtą" #Szlachta
+ string_ins_estate_timawa_Cap: "Timawą" #Timawa
+ string_ins_estate_nayaks_Cap: "Nayakami" #Nayakowie
+ string_ins_estate_samantas_Cap: "Samantanami" #Samantowie
+ string_ins_estate_kshatriyas_Cap: "Kszatrijami" #Kszatrijowie
+ string_ins_estate_qinwang_Cap: "Qinwangiem" #Qinwang
+ string_ins_estate_mansabdars_Cap: "Mansabdarami" #Mansabdarowie
+ string_ins_estate_tetecuhtin_Cap: "Tetecuhtin" #Tetecuhtin
+ string_ins_estate_andriana_Cap: "Andrianą" #Andriana
+ string_ins_estate_amirs_Cap: "Emirami" #Emirowie
+ string_ins_estate_planters_Cap: "Plantatorami" #Plantatorzy
+ string_ins_estate_bushi_Cap: "Bushi" #Bushi
+ string_ins_estate_yangban_administrators_Cap: "Jangbańskimi administratorami" #Jangbańscy administratorzy
+ string_ins_estate_junkers_Cap: "Junkrami" #Junkrzy
+ string_ins_estate_nobles_Cap: "Arystokracją" #Arystokracja
+ string_ins_estate_bourgeoisie_Cap: "Burżuazją" #Burżuazja
+ string_ins_estate_shangbang_Cap: "Shangbangiem" #Shangbang
+ string_ins_estate_neoconfucian_reformers_Cap: "Neokonfucjańskimi reformatorami" #Neokonfucjańscy reformatorzy
+ string_ins_estate_merchant_guilds_Cap: "Gildiami kupieckimi" #Gildie kupieckie
+ string_ins_estate_burghers_Cap: "Mieszczaństwem" #Mieszczaństwo
+ string_ins_estate_vaisyas_Cap: "Wajśjami" #Wajśjowie
+ string_ins_estate_cossacks_Cap: "Kozakami" #Kozacy
+ string_ins_estate_nomadic_tribes_Cap: "Plemionami" #Plemiona
+ string_ins_estate_dhimmi_Cap: "Zimmami" #Zimmi
+ string_ins_estate_jains_Cap: "Dźinistami" #Dźiniści
+ string_ins_estate_rajput_Cap: "Radźputami" #Radźputowie
+ ##Narzędnik dla klucza GetStateForm
+ string_crown_ins: "Koroną" #Korona
+ string_sublime_porte_ins: "Wysoką Portą" #Wysoka Porta
+ string_council_ins: "Radą" #Rada
+ ##Biernik dla klucza GetLegitimacyOrMeritocracy
+ string_meritocracy_acc: "merytokrację" #Merytokracja
+ string_legitimacy_acc: "legitymizację" #Legitymizacja
