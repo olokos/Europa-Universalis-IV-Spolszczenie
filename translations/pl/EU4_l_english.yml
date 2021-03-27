@@ -4600,7 +4600,7 @@
  STUDY_TECHNOLOGY_POWER: "Badanie technologii: §G+$VAL$§!\n"
  MONARCH_POWER_PROJ: "Prognozowana potęga wynosi co najmniej §Y50§!: §G+$VAL$§!\n"
  power_projection_25: "Prognozowana potęga wynosi co najmniej §Y25§!"
- NAT_FOCUS_DESC: "Twój cel narodowy jest ustawiony na §Y$POWER$§!, dodając §G+$VAL$§! do tej siły każdego miesiąca."
+ NAT_FOCUS_DESC: "Twój priorytet państwowy jest ustawiony na §Y$POWER$§!, dodając §G+$VAL$§! do tej siły każdego miesiąca."
  NAT_FOCUS_NOT_SET_DESC: "Obecnie nie masz ustawionego celu narodowego."
  NAT_FOCUS_NOT_DESC: "Twój cel narodowy ustawiony jest na inną siłę, przez co §Y$POWER$§! są co miesiąc redukowane o §R$VAL$§!."
  NAT_FOCUS_CHANGE_DESC: "Kliknij, by zmienić swój cel narodowy na §Y$POWER$§!, zyskując §G+$VAL$§! takie punkty każdego miesiąca. Pozostałe dwa zasoby będą zmniejszane o §R$OTHERVAL$§! każdego miesiąca."
