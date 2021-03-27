@@ -4604,7 +4604,7 @@
  NAT_FOCUS_NOT_SET_DESC: "Obecnie nie masz ustawionego priorytetu państwowego."
  NAT_FOCUS_NOT_DESC: "Twój priorytet państwowy ustawiony jest na inną siłę, przez co §Y$POWER$§! są co miesiąc redukowane o §R$VAL$§!."
  NAT_FOCUS_CHANGE_DESC: "Kliknij, by zmienić swój priorytet państwowy na §Y$POWER$§!, zyskując §G+$VAL$§! takie punkty każdego miesiąca. Pozostałe dwa zasoby będą zmniejszane o §R$OTHERVAL$§! każdego miesiąca."
- NAT_FOCUS_UNSET_DESC: "Kliknij, aby usunąć cel narodowy z §Y$POWER$§!."
+ NAT_FOCUS_UNSET_DESC: "Kliknij, aby usunąć priorytet państwowy z §Y$POWER$§!."
  NAT_FOCUS_COOLDOWN: "§RMożesz zmienić swój cel narodowy tylko po upływie §Y$YEARS$§! lat; najbliższa data zmiany to §Y$DATE$§!.§!"
  MONARCH_NATIONAL_FOCUS: "Cel narodowy: $VAL$\n"
  NO_WAR_WITH_SUBJECT_OF_SUBJECTS: "Oni są podległymi jednego z naszych poddanych, więc nie możemy wypowiadać im wojny bezpośrednio."
