@@ -8058,7 +8058,7 @@
  MACRO_DIPLOMACY_ALLIES_RULE: "Sojusznicy"
  MACRO_DIPLOMACY_ALLIES_RULE_NO_VALID: "Brak dostępnych sojuszników!"
  MACRO_DIPLOMACY_ALLIES_RULE_DESC: "Twoi dyplomaci będę poprawiać relacje z twoimi sojusznikami."
- MACRO_DIPLOMACY_THREATS_RULE: "Państwa, których się boimy"
+ MACRO_DIPLOMACY_THREATS_RULE: "Państwa wzbudzające lęk"
  MACRO_DIPLOMACY_THREATS_RULE_NO_VALID: "Brak dostępnych zagrożeń!"
  MACRO_DIPLOMACY_THREATS_RULE_DESC: "Twoi dyplomaci wezmą na cel państwa, których się boimy."
  MACRO_DIPLOMACY_TARGET_NO_FREE_DIPLOMATS: "Brak wolnych dyplomatów!"
