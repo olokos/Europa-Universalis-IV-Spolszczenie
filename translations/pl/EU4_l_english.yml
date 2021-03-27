@@ -162,7 +162,7 @@
  UNCONDITIONAL_UNSPORTING: "Bezwarunkowa Kapitulacja przed upływem $VAL|Y$ miesięcy jest nieuczciwa."
  objectives_title: "Cele"
  daimyo_subject: "Poddany Daimyo"
- BANNERS_DESC: "Kraje z kulturą §YMandżurską§!, w prowincjach ze swoją kulturą, mogą powoływać pod broń specjalne Chorągwie, owe Chorągwie posiadają większą dyscyplinę od zwykłych jednostek, lecz ich rekrutacja zwiększa korupcję."
+ BANNERS_DESC: "Kraje z kulturą §Ymandżurską§!, w prowincjach ze swoją kulturą, mogą powoływać pod broń specjalne Chorągwie, owe Chorągwie posiadają większą dyscyplinę od zwykłych jednostek, lecz ich rekrutacja zwiększa korupcję."
  COALITION_WILL_FORM: "Na mocy tego traktatu może powstać koalicja przeciwko tobie!"
  COALITION_WILL_FORM_THEM: "Na mocy tego traktatu może powstać koalicja przeciwko nim!"
  SHIP_DURABILITY_SHORT: "Trwałość twoich okrętów wynosi obecnie $VAL$"
