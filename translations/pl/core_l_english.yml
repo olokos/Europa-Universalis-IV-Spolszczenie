@@ -923,7 +923,7 @@
  SETTINGS_ACCESSIBILITY: "Dostępność"
  SETTINGS_ACCESSIBILITY_TTS: "Czat wieloosobowy, tekst na mowę"
  SETTINGS_ACCESSIBILITY_STT: "Czat wieloosobowy, mowa na tekst"
- SETTINGS_ACCESSIBILITY_VISUAL_ALERTS: "Powiadomienia wizualne czatu wieloosobowego"
+ SETTINGS_ACCESSIBILITY_VISUAL_ALERTS: "Powiadomienia wizualne czatu"
  SETTINGS_ACCESSIBILITY_USE_STT_SHORTCUT: "Skrót przełączający mowę na tekst"
  SETTINGS_ACCESSIBILITY_CHAT_LARGE_FONTS: "Rozmiar liter w czacie wieloosobowym"
  SETTINGS_ACCESSIBILITY_STT_SHORTCUT_INPUT: "Skrót przełączający mowę na tekst"
