@@ -4519,7 +4519,7 @@
  MODIFIER_SIEGE_ABILITY: "Umiejętności oblężnicze"
  MODIFIER_PRIVATEER_EFFICIENCY: "Skuteczność korsarza"
  MODIFIER_GLOBAL_TRADE_GOODS_SIZE: "Prod. towary"
- MODIFIER_GLOBAL_TRADE_GOODS_SIZE_MODIFIER: "Modyf. produkowanych towarów"
+ MODIFIER_GLOBAL_TRADE_GOODS_SIZE_MODIFIER: "Modyf. produkowanych tow."
  TRADE_GOODS_LBL: "Prod. towary"
  GLOBAL_TRADEGOODS_SIZE_DESC: "Ten czynnik zwiększa jakość towarów produkowanych lokalnie w naszych prowincjach."
  MODIFIER_ENVOY_TRAVEL_TIME: "Czas podróży posła"
