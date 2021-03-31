@@ -828,7 +828,7 @@
  IMP_BASE_PROD: "Popraw produkcję podstawową"
  IMP_BASE_MP: "Popraw podstawowe zasoby ludzkie"
  LEDGER_BASE_PROD: "(Baza)"
- LEDGER_BASE_MP: "(Podstawa)"
+ LEDGER_BASE_MP: "(Baza)"
  LEDGER_BASE_TX: "(Podstawa)"
  IMPR_TAX_IMCOME: " Miesięczny przychód z podatków: §G+$VAL$§!¤"
  IMPR_MONTHLY_MP: " Maksymalne zasoby ludzkie: §G+$VAL$§!"
