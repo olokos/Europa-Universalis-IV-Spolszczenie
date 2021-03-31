@@ -27,7 +27,7 @@ defined_text = {
 }
 
 defined_text = {
-	name = GetLegitimacyOrMeritocracy_PL
+	name = GetLegitimacyOrMeritocracy_acc
 	random = no
 	
 	text = {
