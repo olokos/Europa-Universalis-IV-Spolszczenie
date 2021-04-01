@@ -486,7 +486,7 @@
  GOVERNMENT_RANK_BENEFITS_TITLE: "Ranga urzędu $RANK|Y$ daje następujące korzyści:\n"
  CHAR_CULTURE_CHANGE: "$WHO$ staje się $CUL|Y$.\n"
  CHAR_RELIGION_CHANGE: "$WHO$ staje się $CUL|Y$.\n"
- ADVISOR_CULTURE_RELIGION: "$NAME|Y$ jest $CUL|Y$ $REL|Y$."
+ ADVISOR_CULTURE_RELIGION: "$NAME|Y$ wyznaje $REL|Y$ i pochodzi z kultury $CUL|Y$."
  EMBRACED: "Przyjęto"
  PRESENT: "Obecny"
  NOT_CREATED: "§gNie powstał§!"
