@@ -565,7 +565,7 @@
  CULTURE_CONSTRUCTIONS: "Konwersja kultury"
  CORE_CONSTRUCTIONS: "Tworz. prow. narod."
  ADVISOR_FIRE: "Zwolnij doradcę"
- NO_ADVISOR_HIRED: "Żaden doradca $POWER$ nie został dotąd zatrudniony."
+ NO_ADVISOR_HIRED: "Żaden doradca z dziedziny $POWER$ nie został dotąd zatrudniony."
  ECOVIEW_MAINT_TP_PENALTY: "Siła handlu lekkiego okrętu: $VAL$"
  HRE_VOTE_SCORE_DESC: "Raz na miesiąc §Y$ELECTOR$§W zmienia obiekt swojego poparcia, przenosząc je na kraj, który uzyskał najwyższą liczbę głosów."
  HRE_OTHER_VOTE_SELF: "Elektor z kraju §Y$ELECTOR$§W popiera samego siebie jako kandydata do cesarskiego tronu."
