@@ -280,7 +280,7 @@
  corruption_event.10.b: "Będą musieli się do tego przyzwyczaić."
  corruption_event.11.t: "Towar [trade_goods_province.GetTradeGoodsName] 'znika'"
  corruption_event.11.d: "W związku z rosnącą skalą korupcji w kraju [Root.GetName], coraz częściej towar [trade_goods_province.GetTradeGoodsName] znika z legalnego obrotu i trafia na czarny rynek. Choć niektórzy winą za ten stan obarczają zbyt restrykcyjne przepisy i cło, problem częściowo bierze się stąd, że taki proceder zbyt często uchodzi na sucho. Kiedy łatwo kupić czyjeś milczenie, nietrudno utrzymać rzecz w tajemnicy, a takie tajemnice coraz więcej kosztują państwo [Root.GetName]."
- corruption_event.11.a: "Towar [trade_goods_province.GetTradeGoodsName] musi z powrotem znaleźć się pod naszą kontrolą."
+ corruption_event.11.a: "[trade_goods_province.GetTradeGoodsName] musi z powrotem znaleźć się pod naszą kontrolą."
  corruption_event.12.t: "Skorumpowani generałowie"
  corruption_event.12.d: "Kompetencje i doświadczenie powinny być głównymi, o ile nie jedynymi czynnikami, decydującymi o awansie w szeregach armii [Root.GetAdjective]. Jednak w obliczu rosnącej korupcji w naszym państwie rzeczywistość coraz bardziej rozmija się z założeniami. Prawda jest taka, że stanowisko generała niesie ze sobą duży prestiż, toteż osoby z pieniędzmi i kontaktami chętnie używają ich, by otrzymać tę funkcję. Mają taką możliwość, ponieważ obecne dowództwo jest podatne na tego rodzaju praktyki.\n\nOd czasu do czasu generałem może zostać osoba, która rzeczywiście na to zasługuje, ale wielu spośród najlepszych strategów nigdy nie będzie miało szansy, by użyczyć nam swoich umiejętności."
  corruption_event.12.a: "Świat nie jest sprawiedliwy."
