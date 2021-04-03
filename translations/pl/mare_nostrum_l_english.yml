@@ -278,7 +278,7 @@
  corruption_event.10.d: "Przed innymi państwami powinni reprezentować nas najlepsi z nas. Niestety, zdarzają się wyjątki od tej zasady. Czasem stanowisko ambasadora otrzymują ci, których rząd chce się pozbyć, a co gorsza, ma po temu powody.\n\nOkazało się, że właśnie taki ambasador podczas swojego dobrze płatnego wygnania dorabiał sobie przyjmowaniem łapówek. Pozostawienie go na stanowisku nie przysłuży się naszym stosunkom z miejscowymi, jednak zachował pewne kontakty w ojczyźnie, toteż jego ewentualne odwołanie nie przebiegnie bezproblemowo."
  corruption_event.10.a: "Tam, gdzie jest teraz, powoduje więcej problemów. Pozbyć się go."
  corruption_event.10.b: "Będą musieli się do tego przyzwyczaić."
- corruption_event.11.t: "Towar [trade_goods_province.GetTradeGoodsName] 'znika'"
+ corruption_event.11.t: "[trade_goods_province.GetTradeGoodsName] 'znika'"
  corruption_event.11.d: "W związku z rosnącą skalą korupcji w kraju [Root.GetName], coraz częściej towar [trade_goods_province.GetTradeGoodsName] znika z legalnego obrotu i trafia na czarny rynek. Choć niektórzy winą za ten stan obarczają zbyt restrykcyjne przepisy i cło, problem częściowo bierze się stąd, że taki proceder zbyt często uchodzi na sucho. Kiedy łatwo kupić czyjeś milczenie, nietrudno utrzymać rzecz w tajemnicy, a takie tajemnice coraz więcej kosztują państwo [Root.GetName]."
  corruption_event.11.a: "[trade_goods_province.GetTradeGoodsName] musi z powrotem znaleźć się pod naszą kontrolą."
  corruption_event.12.t: "Skorumpowani generałowie"
