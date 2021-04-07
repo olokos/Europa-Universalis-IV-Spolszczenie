@@ -1,0 +1,529 @@
+defined_text = {
+	name = GetAdmEmployed
+
+	text = {
+		localisation_key = string_philosopher_male
+		trigger = {
+			employed_advisor = { type = philosopher is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_philosopher_fem
+		trigger = {
+			employed_advisor = { type = philosopher is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_natural_scientist_male
+		trigger = {
+			employed_advisor = { type = natural_scientist is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_natural_scientist_fem
+		trigger = {
+			employed_advisor = { type = natural_scientist is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_artist_male
+		trigger = {
+			employed_advisor = { type = artist is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_artist_fem
+		trigger = {
+			employed_advisor = { type = artist is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_treasurer_male
+		trigger = {
+			employed_advisor = { type = treasurer is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_treasurer_fem
+		trigger = {
+			employed_advisor = { type = treasurer is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_theologian_male
+		trigger = {
+			employed_advisor = { type = theologian is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_theologian_fem
+		trigger = {
+			employed_advisor = { type = theologian is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_master_of_mint_male
+		trigger = {
+			employed_advisor = { type = master_of_mint is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_master_of_mint_fem
+		trigger = {
+			employed_advisor = { type = master_of_mint is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_inquisitor_male
+		trigger = {
+			employed_advisor = { type = inquisitor is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_inquisitor_fem
+		trigger = {
+			employed_advisor = { type = inquisitor is_female = yes }
+		}
+	}
+}
+
+defined_text = {
+	name = GetDipEmployed
+	text = {
+		localisation_key = string_statesman_male
+		trigger = {
+			employed_advisor = { type = statesman is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_statesman_fem
+		trigger = {
+			employed_advisor = { type = statesman is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_naval_reformer_male
+		trigger = {
+			employed_advisor = { type = naval_reformer is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_naval_reformer_fem
+		trigger = {
+			employed_advisor = { type = naval_reformer is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_trader_male
+		trigger = {
+			employed_advisor = { type = trader is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_trader_fem
+		trigger = {
+			employed_advisor = { type = trader is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_spymaster_male
+		trigger = {
+			employed_advisor = { type = spymaster is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_spymaster_fem
+		trigger = {
+			employed_advisor = { type = spymaster is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_colonial_governor_male
+		trigger = {
+			employed_advisor = { type = colonial_governor is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_colonial_governor_fem
+		trigger = {
+			employed_advisor = { type = colonial_governor is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_diplomat_male
+		trigger = {
+			employed_advisor = { type = diplomat is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_diplomat_fem
+		trigger = {
+			employed_advisor = { type = diplomat is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_navigator_male
+		trigger = {
+			employed_advisor = { type = navigator is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_navigator_fem
+		trigger = {
+			employed_advisor = { type = navigator is_female = yes }
+		}
+	}
+}
+
+defined_text = {
+	name = GetMilEmployed
+	text = {
+		localisation_key = string_army_reformer_male
+		trigger = {
+			employed_advisor = { type = army_reformer is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_army_reformer_fem
+		trigger = {
+			employed_advisor = { type = army_reformer is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_army_organiser_male
+		trigger = {
+			employed_advisor = { type = army_organiser is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_army_organiser_fem
+		trigger = {
+			employed_advisor = { type = army_organiser is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_commandant_male
+		trigger = {
+			employed_advisor = { type = commandant is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_commandant_fem
+		trigger = {
+			employed_advisor = { type = commandant is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_quartermaster_male
+		trigger = {
+			employed_advisor = { type = quartermaster is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_quartermaster_fem
+		trigger = {
+			employed_advisor = { type = quartermaster is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_recruitmaster_male
+		trigger = {
+			employed_advisor = { type = recruitmaster is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_recruitmaster_fem
+		trigger = {
+			employed_advisor = { type = recruitmaster is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_fortification_expert_male
+		trigger = {
+			employed_advisor = { type = fortification_expert is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_fortification_expert_fem
+		trigger = {
+			employed_advisor = { type = fortification_expert is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_grand_captain_male
+		trigger = {
+			employed_advisor = { type = grand_captain is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_grand_captain_fem
+		trigger = {
+			employed_advisor = { type = grand_captain is_female = yes }
+		}
+	}
+}
+
+defined_text = {
+	name = GetAdmEmployed_acc
+
+	text = {
+		localisation_key = string_philosopher_male_acc
+		trigger = {
+			employed_advisor = { type = philosopher is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_philosopher_fem_acc
+		trigger = {
+			employed_advisor = { type = philosopher is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_natural_scientist_male_acc
+		trigger = {
+			employed_advisor = { type = natural_scientist is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_natural_scientist_fem_acc
+		trigger = {
+			employed_advisor = { type = natural_scientist is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_artist_male_acc
+		trigger = {
+			employed_advisor = { type = artist is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_artist_fem_acc
+		trigger = {
+			employed_advisor = { type = artist is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_treasurer_male_acc
+		trigger = {
+			employed_advisor = { type = treasurer is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_treasurer_fem_acc
+		trigger = {
+			employed_advisor = { type = treasurer is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_theologian_male_acc
+		trigger = {
+			employed_advisor = { type = theologian is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_theologian_fem_acc
+		trigger = {
+			employed_advisor = { type = theologian is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_master_of_mint_male_acc
+		trigger = {
+			employed_advisor = { type = master_of_mint is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_master_of_mint_fem_acc
+		trigger = {
+			employed_advisor = { type = master_of_mint is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_inquisitor_male_acc
+		trigger = {
+			employed_advisor = { type = inquisitor is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_inquisitor_fem_acc
+		trigger = {
+			employed_advisor = { type = inquisitor is_female = yes }
+		}
+	}
+}
+
+defined_text = {
+	name = GetDipEmployed_acc
+	text = {
+		localisation_key = string_statesman_male_acc
+		trigger = {
+			employed_advisor = { type = statesman is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_statesman_fem_acc
+		trigger = {
+			employed_advisor = { type = statesman is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_naval_reformer_male_acc
+		trigger = {
+			employed_advisor = { type = naval_reformer is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_naval_reformer_fem_acc
+		trigger = {
+			employed_advisor = { type = naval_reformer is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_trader_male_acc
+		trigger = {
+			employed_advisor = { type = trader is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_trader_fem_acc
+		trigger = {
+			employed_advisor = { type = trader is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_spymaster_male_acc
+		trigger = {
+			employed_advisor = { type = spymaster is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_spymaster_fem_acc
+		trigger = {
+			employed_advisor = { type = spymaster is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_colonial_governor_male_acc
+		trigger = {
+			employed_advisor = { type = colonial_governor is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_colonial_governor_fem_acc
+		trigger = {
+			employed_advisor = { type = colonial_governor is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_diplomat_male_acc
+		trigger = {
+			employed_advisor = { type = diplomat is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_diplomat_fem_acc
+		trigger = {
+			employed_advisor = { type = diplomat is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_navigator_male_acc
+		trigger = {
+			employed_advisor = { type = navigator is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_navigator_fem_acc
+		trigger = {
+			employed_advisor = { type = navigator is_female = yes }
+		}
+	}
+}
+
+defined_text = {
+	name = GetMilEmployed_acc
+	text = {
+		localisation_key = string_army_reformer_male_acc
+		trigger = {
+			employed_advisor = { type = army_reformer is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_army_reformer_fem_acc
+		trigger = {
+			employed_advisor = { type = army_reformer is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_army_organiser_male_acc
+		trigger = {
+			employed_advisor = { type = army_organiser is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_army_organiser_fem_acc
+		trigger = {
+			employed_advisor = { type = army_organiser is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_commandant_male_acc
+		trigger = {
+			employed_advisor = { type = commandant is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_commandant_fem_acc
+		trigger = {
+			employed_advisor = { type = commandant is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_quartermaster_male_acc
+		trigger = {
+			employed_advisor = { type = quartermaster is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_quartermaster_fem_acc
+		trigger = {
+			employed_advisor = { type = quartermaster is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_recruitmaster_male_acc
+		trigger = {
+			employed_advisor = { type = recruitmaster is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_recruitmaster_fem_acc
+		trigger = {
+			employed_advisor = { type = recruitmaster is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_fortification_expert_male_acc
+		trigger = {
+			employed_advisor = { type = fortification_expert is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_fortification_expert_fem_acc
+		trigger = {
+			employed_advisor = { type = fortification_expert is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_grand_captain_male_acc
+		trigger = {
+			employed_advisor = { type = grand_captain is_male = yes }
+		}
+	}
+	text = {
+		localisation_key = string_grand_captain_fem_acc
+		trigger = {
+			employed_advisor = { type = grand_captain is_female = yes }
+		}
+	}
+}

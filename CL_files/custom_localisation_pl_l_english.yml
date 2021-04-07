@@ -224,45 +224,48 @@
  string_N: "³o"#Wodzostwo
  string_MZ: "³y"#Zjednoczone Prowincje
  string_MM: "li"#Wieczni Rycerze
+## odmiana can
+ string_can_poj: "może"
+ string_can_mno: "mogą"
 ##Klasy społeczne
 #mała
- string_estate_brahmins: "bramini" #Bramini
- string_monasteries: "zakony" #Zakony
- string_babaylanes: "babaylanowie" #Babaylanowie
- string_estate_gentry: "shizu" #Shizu
- string_estate_ulema: "ulemowie" #Ulemowie
- string_estate_tlamacazqueh: "tlamacazqueh" #Tlamacazqueh
- string_estate_yangban_scholars: "jangbańscy uczeni" #Jangbańscy uczeni
- string_estate_church: "duchowieństwo" #Duchowieństwo
- string_estate_maratha: "marathowie" #Marathowie
- string_estate_beys: "ümera" #Ümera
- string_estate_boyars: "bojarzy" #Bojarzy
- string_estate_szlachta: "szlachta" #Szlachta
- string_estate_timawa: "timawa" #Timawa
- string_estate_nayaks: "nayakowie" #Nayakowie
- string_estate_samantas: "samantowie" #Samantowie
- string_estate_kshatriyas: "kszatrijowie" #Kszatrijowie
- string_estate_qinwang: "qinwang" #Qinwang
- string_estate_mansabdars: "mansabdarowie" #Mansabdarowie
- string_estate_tetecuhtin: "tetecuhtin" #Tetecuhtin
- string_estate_andriana: "andriana" #Andriana
- string_estate_amirs: "emirowie" #Emirowie
- string_estate_planters: "plantatorzy" #Plantatorzy
- string_estate_bushi: "bushi" #Bushi
- string_estate_yangban_administrators: "jangbańscy administratorzy" #Jangbańscy administratorzy
- string_estate_junkers: "junkrzy" #Junkrzy
- string_estate_nobles: "arystokracja" #Arystokracja
- string_estate_bourgeoisie: "burżuazja" #Burżuazja
- string_estate_shangbang: "shangbang" #Shangbang
- string_estate_neoconfucian_reformers: "neokonfucjańscy reformatorzy" #Neokonfucjańscy reformatorzy
- string_estate_merchant_guilds: "gildie kupieckie" #Gildie kupieckie
- string_estate_burghers: "mieszczaństwo" #Mieszczaństwo
- string_estate_vaisyas: "wajśjowie" #Wajśjowie
- string_estate_cossacks: "kozacy" #Kozacy
- string_estate_nomadic_tribes: "plemiona" #Plemiona
- string_estate_dhimmi: "zimmi" #Zimmi
- string_estate_jains: "dźiniści" #Dźiniści
- string_estate_rajput: "radźputowie" #Radźputowie
+ string_estate_brahmins: "bramini" #Bramini MM
+ string_monasteries: "zakony" #Zakony MM
+ string_babaylanes: "babaylanowie" #Babaylanowie MM
+ string_estate_gentry: "shizu" #Shizu PM
+ string_estate_ulema: "ulemowie" #Ulemowie MM
+ string_estate_tlamacazqueh: "tlamacazqueh" #Tlamacazqueh PM
+ string_estate_yangban_scholars: "jangbańscy uczeni" #Jangbańscy uczeni MM
+ string_estate_church: "duchowieństwo" #Duchowieństwo PN
+ string_estate_maratha: "marathowie" #Marathowie MM
+ string_estate_beys: "ümera" #Ümera PM
+ string_estate_boyars: "bojarzy" #Bojarzy MM
+ string_estate_szlachta: "szlachta" #Szlachta PZ
+ string_estate_timawa: "timawa" #Timawa PM
+ string_estate_nayaks: "nayakowie" #Nayakowie MM
+ string_estate_samantas: "samantowie" #Samantowie MM
+ string_estate_kshatriyas: "kszatrijowie" #Kszatrijowie MM
+ string_estate_qinwang: "qinwang" #Qinwang PM
+ string_estate_mansabdars: "mansabdarowie" #Mansabdarowie MM
+ string_estate_tetecuhtin: "tetecuhtin" #Tetecuhtin PM
+ string_estate_andriana: "andriana" #Andriana PM
+ string_estate_amirs: "emirowie" #Emirowie MM
+ string_estate_planters: "plantatorzy" #Plantatorzy MM
+ string_estate_bushi: "bushi" #Bushi MM
+ string_estate_yangban_administrators: "jangbańscy administratorzy" #Jangbańscy administratorzy MM
+ string_estate_junkers: "junkrzy" #Junkrzy MM
+ string_estate_nobles: "arystokracja" #Arystokracja PZ
+ string_estate_bourgeoisie: "burżuazja" #Burżuazja PZ
+ string_estate_shangbang: "shangbang" #Shangbang PM
+ string_estate_neoconfucian_reformers: "neokonfucjańscy reformatorzy" #Neokonfucjańscy reformatorzy MM
+ string_estate_merchant_guilds: "gildie kupieckie" #Gildie kupieckie MZ
+ string_estate_burghers: "mieszczaństwo" #Mieszczaństwo PN
+ string_estate_vaisyas: "wajśjowie" #Wajśjowie MM
+ string_estate_cossacks: "kozacy" #Kozacy MM
+ string_estate_nomadic_tribes: "plemiona" #Plemiona MN
+ string_estate_dhimmi: "zimmi" #Zimmi MM
+ string_estate_jains: "dźiniści" #Dźiniści MM
+ string_estate_rajput: "radźputowie" #Radźputowie MM
 ## Dopełniacz klas społecznych
 ##mała
  string_gen_estate_brahmins: "braminów" #Bramini
@@ -494,6 +497,92 @@
  string_ins_estate_dhimmi_Cap: "Zimmami" #Zimmi
  string_ins_estate_jains_Cap: "Dźinistami" #Dźiniści
  string_ins_estate_rajput_Cap: "Radźputami" #Radźputowie
+ ## żąda/żądają
+ string_NounJa_PM: "" #Ümera, Qinwang
+ string_NounJa_PN: "" #Mieszczaństwo
+ string_NounJa_PZ: "" #Arystokracja
+ string_NounJa_MM: "ją" #Bojarzy
+ string_NounJa_MZ: "ją" #Gildie kupieckie
+ ##twierdzi/twierdzą
+ string_IA_PM: "i" #Ümera, Qinwang
+ string_IA_PN: "i" #Mieszczaństwo
+ string_IA_PZ: "i" #Arystokracja
+ string_IA_MM: "ą" #Bojarzy
+ string_IA_MZ: "ą" #Gildie kupieckie
+ ##czyje to ziemie
+ string_Whose_PM: "jego" #Ümera, Qinwang
+ string_Whose_PN: "jego" #Mieszczaństwo
+ string_Whose_PZ: "jej" #Arystokracja
+ string_Whose_MM: "ich" #Bojarzy
+ string_Whose_MZ: "ich" #Gildie kupieckie
+ ##czyje to ziemie
+ string_Whose_PM_Cap: "Jego" #Ümera, Qinwang
+ string_Whose_PN_Cap: "Jego" #Mieszczaństwo
+ string_Whose_PZ_Cap: "Jej" #Arystokracja
+ string_Whose_MM_Cap: "Ich" #Bojarzy
+ string_Whose_MZ_Cap: "Ich" #Gildie kupieckie
+ ##prosi/proszą
+ string_IZa_PM: "i" #Ümera, Qinwang
+ string_IZa_PN: "i" #Mieszczaństwo
+ string_IZa_PZ: "i" #Arystokracja
+ string_IZa_MM: "zą" #Bojarzy
+ string_IZa_MZ: "zą" #Gildie kupieckie
+ ##chce/chcą
+ string_EA_PM: "e" #Ümera, Qinwang
+ string_EA_PN: "e" #Mieszczaństwo
+ string_EA_PZ: "e" #Arystokracja
+ string_EA_MM: "ą" #Bojarzy
+ string_EA_MZ: "ą" #Gildie kupieckie
+ ##będzie/będą
+ string_ZieA_PM: "zie" #Ümera, Qinwang
+ string_ZieA_PN: "zie" #Mieszczaństwo
+ string_ZieA_PZ: "zie" #Arystokracja
+ string_ZieA_MM: "ą" #Bojarzy
+ string_ZieA_MZ: "ą" #Gildie kupieckie
+ ##jemu/jej/im
+ string_Who_PM: "jemu" #Ümera, Qinwang
+ string_Who_PN: "jemu" #Mieszczaństwo
+ string_Who_PZ: "jej" #Arystokracja
+ string_Who_MM: "im" #Bojarzy
+ string_Who_MZ: "im" #Gildie kupieckie
+ ##powinien/powinna/powinno/powinni/powinne
+ string_NormEnd_PM: "ien" #Ümera, Qinwang
+ string_NormEnd_PN: "no" #Mieszczaństwo
+ string_NormEnd_PZ: "na" #Arystokracja
+ string_NormEnd_MM: "ni" #Bojarzy
+ string_NormEnd_MZ: "ne" #Gildie kupieckie
+ ##jest/są
+ string_NormEnd_PM: "jest" #Ümera, Qinwang
+ string_NormEnd_PN: "jest" #Mieszczaństwo
+ string_NormEnd_PZ: "jest" #Arystokracja
+ string_NormEnd_MM: "są" #Bojarzy
+ string_NormEnd_MZ: "są" #Gildie kupieckie
+ ##jest/są
+ string_NormEnd_PM: "jest" #Ümera, Qinwang
+ string_NormEnd_PN: "jest" #Mieszczaństwo
+ string_NormEnd_PZ: "jest" #Arystokracja
+ string_NormEnd_MM: "są" #Bojarzy
+ string_NormEnd_MZ: "są" #Gildie kupieckie
+ ##zaniepokojon y/a/e/i/e
+ string_AdjEnd_PM: "y" #Ümera, Qinwang
+ string_AdjEnd_PN: "e" #Mieszczaństwo
+ string_AdjEnd_PZ: "a" #Arystokracja
+ string_AdjEnd_MM: "i" #Bojarzy
+ string_AdjEnd_MZ: "e" #Gildie kupieckie
+ ## -/ą martwi/martwią
+ string_NounA_PM: "" #Ümera, Qinwang
+ string_NounA_PN: "" #Mieszczaństwo
+ string_NounA_PZ: "" #Arystokracja
+ string_NounA_MM: "ą" #Bojarzy
+ string_NounA_MZ: "ą" #Gildie kupieckie
+ ## ony/ona/one/eni/one zaniepokoj
+ string_NounA_PM: "ony" #Ümera, Qinwang
+ string_NounA_PN: "one" #Mieszczaństwo
+ string_NounA_PZ: "ona" #Arystokracja
+ string_NounA_MM: "eni" #Bojarzy
+ string_NounA_MZ: "one" #Gildie kupieckie
+ 
+ 
  ##Narzędnik dla klucza GetStateForm
  string_crown_ins: "Koroną" #Korona
  string_sublime_porte_ins: "Wysoką Portą" #Wysoka Porta
@@ -501,3 +590,198 @@
  ##Biernik dla klucza GetLegitimacyOrMeritocracy
  string_meritocracy_acc: "merytokrację" #Merytokracja
  string_legitimacy_acc: "legitymizację" #Legitymizacja
+ ##Doradcy
+ ##Administracja
+ string_philosopher_male: "Filozof" #Filozof
+ string_philosopher_fem: "Filozofka" #
+ string_natural_scientist_male: "Naukowiec" #Naukowiec
+ string_natural_scientist_fem: "Naukowczyni" #
+ string_artist_male: "Artysta" #Artysta
+ string_artist_fem: "Artystka" #
+ string_treasurer_male: "Skarbnik" #Skarbnik
+ string_treasurer_fem: "Skarbniczka" #
+ string_theologian_male: "Teolog" #Teolog
+ string_theologian_fem: "Teolożka" #
+ string_master_of_mint_male: "Zarządca mennicy" #Zarządca mennicy
+ string_master_of_mint_fem: "Zarządczyni mennicy" #
+ string_inquisitor_male: "Inkwizytor" #Inkwizytor
+ string_inquisitor_fem: "Inkwizytorka" #
+ ##Dyplomacja
+ string_statesman_male: "Mąż stanu" #Mąż stanu
+ string_statesman_fem: "Mąż stanu" #
+ string_naval_reformer_male: "Reformator floty" #Reformator floty
+ string_naval_reformer_fem: "Reformatorka floty" #
+ string_trader_male: "Kupiec" #Kupiec
+ string_trader_fem: "Kupczyni" #
+ string_spymaster_male: "Mistrz szpiegów" #Mistrz szpiegów
+ string_spymaster_fem: "Mistrzyni szpiegów" #
+ string_colonial_governor_male: "Gubernator kolonii" #Gubernator kolonii
+ string_colonial_governor_fem: "Gubernatorka kolonii" #
+ string_diplomat_male: "Dyplomata" #Dyplomata
+ string_diplomat_fem: "Dyplomatka" #
+ string_navigator_male: "Nawigator" #Nawigator
+ string_navigator_fem: "Nawigatorka" #
+ #Wojskowość
+ string_army_reformer_male: "Reformator armii" #Reformator armii
+ string_army_reformer_fem: "Reformatorka armii" #
+ string_army_organiser_male: "Organizator armii" #Organizator armii
+ string_army_organiser_fem: "Organizatorka armii" #
+ string_commandant_male: "Komendant" #Komendant
+ string_commandant_fem: "Komendantka" #
+ string_quartermaster_male: "Kwatermistrz" #Kwatermistrz
+ string_quartermaster_fem: "Kwatermistrzyni" #
+ string_recruitmaster_male: "Werbownik" #Werbownik
+ string_recruitmaster_fem: "Werbowniczka" #
+ string_fortification_expert_male: "Fortyfikator" #Fortyfikator
+ string_fortification_expert_fem: "Fortyfikatorka" #
+ string_grand_captain_male: "Wielki kapitan" #Wielki kapitan
+ string_grand_captain_fem: "Wielka kapitanka" #
+ #Biernik kogo? co?
+ ##Administracja
+ string_philosopher_male_acc: "Filozofa" #Filozof
+ string_philosopher_fem_acc: "Filozofkę" #
+ string_natural_scientist_male_acc: "Naukowca" #Naukowiec
+ string_natural_scientist_fem_acc: "Naukowczynię" #
+ string_artist_male_acc: "Artystę" #Artysta
+ string_artist_fem_acc: "Artystkę" #
+ string_treasurer_male_acc: "Skarbnika" #Skarbnik
+ string_treasurer_fem_acc: "Skarbniczkę" #
+ string_theologian_male_acc: "Teologa" #Teolog
+ string_theologian_fem_acc: "Teolożkę" #
+ string_master_of_mint_male_acc: "Zarządcę mennicy" #Zarządca mennicy
+ string_master_of_mint_fem_acc: "Zarządczynię mennicy" #
+ string_inquisitor_male_acc: "Inkwizytora" #Inkwizytor
+ string_inquisitor_fem_acc: "Inkwizytorkę" #
+ ##Dyplomacja
+ string_statesman_male_acc: "Męża stanu" #Mąż stanu
+ string_statesman_fem_acc: "Męża stanu" #
+ string_naval_reformer_male_acc: "Reformatora floty" #Reformator floty
+ string_naval_reformer_fem_acc: "Reformatorkę floty" #
+ string_trader_male_acc: "Kupca" #Kupiec
+ string_trader_fem_acc: "Kupczynię" #
+ string_spymaster_male_acc: "Mistrza szpiegów" #Mistrz szpiegów
+ string_spymaster_fem_acc: "Mistrzynię szpiegów" #
+ string_colonial_governor_male_acc: "Gubernatora kolonii" #Gubernator kolonii
+ string_colonial_governor_fem_acc: "Gubernatorkę kolonii" #
+ string_diplomat_male_acc: "Dyplomatę" #Dyplomata
+ string_diplomat_fem_acc: "Dyplomatkę" #
+ string_navigator_male_acc: "Nawigatora" #Nawigator
+ string_navigator_fem_acc: "Nawigatorkę" #
+ #Wojskowość
+ string_army_reformer_male_acc: "Reformatora armii" #Reformator armii
+ string_army_reformer_fem_acc: "Reformatorkę armii" #
+ string_army_organiser_male_acc: "Organizatora armii" #Organizator armii
+ string_army_organiser_fem_acc: "Organizatorkę armii" #
+ string_commandant_male_acc: "Komendanta" #Komendant
+ string_commandant_fem_acc: "Komendantkę" #
+ string_quartermaster_male_acc: "Kwatermistrza" #Kwatermistrz
+ string_quartermaster_fem_acc: "Kwatermistrzynię" #
+ string_recruitmaster_male_acc: "Werbownika" #Werbownik
+ string_recruitmaster_fem_acc: "Werbowniczkę" #
+ string_fortification_expert_male_acc: "Fortyfikatora" #Fortyfikator
+ string_fortification_expert_fem_acc: "Fortyfikatorkę" #
+ string_grand_captain_male_acc: "Wielkiego kapitana" #Wielki kapitan
+ string_grand_captain_fem_acc: "Wielką kapitankę" #
+ ## Manufaktury celownik
+ string_building_wharf_dat: "Wytwórni wyposażenia okrętowego" #Wytwórnia wyposażenia okrętowego
+ string_building_weapons_dat: "Wytwórni broni" #Wytwórnia broni
+ string_building_textile_dat: "Przędzalni" #Przędzalnia
+ string_building_plantations_dat: "Plantacji" #Plantacja
+ string_building_tradecompany_dat: "Punktu handlowego" #Punkt handlowy
+ string_building_farm_estate_dat: "Folwarku" #Folwark
+ string_building_mills_dat: "Młynu" #Młyn
+ string_building_furnace_dat: "Pieca" #Piec
+ ##odmiana nowy dla manufaktur
+ string_new_fem: "nowej"
+ string_new_male: "nowego"
+ #Dobra handlowe
+ #Mianownik mała
+ string_naval_supplies: "materiały okrętowe" #Materiały okrętowe
+ string_fish: "ryby" #Ryby
+ string_salt: "sól" #Sól
+ string_copper: "miedź" #Miedź
+ string_iron: "żelazo" #Żelazo
+ string_wool: "wełna" #Wełna
+ string_cloth: "sukno" #Sukno
+ string_silk: "jedwab" #Jedwab
+ string_dyes: "barwniki" #Barwniki
+ string_coffee: "kawa" #Kawa
+ string_cotton: "bawełna" #Bawełna
+ string_sugar: "cukier" #Cukier
+ string_tobacco: "tytoń" #Tytoń
+ string_tea: "herbata" #Herbata
+ string_cocoa: "kakao" #Kakao
+ string_ivory: "kość słoniowa" #Kość słoniowa
+ string_slaves: "niewolnicy" #Niewolnicy
+ string_spices: "przyprawy" #Przyprawy
+ string_fur: "futro" #Futro
+ string_incense: "kadzidło" #Kadzidło
+ string_grain: "zboże" #Zboże
+ string_livestock: "zwierzęta hodowlane" #Zwierzęta hodowlane
+ string_wine: "wino" #Wino
+ string_paper: "papier" #Papier
+ string_gems: "klejnoty" #Klejnoty
+ string_tropical_wood: "tropikalne drewno" #Tropikalne drewno
+ string_glass: "szkło" #Szkło
+ string_chinaware: "towary orientalne" #Towary orientalne
+ string_coal: "węgiel" #Węgiel
+ #Dopełniacz duża 
+ string_naval_supplies_gen_Cap: "Materiałów okrętowych" #Materiały okrętowe
+ string_fish_gen_Cap: "Ryb" #Ryby
+ string_salt_gen_Cap: "Soli" #Sól
+ string_copper_gen_Cap: "Miedzi" #Miedź
+ string_iron_gen_Cap: "Żelaza" #Żelazo
+ string_wool_gen_Cap: "Wełny" #Wełna
+ string_cloth_gen_Cap: "Sukna" #Sukno
+ string_silk_gen_Cap: "Jedwabiu" #Jedwab
+ string_dyes_gen_Cap: "Barwników" #Barwniki
+ string_coffee_gen_Cap: "Kawy" #Kawa
+ string_cotton_gen_Cap: "Bawełny" #Bawełna
+ string_sugar_gen_Cap: "Cukru" #Cukier
+ string_tobacco_gen_Cap: "Tytoniu" #Tytoń
+ string_tea_gen_Cap: "Herbaty" #Herbata
+ string_cocoa_gen_Cap: "Kakao" #Kakao
+ string_ivory_gen_Cap: "Kości słoniowej" #Kość słoniowa
+ string_slaves_gen_Cap: "Niewolników" #Niewolnicy
+ string_spices_gen_Cap: "Przypraw" #Przyprawy
+ string_fur_gen_Cap: "Futra" #Futro
+ string_incense_gen_Cap: "Kadzidła" #Kadzidło
+ string_grain_gen_Cap: "Zboża" #Zboże
+ string_livestock_gen_Cap: "Zwierząt hodowlanych" #Zwierzęta hodowlane
+ string_wine_gen_Cap: "Wina" #Wino
+ string_paper_gen_Cap: "Papieru" #Papier
+ string_gems_gen_Cap: "Klejnotów" #Klejnoty
+ string_tropical_wood_gen_Cap: "Tropikalnego drewna" #Tropikalne drewno
+ string_glass_gen_Cap: "Szkła" #Szkło
+ string_chinaware_gen_Cap: "Towarów orientalnych" #Towary orientalne
+ string_coal_gen_Cap: "Węgla" #Węgiel
+ #Dopełniacz mała
+ string_naval_supplies_gen: "materiałów okrętowych" #Materiały okrętowe
+ string_fish_gen: "ryb" #Ryby
+ string_salt_gen: "soli" #Sól
+ string_copper_gen: "miedzi" #Miedź
+ string_iron_gen: "żelaza" #Żelazo
+ string_wool_gen: "wełny" #Wełna
+ string_cloth_gen: "sukna" #Sukno
+ string_silk_gen: "jedwabiu" #Jedwab
+ string_dyes_gen: "barwników" #Barwniki
+ string_coffee_gen: "kawy" #Kawa
+ string_cotton_gen: "bawełny" #Bawełna
+ string_sugar_gen: "cukru" #Cukier
+ string_tobacco_gen: "tytoniu" #Tytoń
+ string_tea_gen: "herbaty" #Herbata
+ string_cocoa_gen: "kakao" #Kakao
+ string_ivory_gen: "kości słoniowej" #Kość słoniowa
+ string_slaves_gen: "niewolników" #Niewolnicy
+ string_spices_gen: "przypraw" #Przyprawy
+ string_fur_gen: "futra" #Futro
+ string_incense_gen: "kadzidła" #Kadzidło
+ string_grain_gen: "zboża" #Zboże
+ string_livestock_gen: "zwierząt hodowlanych" #Zwierzęta hodowlane
+ string_wine_gen: "wina" #Wino
+ string_paper_gen: "papieru" #Papier
+ string_gems_gen: "klejnotów" #Klejnoty
+ string_tropical_wood_gen: "tropikalnego drewna" #Tropikalne drewno
+ string_glass_gen: "szkła" #Szkło
+ string_chinaware_gen: "towarów orientalnych" #Towary orientalne
+ string_coal_gen: "węgla" #Węgiel
