@@ -701,28 +701,28 @@ source_file = translations/en/emperor_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.emperor_map_l_english-yml--master]
+[Community-edition.translations-en-emperor-map-l-english-yml--master]
 file_filter = translations/<lang>/emperor_map_l_english.yml
 minimum_perc = 0
 source_file = translations/en/emperor_map_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.emperor_mercs_l_english-yml--master]
+[Community-edition.translations-en-emperor-mercs-l-english-yml--master]
 file_filter = translations/<lang>/emperor_mercs_l_english.yml
 minimum_perc = 0
 source_file = translations/en/emperor_mercs_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.emperor_missions_l_english-yml--master]
+[Community-edition.translations-en-emperor-missions-l-english-yml--master]
 file_filter = translations/<lang>/emperor_missions_l_english.yml
 minimum_perc = 0
 source_file = translations/en/emperor_missions_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.emperor_revolutions_l_english-yml--master]
+[Community-edition.translations-en-emperor-revolutions-l-english-yml--master]
 file_filter = translations/<lang>/emperor_revolutions_l_english.yml
 minimum_perc = 0
 source_file = translations/en/emperor_revolutions_l_english.yml
