@@ -3124,7 +3124,7 @@
  flavor_jap.EVTOPTA28: "Mógł się tego spodziewać!"
  flavor_jap.EVTOPTB28: "Odmów spełnienia ich żądań."
  flavor_jap.EVTNAME29: "Sankin kotai"
- flavor_jap.EVTDESC29: "Celem kontrolowania swoich daimyo,Japonia zaproponowała wprowadzenie systemu zakładników, tzw. sankin kotai. W założeniach daimyo będą musieli posiadać dodatkową rezydencję w Edo i co roku zmieniać miejsce zamieszkania, przenosząc się między stolicą a swoim lennem (han). Z kolei ich rodziny pozostaną w Edo jako zakładnicy. Tego rodzaju ekonomiczne ograniczenie sprawi, że daimyo nie będzie zdolny do prowadzenia wojny, gdyż utrzymanie dwóch rezydencji skutecznie to uniemożliwi. Sankin kotai wiąże się także z koniecznością wystawienia przez każdego daimyo drużyny samurajów, o liczebności adekwatnej do wartości jego lenna."
+ flavor_jap.EVTDESC29: "Celem kontrolowania swoich daimyo, Japonia zaproponowała wprowadzenie systemu zakładników, tzw. sankin kotai. W założeniach daimyo będą musieli posiadać dodatkową rezydencję w Edo i co roku zmieniać miejsce zamieszkania, przenosząc się między stolicą a swoim lennem (han). Z kolei ich rodziny pozostaną w Edo jako zakładnicy. Tego rodzaju ekonomiczne ograniczenie sprawi, że daimyo nie będzie zdolny do prowadzenia wojny, gdyż utrzymanie dwóch rezydencji skutecznie to uniemożliwi. Sankin kotai wiąże się także z koniecznością wystawienia przez każdego daimyo drużyny samurajów, o liczebności adekwatnej do wartości jego lenna."
  flavor_jap.EVTOPTA29: "Doskonały pomysł!"
  flavor_jap.EVTOPTB29: "To chyba zbyt kosztowne."
  sankin_kotai_TT_A: "Wszyscy japońscy wasale kraju §Y[Root.GetName]§! otrzymają wydarzenie 'Sankin kotai'. Nie będą z tego zadowoleni."
