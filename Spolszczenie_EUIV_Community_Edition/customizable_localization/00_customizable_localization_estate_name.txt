@@ -3917,13 +3917,13 @@ defined_text = {
 	}
 }
 
-##Liczba AdjEnd
+##Liczba AdjEndS
 
 defined_text = {
-	name = GetClergyName_AdjEnd
+	name = GetClergyName_AdjEndS
 	random = no
 	text = {
-		localisation_key = string_AdjEnd_MM
+		localisation_key = string_AdjEndS_MM
 		trigger = {
 			OR = {
 				religion = buddhism
@@ -3935,7 +3935,7 @@ defined_text = {
 		}		
 	}
 	text = {
-		localisation_key = string_AdjEnd_PM
+		localisation_key = string_AdjEndS_PM
 		trigger = {
 			OR = {
 				has_reform = celestial_empire
@@ -3944,40 +3944,40 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_AdjEnd_MM
+		localisation_key = string_AdjEndS_MM
 		trigger = {
 			religion_group = muslim
 		}
 	}
 	text = {
-		localisation_key = string_AdjEnd_PM
+		localisation_key = string_AdjEndS_PM
 		trigger = {
 			religion = nahuatl
 		}
 	}
 	text = {
-		localisation_key = string_AdjEnd_MM
+		localisation_key = string_AdjEndS_MM
 		trigger = {
 			tag = KOR
 			religion = confucianism
 		}
 	}		
 	text = {
-		localisation_key = string_AdjEnd_PN
+		localisation_key = string_AdjEndS_PN
 	}
 }
 
 defined_text = {
-	name = GetNobilityName_AdjEnd
+	name = GetNobilityName_AdjEndS
 	random = no
 	text = {
-		localisation_key = string_AdjEnd_PM
+		localisation_key = string_AdjEndS_PM
 		trigger = {
 			technology_group = ottoman
 		}
 	}
 	text = {
-		localisation_key = string_AdjEnd_MM
+		localisation_key = string_AdjEndS_MM
 		trigger = {
 			OR = {
 				culture_group = east_slavic
@@ -3987,7 +3987,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_AdjEnd_PZ
+		localisation_key = string_AdjEndS_PZ
 		trigger = {
 			OR = {
 				primary_culture = polish
@@ -3996,13 +3996,13 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_AdjEnd_PM
+		localisation_key = string_AdjEndS_PM
 		trigger = {
 			tag = MAS
 		}
 	}
 	text = {
-		localisation_key = string_AdjEnd_MM
+		localisation_key = string_AdjEndS_MM
 		trigger = {
 			OR = {
 				religion = hinduism
@@ -4012,19 +4012,19 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_AdjEnd_PM
+		localisation_key = string_AdjEndS_PM
 		trigger = {
 			has_reform = celestial_empire
 		}
 	}
 	text = {
-		localisation_key = string_AdjEnd_MM
+		localisation_key = string_AdjEndS_MM
 		trigger = {
 			tag = MUG
 		}
 	}
 	text = {
-		localisation_key = string_AdjEnd_PM
+		localisation_key = string_AdjEndS_PM
 		trigger = {
 			OR = {
 				religion = nahuatl
@@ -4033,7 +4033,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_AdjEnd_MM
+		localisation_key = string_AdjEndS_MM
 		trigger = {
 			OR = {
 				culture_group = japanese_g
@@ -4053,40 +4053,40 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_AdjEnd_PZ
+		localisation_key = string_AdjEndS_PZ
 	}
 }
 
 defined_text = {
-	name = GetBurghersName_AdjEnd
+	name = GetBurghersName_AdjEndS
 	random = no
 	text = {
-		localisation_key = string_AdjEnd_PZ
+		localisation_key = string_AdjEndS_PZ
 		trigger = {
 			culture_group = french
 		}
 	}
 	text = {
-		localisation_key = string_AdjEnd_PM
+		localisation_key = string_AdjEndS_PM
 		trigger = {
 			culture_group = east_asian
 		}
 	}
 	text = {
-		localisation_key = string_AdjEnd_MM
+		localisation_key = string_AdjEndS_MM
 		trigger = {
 			tag = KOR
 			religion = confucianism
 		}
 	}
 	text = {
-		localisation_key = string_AdjEnd_MZ
+		localisation_key = string_AdjEndS_MZ
 		trigger = {
 			NOT = { religion_group = christian }
 		}
 	}	
 	text = {
-		localisation_key = string_AdjEnd_PN
+		localisation_key = string_AdjEndS_PN
 	}
 }
 
@@ -4433,5 +4433,351 @@ defined_text = {
 	}	
 	text = {
 		localisation_key = string_Conc_PN
+	}
+}
+
+##Liczba AdjEnd
+
+defined_text = {
+	name = GetClergyName_AdjEnd
+	random = no
+	text = {
+		localisation_key = string_AdjEnd_MM
+		trigger = {
+			OR = {
+				religion = buddhism
+				religion = mahayana
+				religion = vajrayana
+				religion = hinduism
+				tag = MAS
+			}
+		}		
+	}
+	text = {
+		localisation_key = string_AdjEnd_PM
+		trigger = {
+			OR = {
+				has_reform = celestial_empire
+				culture_group = east_asian
+			}
+		}
+	}
+	text = {
+		localisation_key = string_AdjEnd_MM
+		trigger = {
+			religion_group = muslim
+		}
+	}
+	text = {
+		localisation_key = string_AdjEnd_PM
+		trigger = {
+			religion = nahuatl
+		}
+	}
+	text = {
+		localisation_key = string_AdjEnd_MM
+		trigger = {
+			tag = KOR
+			religion = confucianism
+		}
+	}		
+	text = {
+		localisation_key = string_AdjEnd_PN
+	}
+}
+
+defined_text = {
+	name = GetNobilityName_AdjEnd
+	random = no
+	text = {
+		localisation_key = string_AdjEnd_PM
+		trigger = {
+			technology_group = ottoman
+		}
+	}
+	text = {
+		localisation_key = string_AdjEnd_MM
+		trigger = {
+			OR = {
+				culture_group = east_slavic
+				primary_culture = bulgarian
+				primary_culture = romanian
+			}
+		}
+	}
+	text = {
+		localisation_key = string_AdjEnd_PZ
+		trigger = {
+			OR = {
+				primary_culture = polish
+				primary_culture = lithuanian
+			}
+		}
+	}
+	text = {
+		localisation_key = string_AdjEnd_PM
+		trigger = {
+			tag = MAS
+		}
+	}
+	text = {
+		localisation_key = string_AdjEnd_MM
+		trigger = {
+			OR = {
+				religion = hinduism
+				tag = ORI
+				tag = VIJ
+			}
+		}
+	}
+	text = {
+		localisation_key = string_AdjEnd_PM
+		trigger = {
+			has_reform = celestial_empire
+		}
+	}
+	text = {
+		localisation_key = string_AdjEnd_MM
+		trigger = {
+			tag = MUG
+		}
+	}
+	text = {
+		localisation_key = string_AdjEnd_PM
+		trigger = {
+			OR = {
+				religion = nahuatl
+				tag = MIR
+			}
+		}
+	}
+	text = {
+		localisation_key = string_AdjEnd_MM
+		trigger = {
+			OR = {
+				culture_group = japanese_g
+				has_reform = prussian_republic_reform
+				has_reform = prussian_monarchy
+				tag = GER
+				tag = USA
+				AND = {
+					religion_group = muslim
+					NOT = { technology_group = ottoman }
+				}
+				AND = {
+					tag = KOR
+					religion = confucianism				
+				}
+			}
+		}
+	}
+	text = {
+		localisation_key = string_AdjEnd_PZ
+	}
+}
+
+defined_text = {
+	name = GetBurghersName_AdjEnd
+	random = no
+	text = {
+		localisation_key = string_AdjEnd_PZ
+		trigger = {
+			culture_group = french
+		}
+	}
+	text = {
+		localisation_key = string_AdjEnd_PM
+		trigger = {
+			culture_group = east_asian
+		}
+	}
+	text = {
+		localisation_key = string_AdjEnd_MM
+		trigger = {
+			tag = KOR
+			religion = confucianism
+		}
+	}
+	text = {
+		localisation_key = string_AdjEnd_MZ
+		trigger = {
+			NOT = { religion_group = christian }
+		}
+	}	
+	text = {
+		localisation_key = string_AdjEnd_PN
+	}
+}
+
+##Liczba PastEnd
+
+defined_text = {
+	name = GetClergyName_PastEnd
+	random = no
+	text = {
+		localisation_key = string_PastEnd_MM
+		trigger = {
+			OR = {
+				religion = buddhism
+				religion = mahayana
+				religion = vajrayana
+				religion = hinduism
+				tag = MAS
+			}
+		}		
+	}
+	text = {
+		localisation_key = string_PastEnd_PM
+		trigger = {
+			OR = {
+				has_reform = celestial_empire
+				culture_group = east_asian
+			}
+		}
+	}
+	text = {
+		localisation_key = string_PastEnd_MM
+		trigger = {
+			religion_group = muslim
+		}
+	}
+	text = {
+		localisation_key = string_PastEnd_PM
+		trigger = {
+			religion = nahuatl
+		}
+	}
+	text = {
+		localisation_key = string_PastEnd_MM
+		trigger = {
+			tag = KOR
+			religion = confucianism
+		}
+	}		
+	text = {
+		localisation_key = string_PastEnd_PN
+	}
+}
+
+defined_text = {
+	name = GetNobilityName_PastEnd
+	random = no
+	text = {
+		localisation_key = string_PastEnd_PM
+		trigger = {
+			technology_group = ottoman
+		}
+	}
+	text = {
+		localisation_key = string_PastEnd_MM
+		trigger = {
+			OR = {
+				culture_group = east_slavic
+				primary_culture = bulgarian
+				primary_culture = romanian
+			}
+		}
+	}
+	text = {
+		localisation_key = string_PastEnd_PZ
+		trigger = {
+			OR = {
+				primary_culture = polish
+				primary_culture = lithuanian
+			}
+		}
+	}
+	text = {
+		localisation_key = string_PastEnd_PM
+		trigger = {
+			tag = MAS
+		}
+	}
+	text = {
+		localisation_key = string_PastEnd_MM
+		trigger = {
+			OR = {
+				religion = hinduism
+				tag = ORI
+				tag = VIJ
+			}
+		}
+	}
+	text = {
+		localisation_key = string_PastEnd_PM
+		trigger = {
+			has_reform = celestial_empire
+		}
+	}
+	text = {
+		localisation_key = string_PastEnd_MM
+		trigger = {
+			tag = MUG
+		}
+	}
+	text = {
+		localisation_key = string_PastEnd_PM
+		trigger = {
+			OR = {
+				religion = nahuatl
+				tag = MIR
+			}
+		}
+	}
+	text = {
+		localisation_key = string_PastEnd_MM
+		trigger = {
+			OR = {
+				culture_group = japanese_g
+				has_reform = prussian_republic_reform
+				has_reform = prussian_monarchy
+				tag = GER
+				tag = USA
+				AND = {
+					religion_group = muslim
+					NOT = { technology_group = ottoman }
+				}
+				AND = {
+					tag = KOR
+					religion = confucianism				
+				}
+			}
+		}
+	}
+	text = {
+		localisation_key = string_PastEnd_PZ
+	}
+}
+
+defined_text = {
+	name = GetBurghersName_PastEnd
+	random = no
+	text = {
+		localisation_key = string_PastEnd_PZ
+		trigger = {
+			culture_group = french
+		}
+	}
+	text = {
+		localisation_key = string_PastEnd_PM
+		trigger = {
+			culture_group = east_asian
+		}
+	}
+	text = {
+		localisation_key = string_PastEnd_MM
+		trigger = {
+			tag = KOR
+			religion = confucianism
+		}
+	}
+	text = {
+		localisation_key = string_PastEnd_MZ
+		trigger = {
+			NOT = { religion_group = christian }
+		}
+	}	
+	text = {
+		localisation_key = string_PastEnd_PN
 	}
 }

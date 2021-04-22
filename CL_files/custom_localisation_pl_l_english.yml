@@ -552,23 +552,17 @@
  string_NormEnd_MM: "ni" #Bojarzy
  string_NormEnd_MZ: "ne" #Gildie kupieckie
  ##jest/są
- string_NormEnd_PM: "jest" #Ümera, Qinwang
- string_NormEnd_PN: "jest" #Mieszczaństwo
- string_NormEnd_PZ: "jest" #Arystokracja
- string_NormEnd_MM: "są" #Bojarzy
- string_NormEnd_MZ: "są" #Gildie kupieckie
- ##jest/są
- string_NormEnd_PM: "jest" #Ümera, Qinwang
- string_NormEnd_PN: "jest" #Mieszczaństwo
- string_NormEnd_PZ: "jest" #Arystokracja
- string_NormEnd_MM: "są" #Bojarzy
- string_NormEnd_MZ: "są" #Gildie kupieckie
- ##zaniepokojon y/a/e/i/e
- string_AdjEnd_PM: "y" #Ümera, Qinwang
- string_AdjEnd_PN: "e" #Mieszczaństwo
- string_AdjEnd_PZ: "a" #Arystokracja
- string_AdjEnd_MM: "i" #Bojarzy
- string_AdjEnd_MZ: "e" #Gildie kupieckie
+ string_BE_PM: "jest" #Ümera, Qinwang
+ string_BE_PN: "jest" #Mieszczaństwo
+ string_BE_PZ: "jest" #Arystokracja
+ string_BE_MM: "są" #Bojarzy
+ string_BE_MZ: "są" #Gildie kupieckie
+ ##skłonn y/a/e/i/e
+ string_AdjEndS_PM: "y" #Ümera, Qinwang
+ string_AdjEndS_PN: "e" #Mieszczaństwo
+ string_AdjEndS_PZ: "a" #Arystokracja
+ string_AdjEndS_MM: "i" #Bojarzy
+ string_AdjEndS_MZ: "e" #Gildie kupieckie
  ## -/ą martwi/martwią
  string_NounA_PM: "" #Ümera, Qinwang
  string_NounA_PN: "" #Mieszczaństwo
@@ -576,11 +570,23 @@
  string_NounA_MM: "ą" #Bojarzy
  string_NounA_MZ: "ą" #Gildie kupieckie
  ## ony/ona/one/eni/one zaniepokoj
- string_NounA_PM: "ony" #Ümera, Qinwang
- string_NounA_PN: "one" #Mieszczaństwo
- string_NounA_PZ: "ona" #Arystokracja
- string_NounA_MM: "eni" #Bojarzy
- string_NounA_MZ: "one" #Gildie kupieckie
+ string_Conc_PM: "ony" #Ümera, Qinwang
+ string_Conc_PN: "one" #Mieszczaństwo
+ string_Conc_PZ: "ona" #Arystokracja
+ string_Conc_MM: "eni" #Bojarzy
+ string_Conc_MZ: "one" #Gildie kupieckie
+ ## y/a/e/y/e posiadając
+ string_AdjEnd_PM: "y" #Ümera, Qinwang
+ string_AdjEnd_PN: "e" #Mieszczaństwo
+ string_AdjEnd_PZ: "a" #Arystokracja
+ string_AdjEnd_MM: "y" #Bojarzy
+ string_AdjEnd_MZ: "e" #Gildie kupieckie
+ ## ał/ała/ało/eli/ały słysz
+ string_PastEnd_PM: "ał" #Ümera, Qinwang
+ string_PastEnd_PN: "ało" #Mieszczaństwo
+ string_PastEnd_PZ: "ała" #Arystokracja
+ string_PastEnd_MM: "eli" #Bojarzy
+ string_PastEnd_MZ: "ały" #Gildie kupieckie
  
  
  ##Narzędnik dla klucza GetStateForm
@@ -682,15 +688,15 @@
  string_fortification_expert_fem_acc: "Fortyfikatorkę" #
  string_grand_captain_male_acc: "Wielkiego kapitana" #Wielki kapitan
  string_grand_captain_fem_acc: "Wielką kapitankę" #
- ## Manufaktury celownik
- string_building_wharf_dat: "Wytwórni wyposażenia okrętowego" #Wytwórnia wyposażenia okrętowego
- string_building_weapons_dat: "Wytwórni broni" #Wytwórnia broni
- string_building_textile_dat: "Przędzalni" #Przędzalnia
- string_building_plantations_dat: "Plantacji" #Plantacja
- string_building_tradecompany_dat: "Punktu handlowego" #Punkt handlowy
- string_building_farm_estate_dat: "Folwarku" #Folwark
- string_building_mills_dat: "Młynu" #Młyn
- string_building_furnace_dat: "Pieca" #Piec
+ ## Manufaktury dopełniacz
+ string_building_wharf_gen: "Wytwórni wyposażenia okrętowego" #Wytwórnia wyposażenia okrętowego
+ string_building_weapons_gen: "Wytwórni broni" #Wytwórnia broni
+ string_building_textile_gen: "Przędzalni" #Przędzalnia
+ string_building_plantations_gen: "Plantacji" #Plantacja
+ string_building_tradecompany_gen: "Punktu handlowego" #Punkt handlowy
+ string_building_farm_estate_gen: "Folwarku" #Folwark
+ string_building_mills_gen: "Młynu" #Młyn
+ string_building_furnace_gen: "Pieca" #Piec
  ##odmiana nowy dla manufaktur
  string_new_fem: "nowej"
  string_new_male: "nowego"
