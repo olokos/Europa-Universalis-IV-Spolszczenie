@@ -861,7 +861,7 @@
  flavor_eng.EVTNAME9225: "Angielska wojna domowa"
  flavor_eng.EVTDESC9225: "Rosnące napięcie między monarchami dynastii [Root.Monarch.Dynasty.GetName], a parlamentarnymi twardogłowymi zostało spowodowane przez spory dotyczących podatków i centralizacji władzy królewskiej. Parlamentarzyści teraz otwarcie przeciwstawiają się monarsze i jego rojalistom i dążą do ustanowienia rządu republikańskiego. Ze swojej strony rojaliści mają nadzieję rozbić parlament i ustanowić monarchię absolutną. Obie strony stanęły przeciwko sobie i są gotowe do walki o kontrolę nad państwem."
  flavor_eng.EVTOPTA9225: "Za parlament i wolność!"
- flavor_eng.EVTOPTB9225: "Za monarchę"
+ flavor_eng.EVTOPTB9225: "Za [Root.GetRulerGen]!"
  flavor_eng.EVTNAME9226: "Rozporządzenie wzbraniające i Armia Nowego Wzoru"
  flavor_eng.EVTDESC9226: "W parlamencie debatuje się nad propozycją poprawy jakości armii. Od dawna praktykuje się przekazywanie dowództwa armiami członkom arystokracji, którym często brakuje doświadczenia wojskowego. Zgodnie z proponowanym rozporządzeniem wzbraniania posłowie do parlamentu mieliby zakaz sprawowania dowództwa w armii lub marynarce wojennej na czas wojny domowej. Zamiast tego siły zbrojne zostałyby zreformowane jako Armia Nowego Wzoru pod dowództwem sir Thomasa Fairfaxa."
  flavor_eng.EVTOPTA9226: "Wydaj rozporządzenie i zreformuj armię."
