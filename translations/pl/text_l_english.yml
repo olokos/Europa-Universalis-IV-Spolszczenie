@@ -3913,7 +3913,7 @@
  FE_INFLATION: "Inflacja"
  FE_SIZE_OF_COLONISTS: "Ilość kolonistów"
  FE_COT_OPTIONS: "Opcje ośrodka handlu"
- FE_AI_AGGRESSIVENESS: "Poziom trudności AI"
+ FE_AI_AGGRESSIVENESS: "Poziom trudności SI"
  FE_AI_AGGRESSIVENESS_DESC: "§YPoziom trudności SI§! określa poziom i zachowanie krajów kontrolowanych przez SI."
  FE_AI_AGGRESSIVENESS_DESC2: "§YŁatwy§!: AI ma zmniejszony poziom umiejętności i mniej agresywnie reaguje na wrogie zachowanie, a także słabość gracza.\n§YNormalny§!: AI w pełni wykorzystuje swoje umiejętności i traktuje gracza oraz państwa AI w ten sam sposób.\n§YTrudny:§! AI w pełni wykorzystuje swoje umiejętności i bardziej agresywnie reaguje na wrogie zachowanie, a także słabość gracza."
  FE_SPREAD1: "Ekspansja na prowincjach lądowych"
