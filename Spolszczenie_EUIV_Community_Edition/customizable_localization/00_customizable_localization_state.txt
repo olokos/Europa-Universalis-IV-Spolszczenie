@@ -42,3 +42,20 @@ defined_text = {
 		localisation_key = string_legitimacy_acc
 	}
 }
+
+defined_text = {
+	name = GetRulerTitleOrRegencyGen
+
+	text = {
+		localisation_key = string_rule_title_gen
+		trigger = {
+			has_regency = no
+		}
+	}
+	text = {
+		localisation_key = string_regency_council_2
+		trigger = {
+			has_regency = yes
+		}
+	}
+}

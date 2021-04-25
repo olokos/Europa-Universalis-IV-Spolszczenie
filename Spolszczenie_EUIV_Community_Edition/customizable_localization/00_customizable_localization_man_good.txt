@@ -1,8 +1,8 @@
 defined_text = {
-	name = GetManufactory_dat
+	name = GetManufactory_gen
 	random = no
 	text = {
-		localisation_key = string_building_wharf_dat
+		localisation_key = string_building_wharf_gen
 		trigger = {
 			OR = {
 				trade_goods = naval_supplies
@@ -12,7 +12,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_building_weapons_dat
+		localisation_key = string_building_weapons_gen
 		trigger = {
 			OR = {
 				trade_goods = copper
@@ -21,7 +21,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_building_textile_dat
+		localisation_key = string_building_textile_gen
 		trigger = {
 			OR = {
 				trade_goods = wool
@@ -32,7 +32,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_building_plantations_dat
+		localisation_key = string_building_plantations_gen
 		trigger = {
 			OR = {
 				trade_goods = coffee
@@ -45,7 +45,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_building_tradecompany_dat
+		localisation_key = string_building_tradecompany_gen
 		trigger = {
 			OR = {
 				trade_goods = ivory
@@ -57,7 +57,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_building_farm_estate_dat
+		localisation_key = string_building_farm_estate_gen
 		trigger = {
 			OR = {
 				trade_goods = grain
@@ -67,7 +67,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_building_mills_dat
+		localisation_key = string_building_mills_gen
 		trigger = {
 			OR = {
 				trade_goods = paper
@@ -79,7 +79,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_building_furnace_dat
+		localisation_key = string_building_furnace_gen
 		trigger = {
 			trade_goods = coal
 		}

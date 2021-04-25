@@ -688,6 +688,52 @@
  string_fortification_expert_fem_acc: "Fortyfikatorkę" #
  string_grand_captain_male_acc: "Wielkiego kapitana" #Wielki kapitan
  string_grand_captain_fem_acc: "Wielką kapitankę" #
+ #Dopełniacz kogo? czego?
+ ##Administracja
+ string_philosopher_male_gen: "Filozofa" #Filozof
+ string_philosopher_fem_gen: "Filozofki" #
+ string_natural_scientist_male_gen: "Naukowca" #Naukowiec
+ string_natural_scientist_fem_gen: "Naukowczyni" #
+ string_artist_male_gen: "Artysty" #Artysta
+ string_artist_fem_gen: "Artystki" #
+ string_treasurer_male_gen: "Skarbnika" #Skarbnik
+ string_treasurer_fem_gen: "Skarbniczki" #
+ string_theologian_male_gen: "Teologa" #Teolog
+ string_theologian_fem_gen: "Teolożki" #
+ string_master_of_mint_male_gen: "Zarządcy mennicy" #Zarządca mennicy
+ string_master_of_mint_fem_gen: "Zarządczyni mennicy" #
+ string_inquisitor_male_gen: "Inkwizytora" #Inkwizytor
+ string_inquisitor_fem_gen: "Inkwizytorki" #
+ ##Dyplomacja
+ string_statesman_male_gen: "Męża stanu" #Mąż stanu
+ string_statesman_fem_gen: "Męża stanu" #
+ string_naval_reformer_male_gen: "Reformatora floty" #Reformator floty
+ string_naval_reformer_fem_gen: "Reformatorki floty" #
+ string_trader_male_gen: "Kupca" #Kupiec
+ string_trader_fem_gen: "Kupczyni" #
+ string_spymaster_male_gen: "Mistrza szpiegów" #Mistrz szpiegów
+ string_spymaster_fem_gen: "Mistrzyni szpiegów" #
+ string_colonial_governor_male_gen: "Gubernatora kolonii" #Gubernator kolonii
+ string_colonial_governor_fem_gen: "Gubernatorki kolonii" #
+ string_diplomat_male_gen: "Dyplomaty" #Dyplomata
+ string_diplomat_fem_gen: "Dyplomatki" #
+ string_navigator_male_gen: "Nawigatora" #Nawigator
+ string_navigator_fem_gen: "Nawigatorki" #
+ #Wojskowość
+ string_army_reformer_male_gen: "Reformatora armii" #Reformator armii
+ string_army_reformer_fem_gen: "Reformatorki armii" #
+ string_army_organiser_male_gen: "Organizatora armii" #Organizator armii
+ string_army_organiser_fem_gen: "Organizatorki armii" #
+ string_commandant_male_gen: "Komendanta" #Komendant
+ string_commandant_fem_gen: "Komendantki" #
+ string_quartermaster_male_gen: "Kwatermistrza" #Kwatermistrz
+ string_quartermaster_fem_gen: "Kwatermistrzyni" #
+ string_recruitmaster_male_gen: "Werbownika" #Werbownik
+ string_recruitmaster_fem_gen: "Werbowniczki" #
+ string_fortification_expert_male_gen: "Fortyfikatora" #Fortyfikator
+ string_fortification_expert_fem_gen: "Fortyfikatorki" #
+ string_grand_captain_male_gen: "Wielkiego kapitana" #Wielki kapitan
+ string_grand_captain_fem_gen: "Wielkiej kapitanki" #
  ## Manufaktury dopełniacz
  string_building_wharf_gen: "Wytwórni wyposażenia okrętowego" #Wytwórnia wyposażenia okrętowego
  string_building_weapons_gen: "Wytwórni broni" #Wytwórnia broni
@@ -697,6 +743,11 @@
  string_building_farm_estate_gen: "Folwarku" #Folwark
  string_building_mills_gen: "Młynu" #Młyn
  string_building_furnace_gen: "Pieca" #Piec
+ ## ka/-
+ string_female_ka: "ka"
+ ## jej/jemu
+ string_her_dat: "jej"
+ string_his_dat: "jemu"
  ##odmiana nowy dla manufaktur
  string_new_fem: "nowej"
  string_new_male: "nowego"
@@ -791,3 +842,6 @@
  string_glass_gen: "szkła" #Szkło
  string_chinaware_gen: "towarów orientalnych" #Towary orientalne
  string_coal_gen: "węgla" #Węgiel
+ ## GetRulerTitleOrRegencyGen
+ string_rule_title_gen: "[This.GetRulerGen]"
+ string_regency_council_gen: "Rady regencyjnej" #Rada regencyjna
