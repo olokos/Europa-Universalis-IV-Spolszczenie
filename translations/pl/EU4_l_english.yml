@@ -3357,7 +3357,7 @@
  SIEGE_MORALE_DESC: "Poziom morale w oblężeniach jest ustalany na podstawie wartości piechoty każdej armii."
  TERRAIN_AMOUNT_IN_PROVINCE: "§G$VAL$%§! prowincji $PROVINCE$ to $TERRAIN$"
  AGGRESSIVE_EXPANSION_PENALTY_DESC: "Daje karę z tytułu §Yagresywnej ekspansji§! do stosunków z państwami zainteresowanymi prowincją: §Y'$PROV$'§!"
- AGGRESSIVE_EXPANSION_PENALTY_DIFFICULTY: "Ustawienie trudności AI"
+ AGGRESSIVE_EXPANSION_PENALTY_DIFFICULTY: "Ustawienie trudności SI"
  AGGRESSIVE_EXPANSION_VASSAL: "Poddany"
  AGGRESSIVE_EXPANSION_SPY_NETWORK: "Siatka szpiegowska"
  AGGRESSIVE_EXPANSION_NOMAD: "Zdobywca to orda"
