@@ -582,7 +582,7 @@ source_file = translations/en/subject_type_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.translations-en-subscription-l-english-yml--master]
+[Community-edition.subscription_l_englishyml]
 file_filter = translations/<lang>/subscription_l_english.yml
 minimum_perc = 0
 source_file = translations/en/subscription_l_english.yml
@@ -673,7 +673,7 @@ source_file = translations/en/womeninhistory_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.translations-en-missing-correct-english-tut-hint-yml--master]
+[Community-edition.missing_correct_english_tut_hintyml]
 file_filter = translations/<lang>/missing_correct_english_tut_hint.yml
 minimum_perc = 0
 source_file = translations/en/missing_correct_english_tut_hint.yml
@@ -733,5 +733,12 @@ type = YAML_GENERIC
 file_filter = translations/<lang>/sprite_packs_l_english.yml
 minimum_perc = 0
 source_file = translations/en/sprite_packs_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[Community-edition.gecko_1_30_6_l_englishyml]
+file_filter = translations/<lang>/gecko_1_30_6_l_english.yml
+minimum_perc = 0
+source_file = translations/en/gecko_1_30_6_l_english.yml
 source_lang = en
 type = YAML_GENERIC
