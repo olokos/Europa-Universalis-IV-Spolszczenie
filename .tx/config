@@ -1,742 +1,742 @@
 [main]
 host = https://www.transifex.com
 
-[Community-edition.1283-l-english-yml--master]
+[Community-edition.1283-l-english-yml]
 file_filter = translations/<lang>/1283_l_english.yml
 minimum_perc = 0
 source_file = translations/en/1283_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.translations-en-achievements-l-english-yml--master]
+[Community-edition.achievements-l-english-yml]
 file_filter = translations/<lang>/achievements_l_english.yml
 minimum_perc = 0
 source_file = translations/en/achievements_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.achievement-tooltips-l-english-yml--master]
+[Community-edition.achievement-tooltips-l-english-yml]
 file_filter = translations/<lang>/achievement_tooltips_l_english.yml
 minimum_perc = 0
 source_file = translations/en/achievement_tooltips_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.aow-l-english-yml--master]
+[Community-edition.aow-l-english-yml]
 file_filter = translations/<lang>/aow_l_english.yml
 minimum_perc = 0
 source_file = translations/en/aow_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.areas_regions_l_englishyml_1]
+[Community-edition.areas-regions-l-english-yml]
 file_filter = translations/<lang>/areas_regions_l_english.yml
 minimum_perc = 0
 source_file = translations/en/areas_regions_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.common-sense-l-english-yml--master]
+[Community-edition.common-sense-l-english-yml]
 file_filter = translations/<lang>/common_sense_l_english.yml
 minimum_perc = 0
 source_file = translations/en/common_sense_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.conquest-of-constantinople-l-english-yml--master]
+[Community-edition.conquest-of-constantinople-l-english-yml]
 file_filter = translations/<lang>/conquest_of_constantinople_l_english.yml
 minimum_perc = 0
 source_file = translations/en/conquest_of_constantinople_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.core-l-english-yml--master]
+[Community-edition.core-l-english-yml]
 file_filter = translations/<lang>/core_l_english.yml
 minimum_perc = 0
 source_file = translations/en/core_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.cossacks-l-english-yml--master]
+[Community-edition.cossacks-l-english-yml]
 file_filter = translations/<lang>/cossacks_l_english.yml
 minimum_perc = 0
 source_file = translations/en/cossacks_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.countries-l-english-yml--master]
+[Community-edition.countries-l-english-yml]
 file_filter = translations/<lang>/countries_l_english.yml
 minimum_perc = 0
 source_file = translations/en/countries_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.cradle-of-civilization-l-english-yml--master]
+[Community-edition.cradle-of-civilization-l-english-yml]
 file_filter = translations/<lang>/cradle_of_civilization_l_english.yml
 minimum_perc = 0
 source_file = translations/en/cradle_of_civilization_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.cultures-phase4-l-english-yml--master]
+[Community-edition.cultures-phase4-l-english-yml]
 file_filter = translations/<lang>/cultures_phase4_l_english.yml
 minimum_perc = 0
 source_file = translations/en/cultures_phase4_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.custom-localisation-l-english-yml--master]
+[Community-edition.custom-localisation-l-english-yml]
 file_filter = translations/<lang>/custom_localisation_l_english.yml
 minimum_perc = 0
 source_file = translations/en/custom_localisation_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.decisions-l-english-yml--master]
+[Community-edition.decisions-l-english-yml]
 file_filter = translations/<lang>/decisions_l_english.yml
 minimum_perc = 0
 source_file = translations/en/decisions_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.dharma-l-english-yml--master]
+[Community-edition.dharma-l-english-yml]
 file_filter = translations/<lang>/dharma_l_english.yml
 minimum_perc = 0
 source_file = translations/en/dharma_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.diplomacy-l-english-yml--master]
+[Community-edition.diplomacy-l-english-yml]
 file_filter = translations/<lang>/diplomacy_l_english.yml
 minimum_perc = 0
 source_file = translations/en/diplomacy_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.diplomatic-action-l-english-yml--master]
+[Community-edition.diplomatic-action-l-english-yml]
 file_filter = translations/<lang>/diplomatic_action_l_english.yml
 minimum_perc = 0
 source_file = translations/en/diplomatic_action_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.diplo-reasons-l-english-yml--master]
+[Community-edition.diplo-reasons-l-english-yml]
 file_filter = translations/<lang>/diplo_reasons_l_english.yml
 minimum_perc = 0
 source_file = translations/en/diplo_reasons_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.eldorado-l-english-yml--master]
+[Community-edition.eldorado-l-english-yml]
 file_filter = translations/<lang>/eldorado_l_english.yml
 minimum_perc = 0
 source_file = translations/en/eldorado_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.translations-en-eu4-l-english-yml--master]
+[Community-edition.eu4-l-english-yml]
 file_filter = translations/<lang>/EU4_l_english.yml
 minimum_perc = 0
 source_file = translations/en/EU4_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.europa-universalis-iv-sabaton-soundtrack-l-english-yml--master]
+[Community-edition.europa-universalis-iv-sabaton-soundtrack-l-english-yml]
 file_filter = translations/<lang>/europa_universalis_iv_sabaton_soundtrack_l_english.yml
 minimum_perc = 0
 source_file = translations/en/europa_universalis_iv_sabaton_soundtrack_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.translations-en-flavor-events-l-english-yml--master]
+[Community-edition.flavor-events-l-english-yml]
 file_filter = translations/<lang>/flavor_events_l_english.yml
 minimum_perc = 0
 source_file = translations/en/flavor_events_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.fredmansepistles-l-english-yml--master]
+[Community-edition.fredmansepistles-l-english-yml]
 file_filter = translations/<lang>/fredmansepistles_l_english.yml
 minimum_perc = 0
 source_file = translations/en/fredmansepistles_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.fredmansmidsummerepistles-l-english-yml--master]
+[Community-edition.fredmansmidsummerepistles-l-english-yml]
 file_filter = translations/<lang>/fredmansmidsummerepistles_l_english.yml
 minimum_perc = 0
 source_file = translations/en/fredmansmidsummerepistles_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.generic-events-l-english-yml--master]
+[Community-edition.generic-events-l-english-yml]
 file_filter = translations/<lang>/generic_events_l_english.yml
 minimum_perc = 0
 source_file = translations/en/generic_events_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.translations-en-golden-century-l-english-yml--master]
+[Community-edition.golden-century-l-english-yml]
 file_filter = translations/<lang>/golden_century_l_english.yml
 minimum_perc = 0
 source_file = translations/en/golden_century_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.government-l-english-yml--master]
+[Community-edition.government-l-english-yml]
 file_filter = translations/<lang>/government_l_english.yml
 minimum_perc = 0
 source_file = translations/en/government_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.government-names-l-english-yml--master]
+[Community-edition.government-names-l-english-yml]
 file_filter = translations/<lang>/government_names_l_english.yml
 minimum_perc = 0
 source_file = translations/en/government_names_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.hinduism-l-english-yml--master]
+[Community-edition.hinduism-l-english-yml]
 file_filter = translations/<lang>/hinduism_l_english.yml
 minimum_perc = 0
 source_file = translations/en/hinduism_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.hints-l-english-yml--master]
+[Community-edition.hints-l-english-yml]
 file_filter = translations/<lang>/hints_l_english.yml
 minimum_perc = 0
 source_file = translations/en/hints_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.institutions-l-english-yml--master]
+[Community-edition.institutions-l-english-yml]
 file_filter = translations/<lang>/institutions_l_english.yml
 minimum_perc = 0
 source_file = translations/en/institutions_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.insults-l-english-yml--master]
+[Community-edition.insults-l-english-yml]
 file_filter = translations/<lang>/insults_l_english.yml
 minimum_perc = 0
 source_file = translations/en/insults_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.kairismusicp2-l-english-yml--master]
+[Community-edition.kairismusicp2-l-english-yml]
 file_filter = translations/<lang>/kairismusicp2_l_english.yml
 minimum_perc = 0
 source_file = translations/en/kairismusicp2_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.kairismusic-l-english-yml--master]
+[Community-edition.kairismusic-l-english-yml]
 file_filter = translations/<lang>/kairismusic_l_english.yml
 minimum_perc = 0
 source_file = translations/en/kairismusic_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.languages-yml--master]
+[Community-edition.languages-yml]
 file_filter = translations/<lang>/languages.yml
 minimum_perc = 0
 source_file = translations/en/languages.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.ledger-l-english-yml--master]
+[Community-edition.ledger-l-english-yml]
 file_filter = translations/<lang>/ledger_l_english.yml
 minimum_perc = 0
 source_file = translations/en/ledger_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.loadingtips-l-english-yml--master]
+[Community-edition.loadingtips-l-english-yml]
 file_filter = translations/<lang>/loadingtips_l_english.yml
 minimum_perc = 0
 source_file = translations/en/loadingtips_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.maghreb-formations-l-english-yml--master]
+[Community-edition.maghreb-formations-l-english-yml]
 file_filter = translations/<lang>/maghreb_formations_l_english.yml
 minimum_perc = 0
 source_file = translations/en/maghreb_formations_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.translations-en-manchu-l-english-yml--master]
+[Community-edition.manchu-l-english-yml]
 file_filter = translations/<lang>/manchu_l_english.yml
 minimum_perc = 0
 source_file = translations/en/manchu_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.mandate-of-heaven-l-english-yml--master]
+[Community-edition.mandate-of-heaven-l-english-yml]
 file_filter = translations/<lang>/mandate_of_heaven_l_english.yml
 minimum_perc = 0
 source_file = translations/en/mandate_of_heaven_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.translations-en-mare-nostrum-l-english-yml--master]
+[Community-edition.mare-nostrum-l-english-yml]
 file_filter = translations/<lang>/mare_nostrum_l_english.yml
 minimum_perc = 0
 source_file = translations/en/mare_nostrum_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.mercantilism-l-english-yml--master]
+[Community-edition.mercantilism-l-english-yml]
 file_filter = translations/<lang>/mercantilism_l_english.yml
 minimum_perc = 0
 source_file = translations/en/mercantilism_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.translations-en-messages-l-english-yml--master]
+[Community-edition.messages-l-english-yml]
 file_filter = translations/<lang>/messages_l_english.yml
 minimum_perc = 0
 source_file = translations/en/messages_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.missions-l-english-yml--master]
+[Community-edition.missions-l-english-yml]
 file_filter = translations/<lang>/missions_l_english.yml
 minimum_perc = 0
 source_file = translations/en/missions_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.modifers-l-english-yml--master]
+[Community-edition.modifers-l-english-yml]
 file_filter = translations/<lang>/modifers_l_english.yml
 minimum_perc = 0
 source_file = translations/en/modifers_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.mughal-government-l-english-yml--master]
+[Community-edition.mughal-government-l-english-yml]
 file_filter = translations/<lang>/mughal_government_l_english.yml
 minimum_perc = 0
 source_file = translations/en/mughal_government_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.musicplayer-l-english-yml--master]
+[Community-edition.musicplayer-l-english-yml]
 file_filter = translations/<lang>/musicplayer_l_english.yml
 minimum_perc = 0
 source_file = translations/en/musicplayer_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.muslim-dlc-l-english-yml--master]
+[Community-edition.muslim-dlc-l-english-yml]
 file_filter = translations/<lang>/muslim_dlc_l_english.yml
 minimum_perc = 0
 source_file = translations/en/muslim_dlc_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.native-flavor-events-l-english-yml--master]
+[Community-edition.native-flavor-events-l-english-yml]
 file_filter = translations/<lang>/native_flavor_events_l_english.yml
 minimum_perc = 0
 source_file = translations/en/native_flavor_events_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.new-missions-l-english-yml--master]
+[Community-edition.new-missions-l-english-yml]
 file_filter = translations/<lang>/new_missions_l_english.yml
 minimum_perc = 0
 source_file = translations/en/new_missions_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.notlocalized-l-english-yml--master]
+[Community-edition.notlocalized-l-english-yml]
 file_filter = translations/<lang>/notlocalized_l_english.yml
 minimum_perc = 0
 source_file = translations/en/notlocalized_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.nudge-l-english-yml--master]
+[Community-edition.nudge-l-english-yml]
 file_filter = translations/<lang>/nudge_l_english.yml
 minimum_perc = 0
 source_file = translations/en/nudge_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.nw2-l-english-yml--master]
+[Community-edition.nw2-l-english-yml]
 file_filter = translations/<lang>/nw2_l_english.yml
 minimum_perc = 0
 source_file = translations/en/nw2_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.nw-l-english-yml--master]
+[Community-edition.nw-l-english-yml]
 file_filter = translations/<lang>/nw_l_english.yml
 minimum_perc = 0
 source_file = translations/en/nw_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.opinions-l-english-yml--master]
+[Community-edition.opinions-l-english-yml]
 file_filter = translations/<lang>/opinions_l_english.yml
 minimum_perc = 0
 source_file = translations/en/opinions_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.ottoman-tunes-l-english-yml--master]
+[Community-edition.ottoman-tunes-l-english-yml]
 file_filter = translations/<lang>/ottoman_tunes_l_english.yml
 minimum_perc = 0
 source_file = translations/en/ottoman_tunes_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.personalityoptions-l-english-yml--master]
+[Community-edition.personalityoptions-l-english-yml]
 file_filter = translations/<lang>/personalityoptions_l_english.yml
 minimum_perc = 0
 source_file = translations/en/personalityoptions_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.policies-l-english-yml--master]
+[Community-edition.policies-l-english-yml]
 file_filter = translations/<lang>/policies_l_english.yml
 minimum_perc = 0
 source_file = translations/en/policies_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.popserror-l-english-yml--master]
+[Community-edition.popserror-l-english-yml]
 file_filter = translations/<lang>/popserror_l_english.yml
 minimum_perc = 0
 source_file = translations/en/popserror_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.translations-en-powers-and-ideas-l-english-yml--master]
+[Community-edition.powers-and-ideas-l-english-yml]
 file_filter = translations/<lang>/powers_and_ideas_l_english.yml
 minimum_perc = 0
 source_file = translations/en/powers_and_ideas_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.privateers-l-english-yml--master]
+[Community-edition.privateers-l-english-yml]
 file_filter = translations/<lang>/privateers_l_english.yml
 minimum_perc = 0
 source_file = translations/en/privateers_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.prov-names-adj-l-english-yml--master]
+[Community-edition.prov-names-adj-l-english-yml]
 file_filter = translations/<lang>/prov_names_adj_l_english.yml
 minimum_perc = 0
 source_file = translations/en/prov_names_adj_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.prov-names-l-english-yml--master]
+[Community-edition.prov-names-l-english-yml]
 file_filter = translations/<lang>/prov_names_l_english.yml
 minimum_perc = 0
 source_file = translations/en/prov_names_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.purple-phoenix-l-english-yml--master]
+[Community-edition.purple-phoenix-l-english-yml]
 file_filter = translations/<lang>/Purple_Phoenix_l_english.yml
 minimum_perc = 0
 source_file = translations/en/Purple_Phoenix_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.random-new-world-l-english-yml--master]
+[Community-edition.random-new-world-l-english-yml]
 file_filter = translations/<lang>/random_new_world_l_english.yml
 minimum_perc = 0
 source_file = translations/en/random_new_world_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.translations-en-red-queen-text-l-english-yml--master]
+[Community-edition.red-queen-text-l-english-yml]
 file_filter = translations/<lang>/red_queen_text_l_english.yml
 minimum_perc = 0
 source_file = translations/en/red_queen_text_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.regions-phase4-l-english-yml--master]
+[Community-edition.regions-phase4-l-english-yml]
 file_filter = translations/<lang>/regions_phase4_l_english.yml
 minimum_perc = 0
 source_file = translations/en/regions_phase4_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.religion-l-english-yml--master]
+[Community-edition.religion-l-english-yml]
 file_filter = translations/<lang>/religion_l_english.yml
 minimum_perc = 0
 source_file = translations/en/religion_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.republicanmusic-l-english-yml--master]
+[Community-edition.republicanmusic-l-english-yml]
 file_filter = translations/<lang>/republicanmusic_l_english.yml
 minimum_perc = 0
 source_file = translations/en/republicanmusic_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.res-publica-l-english-yml--master]
+[Community-edition.res-publica-l-english-yml]
 file_filter = translations/<lang>/res_publica_l_english.yml
 minimum_perc = 0
 source_file = translations/en/res_publica_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.richpresence-l-english-yml--master]
+[Community-edition.richpresence-l-english-yml]
 file_filter = translations/<lang>/richpresence_l_english.yml
 minimum_perc = 0
 source_file = translations/en/richpresence_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.rights-of-man-l-english-yml--master]
+[Community-edition.rights-of-man-l-english-yml]
 file_filter = translations/<lang>/rights_of_man_l_english.yml
 minimum_perc = 0
 source_file = translations/en/rights_of_man_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.rule-britannia-l-english-yml--master]
+[Community-edition.rule-britannia-l-english-yml]
 file_filter = translations/<lang>/rule_britannia_l_english.yml
 minimum_perc = 0
 source_file = translations/en/rule_britannia_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.rus-awaken-l-english-yml--master]
+[Community-edition.rus-awaken-l-english-yml]
 file_filter = translations/<lang>/rus_awaken_l_english.yml
 minimum_perc = 0
 source_file = translations/en/rus_awaken_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.sikh-l-english-yml--master]
+[Community-edition.sikh-l-english-yml]
 file_filter = translations/<lang>/sikh_l_english.yml
 minimum_perc = 0
 source_file = translations/en/sikh_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.translations-en-social-l-english-yml--master]
+[Community-edition.social-l-english-yml]
 file_filter = translations/<lang>/social_l_english.yml
 minimum_perc = 0
 source_file = translations/en/social_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.songsofregency-l-english-yml--master]
+[Community-edition.songsofregency-l-english-yml]
 file_filter = translations/<lang>/songsofregency_l_english.yml
 minimum_perc = 0
 source_file = translations/en/songsofregency_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.songs-of-exploration-l-english-yml--master]
+[Community-edition.songs-of-exploration-l-english-yml]
 file_filter = translations/<lang>/songs_of_exploration_l_english.yml
 minimum_perc = 0
 source_file = translations/en/songs_of_exploration_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.songs-of-the-new-world-l-english-yml--master]
+[Community-edition.songs-of-the-new-world-l-english-yml]
 file_filter = translations/<lang>/songs_of_the_new_world_l_english.yml
 minimum_perc = 0
 source_file = translations/en/songs_of_the_new_world_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.songs-of-war-l-english-yml--master]
+[Community-edition.songs-of-war-l-english-yml]
 file_filter = translations/<lang>/songs_of_war_l_english.yml
 minimum_perc = 0
 source_file = translations/en/songs_of_war_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.songs-of-yuletide-l-english-yml--master]
+[Community-edition.songs-of-yuletide-l-english-yml]
 file_filter = translations/<lang>/songs_of_yuletide_l_english.yml
 minimum_perc = 0
 source_file = translations/en/songs_of_yuletide_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.startup-screen-l-english-yml--master]
+[Community-edition.startup-screen-l-english-yml]
 file_filter = translations/<lang>/startup_screen_l_english.yml
 minimum_perc = 0
 source_file = translations/en/startup_screen_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.subject-type-l-english-yml--master]
+[Community-edition.subject-type-l-english-yml]
 file_filter = translations/<lang>/subject_type_l_english.yml
 minimum_perc = 0
 source_file = translations/en/subject_type_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.subscription_l_englishyml]
+[Community-edition.subscription-l-english-yml]
 file_filter = translations/<lang>/subscription_l_english.yml
 minimum_perc = 0
 source_file = translations/en/subscription_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.synthetic-dawn-l-english-yml--master]
+[Community-edition.synthetic-dawn-l-english-yml]
 file_filter = translations/<lang>/synthetic_dawn_l_english.yml
 minimum_perc = 0
 source_file = translations/en/synthetic_dawn_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.tags-phase4-l-english-yml--master]
+[Community-edition.tags-phase4-l-english-yml]
 file_filter = translations/<lang>/tags_phase4_l_english.yml
 minimum_perc = 0
 source_file = translations/en/tags_phase4_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.technology-l-english-yml--master]
+[Community-edition.technology-l-english-yml]
 file_filter = translations/<lang>/technology_l_english.yml
 minimum_perc = 0
 source_file = translations/en/technology_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.terrain-stuff-l-english-yml--master]
+[Community-edition.terrain-stuff-l-english-yml]
 file_filter = translations/<lang>/terrain_stuff_l_english.yml
 minimum_perc = 0
 source_file = translations/en/terrain_stuff_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.text-l-english-yml--master]
+[Community-edition.text-l-english-yml]
 file_filter = translations/<lang>/text_l_english.yml
 minimum_perc = 0
 source_file = translations/en/text_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.text-l-english-0-815-yml--master]
+[Community-edition.text-l-english-0-815-yml]
 file_filter = translations/<lang>/text_l_english_0_815.yml
 minimum_perc = 0
 source_file = translations/en/text_l_english_0_815.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.third-rome-l-english-yml--master]
+[Community-edition.third-rome-l-english-yml]
 file_filter = translations/<lang>/third_rome_l_english.yml
 minimum_perc = 0
 source_file = translations/en/third_rome_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.tradenodes-l-english-yml--master]
+[Community-edition.tradenodes-l-english-yml]
 file_filter = translations/<lang>/tradenodes_l_english.yml
 minimum_perc = 0
 source_file = translations/en/tradenodes_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.translations-en-triggers-and-effects-l-english-yml--master]
+[Community-edition.triggers-and-effects-l-english-yml]
 file_filter = translations/<lang>/triggers_and_effects_l_english.yml
 minimum_perc = 0
 source_file = translations/en/triggers_and_effects_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.tutorial-l-english-yml--master]
+[Community-edition.tutorial-l-english-yml]
 file_filter = translations/<lang>/tutorial_l_english.yml
 minimum_perc = 0
 source_file = translations/en/tutorial_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.usa-dlc-l-english-yml--master]
+[Community-edition.usa-dlc-l-english-yml]
 file_filter = translations/<lang>/USA_dlc_l_english.yml
 minimum_perc = 0
 source_file = translations/en/USA_dlc_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.translations-en-womeninhistory-l-english-yml--master]
+[Community-edition.womeninhistory-l-english-yml]
 file_filter = translations/<lang>/womeninhistory_l_english.yml
 minimum_perc = 0
 source_file = translations/en/womeninhistory_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.missing_correct_english_tut_hintyml]
+[Community-edition.missing-correct-english-tut-hint-yml]
 file_filter = translations/<lang>/missing_correct_english_tut_hint.yml
 minimum_perc = 0
 source_file = translations/en/missing_correct_english_tut_hint.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.translations-en-emperor-content-l-english-yml--master]
+[Community-edition.emperor-content-l-english-yml]
 file_filter = translations/<lang>/emperor_content_l_english.yml
 minimum_perc = 0
 source_file = translations/en/emperor_content_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.translations-en-emperor-estates-l-english-yml--master]
+[Community-edition.emperor-estates-l-english-yml]
 file_filter = translations/<lang>/emperor_estates_l_english.yml
 minimum_perc = 0
 source_file = translations/en/emperor_estates_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.translations-en-emperor-l-english-yml--master]
+[Community-edition.emperor-l-english-yml]
 file_filter = translations/<lang>/emperor_l_english.yml
 minimum_perc = 0
 source_file = translations/en/emperor_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.translations-en-emperor-map-l-english-yml--master]
+[Community-edition.emperor-map-l-english-yml]
 file_filter = translations/<lang>/emperor_map_l_english.yml
 minimum_perc = 0
 source_file = translations/en/emperor_map_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.translations-en-emperor-mercs-l-english-yml--master]
+[Community-edition.emperor-mercs-l-english-yml]
 file_filter = translations/<lang>/emperor_mercs_l_english.yml
 minimum_perc = 0
 source_file = translations/en/emperor_mercs_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.translations-en-emperor-missions-l-english-yml--master]
+[Community-edition.emperor-missions-l-english-yml]
 file_filter = translations/<lang>/emperor_missions_l_english.yml
 minimum_perc = 0
 source_file = translations/en/emperor_missions_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.translations-en-emperor-revolutions-l-english-yml--master]
+[Community-edition.emperor-revolutions-l-english-yml]
 file_filter = translations/<lang>/emperor_revolutions_l_english.yml
 minimum_perc = 0
 source_file = translations/en/emperor_revolutions_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.translations-en-sprite-packs-l-english-yml--master]
+[Community-edition.sprite-packs-l-english-yml]
 file_filter = translations/<lang>/sprite_packs_l_english.yml
 minimum_perc = 0
 source_file = translations/en/sprite_packs_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.gecko_1_30_6_l_englishyml]
+[Community-edition.gecko-1-30-6-l-english-yml]
 file_filter = translations/<lang>/gecko_1_30_6_l_english.yml
 minimum_perc = 0
 source_file = translations/en/gecko_1_30_6_l_english.yml
