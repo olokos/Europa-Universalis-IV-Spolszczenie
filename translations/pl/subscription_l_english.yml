@@ -46,7 +46,7 @@
  SUB_DLC_OWNED: "§YZasubskrybowano§!"
  SUBSCRIPTION: "Subskrypcja DLC"
  SUBSCRIBE: "Subskrybuj"
- UNSUBSCRIBE: "Wypisz się"
+ UNSUBSCRIBE: "Zrezygnuj z subskrypcji"
  SUBSCRIPTION_ERROR_MSG_TITLE: "Błąd subskrypcji"
  SUBSCRIPTION_ERROR_UNABLE_TO_SEND: "Nie można wysłać."
  SUBSCRIPTION_ERROR_OFFLINE: "Nie ustanowiono połączenia z serwerem. Sprawdź połączenie internetowe i spróbuj ponownie później."
