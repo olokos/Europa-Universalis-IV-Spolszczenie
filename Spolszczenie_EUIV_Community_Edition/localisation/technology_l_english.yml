@@ -17,7 +17,7 @@
  mil_tech_short:0 "Tech. woj."
  adm_tech_short:0 "Tech. adm."
  dip_tech_short:0 "Tech. dyp."
- TACCEPTED_CULTURES:0 "Max. kultur promowanych"
+ TACCEPTED_CULTURES:0 "Maks. kultur promowanych"
  COLONIAL_GROWTH_INCREASE:0 "Przyrost osadników zwi²kszony o §G+$VALUE$§W.\n"
  NAVAL_MAINTENANCE_INCREASE:0 "Utrzymanie floty zwi²kszone o §R+$VALUE$%§W.\n"
  INF_FIRE_INCREASE:0 "Ostrza³ piechoty: §G+$VALUE$§W\n"
