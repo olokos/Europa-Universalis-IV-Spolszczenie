@@ -178,6 +178,8 @@
  custom_meritocracy_desc: ""
  custom_monarch_admin_power: ""
  custom_monarch_admin_power_desc: ""
+ custom_governing_capacity_modifier: ""
+ custom_governing_capacity_modifier_desc: ""
  custom_max_absolutism: ""
  custom_max_absolutism_desc: ""
  custom_yearly_absolutism: ""

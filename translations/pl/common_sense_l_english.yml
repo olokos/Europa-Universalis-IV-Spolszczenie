@@ -1623,6 +1623,7 @@
  MP_DISABLED_NO_PDX_LOGIN: "Zaloguj się na swoje konto Paradox, aby uzyskać dostęp do funkcji gry wieloosobowej."
  LOGOUT_PDX: ""
  LOGIN_PDX: "Obecnie nie jesteś zalogowany. Kliknij tutaj, aby zalogować się na swoje konto Paradox."
+ LOGIN_PDX_PENDING: ""
  ACHIEVEMENTS_CAN_BE_EARNED: "Podczas tej sesji §GMOŻNA§! zdobywać osiągnięcia."
  ACHIEVEMENTS_CANNOT_BE_EARNED: "Podczas tej sesji §RNIE MOŻNA§! zdobywać osiągnięć."
  FORTS_ACTIVE: "$X$ fortów aktywnych"

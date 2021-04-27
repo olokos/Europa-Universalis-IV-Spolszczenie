@@ -323,7 +323,7 @@
  CAN_NOT_ESTABLISH_ORDER:0 "Nie mo¿na ustanowi¾ zakonu œwi²tego w prowincji $LOCATION|Y$."
  MODIFIER_CENTER_OF_TRADE_UPGRADE_COST:0 "Koszt ulepszenia oœrodka handlowego"
  MODIFIER_MISSIONARY_MAINTENANCE_COST:0 "Koszt utrzymania misjonarza"
- MODIFIER_NAVAL_TRADITION_FROM_TRADE:0 "Tradycja morska z ochrony handlu"
+ MODIFIER_NAVAL_TRADITION_FROM_TRADE:0 "Navy Tradition from Protecting Trade"
  MODIFIER_ADMIRAL_COST:0 "Koszt admira³a"
  MODIFIER_EXPEL_MINORITIES_COST:0 "Koszt wydalenia mniejszoœci"
  IDEA_MAY_FABRICATE_FOR_VASSALS:0 "Mo¿na fabrykowa¾ roszczenia dla wasali"

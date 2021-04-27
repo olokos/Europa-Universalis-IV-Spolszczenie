@@ -4,6 +4,7 @@
  POPS_dynamodb-failure: "Nie udało się połączyć"
  POPS_ua: "Nie nadaje się"
  POPS_not-authorized: "Email i hasło które podałeś nie są zgodne"
+ POPS_UNEXPECTED_ERROR: ""
  POPS_bad-password-length: "Hasło jest za krótkie"
  POPS_missing-required-account-details-keys: "Brakuje wymaganych informacji"
  POPS_invalid-country-code: "Kod kraju jest nieprawidłowy"
