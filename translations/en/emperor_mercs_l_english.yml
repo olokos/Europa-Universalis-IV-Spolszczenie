@@ -24,7 +24,7 @@
  MERCENARY_COMPANY_MANPOWER_DELAYED: "Mercenary companies draw from their own manpower pool to reinforce. The amount of manpower available will grow very slowly while they are hired and recovers much faster while not on the field."
  MERCENARY_COMPANY_EFFECTS: "From the $COMPANY|Y$ traditions:\n"
  REINFORCE_MERCENARY_COMPANY_EXTRA: " and $VALUE$ from the $COMPANY|Y$"
- MERC_COMP_MANPOWER_BASE: "The Maximum Manpower of $MP|Y$ ise due to $VAL|Y$ original regiments."
+ MERC_COMP_MANPOWER_BASE: "The Maximum Manpower of $MP|Y$ is due to $VAL|Y$ original regiments."
  MERC_COMP_MANPOWER_CHANGE: " Modified by $VAL|+=2%$ due to:\n$WHY$"
  BUILD_UNIT_NOT_MERCENARY_COMPANY: "Mercenary companies cannot recruit more units."
  alert_mercenary_company_low_manpower_instant: "§YMercenary company is low on manpower§!"

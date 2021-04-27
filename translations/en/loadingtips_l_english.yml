@@ -75,7 +75,7 @@
  LOADING_TIP_73: "Reducing naval maintenance reduces Trade Power from ships. If you have a lot of light ships, you will lose income by lowering maintenance."
  LOADING_TIP_74: "War Exhaustion only goes away slowly while at peace and not at all while at war."
  LOADING_TIP_75: "Keep an eye out for coalitions. Stumbling into a war with most of your neighbors can be dangerous."
- LOADING_TIP_76: "You cannot only forge a claim on adjacent provinces, but on all provinces sharing a sea-zone with one of your cores."
+ LOADING_TIP_76: "You can not only forge a claim on adjacent provinces, but also on all provinces sharing a sea-zone with one of your cores."
  LOADING_TIP_77: "Many common actions have hotkeys.\nCheck the tooltips to find out what they are."
  LOADING_TIP_78: "Use Control plus a number key to assign a selected unit to a control group. Hit the number key alone to instantly select the unit in question."
  LOADING_TIP_79: "Manpower recovers slowly. Consider hiring Mercenary Companies to conserve Manpower."

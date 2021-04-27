@@ -178,6 +178,8 @@
  custom_meritocracy_desc: "By holding our examinees to only the highest of standards, we ensure that the greatest of minds are those who assist our administration."
  custom_monarch_admin_power: "Regal Education"
  custom_monarch_admin_power_desc: "Never shall a produce of our dynasty be lacking in education in matters of governance. Education for our soon-to-be monarchs shall be rigorous and omnipresent."
+ custom_governing_capacity_modifier: "Competent Leadership"
+ custom_governing_capacity_modifier_desc: "Some people are just better at leading other people, and thus can lead more people more efficiently."
  custom_max_absolutism: "Supreme Constitution"
  custom_max_absolutism_desc: "With it written into the very soul of our nation that our ruler is the most perfect and supreme person on the Earth, standing above all human laws and having no judge above their person, we can push further with absolute control over our lands."
  custom_yearly_absolutism: "Unquestionable Authority"

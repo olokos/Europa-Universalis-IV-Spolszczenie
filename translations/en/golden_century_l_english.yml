@@ -323,7 +323,7 @@
  CAN_NOT_ESTABLISH_ORDER: "Cannot establish a Holy Order in $LOCATION|Y$."
  MODIFIER_CENTER_OF_TRADE_UPGRADE_COST: "Center of Trade Upgrade Cost"
  MODIFIER_MISSIONARY_MAINTENANCE_COST: "Missionary Maintenance Cost"
- MODIFIER_NAVAL_TRADITION_FROM_TRADE: "Naval Tradition from Protecting Trade"
+ MODIFIER_NAVAL_TRADITION_FROM_TRADE: "Navy Tradition from Protecting Trade"
  MODIFIER_ADMIRAL_COST: "Admiral Cost"
  MODIFIER_EXPEL_MINORITIES_COST: "Expel Minorities Cost"
  IDEA_MAY_FABRICATE_FOR_VASSALS: "May Fabricate Claims for Subjects"

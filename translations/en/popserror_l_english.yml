@@ -4,6 +4,7 @@
  POPS_dynamodb-failure: "Failed to connect"
  POPS_ua: "Not eligible"
  POPS_not-authorized: "The email and password that you entered don't match"
+ POPS_UNEXPECTED_ERROR: "Failed to sign in. Please check your internet conneciton and try again."
  POPS_bad-password-length: "Password is too short"
  POPS_missing-required-account-details-keys: "You are missing required information"
  POPS_invalid-country-code: "Country code is invalid"

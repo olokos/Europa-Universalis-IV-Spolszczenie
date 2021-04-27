@@ -77,7 +77,7 @@
  TRADE_MISSION_OFFICE_DESC: "Allows you to make money by Collecting from Trade. Outside your home node, you can only Collect from Trade as long as your Merchant is present. If the merchant is recalled, the node will only Transfer Trade Power."
  TRADE_MISSION_TRANSIT_DESC: "Any node where you have power that is not your Main Trade City is a transit node. Your power there will let you direct trade and will cause the trade value to move down the chain."
  NON_CAPITAL_OFFICE_2: "Collect from Trade not in your Main Trade City: $VAL$"
- ENVOY_TRADING_TRADE_MISSION_TRANSIT: "$NAME$ is Transferring Trade Power in §Y$PROV$§W."
+ ENVOY_TRADING_TRADE_MISSION_TRANSIT: "$NAME$ is in §Y$FROMPROV$§W Transferring Trade Power to §Y$TOPROV$§W."
  ENVOY_TRADING_TRADE_MISSION_OFFICE: "$NAME$ is Collecting from Trade in §Y$PROV$§W."
  MERCHANT_PRESENT: "Merchant present: §Y$VAL$§W"
  TRADE_POWER_PUSH_DESC: "§Y$VAL$§W% of power is used to draw trade on."
