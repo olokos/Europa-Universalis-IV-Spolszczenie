@@ -415,7 +415,7 @@ guiTypes = {
 				font = "vic_18"
 				borderSize = {x = 4 y = 0}
 				text = ""	
-				maxWidth =132
+				maxWidth = 132
 				maxHeight = 32
 				alwaystransparent = yes
 				format = left
@@ -584,7 +584,7 @@ guiTypes = {
 				borderSize = {x = 4 y = 0}
 				text = ""	
 				maxWidth = 190
-				maxHeight = 32
+				maxHeight = 18
 				alwaystransparent = yes
 				format = right
 				fixedsize = yes
@@ -598,7 +598,7 @@ guiTypes = {
 				borderSize = {x = 4 y = 0}
 				text = ""	
 				maxWidth = 150
-				maxHeight = 32
+				maxHeight = 18
 				alwaystransparent = yes
 				format = left
 				fixedsize = yes

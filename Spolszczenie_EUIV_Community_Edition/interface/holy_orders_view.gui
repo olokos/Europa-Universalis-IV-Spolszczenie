@@ -64,7 +64,7 @@ guiTypes = {
 			name = "icon"
 			position = { x = -3 y = -5 }
 			quadTextureSprite ="GFX_idea_unknown"
-			allwaystransparent = yes
+			alwaystransparent = yes
 		}
 		
 		instantTextBoxType = {

@@ -466,19 +466,19 @@ guiTypes = {
 		{
 			name ="governing_capacity_icon"
 			spriteType = "GFX_governing_capacity"
-			position = { x= 20 y = 278 }
+			position = { x= 32 y = 290 }
 			Orientation = "UPPER_LEFT"
 			scale = 0.75
 		}
 
 		instantTextBoxType = {
 			name = "Governing Capacity_label"
-			position = { x = 58 y = 287 } 
+			position = { x = 56 y = 287 }
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 4 y = 4}
 			text = "GOVERNING_CAPACITY"
-			maxWidth = 140 #130
+			maxWidth = 140
 			maxHeight = 32
 			format = left
 		}
@@ -563,14 +563,14 @@ guiTypes = {
 
 		instantTextBoxType = {
 			name = "sub_title"
-			position = { x = 42 y = 352 } #x = 48 y = 352
+			position = { x = 42 y = 352 }
 			textureFile = ""
 			font = "vic_22"
 			borderSize = {x = 4 y = 2}
 			text = "REBELS_AND_POSSIBLE_REBELS"
-			maxWidth = 230 #200
+			maxWidth = 230
 			maxHeight = 32
-			format = left #centre
+			format = left
 		}
 
 
@@ -859,7 +859,7 @@ guiTypes = {
 				borderSize = {x = 4 y = 4}
 				text = "..."
 				maxWidth = 180
-				maxHeight = 64
+				maxHeight = 32
 				format = left
 				fixedsize = yes
 			}
@@ -910,12 +910,12 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "rebelsize_desc"
-				position = { x = 54 y = 394}
+				position = { x = 56 y = 394}
 				textureFile = ""
 				font = "vic_18"
 				borderSize = {x = 4 y = 4}
 				text = ""
-				maxWidth = 248
+				maxWidth = 246
 				maxHeight = 48
 				format = left
 				fixedsize = yes
@@ -931,12 +931,12 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "onsiegewon_desc"
-				position = { x = 54 y = 438}
+				position = { x = 56 y = 438}
 				textureFile = ""
 				font = "vic_18"
 				borderSize = {x = 4 y = 4}
 				text = ""
-				maxWidth = 248
+				maxWidth = 246
 				maxHeight = 48
 				format = left
 				fixedsize = yes
@@ -1595,7 +1595,7 @@ guiTypes = {
 			maxHeight = 22
 			fixedsize = yes
 			format = centre
-			allwaystransparent = yes
+			alwaystransparent = yes
 		}
 
 	}
@@ -1632,7 +1632,7 @@ guiTypes = {
 			maxHeight = 22
 			fixedsize = yes
 			format = centre
-			allwaystransparent = yes
+			alwaystransparent = yes
 		}
 	}
 
@@ -1668,7 +1668,7 @@ guiTypes = {
 			maxHeight = 22
 			fixedsize = yes
 			format = centre
-			allwaystransparent = yes
+			alwaystransparent = yes
 		}
 	}
 
@@ -1683,7 +1683,7 @@ guiTypes = {
 	horizontalBorder= ""
 	verticalBorder= ""
 	fullScreen = no
-	#allwaystransparent = yes
+	#alwaystransparent = yes
 
 	instantTextBoxType = {
 		name = "demand_text"
@@ -1696,7 +1696,7 @@ guiTypes = {
 		maxHeight = 70
 		format = left
 		fixedsize = yes
-		allwaystransparent = yes
+		alwaystransparent = yes
 	}
 }
 
