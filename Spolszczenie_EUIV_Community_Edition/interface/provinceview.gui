@@ -6773,12 +6773,24 @@ guiTypes = {
 				spriteType = "GFX_edicts_bg_overlay"
 				position = { x = 484 y = -20 }
 			}
-
+			
+			instantTextBoxType = {
+				name = "edicts_list_title"
+				position = { x = 500 y = 0 }
+				textureFile = ""
+				font = "vic_18"
+				borderSize = {x = 2 y = 2}
+				text = ""
+				maxWidth = 380
+				maxHeight = 20
+				format = left
+			}
+			
 			listboxType = {
 				name = "edicts_listbox"
 				backGround = ""
-				position = { x = 500 y = 0 }
-				size = { x = 380 y = 450 }
+				position = { x = 500 y = 20 }
+				size = { x = 380 y = 430 }
 				horizontal = 0
 				scrollbartype = "standardlistbox_slider"
 				borderSize = {x = 0 y = 0}

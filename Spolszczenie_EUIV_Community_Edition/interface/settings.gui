@@ -2303,7 +2303,7 @@ guiTypes = {
 
 				instantTextBoxType = {
 					name = "allow_coop_title"
-					position = { x = 140 y = 205 }
+					position = { x = 140 y = 212 }
 					textureFile = ""
 					font = "vic_18"
 					borderSize = {x = 0 y =0}
@@ -2311,6 +2311,7 @@ guiTypes = {
 					maxWidth = 180
 					maxHeight = 20	
 					format = left
+					vertical_alignment = center
 					Orientation = "UPPER_LEFT"
 				}				
 				

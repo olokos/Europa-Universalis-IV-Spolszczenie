@@ -4963,6 +4963,19 @@ guiTypes = {
 			borderSize = {x = 0 y = 0}
 		}
 
+		instantTextBoxType = {
+			name = "no_rebels_explanation"
+			position = { x = 21 y = 355 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			text = "NO_REBELS_TO_SUPPORT"
+			maxWidth = 500
+			maxHeight = 160
+
+			format = centre
+		}
+		
 		### Military Maintenance
 
 

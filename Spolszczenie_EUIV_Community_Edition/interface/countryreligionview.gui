@@ -356,7 +356,7 @@ guiTypes = {
 
 		instantTextBoxType = {
 			name = "secondary_religion_name"
-			position = { x = 78 y = 156 } #x = 50 y = 156
+			position = { x = 78 y = 156 }
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 4 y = 4}	
@@ -857,7 +857,7 @@ guiTypes = {
 				name ="harmonizing_with_icon"
 				spriteType = "GFX_icon_religion_small"
 				position = { x= 280 y = 265 }
-				allwaystransparent = yes
+				alwaystransparent = yes
 			}
 			
 			iconType = {
@@ -1100,7 +1100,7 @@ guiTypes = {
 				name ="low_piety"
 				spriteType = "GFX_piety_icon_low"
 				position = { x= -8 y = -66 }
-				Orientation = "CENTER_LEFT"
+				Orientation = "UPPER_LEFT"
 			}
 			
 			iconType =
@@ -1108,7 +1108,7 @@ guiTypes = {
 				name ="high_piety"
 				spriteType = "GFX_piety_icon_high"
 				position = { x= 242 y = -66 }
-				Orientation = "CENTER_LEFT"
+				Orientation = "UPPER_LEFT"
 			}
 			
 			iconType =
@@ -1383,10 +1383,172 @@ guiTypes = {
 				Orientation = "LEFT"
 			}
 		}
-		
-		
-		
+
+		################# Sikh Gurus	
+		windowType = {
+			name = "sikh_guru_window"
+			backGround =""
+			position = { x=32 y=260 }	
+			size = { x=280 y=50 }
+			moveable = 0
+			dontRender = ""
+			horizontalBorder = ""
+			Orientation = "UPPER_LEFT"
 			
+		    iconType ={
+			    name ="sikh_bg"
+			    spriteType = "GFX_sikh_bg"
+			    position = { x= 5 y = -28 }
+			    Orientation = "UPPER_LEFT"
+		    }
+
+			windowType = {
+				name = "current_guru"
+				backGround =""
+				position = { x=14 y=-24 }	
+				size = { x=280 y=50 }
+				moveable = 0
+				dontRender = ""
+				horizontalBorder = ""
+				Orientation = "UPPER_LEFT"
+
+				instantTextBoxType = {
+					name = "name"
+					position = { x= 0 y = 0 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = "NO_GURU"	
+					maxWidth = 200
+					maxHeight = 18
+					Orientation = "UPPER_LEFT"
+					format = left
+				}
+				
+				instantTextBoxType = {
+					name = "effect"
+					position = { x = 0 y = 25 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = "NO_EFFECT"	
+					maxWidth = 256
+					maxHeight = 18
+					Orientation = "UPPER_LEFT"
+					format = left
+				}
+			}
+
+			windowType = {
+				name = "next_guru"
+				backGround =""
+				position = { x=14 y=24 }	
+				size = { x=280 y=50 }
+				moveable = 0
+				dontRender = ""
+				horizontalBorder = ""
+				Orientation = "UPPER_LEFT"
+
+				instantTextBoxType = {
+					name = "name"
+					position = { x= 0 y = 0 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = "NO_GURU"	
+					maxWidth = 200
+					maxHeight = 24
+					Orientation = "UPPER_LEFT"
+					format = left
+				}
+				
+				instantTextBoxType = {
+					name = "effect"
+					position = { x = 0 y = 25 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = "NO_EFFECT"	
+					maxWidth = 256
+					maxHeight = 24
+					Orientation = "UPPER_LEFT"
+					format = left
+				}
+			}
+			windowType = {
+				name = "teachings"
+				backGround =""
+				position = { x=250 y=-22 }	
+				size = { x=280 y=50 }
+				moveable = 0
+				dontRender = ""
+				horizontalBorder = ""
+				Orientation = "UPPER_LEFT"
+
+				gridBoxType = {
+					name = "gridbox"
+					position = { x = 0 y = 0 }
+					size = { width = 56 height = 140 }
+					slotsize = { width = 28 height = 28 }
+					max_slots_horizontal = 2
+					max_slots_vertical = 3
+					format = "UPPER_LEFT"
+				}
+			}
+		}
+
+		############## TOTEMISM ANCESTORS ##############
+		windowType = {
+			name = "totemism_ancestor_window"
+			backGround =""
+			position = { x=32 y=260 }
+			size = { x=280 y=50 }
+			moveable = 0
+			dontRender = ""
+			horizontalBorder = ""
+			Orientation = "UPPER_LEFT"
+
+			iconType =
+			{
+				name = "title_scroll"
+				spriteType = "GFX_totemism_ancestors_pick_header_2"
+				position = { x = -15 y = -33 }
+				Orientation = "UPPER_LEFT"
+			}
+
+			instantTextBoxType = {
+				name = "title"
+				position = { x= 30 y = -21 }
+				font = "vic_18"
+				borderSize = {x = 0 y = 0}
+				text = "ANCESTORS"	
+				maxWidth = 100
+				maxHeight = 32
+				Orientation = "UPPER_LEFT"
+				format = centre
+			}
+
+			gridBoxType = {
+				name = "gridbox"
+				position = { x = 20 y = 10 }
+				size = { width = 140 height = 140 }
+				slotsize = { width = 28 height = 28 }
+				max_slots_horizontal = 5
+				max_slots_vertical = 2
+				format = "UPPER_LEFT"
+			}
+		
+			iconType =
+			{
+				name = "whitebg"
+				spriteType = "GFX_totemism_ancestors_icon_white_bg"
+				position = { x = 0 y = 2 }
+				Orientation = "UPPER_LEFT"
+				alwaystransparent = yes
+			}
+		
+		}
+		
+		
+		
+		
+	
 		###Religion specific datafield
 		windowType = {
 			name = "catholic_specific_window"
@@ -1577,7 +1739,7 @@ guiTypes = {
 			}
 		}
 
-		windowType = { # Used when religion can't unlock aspects, only one-time fire them
+		windowType = { # Used when religion cant unlock aspects, only one-time fire them
 			name = "anglican_specific_window"
 			backGround =""
 			position = { x=32 y=300 }	
@@ -1995,7 +2157,7 @@ guiTypes = {
 # Needs txt linking	
 		instantTextBoxType = {
 				name = "defender_title"
-				position = { x = 360 y = 235 }
+				position = { x = 350 y = 235 }
 				textureFile = ""
 				font = "vic_18"
 				borderSize = {x = 4 y = 4}	
@@ -2837,5 +2999,233 @@ guiTypes = {
 			#alwaystransparent = yes
 			#scale = 0.5
 		}
-	}	
+	}
+
+	############## SIKHISM GURU TEACHINGS ##############
+	windowType = {
+		name = "guru_teaching_entry"
+		position = { x = -6 y = 2 }
+		show_position = { x = 0 y = 0 }
+		size = { x = 28 y = 28 }
+		moveable = 0
+
+		guiButtonType = {
+			name = "frame_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite ="GFX_teaching_button"	
+			Orientation = "UPPER_LEFT"
+		}
+
+		guiButtonType = {
+			name = "add_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite ="GFX_teaching_add_button"	
+			Orientation = "UPPER_LEFT"
+		}
+
+		guiButtonType = {
+			name = "button"
+			position = { x = -5 y = -5 }
+			quadTextureSprite ="GFX_potential_teaching_entry_bg"	
+			Orientation = "UPPER_LEFT"
+			scale = 0.6
+		}
+	}
+
+	windowType = {
+		name = "potential_guru_teaching_entry"
+		position = { x = 0 y = 0 }
+		size = { x = 150 y = 55 }
+		moveable = 0
+
+		guiButtonType = {
+			name = "button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite ="GFX_potential_teaching_entry_bg"	
+		}
+
+		instantTextBoxType = {
+			name = "name"
+			position = { x= 18 y = 16 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			text = "TEST"
+			maxWidth = 300
+			maxHeight = 24
+			Orientation = "UPPER_LEFT"
+			format = left
+			alwaystransparent = yes
+		}
+
+		instantTextBoxType = {
+			name = "effect"
+			position = { x= 18 y = 36 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			text = ""
+			maxWidth = 300
+			maxHeight = 24
+			Orientation = "UPPER_LEFT"
+			format = left
+			alwaystransparent = yes
+		}
+	}
+
+	windowType = {
+		name = "guru_new_teachings_list"
+		position = { x = 0 y = 0 }
+		size = { x = 150 y = 220 }
+		moveable = 0
+
+		iconType = {
+			name = "pick_header_bg"
+			spriteType ="GFX_totemism_ancestors_pick_header"
+			position = { x = -25 y = -10 }	
+			Orientation = "UPPER_LEFT"
+		}
+
+		instantTextBoxType = {
+			name = "title"
+			position = { x= 3 y = 4 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			text = "PICK_TEACHING"	
+			maxWidth = 200
+			maxHeight = 24
+			Orientation = "UPPER_LEFT"
+			format = left
+		}
+
+		guiButtonType = {
+			name = "close_button"
+			position = { x = 260 y = -5 }
+			quadTextureSprite ="GFX_button_close"	
+			Orientation = "UPPER_LEFT"
+		}
+
+		listboxType = {
+			name ="list"
+			position = { x=-15 y = 21}
+			backGround=""
+			size = { x=294 y =235}
+			Orientation = "UPPER_LEFT"
+			horizontal = 0
+			spacing = 0
+			scrollbartype = "standardlistbox_slider"
+			borderSize = {x = 1 y = 1}
+		}
+	}
+
+	############## TOTEMISM ANCESTORS ##############
+	windowType = {
+		name = "ancestor_entry"
+		position = { x = -14 y = -3 }
+		show_position = { x = 0 y = 0 }
+		size = { x = 28 y = 28 }
+		moveable = 0
+
+		guiButtonType = {
+			name = "frame_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite ="GFX_totemism_ancestors_icon_bg"	
+			Orientation = "UPPER_LEFT"
+		}
+
+		guiButtonType = {
+			name = "add_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite ="GFX_totemism_ancestors_icon_add"	
+			Orientation = "UPPER_LEFT"
+		}
+
+		iconType = {
+			name = "ancestor"
+			position = { x = 0 y = 0 }
+			spriteType ="GFX_ancestor_nothing"
+		}
+	}
+
+	windowType = {
+		name = "potential_ancestor_entry"
+		position = { x = 0 y = 0 }
+		size = { x = 150 y = 55 }
+		moveable = 0
+
+		guiButtonType = {
+			name = "button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite ="GFX_totemism_ancestors_pick_bg"	
+		}
+
+		instantTextBoxType = {
+			name = "name"
+			position = { x= 18 y = 16 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			text = ""
+			maxWidth = 300
+			maxHeight = 24
+			Orientation = "UPPER_LEFT"
+			format = left
+			alwaystransparent = yes
+		}
+
+		instantTextBoxType = {
+			name = "effect"
+			position = { x= 18 y = 36 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			text = "EFFECT"
+			maxWidth = 300
+			maxHeight = 24
+			Orientation = "UPPER_LEFT"
+			format = left
+			alwaystransparent = yes
+		}
+	}
+
+	windowType = {
+		name = "potential_ancestors_list"
+		position = { x = 0 y = 0 }
+		size = { x = 150 y = 220 }
+		moveable = 0
+		
+		iconType = {
+			name = "pick_header_bg"
+			spriteType ="GFX_totemism_ancestors_pick_header"
+			position = { x = -25 y = -10 }	
+			Orientation = "UPPER_LEFT"
+		}
+
+		instantTextBoxType = {
+			name = "title"
+			position = { x= 3 y = 4 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			text = "PICK_ANCESTOR"	
+			maxWidth = 200
+			maxHeight = 24
+			Orientation = "UPPER_LEFT"
+			format = left
+		}
+
+		guiButtonType = {
+			name = "close_button"
+			position = { x = 260 y = -5 }
+			quadTextureSprite ="GFX_button_close"	
+			Orientation = "UPPER_LEFT"
+		}
+
+		listboxType = {
+			name ="list"
+			position = { x=-15 y = 21}
+			backGround=""
+			size = { x=294 y =235}
+			Orientation = "UPPER_LEFT"
+			horizontal = 0
+			spacing = 0
+			scrollbartype = "standardlistbox_slider"
+			borderSize = {x = 1 y = 1}
+		}
+	}
 }
