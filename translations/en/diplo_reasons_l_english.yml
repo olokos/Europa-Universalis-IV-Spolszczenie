@@ -163,7 +163,7 @@
  DIPLO_IS_CONSOLIDATING: "Have plans on their own: "
  DIPLO_HAS_TRUCE_WITH: "$WHO1$ has a truce with $WHO2$: "
  DIPLO_FEAR_OF_BEING_ANNEXED: "Is being annexed: "
- DIPLO_RESTRICTED_REGION: "Tradecharter Regional Scepticism"
+ DIPLO_RESTRICTED_REGION: "Tradecharter Regional Scepticism: "
  DIPLO_TRADING_CITY: "Is Trading City: "
  DIPLO_SELL_PROVINCE_FREE_CITY: "Would lose §YFree City§! status: "
  DIPLO_SELL_PROVINCE_TRADE_LEAGUE: "Would have to leave a §YTrade League§!: "

@@ -2423,7 +2423,7 @@
  IS_NOT_IN_WAR_TRIGGER_STARTS: "Not in a War"
  dof_refused_join_war: "Dishonorable Defender of the Faith"
  defender_of_faith_refused_cta: "Dishonorable Defender of the Faith"
- COUNTRY_NAME_WILL_CHANGE_IN: "Country name will change to $NAME|Y$"
+ COUNTRY_NAME_WILL_CHANGE_IN: "Country name will change to $NAME|Y$."
  COUNTRY_NAME_WILL_BE_RESTORED: "Country name will be restored to the original value"
  KINGDOM_OF_GOD: "Kingdom of God"
  KINGDOM_OF_GOD_ADJ: "Papal"

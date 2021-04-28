@@ -439,7 +439,7 @@
  REFORM_LEVEL_NEEDS_PREVIOUS_DESC: "You need to enact the previous tiers before selecting any of these."
  CURRENT_REFORM_PROGRESS: "You have $POINTS$ of reform progress: you need $REQPOINTS|Y$ to enact the next reform."
  NEXT_REFORM_EXPECTED: "We expect to reach this $WHEN|Y$."
- REFORM_PROGRESS_DEV: "\n $POINTS|G$ from an average local autonomy of §Y$LOCALAUTONOMY$%§!\nThe formula for calculating this is $BASE|+=0$ per year divided by (12 * (100-§Y$LOCALAUTONOMY$%§!)).\n"
+ REFORM_PROGRESS_DEV: "\n $POINTS|G$ from an average local autonomy of §Y$LOCALAUTONOMY$%§!\nThe formula for calculating this is $BASE|+=0$ per year divided by (12 * (100+§Y$LOCALAUTONOMY$%§!)).\n"
  REFORM_PROGRESS_BUILDINGS: "\n $POINTS|G$ from Buildings"
  REFORM_PROGRESS_MODIFIER_DESC: "You gain $POINTS|Y$ every month due to:$FROM_AUTONOMY$$FROM_BUILDINGS$$FROM_MONTHLY$\n"
  REFORM_INCREASED_COST: "Each tier of Reforms will increase the cost by §Y50§!"

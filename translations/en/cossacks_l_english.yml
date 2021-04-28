@@ -208,7 +208,7 @@
  THREATENED_ATTITUDE_DESC: "Setting your attitude to §YThreatened§! shows that you fear §Y$COUNTRY$§!. They will view this as a sign that you are willing to ally them for safety, but also that you are seeking other powerful allies to protect you against them."
  TRUST_DESC: "§YTrust§! is a measure of the strength of any alliance we have with §Y$COUNTRY$§!. It decreases if we break promises or otherwise act dishonorably towards them. It can be increased by spending Favors. Trust will also increase with time as long as you are allied or one is the subject of the other."
  FAVORS_INSTANT: "§Y$COUNTRY$§! owes us §Y$NUM|2$§! Favor(s)."
- FAVORS_GAIN_TOOLTIP: "We gains $VAL|+=2$ favor(s) each month due to:\n$WHY$"
+ FAVORS_GAIN_TOOLTIP: "We gain $VAL|+=2$ favor(s) each month due to:\n$WHY$"
  FAVOR_ALLIANCE_TT: "Allied: Relative Strength: $VAL|+=2$"
  FAVOR_ALLIANCE_BLOCKED_TT: "Refused Offensive Wars: $VAL|+=2$"
  FAVOR_CURRY_FAVORS_REP_TT: "Currying Favors (Diplomatic Reputation): $VAL|+=2$"

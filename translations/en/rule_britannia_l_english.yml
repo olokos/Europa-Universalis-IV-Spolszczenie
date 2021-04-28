@@ -445,7 +445,7 @@
  INNOVATIVENESS_AMOUNT: "We currently have achieved $AMOUNT|Y$ innovativeness."
  INNOVATIVENESS_CHANGE_DESC: "Our innovativeness is being modified by the following:\n"
  INNOVATIVENESS_FULL_MOD_DESC: "\nEffect of Innovativeness at §Y100§!:\n$MOD$"
- INNOVATIVENESS_DESC: "Innovativeness can be increased by:\nFirst in Technology: §G+2§!\nFirst in Idea: §G+1§!\nAhead of Time: §G+0.005§!/month\n\nInnovativeness can be decreased by:\nBehind Neighbors: §R-0.03§!/month\n"
+ INNOVATIVENESS_DESC: "Innovativeness can be increased by:\nFirst in Technology: $FIRSTINTECH|G$\nFirst in Idea: $FIRSTINIDEA|G$\nAhead of Time: $AHEADOFTIME|G$/month\n\nInnovativeness can be decreased by:\nBehind Neighbors: $BEHINDNEIGHBOURS|R$/month\n"
  INNOVATIVENESS_MOD_DESC: "\nEffect of our current Innovativeness:\n$MOD$"
  TECH_INNOVATIVENESS_DATE: "\nThe technology level $TECH|Y$ was reached first at $DATE|Y$."
  TECH_INNOVATIVENESS_DAYS_LEFT: " It's available for $DAYS|Y$ more days."

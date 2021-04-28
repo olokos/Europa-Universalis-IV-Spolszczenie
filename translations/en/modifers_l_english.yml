@@ -2092,7 +2092,7 @@
  MODIFIER_POWER_PROJECTION_FROM_INSULTS: "Power Projection from Insults"
  MODIFIER_LOCAL_RELIGIOUS_UNITY_CONTRIBUTION: "Local Religious Unity Contribution"
  IDEA_MAY_CONVERT_TERRITORIES: "May convert religion in territories."
- territory_core: "Territory"
+ territory_core: "Territorial Core"
  territory_non_core: "Territory"
  territory: "Territory"
  mor_saharan_trade: "Saharan Trade"

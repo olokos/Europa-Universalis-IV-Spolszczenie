@@ -2645,7 +2645,7 @@
  VASALLACCEPT_3: "accepted"
  VASALLACCEPT_4: "the once in a lifetime opportunity to become our"
  VASALLACCEPT_5: "Vassals"
- VASALLACCEPT_6: "We now get half of their monthly tax incomes."
+ VASALLACCEPT_6: "We will now receive a portion of their tax incomes."
  VASALLACCEPT_LOG: "$RECIPIENT$ are now our Vassals."
  VASALLACCEPT_BTN1: "Great!"
  VASALLACCEPT_BTN2: "Great!"
