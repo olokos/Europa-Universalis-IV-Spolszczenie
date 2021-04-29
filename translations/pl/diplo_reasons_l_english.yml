@@ -163,7 +163,7 @@
  DIPLO_IS_CONSOLIDATING: "Ma swoje własne plany:"
  DIPLO_HAS_TRUCE_WITH: "$WHO1$ ma rozejm z państwem $WHO2$:"
  DIPLO_FEAR_OF_BEING_ANNEXED: "Jest przedmiotem aneksji:"
- DIPLO_RESTRICTED_REGION: "Regionalna nieufność względem handlu czarterowego"
+ DIPLO_RESTRICTED_REGION: "Regionalna nieufność względem handlu czarterowego:"
  DIPLO_TRADING_CITY: "Jest miastem handlowym:"
  DIPLO_SELL_PROVINCE_FREE_CITY: "Straci status §Ywolnego miasta§!:"
  DIPLO_SELL_PROVINCE_TRADE_LEAGUE: "Będzie musiało wystąpić z §Yligi handlowej§!:"
