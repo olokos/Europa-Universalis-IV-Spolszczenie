@@ -227,7 +227,13 @@ defined_text = {
 		trigger = {
 			trade_goods = cocoa
 		}
-	}		
+	}
+	text = {
+		localisation_key = string_gold_gen
+		trigger = {
+			trade_goods = gold
+		}
+	}
 	text = {
 		localisation_key = string_ivory_gen
 		trigger = {
@@ -311,7 +317,13 @@ defined_text = {
 		trigger = {
 			trade_goods = coal
 		}
-	}	
+	}
+	text = {
+		localisation_key = string_cloves_gen
+		trigger = {
+			trade_goods = cloves
+		}
+	}
 }
 
 defined_text = {
@@ -406,7 +418,13 @@ defined_text = {
 		trigger = {
 			trade_goods = cocoa
 		}
-	}		
+	}
+	text = {
+		localisation_key = string_gold_gen_Cap
+		trigger = {
+			trade_goods = gold
+		}
+	}
 	text = {
 		localisation_key = string_ivory_gen_Cap
 		trigger = {
@@ -490,7 +508,13 @@ defined_text = {
 		trigger = {
 			trade_goods = coal
 		}
-	}	
+	}
+	text = {
+		localisation_key = string_cloves_gen_Cap
+		trigger = {
+			trade_goods = cloves
+		}
+	}
 }
 
 defined_text = {
@@ -585,7 +609,13 @@ defined_text = {
 		trigger = {
 			trade_goods = cocoa
 		}
-	}		
+	}
+	text = {
+		localisation_key = string_gold
+		trigger = {
+			trade_goods = gold
+		}
+	}
 	text = {
 		localisation_key = string_ivory
 		trigger = {
@@ -669,5 +699,11 @@ defined_text = {
 		trigger = {
 			trade_goods = coal
 		}
-	}	
+	}
+	text = {
+		localisation_key = string_cloves
+		trigger = {
+			trade_goods = cloves
+		}
+	}
 }

@@ -1,54 +1,54 @@
 ﻿l_english:
  string_zoroastrianism_peopleCap: "Zaratusztrianie"
- string_judaism_peopleCap: "¯ydzi"
- string_tengrianism_peopleCap: "Tengryœci"
+ string_judaism_peopleCap: "Żydzi"
+ string_tengrianism_peopleCap: "Tengryści"
  string_norse_peopleCap: "Nordycy"
  string_mayan_peopleCap: "Majowie"
  string_nahuatl_peopleCap: "Aztekowie"
  string_inti_peopleCap: "Inkowie"
- string_totemism_peopleCap: "Totemiœci"
- string_fetishism_peopleCap: "Fetyszyœci"
- string_animism_peopleCap: "Animiœci"
+ string_totemism_peopleCap: "Totemiści"
+ string_fetishism_peopleCap: "Fetyszyści"
+ string_animism_peopleCap: "Animiści"
  string_sikhism_peopleCap: "Sikhowie"
- string_hinduism_peopleCap: "Hinduiœci"
- string_shintoism_peopleCap: "Szintoiœci"
- string_confucianism_peopleCap: "Konfucjaniœci"
- string_mahayana_peopleCap: "Mahajaniœci"
- string_vajrayana_peopleCap: "WadŸrajaniœci"
- string_theravada_peopleCap: "Therawadyœci"
+ string_hinduism_peopleCap: "Hinduiści"
+ string_shintoism_peopleCap: "Szintoiści"
+ string_confucianism_peopleCap: "Konfucjaniści"
+ string_mahayana_peopleCap: "Mahajaniści"
+ string_vajrayana_peopleCap: "Wadźrajaniści"
+ string_theravada_peopleCap: "Therawadyści"
  string_ibadism_peopleCap: "Ibadyci"
  string_shia_peopleCap: "Szyici"
  string_sunni_peopleCap: "Sunnici"
  string_coptic_peopleCap: "Koptowie"
- string_orthodox_peopleCap: "Prawos³awni"
- string_reformed_peopleCap: "Kalwiniœci"
+ string_orthodox_peopleCap: "Prawosławni"
+ string_reformed_peopleCap: "Kalwiniści"
  string_protestantism_peopleCap: "Protestanci"
  string_anglicanism_peopleCap: "Anglikanie"
  string_catholicism_peopleCap: "Katolicy"
  ##########
  string_zoroastrianism_people: "zaratusztrianie"
- string_judaism_people: "¿ydzi"
- string_tengrianism_people: "tengryœci"
+ string_judaism_people: "żydzi"
+ string_tengrianism_people: "tengryści"
  string_norse_people: "nordycy"
  string_mayan_people: "majowie"
  string_nahuatl_people: "aztekowie"
  string_inti_people: "inkowie"
- string_totemism_people: "totemiœci"
- string_fetishism_people: "fetyszyœci"
- string_animism_people: "animiœci"
+ string_totemism_people: "totemiści"
+ string_fetishism_people: "fetyszyści"
+ string_animism_people: "animiści"
  string_sikhism_people: "sikhowie"
- string_hinduism_people: "hinduiœci"
- string_shintoism_people: "szintoiœci"
- string_confucianism_people: "konfucjaniœci"
- string_mahayana_people: "mahajaniœci"
- string_vajrayana_people: "wadŸrajaniœci"
- string_theravada_people: "therawadyœci"
+ string_hinduism_people: "hinduiści"
+ string_shintoism_people: "szintoiści"
+ string_confucianism_people: "konfucjaniści"
+ string_mahayana_people: "mahajaniści"
+ string_vajrayana_people: "wadźrajaniści"
+ string_theravada_people: "therawadyści"
  string_ibadism_people: "ibadyci"
  string_shia_people: "szyici"
  string_sunni_people: "sunnici"
  string_coptic_people: "koptowie"
- string_orthodox_people: "prawos³awni"
- string_reformed_people: "kalwiniœci"
+ string_orthodox_people: "prawosławni"
+ string_reformed_people: "kalwiniści"
  string_protestantism_people: "protestanci"
  string_anglicanism_people: "anglikanie"
  string_catholicism_people: "katolicy"
@@ -78,172 +78,32 @@
  string_protestantism_gen: "Protestantyzmu" #Protestantyzm
  string_anglicanism_gen: "Anglikanizmu" #Anglikanizm
  string_catholicism_gen: "Katolicyzmu" #Katolicyzm
- ###### koªcówki odmiany dla p³ci
+ ###### koªcówki odmiany dla płci
  string_female_a: "a"
  string_man_empty: ""
  string_man_y: "y"
- ###### odmiana nazwy rz¹dów Kogo? Czego?
- string_adj_ISLAMIC_CALIPHATE: "Islamskiego Kalifatu" #Islamski Kalifat M
- string_adj_REVOLUTIONARY_PEASANT_REPUBLIC: "Ch³opskiej Junty" #Ch³opska Junta ¯
- string_adj_MOST_SERENE_REPUBLIC: "Najjaœniejszej Republiki" #Najjaœniejsza Republika ¯
- string_adj_KAISERREICH: "Kaiserreichu" #Kaiserreich M
- string_adj_SUPREME_ADMIRALTY: "Najwy¿szej Admiralicji" #Najwy¿sza Admiralicja ¯ 
- string_adj_REVOLUTIONARY_SPANISH_REPUBLIC: "Najwy¿szej Junty" #Najwy¿sza Junta ¯
- string_adj_REVOLUTIONARY_SWEDISH_REPUBLIC: "Säkerhetstingetu" #Säkerhetstinget M
- string_adj_REVOLUTIONARY_DANISH_REPUBLIC: "Sikkerhedtingetu" #Sikkerhedtinget M
- string_adj_STRATOCRACY: "Junty Wojskowej" #Junta Wojskowa ¯
- string_adj_COMMONWEALTH: "Rrzeczpospolitej" #Rzeczpospolita ¯
- string_adj_MILITARY_GOVERNMENT: "Republiki Militarnej" #Republika Militarna ¯
- string_adj_PIRATE_EMPIRE: "Imperium Piratów" #Imperium Piratów N
- string_adj_GRAND_PIRATE_CONFEDERACY: "Wielkiej Konfederacji Piratów" #Wielka Konfederacja Piratów ¯
- string_adj_SYNTH_GOV: "Sztucznej inteligencji" #Sztuczna Inteligencja ¯
- string_adj_KHAGANATE: "Kaganatu" #Kaganat M
- string_adj_PARLIAMENT_OF_HEAVEN: "Parlamentu Niebios" #Parlament Niebios M
- string_adj_EMPIRE: "Cesarstwa" #Cesarstwo N
- string_adj_PAPACY: "Papiestwa" #Papiestwo N
- string_adj_PATRIARCHATE: "Patriarchatu" #Patriarchat M
- string_adj_GREAT_ELECTORAL_REPUBLIC: "Wielkiej Republiki Elekcyjnej" #Wielka Republika Elekcyjna ¯
- string_adj_GRAND_SHARIFATE: "Szarifatu" #Szarifat M
- string_adj_GREAT_EMIRATE: "Wielkiego Emiratu" #Wielki Emirat M
- string_adj_GREAT_BARANGAY: "Wielkiego Barangayu" #Wielki Barangay M
- string_adj_BONDEVALDE: "Bondeväldu" #Bondevälde N
- string_adj_TSARDOM: "Carstwa" #Carstwo N
- string_adj_GREAT_LEAGUE: "Wielkiej Ligii" #Wielka Liga ¯
- string_adj_GREAT_HETMANATE: "Wielkiego Hetmanatu" #Wielki Hetmanat M
- string_adj_GREAT_REPUBLIC: "Wielkiej Republiki" #Wielka Republika ¯
- string_adj_FEDERAL_REPUBLIC: "Republiki Federalnej" #Republika Federalna ¯
- string_adj_GREAT_PRINCEDOM: "Wielkiego Ksi²stwa" #Wielkie Ksi²stwo N
- string_adj_TRIBE: "Plemienia" #Plemi² N
- string_adj_FEDERAL_EMPIRE: "Imperium Federalnego" #Imperium Federalne N
- string_adj_GOV_REVOLUTIONARY_REPUBLIC: "Republiki Rewolucyjnej" #Republika Rewolucyjna ¯
- string_adj_PRESIDENTIAL_DICTATORSHIP: "Dyktatury Prezydenckiej" #Dyktatura Prezydencka ¯
- string_adj_GREAT_INDEP_DAIMYO: "Wielkiego Daimyo" #Wielki Daimyo M
- string_adj_GREAT_CHIEFDOM: "Wielkiego Wodzostwa" #Wielkie Wodzostwo N
- string_adj_DIVINE_PROTECTORS: "Boskiego Protektoratu" #Boski Protektorat M
- string_adj_BLACK_LONG_KNIGHTS: "Wiecznych Rycerzy" #Wieczni Rycerze MM
- string_adj_BLACK_WATCH: "Stra¿y Hadriana" #Stra¿ Hadriana ¯
- string_adj_MONASTIC_EMPIRE: "Federacji Zakonnej" #Federacja Zakonna ¯
- string_adj_SOVREIGN_MONASTIC_CONFEDERATION: "Niepodleg³ej Konfederacji Zakonnej" #Niepodleg³a Konfederacja Zakonna ¯
- string_adj_BREWING_EMPIRE: "Imperium Browarniczego" #Imperium Browarnicze N
- string_adj_HOLY_EMPIRE: "Imperium Teokratycznego" #Imperium Teokratyczne N
- string_adj_CONFEDERATION: "Konfederacji" #Konfederacja ¯
- string_adj_HIGH_IMAMATE: "Wysokiego Imamatu" #Wysoki Imamat M
- string_adj_MONASTIC_STATE: "Paªstwa Zakonnego" #Paªstwo Zakonne N
- string_adj_TRIBAL_EMPIRE: "Imperium Plemiennego" #Imperium Plemienne N
- string_adj_SERENE_REPUBLIC: "Najjaœniejszej Republiki" #Najjaœniejsza Republika ¯
- string_adj_HIGH_ADMIRALTY: "Wysokiej Admiralicji" #Wysoka Admiralicja ¯
- string_adj_PIRATE_CONFEDERACY: "Konfederacji Piratów" #Konfederacja Piratów ¯
- string_adj_PIRATE_KINGDOM: "Królestwa Piratów" #Królestwo Piratów N
- string_adj_KHANATE: "Chanatu" #Chanat M
- string_adj_VICEROYALTY: "Wicekrólestwa" #Wicekrólestwo N
- string_adj_ELECTORAL_PALATINATE: "Elektoratu Palatynatu" #Elektorat Palatynatu M
- string_adj_KINGDOM_PALATINE: "Królewskiego Palatynatu" #Królewski Palatynat M
- string_adj_GRAND_HERCEGSEG: "Grandhercegsegu" #Grandhercegseg M
- string_adj_KINGDOM: "Królestwa" #Królestwo N
- string_adj_ARCHBISHOPRIC: "Arcybiskupstwa" #Arcybiskupstwo N
- string_adj_GRAND_ELECTORAL_REPUBLIC: "Wielkiej Republiki Elekcyjnej" #Wielka Republika Elekcyjna ¯
- string_adj_SULTANATE: "Su³tanatu" #Su³tanat M
- string_adj_GREAT_SHARIFATE: "Szarifatu" #Szarifat M
- string_adj_EMIRATE: "Emiratu" #Emirat M
- string_adj_SHAHDOM: "Szachatu" #Szachat M
- string_adj_DESPOTATE: "Despotatu" #Despotat M
- string_adj_GRAND_BARANGAY: "Wielkiego Barangayu" #Wielki Barangay M
- string_adj_HERRED: "Herredu" #Herred M
- string_adj_NIZAMATE: "Nizamatu" #Nizamat M
- string_adj_MONG: "Mongu" #Mong M
- string_adj_GRAND_PRINCIPALITY: "Wielkiego Ksi²stwa" #Wielkie Ksi²stwo N
- string_adj_KUCHKABAL: "Kuchkabalu" #Kuchkabal M
- string_adj_ALTEPETL_FEDERATION: "Federacji Altepetli" #Federacja Altepetli ¯
- string_adj_GRAND_HETMANATE: "Wielkiego Hetmanatu" #Wielki Hetmanat M
- string_adj_GRAND_REPUBLIC: "Wielkiej Republiki" #Wielka Republika ¯
- string_adj_UNITED_PROVINCES: "Zjednoczonych Prowincji" #Zjednoczone Prowincje MN
- string_adj_GRAND_PRINCEDOM: "Wielkiego Ksi²stwa" #Wielkie Ksi²stwo N
- string_adj_FEDERAL_KINGDOM: "Królestwa Federalnego" #Królestwo Federalne N
- string_adj_DICTATORSHIP: "Dyktatury" #Dyktatura ¯
- string_adj_GRAND_INDEP_DAIMYO: "Wielkiego Daimyo" #Wielki Daimyo M
- string_adj_SHOGUNATE: "Szogunatu" #Szogunat M
- string_adj_GRAND_CHIEFDOM: "Wysokiego Wodzostwa" #Wysokie Wodzostwo N
- string_adj_WARRIOR_MONK_HIGH_ORDER: "Szogunatu Zakonnego" #Szogunat Zakonny M
- string_adj_SOVREIGN_MONASTIC_ORDER: "Niepodleg³ego Zgromadzenia Zakonnego" #Niepodleg³e Zgromadzenie Zakonne N
- string_adj_GREAT_IMAMATE: "Wielkiego Imamatu" #Wielki Imamat M
- string_adj_HOLY_STATE: "" #Paªstwo Koœcielne N
- string_adj_MISL: "Mislu" #Misl M
- string_adj_IMAMATE: "Imamatu" #Imamat M
- string_adj_GREAT_METROPOLIS: "Wielkiej Metropolii" #Wielka Metropolia ¯
- string_adj_TRIBAL_KINGDOM: "Królestwa Plemienngo" #Królestwo Plemienne N
- string_adj_REPUBLIC: "Republiki" #Republika ¯
- string_adj_ADMIRALTY: "Admiralicji" #Admiralicja ¯
- string_adj_PIRATE_DAIMYO: "Pirackiego Daimyo" #Piracki Daimyo M
- string_adj_PIRATE_REPUBLIC: "Republiki Piratów" #Republika Piratów ¯
- string_adj_PIRATE_PRINCIPALITY: "Ksi²stwa Piratów" #Ksi²stwo Piratów N
- string_adj_HORDE: "Ordy" #Orda ¯
- string_adj_ILKHANATE: "Ilchanatu" #Ilchanat M
- string_adj_PASHALIK: "Ejaletu" #Ejalet M
- string_adj_BEYLIK: "Bejliku" #Bejlik M
- string_adj_MARCH: "Marchii" #Marchia ¯
- string_adj_COUNTY_PALATINE: "Hrabstwa Palatynatu" #Hrabstwo Palatynatu N
- string_adj_HERCEGSEG: "Hercegsegu" #Hercegseg M
- string_adj_ELECTORATE_DUCHY: "Elektoratu" #Elektorat M
- string_adj_ELECTORATE_BISHOPRIC: "Biskupstwa Elektorskiego" #Biskupstwo Elektorskie N
- string_adj_ELECTORAL_REPUBLIC: "Republiki Elektorskiej" #Republika Elektorska ¯
- string_adj_DAIMYO: "Daimyo" #Daimyo M
- string_adj_DUCHY: "Ksi²stwa" #Ksi²stwo N
- string_adj_SHARIFATE: "Szarifatu" #Szarifat M
- string_adj_PRINCEDOM: "Ksi²stwa" #Ksi²stwo N
- string_adj_SHEIKHDOM: "Szejkanatu" #Szejkanat M
- string_adj_MALIKATE: "Malikatu" #Malikat M
- string_adj_GRAND_DUCHY: "Wielkiego Ksi²stwa" #Wielkie Ksi²stwo N
- string_adj_ARCHDUCHY: "Arcyksi²stwa" #Arcyksi²stwo N
- string_adj_BARANGAY: "Barangayu" #Barangay M
- string_adj_KHEDIVATE: "Kedywatu" #Kedywat M
- string_adj_SOGN: "Sognu" #Sogn M
- string_adj_PRINCIPALITY: "Ksi²stwa" #Ksi²stwo N
- string_adj_NAWABATE: "Nawabatu" #Nawabat M
- string_adj_EARLDOM: "Earlostwa" #Earlostwo N
- string_adj_LORDSHIP: "Senioratu" #Seniorat M
- string_adj_CAH: "Cahu" #Cah M
- string_adj_ALTEPETL: "Altepetlu" #Altepetl M
- string_adj_FREE_CITY: "Wolnego Miasta" #Wolne Miasto N
- string_adj_COLONY: "Kolonii" #Kolonia ¯
- string_adj_HETMANATE: "Hetmanatu" #Hetmanat M
- string_adj_DESPOTISM: "Despotyzmu" #Despotyzm M
- string_adj_INDEP_DAIMYO: "Niezale¿nego Daimyo" #Niezale¿ny Daimyo M
- string_adj_COUNTY: "Hrabstwa" #Hrabstwo N
- string_adj_WARRIOR_MONK_ORDER: "Soheiu" #Sohei M
- string_adj_BLACK_KNIGHTS: "Rycerzy Hadriana" #Rycerze Hadriana MM
- string_adj_MONASTIC_ORDER: "Paªstwa Zakonnego" #Paªstwo Zakonne N
- string_adj_TRAPPIST_STATE: "Zakonu Trapistów" #Zakon Trapistów M
- string_adj_HOLY_PRINCIPALITY: "Ksi²stwa Koœcielnego" #Ksi²stwo Koœcielne N
- string_adj_METROPOLIS: "Meropolii" #Metropolia ¯
- string_adj_BISHOPRIC: "Biskupstwa" #Biskupstwo N
- string_adj_CHIEFDOM: "Wodzostwa" #Wodzostwo N
- string_adj_SAVANAROLA_GOVERNMENT: "Rz¹du Savonaroli" #Rz¹d Savonaroli M
-## Odmiana czasowników dla nazw rz¹dów
- string_Z: "³a"#Republika
- string_M: "³"#Hetmanat
- string_N: "³o"#Wodzostwo
- string_MZ: "³y"#Zjednoczone Prowincje
- string_MM: "li"#Wieczni Rycerze
-## odmiana can
- string_can_poj: "może"
- string_can_mno: "mogą"
 ##Klasy społeczne
 #mała
  string_estate_brahmins: "bramini" #Bramini MM
- string_monasteries: "zakony" #Zakony MM
- string_babaylanes: "babaylanowie" #Babaylanowie MM
+ string_estate_monasteries: "zakony" #Zakony MM
+ string_estate_babaylanes: "babaylan" #Babaylan MZ
  string_estate_gentry: "shizu" #Shizu PM
  string_estate_ulema: "ulemowie" #Ulemowie MM
  string_estate_tlamacazqueh: "tlamacazqueh" #Tlamacazqueh PM
  string_estate_yangban_scholars: "jangbańscy uczeni" #Jangbańscy uczeni MM
+ string_estate_kahuna: "kahuni" #Kahuni MM
+ string_estate_tohunga: "tohunga" #Tohunga PM
+ string_estate_taula_otua: "taula 'otua" #Taula 'Otua PM
+ string_estate_taula_aitu: "taula aitu" #Taula Aitu PM
+ string_estate_bete: "bete" #Bete MM
  string_estate_church: "duchowieństwo" #Duchowieństwo PN
  string_estate_maratha: "marathowie" #Marathowie MM
  string_estate_beys: "ümera" #Ümera PM
  string_estate_boyars: "bojarzy" #Bojarzy MM
  string_estate_szlachta: "szlachta" #Szlachta PZ
  string_estate_timawa: "timawa" #Timawa PM
- string_estate_nayaks: "nayakowie" #Nayakowie MM
- string_estate_samantas: "samantowie" #Samantowie MM
+ string_estate_nayaks: "nayak" #Nayak MM
+ string_estate_samantas: "samanta" #Samanta MM
  string_estate_kshatriyas: "kszatrijowie" #Kszatrijowie MM
  string_estate_qinwang: "qinwang" #Qinwang PM
  string_estate_mansabdars: "mansabdarowie" #Mansabdarowie MM
@@ -254,6 +114,10 @@
  string_estate_bushi: "bushi" #Bushi MM
  string_estate_yangban_administrators: "jangbańscy administratorzy" #Jangbańscy administratorzy MM
  string_estate_junkers: "junkrzy" #Junkrzy MM
+ string_estate_alii: "ali-i" #Ali-i MM
+ string_estate_ariki: "ariki" #Ariki MM
+ string_estate_eiki: "eiki" #Eiki MM
+ string_estate_ratu: "ratu" #Ratu MM
  string_estate_nobles: "arystokracja" #Arystokracja PZ
  string_estate_bourgeoisie: "burżuazja" #Burżuazja PZ
  string_estate_shangbang: "shangbang" #Shangbang PM
@@ -270,19 +134,24 @@
 ##mała
  string_gen_estate_brahmins: "braminów" #Bramini
  string_gen_estate_monasteries: "zakonów" #Zakony
- string_gen_estate_babaylanes: "babaylanów" #Babaylanowie
+ string_gen_estate_babaylanes: "babaylan" #Babaylan
  string_gen_estate_gentry: "shizu" #Shizu
  string_gen_estate_ulema: "ulemów" #Ulemowie
  string_gen_estate_tlamacazqueh: "tlamacazqueh" #Tlamacazqueh
  string_gen_estate_yangban_scholars: "jangbańskich uczonych" #Jangbańscy uczeni
+ string_gen_estate_kahuna: "kahunów" #Kahuni
+ string_gen_estate_tohunga: "tohunga" #Tohunga
+ string_gen_estate_taula_otua: "taula 'otua" #Taula 'Otua
+ string_gen_estate_taula_aitu: "taula aitu" #Taula Aitu
+ string_gen_estate_bete: "bete" #Bete MM
  string_gen_estate_church: "duchowieństwa" #Duchowieństwo
  string_gen_estate_maratha: "marathów" #Marathowie
  string_gen_estate_beys: "ümery" #Ümera
  string_gen_estate_boyars: "bojarów" #Bojarzy
  string_gen_estate_szlachta: "szlachty" #Szlachta
  string_gen_estate_timawa: "timawy" #Timawa
- string_gen_estate_nayaks: "nayaków" #Nayakowie
- string_gen_estate_samantas: "samantów" #Samantowie
+ string_gen_estate_nayaks: "nayak" #Nayak
+ string_gen_estate_samantas: "samanta" #Samanta
  string_gen_estate_kshatriyas: "kszatrijów" #Kszatrijowie
  string_gen_estate_qinwang: "qinwangu" #Qinwang
  string_gen_estate_mansabdars: "mansabdarów" #Mansabdarowie
@@ -293,6 +162,10 @@
  string_gen_estate_bushi: "bushi" #Bushi
  string_gen_estate_yangban_administrators: "jangbańskich administratorów" #Jangbańscy administratorzy
  string_gen_estate_junkers: "junkrów" #Junkrzy
+ string_gen_estate_alii: "ali-i" #Ali-i
+ string_gen_estate_ariki: "ariki" #Ariki
+ string_gen_estate_eiki: "eiki" #Eiki
+ string_gen_estate_ratu: "ratu" #Ratu
  string_gen_estate_nobles: "arystokracji" #Arystokracja
  string_gen_estate_bourgeoisie: "burżuazji" #Burżuazja
  string_gen_estate_shangbang: "shangbangu" #Shangbang
@@ -308,19 +181,24 @@
 ## duża
  string_gen_estate_brahmins_Cap: "Braminów" #Bramini
  string_gen_estate_monasteries_Cap: "Zakonów" #Zakony
- string_gen_estate_babaylanes_Cap: "Babaylanów" #Babaylanowie
+ string_gen_estate_babaylanes_Cap: "Babaylan" #Babaylan
  string_gen_estate_gentry_Cap: "Shizu" #Shizu
  string_gen_estate_ulema_Cap: "Ulemów" #Ulemowie
  string_gen_estate_tlamacazqueh_Cap: "Tlamacazqueh" #Tlamacazqueh
  string_gen_estate_yangban_scholars_Cap: "Jangbańskich uczonych" #Jangbańscy uczeni
+ string_gen_estate_kahuna_Cap: "Kahunów" #Kahuni
+ string_gen_estate_tohunga_Cap: "Tohunga" #Tohunga
+ string_gen_estate_taula_otua_Cap: "Taula 'Otua" #Taula 'Otua
+ string_gen_estate_taula_aitu_Cap: "Taula Aitu" #Taula Aitu
+ string_gen_estate_bete_Cap: "Bete" #Bete
  string_gen_estate_church_Cap: "Duchowieństwa" #Duchowieństwo
  string_gen_estate_maratha_Cap: "Marathów" #Marathowie
  string_gen_estate_beys_Cap: "Ümery" #Ümera
  string_gen_estate_boyars_Cap: "Bojarów" #Bojarzy
  string_gen_estate_szlachta_Cap: "Szlachty" #Szlachta
  string_gen_estate_timawa_Cap: "Timawy" #Timawa
- string_gen_estate_nayaks_Cap: "Nayaków" #Nayakowie
- string_gen_estate_samantas_Cap: "Samantanów" #Samantowie
+ string_gen_estate_nayaks_Cap: "Nayak" #Nayak
+ string_gen_estate_samantas_Cap: "Samanta" #Samanta
  string_gen_estate_kshatriyas_Cap: "Kszatrijów" #Kszatrijowie
  string_gen_estate_qinwang_Cap: "Qinwangu" #Qinwang
  string_gen_estate_mansabdars_Cap: "Mansabdarów" #Mansabdarowie
@@ -331,6 +209,10 @@
  string_gen_estate_bushi_Cap: "Bushi" #Bushi
  string_gen_estate_yangban_administrators_Cap: "Jangbańskich administratorów" #Jangbańscy administratorzy
  string_gen_estate_junkers_Cap: "Junkrów" #Junkrzy
+ string_gen_estate_alii_Cap: "Ali-i" #Ali-i
+ string_gen_estate_ariki_Cap: "Ariki" #Ariki
+ string_gen_estate_eiki_Cap: "Eiki" #Eiki
+ string_gen_estate_ratu_Cap: "Ratu" #Ratu
  string_gen_estate_nobles_Cap: "Arystokracji" #Arystokracja
  string_gen_estate_bourgeoisie_Cap: "Burżuazji" #Burżuazja
  string_gen_estate_shangbang_Cap: "Shangbangu" #Shangbang
@@ -347,19 +229,24 @@
 #mała
  string_dat_estate_brahmins: "braminom" #Bramini
  string_dat_estate_monasteries: "zakonom" #Zakony
- string_dat_estate_babaylanes: "babaylanom" #Babaylanowie
+ string_dat_estate_babaylanes: "babaylan" #Babaylan
  string_dat_estate_gentry: "shizu" #Shizu
  string_dat_estate_ulema: "ulemom" #Ulemowie
  string_dat_estate_tlamacazqueh: "tlamacazqueh" #Tlamacazqueh
  string_dat_estate_yangban_scholars: "jangbańskim uczonym" #Jangbańscy uczeni
+ string_dat_estate_kahuna: "kahunom" #Kahuni
+ string_dat_estate_tohunga: "tohunga" #Tohunga
+ string_dat_estate_taula_otua: "taula 'otua" #Taula 'Otua
+ string_dat_estate_taula_aitu: "taula aitu" #Taula Aitu
+ string_dat_estate_bete: "bete" #Bete
  string_dat_estate_church: "duchowieństwu" #Duchowieństwo
  string_dat_estate_maratha: "marathom" #Marathowie
  string_dat_estate_beys: "ümerze" #Ümera
  string_dat_estate_boyars: "bojarom" #Bojarzy
  string_dat_estate_szlachta: "szlachcie" #Szlachta
  string_dat_estate_timawa: "timawie" #Timawa
- string_dat_estate_nayaks: "nayakom" #Nayakowie
- string_dat_estate_samantas: "samantom" #Samantowie
+ string_dat_estate_nayaks: "nayak" #Nayak
+ string_dat_estate_samantas: "samanta" #Samanta
  string_dat_estate_kshatriyas: "kszatrijom" #Kszatrijowie
  string_dat_estate_qinwang: "qinwangowi" #Qinwang
  string_dat_estate_mansabdars: "mansabdarom" #Mansabdarowie
@@ -370,6 +257,10 @@
  string_dat_estate_bushi: "bushi" #Bushi
  string_dat_estate_yangban_administrators: "jangbańskim administratorom" #Jangbańscy administratorzy
  string_dat_estate_junkers: "junkrom" #Junkrzy
+ string_dat_estate_alii: "ali-i" #Ali-i
+ string_dat_estate_ariki: "ariki" #Ariki
+ string_dat_estate_eiki: "eiki" #Eiki
+ string_dat_estate_ratu: "ratu" #Ratu
  string_dat_estate_nobles: "arystokracji" #Arystokracja
  string_dat_estate_bourgeoisie: "burżuazji" #Burżuazja
  string_dat_estate_shangbang: "shangbangowi" #Shangbang
@@ -385,19 +276,24 @@
 #duża
  string_dat_estate_brahmins_Cap: "Braminom" #Bramini
  string_dat_estate_monasteries_Cap: "Zakonom" #Zakony
- string_dat_estate_babaylanes_Cap: "Babaylanom" #Babaylanowie
+ string_dat_estate_babaylanes_Cap: "Babaylan" #Babaylan
  string_dat_estate_gentry_Cap: "Shizu" #Shizu
  string_dat_estate_ulema_Cap: "Ulemom" #Ulemowie
  string_dat_estate_tlamacazqueh_Cap: "Tlamacazqueh" #Tlamacazqueh
  string_dat_estate_yangban_scholars_Cap: "Jangbańskim uczonym" #Jangbańscy uczeni
+ string_dat_estate_kahuna_Cap: "Kahunom" #Kahuni
+ string_dat_estate_tohunga_Cap: "Tohunga" #Tohunga
+ string_dat_estate_taula_otua_Cap: "Taula 'otua" #Taula 'Otua
+ string_dat_estate_taula_aitu_Cap: "Taula Aitu" #Taula Aitu
+ string_dat_estate_bete_Cap: "Bete" #Bete
  string_dat_estate_church_Cap: "Duchowieństwu" #Duchowieństwo
  string_dat_estate_maratha_Cap: "Marathom" #Marathowie
  string_dat_estate_beys_Cap: "Ümerze" #Ümera
  string_dat_estate_boyars_Cap: "Bojarom" #Bojarzy
  string_dat_estate_szlachta_Cap: "Szlachcie" #Szlachta
  string_dat_estate_timawa_Cap: "Timawie" #Timawa
- string_dat_estate_nayaks_Cap: "Nayakom" #Nayakowie
- string_dat_estate_samantas_Cap: "Samantom" #Samantowie
+ string_dat_estate_nayaks_Cap: "Nayak" #Nayak
+ string_dat_estate_samantas_Cap: "Samanta" #Samanta
  string_dat_estate_kshatriyas_Cap: "Kszatrijom" #Kszatrijowie
  string_dat_estate_qinwang_Cap: "Qinwangowi" #Qinwang
  string_dat_estate_mansabdars_Cap: "Mansabdarom" #Mansabdarowie
@@ -408,6 +304,10 @@
  string_dat_estate_bushi_Cap: "Bushi" #Bushi
  string_dat_estate_yangban_administrators_Cap: "Jangbańskim administratorom" #Jangbańscy administratorzy
  string_dat_estate_junkers_Cap: "Junkrom" #Junkrzy
+ string_dat_estate_alii_Cap: "Ali-i" #Ali-i
+ string_dat_estate_ariki_Cap: "Ariki" #Ariki
+ string_dat_estate_eiki_Cap: "Eiki" #Eiki
+ string_dat_estate_ratu_Cap: "Ratu" #Ratu
  string_dat_estate_nobles_Cap: "Arystokracji" #Arystokracja
  string_dat_estate_bourgeoisie_Cap: "Burżuazji" #Burżuazja
  string_dat_estate_shangbang_Cap: "Shangbangowi" #Shangbang
@@ -424,19 +324,24 @@
  #mała
  string_ins_estate_brahmins: "braminami" #Bramini
  string_ins_estate_monasteries: "zakonami" #Zakony
- string_ins_estate_babaylanes: "babaylanami" #Babaylanowie
+ string_ins_estate_babaylanes: "babaylan" #Babaylan
  string_ins_estate_gentry: "shizu" #Shizu
  string_ins_estate_ulema: "ulemami" #Ulemowie
  string_ins_estate_tlamacazqueh: "tlamacazqueh" #Tlamacazqueh
  string_ins_estate_yangban_scholars: "jangbańskimi uczonymi" #Jangbańscy uczeni
+ string_ins_estate_kahuna: "kahunami" #Kahuni
+ string_ins_estate_tohunga: "tohunga" #Tohunga
+ string_ins_estate_taula_otua: "taula 'otua" #Taula 'Otua
+ string_ins_estate_taula_aitu: "taula aitu" #Taula Aitu
+ string_ins_estate_bete: "bete" #Bete
  string_ins_estate_church: "duchowieństwem" #Duchowieństwo
  string_ins_estate_maratha: "marathami" #Marathowie
  string_ins_estate_beys: "ümerą" #Ümera
  string_ins_estate_boyars: "bojarami" #Bojarzy
  string_ins_estate_szlachta: "szlachtą" #Szlachta
  string_ins_estate_timawa: "timawą" #Timawa
- string_ins_estate_nayaks: "nayakami" #Nayakowie
- string_ins_estate_samantas: "samantanami" #Samantowie
+ string_ins_estate_nayaks: "nayak" #Nayak
+ string_ins_estate_samantas: "samanta" #Samanta
  string_ins_estate_kshatriyas: "kszatrijami" #Kszatrijowie
  string_ins_estate_qinwang: "qinwangiem" #Qinwang
  string_ins_estate_mansabdars: "mansabdarami" #Mansabdarowie
@@ -447,6 +352,10 @@
  string_ins_estate_bushi: "bushi" #Bushi
  string_ins_estate_yangban_administrators: "jangbańskimi administratorami" #Jangbańscy administratorzy
  string_ins_estate_junkers: "junkrami" #Junkrzy
+ string_ins_estate_alii: "ali-i" #Ali-i
+ string_ins_estate_ariki: "ariki" #Ariki
+ string_ins_estate_eiki: "eiki" #Eiki
+ string_ins_estate_ratu: "ratu" #Ratu
  string_ins_estate_nobles: "arystokracją" #Arystokracja
  string_ins_estate_bourgeoisie: "burżuazją" #Burżuazja
  string_ins_estate_shangbang: "shangbangiem" #Shangbang
@@ -462,19 +371,24 @@
  #duża
  string_ins_estate_brahmins_Cap: "Braminami" #Bramini
  string_ins_estate_monasteries_Cap: "Zakonami" #Zakony
- string_ins_estate_babaylanes_Cap: "Babaylanami" #Babaylanowie
+ string_ins_estate_babaylanes_Cap: "Babaylan" #Babaylan
  string_ins_estate_gentry_Cap: "Shizu" #Shizu
  string_ins_estate_ulema_Cap: "Ulemami" #Ulemowie
  string_ins_estate_tlamacazqueh_Cap: "Tlamacazqueh" #Tlamacazqueh
  string_ins_estate_yangban_scholars_Cap: "Jangbańskimi uczonymi" #Jangbańscy uczeni
+ string_ins_estate_kahuna_Cap: "Kahunami" #Kahuni
+ string_ins_estate_tohunga_Cap: "Tohunga" #Tohunga
+ string_ins_estate_taula_otua_Cap: "Taula 'Otua" #Taula 'Otua
+ string_ins_estate_taula_aitu_Cap: "Taula Aitu" #Taula Aitu
+ string_ins_estate_bete_Cap: "bete" #Bete
  string_ins_estate_church_Cap: "Duchowieństwem" #Duchowieństwo
  string_ins_estate_maratha_Cap: "Marathami" #Marathowie
  string_ins_estate_beys_Cap: "Ümerą" #Ümera
  string_ins_estate_boyars_Cap: "Bojarami" #Bojarzy
  string_ins_estate_szlachta_Cap: "Szlachtą" #Szlachta
  string_ins_estate_timawa_Cap: "Timawą" #Timawa
- string_ins_estate_nayaks_Cap: "Nayakami" #Nayakowie
- string_ins_estate_samantas_Cap: "Samantanami" #Samantowie
+ string_ins_estate_nayaks_Cap: "Nayak" #Nayak
+ string_ins_estate_samantas_Cap: "Samanta" #Samanta
  string_ins_estate_kshatriyas_Cap: "Kszatrijami" #Kszatrijowie
  string_ins_estate_qinwang_Cap: "Qinwangiem" #Qinwang
  string_ins_estate_mansabdars_Cap: "Mansabdarami" #Mansabdarowie
@@ -485,6 +399,10 @@
  string_ins_estate_bushi_Cap: "Bushi" #Bushi
  string_ins_estate_yangban_administrators_Cap: "Jangbańskimi administratorami" #Jangbańscy administratorzy
  string_ins_estate_junkers_Cap: "Junkrami" #Junkrzy
+ string_ins_estate_alii_Cap: "Ali-i" #Ali-i
+ string_ins_estate_ariki_Cap: "Ariki" #Ariki
+ string_ins_estate_eiki_Cap: "Eiki" #Eiki
+ string_ins_estate_ratu_Cap: "Ratu" #Ratu
  string_ins_estate_nobles_Cap: "Arystokracją" #Arystokracja
  string_ins_estate_bourgeoisie_Cap: "Burżuazją" #Burżuazja
  string_ins_estate_shangbang_Cap: "Shangbangiem" #Shangbang
@@ -587,8 +505,8 @@
  string_PastEnd_PZ: "ała" #Arystokracja
  string_PastEnd_MM: "eli" #Bojarzy
  string_PastEnd_MZ: "ały" #Gildie kupieckie
- 
- 
+
+
  ##Narzędnik dla klucza GetStateForm
  string_crown_ins: "Koroną" #Korona
  string_sublime_porte_ins: "Wysoką Portą" #Wysoka Porta
@@ -782,7 +700,9 @@
  string_glass: "szkło" #Szkło
  string_chinaware: "towary orientalne" #Towary orientalne
  string_coal: "węgiel" #Węgiel
- #Dopełniacz duża 
+ string_gold: "złoto" #Złoto
+ string_cloves: "goździki" #Goździki
+ #Dopełniacz duża
  string_naval_supplies_gen_Cap: "Materiałów okrętowych" #Materiały okrętowe
  string_fish_gen_Cap: "Ryb" #Ryby
  string_salt_gen_Cap: "Soli" #Sól
@@ -812,6 +732,8 @@
  string_glass_gen_Cap: "Szkła" #Szkło
  string_chinaware_gen_Cap: "Towarów orientalnych" #Towary orientalne
  string_coal_gen_Cap: "Węgla" #Węgiel
+ string_gold_gen_Cap: "Złota" #Złoto
+ string_cloves_gen_Cap: "Goździków" #Goździki
  #Dopełniacz mała
  string_naval_supplies_gen: "materiałów okrętowych" #Materiały okrętowe
  string_fish_gen: "ryb" #Ryby
@@ -842,6 +764,8 @@
  string_glass_gen: "szkła" #Szkło
  string_chinaware_gen: "towarów orientalnych" #Towary orientalne
  string_coal_gen: "węgla" #Węgiel
+ string_gold_gen_Cap: "złota" #Złoto
+ string_cloves_gen_Cap: "goździków" #Goździki
  ## GetRulerTitleOrRegencyGen
  string_rule_title_gen: "[This.GetRulerGen]"
  string_regency_council_gen: "Rady regencyjnej" #Rada regencyjna

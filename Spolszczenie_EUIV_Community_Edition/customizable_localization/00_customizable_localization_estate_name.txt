@@ -17,7 +17,7 @@ defined_text = {
 				religion = mahayana
 				religion = vajrayana
 			}
-		}		
+		}
 	}
 	text = {
 		localisation_key = string_estate_babaylanes
@@ -58,7 +58,49 @@ defined_text = {
 			tag = KOR
 			religion = confucianism
 		}
-	}		
+	}
+	text = {
+		localisation_key = string_estate_kahuna
+		trigger = {
+			capital_scope = {
+				area = northern_polynesia_area
+			}
+			primary_culture = polynesian
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_estate_tohunga
+		trigger = {
+			primary_culture = maori
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_estate_taula_otua
+		trigger = {
+			tag = TOG
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_estate_taula_aitu
+		trigger = {
+			tag = SAM
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_estate_bete
+		trigger = {
+			OR = {
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = string_estate_church
 	}
@@ -183,7 +225,46 @@ defined_text = {
 				tag = GER
 			}
 		}
-	}	
+	}
+	text = {
+		localisation_key = string_estate_alii
+		trigger = {
+			OR = {
+				capital_scope = {
+					area = northern_polynesia_area
+				}
+				tag = SAM
+			}
+			primary_culture = polynesian
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_estate_ariki
+		trigger = {
+			primary_culture = maori
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_estate_eiki
+		trigger = {
+			tag = TOG
+			primary_culture = polynesian
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_estate_ratu
+		trigger = {
+			OR = {
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = string_estate_nobles
 	}
@@ -216,7 +297,7 @@ defined_text = {
 		trigger = {
 			NOT = { religion_group = christian }
 		}
-	}	
+	}
 	text = {
 		localisation_key = string_estate_burghers
 	}
@@ -291,7 +372,7 @@ defined_text = {
 				religion = mahayana
 				religion = vajrayana
 			}
-		}		
+		}
 	}
 	text = {
 		localisation_key = string_gen_estate_babaylanes
@@ -332,7 +413,49 @@ defined_text = {
 			tag = KOR
 			religion = confucianism
 		}
-	}		
+	}
+	text = {
+		localisation_key = string_gen_estate_kahuna
+		trigger = {
+			capital_scope = {
+				area = northern_polynesia_area
+			}
+			primary_culture = polynesian
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_tohunga
+		trigger = {
+			primary_culture = maori
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_taula_otua
+		trigger = {
+			tag = TOG
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_taula_aitu
+		trigger = {
+			tag = SAM
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_bete
+		trigger = {
+			OR = {
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = string_gen_estate_church
 	}
@@ -457,7 +580,46 @@ defined_text = {
 				tag = GER
 			}
 		}
-	}	
+	}
+	text = {
+		localisation_key = string_gen_estate_alii
+		trigger = {
+			OR = {
+				capital_scope = {
+					area = northern_polynesia_area
+				}
+				tag = SAM
+			}
+			primary_culture = polynesian
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_ariki
+		trigger = {
+			primary_culture = maori
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_eiki
+		trigger = {
+			tag = TOG
+			primary_culture = polynesian
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_ratu
+		trigger = {
+			OR = {
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = string_gen_estate_nobles
 	}
@@ -490,7 +652,7 @@ defined_text = {
 		trigger = {
 			NOT = { religion_group = christian }
 		}
-	}	
+	}
 	text = {
 		localisation_key = string_gen_estate_burghers
 	}
@@ -564,7 +726,7 @@ defined_text = {
 				religion = mahayana
 				religion = vajrayana
 			}
-		}		
+		}
 	}
 	text = {
 		localisation_key = string_dat_estate_babaylanes
@@ -605,7 +767,49 @@ defined_text = {
 			tag = KOR
 			religion = confucianism
 		}
-	}		
+	}
+	text = {
+		localisation_key = string_dat_estate_kahuna
+		trigger = {
+			capital_scope = {
+				area = northern_polynesia_area
+			}
+			primary_culture = polynesian
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_tohunga
+		trigger = {
+			primary_culture = maori
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_taula_otua
+		trigger = {
+			tag = TOG
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_taula_aitu
+		trigger = {
+			tag = SAM
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_bete
+		trigger = {
+			OR = {
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = string_dat_estate_church
 	}
@@ -730,7 +934,46 @@ defined_text = {
 				tag = GER
 			}
 		}
-	}	
+	}
+	text = {
+		localisation_key = string_dat_estate_alii
+		trigger = {
+			OR = {
+				capital_scope = {
+					area = northern_polynesia_area
+				}
+				tag = SAM
+			}
+			primary_culture = polynesian
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_ariki
+		trigger = {
+			primary_culture = maori
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_eiki
+		trigger = {
+			tag = TOG
+			primary_culture = polynesian
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_ratu
+		trigger = {
+			OR = {
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = string_dat_estate_nobles
 	}
@@ -763,7 +1006,7 @@ defined_text = {
 		trigger = {
 			NOT = { religion_group = christian }
 		}
-	}	
+	}
 	text = {
 		localisation_key = string_dat_estate_burghers
 	}
@@ -838,7 +1081,7 @@ defined_text = {
 				religion = mahayana
 				religion = vajrayana
 			}
-		}		
+		}
 	}
 	text = {
 		localisation_key = string_ins_estate_babaylanes
@@ -879,7 +1122,49 @@ defined_text = {
 			tag = KOR
 			religion = confucianism
 		}
-	}		
+	}
+	text = {
+		localisation_key = string_ins_estate_kahuna
+		trigger = {
+			capital_scope = {
+				area = northern_polynesia_area
+			}
+			primary_culture = polynesian
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_tohunga
+		trigger = {
+			primary_culture = maori
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_taula_otua
+		trigger = {
+			tag = TOG
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_taula_aitu
+		trigger = {
+			tag = SAM
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_bete
+		trigger = {
+			OR = {
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = string_ins_estate_church
 	}
@@ -1004,7 +1289,46 @@ defined_text = {
 				tag = GER
 			}
 		}
-	}	
+	}
+	text = {
+		localisation_key = string_ins_estate_alii
+		trigger = {
+			OR = {
+				capital_scope = {
+					area = northern_polynesia_area
+				}
+				tag = SAM
+			}
+			primary_culture = polynesian
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_ariki
+		trigger = {
+			primary_culture = maori
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_eiki
+		trigger = {
+			tag = TOG
+			primary_culture = polynesian
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_ratu
+		trigger = {
+			OR = {
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = string_ins_estate_nobles
 	}
@@ -1037,7 +1361,7 @@ defined_text = {
 		trigger = {
 			NOT = { religion_group = christian }
 		}
-	}	
+	}
 	text = {
 		localisation_key = string_ins_estate_burghers
 	}
@@ -1113,7 +1437,7 @@ defined_text = {
 				religion = mahayana
 				religion = vajrayana
 			}
-		}		
+		}
 	}
 	text = {
 		localisation_key = estate_babaylanes
@@ -1154,7 +1478,49 @@ defined_text = {
 			tag = KOR
 			religion = confucianism
 		}
-	}		
+	}
+	text = {
+		localisation_key = estate_kahuna
+		trigger = {
+			capital_scope = {
+				area = northern_polynesia_area
+			}
+			primary_culture = polynesian
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = estate_tohunga
+		trigger = {
+			primary_culture = maori
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = estate_taula_otua
+		trigger = {
+			tag = TOG
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = estate_taula_aitu
+		trigger = {
+			tag = SAM
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = estate_bete
+		trigger = {
+			OR = {
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = estate_church
 	}
@@ -1279,7 +1645,46 @@ defined_text = {
 				tag = GER
 			}
 		}
-	}	
+	}
+	text = {
+		localisation_key = estate_alii
+		trigger = {
+			OR = {
+				capital_scope = {
+					area = northern_polynesia_area
+				}
+				tag = SAM
+			}
+			primary_culture = polynesian
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = estate_ariki
+		trigger = {
+			primary_culture = maori
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = estate_eiki
+		trigger = {
+			tag = TOG
+			primary_culture = polynesian
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = estate_ratu
+		trigger = {
+			OR = {
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = estate_nobles
 	}
@@ -1312,7 +1717,7 @@ defined_text = {
 		trigger = {
 			NOT = { religion_group = christian }
 		}
-	}	
+	}
 	text = {
 		localisation_key = estate_burghers
 	}
@@ -1387,7 +1792,7 @@ defined_text = {
 				religion = mahayana
 				religion = vajrayana
 			}
-		}		
+		}
 	}
 	text = {
 		localisation_key = string_gen_estate_babaylanes_Cap
@@ -1428,7 +1833,49 @@ defined_text = {
 			tag = KOR
 			religion = confucianism
 		}
-	}		
+	}
+	text = {
+		localisation_key = string_gen_estate_kahuna_Cap
+		trigger = {
+			capital_scope = {
+				area = northern_polynesia_area
+			}
+			primary_culture = polynesian
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_tohunga_Cap
+		trigger = {
+			primary_culture = maori
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_taula_otua_Cap
+		trigger = {
+			tag = TOG
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_taula_aitu_Cap
+		trigger = {
+			tag = SAM
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_bete_Cap
+		trigger = {
+			OR = {
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = string_gen_estate_church_Cap
 	}
@@ -1553,7 +2000,46 @@ defined_text = {
 				tag = GER
 			}
 		}
-	}	
+	}
+	text = {
+		localisation_key = string_gen_estate_alii_Cap
+		trigger = {
+			OR = {
+				capital_scope = {
+					area = northern_polynesia_area
+				}
+				tag = SAM
+			}
+			primary_culture = polynesian
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_ariki_Cap
+		trigger = {
+			primary_culture = maori
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_eiki_Cap
+		trigger = {
+			tag = TOG
+			primary_culture = polynesian
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_ratu_Cap
+		trigger = {
+			OR = {
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = string_gen_estate_nobles_Cap
 	}
@@ -1586,7 +2072,7 @@ defined_text = {
 		trigger = {
 			NOT = { religion_group = christian }
 		}
-	}	
+	}
 	text = {
 		localisation_key = string_gen_estate_burghers_Cap
 	}
@@ -1660,7 +2146,7 @@ defined_text = {
 				religion = mahayana
 				religion = vajrayana
 			}
-		}		
+		}
 	}
 	text = {
 		localisation_key = string_dat_estate_babaylanes_Cap
@@ -1701,7 +2187,49 @@ defined_text = {
 			tag = KOR
 			religion = confucianism
 		}
-	}		
+	}
+	text = {
+		localisation_key = string_dat_estate_kahuna_Cap
+		trigger = {
+			capital_scope = {
+				area = northern_polynesia_area
+			}
+			primary_culture = polynesian
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_tohunga_Cap
+		trigger = {
+			primary_culture = maori
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_taula_otua_Cap
+		trigger = {
+			tag = TOG
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_taula_aitu_Cap
+		trigger = {
+			tag = SAM
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_bete_Cap
+		trigger = {
+			OR = {
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = string_dat_estate_church_Cap
 	}
@@ -1826,7 +2354,46 @@ defined_text = {
 				tag = GER
 			}
 		}
-	}	
+	}
+	text = {
+		localisation_key = string_dat_estate_alii_Cap
+		trigger = {
+			OR = {
+				capital_scope = {
+					area = northern_polynesia_area
+				}
+				tag = SAM
+			}
+			primary_culture = polynesian
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_ariki_Cap
+		trigger = {
+			primary_culture = maori
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_eiki_Cap
+		trigger = {
+			tag = TOG
+			primary_culture = polynesian
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_ratu_Cap
+		trigger = {
+			OR = {
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = string_dat_estate_nobles_Cap
 	}
@@ -1859,7 +2426,7 @@ defined_text = {
 		trigger = {
 			NOT = { religion_group = christian }
 		}
-	}	
+	}
 	text = {
 		localisation_key = string_dat_estate_burghers_Cap
 	}
@@ -1934,7 +2501,7 @@ defined_text = {
 				religion = mahayana
 				religion = vajrayana
 			}
-		}		
+		}
 	}
 	text = {
 		localisation_key = string_ins_estate_babaylanes_Cap
@@ -1975,7 +2542,49 @@ defined_text = {
 			tag = KOR
 			religion = confucianism
 		}
-	}		
+	}
+	text = {
+		localisation_key = string_ins_estate_kahuna_Cap
+		trigger = {
+			capital_scope = {
+				area = northern_polynesia_area
+			}
+			primary_culture = polynesian
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_tohunga_Cap
+		trigger = {
+			primary_culture = maori
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_taula_otua_Cap
+		trigger = {
+			tag = TOG
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_taula_aitu_Cap
+		trigger = {
+			tag = SAM
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_bete_Cap
+		trigger = {
+			OR = {
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = string_ins_estate_church_Cap
 	}
@@ -2100,7 +2709,46 @@ defined_text = {
 				tag = GER
 			}
 		}
-	}	
+	}
+	text = {
+		localisation_key = string_ins_estate_alii
+		trigger = {
+			OR = {
+				capital_scope = {
+					area = northern_polynesia_area_Cap
+				}
+				tag = SAM
+			}
+			primary_culture = polynesian
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_ariki_Cap
+		trigger = {
+			primary_culture = maori
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_eiki_Cap
+		trigger = {
+			tag = TOG
+			primary_culture = polynesian
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_ratu_Cap
+		trigger = {
+			OR = {
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = string_ins_estate_nobles_Cap
 	}
@@ -2133,7 +2781,7 @@ defined_text = {
 		trigger = {
 			NOT = { religion_group = christian }
 		}
-	}	
+	}
 	text = {
 		localisation_key = string_ins_estate_burghers_Cap
 	}
@@ -2200,9 +2848,14 @@ defined_text = {
 				religion = mahayana
 				religion = vajrayana
 				religion = hinduism
-				tag = MAS
 			}
-		}		
+		}
+	}
+	text = {
+		localisation_key = string_NounJa_MZ
+		trigger = {
+			tag = MAS
+		}
 	}
 	text = {
 		localisation_key = string_NounJa_PM
@@ -2231,7 +2884,27 @@ defined_text = {
 			tag = KOR
 			religion = confucianism
 		}
-	}		
+	}
+	text = {
+		localisation_key = string_NounJa_MM
+		trigger = {
+			OR = {
+				primary_culture = maori
+				tag = SAM
+				tag = TOG
+				tag = LAI
+				tag = VIL
+				tag = VNL
+				AND = {
+					capital_scope = {
+						area = northern_polynesia_area
+					}
+					primary_culture = polynesian
+				}
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = string_NounJa_PN
 	}
@@ -2317,9 +2990,31 @@ defined_text = {
 				}
 				AND = {
 					tag = KOR
-					religion = confucianism				
+					religion = confucianism
 				}
 			}
+		}
+	}
+	text = {
+		localisation_key = string_NounJa_MM
+		trigger = {
+			OR = {
+				AND = {
+					OR = {
+						capital_scope = {
+							area = northern_polynesia_area
+						}
+						tag = SAM
+						tag = TOG
+					}
+					primary_culture = polynesian
+				}
+				primary_culture = maori
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
 		}
 	}
 	text = {
@@ -2354,7 +3049,7 @@ defined_text = {
 		trigger = {
 			NOT = { religion_group = christian }
 		}
-	}	
+	}
 	text = {
 		localisation_key = string_NounJa_PN
 	}
@@ -2373,9 +3068,14 @@ defined_text = {
 				religion = mahayana
 				religion = vajrayana
 				religion = hinduism
-				tag = MAS
 			}
-		}		
+		}
+	}
+	text = {
+		localisation_key = string_IA_MZ
+		trigger = {
+			tag = MAS
+		}
 	}
 	text = {
 		localisation_key = string_IA_PM
@@ -2404,7 +3104,27 @@ defined_text = {
 			tag = KOR
 			religion = confucianism
 		}
-	}		
+	}
+	text = {
+		localisation_key = string_IA_MM
+		trigger = {
+			OR = {
+				primary_culture = maori
+				tag = SAM
+				tag = TOG
+				tag = LAI
+				tag = VIL
+				tag = VNL
+				AND = {
+					capital_scope = {
+						area = northern_polynesia_area
+					}
+					primary_culture = polynesian
+				}
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = string_IA_PN
 	}
@@ -2490,9 +3210,31 @@ defined_text = {
 				}
 				AND = {
 					tag = KOR
-					religion = confucianism				
+					religion = confucianism
 				}
 			}
+		}
+	}
+	text = {
+		localisation_key = string_IA_MM
+		trigger = {
+			OR = {
+				AND = {
+					OR = {
+						capital_scope = {
+							area = northern_polynesia_area
+						}
+						tag = SAM
+						tag = TOG
+					}
+					primary_culture = polynesian
+				}
+				primary_culture = maori
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
 		}
 	}
 	text = {
@@ -2527,7 +3269,7 @@ defined_text = {
 		trigger = {
 			NOT = { religion_group = christian }
 		}
-	}	
+	}
 	text = {
 		localisation_key = string_IA_PN
 	}
@@ -2546,9 +3288,14 @@ defined_text = {
 				religion = mahayana
 				religion = vajrayana
 				religion = hinduism
-				tag = MAS
 			}
-		}		
+		}
+	}
+	text = {
+		localisation_key = string_Whose_MZ
+		trigger = {
+			tag = MAS
+		}
 	}
 	text = {
 		localisation_key = string_Whose_PM
@@ -2577,7 +3324,27 @@ defined_text = {
 			tag = KOR
 			religion = confucianism
 		}
-	}		
+	}
+	text = {
+		localisation_key = string_Whose_MM
+		trigger = {
+			OR = {
+				primary_culture = maori
+				tag = SAM
+				tag = TOG
+				tag = LAI
+				tag = VIL
+				tag = VNL
+				AND = {
+					capital_scope = {
+						area = northern_polynesia_area
+					}
+					primary_culture = polynesian
+				}
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = string_Whose_PN
 	}
@@ -2663,9 +3430,31 @@ defined_text = {
 				}
 				AND = {
 					tag = KOR
-					religion = confucianism				
+					religion = confucianism
 				}
 			}
+		}
+	}
+	text = {
+		localisation_key = string_Whose_MM
+		trigger = {
+			OR = {
+				AND = {
+					OR = {
+						capital_scope = {
+							area = northern_polynesia_area
+						}
+						tag = SAM
+						tag = TOG
+					}
+					primary_culture = polynesian
+				}
+				primary_culture = maori
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
 		}
 	}
 	text = {
@@ -2700,7 +3489,7 @@ defined_text = {
 		trigger = {
 			NOT = { religion_group = christian }
 		}
-	}	
+	}
 	text = {
 		localisation_key = string_Whose_PN
 	}
@@ -2719,9 +3508,14 @@ defined_text = {
 				religion = mahayana
 				religion = vajrayana
 				religion = hinduism
-				tag = MAS
 			}
-		}		
+		}
+	}
+	text = {
+		localisation_key = string_Whose_MZ_Cap
+		trigger = {
+			tag = MAS
+		}
 	}
 	text = {
 		localisation_key = string_Whose_PM_Cap
@@ -2750,7 +3544,27 @@ defined_text = {
 			tag = KOR
 			religion = confucianism
 		}
-	}		
+	}
+	text = {
+		localisation_key = string_Whose_MM_Cap
+		trigger = {
+			OR = {
+				primary_culture = maori
+				tag = SAM
+				tag = TOG
+				tag = LAI
+				tag = VIL
+				tag = VNL
+				AND = {
+					capital_scope = {
+						area = northern_polynesia_area
+					}
+					primary_culture = polynesian
+				}
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = string_Whose_PN_Cap
 	}
@@ -2836,9 +3650,31 @@ defined_text = {
 				}
 				AND = {
 					tag = KOR
-					religion = confucianism				
+					religion = confucianism
 				}
 			}
+		}
+	}
+	text = {
+		localisation_key = string_Whose_MM_Cap
+		trigger = {
+			OR = {
+				AND = {
+					OR = {
+						capital_scope = {
+							area = northern_polynesia_area
+						}
+						tag = SAM
+						tag = TOG
+					}
+					primary_culture = polynesian
+				}
+				primary_culture = maori
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
 		}
 	}
 	text = {
@@ -2873,7 +3709,7 @@ defined_text = {
 		trigger = {
 			NOT = { religion_group = christian }
 		}
-	}	
+	}
 	text = {
 		localisation_key = string_Whose_PN_Cap
 	}
@@ -2892,9 +3728,14 @@ defined_text = {
 				religion = mahayana
 				religion = vajrayana
 				religion = hinduism
-				tag = MAS
 			}
-		}		
+		}
+	}
+	text = {
+		localisation_key = string_IZa_MZ
+		trigger = {
+			tag = MAS
+		}
 	}
 	text = {
 		localisation_key = string_IZa_PM
@@ -2923,7 +3764,27 @@ defined_text = {
 			tag = KOR
 			religion = confucianism
 		}
-	}		
+	}
+	text = {
+		localisation_key = string_IZa_MM
+		trigger = {
+			OR = {
+				primary_culture = maori
+				tag = SAM
+				tag = TOG
+				tag = LAI
+				tag = VIL
+				tag = VNL
+				AND = {
+					capital_scope = {
+						area = northern_polynesia_area
+					}
+					primary_culture = polynesian
+				}
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = string_IZa_PN
 	}
@@ -3009,9 +3870,31 @@ defined_text = {
 				}
 				AND = {
 					tag = KOR
-					religion = confucianism				
+					religion = confucianism
 				}
 			}
+		}
+	}
+	text = {
+		localisation_key = string_IZa_MM
+		trigger = {
+			OR = {
+				AND = {
+					OR = {
+						capital_scope = {
+							area = northern_polynesia_area
+						}
+						tag = SAM
+						tag = TOG
+					}
+					primary_culture = polynesian
+				}
+				primary_culture = maori
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
 		}
 	}
 	text = {
@@ -3046,7 +3929,7 @@ defined_text = {
 		trigger = {
 			NOT = { religion_group = christian }
 		}
-	}	
+	}
 	text = {
 		localisation_key = string_IZa_PN
 	}
@@ -3065,9 +3948,14 @@ defined_text = {
 				religion = mahayana
 				religion = vajrayana
 				religion = hinduism
-				tag = MAS
 			}
-		}		
+		}
+	}
+	text = {
+		localisation_key = string_EA_MZ
+		trigger = {
+			tag = MAS
+		}
 	}
 	text = {
 		localisation_key = string_EA_PM
@@ -3096,7 +3984,27 @@ defined_text = {
 			tag = KOR
 			religion = confucianism
 		}
-	}		
+	}
+	text = {
+		localisation_key = string_EA_MM
+		trigger = {
+			OR = {
+				primary_culture = maori
+				tag = SAM
+				tag = TOG
+				tag = LAI
+				tag = VIL
+				tag = VNL
+				AND = {
+					capital_scope = {
+						area = northern_polynesia_area
+					}
+					primary_culture = polynesian
+				}
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = string_EA_PN
 	}
@@ -3182,9 +4090,31 @@ defined_text = {
 				}
 				AND = {
 					tag = KOR
-					religion = confucianism				
+					religion = confucianism
 				}
 			}
+		}
+	}
+	text = {
+		localisation_key = string_EA_MM
+		trigger = {
+			OR = {
+				AND = {
+					OR = {
+						capital_scope = {
+							area = northern_polynesia_area
+						}
+						tag = SAM
+						tag = TOG
+					}
+					primary_culture = polynesian
+				}
+				primary_culture = maori
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
 		}
 	}
 	text = {
@@ -3219,7 +4149,7 @@ defined_text = {
 		trigger = {
 			NOT = { religion_group = christian }
 		}
-	}	
+	}
 	text = {
 		localisation_key = string_EA_PN
 	}
@@ -3238,9 +4168,14 @@ defined_text = {
 				religion = mahayana
 				religion = vajrayana
 				religion = hinduism
-				tag = MAS
 			}
-		}		
+		}
+	}
+	text = {
+		localisation_key = string_ZieA_MZ
+		trigger = {
+			tag = MAS
+		}
 	}
 	text = {
 		localisation_key = string_ZieA_PM
@@ -3269,7 +4204,27 @@ defined_text = {
 			tag = KOR
 			religion = confucianism
 		}
-	}		
+	}
+	text = {
+		localisation_key = string_ZieA_MM
+		trigger = {
+			OR = {
+				primary_culture = maori
+				tag = SAM
+				tag = TOG
+				tag = LAI
+				tag = VIL
+				tag = VNL
+				AND = {
+					capital_scope = {
+						area = northern_polynesia_area
+					}
+					primary_culture = polynesian
+				}
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = string_ZieA_PN
 	}
@@ -3355,9 +4310,31 @@ defined_text = {
 				}
 				AND = {
 					tag = KOR
-					religion = confucianism				
+					religion = confucianism
 				}
 			}
+		}
+	}
+	text = {
+		localisation_key = string_ZieA_MM
+		trigger = {
+			OR = {
+				AND = {
+					OR = {
+						capital_scope = {
+							area = northern_polynesia_area
+						}
+						tag = SAM
+						tag = TOG
+					}
+					primary_culture = polynesian
+				}
+				primary_culture = maori
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
 		}
 	}
 	text = {
@@ -3392,7 +4369,7 @@ defined_text = {
 		trigger = {
 			NOT = { religion_group = christian }
 		}
-	}	
+	}
 	text = {
 		localisation_key = string_ZieA_PN
 	}
@@ -3411,9 +4388,14 @@ defined_text = {
 				religion = mahayana
 				religion = vajrayana
 				religion = hinduism
-				tag = MAS
 			}
-		}		
+		}
+	}
+	text = {
+		localisation_key = string_Who_MZ
+		trigger = {
+			tag = MAS
+		}
 	}
 	text = {
 		localisation_key = string_Who_PM
@@ -3442,7 +4424,27 @@ defined_text = {
 			tag = KOR
 			religion = confucianism
 		}
-	}		
+	}
+	text = {
+		localisation_key = string_Who_MM
+		trigger = {
+			OR = {
+				primary_culture = maori
+				tag = SAM
+				tag = TOG
+				tag = LAI
+				tag = VIL
+				tag = VNL
+				AND = {
+					capital_scope = {
+						area = northern_polynesia_area
+					}
+					primary_culture = polynesian
+				}
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = string_Who_PN
 	}
@@ -3528,9 +4530,31 @@ defined_text = {
 				}
 				AND = {
 					tag = KOR
-					religion = confucianism				
+					religion = confucianism
 				}
 			}
+		}
+	}
+	text = {
+		localisation_key = string_Who_MM
+		trigger = {
+			OR = {
+				AND = {
+					OR = {
+						capital_scope = {
+							area = northern_polynesia_area
+						}
+						tag = SAM
+						tag = TOG
+					}
+					primary_culture = polynesian
+				}
+				primary_culture = maori
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
 		}
 	}
 	text = {
@@ -3565,7 +4589,7 @@ defined_text = {
 		trigger = {
 			NOT = { religion_group = christian }
 		}
-	}	
+	}
 	text = {
 		localisation_key = string_Who_PN
 	}
@@ -3584,9 +4608,14 @@ defined_text = {
 				religion = mahayana
 				religion = vajrayana
 				religion = hinduism
-				tag = MAS
 			}
-		}		
+		}
+	}
+	text = {
+		localisation_key = string_NormEnd_MZ
+		trigger = {
+			tag = MAS
+		}
 	}
 	text = {
 		localisation_key = string_NormEnd_PM
@@ -3615,7 +4644,27 @@ defined_text = {
 			tag = KOR
 			religion = confucianism
 		}
-	}		
+	}
+	text = {
+		localisation_key = string_NormEnd_MM
+		trigger = {
+			OR = {
+				primary_culture = maori
+				tag = SAM
+				tag = TOG
+				tag = LAI
+				tag = VIL
+				tag = VNL
+				AND = {
+					capital_scope = {
+						area = northern_polynesia_area
+					}
+					primary_culture = polynesian
+				}
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = string_NormEnd_PN
 	}
@@ -3701,9 +4750,31 @@ defined_text = {
 				}
 				AND = {
 					tag = KOR
-					religion = confucianism				
+					religion = confucianism
 				}
 			}
+		}
+	}
+	text = {
+		localisation_key = string_NormEnd_MM
+		trigger = {
+			OR = {
+				AND = {
+					OR = {
+						capital_scope = {
+							area = northern_polynesia_area
+						}
+						tag = SAM
+						tag = TOG
+					}
+					primary_culture = polynesian
+				}
+				primary_culture = maori
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
 		}
 	}
 	text = {
@@ -3738,7 +4809,7 @@ defined_text = {
 		trigger = {
 			NOT = { religion_group = christian }
 		}
-	}	
+	}
 	text = {
 		localisation_key = string_NormEnd_PN
 	}
@@ -3757,9 +4828,14 @@ defined_text = {
 				religion = mahayana
 				religion = vajrayana
 				religion = hinduism
-				tag = MAS
 			}
-		}		
+		}
+	}
+	text = {
+		localisation_key = string_BE_MZ
+		trigger = {
+			tag = MAS
+		}
 	}
 	text = {
 		localisation_key = string_BE_PM
@@ -3788,9 +4864,29 @@ defined_text = {
 			tag = KOR
 			religion = confucianism
 		}
-	}		
+	}
 	text = {
-		localisation_key = string_BE_PN
+		localisation_key = string_BE_MM
+		trigger = {
+			OR = {
+				primary_culture = maori
+				tag = SAM
+				tag = TOG
+				tag = LAI
+				tag = VIL
+				tag = VNL
+				AND = {
+					capital_scope = {
+						area = northern_polynesia_area
+					}
+					primary_culture = polynesian
+				}
+			}
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_BE_MM
 	}
 }
 
@@ -3874,9 +4970,31 @@ defined_text = {
 				}
 				AND = {
 					tag = KOR
-					religion = confucianism				
+					religion = confucianism
 				}
 			}
+		}
+	}
+	text = {
+		localisation_key = string_BE_MM
+		trigger = {
+			OR = {
+				AND = {
+					OR = {
+						capital_scope = {
+							area = northern_polynesia_area
+						}
+						tag = SAM
+						tag = TOG
+					}
+					primary_culture = polynesian
+				}
+				primary_culture = maori
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
 		}
 	}
 	text = {
@@ -3911,7 +5029,7 @@ defined_text = {
 		trigger = {
 			NOT = { religion_group = christian }
 		}
-	}	
+	}
 	text = {
 		localisation_key = string_BE_PN
 	}
@@ -3930,9 +5048,14 @@ defined_text = {
 				religion = mahayana
 				religion = vajrayana
 				religion = hinduism
-				tag = MAS
 			}
-		}		
+		}
+	}
+	text = {
+		localisation_key = string_AdjEndS_MZ
+		trigger = {
+			tag = MAS
+		}
 	}
 	text = {
 		localisation_key = string_AdjEndS_PM
@@ -3961,7 +5084,27 @@ defined_text = {
 			tag = KOR
 			religion = confucianism
 		}
-	}		
+	}
+	text = {
+		localisation_key = string_AdjEndS_MM
+		trigger = {
+			OR = {
+				primary_culture = maori
+				tag = SAM
+				tag = TOG
+				tag = LAI
+				tag = VIL
+				tag = VNL
+				AND = {
+					capital_scope = {
+						area = northern_polynesia_area
+					}
+					primary_culture = polynesian
+				}
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = string_AdjEndS_PN
 	}
@@ -4047,9 +5190,31 @@ defined_text = {
 				}
 				AND = {
 					tag = KOR
-					religion = confucianism				
+					religion = confucianism
 				}
 			}
+		}
+	}
+	text = {
+		localisation_key = string_AdjEndS_MM
+		trigger = {
+			OR = {
+				AND = {
+					OR = {
+						capital_scope = {
+							area = northern_polynesia_area
+						}
+						tag = SAM
+						tag = TOG
+					}
+					primary_culture = polynesian
+				}
+				primary_culture = maori
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
 		}
 	}
 	text = {
@@ -4084,7 +5249,7 @@ defined_text = {
 		trigger = {
 			NOT = { religion_group = christian }
 		}
-	}	
+	}
 	text = {
 		localisation_key = string_AdjEndS_PN
 	}
@@ -4103,9 +5268,14 @@ defined_text = {
 				religion = mahayana
 				religion = vajrayana
 				religion = hinduism
-				tag = MAS
 			}
-		}		
+		}
+	}
+	text = {
+		localisation_key = string_NounA_MZ
+		trigger = {
+			tag = MAS
+		}
 	}
 	text = {
 		localisation_key = string_NounA_PM
@@ -4134,7 +5304,27 @@ defined_text = {
 			tag = KOR
 			religion = confucianism
 		}
-	}		
+	}
+	text = {
+		localisation_key = string_NounA_MM
+		trigger = {
+			OR = {
+				primary_culture = maori
+				tag = SAM
+				tag = TOG
+				tag = LAI
+				tag = VIL
+				tag = VNL
+				AND = {
+					capital_scope = {
+						area = northern_polynesia_area
+					}
+					primary_culture = polynesian
+				}
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = string_NounA_PN
 	}
@@ -4220,9 +5410,31 @@ defined_text = {
 				}
 				AND = {
 					tag = KOR
-					religion = confucianism				
+					religion = confucianism
 				}
 			}
+		}
+	}
+	text = {
+		localisation_key = string_NounA_MM
+		trigger = {
+			OR = {
+				AND = {
+					OR = {
+						capital_scope = {
+							area = northern_polynesia_area
+						}
+						tag = SAM
+						tag = TOG
+					}
+					primary_culture = polynesian
+				}
+				primary_culture = maori
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
 		}
 	}
 	text = {
@@ -4257,7 +5469,7 @@ defined_text = {
 		trigger = {
 			NOT = { religion_group = christian }
 		}
-	}	
+	}
 	text = {
 		localisation_key = string_NounA_PN
 	}
@@ -4276,9 +5488,14 @@ defined_text = {
 				religion = mahayana
 				religion = vajrayana
 				religion = hinduism
-				tag = MAS
 			}
-		}		
+		}
+	}
+	text = {
+		localisation_key = string_Conc_MZ
+		trigger = {
+			tag = MAS
+		}
 	}
 	text = {
 		localisation_key = string_Conc_PM
@@ -4307,7 +5524,27 @@ defined_text = {
 			tag = KOR
 			religion = confucianism
 		}
-	}		
+	}
+	text = {
+		localisation_key = string_Conc_MM
+		trigger = {
+			OR = {
+				primary_culture = maori
+				tag = SAM
+				tag = TOG
+				tag = LAI
+				tag = VIL
+				tag = VNL
+				AND = {
+					capital_scope = {
+						area = northern_polynesia_area
+					}
+					primary_culture = polynesian
+				}
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = string_Conc_PN
 	}
@@ -4393,9 +5630,31 @@ defined_text = {
 				}
 				AND = {
 					tag = KOR
-					religion = confucianism				
+					religion = confucianism
 				}
 			}
+		}
+	}
+	text = {
+		localisation_key = string_Conc_MM
+		trigger = {
+			OR = {
+				AND = {
+					OR = {
+						capital_scope = {
+							area = northern_polynesia_area
+						}
+						tag = SAM
+						tag = TOG
+					}
+					primary_culture = polynesian
+				}
+				primary_culture = maori
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
 		}
 	}
 	text = {
@@ -4430,7 +5689,7 @@ defined_text = {
 		trigger = {
 			NOT = { religion_group = christian }
 		}
-	}	
+	}
 	text = {
 		localisation_key = string_Conc_PN
 	}
@@ -4449,9 +5708,14 @@ defined_text = {
 				religion = mahayana
 				religion = vajrayana
 				religion = hinduism
-				tag = MAS
 			}
-		}		
+		}
+	}
+	text = {
+		localisation_key = string_AdjEnd_MZ
+		trigger = {
+			tag = MAS
+		}
 	}
 	text = {
 		localisation_key = string_AdjEnd_PM
@@ -4480,7 +5744,27 @@ defined_text = {
 			tag = KOR
 			religion = confucianism
 		}
-	}		
+	}
+	text = {
+		localisation_key = string_AdjEnd_MM
+		trigger = {
+			OR = {
+				primary_culture = maori
+				tag = SAM
+				tag = TOG
+				tag = LAI
+				tag = VIL
+				tag = VNL
+				AND = {
+					capital_scope = {
+						area = northern_polynesia_area
+					}
+					primary_culture = polynesian
+				}
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = string_AdjEnd_PN
 	}
@@ -4566,9 +5850,31 @@ defined_text = {
 				}
 				AND = {
 					tag = KOR
-					religion = confucianism				
+					religion = confucianism
 				}
 			}
+		}
+	}
+	text = {
+		localisation_key = string_AdjEnd_MM
+		trigger = {
+			OR = {
+				AND = {
+					OR = {
+						capital_scope = {
+							area = northern_polynesia_area
+						}
+						tag = SAM
+						tag = TOG
+					}
+					primary_culture = polynesian
+				}
+				primary_culture = maori
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
 		}
 	}
 	text = {
@@ -4603,7 +5909,7 @@ defined_text = {
 		trigger = {
 			NOT = { religion_group = christian }
 		}
-	}	
+	}
 	text = {
 		localisation_key = string_AdjEnd_PN
 	}
@@ -4622,9 +5928,14 @@ defined_text = {
 				religion = mahayana
 				religion = vajrayana
 				religion = hinduism
-				tag = MAS
 			}
-		}		
+		}
+	}
+	text = {
+		localisation_key = string_PastEnd_MZ
+		trigger = {
+			tag = MAS
+		}
 	}
 	text = {
 		localisation_key = string_PastEnd_PM
@@ -4653,7 +5964,27 @@ defined_text = {
 			tag = KOR
 			religion = confucianism
 		}
-	}		
+	}
+	text = {
+		localisation_key = string_PastEnd_MM
+		trigger = {
+			OR = {
+				primary_culture = maori
+				tag = SAM
+				tag = TOG
+				tag = LAI
+				tag = VIL
+				tag = VNL
+				AND = {
+					capital_scope = {
+						area = northern_polynesia_area
+					}
+					primary_culture = polynesian
+				}
+			}
+			religion = animism
+		}
+	}
 	text = {
 		localisation_key = string_PastEnd_PN
 	}
@@ -4739,9 +6070,31 @@ defined_text = {
 				}
 				AND = {
 					tag = KOR
-					religion = confucianism				
+					religion = confucianism
 				}
 			}
+		}
+	}
+	text = {
+		localisation_key = string_PastEnd_MM
+		trigger = {
+			OR = {
+				AND = {
+					OR = {
+						capital_scope = {
+							area = northern_polynesia_area
+						}
+						tag = SAM
+						tag = TOG
+					}
+					primary_culture = polynesian
+				}
+				primary_culture = maori
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
 		}
 	}
 	text = {
@@ -4776,7 +6129,7 @@ defined_text = {
 		trigger = {
 			NOT = { religion_group = christian }
 		}
-	}	
+	}
 	text = {
 		localisation_key = string_PastEnd_PN
 	}
