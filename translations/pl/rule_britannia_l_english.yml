@@ -445,7 +445,7 @@
  INNOVATIVENESS_AMOUNT: "Obecnie uzyskaliśmy $AMOUNT|Y$ innowacyjności."
  INNOVATIVENESS_CHANGE_DESC: "Naszą innowacyjność modyfikują:\n"
  INNOVATIVENESS_FULL_MOD_DESC: "\nEfekt innowacyjności przy §Y100§!:\n$MOD$"
- INNOVATIVENESS_DESC: "Innowacyjność można zwiększyć poprzez:\nNajwyższy poziom technologi: §G+2§!\nNajwięcej idei: §G+1§!\nPrzed czasem: §G+0.005§!/miesięcznie\n\nInnowacyjność jest zmniejszana przez\nZa sąsiadami: §R-0.03§!/miesięcznie\n"
+ INNOVATIVENESS_DESC: "Innowacyjność można zwiększyć poprzez:\nNajwyższy poziom technologii: $FIRSTINTECH|G$\nNajwięcej idei: $FIRSTINIDEA|G$\nPrzed czasem: $AHEADOFTIME|G$/miesięcznie\n\nInnowacyjność jest zmniejszana przez\nZa sąsiadami: $BEHINDNEIGHBOURS|R$/miesięcznie\n"
  INNOVATIVENESS_MOD_DESC: "\nEfekt aktualnej innowacyjności:\n$MOD$"
  TECH_INNOVATIVENESS_DATE: "\nPoziom technologii $TECH|Y$ został osiągnięty jako pierwszy w $DATE|Y$."
  TECH_INNOVATIVENESS_DAYS_LEFT: "Będzie to dostępne przez $DAYS|Y$ dni."
