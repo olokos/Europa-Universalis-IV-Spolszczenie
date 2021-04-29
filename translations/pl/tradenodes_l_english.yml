@@ -77,7 +77,7 @@
  TRADE_MISSION_OFFICE_DESC: "Pozwala ci na czerpanie zysków z handlu. Do czerpania zysków z handlu poza twoim węzłem domowym wymagana jest obecność kupca. Po odwołaniu kupca, węzeł będzie jedynie przesyłać siłę handlową."
  TRADE_MISSION_TRANSIT_DESC: "Każdy węzeł w którym posiadasz wpływy, nie będący twoim głównym miastem handlowym, jest węzłem przesyłowym. Twoja siła w tym obszarze pozwoli ci sterować handlem oraz sprawi, że wartość handlu przeniesie się w dół łańcucha."
  NON_CAPITAL_OFFICE_2: "Zyski z handlu poza twoim głównym miastem handlowym: $VAL$"
- ENVOY_TRADING_TRADE_MISSION_TRANSIT: ""
+ ENVOY_TRADING_TRADE_MISSION_TRANSIT: "$NAME$ znajduje się w prowincji §Y$FROMPROV$§W i przekierowuje siłę handlową do prowincji §Y$TOPROV$§W."
  ENVOY_TRADING_TRADE_MISSION_OFFICE: "$NAME$ czerpie zyski z handlu w §Y$PROV$§W."
  MERCHANT_PRESENT: "Obecność kupca: §Y$VAL$§W"
  TRADE_POWER_PUSH_DESC: "§Y$VAL$§W% siły jest używane do celów handlowych."
