@@ -24,7 +24,7 @@
  MERCENARY_COMPANY_MANPOWER_DELAYED: "Kompanie najemników uzupełniają się z własnych zasobów ludzkich. Gdy są zatrudnieni ilość dostępnych zasobów ludzkich będzie rosła bardzo powoli, a gdy nie są w polu to będą odzyskiwać je znacznie szybciej."
  MERCENARY_COMPANY_EFFECTS: "Z tradycji $COMPANY|Y$:\n"
  REINFORCE_MERCENARY_COMPANY_EXTRA: "i $VALUE$ z $COMPANY|Y$"
- MERC_COMP_MANPOWER_BASE: ""
+ MERC_COMP_MANPOWER_BASE: "Maksymalne zasoby ludzkie $MP|Y$ ze względu na $VAL|Y$ pierwotne pułki."
  MERC_COMP_MANPOWER_CHANGE: "Zmodyfikowany o $VAL|+=2%$ z powodu:\n$WHY$"
  BUILD_UNIT_NOT_MERCENARY_COMPANY: "Kompanie najemników nie mogą rekrutować więcej jednostek."
  alert_mercenary_company_low_manpower_instant: "§YKompania najemników wyczerpała zasoby ludzkie§!"
