@@ -23,7 +23,7 @@
  client_vassal_long_desc: "Podobnie jak zwykły wasal, Państwo Zależne musi podążać za swoim zwierzchnikiem na wojnę, nie może podejmować pewnych działań dyplomatycznych i oddaje część swojego dochodu zwierzchnikowi."
  daimyo_vassal_long_desc: "Poddany Daimyo musi podążać za swoim zwierzchnikiem na wojnę, nie może podejmować pewnych działań dyplomatycznych i oddaje ułamek swojego dochodu zwierzchnikowi. Poddani Daimyo mogą także ze sobą walczyć."
  client_march_long_desc: "Podobnie jak zwykła Marchia, Marchia Zależna nie może być anektowana i nie płaci żadnych podatków, ale ma większą zdolność wojskową niż zwykły wasal."
- colony_long_desc: ""
+ colony_long_desc: "Kolonia jest oddzielnym państwem pod rządami tamtejszego władcy. Kolonie są zobowiązane do płacenia miesięcznych opłat celnych opartych na produkcji dla macierzystego władcy oraz przekażą $TRADE|0%$ swojej mocy handlowej. Kolonie mogą wypowiadać wojny jedynie prymitywnym ludom lub innym koloniom"
  protectorate_long_desc: "Protektorat przekazuje suwerenowi połowę swojej siły handlowej, zaś suweren broni go."
  personal_union_long_desc: "W unii personalnej oba kraje są rządzone przez tego samego monarchę. Podrzędny partner musi dołączyć do wojny suwerena oraz nie może dokonać pewnych działań dyplomatycznych. Gdy władca umiera, unia może być kontynuowana, zerwana lub podrzędny partner może zostać odziedziczony i zaanektowany."
  vassal_is_our: "Kraj $NAME|Y$ jest naszym wasalem."
