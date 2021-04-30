@@ -23,7 +23,7 @@
  client_vassal_long_desc:0 "Podobnie jak zwyk³y wasal, Paªstwo Zale¿ne musi pod¹¿a¾ za swoim zwierzchnikiem na wojn², nie mo¿e podejmowa¾ pewnych dzia³aª dyplomatycznych i oddaje cz²œ¾ swojego dochodu zwierzchnikowi."
  daimyo_vassal_long_desc:0 "Poddany Daimyo musi pod¹¿a¾ za swoim zwierzchnikiem na wojn², nie mo¿e podejmowa¾ pewnych dzia³aª dyplomatycznych i oddaje u³amek swojego dochodu zwierzchnikowi. Poddani Daimyo mog¹ tak¿e ze sob¹ walczy¾."
  client_march_long_desc:0 "Podobnie jak zwyk³a Marchia, Marchia Zale¿na nie mo¿e by¾ anektowana i nie p³aci ¿adnych podatków, ale ma wi²ksz¹ zdolnoœ¾ wojskow¹ ni¿ zwyk³y wasal."
- colony_long_desc:0 "A colony is a separate colonial state under the rule of their overlord. Colonies are required to pay a monthly tariff based on half of production and trade to their overlord and will submit $TRADE|0%$ amount of their trade power. Colonies can only declare war on primitives or other colonies."
+ colony_long_desc:0 "Kolonia jest oddzielnym paªstwem pod rz¹dami tamtejszego w³adcy. Kolonie s¹ zobowi¹zane do p³acenia miesi²cznych op³at celnych opartych na produkcji dla macierzystego w³adcy oraz przeka¿¹ $TRADE|0%$ swojej mocy handlowej. Kolonie mog¹ wypowiada¾ wojny jedynie prymitywnym ludom lub innym koloniom"
  protectorate_long_desc:0 "Protektorat przekazuje suwerenowi po³ow² swojej si³y handlowej, zaœ suweren broni go."
  personal_union_long_desc:0 "W unii personalnej oba kraje s¹ rz¹dzone przez tego samego monarch². Podrz²dny partner musi do³¹czy¾ do wojny suwerena oraz nie mo¿e dokona¾ pewnych dzia³aª dyplomatycznych. Gdy w³adca umiera, unia mo¿e by¾ kontynuowana, zerwana lub podrz²dny partner mo¿e zosta¾ odziedziczony i zaanektowany."
  vassal_is_our:0 "Kraj $NAME|Y$ jest naszym wasalem."

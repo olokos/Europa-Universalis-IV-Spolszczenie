@@ -445,7 +445,7 @@
  INNOVATIVENESS_AMOUNT:0 "Obecnie uzyskaliœmy $AMOUNT|Y$ innowacyjnoœci."
  INNOVATIVENESS_CHANGE_DESC:0 "Nasz¹ innowacyjnoœ¾ modyfikuj¹:\n"
  INNOVATIVENESS_FULL_MOD_DESC:0 "\nEfekt innowacyjnoœci przy §Y100§!:\n$MOD$"
- INNOVATIVENESS_DESC:0 "Innowacyjnoœ¾ mo¿na zwi²kszy¾ poprzez:\nNajwy¿szy poziom technologi: §G+2§!\nNajwi²cej idei: §G+1§!\nPrzed czasem: §G+0.005§!/miesi²cznie\n\nInnowacyjnoœ¾ jest zmniejszana przez\nZa s¹siadami: §R-0.03§!/miesi²cznie\n"
+ INNOVATIVENESS_DESC:0 "Innowacyjnoœ¾ mo¿na zwi²kszy¾ poprzez:\nNajwy¿szy poziom technologii: $FIRSTINTECH|G$\nNajwi²cej idei: $FIRSTINIDEA|G$\nPrzed czasem: $AHEADOFTIME|G$/miesi²cznie\n\nInnowacyjnoœ¾ jest zmniejszana przez\nZa s¹siadami: $BEHINDNEIGHBOURS|R$/miesi²cznie\n"
  INNOVATIVENESS_MOD_DESC:0 "\nEfekt aktualnej innowacyjnoœci:\n$MOD$"
  TECH_INNOVATIVENESS_DATE:0 "\nPoziom technologii $TECH|Y$ zosta³ osi¹gni²ty jako pierwszy w $DATE|Y$."
  TECH_INNOVATIVENESS_DAYS_LEFT:0 "B²dzie to dost²pne przez $DAYS|Y$ dni."

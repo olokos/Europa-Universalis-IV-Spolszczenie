@@ -100,7 +100,7 @@
  MAPMODE_COLONIALANDTRADECOMPANYREGIONS_DESC: "Regiony, w których mogą powstawać państwa kolonijne i kompanie handlowe."
  NOT_IN_FEDERATION: "$NAME$ nie jest członkiem federacji"
  federation_leader: "Przywódca federacji"
- FEDERATION_LEADER: ""
+ FEDERATION_LEADER: "Przywódca federacji: $LEADER|Y$"
  FEDERATION_MEMBERS: "Członkowie federacji: $MEMBERS|Y$"
  FEDERATION_LEADER_BONUS: "Przywódca federacji otrzymuje następujące premie:\n$BONUS$"
  FEDERATION_OF: "Federacja $LEADER$"

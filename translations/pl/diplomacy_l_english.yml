@@ -235,7 +235,7 @@
  SLANDERMERCHANTSALREADYPRESENTDESC: "Ich kupcy są już oczerniani."
  SUPPORTREBELSTITLE: "Wspieraj buntowników"
  SUPPORTREBELSDESC: "\nWspieraj buntowników w kraju."
- SUPPORTREBELSDESCDERIVED: ""
+ SUPPORTREBELSDESCDERIVED: "Wspieranie buntowników zmniejszy rozmiar naszej siatki szpiegowskiej na terenie $ADJ|Y$ o $COST|R$ i zwiększy ich szansę na wzniecenie powstania o §Y$AMT$%§! miesięcznie przez okres $YEARS|Y$ lat.\nBędziesz też wspierać ich podczas powstania. Jeśli zdobędą władzę, zostaną twoim sojusznikiem."
  SUPPORTREBELSDESCALREADYPRESENTDESC: "Ktoś już wspiera wybranych buntowników ze wskazanego kraju."
  SUPPORTREBELSDESCNOREBELSDESC: "Brak buntowników do wsparcia."
  SUPPORT_REBELS_OVERLORD: "Nie da się wspierać buntowników w kraju będącym twoim poddanym."

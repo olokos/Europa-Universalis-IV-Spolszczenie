@@ -8,7 +8,7 @@
  CENTRALIZE_STATE_DONE:0 "You already have centralized this State"
  CENTRALIZE_STATE_PROGRESS:0 "The construction is already in progress. It will be finished by $DATE$"
  CONFIRM_CENTRALIZE_STATE:0 "Centralize State of $STATE$"
- CONFIRM_CENTRALIZE_STATE_TEXT:0 "Are you sure you want to spend $COST|0$ of government progress to centralize the $STATE|Y$ in the province of $PROVINCE|Y$, and reduce it's governing cost by $REDUCTION|0Y$? It will take $YEARS|0Y$ years."
+ CONFIRM_CENTRALIZE_STATE_TEXT:0 "Are you sure you want to spend $COST|0Y$ of government progress to centralize the $STATE|Y$ in the province of $PROVINCE|Y$, and reduce it's governing cost by $REDUCTION|0Y$? It will take $YEARS|0Y$ years."
  CENTRALIZE_STATE_CONSTRUCTION_TITLE:0 "Centralize state completed"
  CENTRALIZE_STATE_CONSTRUCTION_SETUP:0 "When centralize state completed."
  CENTRALIZE_STATE_CONSTRUCTION_1:0 "Centralize State completed"

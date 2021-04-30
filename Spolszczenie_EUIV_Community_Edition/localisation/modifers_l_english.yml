@@ -2092,7 +2092,7 @@
  MODIFIER_POWER_PROJECTION_FROM_INSULTS:0 "Prognozowana pot²ga od zniewag "
  MODIFIER_LOCAL_RELIGIOUS_UNITY_CONTRIBUTION:0 "Lokalny wk³ad w jednoœ¾ religijn¹"
  IDEA_MAY_CONVERT_TERRITORIES:0 "Mo¿e nawraca¾ religi² na terytoriach."
- territory_core:0 "Terytorium"
+ territory_core:0 "Terytorium narodowe"
  territory_non_core:0 "Terytorium"
  territory:0 "Terytorium"
  mor_saharan_trade:0 "Saharan Trade"

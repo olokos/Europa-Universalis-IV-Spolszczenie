@@ -100,7 +100,7 @@
  MAPMODE_COLONIALANDTRADECOMPANYREGIONS_DESC:0 "Regiony, w których mog¹ powstawa¾ paªstwa kolonijne i kompanie handlowe."
  NOT_IN_FEDERATION:0 "$NAME$ nie jest cz³onkiem federacji"
  federation_leader:0 "Przywódca federacji"
- FEDERATION_LEADER:0 "Federation leader: $LEADER|Y$"
+ FEDERATION_LEADER:0 "Przywódca federacji: $LEADER|Y$"
  FEDERATION_MEMBERS:0 "Cz³onkowie federacji: $MEMBERS|Y$"
  FEDERATION_LEADER_BONUS:0 "Przywódca federacji otrzymuje nast²puj¹ce premie:\n$BONUS$"
  FEDERATION_OF:0 "Federacja $LEADER$"

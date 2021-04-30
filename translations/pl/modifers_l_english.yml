@@ -2092,7 +2092,7 @@
  MODIFIER_POWER_PROJECTION_FROM_INSULTS: "Prognozowana potęga od zniewag "
  MODIFIER_LOCAL_RELIGIOUS_UNITY_CONTRIBUTION: "Lokalny wkład w jedność religijną"
  IDEA_MAY_CONVERT_TERRITORIES: "Może nawracać religię na terytoriach."
- territory_core: "Terytorium"
+ territory_core: "Terytorium narodowe"
  territory_non_core: "Terytorium"
  territory: "Terytorium"
  mor_saharan_trade: ""

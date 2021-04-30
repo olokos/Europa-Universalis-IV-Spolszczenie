@@ -125,7 +125,7 @@
  papacy_events.31.t:0 "Papal Rivalry"
  papacy_events.31.d:0 "The current Papal controller is pressuring [From.Monarch.GetTitle] [From.Monarch.GetName] to undo decisions, papal bulls and decrees of the previous [From.Monarch.GetTitle] who we were Papal controller of. It would soil our and our [From.Monarch.GetTitle]'s reputation, making us both look incompetent!"
  papacy_events.31.a:0 "The bast... [From.Monarch.GetName] actually did it!"
- papacy_events.31.b:0 "Thankfully, [From.Monarch.GetTitle] [From.Monarch.GetName] refused!"
+ papacy_events.31.b:0 "[From.Monarch.GetTitle] [From.Monarch.GetName] odmawia!"
  opinion_swiss_guard:0 "Sent Swiss Guard"
  opinion_no_swiss_guard:0 "Nie dla Gwardii Szwajcarskiej"
  pap_swiss_guard:0 "Gwardia Szwajcarska"

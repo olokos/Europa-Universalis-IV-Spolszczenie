@@ -505,7 +505,7 @@
  KOR_faction_reason_3:0 "their competition for the [Root.Monarch.GetTitle]'s favor"
  KOR_faction_reason_4:0 "one leader accidentally insulted the other's honor, which"
  string_neoconfucians:0 "Neokonfucjaªscy reformatorzy"
- string_yangban_admins:0 "Jangbaªscy Administratorzy"
+ string_yangban_admins:0 "Jangbaªscy administratorzy"
  string_yangban_scholars:0 "Jangbaªscy uczeni"
  kor_manchurian_expedition:0 "The Manchurian Expedition"
  desc_kor_manchurian_expedition:0 "In preparation for the Manchurian Expedition, the drillmasters have paid particular attention to ensuring that the troops are well-prepared."

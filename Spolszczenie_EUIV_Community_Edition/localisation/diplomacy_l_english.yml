@@ -235,7 +235,7 @@
  SLANDERMERCHANTSALREADYPRESENTDESC:0 "Ich kupcy s¹ ju¿ oczerniani."
  SUPPORTREBELSTITLE:0 "Wspieraj buntowników"
  SUPPORTREBELSDESC:0 "\nWspieraj buntowników w kraju."
- SUPPORTREBELSDESCDERIVED:0 "Supporting a rebel faction will reduce the size of our $ADJ|Y$ Spy Network by $COST|R$ and increase their chance of making progress towards an uprising each month by §Y$AMT$%§! for a period of $YEARS|Y$ years.\nYou will also support them during their uprising. If the rebels gain power they will become your ally."
+ SUPPORTREBELSDESCDERIVED:0 "Wspieranie buntowników zmniejszy rozmiar naszej siatki szpiegowskiej na terenie $ADJ|Y$ o $COST|R$ i zwi²kszy ich szans² na wzniecenie powstania o §Y$AMT$%§! miesi²cznie przez okres $YEARS|Y$ lat.\nB²dziesz te¿ wspiera¾ ich podczas powstania. Jeœli zdob²d¹ w³adz², zostan¹ twoim sojusznikiem."
  SUPPORTREBELSDESCALREADYPRESENTDESC:0 "Ktoœ ju¿ wspiera wybranych buntowników ze wskazanego kraju."
  SUPPORTREBELSDESCNOREBELSDESC:0 "Brak buntowników do wsparcia."
  SUPPORT_REBELS_OVERLORD:0 "Nie da si² wspiera¾ buntowników w kraju b²d¹cym twoim poddanym."

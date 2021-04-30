@@ -24,7 +24,7 @@
  MERCENARY_COMPANY_MANPOWER_DELAYED:0 "Kompanie najemników uzupe³niaj¹ si² z w³asnych zasobów ludzkich. Gdy s¹ zatrudnieni iloœ¾ dost²pnych zasobów ludzkich b²dzie ros³a bardzo powoli, a gdy nie s¹ w polu to b²d¹ odzyskiwa¾ je znacznie szybciej."
  MERCENARY_COMPANY_EFFECTS:0 "Z tradycji $COMPANY|Y$:\n"
  REINFORCE_MERCENARY_COMPANY_EXTRA:0 "i $VALUE$ z $COMPANY|Y$"
- MERC_COMP_MANPOWER_BASE:0 "The Maximum Manpower of $MP|Y$ is due to $VAL|Y$ original regiments."
+ MERC_COMP_MANPOWER_BASE:0 "Maksymalne zasoby ludzkie $MP|Y$ ze wzgl²du na $VAL|Y$ pierwotne pu³ki."
  MERC_COMP_MANPOWER_CHANGE:0 "Zmodyfikowany o $VAL|+=2%$ z powodu:\n$WHY$"
  BUILD_UNIT_NOT_MERCENARY_COMPANY:0 "Kompanie najemników nie mog¹ rekrutowa¾ wi²cej jednostek."
  alert_mercenary_company_low_manpower_instant:0 "§YKompania najemników wyczerpa³a zasoby ludzkie§!"

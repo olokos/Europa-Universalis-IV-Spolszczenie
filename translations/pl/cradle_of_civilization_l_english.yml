@@ -182,7 +182,7 @@
  establish_communities_desc: "Twój kupiec będzie dążył do poprawy stosunków z innymi krajami aktywnymi w węźle."
  improve_inland_routes_desc: "Twój kupiec będzie zbierał wiedzę o terenie w tym węźle, co przyniesie korzyści twoim armiom."
  propagate_religion_desc: "Twój bogobojny kupiec będzie pracował nad szerzeniem jedynej prawdziwej wiary w tym węźle."
- TRADING_POLICY_EFFECT: ""
+ TRADING_POLICY_EFFECT: "$NAME|Y$ Polityka handlowa:\n$MOD$"
  PROVINCES_IN_NODE: "§YWszystkie prowincje w tym węźle:§!\n"
  DESELECT_CARPET_AREA: ""
  CANCEL_DRILLING_MOVE_CONFIRM_TITLE: "Anuluj musztrę wojskową"

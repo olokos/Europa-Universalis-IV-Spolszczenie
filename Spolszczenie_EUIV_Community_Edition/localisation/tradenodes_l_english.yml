@@ -77,7 +77,7 @@
  TRADE_MISSION_OFFICE_DESC:0 "Pozwala ci na czerpanie zysków z handlu. Do czerpania zysków z handlu poza twoim w²z³em domowym wymagana jest obecnoœ¾ kupca. Po odwo³aniu kupca, w²ze³ b²dzie jedynie przesy³a¾ si³² handlow¹."
  TRADE_MISSION_TRANSIT_DESC:0 "Ka¿dy w²ze³ w którym posiadasz wp³ywy, nie b²d¹cy twoim g³ównym miastem handlowym, jest w²z³em przesy³owym. Twoja si³a w tym obszarze pozwoli ci sterowa¾ handlem oraz sprawi, ¿e wartoœ¾ handlu przeniesie si² w dó³ ³aªcucha."
  NON_CAPITAL_OFFICE_2:0 "Zyski z handlu poza twoim g³ównym miastem handlowym: $VAL$"
- ENVOY_TRADING_TRADE_MISSION_TRANSIT:0 "$NAME$ is in §Y$FROMPROV$§W Transferring Trade Power to §Y$TOPROV$§W."
+ ENVOY_TRADING_TRADE_MISSION_TRANSIT:0 "$NAME$ znajduje si² w prowincji §Y$FROMPROV$§W i przekierowuje si³² handlow¹ do prowincji §Y$TOPROV$§W."
  ENVOY_TRADING_TRADE_MISSION_OFFICE:0 "$NAME$ czerpie zyski z handlu w §Y$PROV$§W."
  MERCHANT_PRESENT:0 "Obecnoœ¾ kupca: §Y$VAL$§W"
  TRADE_POWER_PUSH_DESC:0 "§Y$VAL$§W% si³y jest u¿ywane do celów handlowych."

@@ -12,7 +12,7 @@
  feudalism_reform_desc: "W królestwie feudalnym potęga monarchy jest wzmocniona przez posiadającą ziemię arystokrację, która przysięgła być mu posłuszna. Arystokraci, czyli szlachta, są często właścicielami ziemskimi, posiadającymi znaczące wpływy i własnych wasali."
  autocracy_reform: "Autokracja"
  autocracy_reform_desc: "Autokratyczne monarchie koncentrują władzę w swoich rękach. Państwo jest często postrzegane jako ich własność osobista. Nierzadko zdarza się, że władcy mają ministrów i zwolenników, ale wtedy nazywa się ich członkami rodziny królewskiej."
- plutocratic_reform: "Plutokracja"
+ plutocratic_reform: ""
  plutocratic_reform_desc: "Plutokratyczne królestwo to takie, w którym zwolennikami monarchy są osoby o największych dochodach. Monarcha jest często szefem odnoszącego sukcesy przedsiębiorstwa kupieckiego, podobnie jak wielu jego zwolenników."
  enforce_trader_privileges_reform: "Wprowadź przywileje dla handlarzy"
  enforce_trader_privileges_reform_desc: "Wzmacniając więzi między państwem a odnoszącymi sukcesy przedsiębiorstwami kupieckimi, możemy zwiększyć nasz zasięg w świecie, a także zysk dla kraju."

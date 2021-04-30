@@ -125,7 +125,7 @@
  papacy_events.31.t: ""
  papacy_events.31.d: ""
  papacy_events.31.a: ""
- papacy_events.31.b: ""
+ papacy_events.31.b: "[From.Monarch.GetTitle] [From.Monarch.GetName] odmawia!"
  opinion_swiss_guard: ""
  opinion_no_swiss_guard: "Nie dla Gwardii Szwajcarskiej"
  pap_swiss_guard: "Gwardia Szwajcarska"

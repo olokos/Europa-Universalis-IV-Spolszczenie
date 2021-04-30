@@ -79,8 +79,8 @@
  string_ILKHANATE: "Ilchanatu" #Ilchanat M
  string_IMAMATE: "Imamatu" #Imamat M
  string_INDEP_DAIMYO: "Niezależnego Daimyo" #Niezależny Daimyo M
- string_ISLAMIC_CALIPHATE: #Islamski Kalifat M
- string_KAISERREICH:  "Kaiserreichu" #Kaiserreich M
+ string_ISLAMIC_CALIPHATE: "Islamskiego Kalifatu" #Islamski Kalifat M
+ string_KAISERREICH: "Kaiserreichu" #Kaiserreich M
  string_KHAGANATE: "Kaganatu" #Kaganat M
  string_KHANATE: "Chanatu" #Chanat M
  string_KHEDIVATE: "Kedywatu" #Kedywat M
@@ -105,7 +105,7 @@
  string_PASHALIK: "Ejaletu" #Ejalet M
  string_PATRIARCHATE: "Patriarchatu" #Patriarchat M
  string_PIRATE_CONFEDERACY: "Konfederacji Piratów" #Konfederacja Piratów Ż
- string_PIRATE_DAIMYO: Pirackiego Daimyo" #Piracki Daimyo M
+ string_PIRATE_DAIMYO: "Pirackiego Daimyo" #Piracki Daimyo M
  string_PIRATE_EMPIRE: "Imperium Piratów" #Imperium Piratów N
  string_PIRATE_KINGDOM: "Królestwa Piratów" #Królestwo Piratów N
  string_PIRATE_PRINCIPALITY: "Księstwa Piratów" #Księstwo Piratów N
@@ -126,7 +126,7 @@
  string_SHOGUNATE: "Szogunatu" #Szogunat M
  string_SISTERHOOD: "Wielkiego Zgromadzenia Sióstr" #Wielkie Zgromadzenie Sióstr N
  string_SOGN: "Sognu" #Sogn M
- string_SOVREIGN_MONASTIC_CONFEDERATION:  "Niepodległej Konfederacji Zakonnej" #Niepodległa Konfederacja Zakonna Ż
+ string_SOVREIGN_MONASTIC_CONFEDERATION: "Niepodległej Konfederacji Zakonnej" #Niepodległa Konfederacja Zakonna Ż
  string_SOVREIGN_MONASTIC_ORDER: "Niepodległego Zgromadzenia Zakonnego" #Niepodległe Zgromadzenie Zakonne N
  string_STATELESS_SOCIETY: "Społeczeństwa Bezpaństwowego" #Społeczeństwo Bezpaństwowe N
  string_STRATOCRACY: "Junty Wojskowej" #Junta Wojskowa Ż
@@ -158,7 +158,7 @@
  string_ARCH_TRAPPIST: "Arcytrapisty" #Arcytrapista
  string_ARCH_TRAPPISTINE: "Arcytrapistki" #Arcytrapistka
  string_ATABEG: "Atabega" #Atabeg
- string_ATABEG_fem: Atabegum" #Atabegum
+ string_ATABEG_fem: "Atabegum" #Atabegum
  string_ATAMAN: "Atamana" #Ataman
  string_ATAMAN_fem: "Atamanki" #Atamanka
  string_ATIO: "Atioego" #Atio
@@ -199,7 +199,7 @@
  string_CHIEF: "Wodza" #Wódz
  string_CHIEFTESS: "Przywódczyni" #Przywódczyni
  string_CIHUATLAHTOANI: "Cihuatlahtani" #Cihuatlahtani
- string_COMMANDER_EMPEROR: Dowódcy Imperialnego" #Dowódca Imperialny
+ string_COMMANDER_EMPEROR: "Dowódcy Imperialnego" #Dowódca Imperialny
  string_CONSUL: "Konsula" #Konsul
  string_CONSULESS: "Konsulki" #Konsulka
  string_CONSULESS_ELECTOR: "Konsulki Elektorki" #Konsulka Elektorka
@@ -639,7 +639,7 @@
  string_MIRZA: "Mirzy" #Mirza
  string_NAWABZADA: "Nawabzady" #Nawabzada
  string_NAWAB_BEGUM: "Nawab Begum" #Nawab Begum
- string_NIZAMZADA:  "Nizamzada" #Nizamzada
+ string_NIZAMZADA: "Nizamzada" #Nizamzada
  string_NIZAM_BEGUM: "Nizam Begum" #Nizam Begum
  string_PADISHAH_BEGUM: "Padyszach Begum" #Padyszach Begum
  string_PASHAZADE: "Paszazade" #Paszazade

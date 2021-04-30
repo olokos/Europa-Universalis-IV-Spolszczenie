@@ -182,7 +182,7 @@
  establish_communities_desc:0 "Twój kupiec b²dzie d¹¿y³ do poprawy stosunków z innymi krajami aktywnymi w w²Ÿle."
  improve_inland_routes_desc:0 "Twój kupiec b²dzie zbiera³ wiedz² o terenie w tym w²Ÿle, co przyniesie korzyœci twoim armiom."
  propagate_religion_desc:0 "Twój bogobojny kupiec b²dzie pracowa³ nad szerzeniem jedynej prawdziwej wiary w tym w²Ÿle."
- TRADING_POLICY_EFFECT:0 "$NAME|Y$ Trading Policy:\n$MOD$"
+ TRADING_POLICY_EFFECT:0 "$NAME|Y$ Polityka handlowa:\n$MOD$"
  PROVINCES_IN_NODE:0 "§YWszystkie prowincje w tym w²Ÿle:§!\n"
  DESELECT_CARPET_AREA:0 "Click to remove $AREA|Y$ from Carpet Sieging."
  CANCEL_DRILLING_MOVE_CONFIRM_TITLE:0 "Anuluj musztr² wojskow¹"
