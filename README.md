@@ -109,7 +109,7 @@ W razie jakichkolwiek problemów/zastrzeżeń/propozycji zachęcamy do kontaktu 
 - Shick - tłumaczenie
 - Witcher - korekta, testy, tłumaczenie
 
-- Autorzy [spolszczenia Grajpopolsku.pl] (https://steamcommunity.com/sharedfiles/filedetails/?id=537685335):
+- Autorzy [spolszczenia Grajpopolsku.pl](https://steamcommunity.com/sharedfiles/filedetails/?id=537685335) :
 * Asenath - korekta
 * archi - tłumaczenie
 * Axsis - tłumaczenie
