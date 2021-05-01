@@ -1,57 +1,72 @@
-Europa Universalis IV Community Translation / Spolszczenie
-===
-Spolszczenie do najnowszej wersji Europa Universalis 1.30.4.0
-Działa bezproblemowo z każdą wersją gry 1.30
+# Europa Universalis IV Community Translation / Spolszczenie
+Polish translation of Europa Universalis IV.
 
-Stan w  wersji 2.9.2 [16.03.2021]:
----
- * 19,818 sprawdzonych wpisów
- * 74,746 przetłumaczonych wpisów
- * 17,044 nieprzetłumaczonych wpisów
+Spolszczenie jest również dostępne na Paradox Mods: [Link](https://mods.paradoxplaza.com/mods/16442/Any)
 
-Jest to obecnie najpełniejsze spolszczenie, stworzone przez społeczność gry.
-Prace projektu obejmują 105 plików z czego do przetłumaczenia pozostało 22.
+## Obsługiwana wersja gry i zakres tłumaczenia:
+Spolszczenie do najnowszej wersji Europa Universalis 1.31.1. Działa bezproblemowo z każdą wersją gry 1.31.x (Majapahit).
 
-Aktualnie nasze spolszczenie posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie spolszczeń. **(81,17% całej gry)**
+### Stan w wersji 3.0.0 [01.05.2021]:
+ * 19 624 sprawdzone wpisy (535 948 słów)
+ * 76 972 przetłumaczone wpisy (741 190 słów)
+ * 20 150 nieprzetłumaczonych wpisów (435 183 słów)
 
-Największe dodatki do EU4:
-(stan na 14.03.2021)
+Jest to obecnie najpełniejsze, stworzone przez społeczność gry, spolszczenie, które posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie **(79,25% całej gry)**. Prace projektu obejmują 116 plików, z czego do przetłumaczenia pozostało 35.
+ 
+### Lista zmian:
+- Zaktualizowano wszystkie klucze tekstów do najnowszych z wersji 1.31.1 Majapahit
+- Przetłumaczono ponad 2000 linijek tekstu
+- Poprawiono wiele linijek tekstu
+- Dodano kolejne funkcje Customisable Localisation (CL) pozwalające dostosować grę do specyfiki języka polskiego
 
-|         Dodatek        | Ukończono | Liczba słów |
-|:----------------------:|:---------:|:-----------:|
-| Emperor missions       | 47.66%    | 33,192      |
-| Emperor content        | 22.32%    | 60,087      |
-| Art of War             | 54.07%    | 29,679      |
-| El Dorado              | 100%      |      0      |
-| Common Sense           | 29.95%    | 24,152      |
-| The Cossacks           | 38.92%    | 17,730      |
-| Rights of Man          | 27.68%    | 32,953      |
-| Mandate of Heaven      | 20.68%    | 14,240      |
-| Cradle of Civilization | 32.37%    | 12,015      |
-| Mare Nostrum           | 100%      |      0      |
-| Third Rome             | 17.01%    |  6,708      |
-| Dharma                 | 100%      |      0      |
-| Rule Britannia         | 100%      |      0      |
-| Golden Century         | 56.12%    |  5,719      |
+### Postęp prac nad spolszczeniem (stan na 01.05.2021):
 
- * procenty pokazują postęp tłumaczenia dodatku
- * w nawiasie ilość słów do zakończenia tłumaczenia dodatku
+**Wersja podstawowa EU4**: 
+* Główne pliki przetłumaczone w całości oprócz części wydarzeń i zintegrowanego z grą dodatku women in history, które są w trakcie tłumaczenia.
 
-This is mainly polish translation made for Europa Universalis IV.
-With that said, you can request a translation for a new language.
+**Dodatki:**
 
-If you want to request a new language, make sure you can translate at least 10% of the language!
+**Przetłumaczone w całości:**
 
-[Press here to visit project page](https://www.transifex.com/europa-universalis-iv-community-translation/Community-edition/)
+* Conquest of Paradise
+* Wealth of Nations
+* Res Publica
+* El Dorado 
+* Mare Nostrum
+* Rule Britannia
+* Dharma
 
-Once you are on the site above - press on "Help Translate" button on the right to help translating it in your language!
+**Tłumaczone dodatki:**
+(postęp określono dla głównych plików)
 
-Jak się dołączyć?
----
+* Art of War              - 54,28% (29 513)
+* Common Sense            - 29,99% (24 162)
+* The Cossacks            - 38,52% (17 773)
+* Rights of Man           - 31,26% (31 686)
+* Mandate of Heaven       - 20,63% (14 273)
+* Third Rome              - 17,44% (6 722)
+* Cradle of Civilization  - 32,37% (12 035)
+* Golden Century          - 69,11% (4 996)  
+* Emperor
+- emperor content         - 27,02% (59 279)
+- emperor missions        - 50,71% (32 255)
+- emperor                 - 59,58% (4 473)
+- emperor estates         - 100% (0/17 120)
+- emperor revolutions     - 100% (0/6 118)
+* Leviathan
+- mandala missions        - 3,53% (10 984)
+- leviathan               - 6,12% (26 232)
+- 00 lanfang              - 8,83% (8 211) 
+- tmm                     - 22,26% (5 891)
 
+**Objaśnienia:**
+ + procenty określają postęp tłumaczenia dodatku (w zakresie wpisów (linijek))
+ + w nawiasie podano liczbę słów, która pozostała do zakończenia tłumaczenia dodatku 
+
+## Jak dołączyć do projektu?
 Po więcej informacji zapraszamy na serwer discord [Dostępny Tutaj](https://discord.gg/bTW7G7zJGX)
 
-Jeżeli chcesz dołączyć się do prac nad spolszczeniem - daj znać na serwerze discord i dołącz poprzez link poniżej.
+Jeżeli chcesz przyłączyć się do prac nad spolszczeniem - daj znać na serwerze discord i dołącz poprzez link poniżej.
 
 [Link](https://www.transifex.com/europa-universalis-iv-community-translation/Community-edition/)
 
@@ -59,56 +74,75 @@ Jak już jesteś na stronie z linku, naciśnij "Help Translate", aby wysłać pr
 
 Serdecznie zapraszamy do pomocy w tłumaczeniu!
 
+## Instalacja moda i rozwiązywanie problemów:
 
-**Spolszczenie całkowicie kompatybilne z achievementami! Z włączonym spolszczeniem śmiało można zdobywać wszystkie achievmenty!**
----
-
-**Instalacja moda:**
+### Jak zainstalować mod?:
 1. Zasubskrybuj modyfikację.
 2. Gdy uruchomisz grę, w launcherze w zakładce mody zaznacz "Spolszczenie EUIV Community Edition"
 3. Upewnij się, że w launcherze masz zaznaczoną angielską flagę! Spolszczenie podmienia język angielski na język polski.
 
+### UWAGA! Gdyby w launcherze pojawiała się informacja, że modyfikacja jest do nieaktualnej wersji gry, należy:
+1. Uruchomić launcher gry (uruchomić grę poprzez Steam).
+2. Z włączonym launcherem odsubskrybować moda a po chwili zasubskrybować go na nowo.
 
-**Lista zmian:**
-- Naprawione polskie znaki - teraz powinny już działać bez zarzutu
-- Spolszczono kolejną setkę linijek tekstu
-- Modyfikacja będzie się już poprawnie uruchamiała, oraz nie będzie powodowała dłuższego włączania się gry
-- Zaktualizowano wszystkie klucze tekstów do najnowszych z wersji 1.30.3.0 Austria
-- Rozpoczęto prace nad platformą, gdzie społeczność mogłaby samodzielnie spolszczać grę linijka po linijce
-- Naprawiono błąd z wiekiem władców dzięki @NereXus
-- Dzięki @TheBadOgre został zautomatyzowany proces aktualizacji angielskich stringów z gry i aktualizacji spolszczenia na steam workshop! 
-- Dodano brakujące polskie znaki dzięki @TheBadOgre i testom @sano2!
-- Dodano bardziej wyrazistą czcionkę do gry
-- Zrobiliśmy porządek z plikami, przez co musieliśmy usunąć zdublowany plik (postęp spolszczenia spadł o 2 procent]
-- Po aktualizacji dodatku Emperor rozszerzyliśmy bazę plików do przetłumaczenia z 97 na 105
-- STAN GRY NA DZIEŃ 16.11.2020!!!
-- Regularne aktualizacje tłumaczeń
-- Kolejna porcja tłumaczeń i poprawki błędów / składni
-- Przetłumaczono kolejne 1000 stringów gry
+## Osiągnięcia Steam:
+**Spolszczenie jest całkowicie kompatybilne z osiągnięciami (ang. achievements) Steam! Z włączonym spolszczeniem śmiało można zdobywać wszystkie osiągnięcia dostępne w grze!**
 
-**_W razie jakichkolwiek problemów/zastrzeżeń/propozycji zachęcamy do kontaktu poprzez serwer discord [Dostępny Tutaj](https://discord.gg/bTW7G7zJGX])_**
+## Zgłaszanie błędów oraz pomoc techniczna:
+W razie jakichkolwiek problemów/zastrzeżeń/propozycji zachęcamy do kontaktu poprzez serwer discord [Dostępny Tutaj](https://discord.gg/bTW7G7zJGX)
 
-UWAGA! Gdyby w launcherze pojawiała się informacja, że modyfikacja jest do nieaktualnej wersji gry należy:
----
-1. Uruchomić launcher gry (uruchomić grę przez Steam).
-2. Z włączonym launcherem odsubskrybować moda oraz po chwili zasubskrybować go na nowo.
-
-**Twórcy oraz specjalne podziękowania:**
-- Rafkos - nowe polskie czcionki
+## Twórcy:
 - Batziy - polskie czcionki
-- Grajpopolsku.pl - bazowe spolszczenie podstawowej wersji gry w wersji 1.27 - około 30% gry
-- olokos - twórca
-- Ereno - twórca
-- Sano2 - twórca, tłumacz
-- tdomek - tłumacz
-- Robinus - tłumacz
-- Masahara - korekta, pomoc w organizacji
-- NereXus - pomoc graficzna
-- Rafkos - twórca narzędzi do konwertowania plików, korekta plików
-- Shick - tłumacz
-- Witcher - korekta, testy
-- DrSzuriad - tłumacz
-- Mazurczyk - tłumacz
+- blizzer92 - tłumaczenie
+- DrSzuriad - tłumaczenie, tworzenie CL
+- Ereno - organizacja
 - Izabella - pomoc
-- blizzer92 - tłumacz
-- newMDK - tłumacz
+- Masahara - korekta, pomoc w organizacji
+- Mazurczyk - tłumaczenie
+- NereXus - pomoc graficzna (poprawki interfejsu)
+- newMDK - tłumaczenie
+- olokos - właściciel moda, organizacja, aktualizacja
+- Rafkos - twórca narzędzi do konwertowania plików, korekta, nowe polskie czcionki, zautomatyzowany proces aktualizacji angielskich stringów z gry i aktualizacji spolszczenia na steam workshop
+- Robinus - tłumaczenie
+- Sano2 - organizacja, tłumaczenie
+- tdomek - tłumaczenie
+- Shick - tłumaczenie
+- Witcher - korekta, testy, tłumaczenie
+
+- Autorzy [spolszczenia Grajpopolsku.pl (https://steamcommunity.com/sharedfiles/filedetails/?id=537685335):
+* Asenath - korekta
+* archi - tłumaczenie
+* Axsis - tłumaczenie
+* Baasu - tłumaczenie
+* bemberg - tłumaczenie, organizacja
+* cienislaw - strona techniczna
+* Cyfrowy Baron - czcionka
+* Dero - tłumaczenie
+* EvilDoom - tłumaczenie, testy
+* Grottman - tłumaczenie
+* hemik - tłumaczenie
+* HiszpanskaInkwizycja - tłumaczenie
+* Leszczu - tłumaczenie
+* Jagdtiger - tłumaczenie, testy
+* Karol T. - tłumaczenie
+* Krzysztof - tłumaczenie
+* ktatar - tłumaczenie
+* madhrain - tłumaczenia
+* Madzius - korekta
+* Micux - tłumaczenie
+* Mistyk07 - tłumaczenie, korekta, testy
+* Norek - tłumaczenie, korekta
+* Oskar - tłumaczenie, testy
+* Outernationalist - tłumaczenie
+* Paulina - tłumaczenie, testy
+* qbert - tłumaczenie
+* R3fr3sh - tłumaczenie
+* Robinxon - tłumaczenie
+* ridzio - tłumaczenie, korekta, testy
+* Schocker - tłumaczenie
+* skwierczyk - tłumaczenie
+* Sledziu_w - tłumaczenie
+* Tomek P. - korekta
+* voythas - grafiki okołoprojektowe
+* Ysska - tłumaczenie, korekta, organizacja
+* zenn - tłumaczenie
