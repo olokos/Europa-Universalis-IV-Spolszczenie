@@ -794,7 +794,7 @@
  monsoon_events.4.a:0 "Zysk wa¿niejszy od ludzi."
  monsoon_events.5.t:0 "Urodzaj œliwek"
  monsoon_events.5.d:0 "Œliwki kwitn¹ wiosn¹\nDeszcze przynosz¹ wielki urodzaj\nNasi rolnicy zyskuj¹"
- plum_rain_tooltip:0 "Prowincje w §Y[plum_rains_province.GetAreaName]§! produkuj¹ce §Yzborze§!, §Ywino§!, §Ycherbat²§!, lub §Yprzyprawy§! zdobywaj¹ §Y'Œliwkowy urodzaj'§! przez §5 lat§!, daj¹c nast²puj¹ce efekty:\nLokalna wydajnoœ¾ produkcji: §G+20,0%§!"
+ plum_rain_tooltip:0 "Prowincje w §Y[plum_rains_province.GetAreaName]§! produkuj¹ce §Yzbo¿e§!, §Ywino§!, §Yherbat²§!, lub §Yprzyprawy§! zdobywaj¹ §Y'Œliwkowy urodzaj'§! przez §5 lat§!, daj¹c nast²puj¹ce efekty:\nLokalna wydajnoœ¾ produkcji: §G+20,0%§!"
  HAVE_HAD_REFORM:0 "Mia³eœ reform² $REFORM|Y$\n"
  HAVE_HAD_NOT_REFORM:0 "Nie mia³eœ reformy $REFORM|Y$\n"
  mechanic_locked_government_type_yes:0 "Uniemo¿liwia zmian² typu rz¹du."

@@ -794,7 +794,7 @@
  monsoon_events.4.a: "Zysk ważniejszy od ludzi."
  monsoon_events.5.t: "Urodzaj śliwek"
  monsoon_events.5.d: "Śliwki kwitną wiosną\nDeszcze przynoszą wielki urodzaj\nNasi rolnicy zyskują"
- plum_rain_tooltip: "Prowincje w §Y[plum_rains_province.GetAreaName]§! produkujące §Yzborze§!, §Ywino§!, §Ycherbatę§!, lub §Yprzyprawy§! zdobywają §Y'Śliwkowy urodzaj'§! przez §5 lat§!, dając następujące efekty:\nLokalna wydajność produkcji: §G+20,0%§!"
+ plum_rain_tooltip: "Prowincje w §Y[plum_rains_province.GetAreaName]§! produkujące §Yzboże§!, §Ywino§!, §Yherbatę§!, lub §Yprzyprawy§! zdobywają §Y'Śliwkowy urodzaj'§! przez §5 lat§!, dając następujące efekty:\nLokalna wydajność produkcji: §G+20,0%§!"
  HAVE_HAD_REFORM: "Miałeś reformę $REFORM|Y$\n"
  HAVE_HAD_NOT_REFORM: "Nie miałeś reformy $REFORM|Y$\n"
  mechanic_locked_government_type_yes: "Uniemożliwia zmianę typu rządu."

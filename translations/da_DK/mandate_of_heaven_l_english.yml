@@ -761,6 +761,8 @@
  shinto_events.58.d: ""
  shinto_events.58.a: ""
  shinto_events.58.b: ""
+ shinto_events.58.c: ""
+ shinto_events.58.e: ""
  MAX_TRIBUTE_REACHED: ""
  CHANGE_TRIBUTE_COOLDOWN: ""
  SWITCH_HARMONIZATION_DESC: ""

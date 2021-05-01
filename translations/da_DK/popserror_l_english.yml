@@ -4,6 +4,7 @@
  POPS_dynamodb-failure: ""
  POPS_ua: ""
  POPS_not-authorized: ""
+ POPS_UNEXPECTED_ERROR: ""
  POPS_bad-password-length: ""
  POPS_missing-required-account-details-keys: ""
  POPS_invalid-country-code: ""

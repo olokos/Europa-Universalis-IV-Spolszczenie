@@ -207,7 +207,7 @@
  THREATENED_ATTITUDE_CANNOT_SET_DISTANCE: "§RNie możesz ustawić swojego nastawienia na §Ybojaźliwe§! ponieważ kraj §Y$COUNTRY$§! nie jest w stanie zagrozić krajowi §Y$PLAYER$§!.§!"
  THREATENED_ATTITUDE_DESC: "Ustawiając swoje nastawienie na §Ybojaźliwe§! pokazujesz, że boisz się kraju §Y$COUNTRY$§!. Będą postrzegać to jako znak, że chcesz sprzymierzyć się z nimi dla bezpieczeństwa, ale także, że szukasz innych potężnych sojuszników, którzy ochronią cię przed nimi."
  TRUST_DESC: "§YZaufanie§! jest miarą siły każdego sojuszu jaki mamy z krajem §Y$COUNTRY$§!. Zmniejsza się, jeśli łamiemy obietnice lub w inny sposób postępujemy wobec nich niehonorowo. Można go zwiększyć, wykorzystując przysługi. Zaufanie będzie również rosło z czasem, o ile jesteś sprzymierzony lub jedno jest poddanym drugiego."
- FAVORS_INSTANT: ""
+ FAVORS_INSTANT: "Kraj §Y$COUNTRY$§! jest nam dłużny przysługi w liczbie: §Y$NUM|2$§!"
  FAVORS_GAIN_TOOLTIP: ""
  FAVOR_ALLIANCE_TT: ""
  FAVOR_ALLIANCE_BLOCKED_TT: ""
