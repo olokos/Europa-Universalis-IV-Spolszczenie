@@ -757,13 +757,6 @@ source_file = translations/en/text_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[Community-edition.text-l-english-0-815-yml]
-file_filter = translations/<lang>/text_l_english_0_815.yml
-minimum_perc = 0
-source_file = translations/en/text_l_english_0_815.yml
-source_lang = en
-type = YAML_GENERIC
-
 [Community-edition.third-rome-l-english-yml]
 file_filter = translations/<lang>/third_rome_l_english.yml
 minimum_perc = 0
