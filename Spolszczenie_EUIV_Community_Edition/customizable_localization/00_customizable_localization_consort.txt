@@ -26,8 +26,13 @@ defined_text = {
 			government_rank = 3
 			government = monarchy
 			religion_group = christian
-			NOT = { religion = orthodox }
-			NOT = { religion = coptic }
+			NOT = {
+				religion = orthodox
+			}
+			NOT = {
+				religion = orthodox
+				religion = coptic
+			}
 			is_march = yes
 		}
 	}
@@ -55,7 +60,9 @@ defined_text = {
 			government = monarchy
 			is_elector = yes
 			is_emperor = no
-			NOT = { tag = HAB }
+			NOT = {
+				tag = HAB
+			}
 		}
 	}
 	text={
@@ -64,7 +71,9 @@ defined_text = {
 			has_female_consort = no
 			tag = JAP
 			government = monarchy
-			NOT = { has_reform = shogunate }
+			NOT = {
+				has_reform = shogunate
+			}
 		}
 	}
 	text={
@@ -263,7 +272,9 @@ defined_text = {
 			has_female_consort = no
 			government_rank = 3
 			government = monarchy
-			NOT = { has_reform = steppe_horde }
+			NOT = {
+				has_reform = steppe_horde
+			}
 			religion_group = muslim
 		}
 	}
@@ -285,7 +296,9 @@ defined_text = {
 			has_female_consort = no
 			has_reform = monarchy_mechanic
 			is_part_of_hre = yes
-			NOT = { total_development = 50 }
+			NOT = {
+				total_development = 50
+			}
 		}
 	}
 	text={
@@ -318,8 +331,13 @@ defined_text = {
 			government_rank = 2
 			government = monarchy
 			religion_group = christian
-			NOT = { religion = orthodox }
-			NOT = { religion = coptic }
+			NOT = {
+				religion = orthodox
+			}
+			NOT = {
+				religion = orthodox
+				religion = coptic
+			}
 			is_march = yes
 		}
 	}
@@ -329,7 +347,9 @@ defined_text = {
 			has_female_consort = no
 			government_rank = 2
 			government = monarchy
-			NOT = { government_rank = 3 }
+			NOT = {
+				government_rank = 3
+			}
 			tag = HRZ
 		}
 	}
@@ -350,7 +370,9 @@ defined_text = {
 			government_rank = 2
 			religion_group = muslim
 			government = tribal
-			NOT = { has_reform = steppe_horde }
+			NOT = {
+				has_reform = steppe_horde
+			}
 		}
 	}
 	text={
@@ -529,7 +551,9 @@ defined_text = {
 			has_female_consort = no
 			government_rank = 2
 			government = monarchy
-			NOT = { has_reform = steppe_horde }
+			NOT = {
+				has_reform = steppe_horde
+			}
 			religion_group = muslim
 		}
 	}
@@ -576,7 +600,9 @@ defined_text = {
 			has_female_consort = no
 			government = monarchy
 			religion_group = muslim
-			NOT = { is_march = yes }
+			NOT = {
+				is_march = yes
+			}
 			overlord = { primary_culture = turkish }
 		}
 	}
@@ -586,8 +612,13 @@ defined_text = {
 			has_female_consort = no
 			government = monarchy
 			religion_group = christian
-			NOT = { religion = orthodox }
-			NOT = { religion = coptic }
+			NOT = {
+				religion = orthodox
+			}
+			NOT = {
+				religion = orthodox
+				religion = coptic
+			}
 			is_march = yes
 		}
 	}
@@ -596,7 +627,9 @@ defined_text = {
 		trigger = {
 			has_female_consort = no
 			government = monarchy
-			NOT = { government_rank = 3 }
+			NOT = {
+				government_rank = 3
+			}
 			tag = HRZ
 		}
 	}
@@ -615,7 +648,9 @@ defined_text = {
 			has_female_consort = no
 			religion_group = muslim
 			government = tribal
-			NOT = { has_reform = steppe_horde }
+			NOT = {
+				has_reform = steppe_horde
+			}
 		}
 	}
 	text={
@@ -777,7 +812,9 @@ defined_text = {
 		trigger = {
 			has_female_consort = no
 			government = monarchy
-			NOT = { has_reform = steppe_horde }
+			NOT = {
+				has_reform = steppe_horde
+			}
 			religion_group = muslim
 		}
 	}
@@ -814,8 +851,13 @@ defined_text = {
 			government_rank = 3
 			government = monarchy
 			religion_group = christian
-			NOT = { religion = orthodox }
-			NOT = { religion = coptic }
+			NOT = {
+				religion = orthodox
+			}
+			NOT = {
+				religion = orthodox
+				religion = coptic
+			}
 			is_march = yes
 		}
 	}
@@ -841,7 +883,9 @@ defined_text = {
 			government = monarchy
 			is_elector = yes
 			is_emperor = no
-			NOT = { tag = HAB }
+			NOT = {
+				tag = HAB
+			}
 		}
 	}
 	text={
@@ -849,7 +893,9 @@ defined_text = {
 		trigger = {
 			tag = JAP
 			government = monarchy
-			NOT = { has_reform = shogunate }
+			NOT = {
+				has_reform = shogunate
+			}
 		}
 	}
 	text={
@@ -1012,7 +1058,9 @@ defined_text = {
 			government_rank = 3
 			has_reform = monarchy_mechanic
 			is_part_of_hre = yes
-			NOT = { total_development = 50 }
+			NOT = {
+				total_development = 50
+			}
 		}
 	}
 	text={
@@ -1043,8 +1091,13 @@ defined_text = {
 			government_rank = 2
 			government = monarchy
 			religion_group = christian
-			NOT = { religion = orthodox }
-			NOT = { religion = coptic }
+			NOT = {
+				religion = orthodox
+			}
+			NOT = {
+				religion = orthodox
+				religion = coptic
+			}
 			is_march = yes
 		}
 	}
@@ -1061,7 +1114,9 @@ defined_text = {
 		trigger = {
 			government_rank = 2
 			government = monarchy
-			NOT = { government_rank = 3 }
+			NOT = {
+				government_rank = 3
+			}
 			tag = HRZ
 		}
 	}
@@ -1080,7 +1135,9 @@ defined_text = {
 			government_rank = 2
 			religion_group = muslim
 			government = tribal
-			NOT = { has_reform = steppe_horde }
+			NOT = {
+				has_reform = steppe_horde
+			}
 		}
 	}
 	text={
@@ -1251,7 +1308,9 @@ defined_text = {
 		trigger = {
 			government_rank = 2
 			government = monarchy
-			NOT = { has_reform = steppe_horde }
+			NOT = {
+				has_reform = steppe_horde
+			}
 			religion_group = muslim
 		}
 	}
@@ -1272,7 +1331,9 @@ defined_text = {
 			government_rank = 2
 			has_reform = monarchy_mechanic
 			is_part_of_hre = yes
-			NOT = { total_development = 50 }
+			NOT = {
+				total_development = 50
+			}
 		}
 	}
 	text={
@@ -1316,7 +1377,9 @@ defined_text = {
 		trigger = {
 			government = monarchy
 			religion_group = muslim
-			NOT = { is_march = yes }
+			NOT = {
+				is_march = yes
+			}
 			overlord = { primary_culture = turkish }
 		}
 	}
@@ -1325,8 +1388,13 @@ defined_text = {
 		trigger = {
 			government = monarchy
 			religion_group = christian
-			NOT = { religion = orthodox }
-			NOT = { religion = coptic }
+			NOT = {
+				religion = orthodox
+			}
+			NOT = {
+				religion = orthodox
+				religion = coptic
+			}
 			is_march = yes
 		}
 	}
@@ -1341,7 +1409,9 @@ defined_text = {
 		localisation_key = string_CONSORT
 		trigger = {
 			government = monarchy
-			NOT = { government_rank = 3 }
+			NOT = {
+				government_rank = 3
+			}
 			tag = HRZ
 		}
 	}
@@ -1358,7 +1428,9 @@ defined_text = {
 		trigger = {
 			religion_group = muslim
 			government = tribal
-			NOT = { has_reform = steppe_horde }
+			NOT = {
+				has_reform = steppe_horde
+			}
 		}
 	}
 	text={
@@ -1511,7 +1583,9 @@ defined_text = {
 		localisation_key = string_EMIRA
 		trigger = {
 			government = monarchy
-			NOT = { has_reform = steppe_horde }
+			NOT = {
+				has_reform = steppe_horde
+			}
 			religion_group = muslim
 		}
 	}
@@ -1530,7 +1604,9 @@ defined_text = {
 		trigger = {
 			has_reform = monarchy_mechanic
 			is_part_of_hre = yes
-			NOT = { total_development = 50 }
+			NOT = {
+				total_development = 50
+			}
 		}
 	}
 	text={

@@ -1422,7 +1422,7 @@ defined_text = {
 	name = GetBrahminsName_CL_Cap
 	random = no
 	text = {
-		localisation_key = estate_brahmins
+		localisation_key = string_estate_brahmins_Cap
 	}
 }
 
@@ -1430,7 +1430,7 @@ defined_text = {
 	name = GetClergyName_CL_Cap
 	random = no
 	text = {
-		localisation_key = estate_monasteries
+		localisation_key = string_estate_monasteries_Cap
 		trigger = {
 			OR = {
 				religion = buddhism
@@ -1440,19 +1440,19 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = estate_babaylanes
+		localisation_key = string_estate_babaylanes_Cap
 		trigger = {
 			tag = MAS
 		}
 	}
 	text = {
-		localisation_key = estate_brahmins
+		localisation_key = string_estate_brahmins_Cap
 		trigger = {
 			religion = hinduism
 		}
 	}
 	text = {
-		localisation_key = estate_gentry
+		localisation_key = string_estate_gentry_Cap
 		trigger = {
 			OR = {
 				has_reform = celestial_empire
@@ -1461,26 +1461,26 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = estate_ulema
+		localisation_key = string_estate_ulema_Cap
 		trigger = {
 			religion_group = muslim
 		}
 	}
 	text = {
-		localisation_key = estate_tlamacazqueh
+		localisation_key = string_estate_tlamacazqueh_Cap
 		trigger = {
 			religion = nahuatl
 		}
 	}
 	text = {
-		localisation_key = estate_yangban_scholars
+		localisation_key = string_estate_yangban_scholars_Cap
 		trigger = {
 			tag = KOR
 			religion = confucianism
 		}
 	}
 	text = {
-		localisation_key = estate_kahuna
+		localisation_key = string_estate_kahuna_Cap
 		trigger = {
 			capital_scope = {
 				area = northern_polynesia_area
@@ -1490,28 +1490,28 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = estate_tohunga
+		localisation_key = string_estate_tohunga_Cap
 		trigger = {
 			primary_culture = maori
 			religion = animism
 		}
 	}
 	text = {
-		localisation_key = estate_taula_otua
+		localisation_key = string_estate_taula_otua_Cap
 		trigger = {
 			tag = TOG
 			religion = animism
 		}
 	}
 	text = {
-		localisation_key = estate_taula_aitu
+		localisation_key = string_estate_taula_aitu_Cap
 		trigger = {
 			tag = SAM
 			religion = animism
 		}
 	}
 	text = {
-		localisation_key = estate_bete
+		localisation_key = string_estate_bete_Cap
 		trigger = {
 			OR = {
 				tag = LAI
@@ -1522,7 +1522,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = estate_church
+		localisation_key = string_estate_church_Cap
 	}
 }
 
@@ -1530,7 +1530,7 @@ defined_text = {
 	name = GetMarathasName_CL_Cap
 	random = no
 	text = {
-		localisation_key = estate_maratha
+		localisation_key = string_estate_maratha_Cap
 	}
 }
 
@@ -1538,13 +1538,13 @@ defined_text = {
 	name = GetNobilityName_CL_Cap
 	random = no
 	text = {
-		localisation_key = estate_beys
+		localisation_key = string_estate_beys_Cap
 		trigger = {
 			technology_group = ottoman
 		}
 	}
 	text = {
-		localisation_key = estate_boyars
+		localisation_key = string_estate_boyars_Cap
 		trigger = {
 			OR = {
 				culture_group = east_slavic
@@ -1554,7 +1554,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = estate_szlachta
+		localisation_key = string_estate_szlachta_Cap
 		trigger = {
 			OR = {
 				primary_culture = polish
@@ -1563,81 +1563,81 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = estate_timawa
+		localisation_key = string_estate_timawa_Cap
 		trigger = {
 			tag = MAS
 		}
 	}
 	text = {
-		localisation_key = estate_nayaks
+		localisation_key = string_estate_nayaks_Cap
 		trigger = {
 			tag = VIJ
 		}
 	}
 	text = {
-		localisation_key = estate_samantas
+		localisation_key = string_estate_samantas_Cap
 		trigger = {
 			tag = ORI
 		}
 	}
 	text = {
-		localisation_key = estate_kshatriyas
+		localisation_key = string_estate_kshatriyas_Cap
 		trigger = {
 			religion = hinduism
 		}
 	}
 	text = {
-		localisation_key = estate_qinwang
+		localisation_key = string_estate_qinwang_Cap
 		trigger = {
 			has_reform = celestial_empire
 		}
 	}
 	text = {
-		localisation_key = estate_mansabdars
+		localisation_key = string_estate_mansabdars_Cap
 		trigger = {
 			tag = MUG
 		}
 	}
 	text = {
-		localisation_key = estate_tetecuhtin
+		localisation_key = string_estate_tetecuhtin_Cap
 		trigger = {
 			religion = nahuatl
 		}
 	}
 	text = {
-		localisation_key = estate_andriana
+		localisation_key = string_estate_andriana_Cap
 		trigger = {
 			tag = MIR
 		}
 	}
 	text = {
-		localisation_key = estate_amirs
+		localisation_key = string_estate_amirs_Cap
 		trigger = {
 			religion_group = muslim
 			NOT = { technology_group = ottoman }
 		}
 	}
 	text = {
-		localisation_key = estate_planters
+		localisation_key = string_estate_planters_Cap
 		trigger = {
 			tag = USA
 		}
 	}
 	text = {
-		localisation_key = estate_bushi
+		localisation_key = string_estate_bushi_Cap
 		trigger = {
 			culture_group = japanese_g
 		}
 	}
 	text = {
-		localisation_key = estate_yangban_administrators
+		localisation_key = string_estate_yangban_administrators_Cap
 		trigger = {
 			tag = KOR
 			religion = confucianism
 		}
 	}
 	text = {
-		localisation_key = estate_junkers
+		localisation_key = string_estate_junkers_Cap
 		trigger = {
 			OR = {
 				has_reform = prussian_republic_reform
@@ -1647,7 +1647,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = estate_alii
+		localisation_key = string_estate_alii_Cap
 		trigger = {
 			OR = {
 				capital_scope = {
@@ -1660,14 +1660,14 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = estate_ariki
+		localisation_key = string_estate_ariki_Cap
 		trigger = {
 			primary_culture = maori
 			religion = animism
 		}
 	}
 	text = {
-		localisation_key = estate_eiki
+		localisation_key = string_estate_eiki_Cap
 		trigger = {
 			tag = TOG
 			primary_culture = polynesian
@@ -1675,7 +1675,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = estate_ratu
+		localisation_key = string_estate_ratu_Cap
 		trigger = {
 			OR = {
 				tag = LAI
@@ -1686,7 +1686,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = estate_nobles
+		localisation_key = string_estate_nobles_Cap
 	}
 }
 
@@ -1694,32 +1694,32 @@ defined_text = {
 	name = GetBurghersName_CL_Cap
 	random = no
 	text = {
-		localisation_key = estate_bourgeoisie
+		localisation_key = string_estate_bourgeoisie_Cap
 		trigger = {
 			culture_group = french
 		}
 	}
 	text = {
-		localisation_key = estate_shangbang
+		localisation_key = string_estate_shangbang_Cap
 		trigger = {
 			culture_group = east_asian
 		}
 	}
 	text = {
-		localisation_key = estate_neoconfucian_reformers
+		localisation_key = string_estate_neoconfucian_reformers_Cap
 		trigger = {
 			tag = KOR
 			religion = confucianism
 		}
 	}
 	text = {
-		localisation_key = estate_merchant_guilds
+		localisation_key = string_estate_merchant_guilds_Cap
 		trigger = {
 			NOT = { religion_group = christian }
 		}
 	}
 	text = {
-		localisation_key = estate_burghers
+		localisation_key = string_estate_burghers_Cap
 	}
 }
 
@@ -1727,7 +1727,7 @@ defined_text = {
 	name = GetVaishyasName_CL_Cap
 	random = no
 	text = {
-		localisation_key = estate_vaisyas
+		localisation_key = string_estate_vaisyas_Cap
 	}
 }
 
@@ -1735,7 +1735,7 @@ defined_text = {
 	name = GetCossacksName_CL_Cap
 	random = no
 	text = {
-		localisation_key = estate_cossacks
+		localisation_key = string_estate_cossacks_Cap
 	}
 }
 
@@ -1743,7 +1743,7 @@ defined_text = {
 	name = GetTribesName_CL_Cap
 	random = no
 	text = {
-		localisation_key = estate_nomadic_tribes
+		localisation_key = string_estate_nomadic_tribes_Cap
 	}
 }
 
@@ -1751,7 +1751,7 @@ defined_text = {
 	name = GetDhimmiName_CL_Cap
 	random = no
 	text = {
-		localisation_key = estate_dhimmi
+		localisation_key = string_estate_dhimmi_Cap
 	}
 }
 
@@ -1759,7 +1759,7 @@ defined_text = {
 	name = GetJainsName_CL_Cap
 	random = no
 	text = {
-		localisation_key = estate_jains
+		localisation_key = string_estate_jains_Cap
 	}
 }
 
@@ -1767,7 +1767,7 @@ defined_text = {
 	name = GetRajputsName_CL_Cap
 	random = no
 	text = {
-		localisation_key = estate_rajput
+		localisation_key = string_estate_rajput_Cap
 	}
 }
 
@@ -2711,11 +2711,11 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_ins_estate_alii
+		localisation_key = string_ins_estate_alii_Cap
 		trigger = {
 			OR = {
 				capital_scope = {
-					area = northern_polynesia_area_Cap
+					area = northern_polynesia_area
 				}
 				tag = SAM
 			}

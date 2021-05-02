@@ -130,6 +130,53 @@
  string_estate_dhimmi: "zimmi" #Zimmi MM
  string_estate_jains: "dźiniści" #Dźiniści MM
  string_estate_rajput: "radźputowie" #Radźputowie MM
+#duża
+ string_estate_brahmins_Cap: "Bramini" #Bramini MM
+ string_estate_monasteries_Cap: "Zakony" #Zakony MM
+ string_estate_babaylanes_Cap: "Babaylan" #Babaylan MZ
+ string_estate_gentry_Cap: "Shizu" #Shizu PM
+ string_estate_ulema_Cap: "Ulemowie" #Ulemowie MM
+ string_estate_tlamacazqueh_Cap: "Tlamacazqueh" #Tlamacazqueh PM
+ string_estate_yangban_scholars_Cap: "Jangbańscy uczeni" #Jangbańscy uczeni MM
+ string_estate_kahuna_Cap: "Kahuni" #Kahuni MM
+ string_estate_tohunga_Cap: "Tohunga" #Tohunga PM
+ string_estate_taula_otua_Cap: "Taula 'otua" #Taula 'Otua PM
+ string_estate_taula_aitu_Cap: "Taula aitu" #Taula Aitu PM
+ string_estate_bete_Cap: "Bete" #Bete MM
+ string_estate_church_Cap: "Duchowieństwo" #Duchowieństwo PN
+ string_estate_maratha_Cap: "Marathowie" #Marathowie MM
+ string_estate_beys_Cap: "Ümera" #Ümera PM
+ string_estate_boyars_Cap: "Bojarzy" #Bojarzy MM
+ string_estate_szlachta_Cap: "Szlachta" #Szlachta PZ
+ string_estate_timawa_Cap: "Timawa" #Timawa PM
+ string_estate_nayaks_Cap: "Nayak" #Nayak MM
+ string_estate_samantas_Cap: "Samanta" #Samanta MM
+ string_estate_kshatriyas_Cap: "Kszatrijowie" #Kszatrijowie MM
+ string_estate_qinwang_Cap: "Qinwang" #Qinwang PM
+ string_estate_mansabdars_Cap: "Mansabdarowie" #Mansabdarowie MM
+ string_estate_tetecuhtin_Cap: "Tetecuhtin" #Tetecuhtin PM
+ string_estate_andriana_Cap: "Andriana" #Andriana PM
+ string_estate_amirs_Cap: "Emirowie" #Emirowie MM
+ string_estate_planters_Cap: "Plantatorzy" #Plantatorzy MM
+ string_estate_bushi_Cap: "Bushi" #Bushi MM
+ string_estate_yangban_administrators_Cap: "Jangbańscy administratorzy" #Jangbańscy administratorzy MM
+ string_estate_junkers_Cap: "Junkrzy" #Junkrzy MM
+ string_estate_alii_Cap: "Ali-i" #Ali-i MM
+ string_estate_ariki_Cap: "Ariki" #Ariki MM
+ string_estate_eiki_Cap: "Eiki" #Eiki MM
+ string_estate_ratu_Cap: "Ratu" #Ratu MM
+ string_estate_nobles_Cap: "Arystokracja" #Arystokracja PZ
+ string_estate_bourgeoisie_Cap: "Burżuazja" #Burżuazja PZ
+ string_estate_shangbang_Cap: "Shangbang" #Shangbang PM
+ string_estate_neoconfucian_reformers_Cap: "Neokonfucjańscy reformatorzy" #Neokonfucjańscy reformatorzy MM
+ string_estate_merchant_guilds_Cap: "Gildie kupieckie" #Gildie kupieckie MZ
+ string_estate_burghers_Cap: "Mieszczaństwo" #Mieszczaństwo PN
+ string_estate_vaisyas_Cap: "Wajśjowie" #Wajśjowie MM
+ string_estate_cossacks_Cap: "Kozacy" #Kozacy MM
+ string_estate_nomadic_tribes_Cap: "Plemiona" #Plemiona MN
+ string_estate_dhimmi_Cap: "Zimmi" #Zimmi MM
+ string_estate_jains_Cap: "Dźiniści" #Dźiniści MM
+ string_estate_rajput_Cap: "Radźputowie" #Radźputowie MM
 ## Dopełniacz klas społecznych
 ##mała
  string_gen_estate_brahmins: "braminów" #Bramini

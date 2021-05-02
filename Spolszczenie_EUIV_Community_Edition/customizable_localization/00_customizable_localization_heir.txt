@@ -15,8 +15,11 @@ defined_text = {
 		trigger = {
 			has_female_heir = no
 			government = monarchy
-			NOT = { has_reform = revolutionary_empire_reform }
+			NOT = {
+				has_reform = revolutionary_empire_reform
+			}
 			OR = {
+				has_reform = revolutionary_empire_reform
 				tag = FRA
 				tag = AUV
 			}
@@ -152,7 +155,9 @@ defined_text = {
 			has_female_heir = no
 			has_reform = monarchy_mechanic
 			is_part_of_hre = yes
-			NOT = { total_development = 50 }
+			NOT = {
+				total_development = 50
+			}
 		}
 	}
 	text={
@@ -202,7 +207,9 @@ defined_text = {
 			government_rank = 2
 			religion_group = muslim
 			government = tribal
-			NOT = { has_reform = steppe_horde }
+			NOT = {
+				has_reform = steppe_horde
+			}
 		}
 	}
 	text={
@@ -254,7 +261,9 @@ defined_text = {
 			has_female_heir = no
 			government_rank = 2
 			government = monarchy
-			NOT = { has_reform = steppe_horde }
+			NOT = {
+				has_reform = steppe_horde
+			}
 			religion_group = muslim
 		}
 	}
@@ -301,7 +310,9 @@ defined_text = {
 			has_female_heir = no
 			government = monarchy
 			religion_group = muslim
-			NOT = { is_march = yes }
+			NOT = {
+				is_march = yes
+			}
 			overlord = { primary_culture = turkish }
 		}
 	}
@@ -320,7 +331,9 @@ defined_text = {
 			has_female_heir = no
 			religion_group = muslim
 			government = tribal
-			NOT = { has_reform = steppe_horde }
+			NOT = {
+				has_reform = steppe_horde
+			}
 		}
 	}
 	text={
@@ -367,7 +380,9 @@ defined_text = {
 		trigger = {
 			has_female_heir = no
 			government = monarchy
-			NOT = { has_reform = steppe_horde }
+			NOT = {
+				has_reform = steppe_horde
+			}
 			religion_group = muslim
 		}
 	}
@@ -401,8 +416,11 @@ defined_text = {
 		localisation_key = string_DAUPHINE
 		trigger = {
 			government = monarchy
-			NOT = { has_reform = revolutionary_empire_reform }
+			NOT = {
+				has_reform = revolutionary_empire_reform
+			}
 			OR = {
+				has_reform = revolutionary_empire_reform
 				tag = FRA
 				tag = AUV
 			}
@@ -535,7 +553,9 @@ defined_text = {
 		trigger = {
 			has_reform = monarchy_mechanic
 			is_part_of_hre = yes
-			NOT = { total_development = 50 }
+			NOT = {
+				total_development = 50
+			}
 		}
 	}
 	text={
@@ -571,7 +591,9 @@ defined_text = {
 			government_rank = 2
 			religion_group = muslim
 			government = tribal
-			NOT = { has_reform = steppe_horde }
+			NOT = {
+				has_reform = steppe_horde
+			}
 		}
 	}
 	text={
@@ -618,7 +640,9 @@ defined_text = {
 		trigger = {
 			government_rank = 2
 			government = monarchy
-			NOT = { has_reform = steppe_horde }
+			NOT = {
+				has_reform = steppe_horde
+			}
 			religion_group = muslim
 		}
 	}
@@ -642,7 +666,9 @@ defined_text = {
 		trigger = {
 			government = monarchy
 			religion_group = muslim
-			NOT = { is_march = yes }
+			NOT = {
+				is_march = yes
+			}
 			overlord = { primary_culture = turkish }
 		}
 	}
@@ -659,7 +685,9 @@ defined_text = {
 		trigger = {
 			religion_group = muslim
 			government = tribal
-			NOT = { has_reform = steppe_horde }
+			NOT = {
+				has_reform = steppe_horde
+			}
 		}
 	}
 	text={
@@ -701,7 +729,14 @@ defined_text = {
 		localisation_key = string_HEIR_fem
 		trigger = {
 			government = monarchy
-			NOT = { has_reform = steppe_horde }
+			NOT = {
+				has_reform = steppe_horde
+			}
+			religion_group = muslim
+		}
+	}
+}eform = steppe_horde
+			}
 			religion_group = muslim
 		}
 	}
