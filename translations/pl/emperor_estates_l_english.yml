@@ -703,7 +703,7 @@
  sending_condottieri_to_them: "§Y[Root.GetName]§! wynajmuje kondotierów państwu §YCountry§!."
  is_root_religion: "Wyznaje religię §Y[Root.Religion.GetName]§!."
  pay_crown_land: "Umożliwia wykorzystanie królewszczyzn"
- estate_church_propagate_religion_trigger_tooltip: "Wszystkie zamieszkałe prowincje w węźle handlowym §Y[agenda_trade_node.GetTradeNodeName]§! wyznają Katolicyzm, Islam lub Judaizm."
+ estate_church_propagate_religion_trigger_tooltip: "Wszystkie zamieszkałe prowincje w węźle handlowym §Y[agenda_trade_node.GetTradeNodeName]§! wyznają §Y[Root.Religion.GetName]§!, Katolicyzm, Islam lub Judaizm."
  agenda_automatically_completed_explain_dhimmi: "Prowincja §Y[agenda_province.GetName]§!. otrzyma §R25%§! lokalnej autonomii."
  estate_nobles_protect_our_culture_effect_tooltip: "Po podbiciu, prowincja §Y[agenda_province.GetName]§! straci §G5§! lat separatyzmu."
  owned_by_country_of_root_religion: "Jest posiadana przez państwo wyznające §Y[Root.Religion.GetName]§!."
