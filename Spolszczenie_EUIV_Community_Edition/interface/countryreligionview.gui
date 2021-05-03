@@ -963,7 +963,6 @@ guiTypes = {
 				name ="holy_site_icon_1"
 				spriteType = "GFX_icon_religion_small"
 				position = { x = 35 y = 266 }
-				frame = 14
 #				scale = 0.75
 			}
 			
@@ -2375,7 +2374,7 @@ guiTypes = {
 			iconType =
 			{
 				name ="religion_overlay_fetishist_bg"
-				spriteType = "GFX_hindu_deities_overlay_bg"
+				spriteType = "GFX_fetishist_overlay_bg"
 				position = { x= -27 y = -72 }
 			}
 			
@@ -2638,7 +2637,7 @@ guiTypes = {
 		name = "fetishist_cult_item"
 		backGround =""
 		position = { x=10 y=-20 }	
-		size = { x=50 y=46 }
+		size = { x=50 y=64 }
 		moveable = 0
 		dontRender = ""
 		horizontalBorder = ""
@@ -2648,12 +2647,12 @@ guiTypes = {
 		{
 			name ="cult_item_icon"
 			spriteType = "GFX_fetishists_strip"
-			position = { x= 107 y = -4 }
+			position = { x= 107 y = 5 }
 		}
 		
 		instantTextBoxType = {
 			name = "cult_item_name"
-			position = { x= 0 y = 7 }
+			position = { x= 0 y = 16 }
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
 			text = "CultName"
@@ -2670,14 +2669,15 @@ guiTypes = {
 			borderSize = {x = 0 y = 0}
 			text = "CultEffect"	
 			maxWidth = 208
-			maxHeight = 24
+			maxHeight = 54
 			Orientation = "UPPER_LEFT"
 			format = left
+			fixedsize = yes
 		}
 		
 		guiButtonType = {
 			name = "pick_cult"
-			position = { x=362 y = 1}
+			position = { x=362 y = 10}
 			quadTextureSprite ="GFX_standard_button_71"
 			buttonText = "SELECT"
 			buttonFont = "vic_18"

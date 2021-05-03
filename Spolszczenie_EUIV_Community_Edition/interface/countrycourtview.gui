@@ -185,14 +185,14 @@ guiTypes = {
 		listboxType = 
 		{
 			name ="monarch_ruler_personality_list"
-			position = { x=160 y =128}
+			position = { x=170 y =138}
 			backGround=""
 			size = { x=250 y =300}
 			Orientation = "UPPER_LEFT"
 			horizontal = 1
 			spacing = 2
 			scrollbartype = "standardlistbox_slider"
-			borderSize = {x = 10 y = 10}
+			borderSize = {x = 0 y = 0}
 		}
 
 		instantTextBoxType = {
@@ -331,14 +331,14 @@ guiTypes = {
 		listboxType = 
 		{
 			name ="monarch_heir_personality_list"
-			position = { x=160 y =191}
+			position = { x=170 y =203}
 			backGround=""
 			size = { x=220 y =100}
 			Orientation = "UPPER_LEFT"
 			horizontal = 0
 			spacing = 2
 			scrollbartype = "standardlistbox_slider"
-			borderSize = {x = 10 y = 10}
+			borderSize = {x = 0 y = 0}
 		}
 				
 		guiButtonType = {
@@ -485,14 +485,14 @@ guiTypes = {
 		listboxType = 
 		{
 			name ="monarch_queen_personality_list"
-			position = { x=160 y =254}
+			position = { x=170 y =265}
 			backGround=""
 			size = { x=220 y =100}
 			Orientation = "UPPER_LEFT"
 			horizontal = 0
 			spacing = 2
 			scrollbartype = "standardlistbox_slider"
-			borderSize = {x = 10 y = 10}
+			borderSize = {x = 0 y = 0}
 		}
 
 		### -----------
