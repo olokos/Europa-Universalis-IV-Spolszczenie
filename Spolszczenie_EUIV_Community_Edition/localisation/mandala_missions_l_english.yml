@@ -99,7 +99,7 @@
  mnd_siam_city_of_worlds_desire_desc:0 "It is not enough for [Root.Capital.GetCapitalName] to be a great city. It must be the greatest city in the world, the seat of all temporal power."
  mnd_siam_devaraja_title:0 "Devaraja"
  mnd_siam_devaraja_desc:0 "The [Root.Monarch.GetTitle] is not merely a mortal ruler, but also the spiritual center of our realm. We must ensure that the hearts of our people are sated with knowledge that the monarchy is secure and the faith is protected."
- mnd_siam_revolution_title:0 "Siamese Revolution"
+ mnd_siam_revolution_title:0 "Syjamska rewolucja"
  mnd_siam_revolution_desc:0 "Foreign powers from the west are beginning to enroach upon [Root.GetName]. We must ascertain their intentions, and either drive them out or find a way for their presence to benefit us."
  mnd_siam_royal_duel_title:0 "Win a Royal Duel"
  mnd_siam_royal_duel_desc:0 "It is customary for the [Root.Monarch.GetTitle] to personally enter combat, striding the battlefield on the backs of elephants. There is no greater military achievement for the [Root.Monarch.GetTitle] than to personally defeat another King in battle."

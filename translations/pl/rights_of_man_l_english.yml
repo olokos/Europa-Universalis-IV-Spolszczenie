@@ -1,5 +1,5 @@
 ﻿l_english:
- ROM_SUBJECT_GENERAL_DETAILS: "Posiadają $DEV$ poziom rozwoju w $PROVS$ prowincjach."
+ ROM_SUBJECT_GENERAL_DETAILS: "Posiadają $DEV$ rozwoju w $PROVS$ prowincjach."
  THEY_HAVE_LOANS: "Mają $NUM|Y$ pożyczek, których spłata będzie kosztować $DUCATS|Y$¤."
  PARTICIPANT: "Uczestnik"
  ATTACKERS: "Atakujący"
@@ -289,9 +289,9 @@
  overlord_sword_hunt: "Polowanie na miecze"
  subject_sword_hunt: "Polowanie na miecze"
  ottoman_government: "Osmański rząd"
- ottoman_government_desc: "Rząd osmański jest pod wieloma względami synonimem rodziny królewskiej. Harem zapewnia, że ​​dziedziców na osmański tron nigdy nie zabraknie."
+ ottoman_government_desc: "Rząd osmański jest pod wieloma względami synonimem rodziny królewskiej. Harem zapewnia, że dziedziców na osmański tron nigdy nie zabraknie."
  ottoman_government_legacy: "Osmański rząd"
- ottoman_government_legacy_desc: "Osmański rząd jest pod wieloma względami synonimem rodziny królewskiej. Harem zapewnia, że ​​dziedziców na osmański tron nigdy nie zabraknie."
+ ottoman_government_legacy_desc: "Osmański rząd jest pod wieloma względami synonimem rodziny królewskiej. Harem zapewnia, że dziedziców na osmański tron nigdy nie zabraknie."
  coptic_conquest_of_alexandria_title: "Uwolnij Aleksandrię"
  coptic_conquest_of_alexandria_desc: "Patriarchat Aleksandrii i całej Afryki to największy koptyjski Kościół na świecie, ale jego wieloletnia siedziba, a także spora część społeczności koptyjskiej, znajdują się pod rządami obcych władców. Musimy uwolnić Aleksandrię i odżywić egipską społeczność Koptów!"
  coptic_conquest_of_qasr_ibrim_title: "Podbij Kasr Ibrim "
