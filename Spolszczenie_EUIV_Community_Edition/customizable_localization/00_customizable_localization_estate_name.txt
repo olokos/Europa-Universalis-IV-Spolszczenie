@@ -2996,13 +2996,6 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_NounJa_PM
-		trigger = {
-			primary_culture = maori
-			religion = animism
-		}
-	}
-	text = {
 		localisation_key = string_NounJa_MM
 		trigger = {
 			OR = {
@@ -3016,6 +3009,7 @@ defined_text = {
 					}
 					primary_culture = polynesian
 				}
+				primary_culture = maori
 				tag = LAI
 				tag = VIL
 				tag = VNL
@@ -3222,13 +3216,6 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_IA_PM
-		trigger = {
-			primary_culture = maori
-			religion = animism
-		}
-	}
-	text = {
 		localisation_key = string_IA_MM
 		trigger = {
 			OR = {
@@ -3242,6 +3229,7 @@ defined_text = {
 					}
 					primary_culture = polynesian
 				}
+				primary_culture = maori
 				tag = LAI
 				tag = VIL
 				tag = VNL
@@ -3448,13 +3436,6 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_Whose_PM
-		trigger = {
-			primary_culture = maori
-			religion = animism
-		}
-	}
-	text = {
 		localisation_key = string_Whose_MM
 		trigger = {
 			OR = {
@@ -3468,6 +3449,7 @@ defined_text = {
 					}
 					primary_culture = polynesian
 				}
+				primary_culture = maori
 				tag = LAI
 				tag = VIL
 				tag = VNL
@@ -3674,13 +3656,6 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_Whose_PM_Cap
-		trigger = {
-			primary_culture = maori
-			religion = animism
-		}
-	}
-	text = {
 		localisation_key = string_Whose_MM_Cap
 		trigger = {
 			OR = {
@@ -3694,6 +3669,7 @@ defined_text = {
 					}
 					primary_culture = polynesian
 				}
+				primary_culture = maori
 				tag = LAI
 				tag = VIL
 				tag = VNL
@@ -3900,13 +3876,6 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_IZa_PM
-		trigger = {
-			primary_culture = maori
-			religion = animism
-		}
-	}
-	text = {
 		localisation_key = string_IZa_MM
 		trigger = {
 			OR = {
@@ -3920,6 +3889,7 @@ defined_text = {
 					}
 					primary_culture = polynesian
 				}
+				primary_culture = maori
 				tag = LAI
 				tag = VIL
 				tag = VNL
@@ -4126,13 +4096,6 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_EA_PM
-		trigger = {
-			primary_culture = maori
-			religion = animism
-		}
-	}
-	text = {
 		localisation_key = string_EA_MM
 		trigger = {
 			OR = {
@@ -4146,6 +4109,7 @@ defined_text = {
 					}
 					primary_culture = polynesian
 				}
+				primary_culture = maori
 				tag = LAI
 				tag = VIL
 				tag = VNL
@@ -4352,13 +4316,6 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_ZieA_PM
-		trigger = {
-			primary_culture = maori
-			religion = animism
-		}
-	}
-	text = {
 		localisation_key = string_ZieA_MM
 		trigger = {
 			OR = {
@@ -4372,6 +4329,7 @@ defined_text = {
 					}
 					primary_culture = polynesian
 				}
+				primary_culture = maori
 				tag = LAI
 				tag = VIL
 				tag = VNL
@@ -4578,13 +4536,6 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_Who_PM
-		trigger = {
-			primary_culture = maori
-			religion = animism
-		}
-	}
-	text = {
 		localisation_key = string_Who_MM
 		trigger = {
 			OR = {
@@ -4598,6 +4549,7 @@ defined_text = {
 					}
 					primary_culture = polynesian
 				}
+				primary_culture = maori
 				tag = LAI
 				tag = VIL
 				tag = VNL
@@ -4804,13 +4756,6 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_NormEnd_PM
-		trigger = {
-			primary_culture = maori
-			religion = animism
-		}
-	}
-	text = {
 		localisation_key = string_NormEnd_MM
 		trigger = {
 			OR = {
@@ -4824,6 +4769,7 @@ defined_text = {
 					}
 					primary_culture = polynesian
 				}
+				primary_culture = maori
 				tag = LAI
 				tag = VIL
 				tag = VNL
@@ -5030,13 +4976,6 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_BE_PM
-		trigger = {
-			primary_culture = maori
-			religion = animism
-		}
-	}
-	text = {
 		localisation_key = string_BE_MM
 		trigger = {
 			OR = {
@@ -5050,6 +4989,7 @@ defined_text = {
 					}
 					primary_culture = polynesian
 				}
+				primary_culture = maori
 				tag = LAI
 				tag = VIL
 				tag = VNL
@@ -5256,13 +5196,6 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_AdjEndS_PM
-		trigger = {
-			primary_culture = maori
-			religion = animism
-		}
-	}
-	text = {
 		localisation_key = string_AdjEndS_MM
 		trigger = {
 			OR = {
@@ -5276,6 +5209,7 @@ defined_text = {
 					}
 					primary_culture = polynesian
 				}
+				primary_culture = maori
 				tag = LAI
 				tag = VIL
 				tag = VNL
@@ -5482,13 +5416,6 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_NounA_PM
-		trigger = {
-			primary_culture = maori
-			religion = animism
-		}
-	}
-	text = {
 		localisation_key = string_NounA_MM
 		trigger = {
 			OR = {
@@ -5502,6 +5429,7 @@ defined_text = {
 					}
 					primary_culture = polynesian
 				}
+				primary_culture = maori
 				tag = LAI
 				tag = VIL
 				tag = VNL
@@ -5708,13 +5636,6 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_Conc_PM
-		trigger = {
-			primary_culture = maori
-			religion = animism
-		}
-	}
-	text = {
 		localisation_key = string_Conc_MM
 		trigger = {
 			OR = {
@@ -5728,6 +5649,7 @@ defined_text = {
 					}
 					primary_culture = polynesian
 				}
+				primary_culture = maori
 				tag = LAI
 				tag = VIL
 				tag = VNL
@@ -5934,13 +5856,6 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_AdjEnd_PM
-		trigger = {
-			primary_culture = maori
-			religion = animism
-		}
-	}
-	text = {
 		localisation_key = string_AdjEnd_MM
 		trigger = {
 			OR = {
@@ -5954,6 +5869,7 @@ defined_text = {
 					}
 					primary_culture = polynesian
 				}
+				primary_culture = maori
 				tag = LAI
 				tag = VIL
 				tag = VNL
@@ -6160,13 +6076,6 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_PastEnd_PM
-		trigger = {
-			primary_culture = maori
-			religion = animism
-		}
-	}
-	text = {
 		localisation_key = string_PastEnd_MM
 		trigger = {
 			OR = {
@@ -6180,6 +6089,7 @@ defined_text = {
 					}
 					primary_culture = polynesian
 				}
+				primary_culture = maori
 				tag = LAI
 				tag = VIL
 				tag = VNL
