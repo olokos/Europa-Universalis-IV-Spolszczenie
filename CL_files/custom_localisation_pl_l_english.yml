@@ -115,7 +115,7 @@
  string_estate_yangban_administrators: "jangbańscy administratorzy" #Jangbańscy administratorzy MM
  string_estate_junkers: "junkrzy" #Junkrzy MM
  string_estate_alii: "ali-i" #Ali-i MM
- string_estate_ariki: "ariki" #Ariki MM
+ string_estate_Rangatira: "rangatira" #Rangatira MM
  string_estate_eiki: "eiki" #Eiki MM
  string_estate_ratu: "ratu" #Ratu MM
  string_estate_nobles: "arystokracja" #Arystokracja PZ
@@ -162,7 +162,7 @@
  string_estate_yangban_administrators_Cap: "Jangbańscy administratorzy" #Jangbańscy administratorzy MM
  string_estate_junkers_Cap: "Junkrzy" #Junkrzy MM
  string_estate_alii_Cap: "Ali-i" #Ali-i MM
- string_estate_ariki_Cap: "Ariki" #Ariki MM
+ string_estate_rangatira_Cap: "Rangatira" #Rangatira MM
  string_estate_eiki_Cap: "Eiki" #Eiki MM
  string_estate_ratu_Cap: "Ratu" #Ratu MM
  string_estate_nobles_Cap: "Arystokracja" #Arystokracja PZ
@@ -210,7 +210,7 @@
  string_gen_estate_yangban_administrators: "jangbańskich administratorów" #Jangbańscy administratorzy
  string_gen_estate_junkers: "junkrów" #Junkrzy
  string_gen_estate_alii: "ali-i" #Ali-i
- string_gen_estate_ariki: "ariki" #Ariki
+ string_gen_estate_rangatira: "rangatira" #Rangatira
  string_gen_estate_eiki: "eiki" #Eiki
  string_gen_estate_ratu: "ratu" #Ratu
  string_gen_estate_nobles: "arystokracji" #Arystokracja
@@ -257,7 +257,7 @@
  string_gen_estate_yangban_administrators_Cap: "Jangbańskich administratorów" #Jangbańscy administratorzy
  string_gen_estate_junkers_Cap: "Junkrów" #Junkrzy
  string_gen_estate_alii_Cap: "Ali-i" #Ali-i
- string_gen_estate_ariki_Cap: "Ariki" #Ariki
+ string_gen_estate_rangatira_Cap: "Rangatira" #Rangatira
  string_gen_estate_eiki_Cap: "Eiki" #Eiki
  string_gen_estate_ratu_Cap: "Ratu" #Ratu
  string_gen_estate_nobles_Cap: "Arystokracji" #Arystokracja
@@ -305,7 +305,7 @@
  string_dat_estate_yangban_administrators: "jangbańskim administratorom" #Jangbańscy administratorzy
  string_dat_estate_junkers: "junkrom" #Junkrzy
  string_dat_estate_alii: "ali-i" #Ali-i
- string_dat_estate_ariki: "ariki" #Ariki
+ string_dat_estate_rangatira: "rangatira" #Rangatira
  string_dat_estate_eiki: "eiki" #Eiki
  string_dat_estate_ratu: "ratu" #Ratu
  string_dat_estate_nobles: "arystokracji" #Arystokracja
@@ -352,7 +352,7 @@
  string_dat_estate_yangban_administrators_Cap: "Jangbańskim administratorom" #Jangbańscy administratorzy
  string_dat_estate_junkers_Cap: "Junkrom" #Junkrzy
  string_dat_estate_alii_Cap: "Ali-i" #Ali-i
- string_dat_estate_ariki_Cap: "Ariki" #Ariki
+ string_dat_estate_rangatira_Cap: "Rangatira" #Rangatira
  string_dat_estate_eiki_Cap: "Eiki" #Eiki
  string_dat_estate_ratu_Cap: "Ratu" #Ratu
  string_dat_estate_nobles_Cap: "Arystokracji" #Arystokracja
@@ -400,7 +400,7 @@
  string_ins_estate_yangban_administrators: "jangbańskimi administratorami" #Jangbańscy administratorzy
  string_ins_estate_junkers: "junkrami" #Junkrzy
  string_ins_estate_alii: "ali-i" #Ali-i
- string_ins_estate_ariki: "ariki" #Ariki
+ string_ins_estate_rangatira: "rangatira" #Rangatira
  string_ins_estate_eiki: "eiki" #Eiki
  string_ins_estate_ratu: "ratu" #Ratu
  string_ins_estate_nobles: "arystokracją" #Arystokracja
@@ -447,7 +447,7 @@
  string_ins_estate_yangban_administrators_Cap: "Jangbańskimi administratorami" #Jangbańscy administratorzy
  string_ins_estate_junkers_Cap: "Junkrami" #Junkrzy
  string_ins_estate_alii_Cap: "Ali-i" #Ali-i
- string_ins_estate_ariki_Cap: "Ariki" #Ariki
+ string_ins_estate_rangatira_Cap: "Rangatira" #Rangatira
  string_ins_estate_eiki_Cap: "Eiki" #Eiki
  string_ins_estate_ratu_Cap: "Ratu" #Ratu
  string_ins_estate_nobles_Cap: "Arystokracją" #Arystokracja
