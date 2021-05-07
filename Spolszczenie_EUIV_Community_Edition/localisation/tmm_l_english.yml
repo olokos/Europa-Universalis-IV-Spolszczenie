@@ -1,9 +1,9 @@
 ﻿l_english:
- MIGRATION_COST:0 "Migration Cost"
+ MIGRATION_COST:0 "Koszt migracji"
  an_nopersonality:0 "have no strong personality traits"
  WOULD_HAVE_TO_FIGHT_OVERLORD:0 "Would have to fight tributary overlord: "
- SUBJECT_NO_COLONIES_OR_VASSALS:0 "We have no colonies or vassals."
- great_peasants_war_flag:0 "Great Peasants' War"
+ SUBJECT_NO_COLONIES_OR_VASSALS:0 "Nie mamy kolonii ani wasali."
+ great_peasants_war_flag:0 "Wielka wojna ch³opska"
  BUILD_TOOLTIP_INTRO:0 "Constructing a $BUILDING|Y$ here will provice the following base effects:"
  MACRO_INCREASE_SAILORS_DESC:0 "This building will increase sailors by $VAL$"
  MACRO_REDUCE_MAINTENANCE_DESC:0 "This building will decrease maintenance by $VAL$"

@@ -1,9 +1,9 @@
 ﻿l_english:
- MIGRATION_COST: ""
+ MIGRATION_COST: "Koszt migracji"
  an_nopersonality: ""
  WOULD_HAVE_TO_FIGHT_OVERLORD: ""
- SUBJECT_NO_COLONIES_OR_VASSALS: ""
- great_peasants_war_flag: ""
+ SUBJECT_NO_COLONIES_OR_VASSALS: "Nie mamy kolonii ani wasali."
+ great_peasants_war_flag: "Wielka wojna chłopska"
  BUILD_TOOLTIP_INTRO: ""
  MACRO_INCREASE_SAILORS_DESC: ""
  MACRO_REDUCE_MAINTENANCE_DESC: ""

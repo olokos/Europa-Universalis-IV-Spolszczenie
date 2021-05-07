@@ -26,7 +26,7 @@
  TRIBAL_DEVELOPMENT_VALUE:0 "From Tribal Development: $VAL|Y0$"
  TRIBAL_DEVELOPMENT_INCREASE_EXPLANATION:0 "Random category will grow by $VAL|+$:\n"
  PROVINCE_SETTLE_TOOLTIP_DESC:0 "Will settle our people in the province making it belong to us fully and relocate $ADM|Y$£adm£, $DIP|Y$£dip£, $MIL|Y$£mil£ Development to it.\n\n"
- SETTLE_PROVINCE_COST:0 "Costs $COST|Y$ $POWER|$ Power\n"
+ SETTLE_PROVINCE_COST:0 "Kosztuje $COST|Y$ punkty $POWER|$\n"
  MIGRATE_PROVINE_NOT_LAND:0 "§R$PROV|Y$ is not settleable land.\n"
  DEVASTATION_FROM_PASSIVE:0 "Natural Recovery: $VAL|-$\n"
  COHESION_FEDERATION_ADVANCEMENT:0 "§Y$NUM$ Federal Advancements§!: $VAL|+=1$\n"
