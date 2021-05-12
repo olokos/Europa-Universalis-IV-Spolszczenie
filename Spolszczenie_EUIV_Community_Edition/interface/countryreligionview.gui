@@ -1416,7 +1416,7 @@ guiTypes = {
 					position = { x= 0 y = 0 }
 					font = "vic_18"
 					borderSize = {x = 0 y = 0}
-					text = "NO_GURU"	
+					text = "NO_GURU_TITLE"	
 					maxWidth = 200
 					maxHeight = 18
 					Orientation = "UPPER_LEFT"
@@ -1451,7 +1451,7 @@ guiTypes = {
 					position = { x= 0 y = 0 }
 					font = "vic_18"
 					borderSize = {x = 0 y = 0}
-					text = "NO_GURU"	
+					text = "NO_GURU_TITLE"	
 					maxWidth = 200
 					maxHeight = 24
 					Orientation = "UPPER_LEFT"

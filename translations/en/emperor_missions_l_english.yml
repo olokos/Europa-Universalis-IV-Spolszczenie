@@ -681,7 +681,7 @@
  emp_bur_league_of_public_weal_effect_tooltip: "§Y[This.GetName]§! gains permanent claims on all provinces owned by §YFrance§! in the France region."
  emp_bur_king_of_the_franks_title: "King of the Franks"
  emp_bur_king_of_the_franks_desc: "We must break the power of the French King and take his title and domains for ourselves."
- emp_bur_king_of_the_franks_effect_tooltip: "All vassals of §YFrance§! in the France region with at least §Y50§! liberty desire become vassals of §Y[Root.GetName]§!."
+ emp_bur_king_of_the_franks_effect_tooltip: "All vassals of §YFrance§! in the France region become vassals of §Y[Root.GetName]§!."
  emp_bur_influence_the_princes_title: "Influence the Princes"
  emp_bur_influence_the_princes_desc: "In the past, we have been outsiders to the Empire. This must change. We should make a concerted effort towards improving our standing among the Imperial Princes."
  emp_bur_influence_the_princes_trigger_tooltip: " HRE member states:\n      Opinion of §Y[Root.GetName]§! is at least §Y60§!."
