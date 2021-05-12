@@ -275,7 +275,7 @@
  DIPLO_AT_WAR: "Państwo $WHO$ jest w stanie wojny: "
  DIPLO_IN_IMPORTANT_WAR: "Państwo $WHO$ toczy ważną wojnę:"
  DIPLO_AT_WAR_AGAINST: "Państwo $WHO$ jest w stanie wojny z krajem $AGAINST$:"
- DIPLO_NOT_VALID_FOR_SUPPORT_INDEPENDENCE: "Nie jest odpowiednim celem dla popierania niepodległości:"
+ DIPLO_NOT_VALID_FOR_SUPPORT_INDEPENDENCE: "Nie jest odpowiednim celem dla wspierania niepodległości:"
  DIPLO_DIPLOMATIC_DISTANCE: "Odległość między stolicami:"
  DIPLO_ORIGINAL_ENEMY_NOT_BEATEN: "Kraj $COUNTRY$ nie znajduje się pod całkowitą okupacją:"
  DIPLO_BORDER_DISTANCE: "Odległość między granicami:"
