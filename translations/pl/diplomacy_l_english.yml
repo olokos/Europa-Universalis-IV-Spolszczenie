@@ -96,7 +96,7 @@
  BENEFIT_FOR_MEMBER: "Książęta i wolne miasta otrzymują:\n$MODIFIER$"
  BENEFIT_FOR_EVERYONE: "Wszyscy w imperium otrzymują:\n$MODIFIER$"
  DIPIRO_SUPPORTING_INDEPENDENCE: "Wspiera niepodległość kraju §Y$NAME$§!."
- DIPIRO_INDEPENDENCE_SUPPORTED: "Kraj §Y$NAME$§! popiera naszą niepodległość."
+ DIPIRO_INDEPENDENCE_SUPPORTED: "Kraj §Y$NAME$§! wspiera naszą niepodległość."
  DIPIRO_ALLIED_WITH: "Sojusznik państwa §Y$NAME$§!."
  SAME_FEDERATION_AS: "W tej samej federacji, co państwo §Y$NAME$§! (dowodzonej przez państwo $LEADER$)."
  SAME_TRADELEAGUE_AS: "W tej samej lidze handlowej co państwo §Y$NAME$§! (dowodzonej przez państwo $LEADER$)."
