@@ -4510,7 +4510,7 @@
  TAG_IS_MARCH_SUBJECT: "Kraj §Y$WHO$§! jest marchią państwa §Y$TARGET$§!."
  GOVERNMENT_DONT_ALLOW_VASSAL_WAR: "Rząd kraju $WHO$ nie pozwoli na to."
  CANT_SUPPORT_OVERLORD: "Poddany nie może podpisać ze swoim suwerenem traktatu wspierającego niepodległość."
- TRUCE_WITH_OVERLORD: "Poddany nie może otrzymywać wsparcia dla niepodległości, jeśli zawarł rozejm ze swoim suwerenem."
+ TRUCE_WITH_OVERLORD: "Poddany nie może otrzymywać wsparcia niepodległości, jeśli zawarł rozejm ze swoim suwerenem."
  DLC_ENABLED: "Rozszerzenie $NAME|Y$ jest włączone."
  DLC_DISABLED: "Rozszerzenie $NAME|Y$ §Rnie§! jest włączone."
  ALREADY_HAS_POLICY: "- Ta polityka jest już aktywna."
