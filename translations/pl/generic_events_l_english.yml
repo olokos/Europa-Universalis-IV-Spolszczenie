@@ -47,7 +47,7 @@
  ideagroups.713.t: "Wysłać kawalerię"
  ideagroups.713.d: "Nasi jeźdźcy dysponują umiejętnościami, czyniącymi z nich rozstrzygającą formację, jak to miało miejsce w czasach Aleksandra Wielkiego. W dzisiejszych czasach nasi kompani tworzą śmietankę armii i zawsze są gotowi ruszać do ataku. Czerpią dumę ze swojego znaczenia i pławią się w blasku chwały."
  ideagroups.713.a: "Szarża!"
- institution_events.2.t: "Odrodzenie!"
+ institution_events.2.t: "Renesans!"
  institution_events.2.d: "Poczynając od XIV w. bogate i wpływowe włoskie miasta-państwa patronowały artystom i uczonym, pragnącym badać dziedzictwo ich przodków z antycznej Grecji i Rzymu. Nurt kulturalny renesansu zdążył już objąć większość regionu i wywrzeć wpływ na literaturę, sztukę, filozofię i muzykę. Humaniści analizowali także swoje społeczeństwo, porównując je z ideałami klasycznych filozofów. Z nastaniem $YEAR$ roku humanizm renesansowy przyjął bardziej dojrzałą postać i był gotów przeniknąć wszelkie warstwy społeczeństwa. Nowe wzorce panujących, a także poddanych, rozprzestrzeniają się tak szybko, jak szybko współcześni drukarze dają radę je powielać. Prawdziwy renesansowy humanista zna się na wszystkim, poczynając od polityki, poprzez filozofię, analizę tekstu i muzykę, na sztuce i architekturze kończąc. Renesans jest gotów odmienić świat, by ten lepiej odpowiadał klasycznym ideałom."
  institution_events.2.a: "To wszystko zmienia..."
  institution_events.2.a.tt: "Państwa, które §Ynie przyjęły§! w pełni §Yrenesansu§! będą ponosić karę - ich koszt technologii będzie wzrastał o §R1%§! rocznie, aż osiągnie maksymalną wartość §R+50%§!."

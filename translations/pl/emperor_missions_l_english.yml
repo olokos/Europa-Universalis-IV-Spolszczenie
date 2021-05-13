@@ -681,7 +681,7 @@
  emp_bur_league_of_public_weal_effect_tooltip: "Państwo §Y[This.GetName]§! otrzyma permanentne roszczenia terytorialne do wszystkich prowincji posiadanych przez §YFrancję§! w regionie Francji."
  emp_bur_king_of_the_franks_title: "Król Franków"
  emp_bur_king_of_the_franks_desc: "Musimy zniszczyć siłę króla Francji oraz przejąć jego tytuły i domenę dla siebie."
- emp_bur_king_of_the_franks_effect_tooltip: "Wszyscy wasale §YFrancji§! zlokalizowani w regionie francuskim, mający co najmniej §Y50§! punktów dążeń niepodległościowych, zostaną wasalami państwa §Y[Root.GetName]§!."
+ emp_bur_king_of_the_franks_effect_tooltip: ""
  emp_bur_influence_the_princes_title: "Wpłyń na książęta"
  emp_bur_influence_the_princes_desc: "W przeszłości byliśmy uważani w Cesarstwie za obcych. To się musi zmienić. Powinniśmy działać w kierunku poprawy naszej pozycji wśród członków Cesarstwa."
  emp_bur_influence_the_princes_trigger_tooltip: ""

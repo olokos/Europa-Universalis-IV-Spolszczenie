@@ -681,7 +681,7 @@
  emp_bur_league_of_public_weal_effect_tooltip:0 "Paªstwo §Y[This.GetName]§! otrzyma permanentne roszczenia terytorialne do wszystkich prowincji posiadanych przez §YFrancj²§! w regionie Francji."
  emp_bur_king_of_the_franks_title:0 "Król Franków"
  emp_bur_king_of_the_franks_desc:0 "Musimy zniszczy¾ si³² króla Francji oraz przej¹¾ jego tytu³y i domen² dla siebie."
- emp_bur_king_of_the_franks_effect_tooltip:0 "Wszyscy wasale §YFrancji§! zlokalizowani w regionie francuskim, maj¹cy co najmniej §Y50§! punktów d¹¿eª niepodleg³oœciowych, zostan¹ wasalami paªstwa §Y[Root.GetName]§!."
+ emp_bur_king_of_the_franks_effect_tooltip:0 "All vassals of §YFrance§! in the France region become vassals of §Y[Root.GetName]§!."
  emp_bur_influence_the_princes_title:0 "Wp³yª na ksi¹¿²ta"
  emp_bur_influence_the_princes_desc:0 "W przesz³oœci byliœmy uwa¿ani w Cesarstwie za obcych. To si² musi zmieni¾. Powinniœmy dzia³a¾ w kierunku poprawy naszej pozycji wœród cz³onków Cesarstwa."
  emp_bur_influence_the_princes_trigger_tooltip:0 " HRE member states:\n      Opinion of §Y[Root.GetName]§! is at least §Y60§!."

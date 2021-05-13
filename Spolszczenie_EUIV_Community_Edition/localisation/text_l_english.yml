@@ -687,7 +687,7 @@
  NOTCORE:0 "Nie jest prowincj¹ narodow¹"
  TERRITORIALCORE:0 "Terytorium narodowe"
  ISCORE:0 "W pe³ni narodowe"
- SUPPORTINGINDEPENDENCE:0 "Poparcie dla niepodleg³oœci: $LIST$."
+ SUPPORTINGINDEPENDENCE:0 "Wsparcie niepodleg³oœci: $LIST$."
  INDEPENDENCESUPPORTED:0 "Niepodleg³oœ¾ poparta przez: $LIST$."
  FEDERATIONWITH:0 "W federacji z: $LIST$."
  TRADELEAGUEWITH:0 "W lidze handlowej z: $LIST$."

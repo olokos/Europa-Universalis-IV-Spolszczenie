@@ -1031,3 +1031,8 @@
  DIPLO_RELATIVE_OPINION:0 "$WHO$ relative opinion of $COUNTRY01$ and $COUNTRY02$: "
  ENFORCE_PEACE_CANNOT_LEAGUE_WAR:0 "You cannot enforce peace in a Religious League War."
  CANNOT_MOVE_ALREADY_IN_PROGRESS:0 "The $GREATPROJECT|Y$ is already being moved to $PROVINCE|Y$"
+ CANNOT_EXTEND_REGENCY_TOO_FAR_IN_FUTURE:0 "The Regency doesn't end until $DATE$, wait until there's less than a year to go."
+ HAS_REFORM_ON_LEVEL:0 "Has a level $LEVEL|Y$ Government Reform.\n"
+ HAS_NOT_REFORM_ON_LEVEL:0 "Has a level $LEVEL|Y$ Government Reform.\n"
+ CURRENT_GURU_IS:0 "Current Guru is "
+ CURRENT_GURU_IS_NOT:0 "Current Guru is NOT "

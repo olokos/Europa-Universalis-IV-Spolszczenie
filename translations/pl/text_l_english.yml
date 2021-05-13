@@ -687,7 +687,7 @@
  NOTCORE: "Nie jest prowincją narodową"
  TERRITORIALCORE: "Terytorium narodowe"
  ISCORE: "W pełni narodowe"
- SUPPORTINGINDEPENDENCE: "Poparcie dla niepodległości: $LIST$."
+ SUPPORTINGINDEPENDENCE: "Wsparcie niepodległości: $LIST$."
  INDEPENDENCESUPPORTED: "Niepodległość poparta przez: $LIST$."
  FEDERATIONWITH: "W federacji z: $LIST$."
  TRADELEAGUEWITH: "W lidze handlowej z: $LIST$."

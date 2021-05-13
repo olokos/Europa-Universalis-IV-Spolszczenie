@@ -632,7 +632,7 @@
  MODIFIER_ELECTION_CYCLE:0 "D³ugoœ¾ okresu elekcyjnego"
  NO_REBEL_HUNT_MOVING:0 "§RPodczas ruchu nie mo¿na zmienia¾ t³umienia rebelii§!\n"
  NO_CARPET_SIEGE_MOVING:0 "§RPodczas ruchu nie mo¿na zmienia¾ obl²¿enia dywanowego§!\n"
- CURRENT_REFORM:0 "§YTo jest wybrana przez ciebie reforma na tym poziomiel.§!"
+ CURRENT_REFORM:0 "§YTo jest wybrana przez ciebie reforma na tym poziomie.§!"
  REFORM_LEVEL_TITLE:0 "Poziom $LEVEL$: $NAME|Y$"
  GOVERNMENT_ABILITIES:0 "W³¹cza $ABILITY$ umiej²tnoœ¾."
  CHARTER_TRUST:0 "Zaufanie:"
