@@ -1958,7 +1958,7 @@
  CV_TECH_RESEARCH_MAXED:0 "Odkry³eœ wszystkie technologie w tej grupie."
  CV_RESEARCH_TECH:0 "Odkryj technologi² $NAME$"
  CV_RESEARCH_TECH_DESC:0 "Odkrycie $NAME$ b²dzie kosztowa¾ §Y$POWER_COST$§! punktów z zasobu $TYPE$."
- CV_RESEARCH_TECH_NOPOWER:0 "Masz za ma³o punktów z zasobu $TYPE$, by móc odkry¾ kolejn¹ technologi²! Potrzebujesz §Y$POWER_COST$§! punktów, a posiadasz §Y$POWER_AVAILABLE$§!."
+ CV_RESEARCH_TECH_NOPOWER:0 "Masz za ma³o punktów z zasobu $TYPE$, by móc odkry¾ kolejn¹ technologi²! Potrzebujesz §Y$POWER_COST$§! punktów, a posiadasz §Y$POWER_AVAILABLE$§!. "
  CV_ALLOWED_IDEA_GROUPS:0 "Iloœ¾ dost²pnych grup idei"
  CV_RESEARCHED_GOV_FORM_TOOLTIP:0 "+ §G$NAME$§! (poziom $LEVEL$)"
  CV_NOTRESEARCHED_GOV_FORM_TOOLTIP:0 "§g- $NAME$ (poziom $LEVEL$)§W"

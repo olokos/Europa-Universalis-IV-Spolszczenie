@@ -31,7 +31,7 @@
  PAPAL_BULL_POSSIBLE: "§YZłote bulle§!\nTo są możliwe złote bulle, które może wprowadzić kontroler papiestwa. \n"
  PAPAL_BULL_EXPLANATION: "Złote bulle są premiami, które kontroler papiestwa może wprowadzić za pomocą funduszy kurii, które przynoszą korzyści wszystkim krajom katolickim! Trwają do śmierci obecnego Papieża. "
  JUSTIFY_TRADE_BASE: "Koszt uzasadnienia konfliktu handlowego bazuje na:\nPodstawowy koszt: $VAL|Y0$\n"
- FABRICATE_CLAIM_BASE: ""
+ FABRICATE_CLAIM_BASE: "Koszt fabrykowania roszczeń bazuje na:\nPodstawowy koszt: $VAL|Y0$\n"
  FABRICATE_CLAIM_INSIDE_HRE: ""
  FABRICATE_ALREADY_CLAIMS: "Aktywne $CLAIM|Y$ roszczenia: $VAL|-=1%$\n"
  FABRICATE_CLAIM_CAPPED: ""
