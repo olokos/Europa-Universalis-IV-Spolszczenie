@@ -30,7 +30,7 @@
  WESTERN_NAVAL_TECH: "Jednostki floty"
  TECH_HEADER: "$MESSENGER$"
  TECH_1: "$TYPE$ się rozwija!"
- TECH_2: "Panie, nasza $TYPE$ osiągnęła poziom##CHAR_DETECT##"
+ TECH_2: "Panie, nasza $TYPE$ osiągnęła poziom"
  TECH_3: "$LEVEL$"
  TECH_4: "$DESC$"
  TECH_5: "PREMIA:"
