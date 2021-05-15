@@ -295,7 +295,7 @@
  JUSTIFY_TRADE_CONFLICT_DESC_AT_WAR: "Nie możesz uzasadnić konfliktu handlowego z państwem, z którym toczysz wojnę."
  TRANSFER_TRADE_POWER_DESC_AT_WAR: "Nie możesz poprosić o siłę handlową państwa, z którym toczysz wojnę."
  FORMCOALITIONREQ: "Utwórz koalicję przeciwko państwu $TARGET$."
- COALITIONTARGET: "Cel koalicji państw##CHAR_DETECT## $LIST$."
+ COALITIONTARGET: "Cel koalicji państw $LIST$."
  COALITIONAGAINST: "W koalicji przeciwko państwom $LIST$."
  COALITIONWITH: "Koalicja z państwami $LIST$."
  COALITIONWITHAGAINST: "§Y$MEMBER$§! jest członkiem koalicji przeciwko państwu §Y$TARGET$§!. Jeśli jeden z członków koalicji rozpocznie z nim wojnę, pozostali zostaną wezwani do wzięcia w niej udziału."
