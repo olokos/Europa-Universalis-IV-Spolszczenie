@@ -19,7 +19,7 @@
  SLACK_TEXT: "Zyskaliśmy $MP|Y$ zasobów ludzkich, ale obniżyliśmy profesjonalizm naszej Armii o $DROP|R$."
  CANT_SLACKEN_TOO_LOW: "Mamy zbyt niski poziom profesjonalizmu armii, aby obniżyć standardy rekrutacji. Potrzebujemy co najmniej $NEED|Y$ profesjonalizmu armii."
  PIETY_TOO_LOW_FOR_LEGALISM: "Aby '§YWymusić wierne przestrzeganie§!' musimy mieć przynajmniej $NEED|Y$  Legalizmu. Zmieniłoby to korupcję o $CORRUPTION$."
- PIETY_LEGALISM_BONUS: "Nasza tradycja Legalizmu jest wielką zaletą. §YWymuszanie wiernego przestrzegania§! przeniesie nas o $COST|Y$ w stronę Mistycyzmu, ale zmieni korupcję o $CORRUPTION$."
+ PIETY_LEGALISM_BONUS: "Nasza tradycja legalizmu jest wielką zaletą. §YWymuszanie wiernego przestrzegania zasad naszej wiary§! przeniesie nas o $COST|Y$ w stronę mistycyzmu, ale zmieni korupcję o $CORRUPTION$."
  PIETY_TOO_HI_FOR_MYSTICISM: "Aby skorzystać z '§YWezwania Religijnych Wyznawców§!' musimy mieć przynajmniej $NEED|Y$ Mistycyzmu. Dałoby to nam następujący efekt:\n$GAIN$"
  PIETY_MYSTICISM_BONUS: "Nasza tradycja Mistycyzmu ma wielką przewagę. '§YWezwanie Religijnych Wyznawców§!' przeniesie nas o $NEED|Y$ w stronę Mistycyzmu, ale da nam $GAIN$"
  PIETY_MYSTICISM_COOLDOWN: "Możesz '§YWezwać Wyznawców Religijnych§!' tylko raz na $YEARS|Y$ lat.\nBędziesz mógł to zrobić ponownie za $UNTIL|Y$."
