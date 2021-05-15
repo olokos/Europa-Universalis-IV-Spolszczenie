@@ -133,7 +133,7 @@
  INTEGRATE_INPROGRESS3: "Postęp integracji wynosi §Y$PROGRESS|1$%§! ($VAL|G$/$COST|Y$), szacowana data ukończenia $DATE|Y$.\nZużywa §R$DRAIN$§!£dip miesięcznie.\n"
  NO_ANNEX_PROGRESS_LACK_DIP: "Potrzeba co najmniej $COST$£dip, by kontynuować."
  ANNEX_SAME_RELIGION: "Ta sama religia"
- ANNEX_SAME_CULTURE: "Ta sama grupa kulturowa##CHAR_DETECT##"
+ ANNEX_SAME_CULTURE: "Ta sama grupa kulturowa"
  ANNEX_TARGET_LOW_STAB: "Cel ma niską stabilność:"
  ANNEX_LONG_TIME_VASSAL: "Wieloletni wasal:"
  ANNEX_WAREXHAUSTION: "Wyczerpanie wojną: "
