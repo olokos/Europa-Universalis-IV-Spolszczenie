@@ -171,7 +171,7 @@
  HAS_AT_LEAST_TRUSTED_ALLIES: "Ma co najmniej $VAL|Y$ sojuszników z zaufaniem na poziomie §Y100§!."
  NATION_DESIGNER_POINTS_LESS_THAN: "Użył poniżej $VAL|Y$ punktów, tworząc własne państwo."
  NATION_DESIGNER_POINTS_AT_LEAST: "Użył co najmniej $VAL|Y$ punktów, tworząc własne państwo."
- NATION_DESIGNER_TECH_GROUP_COST: "$COST|Y$ punktów kosztów dla następujących warunków##CHAR_DETECT##\n"
+ NATION_DESIGNER_TECH_GROUP_COST: "$COST|Y$ punktów kosztów dla następujących warunków\n"
  REFORM_DESIRE_IS_LESS_THAN: "Pragnienie reform religijnych jest mniejsze niż §Y$SIZE$§!.\n"
  REFORM_DESIRE_IS_AT_LEAST: "Pragnienie reform religijnych wynosi co najmniej §Y$SIZE$§!.\n"
  REFORM_DESIRE_EFFECT: "Katolicyzm pragnie reform w $DIRECTION$ na $PERC|%-$.\n"
