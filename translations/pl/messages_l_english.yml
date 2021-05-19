@@ -2339,7 +2339,7 @@
  ROYMAROTHERBREAK_3: "zerwał"
  ROYMAROTHERBREAK_4: "królewski mariaż"
  ROYMAROTHERBREAK_5: "zawarty z państwem"
- ROYMAROTHERBREAK_6: "zawarty z państwem $RECIPIENT$."
+ ROYMAROTHERBREAK_6: "$RECIPIENT$."
  ROYMAROTHERBREAK_LOG: "Kraj $ACTOR$ zerwał królewski mariaż zawarty z państwem $RECIPIENT$."
  ROYMAROTHERBREAK_BTN1: "Rozumiem."
  ROYMAROTHERBREAK_BTN2: "Rozumiem."
