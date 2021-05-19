@@ -6575,7 +6575,7 @@
  FORCEDALLYBREAKALLIANCE_SETUP: "Kiedy światowa potęga zmusi naszego sojusznika do zerwania sojuszu z nami."
  FORCEDALLYBREAKALLIANCE_HEADER: "Wysłannik państwa"
  FORCEDALLYBREAKALLIANCE_1: "$ACTOR$"
- FORCEDALLYBREAKALLIANCE_2: "Panie, państwo $ACTOR$, będące światową potęgą,"
+ FORCEDALLYBREAKALLIANCE_2: "Państwo $ACTOR$, będące światową potęgą,"
  FORCEDALLYBREAKALLIANCE_3: "zmusiło naszego sojusznika, kraj $RECIPIENT$, do zerwania sojuszu"
  FORCEDALLYBREAKALLIANCE_4: "z krajem $WITH|Y$ @$TAG$."
  FORCEDALLYBREAKALLIANCE_6: "Nie zapomnimy tej obrazy!"
