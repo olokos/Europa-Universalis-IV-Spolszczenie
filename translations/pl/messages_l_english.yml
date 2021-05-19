@@ -4893,7 +4893,7 @@
  REBELENTERED_SETUP: "Kiedy rebelianci z innego kraju wkraczają do twojej prowincji."
  REBELENTERED_HEADER: "$MESSENGER$"
  REBELENTERED_1: "Rebelianci przekroczyli granicę!"
- REBELENTERED_2: "Panie, §Y$REBELS$§W przeszli na nasze ziemie z prowincji"
+ REBELENTERED_2: "§Y$REBELS$§W przeszli na nasze ziemie z prowincji"
  REBELENTERED_3: "państwa $FROM$, wkraczając do prowincji"
  REBELENTERED_4: "$PROV$!"
  REBELENTERED_LOG: "Buntownicy $REBELS$ wkroczyli do prowincji $PROV$ z terenu $FROM$."
