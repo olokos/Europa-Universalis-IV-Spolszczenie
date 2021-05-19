@@ -6009,7 +6009,7 @@
  SUPPORTINDEPENDENCEWEBAN_SETUP: "Kiedy łamiemy traktat o wsparciu niepodległości innego kraju."
  SUPPORTINDEPENDENCEWEBAN_HEADER: "$MESSENGER$"
  SUPPORTINDEPENDENCEWEBAN_1: "Zerwano traktat wspierający niepodległość!"
- SUPPORTINDEPENDENCEWEBAN_2: "Panie,"
+ SUPPORTINDEPENDENCEWEBAN_2: "Zerwaliśmy traktat"
  SUPPORTINDEPENDENCEWEBAN_3: "o poparciu dla niepodległości kraju"
  SUPPORTINDEPENDENCEWEBAN_4: "$RECIPIENT$ "
  SUPPORTINDEPENDENCEWEBAN_LOG: "Zerwaliśmy traktat o wsparciu niepodległości kraju $RECIPIENT$."
