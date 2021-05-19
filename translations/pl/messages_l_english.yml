@@ -5672,7 +5672,7 @@
  PEACEACCEPTENEMY_SETUP: "Kiedy wroga nacja zaakceptuje propozycję pokojową od innego państwa."
  PEACEACCEPTENEMY_HEADER: "Wysłannik państwa"
  PEACEACCEPTENEMY_1: "$RECIPIENT$"
- PEACEACCEPTENEMY_2: "Państwo $RECIPIENT$"
+ PEACEACCEPTENEMY_2: "Panie, państwo $RECIPIENT$"
  PEACEACCEPTENEMY_3: "zawiera pokój z dotychczasowym wrogiem,"
  PEACEACCEPTENEMY_4: "krajem"
  PEACEACCEPTENEMY_5: "$ACTOR$"
