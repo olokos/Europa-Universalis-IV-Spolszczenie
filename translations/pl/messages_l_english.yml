@@ -1746,7 +1746,7 @@
  ADVISOR_ARRIVED_PROV_BTN3: "Idź do"
  ADVISOR_ARRIVED_PROV_MAP: "Przybył $ADVISORNAME$."
  NEW_FEDERATION_LEADER_TITLE: "Nowy przywódca federacji"
- NEW_FEDERATION_LEADER_SETUP: "zmienia się przywódca federacji."
+ NEW_FEDERATION_LEADER_SETUP: "Kiedy zmieni się przywódca federacji."
  NEW_FEDERATION_LEADER_HEADER: "Nowy przywódca federacji!"
  NEW_FEDERATION_LEADER_1: "Władca kraju $OLD_LEADER$ nie żyje."
  NEW_FEDERATION_LEADER_3: "Nowym przywódcą federacji jest kraj $NEW_LEADER$,"
