@@ -4994,7 +4994,7 @@
  WELOSECB_1: "iż utraciliśmy"
  WELOSECB_2: "casus belli typu"
  WELOSECB_3: "$CASUS$"
- WELOSECB_4: "względem naszego wroga, państwa"
+ WELOSECB_4: "względem naszego wroga,"
  WELOSECB_5: "$ENEMY$"
  WELOSECB_LOG: "Utraciliśmy casus belli typu $CASUS$ względem naszego wroga, państwa $ENEMY$."
  WELOSECB_BTN1: "Rozumiem."
