@@ -2389,7 +2389,7 @@
  MILALLREJECT_3: "kraj $RECIPIENT$"
  MILALLREJECT_4: "odrzucił naszą propozycję zawarcia"
  MILALLREJECT_5: "sojuszu wojskowego"
- MILALLREJECT_6: "."
+ MILALLREJECT_6: "sojuszu wojskowego."
  MILALLREJECT_LOG: "Kraj $RECIPIENT$ odrzucił naszą propozycję zawarcia sojuszu wojskowego."
  MILALLREJECT_BTN1: "Rozumiem."
  MILALLREJECT_BTN2: "Rozumiem."
