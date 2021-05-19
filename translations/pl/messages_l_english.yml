@@ -6694,7 +6694,7 @@
  TRIBUTARYACCEPT_SETUP: "Kiedy naród zaakceptuje twoją propozycję zostania stanem zależnym."
  TRIBUTARYACCEPT_HEADER: "Wysłannik państwa"
  TRIBUTARYACCEPT_1: "$RECIPIENT$"
- TRIBUTARYACCEPT_2: "Panie, kraj $RECIPIENT$"
+ TRIBUTARYACCEPT_2: "Kraj $RECIPIENT$"
  TRIBUTARYACCEPT_3: "zgadza się na"
  TRIBUTARYACCEPT_4: "wykorzystać życiową szansę zostania naszym"
  TRIBUTARYACCEPT_5: "§Ystanem zależnym§!"
