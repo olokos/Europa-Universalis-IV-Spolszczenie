@@ -3000,7 +3000,7 @@
  OTHERINFLUENCE_SETUP: "Kiedy światowa potęga wpływa na mniejszy naród."
  OTHERINFLUENCE_HEADER: "Wysłannik państwa"
  OTHERINFLUENCE_1: "$ACTOR$"
- OTHERINFLUENCE_2: "Panie, "
+ OTHERINFLUENCE_2: "Kraj $ACTOR$"
  OTHERINFLUENCE_3: "zaczął wywierać wpływ"
  OTHERINFLUENCE_4: "na naród $RECIPIENT$."
  OTHERINFLUENCE_5: "Opinia $RECIPIENT$ nt. $ACTOR$ zmieni się o $OPINION$"
