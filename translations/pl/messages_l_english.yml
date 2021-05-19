@@ -810,7 +810,7 @@
  COALITIONWE_SETUP: "Kiedy wysyłamy innemu państwu propozycję koalicji."
  COALITIONWE_HEADER: "$MESSENGER$"
  COALITIONWE_1: "Koalicja"
- COALITIONWE_2: "Panie,"
+ COALITIONWE_2: "Kraj $RECIPIENT$"
  COALITIONWE_3: "kraj $RECIPIENT$"
  COALITIONWE_4: "powinien czuć się wyróżniony, że uznaliśmy go za dość godnego, by zaprosić go"
  COALITIONWE_5: "do koalicji wymierzonej przeciwko państwu $TARGET$."
