@@ -5538,7 +5538,7 @@
  EXCOMONOTHER_SETUP: "Kiedy papież ekskomunikuje władcę."
  EXCOMONOTHER_HEADER: "Wysłannik państwa"
  EXCOMONOTHER_1: "$ACTOR$"
- EXCOMONOTHER_2: "Panie, "
+ EXCOMONOTHER_2: "Papież ($ACTOR$)"
  EXCOMONOTHER_3: "papież ($ACTOR$)"
  EXCOMONOTHER_4: "ekskomunikował władcę państwa"
  EXCOMONOTHER_5: "$RECIPIENT$."
