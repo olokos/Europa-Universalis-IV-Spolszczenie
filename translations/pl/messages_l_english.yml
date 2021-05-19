@@ -5617,7 +5617,7 @@
  THEYDECLINESELLPROV_BTN1: "Rozumiem."
  THEYDECLINESELLPROV_BTN2: "Rozumiem."
  THEYDECLINESELLPROV_BTN3: "Idź do"
- THEYDECLINECHARTERCOMPANY_TITLE: "Odmówiono sprzedaży prowincji, która miała stać się kompanią handlową"
+ THEYDECLINECHARTERCOMPANY_TITLE: "Odmówiono sprzedaży prowincji przeznaczonej na kompanię handlową"
  THEYDECLINECHARTERCOMPANY_SETUP: "Kiedy odrzucono naszą propozycję zakupu prowincji przeznaczonej na kompanię handlową."
  THEYDECLINECHARTERCOMPANY_HEADER: "$MESSENGER$"
  THEYDECLINECHARTERCOMPANY_1: "Odrzucono sprzedaż"
