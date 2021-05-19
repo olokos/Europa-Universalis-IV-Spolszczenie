@@ -6707,7 +6707,7 @@
  TRIBUTARYREJECT_SETUP: "Kiedy naród odrzuci twoją propozycję zostania stanem zależnym."
  TRIBUTARYREJECT_HEADER: "Wysłannik państwa"
  TRIBUTARYREJECT_1: "$RECIPIENT$"
- TRIBUTARYREJECT_2: "Panie, kraj $RECIPIENT$"
+ TRIBUTARYREJECT_2: "Kraj $RECIPIENT$"
  TRIBUTARYREJECT_3: "odrzuca"
  TRIBUTARYREJECT_4: "naszą niewyobrażalnie łaskawą propozycję, aby zostali naszym"
  TRIBUTARYREJECT_5: "Stan zależny"
