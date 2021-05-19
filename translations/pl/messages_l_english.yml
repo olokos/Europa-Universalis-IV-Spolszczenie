@@ -5902,7 +5902,7 @@
  HRELEAVEOTHER_SETUP: "Kiedy kraj opuści ŚCR."
  HRELEAVEOTHER_HEADER: "$MESSENGER$"
  HRELEAVEOTHER_1: "Święte Cesarstwo Rzymskie straciło członka!"
- HRELEAVEOTHER_2: "Panie, kraj $WHO$ zdecydował się"
+ HRELEAVEOTHER_2: "Kraj $WHO$ zdecydował się"
  HRELEAVEOTHER_3: "opuścić ŚCR."
  HRELEAVEOTHER_LOG: "Kraj $WHO$ nie jest już członkiem ŚCR."
  HRELEAVEOTHER_BTN1: "Rozumiem."
