@@ -4741,7 +4741,7 @@
  EXCOMREVONOTHER_SETUP: "Kiedy papież odwoła ekskomunikę."
  EXCOMREVONOTHER_HEADER: "Wysłannik państwa"
  EXCOMREVONOTHER_1: "$ACTOR$"
- EXCOMREVONOTHER_2: "Panie, "
+ EXCOMREVONOTHER_2: "Papież ($ACTOR$)"
  EXCOMREVONOTHER_3: "papież ($ACTOR$)"
  EXCOMREVONOTHER_4: "odwołał ekskomunikę nałożoną na władcę kraju"
  EXCOMREVONOTHER_5: "$RECIPIENT$"
