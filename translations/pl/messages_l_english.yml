@@ -5634,7 +5634,7 @@
  THEYDECLINESELLSHIPS_SETUP: "Kiedy nasza oferta sprzedaży okrętów została odrzucona."
  THEYDECLINESELLSHIPS_HEADER: "$MESSENGER$"
  THEYDECLINESELLSHIPS_1: "Odrzucono sprzedaż"
- THEYDECLINESELLSHIPS_2: "Panie, kraj $RECIPIENT$"
+ THEYDECLINESELLSHIPS_2: "Kraj $RECIPIENT$"
  THEYDECLINESELLSHIPS_3: "odrzucił naszą propozycję"
  THEYDECLINESELLSHIPS_4: "sprzedania mu znakomitej floty"
  THEYDECLINESELLSHIPS_5: "$NAME$"
