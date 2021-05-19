@@ -1246,7 +1246,7 @@
  INTERVENE_OTHER_SIDE_SETUP: "Kiedy ktoś interweniuje w naszą wojnę, stając po stronie przeciwnika."
  INTERVENE_OTHER_SIDE_HEADER: "$MESSENGER$"
  INTERVENE_OTHER_SIDE_1: "Panie,"
- INTERVENE_OTHER_SIDE_2: "państwo $ACTORS$, będące światową potęgą,"
+ INTERVENE_OTHER_SIDE_2: "będące światową potęgą,"
  INTERVENE_OTHER_SIDE_3: "zainterweniowało, dołączając do naszych wrogów w konflikcie, którym jest"
  INTERVENE_OTHER_SIDE_4: "$WARNAME$."
  INTERVENE_OTHER_SIDE_5: "Jak gdyby miało im to pomóc."
