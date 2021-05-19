@@ -801,7 +801,7 @@
  COALITIONOTHER_1: "$ACTOR$"
  COALITIONOTHER_2: "Kraj $RECIPIENT$"
  COALITIONOTHER_3: "kraj $RECIPIENT$"
- COALITIONOTHER_4: "dołączył do koalicji wymierzonej przeciw państwu $TARGET$ u boku państwa"
+ COALITIONOTHER_4: "państwu $TARGET$ u boku państwa"
  COALITIONOTHER_5: "$ACTOR$"
  COALITIONOTHER_LOG: "Kraj $RECIPIENT$ dołącza do koalicji państwa $ACTOR$, wymierzonej przeciwko państwu $TARGET$."
  COALITIONOTHER_BTN1: "Rozumiem."
