@@ -5142,7 +5142,7 @@
  WECLAIM_SETUP: "Kiedy przejmiemy tron innego państwa."
  WECLAIM_HEADER: "$MESSENGER$"
  WECLAIM_1: "Pretensje do tronu."
- WECLAIM_2: "Panie, przypomnieliśmy przedstawicielom państwa $RECIPIENT$, o naszych słusznych"
+ WECLAIM_2: "Przypomnieliśmy przedstawicielom państwa $RECIPIENT$, o naszych słusznych"
  WECLAIM_3: "PRETENSJACH DO ICH TRONU"
  WECLAIM_4: "Jeśli ich monarcha umrze bezpotomnie, a my będziemy nasz prestiż będzie wyższy niż ich, utworzona zostanie unia personalna."
  WECLAIM_LOG: "Wysunęliśmy pretensje do tronu państwa $RECIPIENT$."
