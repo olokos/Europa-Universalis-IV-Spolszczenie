@@ -5153,7 +5153,7 @@
  WEIMPREL_SETUP: "Kiedy my, Święty Cesarz Rzymski, poprawimy nasze stosunki z księciem Cesarstwa."
  WEIMPREL_HEADER: "$MESSENGER$"
  WEIMPREL_1: "Stosunki cesarskie"
- WEIMPREL_2: "Panie, dyplomaci, których wysłaliśmy do kraju"
+ WEIMPREL_2: "Dyplomaci, których wysłaliśmy do kraju"
  WEIMPREL_3: "$RECIPIENT$"
  WEIMPREL_4: "$INCDEC$ nasze relacje o"
  WEIMPREL_5: "$CHANGE$"
