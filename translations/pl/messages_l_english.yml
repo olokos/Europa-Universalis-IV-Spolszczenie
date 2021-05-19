@@ -908,7 +908,7 @@
  DIPLO_NO_MAINT_SETUP: "Kiedy umowa dyplomatyczna zostaje zerwana z powodu braku mocy."
  DIPLO_NO_MAINT_HEADER: "Wysłannik państwa"
  DIPLO_NO_MAINT_1: "$ACTOR$"
- DIPLO_NO_MAINT_2: "Panie,"
+ DIPLO_NO_MAINT_2: "Wcześniej uzgodniony"
  DIPLO_NO_MAINT_3: "wcześniej uzgodniony"
  DIPLO_NO_MAINT_4: "§Y$AGREEMENT$§W"
  DIPLO_NO_MAINT_5: "między państwami §Y$FIRST$§W i §Y$SECOND$§W"
