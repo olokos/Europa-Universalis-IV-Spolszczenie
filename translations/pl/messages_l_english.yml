@@ -911,7 +911,7 @@
  DIPLO_NO_MAINT_2: "Wcześniej uzgodniony"
  DIPLO_NO_MAINT_3: "§Y$AGREEMENT$§W"
  DIPLO_NO_MAINT_4: "między państwem §Y$FIRST$§W"
- DIPLO_NO_MAINT_5: "między państwami §Y$FIRST$§W i §Y$SECOND$§W"
+ DIPLO_NO_MAINT_5: " i państwem §Y$SECOND$§W"
  DIPLO_NO_MAINT_6: " został zerwany z powodu niewystarczającej siły dyplomatycznej państwa §Y$ACTOR$§W."
  DIPLO_NO_MAINT_LOG: "§Y$AGREEMENT$§W pomiędzy państwami §Y$FIRST$§W i §Y$SECOND$§W został zerwany."
  DIPLO_NO_MAINT_BTN1: "Rozumiem."
