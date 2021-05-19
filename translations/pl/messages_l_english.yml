@@ -5912,7 +5912,7 @@
  TARIFFINC_SETUP: "Kiedy twój suweren podniesie ci cła."
  TARIFFINC_HEADER: "$MESSENGER$"
  TARIFFINC_1: "$NAME$"
- TARIFFINC_2: "Panie, państwo $OVERLORD$ postanowiło podnieść cło o"
+ TARIFFINC_2: "Państwo $OVERLORD$ postanowiło podnieść cło o"
  TARIFFINC_3: "$CHANGE$"
  TARIFFINC_4: "do wartości"
  TARIFFINC_5: "$CURR$"
