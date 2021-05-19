@@ -4904,7 +4904,7 @@
  PEACEWEINVOLVED_SETUP: "Kiedy liderowi naszego sojuszu podpiszę propozycję pokojową."
  PEACEWEINVOLVED_HEADER: "Wysłannik państwa"
  PEACEWEINVOLVED_1: "$RECIPIENT$"
- PEACEWEINVOLVED_2: "Panie, państwo $RECIPIENT$"
+ PEACEWEINVOLVED_2: "Państwo $RECIPIENT$"
  PEACEWEINVOLVED_3: "zawiera pokój z dotychczasowym wrogiem,"
  PEACEWEINVOLVED_4: "krajem"
  PEACEWEINVOLVED_5: "$ACTOR$"
