@@ -5131,7 +5131,7 @@
  CLAIMTOOTH_SETUP: "Kiedy inne państwo przejmuje tron innego państwa."
  CLAIMTOOTH_HEADER: "Wysłannik państwa"
  CLAIMTOOTH_1: "$ACTOR$"
- CLAIMTOOTH_2: "Panie, król państwa $ACTOR$ zgłasza"
+ CLAIMTOOTH_2: "Król państwa $ACTOR$ zgłasza"
  CLAIMTOOTH_3: "PRETENSJE DO TRONU PA¼STWA $RECIPIENT$"
  CLAIMTOOTH_4: "W razie, gdyby władca państwa $RECIPIENT$ zmarł bez następcy, oba państwa mogą utworzyć unię personalną."
  CLAIMTOOTH_LOG: "Państwo $ACTOR$ zgłosiło pretensje do tronu kraju $RECIPIENT$."
