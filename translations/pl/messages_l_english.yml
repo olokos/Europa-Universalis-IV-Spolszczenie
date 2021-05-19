@@ -4359,7 +4359,7 @@
  OTHERSELLPROV_BTN3: "Idź do"
  OTHERSELLPROV_MAP: "Sprzedano!"
  OTHERCHARTERCOMPANY_TITLE: "Sprzedana prowincja stała się kompanią handlową"
- OTHERCHARTERCOMPANY_SETUP: "Kiedy państwo sprzedaje prowincję innemu krajowi i on tworzy z niej kompanię handlową."
+ OTHERCHARTERCOMPANY_SETUP: "Kiedy państwo sprzedaje prowincję przeznaczoną na kompanię handlową innemu państwu."
  OTHERCHARTERCOMPANY_HEADER: "Wysłannik państwa"
  OTHERCHARTERCOMPANY_1: "$ACTOR$"
  OTHERCHARTERCOMPANY_2: "$ACTOR$, szukając możliwości handlowych dla swoich kompani handlowych, złożył hojną ofertę dla $RECIPIENT$"
