@@ -2323,7 +2323,7 @@
  ROYMARWEREJECT_SETUP: "Kiedy odrzucasz propozycję mariażu."
  ROYMARWEREJECT_HEADER: "$MESSENGER$"
  ROYMARWEREJECT_1: "$RECIPIENT$"
- ROYMARWEREJECT_2: "Panie,"
+ ROYMARWEREJECT_2: "Odrzuciliśmy "
  ROYMARWEREJECT_3: "odrzuciliśmy "
  ROYMARWEREJECT_4: "propozycję zawarcia królewskiego mariażu z państwem"
  ROYMARWEREJECT_5: "$ACTOR$"
