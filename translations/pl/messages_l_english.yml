@@ -799,7 +799,7 @@
  COALITIONOTHER_SETUP: "Kiedy jedno państwo przesyła drugiemu propozycję koalicji."
  COALITIONOTHER_HEADER: "Wysłannik państwa"
  COALITIONOTHER_1: "$ACTOR$"
- COALITIONOTHER_2: "Panie, "
+ COALITIONOTHER_2: "Kraj $RECIPIENT$"
  COALITIONOTHER_3: "kraj $RECIPIENT$"
  COALITIONOTHER_4: "dołączył do koalicji wymierzonej przeciw państwu $TARGET$ u boku państwa"
  COALITIONOTHER_5: "$ACTOR$"
