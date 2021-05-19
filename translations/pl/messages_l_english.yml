@@ -6537,7 +6537,7 @@
  WEFORCEDBREAKALLIANCE_SETUP: "Kiedy my, światowa potęga, zmusimy kraj do zerwania sojuszu."
  WEFORCEDBREAKALLIANCE_HEADER: "$MESSENGER$"
  WEFORCEDBREAKALLIANCE_1: "Zerwano sojusz"
- WEFORCEDBREAKALLIANCE_2: "Panie, zmusiliśmy pomniejsze państwo $RECIPIENT$"
+ WEFORCEDBREAKALLIANCE_2: "Zmusiliśmy pomniejsze państwo $RECIPIENT$"
  WEFORCEDBREAKALLIANCE_3: "do zerwania sojuszu"
  WEFORCEDBREAKALLIANCE_4: "z krajem $WITH|Y$ @$TAG$."
  WEFORCEDBREAKALLIANCE_5: "To na pewno oburzy państwo $RECIPIENT$ i państwo $WITH$, oraz"
