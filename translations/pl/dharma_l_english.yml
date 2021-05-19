@@ -494,7 +494,7 @@
  ASSIMILATEDCULTUREGROUP_BTN3: "Idź do"
  ASSIMILATEDCULTUREGROUP_MAP: ""
  NONASSIMILATEDCULTUREGROUP_TITLE: "Grupa kulturowa nie jest już zasymilowana"
- NONASSIMILATEDCULTUREGROUP_SETUP: "Gdy grupa kulturowa nie jest już uważana za zasymilowaną."
+ NONASSIMILATEDCULTUREGROUP_SETUP: "Kiedy grupa kulturowa nie jest już uważana za zasymilowaną."
  NONASSIMILATEDCULTUREGROUP_HEADER: "Grupa kulturowa nie jest już zasymilowana"
  NONASSIMILATEDCULTUREGROUP_1: "Straciliśmy efekt dawany przez $CULTURE_GROUP|Y$"
  NONASSIMILATEDCULTUREGROUP_2: "zasymilowana przez nasz rząd."
