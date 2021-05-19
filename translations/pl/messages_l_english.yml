@@ -2492,7 +2492,7 @@
  TRADEREFUSAL_SETUP: "Kiedy kraj zabrania handlu z twoimi kupcami."
  TRADEREFUSAL_HEADER: "$MESSENGER$"
  TRADEREFUSAL_1: "Embargo handlowe!"
- TRADEREFUSAL_2: "Panie,"
+ TRADEREFUSAL_2: "Państwo $ACTOR$"
  TRADEREFUSAL_3: "odmawia"
  TRADEREFUSAL_BTN1: "Rozumiem."
  TRADEREFUSAL_BTN2: "Rozumiem."
