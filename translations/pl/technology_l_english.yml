@@ -26,7 +26,7 @@
  INF_SHO_INCREASE: "Uderzenie piechoty: §G+$VALUE$§W\n"
  CAV_SHO_INCREASE: "Uderzenie kawalerii: §G+$VALUE$§W\n"
  ART_SHO_INCREASE: "Uderzenie artylerii: §G+$VALUE$§W\n"
- TECH_SETUP: "Osiągasz kolejny poziom technologiczny."
+ TECH_SETUP: "Kiedy osiągasz kolejny poziom technologiczny."
  WESTERN_NAVAL_TECH: "Jednostki floty"
  TECH_HEADER: "$MESSENGER$"
  TECH_1: "$TYPE$ się rozwija!"
