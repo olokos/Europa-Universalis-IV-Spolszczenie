@@ -4931,7 +4931,7 @@
  DECLWAROTHER_SETUP: "Kiedy państwo wypowie wojnę innemu państwu."
  DECLWAROTHER_HEADER: "Wysłannik państwa"
  DECLWAROTHER_1: "$AGRESSOR$"
- DECLWAROTHER_2: "Panie, państwo $AGRESSOR$"
+ DECLWAROTHER_2: "Państwo $AGRESSOR$"
  DECLWAROTHER_3: "wypowiedziało wojnę"
  DECLWAROTHER_4: "nowemu wrogowi, krajowi"
  DECLWAROTHER_5: "$DEFENDER$"
