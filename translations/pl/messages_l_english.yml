@@ -4558,7 +4558,7 @@
  CAPITALMOVED_SETUP: "Kiedy zmieniamy stolice."
  CAPITALMOVED_HEADER: "Przeniesiono stolicę kraju"
  CAPITALMOVED_1: "$COUNTRY$"
- CAPITALMOVED_2: "Nasza stolica została przeniesiona do prowincji"
+ CAPITALMOVED_2: "Kiedy nasza stolica została przeniesiona do prowincji"
  CAPITALMOVED_3: "$PROVINCE$."
  CAPITALMOVED_LOG: "Przenieśliśmy naszą stolicę do prowincji $PROVINCE$."
  CAPITALMOVED_BTN1: "Wspaniale!"
