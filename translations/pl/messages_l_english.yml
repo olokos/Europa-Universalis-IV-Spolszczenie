@@ -5339,7 +5339,7 @@
  GRANTFREECITYWITHUS_SETUP: "Kiedy inny kraj przyjmie naszą propozycję zostania wolnym miastem."
  GRANTFREECITYWITHUS_HEADER: "Wysłannik państwa"
  GRANTFREECITYWITHUS_1: "$RECIPIENT$"
- GRANTFREECITYWITHUS_2: "Panie, kraj $RECIPIENT$ zaakceptował"
+ GRANTFREECITYWITHUS_2: "Kraj $RECIPIENT$ zaakceptował"
  GRANTFREECITYWITHUS_3: "naszą ofertę uczynienia go wolnym miastem."
  GRANTFREECITYWITHUS_4: "Ich prawa i przywileje cieszą się teraz wieczną gwarancją."
  GRANTFREECITYWITHUS_LOG: "$RECIPIENT$ staje się wolnym miastem Cesarstwa."
