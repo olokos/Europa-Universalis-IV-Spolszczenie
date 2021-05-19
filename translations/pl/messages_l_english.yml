@@ -3002,7 +3002,7 @@
  OTHERINFLUENCE_1: "$ACTOR$"
  OTHERINFLUENCE_2: "Panie, "
  OTHERINFLUENCE_3: "kraj $ACTOR$ zaczął"
- OTHERINFLUENCE_4: "wywierać wpływ na naród $RECIPIENT$."
+ OTHERINFLUENCE_4: "na naród $RECIPIENT$."
  OTHERINFLUENCE_5: "Opinia $RECIPIENT$ nt. $ACTOR$ zmieni się o $OPINION$"
  OTHERINFLUENCE_6: "na $YEARS$ lat lub do momentu wybuchu wojny."
  OTHERINFLUENCE_LOG: "Kraj $ACTOR$ zaczął wpływać na $RECIPIENT$"
