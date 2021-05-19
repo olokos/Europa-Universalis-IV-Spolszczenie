@@ -3263,7 +3263,7 @@
  MILALLDISHONOUR_SETUP: "Kiedy państwo nie uhonoruje naszego sojuszu wojskowego."
  MILALLDISHONOUR_HEADER: "Wysłannik państwa"
  MILALLDISHONOUR_1: "$RECIPIENT$"
- MILALLDISHONOUR_2: "Panie,"
+ MILALLDISHONOUR_2: "Zdrajcy z kraju $RECIPIENT$"
  MILALLDISHONOUR_3: "Zdrajcy z kraju $RECIPIENT$"
  MILALLDISHONOUR_4: "odmówili dołączenia do naszej słusznej i sprawiedliwej wojny."
  MILALLDISHONOUR_5: "Mają szczęście, że aktualnie jesteśmy zajęci czymś innym."
