@@ -258,7 +258,7 @@
  OTHERJOINSOURTRADELEAGUE_HEADER: "Wysłannik państwa"
  OTHERJOINSOURTRADELEAGUE_1: "$ACTOR$"
  OTHERJOINSOURTRADELEAGUE_2: "Panie,"
- OTHERJOINSOURTRADELEAGUE_3: "kraj $ACTOR$ dołączył do naszej ligi handlowej."
+ OTHERJOINSOURTRADELEAGUE_3: "dołączył do naszej ligi handlowej."
  OTHERJOINSOURTRADELEAGUE_4: "Z ich pomocą"
  OTHERJOINSOURTRADELEAGUE_5: "staniemy się jeszcze bogatsi."
  OTHERJOINSOURTRADELEAGUE_LOG: "Państwo $ACTOR$ dołączyło do naszej ligi handlowej."
