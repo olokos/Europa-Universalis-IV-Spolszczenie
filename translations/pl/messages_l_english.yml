@@ -5120,7 +5120,7 @@
  CLAIMTOUS_SETUP: "Kiedy inne państwo przejmuje nasz tron."
  CLAIMTOUS_HEADER: "Wysłannik państwa"
  CLAIMTOUS_1: "$ACTOR$"
- CLAIMTOUS_2: "Panie, król państwa $ACTOR$ zgłasza oburzające "
+ CLAIMTOUS_2: "Król państwa $ACTOR$ zgłasza oburzające "
  CLAIMTOUS_3: "PRETENSJE DO NASZEGO TRONU"
  CLAIMTOUS_4: "Jeśli nasz ukochany władca umrze bez następcy, tamci mogą utworzyć z nami unię personalną. Uniknąć tego możemy utrzymując wyższy prestiż niż oni."
  CLAIMTOUS_LOG: "Państwo $ACTOR$ zgłasza pretensje do naszego tronu."
