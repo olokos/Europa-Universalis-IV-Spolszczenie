@@ -5924,7 +5924,7 @@
  SUPPORTINDEPENDENCEACCEPT_SETUP: "Kiedy państwo zaakceptuje naszą propozycję wsparcia niepodległości."
  SUPPORTINDEPENDENCEACCEPT_HEADER: "Wysłannik państwa"
  SUPPORTINDEPENDENCEACCEPT_1: "$RECIPIENT$"
- SUPPORTINDEPENDENCEACCEPT_2: "Panie, państwo $RECIPIENT$"
+ SUPPORTINDEPENDENCEACCEPT_2: "Państwo $RECIPIENT$"
  SUPPORTINDEPENDENCEACCEPT_3: "zgadza się na"
  SUPPORTINDEPENDENCEACCEPT_4: "naszą ofertę, by podpisać traktat o"
  SUPPORTINDEPENDENCEACCEPT_5: "poparciu dla niepodległości"
