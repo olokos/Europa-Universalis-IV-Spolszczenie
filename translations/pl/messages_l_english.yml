@@ -5871,7 +5871,7 @@
  HREREMOVEPROVINCEEMPEROR_SETUP: "Kiedy prowincja zostanie usunięta z ŚCR, a my jesteśmy Cesarzem."
  HREREMOVEPROVINCEEMPEROR_HEADER: "$MESSENGER$"
  HREREMOVEPROVINCEEMPEROR_1: "Święte Cesarstwo Rzymskie straciło prowincję!"
- HREREMOVEPROVINCEEMPEROR_2: "Panie, prowincja $PROVINCE$ została"
+ HREREMOVEPROVINCEEMPEROR_2: "Prowincja $PROVINCE$ została"
  HREREMOVEPROVINCEEMPEROR_3: "usunięta z ŚCR."
  HREREMOVEPROVINCEEMPEROR_LOG: "$PROVINCE$ nie jest już częścią ŚCR."
  HREREMOVEPROVINCEEMPEROR_BTN1: "Rozumiem."
