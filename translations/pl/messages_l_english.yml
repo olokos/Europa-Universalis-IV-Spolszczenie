@@ -2963,7 +2963,7 @@
  OTHERTAKEONDEBT_HEADER: "Wysłannik państwa"
  OTHERTAKEONDEBT_1: "$ACTOR$"
  OTHERTAKEONDEBT_2: "Panie, "
- OTHERTAKEONDEBT_3: "państwo $ACTOR$"
+ OTHERTAKEONDEBT_3: "spłaciło wszystkie zagraniczne długi kraju $RECIPIENT$,"
  OTHERTAKEONDEBT_4: "opiewające na sumę $COST|Y$ ¤."
  OTHERTAKEONDEBT_6: "Możemy tylko śmiać się z tak poważnych błędów w zarządzaniu finansami."
  OTHERTAKEONDEBT_LOG: "Państwo $ACTOR$ spłaciło zagraniczne pożyczki kraju $RECIPIENT$."
