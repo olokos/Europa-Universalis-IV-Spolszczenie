@@ -6735,7 +6735,7 @@
  TRIBUTARYREJECTOTHER_2: "Państwo $RECIPIENT$"
  TRIBUTARYREJECTOTHER_3: "nie zgadza się zostać"
  TRIBUTARYREJECTOTHER_4: "nie zgadza się zostać"
- TRIBUTARYREJECTOTHER_5: "stanem zależnym państwa $ACTOR$"
+ TRIBUTARYREJECTOTHER_5: "państwa $ACTOR$"
  TRIBUTARYREJECTOTHER_LOG: "Kraj $RECIPIENT$ nie zgadza się zostać stanem zależnym państwa $ACTOR$."
  TRIBUTARYREJECTOTHER_BTN1: "Rozumiem."
  TRIBUTARYREJECTOTHER_BTN2: "Rozumiem."
