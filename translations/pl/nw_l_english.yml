@@ -213,7 +213,7 @@
  SUBJECT_SHOW_RELEASE_COLONY_DESC: "Jeśli chcesz, możesz kontynuować grę także jako ten naród."
  LIBERATE_COLONY: "Wyzwolić kolonię"
  LIBERATE_COLONY_DESC: "Państwo §Y$COUNTRY$§W zostanie uwolnione wraz z następującymi prowincjami: $LIST$.\n"
- RELEASEDCOLONY_SETUP: "Kolonia jest uwolniona od swego poprzedniego zwierzchnika."
+ RELEASEDCOLONY_SETUP: "Kiedy kolonia jest uwolniona od swego poprzedniego zwierzchnika."
  RELEASEDCOLONY_HEADER: "$MESSENGER$"
  RELEASEDCOLONY_1: "Naród kolonialny wyzwolony!"
  RELEASEDCOLONY_2: "$NAME$"
