@@ -4918,7 +4918,7 @@
  DECLWAR_SETUP: "Kiedy państwo wypowie nam wojnę."
  DECLWAR_HEADER: "$WAR$"
  DECLWAR_1: "WOJNA!"
- DECLWAR_2: "Panie! $BADWORD$"
+ DECLWAR_2: "$BADWORD$"
  DECLWAR_3: "państwa $AGRESSOR$ wypowiedzieli nam wojnę!"
  DECLWAR_4: "Czas gotować się do walki..."
  DECLWAR_6: "$CASUS$"
