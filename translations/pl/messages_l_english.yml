@@ -1234,7 +1234,7 @@
  INTERVENE_SAME_SIDE_SETUP: "Kiedy ktoś interweniuje w naszą wojnę, stając po naszej stronie."
  INTERVENE_SAME_SIDE_HEADER: "$MESSENGER$"
  INTERVENE_SAME_SIDE_1: "Panie,"
- INTERVENE_SAME_SIDE_2: "państwo $ACTORS$, będące światową potęgą,"
+ INTERVENE_SAME_SIDE_2: "będące światową potęgą,"
  INTERVENE_SAME_SIDE_3: "interweniuje w toczony przez nas konflikt, którym jest"
  INTERVENE_SAME_SIDE_4: "$WARNAME$."
  INTERVENE_SAME_SIDE_5: "Staną po naszej stronie."
