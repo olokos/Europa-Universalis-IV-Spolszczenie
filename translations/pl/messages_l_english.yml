@@ -118,7 +118,7 @@
  THEYATTACKSPY_BTN2: "Rozumiem."
  THEYATTACKSPY_BTN3: "Idź do"
  THEYATTACKUSSPY_TITLE: "Podejrzewany plan ataku!"
- THEYATTACKUSSPY_SETUP: "Kiedy twoi szpiedzy z wyprzedzeniem ujawnili podejrzenia dot. planu ataku na twoje państwo."
+ THEYATTACKUSSPY_SETUP: "Kiedy twoi szpiedzy ujawniają podejrzenia dot. planu ataku na twoje państwo."
  THEYATTACKUSSPY_HEADER: "$MESSENGER$"
  THEYATTACKUSSPY_1: "Nadchodzi wojna"
  THEYATTACKUSSPY_2: "Panie, nasi szpiedzy informują, że kraj $ACTOR$"
