@@ -3001,7 +3001,7 @@
  OTHERINFLUENCE_HEADER: "Wysłannik państwa"
  OTHERINFLUENCE_1: "$ACTOR$"
  OTHERINFLUENCE_2: "Panie, "
- OTHERINFLUENCE_3: "kraj $ACTOR$ zaczął"
+ OTHERINFLUENCE_3: "zaczął wywierać wpływ"
  OTHERINFLUENCE_4: "na naród $RECIPIENT$."
  OTHERINFLUENCE_5: "Opinia $RECIPIENT$ nt. $ACTOR$ zmieni się o $OPINION$"
  OTHERINFLUENCE_6: "na $YEARS$ lat lub do momentu wybuchu wojny."
