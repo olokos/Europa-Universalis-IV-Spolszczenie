@@ -6783,7 +6783,7 @@
  TRIBUTARYBREAK_SETUP: "Kiedy państwo anuluje nasz traktat stanu zależnego."
  TRIBUTARYBREAK_HEADER: "$MESSENGER$"
  TRIBUTARYBREAK_1: "Złamano traktat stanu zależnego!"
- TRIBUTARYBREAK_2: "Panie, $ACTOR$"
+ TRIBUTARYBREAK_2: "$ACTOR$"
  TRIBUTARYBREAK_3: "bezmyślnie zrywa"
  TRIBUTARYBREAK_4: "traktat stanu zależnego"
  TRIBUTARYBREAK_5: "który z nami mieli. $REASON$"
