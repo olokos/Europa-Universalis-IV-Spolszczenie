@@ -6839,7 +6839,7 @@
  TRIBUTE_REFUSED_BTN2: "Szkoda"
  TRIBUTE_REFUSED_BTN3: "Idź do"
  TRIBUTE_TEMP_CHANGED_TITLE: "W tym roku zmieniono typ trybutu"
- TRIBUTE_TEMP_CHANGED_SETUP: "Kiedy jedno z naszych państw zależnych nie jest w stanie zapłacić wymaganego trybutu"
+ TRIBUTE_TEMP_CHANGED_SETUP: "Kiedy nasze państwo zależne nie jest w stanie zapłacić wymaganego trybutu"
  TRIBUTE_TEMP_CHANGED_HEADER: "Nasz kanclerz donosi"
  TRIBUTE_TEMP_CHANGED_1: "Państwo §Y$ACTOR$§! nie może wysłać $FIRSTTYPE|Y$ trybutu!"
  TRIBUTE_TEMP_CHANGED_2: "Nasz stan zależny $ACTOR$ "
