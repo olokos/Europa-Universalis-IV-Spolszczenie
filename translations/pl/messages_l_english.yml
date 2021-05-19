@@ -5254,7 +5254,7 @@
  GRANTELECTORATEWITHUS_SETUP: "Kiedy inny kraj przyjmie naszą propozycję zostania elektorem."
  GRANTELECTORATEWITHUS_HEADER: "Wysłannik państwa"
  GRANTELECTORATEWITHUS_1: "$RECIPIENT$"
- GRANTELECTORATEWITHUS_2: "Panie, kraj $RECIPIENT$ zaakceptował"
+ GRANTELECTORATEWITHUS_2: "Kraj $RECIPIENT$ zaakceptował"
  GRANTELECTORATEWITHUS_3: "naszą ofertę elektoratu."
  GRANTELECTORATEWITHUS_4: "Jego poddani mogą teraz głosować na"
  GRANTELECTORATEWITHUS_5: "kolejnego cesarza."
