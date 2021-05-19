@@ -5859,7 +5859,7 @@
  HREADDPROVINCEOTHER_SETUP: "Kiedy nowe prowincje zostaną dodane do ŚCR inne państwo."
  HREADDPROVINCEOTHER_HEADER: "$MESSENGER$"
  HREADDPROVINCEOTHER_1: "Cesarstwo jest silniejsze o jedną prowincję!"
- HREADDPROVINCEOTHER_2: "Panie, prowincja $PROVINCE$ została"
+ HREADDPROVINCEOTHER_2: "Prowincja $PROVINCE$ została"
  HREADDPROVINCEOTHER_3: "dodana do ŚCR przez państwo $OWNER$."
  JOIN_HRE_AFRAID_OF: "Plotka głosi, że szukają ochrony przed państwem $AFRAID_OF$."
  HREADDPROVINCEOTHER_4: "$AFRAID_OF$"
