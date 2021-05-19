@@ -5599,7 +5599,7 @@
  THEYLOSECLAIMUS_HEADER: "Wycofano pretensje"
  THEYLOSECLAIMUS_1: "Przebiegły władca"
  THEYLOSECLAIMUS_2: "państwa $CLAIMANT$"
- THEYLOSECLAIMUS_3: "$CLAIMANT$"
+ THEYLOSECLAIMUS_3: "utracił prawo do roszczeń"
  THEYLOSECLAIMUS_4: "do naszego tronu!"
  THEYLOSECLAIMUS_LOG: "Państwo $CLAIMANT$ nie zgłasza już pretensji do naszego tronu."
  THEYLOSECLAIMUS_BTN1: "Rozumiem."
