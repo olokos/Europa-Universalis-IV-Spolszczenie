@@ -5749,7 +5749,7 @@
  IS_NOT_LOOTED: ", ta prowincja nie jest splądrowana"
  IS_LOOTED: ", ta prowincja jest splądrowana"
  INDEF: "Koniec"
- ADVISOR_LOCATION: "w $LOCATION$"
+ ADVISOR_LOCATION: " w $LOCATION$"
  CREATE_ADVISOR: "Zyskaj §Y$WHICH$§W ($EFFECT$).\n"
  DEFINE_ADVISOR: "$TYPE$ $NAME|Y$ (kultura $CULTURE|Y$, $RELIGION|Y$), dołącza do twojego dworu.\n(Zdolność $SKILL|Y$, $EFFECT$)"
  DEFINE_ADVISOR2: "Zyskaj umiejętność $SKILL|Y$ $TYPE$ ($EFFECT$)$CULTURE_TEXT$$RELIGION_TEXT$$LOCATION$."
