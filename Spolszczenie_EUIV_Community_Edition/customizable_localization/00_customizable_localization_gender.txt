@@ -336,6 +336,81 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_his_dat
+		localisation_key = string_him_dat
+	}
+}
+
+## nią/nim
+defined_text = {
+	name = GetHerHim_ins
+	random = no
+	text = {
+		localisation_key = string_her_ins
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_him_ins
+	}
+}
+
+## ęła/ął
+defined_text = {
+	name = GetEndPast
+	random = no
+	text = {
+		localisation_key = string_EndPast_fem
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_EndPast_mal
+	}
+}
+
+## Odczedł/Odeszła
+defined_text = {
+	name = GetGone
+	random = no
+	text = {
+		localisation_key = string_Gone_fem
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_Gone_mal
+	}
+}
+
+## władcę/władczynię
+defined_text = {
+	name = GetRulDat
+	random = no
+	text = {
+		localisation_key = string_RulDat_fem
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_RulDat_mal
+	}
+}
+
+## ą/ego
+defined_text = {
+	name = GetAEgoDat
+	random = no
+	text = {
+		localisation_key = string_AEgoDat_fem
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_AEgoDat_mal
 	}
 }

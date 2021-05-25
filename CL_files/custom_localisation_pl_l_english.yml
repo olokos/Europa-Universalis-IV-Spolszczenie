@@ -2,6 +2,7 @@
  string_zoroastrianism_peopleCap: "Zaratusztrianie"
  string_judaism_peopleCap: "Żydzi"
  string_tengrianism_peopleCap: "Tengryści"
+ string_dreamtime_peopleCap: "Aborygeni"
  string_norse_peopleCap: "Nordycy"
  string_mayan_peopleCap: "Majowie"
  string_nahuatl_peopleCap: "Aztekowie"
@@ -29,6 +30,7 @@
  string_zoroastrianism_people: "zaratusztrianie"
  string_judaism_people: "żydzi"
  string_tengrianism_people: "tengryści"
+ string_dreamtime_peopleCap: "aborygeni"
  string_norse_people: "nordycy"
  string_mayan_people: "majowie"
  string_nahuatl_people: "aztekowie"
@@ -53,8 +55,10 @@
  string_anglicanism_people: "anglikanie"
  string_catholicism_people: "katolicy"
  ##dopełniacz dla religii
+ string_zoroastrianism_people: "Zaratusztrianizmu" #Zaratusztrianizm
  string_judaism_gen: "Judaizmu" #Judaizm
  string_tengrianism_gen: "Tengryzmu" #Tengryzm
+ string_dreamtime_gen: "Alczeringa"
  string_norse_gen: "Nordycyzmu" #Nordycyzm
  string_mayan_gen: "Majów" #Majów
  string_nahuatl_gen: "Nahuatl" #Nahuatl
@@ -82,6 +86,24 @@
  string_female_a: "a"
  string_man_empty: ""
  string_man_y: "y"
+ ## jej/jemu
+ string_her_dat: "jej"
+ string_him_dat: "jemu"
+ ## nią/nim
+ string_her_ins: "nią"
+ string_him_ins: "nim"
+ ## ęła/ął
+ string_EndPast_fem: "ęła"
+ string_EndPast_mal: "ął"
+ ## Odczedł/Odeszła
+ string_Gone_fem: "Odeszła"
+ string_Gone_mal: "Odczedł"
+ ## władcę/władczynię
+ string_RulDat_fem: "władczynię"
+ string_RulDat_mal: "władcę"
+ ## ą/ego
+ string_AEgoDat_fem: "ą"
+ string_AEgoDat_mal: "ego"
 ##Klasy społeczne
 #mała
  string_estate_brahmins: "bramini" #Bramini MM
@@ -710,9 +732,6 @@
  string_building_furnace_gen: "Pieca" #Piec
  ## ka/-
  string_female_ka: "ka"
- ## jej/jemu
- string_her_dat: "jej"
- string_his_dat: "jemu"
  ##odmiana nowy dla manufaktur
  string_new_fem: "nowej"
  string_new_male: "nowego"
