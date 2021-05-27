@@ -1,147 +1,289 @@
 ﻿l_english:
 ##Rządy
  string_ADMIRALTY: "Admiralicji" #Admiralicja Ż
+ string_ADMIRALTY_ins: "Admiralicji" #
  string_ALTEPETL: "Altepetlu" #Altepetl M
+ string_ALTEPETL_ins: "Altepetlu" #
  string_ALTEPETL_FEDERATION: "Federacji Altepetli" #Federacja Altepetli Ż
+ string_ALTEPETL_FEDERATION_ins: "Federacji Altepetli" #
  string_ARCHBISHOPRIC: "Arcybiskupstwa" #Arcybiskupstwo N
+ string_ARCHBISHOPRIC_ins: "Arcybiskupstwie" #
  string_ARCHDUCHY: "Arcyksięstwa" #Arcyksięstwo N
+ string_ARCHDUCHY_ins: "Arcyksięstwie" #
  string_BARANGAY: "Barangayu" #Barangay M
+ string_BARANGAY_ins: "Barangayarze" #
  string_BEYLIK: "Bejliku" #Bejlik M
+ string_BEYLIK_ins: "Bejliku" #
  string_BISHOPRIC: "Biskupstwa" #Biskupstwo N
+ string_BISHOPRIC_ins: "Biskupstwie" #
  string_BLACK_KNIGHTS: "Rycerzy Hadriana" #Rycerze Hadriana MM
+ string_BLACK_KNIGHTS_ins: "Rycerzach Hadriana" #
  string_BLACK_LONG_KNIGHTS: "Wiecznych Rycerzy" #Wieczni Rycerze MM
+ string_BLACK_LONG_KNIGHTS_ins: "Wiecznych Rycerzach" #
  string_BLACK_WATCH: "Straży Hadriana" #Straż Hadriana Ż
+ string_BLACK_WATCH_ins: "Straży Hadriana" #
  string_BONDEVALDE: "Bondeväldu" #Bondevälde N
+ string_BONDEVALDE_ins: "Bondeväldrze" #
  string_BREWING_EMPIRE: "Imperium Browarniczego" #Imperium Browarnicze N
+ string_BREWING_EMPIRE_ins: "Imperium Browarniczym" #
  string_CAH: "Cahu" #Cah M
+ string_CAH_ins: "Cahu" #
  string_CHIEFDOM: "Wodzostwa" #Wodzostwo N
+ string_CHIEFDOM_ins: "Wodzostwie" #
  string_COLONY: "Kolonii" #Kolonia Ż
+ string_COLONY_ins: "Kolonii" #
  string_COMMONWEALTH: "Rrzeczpospolitej" #Rzeczpospolita Ż
+ string_COMMONWEALTH_ins: "Rzeczpospolitej" #
  string_CONFEDERATION: "Konfederacji" #Konfederacja Ż
+ string_CONFEDERATION_ins: "Konfederacji" #
  string_COUNTY: "Hrabstwa" #Hrabstwo N
+ string_COUNTY_ins: "Hrabstwie" #
  string_COUNTY_PALATINE: "Hrabstwa Palatynatu" #Hrabstwo Palatynatu N
+ string_COUNTY_PALATINE_ins: "Hrabstwie Palatynatu" #
  string_DAIMYO: "Daimyo" #Daimyo M
+ string_DAIMYO_ins: "Daimyo" #
  string_DESPOTATE: "Despotatu" #Despotat M
+ string_DESPOTATE_ins: "Despotacie" #
  string_DESPOTISM: "Despotyzmu" #Despotyzm M
+ string_DESPOTISM_ins: "Despotyzmie" #
  string_DICTATORSHIP: "Dyktatury" #Dyktatura Ż
+ string_DICTATORSHIP_ins: "Dyktaturze" #
  string_DIVINE_PROTECTORS: "Boskiego Protektoratu" #Boski Protektorat M
+ string_DIVINE_PROTECTORS_ins: "Boskim Protektoracie" #
  string_DUCHY: "Księstwa" #Księstwo N
+ string_DUCHY_ins: "Księstwie" #
  string_EARLDOM: "Earlostwa" #Earlostwo N
+ string_EARLDOM_ins: "Earlostwie" #
  string_ELECTORAL_PALATINATE: "Elektoratu Palatynatu" #Elektorat Palatynatu M
+ string_ELECTORAL_PALATINATE_ins: "Elektoracie Palatynatu" #
  string_ELECTORAL_REPUBLIC: "Republiki Elektorskiej" #Republika Elektorska Ż
+ string_ELECTORAL_REPUBLIC_ins: "Republice Elektorskiej" #
  string_ELECTORATE_BISHOPRIC: "Biskupstwa Elektorskiego" #Biskupstwo Elektorskie N
+ string_ELECTORATE_BISHOPRIC_ins: "Biskupstwie Elektorskim" #
  string_ELECTORATE_DUCHY: "Elektoratu" #Elektorat M
+ string_ELECTORATE_DUCHY_ins: "Elektoracie" #
  string_EMIRATE: "Emiratu" #Emirat M
+ string_EMIRATE_ins: "Emiracie" #
  string_EMPIRE: "Cesarstwa" #Cesarstwo N
+ string_EMPIRE_ins: "Cesarstwie" #
  string_FEDERAL_EMPIRE: "Imperium Federalnego" #Imperium Federalne N
+ string_FEDERAL_EMPIRE_ins: "Imperium Federalnym" #
  string_FEDERAL_KINGDOM: "Królestwa Federalnego" #Królestwo Federalne N
+ string_FEDERAL_KINGDOM_ins: "Królestwie Federalnym" #
  string_FEDERAL_REPUBLIC: "Republiki Federalnej" #Republika Federalna Ż
+ string_FEDERAL_REPUBLIC_ins: "Republice Federalnej" #
  string_FREE_CITY: "Wolnego Miasta" #Wolne Miasto N
+ string_FREE_CITY_ins: "Wolnym Mieście" #
  string_GOV_REVOLUTIONARY_REPUBLIC: "Republiki Rewolucyjnej" #Republika Rewolucyjna Ż
+ string_GOV_REVOLUTIONARY_REPUBLIC_ins: "Republice Rewolucyjnej" #
  string_GRAND_BARANGAY: "Wielkiego Barangayu" #Wielki Barangay M
+ string_GRAND_BARANGAY_ins: "Wielkim Barangayarze" #
  string_GRAND_CHIEFDOM: "Wysokiego Wodzostwa" #Wysokie Wodzostwo N
+ string_GRAND_CHIEFDOM_ins: "Wielkim Wodzostwie" #
  string_GRAND_DUCHY: "Wielkiego Księstwa" #Wielkie Księstwo N
+ string_GRAND_DUCHY_ins: "Wielkim Księstwie" #
  string_GRAND_ELECTORAL_REPUBLIC: "Wielkiej Republiki Elekcyjnej" #Wielka Republika Elekcyjna Ż
+ string_GRAND_ELECTORAL_REPUBLIC_ins: "Wielkiej Republice Elekcyjnej" #
  string_GRAND_HERCEGSEG: "Grandhercegsegu" #Grandhercegseg M
+ string_GRAND_HERCEGSEG_ins: "Grandhercegsegrze" #
  string_GRAND_HETMANATE: "Wielkiego Hetmanatu" #Wielki Hetmanat M
+ string_GRAND_HETMANATE_ins: "Wielkim Hetmanacie" #
  string_GRAND_INDEP_DAIMYO: "Wielkiego Daimyo" #Wielki Daimyo M
+ string_GRAND_INDEP_DAIMYO_ins: "Wielkim Daimyo" #
  string_GRAND_PIRATE_CONFEDERACY: "Wielkiej Konfederacji Piratów" #Wielka Konfederacja Piratów Ż
+ string_GRAND_PIRATE_CONFEDERACY_ins: "Wielkiej Konfederacji Piratów" #
  string_GRAND_PRINCEDOM: "Wielkiego Księstwa" #Wielkie Księstwo N
+ string_GRAND_PRINCEDOM_ins: "Wielkim Księstwie" #
  string_GRAND_PRINCIPALITY: "Wielkiego Księstwa" #Wielkie Księstwo N
+ string_GRAND_PRINCIPALITY_ins: "Wielkim Księstwie" #
  string_GRAND_REPUBLIC: "Wielkiej Republiki" #Wielka Republika Ż
+ string_GRAND_REPUBLIC_ins: "Wielkiej Republice" #
  string_GRAND_SHARIFATE: "Szarifatu" #Szarifat M
+ string_GRAND_SHARIFATE_ins: "Szarifacie" #
  string_GRAND_SISTERHOOD: "Zgromadzenia Sióstr" #Zgromadzenie Sióstr N
+ string_GRAND_SISTERHOOD_ins: "Zgromadzeniu Sióstr" #
  string_GREAT_BARANGAY: "Wielkiego Barangayu" #Wielki Barangay M
+ string_GREAT_BARANGAY_ins: "Wielkim Barangayarze" #
  string_GREAT_CHIEFDOM: "Wielkiego Wodzostwa" #Wielkie Wodzostwo N
+ string_GREAT_CHIEFDOM_ins: Wielkim Wodzostwie"" #
  string_GREAT_ELECTORAL_REPUBLIC: "Wielkiej Republiki Elekcyjnej" #Wielka Republika Elekcyjna Ż
+ string_GREAT_ELECTORAL_REPUBLIC_ins: "Wielkiej Republice Elekcyjnej" #
  string_GREAT_EMIRATE: "Wielkiego Emiratu" #Wielki Emirat M
+ string_GREAT_EMIRATE_ins: "Wielkim Emiracie" #
  string_GREAT_HETMANATE: "Wielkiego Hetmanatu" #Wielki Hetmanat M
+ string_GREAT_HETMANATE_ins: "Wielkim Hetmanacie" #
  string_GREAT_IMAMATE: "Wielkiego Imamatu" #Wielki Imamat M
+ string_GREAT_IMAMATE_ins: "Wielkim Imamacie" #
  string_GREAT_INDEP_DAIMYO: "Wielkiego Daimyo" #Wielki Daimyo M
+ string_GREAT_INDEP_DAIMYO_ins: "Wielkim Daimyo" #
  string_GREAT_LEAGUE: "Wielkiej Ligii" #Wielka Liga Ż
+ string_GREAT_LEAGUE_ins: "Wielkiej Lidze" #
  string_GREAT_METROPOLIS: "Wielkiej Metropolii" #Wielka Metropolia Ż
+ string_GREAT_METROPOLIS_ins: "Wielkiej Metripolii" #
  string_GREAT_PRINCEDOM: "Wielkiego Księstwa" #Wielkie Księstwo N
+ string_GREAT_PRINCEDOM_ins: "Wielkim Księstwie" #
  string_GREAT_REPUBLIC: "Wielkiej Republiki" #Wielka Republika Ż
+ string_GREAT_REPUBLIC_ins: "Wielkiej Republice" #
  string_GREAT_SHARIFATE: "Szarifatu" #Szarifat M
+ string_GREAT_SHARIFATE_ins: "Szarifacie" #
  string_HERCEGSEG: "Hercegsegu" #Hercegseg M
+ string_HERCEGSEG_ins: "Hercegsegu" #
  string_HERRED: "Herredu" #Herred M
+ string_HERRED_ins: "Herredzie" #
  string_HETMANATE: "Hetmanatu" #Hetmanat M
+ string_HETMANATE_ins: "Hetmanacie" #
  string_HIGH_ADMIRALTY: "Wysokiej Admiralicji" #Wysoka Admiralicja Ż
+ string_HIGH_ADMIRALTY_ins: "Wysokiej Admiralicji" #
  string_HIGH_IMAMATE: "Wysokiego Imamatu" #Wysoki Imamat M
+ string_HIGH_IMAMATE_ins: "Wysokim Imamacie" #
  string_HOLY_EMPIRE: "Imperium Teokratycznego" #Imperium Teokratyczne N
+ string_HOLY_EMPIRE_ins: "Imperium Teokratycznym" #
  string_HOLY_PRINCIPALITY: "Księstwa Kościelnego" #Księstwo Kościelne N
+ string_HOLY_PRINCIPALITY_ins: "Księstwie Kościelnym" #
  string_HOLY_STATE: "Państwa Kościelnego" #Państwo Kościelne N
+ string_HOLY_STATE_ins: "Państwie Kościelnym" #
  string_HORDE: "Ordy" #Orda Ż
+ string_HORDE_ins: "Ordzie" #
  string_IKKO_IKKI_COMMUNE: "Protektoratu Ikko-ikki" #Protektorat Ikko-ikki M
+ string_IKKO_IKKI_COMMUNE_ins: "Protektoracie Ikko-ikki" #
  string_IKKO_IKKI_EMPIRE: "Zakonu Ikko-ikki" #Zakon Ikko-ikki M
+ string_IKKO_IKKI_EMPIRE_ins: "Zakonie Ikko-ikki" #
  string_IKKO_IKKI_ORDER: "Republiki Ikko-ikki" #Republika Ikko-ikki Ż
+ string_IKKO_IKKI_ORDER_ins: "Republice Ikko-ikki" #
  string_IKKO_IKKI_SHOGUN: "Szogunatu Ikko-ikki" #Szogunat Ikko-ikki M
+ string_IKKO_IKKI_SHOGUN_ins: "Szogunacie Ikko-ikki" #
  string_ILKHANATE: "Ilchanatu" #Ilchanat M
+ string_ILKHANATE_ins: "Ilchanacie" #
  string_IMAMATE: "Imamatu" #Imamat M
+ string_IMAMATE_ins: "Imamacie" #
  string_INDEP_DAIMYO: "Niezależnego Daimyo" #Niezależny Daimyo M
+ string_INDEP_DAIMYO_ins: "Niezależnym Daimyo" #
  string_ISLAMIC_CALIPHATE: "Islamskiego Kalifatu" #Islamski Kalifat M
+ string_ISLAMIC_CALIPHATE_ins: "Islamskim Kalifacie" #
  string_KAISERREICH: "Kaiserreichu" #Kaiserreich M
+ string_KAISERREICH_ins: "Kaiserreichu" #
  string_KHAGANATE: "Kaganatu" #Kaganat M
+ string_KHAGANATE_ins: "Kaganacie" #
  string_KHANATE: "Chanatu" #Chanat M
+ string_KHANATE_ins: "Chanacie" #
  string_KHEDIVATE: "Kedywatu" #Kedywat M
+ string_KHEDIVATE_ins: "Kedywacie" #
  string_KINGDOM: "Królestwa" #Królestwo N
+ string_KINGDOM_ins: "Królestwie" #
  string_KINGDOM_PALATINE: "Królewskiego Palatynatu" #Królewski Palatynat M
+ string_KINGDOM_PALATINE_ins: "Królewskim Palatynacie" #
  string_KUCHKABAL: "Kuchkabalu" #Kuchkabal M
+ string_KUCHKABAL_ins: "Kuchkabalu" #
  string_LORDSHIP: "Senioratu" #Seniorat M
+ string_LORDSHIP_ins: "Senioracie" #
  string_MALIKATE: "Malikatu" #Malikat M
+ string_MALIKATE_ins: "Malikacie" #
  string_MARCH: "Marchii" #Marchia Ż
+ string_MARCH_ins: "Marchii" #
  string_METROPOLIS: "Meropolii" #Metropolia Ż
+ string_METROPOLIS_ins: "Metripolii" #
  string_MILITARY_GOVERNMENT: "Republiki Militarnej" #Republika Militarna Ż
+ string_MILITARY_GOVERNMENT_ins: "Republice Militarnej" #
  string_MISL: "Mislu" #Misl M
+ string_MISL_ins: "Mislu" #
  string_MONASTIC_EMPIRE: "Federacji Zakonnej" #Federacja Zakonna Ż
+ string_MONASTIC_EMPIRE_ins: "Federacji Zakonnej" #
  string_MONASTIC_ORDER: "Państwa Zakonnego" #Państwo Zakonne N
+ string_MONASTIC_ORDER_ins: "Państwie Zakonnym" #
  string_MONASTIC_STATE: "Państwa Zakonnego" #Państwo Zakonne N
+ string_MONASTIC_STATE_ins: "Państwie Zakonnym" #
  string_MONG: "Mongu" #Mong M
+ string_MONG_ins: "Mongu" #
  string_MOST_SERENE_REPUBLIC: "Najjaśniejszej Republiki" #Najjaśniejsza Republika Ż
+ string_MOST_SERENE_REPUBLIC_ins: "Najjaśniejszej Republice" #
  string_NAWABATE: "Nawabatu" #Nawabat M
+ string_NAWABATE_ins: "Nawabacie" #
  string_NIZAMATE: "Nizamatu" #Nizamat M
+ string_NIZAMATE_ins: "Nizamacie" #
  string_PAPACY: "Papiestwa" #Papiestwo N
+ string_PAPACY_ins: "Papiestwie" #
  string_PARLIAMENT_OF_HEAVEN: "Parlamentu Niebios" #Parlament Niebios M
+ string_PARLIAMENT_OF_HEAVEN_ins: "Parlamencie Niebios" #
  string_PASHALIK: "Ejaletu" #Ejalet M
+ string_PASHALIK_ins: "Ejalecie" #
  string_PATRIARCHATE: "Patriarchatu" #Patriarchat M
+ string_PATRIARCHATE_ins: "Patriarchacie" #
  string_PIRATE_CONFEDERACY: "Konfederacji Piratów" #Konfederacja Piratów Ż
+ string_PIRATE_CONFEDERACY_ins: "Konfederacji Piratów" #
  string_PIRATE_DAIMYO: "Pirackiego Daimyo" #Piracki Daimyo M
+ string_PIRATE_DAIMYO_ins: "Pirackim Daimyo" #
  string_PIRATE_EMPIRE: "Imperium Piratów" #Imperium Piratów N
+ string_PIRATE_EMPIRE_ins: "Imperium Piratów" #
  string_PIRATE_KINGDOM: "Królestwa Piratów" #Królestwo Piratów N
+ string_PIRATE_KINGDOM_ins: "Królestwie Piratów" #
  string_PIRATE_PRINCIPALITY: "Księstwa Piratów" #Księstwo Piratów N
+ string_PIRATE_PRINCIPALITY_ins: "Księstwie Piratów" #
  string_PIRATE_REPUBLIC: "Republiki Piratów" #Republika Piratów Ż
+ string_PIRATE_REPUBLIC_ins: "Republice Piratów" #
  string_PRESIDENTIAL_DICTATORSHIP: "Dyktatury Prezydenckiej" #Dyktatura Prezydencka Ż
+ string_PRESIDENTIAL_DICTATORSHIP_ins: "Dyktaturze Prezydenckiej" #
  string_PRINCEDOM: "Księstwa" #Księstwo N
+ string_PRINCEDOM_ins: "Księstwie" #
  string_PRINCIPALITY: "Księstwa" #Księstwo N
+ string_PRINCIPALITY_ins: "Księstwie" #
  string_REPUBLIC: "Republiki" #Republika Ż
+ string_REPUBLIC_ins: "Republice" #
  string_REVOLUTIONARY_DANISH_REPUBLIC: "Sikkerhedtingetu" #Sikkerhedtinget M
+ string_REVOLUTIONARY_DANISH_REPUBLIC_ins: "Sikkerhedtingetrze" #
  string_REVOLUTIONARY_PEASANT_REPUBLIC: "Chłopskiej Junty" #Chłopska Junta Ż
+ string_REVOLUTIONARY_PEASANT_REPUBLIC_ins: "Chłopskiej Juncie" #
  string_REVOLUTIONARY_SPANISH_REPUBLIC: "Najwyższej Junty" #Najwyższa Junta Ż
+ string_REVOLUTIONARY_SPANISH_REPUBLIC_ins: "Najwyższej Juncie" #
  string_REVOLUTIONARY_SWEDISH_REPUBLIC: "Säkerhetstingetu" #Säkerhetstinget M
+ string_REVOLUTIONARY_SWEDISH_REPUBLIC_ins: "Säkerhetstingetrze" #
  string_SAVANAROLA_GOVERNMENT: "Rządu Savonaroli" #Rząd Savonaroli M
+ string_SAVANAROLA_GOVERNMENT_ins: "Rządzie Savonaroli" #
  string_SERENE_REPUBLIC: "Najjaśniejszej Republiki" #Najjaśniejsza Republika Ż
+ string_SERENE_REPUBLIC_ins: "Najja Republice" #
  string_SHAHDOM: "Szachatu" #Szachat M
+ string_SHAHDOM_ins: "Szachacie" #
  string_SHARIFATE: "Szarifatu" #Szarifat M
+ string_SHARIFATE_ins: "Szarifacie" #
  string_SHEIKHDOM: "Szejkanatu" #Szejkanat M
+ string_SHEIKHDOM_ins: "Szejkanacie" #
  string_SHOGUNATE: "Szogunatu" #Szogunat M
+ string_SHOGUNATE_ins: "Szogunacie" #
  string_SISTERHOOD: "Wielkiego Zgromadzenia Sióstr" #Wielkie Zgromadzenie Sióstr N
+ string_SISTERHOOD_ins: "Wielkim Zgromadzeniu Sióstr" #
  string_SOGN: "Sognu" #Sogn M
+ string_SOGN_ins: "Sognu" #
  string_SOVREIGN_MONASTIC_CONFEDERATION: "Niepodległej Konfederacji Zakonnej" #Niepodległa Konfederacja Zakonna Ż
+ string_SOVREIGN_MONASTIC_CONFEDERATION_ins: "Niepodległej Konfederacji Zakonnej" #
  string_SOVREIGN_MONASTIC_ORDER: "Niepodległego Zgromadzenia Zakonnego" #Niepodległe Zgromadzenie Zakonne N
+ string_SOVREIGN_MONASTIC_ORDER_ins: "Niepodegłym Zgromadzeniu Zakonnym" #
  string_STATELESS_SOCIETY: "Społeczeństwa Bezpaństwowego" #Społeczeństwo Bezpaństwowe N
+ string_STATELESS_SOCIETY_ins: "Społeczeństwie Bezpaństwowym" #
  string_STRATOCRACY: "Junty Wojskowej" #Junta Wojskowa Ż
+ string_STRATOCRACY_ins: "Juncie Wojskowej" #
  string_SULTANATE: "Sułtanatu" #Sułtanat M
+ string_SULTANATE_ins: "Sułtanacie" #
  string_SUPREME_ADMIRALTY: "Najwyższej Admiralicji" #Najwyższa Admiralicja Ż
- string_SYNTH_GOV: "Sztucznej inteligencji" #Sztuczna Inteligencja Ż
+ string_SUPREME_ADMIRALTY_ins: "Najwyższej Admiralicji" #
+ string_SYNTH_GOV: "Sztucznej Inteligencji" #Sztuczna Inteligencja Ż
+ string_SYNTH_GOV_ins: "Sztucznej Inteligencji" #
  string_TRAPPIST_STATE: "Zakonu Trapistów" #Zakon Trapistów M
+ string_TRAPPIST_STATE_ins: "Zakonie Trapistów" #
  string_TRIBAL_EMPIRE: "Imperium Plemiennego" #Imperium Plemienne N
+ string_TRIBAL_EMPIRE_ins: "Imperium Plemiennym" #
  string_TRIBAL_KINGDOM: "Królestwa Plemienngo" #Królestwo Plemienne N
+ string_TRIBAL_KINGDOM_ins: "Królestwie Plemiennym" #
  string_TRIBE: "Plemienia" #Plemię N
+ string_TRIBE_ins: "Plemieniu" #
  string_TSARDOM: "Carstwa" #Carstwo N
+ string_TSARDOM_ins: "Carstwie" #
  string_UNITED_PROVINCES: "Zjednoczonych Prowincji" #Zjednoczone Prowincje MZ
+ string_UNITED_PROVINCES_ins: "Zjednoczonych Prowincjach" #
  string_VICEROYALTY: "Wicekrólestwa" #Wicekrólestwo N
+ string_VICEROYALTY_ins: "Wicekrólestwie" #
  string_WARRIOR_MONK_HIGH_ORDER: "Szogunatu Zakonnego" #Szogunat Zakonny M
+ string_WARRIOR_MONK_HIGH_ORDER_ins: "Szo Zakonnym" #
  string_WARRIOR_MONK_ORDER: "Soheiu" #Sohei M
+ string_WARRIOR_MONK_ORDER_ins: "Soheiu" #
 ##Ruler
  string_ABBESS: "Ksieni" #Ksieni
  string_ADMIRAL_fem: "Wielkiej Admirała" #Wielka Admirał
