@@ -1601,7 +1601,7 @@
  FUTURE_ALLIES_DESC: ""
  FUTURE_ENEMIES_DESC: ""
  CANT_INTERVENE: ""
- WILL_APPLY_WHEN_RULER: "Będzie miało następujący efekt na nasz kraj jeśli $NAME$ zostanie władcą##CHAR_DETECT##\n"
+ WILL_APPLY_WHEN_RULER: "Będzie miało następujący efekt na nasz kraj jeśli $NAME$ zostanie władcą\n"
  HEIR_TO_THRONE_DESC: "To jest dziedzic do naszego tronu.\n"
  CONSORT_TO_RULER_DESC: "To jest małżonek naszego władcy.\n"
  UNIT_BUILD_COST: "Koszt budowy: §Y$VAL$§!¤"

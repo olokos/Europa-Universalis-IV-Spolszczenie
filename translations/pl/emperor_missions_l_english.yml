@@ -4,7 +4,7 @@
  bav_expand_in_bavaria_title: "Rozszerz Bawarię"
  bav_expand_in_bavaria_desc: "Nawet zjednoczona Bawaria nie może sama przeciwstawić się Austrii i Czechom. Musimy rozszerzyć nasze rdzenne terytoria i poddać naszych słabszych sąsiadów naszym rządom."
  emp_bav_union_with_palatinate_title: "Zjednocz Wittelsbachów"
- emp_bav_union_with_palatinate_desc: ""
+ emp_bav_union_with_palatinate_desc: "Podziały w dynastii Wittelsbachów sięgają daleko poza granice Bawarii. Jedna z gałęzi rodu Wittelsbachów już od dłuższego czasu rządzi Palatynatami Reńskim i Górnym, a także otrzymała status elektora, który zdecydowanie bardziej należy się Wittelsbachom bawarskim. Musimy ponownie zjednoczyć ród i wykorzystać siłę perswazji, aby Cesarz mógł nam przyznać tytuł elektorski Palatynatu."
  emp_bav_union_with_palatinate_effect_tooltip: "Jeżeli ukończymy tę misję poprzez wprowadzenie unii personalnej z §YPalatynatem§!:"
  emp_bav_union_with_palatinate_effect_tooltip2: "§YŚwięty Cesarz Rzymski§! podejmie decyzję, czy należący do §YPalatynatu§! tytuł elektorski powinien przejść na państwo §Y[Root.GetName]§!."
  emp_bav_union_with_palatinate_effect_tooltip3: "\nJeżeli ukończymy tę misję bez unii personalnej z §YPalatynatem§!:"

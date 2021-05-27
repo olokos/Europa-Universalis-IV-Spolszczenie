@@ -1601,7 +1601,7 @@
  FUTURE_ALLIES_DESC:0 "These are the Countries we would fight with should we Intervene."
  FUTURE_ENEMIES_DESC:0 "These are the Countries we would fight against should we Intervene."
  CANT_INTERVENE:0 "We can't Intervene in this War."
- WILL_APPLY_WHEN_RULER:0 "B²dzie mia³o nast²puj¹cy efekt na nasz kraj jeœli $NAME$ zostanie w³adc¹:\n"
+ WILL_APPLY_WHEN_RULER:0 "B²dzie mia³o nast²puj¹cy efekt na nasz kraj jeœli $NAME$ zostanie w³adc¹\n"
  HEIR_TO_THRONE_DESC:0 "To jest dziedzic do naszego tronu.\n"
  CONSORT_TO_RULER_DESC:0 "To jest ma³¿onek naszego w³adcy.\n"
  UNIT_BUILD_COST:0 "Koszt budowy: §Y$VAL$§!¤"

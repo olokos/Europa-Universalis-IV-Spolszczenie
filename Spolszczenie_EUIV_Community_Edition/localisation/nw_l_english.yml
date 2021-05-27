@@ -213,7 +213,7 @@
  SUBJECT_SHOW_RELEASE_COLONY_DESC:0 "Jeœli chcesz, mo¿esz kontynuowa¾ gr² tak¿e jako ten naród."
  LIBERATE_COLONY:0 "Wyzwoli¾ koloni²"
  LIBERATE_COLONY_DESC:0 "Paªstwo §Y$COUNTRY$§W zostanie uwolnione wraz z nast²puj¹cymi prowincjami: $LIST$.\n"
- RELEASEDCOLONY_SETUP:0 "Kolonia jest uwolniona od swego poprzedniego zwierzchnika."
+ RELEASEDCOLONY_SETUP:0 "Kiedy kolonia jest uwolniona od swego poprzedniego zwierzchnika."
  RELEASEDCOLONY_HEADER:0 "$MESSENGER$"
  RELEASEDCOLONY_1:0 "Naród kolonialny wyzwolony!"
  RELEASEDCOLONY_2:0 "$NAME$"

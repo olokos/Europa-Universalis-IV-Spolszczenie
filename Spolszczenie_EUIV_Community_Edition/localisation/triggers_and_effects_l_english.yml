@@ -171,7 +171,7 @@
  HAS_AT_LEAST_TRUSTED_ALLIES:0 "Ma co najmniej $VAL|Y$ sojuszników z zaufaniem na poziomie §Y100§!."
  NATION_DESIGNER_POINTS_LESS_THAN:0 "U¿y³ poni¿ej $VAL|Y$ punktów, tworz¹c w³asne paªstwo."
  NATION_DESIGNER_POINTS_AT_LEAST:0 "U¿y³ co najmniej $VAL|Y$ punktów, tworz¹c w³asne paªstwo."
- NATION_DESIGNER_TECH_GROUP_COST:0 "$COST|Y$ punktów kosztów dla nast²puj¹cych warunków:\n"
+ NATION_DESIGNER_TECH_GROUP_COST:0 "$COST|Y$ punktów kosztów dla nast²puj¹cych warunków\n"
  REFORM_DESIRE_IS_LESS_THAN:0 "Pragnienie reform religijnych jest mniejsze ni¿ §Y$SIZE$§!.\n"
  REFORM_DESIRE_IS_AT_LEAST:0 "Pragnienie reform religijnych wynosi co najmniej §Y$SIZE$§!.\n"
  REFORM_DESIRE_EFFECT:0 "Katolicyzm pragnie reform w $DIRECTION$ na $PERC|%-$.\n"
