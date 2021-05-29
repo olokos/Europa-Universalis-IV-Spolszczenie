@@ -398,7 +398,7 @@
  CLICK_TO_ENACT_EDICT: "Wprowadź $EDICT$ do co najmniej $UNTIL|Y$, aby zwiększyć utrzymanie stanu o $COST$."
  VIEW_STATE_EDICTS: "Wyświetl edykty"
  NO_CURRRENT_EDICT: "Brak obecnych edyktów"
- CONFIRSTATEEDICT: "Zatwierdź edykt państwowy"
+ CONFIRSTATEEDICT: "Zatwierdź edykt stanowy"
  CONFIRSTATEEDICT_TEXT: "Wprowadzenie $EDICT|Y$ w $STATE$ zapewni $EFFECT$ na co najmniej $DURATION$ miesięcy. Spowoduje to zwiększenie utrzymania stanu o $INCREASE$.\nCzy jesteś pewny?"
  CONFIRRAISEBANNER: "Potwierdź rekrutację chorągwi"
  CONFIRRAISEBANNER_TEXT: "$EFFECT$\nJesteś pewien?"
