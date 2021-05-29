@@ -272,7 +272,7 @@
  obj_two_institutions_desc: "Posiadaj i kontroluj co najmniej 2 prowincje, w których narodziły się nurty."
  CONFIRAGEABILITY: "Potwierdź Umiejętności"
  CONFIRAGEABILITY_TEXT: "Wybór $ABILITY|Y$ przyzna\n$EFFECT$\naż do początku nowej epoki.\nJesteś pewny?"
- ab_allow_feudal_de_jure_law: "Feudalne prawo De Jure."
+ ab_allow_feudal_de_jure_law: "Feudalne prawo de iure."
  ab_justified_wars: "Uzasadnione wojny"
  ab_claim_duration: "Roszczenie Długoterminowe"
  ab_transfer_vassal_wargoal: "Przekazanie poddanego"
