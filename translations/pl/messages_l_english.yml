@@ -6961,7 +6961,7 @@
  RECEIVED_FLEEING_SERFS_BTN2: "Rozumiem."
  RECEIVED_FLEEING_SERFS_BTN3: "Idź do"
  SERFS_FLED_TITLE: "Chłopi uciekli do państwa $TO$!"
- SERFS_FLED_SETUP: "Gdy niezadowoleni chłopi uciekają z naszego państwa."
+ SERFS_FLED_SETUP: "Kiedy niezadowoleni chłopi uciekają z naszego państwa."
  SERFS_FLED_HEADER: "$MESSENGER$"
  SERFS_FLED_1: "Chłopi uciekli do państwa $TO$!"
  SERFS_FLED_2: "Wielu chłopów pańszczyźnianych w naszym kraju uciekło od"
