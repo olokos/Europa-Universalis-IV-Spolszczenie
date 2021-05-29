@@ -2651,7 +2651,7 @@
  VASALLACCEPT_BTN2: "Wspaniale!"
  VASALLACCEPT_BTN3: "Idź do"
  VASALLREJECT_TITLE: "Nie wyrażono zgody na zwasalizowanie"
- VASALLREJECT_SETUP: "Kraj odrzuca twoją propozycję wasalizacji."
+ VASALLREJECT_SETUP: "Kiedy kraj odrzuca twoją propozycję wasalizacji."
  VASALLREJECT_HEADER: "Wysłannik państwa"
  VASALLREJECT_1: "$RECIPIENT$"
  VASALLREJECT_2: "Kraj $RECIPIENT$"
