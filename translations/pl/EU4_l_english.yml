@@ -418,7 +418,7 @@
  edict_advancement_effort: "Wspieranie rozwoju"
  edict_centralization_effort: "Wspieranie centralizacji"
  edict_feudal_de_jure_law: "Feudalne prawo de iure"
- edict_feudal_de_jure_law_tooltip: "Wymaga „§Yfeudalnego prawa De Jure§!” z ery wielkich odkryć."
+ edict_feudal_de_jure_law_tooltip: "Wymaga „§Yfeudalnego prawa de iure§!” z ery wielkich odkryć."
  edict_religion_enforced: "Narzucenie religii"
  edict_religion_enforced_tooltip: "Wymaga „§Yedyktu o narzuceniu religii§!” z ery reformacji."
  edict_of_absolutism: "Edykt o absolutyzmie"
