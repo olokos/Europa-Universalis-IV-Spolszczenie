@@ -3764,7 +3764,7 @@
  RELEASE_VASSAL_EFFECT: "Kraj §Y$TARGET$§! stanie się wolnym państwem."
  BREAK_UNION_EFFECT: "$TARGET|Y$ nie będzie dłużej w unii z państwem $SENIOR|Y$.\n"
  REVOLUTION_WAR_NAME: "$ORDER$Wojna rewolucyjna w kraju $FIRST$!"
- MODIFIER_REMOVED: "$WHAT|Y$ traci cechę: $WHERE$.\n"
+ MODIFIER_REMOVED: "$WHAT|Y$ przestaje obowiązywać w: $WHERE$.\n"
  OPENEDMARKET: "Zamknęli dla nas swój rynek."
  AUTOSEND_PRIORITIES_SHORT: "Kliknij tutaj, aby zmienić priorytety automatycznego wysyłania kupców"
  AUTOSEND_PRIORITIES_LONG: "Dla każdego węzła handlowego możesz zdefiniować priorytety automatycznego wysyłania kupców. Czerwony krzyżyk oznacza, że nie zostaną wysłani żadni kupcy, można następnie ustawić priorytet na jeden z trzech poziomów. Czerwony to najniższy, żółty to umiarkowany, a zielony symbolizuje wysoki priorytet."
