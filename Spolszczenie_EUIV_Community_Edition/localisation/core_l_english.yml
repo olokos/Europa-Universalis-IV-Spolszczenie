@@ -366,7 +366,7 @@
  MAPMODE_LOOT_DESC:0 "Zaznacza kolorem prowincje nale¿¹ce do krajów, z którymi toczysz wojn², zgodnie z tym, ile w nich zosta³o do z³upienia."
  MAPMODE_STATES_TERRITORIES:0 "Stany i terytoria"
  MAPMODE_STATES_TERRITORIES_DESC:0 "Zaznacza prowincje nale¿¹ce do stanów na zielono, a te nale¿¹ce do terytoriów na ¿ó³to. Stan ze stolic¹ ma kolor jasnozielony."
- MAPMODE_STATES_EDICTS:0 "Edykty paªstwowe"
+ MAPMODE_STATES_EDICTS:0 "Edykty stanowe"
  MAPMODE_STATES_EDICTS_DESC:0 "Zaznacza kolorem prowincje w zale¿noœci od tego, jaki edykt maj¹ obecnie."
  REDUCE:0 "Zmniejsz"
  arid:0 "Suchy"

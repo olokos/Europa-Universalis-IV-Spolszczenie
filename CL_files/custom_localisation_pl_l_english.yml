@@ -95,9 +95,9 @@
  ## ęła/ął
  string_EndPast_fem: "ęła"
  string_EndPast_mal: "ął"
- ## Odczedł/Odeszła
+ ## Odszedł/Odeszła
  string_Gone_fem: "Odeszła"
- string_Gone_mal: "Odczedł"
+ string_Gone_mal: "Odszedł"
  ## władcę/władczynię
  string_RulDat_fem: "władczynię"
  string_RulDat_mal: "władcę"

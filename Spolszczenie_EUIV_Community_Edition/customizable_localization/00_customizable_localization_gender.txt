@@ -148,7 +148,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_man_empty
+		localisation_key = string_man_y
 		trigger = {
 			OR = {
 				employed_advisor = { type = philosopher is_male = yes }
@@ -180,7 +180,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_man_empty
+		localisation_key = string_man_y
 		trigger = {
 			OR = {
 				employed_advisor = { type = statesman is_male = yes }
@@ -212,7 +212,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_man_empty
+		localisation_key = string_man_y
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_male = yes }

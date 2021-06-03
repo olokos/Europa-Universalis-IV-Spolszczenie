@@ -317,7 +317,7 @@
  ASSIGN_HEIR_TITLE: "Introduce New Heir"
  ASSIGN_HEIR_DESC: "Introducing a new heir will cost $PRESTIGE|Y$ prestige, and $LEGITIMACY|Y$ legitimacy! Are you sure?"
  ASSIGN_HEIR_ALREADY_HEIR: "You already have an heir."
- ASSIGN_HEIR_TT: "§YIntroduce New Heir§!\nSpend $LEGITIMACY|Y$ legitimacy and $PRESTIGE|Y$ prestige to get a new heir!"
+ ASSIGN_HEIR_TT: "§YIntroduce New Heir§!\nSpend $LEGITIMACY|Y$ Legitimacy and $PRESTIGE|Y$ Prestige to get a new heir!"
  ASSIGN_HEIR_NOT_MONARCHY: "Only monarchies can introduce new heirs!"
  ASSIGN_HEIR_NOT_HEIRS: "Your form of government does not have designated heirs!"
  ASSIGN_HEIR_AT_WAR: "You can not assign a new heir when at War!"

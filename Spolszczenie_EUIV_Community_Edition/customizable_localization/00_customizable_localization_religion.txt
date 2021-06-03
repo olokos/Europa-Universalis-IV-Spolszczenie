@@ -154,6 +154,12 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_dreamtime_people
+		trigger = {
+			religion = dreamtime
+		}
+	}
+	text = {
 		localisation_key = string_judaism_people
 		trigger = {
 			religion = jewish
@@ -316,6 +322,12 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_dreamtime_peopleCap
+		trigger = {
+			religion = dreamtime
+		}
+	}
+	text = {
 		localisation_key = string_judaism_peopleCap
 		trigger = {
 			religion = jewish
@@ -475,6 +487,12 @@ defined_text = {
 		localisation_key = string_tengrianism_gen
 		trigger = {
 			religion = tengri_pagan_reformed
+		}
+	}
+	text = {
+		localisation_key = string_dreamtime_gen
+		trigger = {
+			religion = dreamtime
 		}
 	}
 	text = {

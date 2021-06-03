@@ -3764,7 +3764,7 @@
  RELEASE_VASSAL_EFFECT:0 "Kraj §Y$TARGET$§! stanie si² wolnym paªstwem."
  BREAK_UNION_EFFECT:0 "$TARGET|Y$ nie b²dzie d³u¿ej w unii z paªstwem $SENIOR|Y$.\n"
  REVOLUTION_WAR_NAME:0 "$ORDER$Wojna rewolucyjna w kraju $FIRST$!"
- MODIFIER_REMOVED:0 "$WHAT|Y$ traci cech²: $WHERE$.\n"
+ MODIFIER_REMOVED:0 "$WHAT|Y$ przestaje obowi¹zywa¾ w: $WHERE$.\n"
  OPENEDMARKET:0 "Zamkn²li dla nas swój rynek."
  AUTOSEND_PRIORITIES_SHORT:0 "Kliknij tutaj, aby zmieni¾ priorytety automatycznego wysy³ania kupców"
  AUTOSEND_PRIORITIES_LONG:0 "Dla ka¿dego w²z³a handlowego mo¿esz zdefiniowa¾ priorytety automatycznego wysy³ania kupców. Czerwony krzy¿yk oznacza, ¿e nie zostan¹ wys³ani ¿adni kupcy, mo¿na nast²pnie ustawi¾ priorytet na jeden z trzech poziomów. Czerwony to najni¿szy, ¿ó³ty to umiarkowany, a zielony symbolizuje wysoki priorytet."
