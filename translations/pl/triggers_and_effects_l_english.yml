@@ -227,7 +227,7 @@
  ADD_IDEA_EFFECT: "Zostanie dodana idea $IDEA|Y$"
  REMOVE_IDEA_EFFECT: "Zostanie usunięta idea $IDEA|Y$"
  HRE_INHERITABLE_ENABLED: "ŚCR jest teraz zawsze dziedziczone przez ten sam kraj.\nKsiążęta będący poddanymi cesarza nie zajmują już miejsc w stosunkach dyplomatycznych cesarza.\n"
- HRE_INHERITABLE_DISABLED: "W ŚCR przywrócono wybory!\nKsiążęta będący poddanymi cesarze będą korzystać z miejsc dyplomatycznych.\n"
+ HRE_INHERITABLE_DISABLED: "W ŚCR przywrócono wybory!\nKsiążęta będący poddanymi cesarza będą korzystać z miejsc dyplomatycznych.\n"
  HAS_IDEAGROUP_TRIGGER: "Kraj §Y$COUNTRY$§W aktywował grupę §Y$GROUP$§W.\n"
  HAS_NOT_IDEAGROUP_TRIGGER: "Kraj §Y$COUNTRY$§W nie aktywował grupy §Y$GROUP$§W\n"
  HAS_MAXIDEAGROUP_TRIGGER: "Kraj §Y$COUNTRY$§W skompletował grupę §Y$GROUP$§W.\n"
