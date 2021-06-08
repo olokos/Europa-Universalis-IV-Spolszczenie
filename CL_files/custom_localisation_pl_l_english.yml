@@ -636,6 +636,12 @@
  string_crown_ins: "Koroną" #Korona
  string_sublime_porte_ins: "Wysoką Portą" #Wysoka Porta
  string_council_ins: "Radą" #Rada
+ string_govtname_ins: "[This.GetGovNameIns]" #Rada
+ ##Dopełniacz dla klucza GetStateForm
+ string_crown_gen: "Korony" #Korona
+ string_sublime_porte_gen: "Wysokiej Porty" #Wysoka Porta
+ string_council_gen: "Rady" #Rada
+ string_govtname_gen: "[This.GetGovNameGen]" #Rada
  ##Biernik dla klucza GetLegitimacyOrMeritocracy
  string_meritocracy_acc: "merytokrację" #Merytokracja
  string_legitimacy_acc: "legitymizację" #Legitymizacja

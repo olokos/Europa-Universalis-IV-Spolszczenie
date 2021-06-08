@@ -22,7 +22,35 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_govtname
+		localisation_key = string_govtname_ins
+	}
+}
+
+defined_text = {
+	name = GetStateForm_gen
+
+	text = {
+		localisation_key = string_crown_gen
+		trigger = {
+			government = monarchy
+			NOT = { tag = TUR }
+		}
+	}
+	text = {
+		localisation_key = string_sublime_porte_gen
+		trigger = {
+			government = monarchy
+			tag = TUR
+		}
+	}
+	text = {
+		localisation_key = string_council_gen
+		trigger = {
+			government = republic
+		}
+	}
+	text = {
+		localisation_key = string_govtname_gen
 	}
 }
 
