@@ -896,9 +896,9 @@ guiTypes = {
 			listboxType =
 			{
 				name ="modifier_listbox"
-				position = { x=86 y =170}
+				position = { x=46 y =190}#x=86 y =170
 				backGround=""
-				size = { x=382 y =350}
+				size = { x=472 y =330}#x=382 y =350
 				Orientation = "UPPER_LEFT"
 				horizontal = 0
 				spacing = 2
@@ -1449,7 +1449,7 @@ guiTypes = {
 			font = "vic_22"
 			borderSize = {x = 4 y = 4}
 			text = "7"
-			maxWidth = 370
+			maxWidth = 458#370
 			maxHeight = 32
 			format = left
 			Orientation = "UPPER_LEFT"
