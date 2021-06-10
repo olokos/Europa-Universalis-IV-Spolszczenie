@@ -3805,7 +3805,7 @@
  japan.EVTNAME1: "Upadek Kioto"
  japan.EVTDESC1: "[new_shogunate.Monarch.GetName] całkowicie pokonał szoguna i ukoronuje genialną kampanię, przyjmując tytuł szoguna - będącym dziedzicznym wojskowym dyktatorem Japonii.\n\nTylko czas pokaże, czy [new_shogunate.Monarch.Dynasty.GetName] odniesie większe sukcesy niż jego poprzednik, jeśli chodzi o rządzenie walczącymi klanami."
  japan.EVTOPTA1: "Zwyciężymy!"
- WARSCORE_FROM_BATTLE: "($VAL|=+$ Wynik Wojny)"
+ WARSCORE_FROM_BATTLE: "($VAL|=+$ do wyniku wojny)"
  CARDINAL_CONTROLLER_ACTIVE_DESC: "Ten kardynał reprezentuje państwo $COUNTRY|Y$."
  CARDINAL_CONTROLLER_FUTURE_DESC: "Ten kardynał reprezentuje państwo $COUNTRY|Y$, ponieważ otrzymał od niego jak dotąd $VOTES|Y$ głosów."
  CARDINAL_TOOLTIP_AMOUNT: "Kraj §Y$COUNTRY$§W ma §Y$AMOUNT$§W aktywnych kardynałów."
