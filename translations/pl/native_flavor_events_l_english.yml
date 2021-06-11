@@ -44,7 +44,7 @@
  native_americans.8.t: "Ci, którzy wędrują oraz ci, którzy pozostają"
  native_americans.8.d: "Stare opowieści mówią o tym, jak nasi ludzie przemierzali odległe krainy, aby dotrzeć do tej ziemi, na której teraz pracujemy i którą nazywamy naszym domem. Pomimo, że te czasy to odległa przeszłość, niektórzy z naszych sąsiadów zachowują ten styl życia, wciąż przenosząc się na nowe tereny łowieckie zamiast się osiedlać. Nie jesteśmy zainteresowani powrotem do tych zwyczajów, ale może nasze plemiona mogłyby wymieniać wiedzę oraz różne dobra, z korzyścią dla obu stron."
  native_americans.8.a: "Chętnie ich wysłuchamy."
- native_americans.8.a.tt: "Wyślij posłańca z propozycją wymiany surowców oraz wiedzy. Co mówi [This.GetName]?"
+ native_americans.8.a.tt: "Wyślij posłańca z propozycją wymiany surowców oraz wiedzy. Jaka jest odpowiedź państwa [This.GetName]?"
  native_americans.8.b: "Czego możemy się od nich nauczyć, jeśli nie potrafią nawet zbudować porządnych domostw?"
  native_americans.9.d: "Przybył posłaniec z miejscowości [From.GetName]. W przeciwieństwie do innych posłów, nie wskazuje na podobieństwa między naszymi plemionami, lecz na różnice: o tym, że my wędrowaliśmy po świecie, podczas gdy oni tworzyli osiedla w mieście [From.Capital.GetCapitalName]. Najwyraźniej uważają, że dzięki tym różnicom wymiana dorobku naszych odmiennych kultur - różnych spostrzeżeń oraz dóbr materialnych - może przynieść szereg korzyści."
  native_americans.9.a: "Są rozsądni, widząc nasze mocne strony. Powinniśmy dostrzec ich mocne strony."
