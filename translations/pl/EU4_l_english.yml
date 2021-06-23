@@ -4109,7 +4109,7 @@
  COLONIAL_MEXICO_New_Spain_ADJ: "Nowej Hiszpanii"
  COLONIAL_MEXICO_New_Castile: "Nowa Kastylia"
  COLONIAL_MEXICO_New_Castile_ADJ: "Nowej Kastylii"
- COLONIAL_MEXICO_Root_Culture_GetName_Mexico: "[Root.GetAdjective] Meksyk"
+ COLONIAL_MEXICO_Root_Culture_GetName_Mexico: "Meksyk [Root.GetAdjective]"
  COLONIAL_MEXICO_Root_Culture_GetName_Mexico_ADJ: "[Root.GetAdjective] Meksyku"
  COLONIAL_MEXICO_Yucatan: "Jukatan"
  COLONIAL_MEXICO_Yucatan_ADJ: "Jukatanu"
