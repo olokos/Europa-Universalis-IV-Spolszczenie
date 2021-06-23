@@ -4036,7 +4036,7 @@
  COLONIAL_ALASKA_Pacifico_Norte: "Pacifico Norte"
  COLONIAL_ALASKA_Pacifico_Norte_ADJ: "Pacifico Norte"
  COLONIAL_ALASKA_Alaska: "Alaska ([kol. Root.GetAdjective])"
- COLONIAL_ALASKA_Alaska_ADJ: "Alaski ([kol. Root.GetAdjective])"
+ COLONIAL_ALASKA_Alaska_ADJ: "Alaski (kol. [Root.GetAdjective])"
  COLONIAL_ALASKA_Aleutia: "Aleutia"
  COLONIAL_ALASKA_Aleutia_ADJ: "Aleutii"
  COLONIAL_CANADA_Root_Culture_GetGroupName_Canada: "Kanada [Root.GetAdjective]"
