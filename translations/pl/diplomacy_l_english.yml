@@ -548,7 +548,7 @@
  EMBARGO_ACTIVITY: "wprowadź embargo."
  REVOKEEMBARGO_ACTIVITY: "odwołaj embargo."
  ANNEX_ACTIVITY: "zaanektuj państwo."
- SUBJUGATION_WAR_NAME: "$ORDER$Wojna $FIRST$ o podbicie państwa $SECOND$."
+ SUBJUGATION_WAR_NAME: "$ORDER$Wojna $FIRST$ o podbicie $SECOND$."
  OUR_SPY_VALUES: "Nasz kraj jest broniony ze skutecznością na poziomie $DEF|Y$. Wartość ta określa naszą szansę na wykrycie cudzoziemskich agentów i przeszkodzenie im w budowie siatki szpiegowskiej w naszym państwie.\n$DEF_MOD$ Nasi szpiedzy działają ze skutecznością na poziomie $OFF|Y$. Wartość ta określa szybkość budowy naszej siatki szpiegowskiej w innych państwach.\n$OFF_MOD$"
  THEIR_SPY_VALUES: "Ich kraj jest broniony ze skutecznością na poziomie $DEF|Y$. Wartość ta określa ich szansę na wykrycie cudzoziemskich agentów i przeszkodzenie im w budowie siatki szpiegowskiej w ich państwie.\n$DEF_MOD$ Ich szpiedzy działają ze skutecznością na poziomie $OFF|Y$. Wartość ta określa szybkość budowy ich siatki szpiegowskiej w innych państwach.\n$OFF_MOD$"
  OUR_ACTIVE_SPYNETWORKS: "Mamy aktywne siatki szpiegowskie:\n$COUNTRIES$"
