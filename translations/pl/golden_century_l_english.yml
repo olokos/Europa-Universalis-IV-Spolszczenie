@@ -418,7 +418,7 @@
  black_market_consortium_reform_desc: "Piratom, którzy szaleją w Republice, nie można ufać, że sami się wykąpią, a co dopiero, że będą rządzić narodem, którego przyszłość leży na ostrzu kordelasa. Konsorcjum złożone z najbardziej wpływowych czarnorynkowych kupców zostanie ustanowione jako jej prawdziwy rząd. Zysk musi mieć pierwszeństwo przed wolnością."
  pirates_become_republic_reform: "Zdejmij Czarną Flagę"
  pirates_become_republic_reform_desc: "Nadszedł czas, aby zakończyć nasze pirackie życie i ustatkować się, aby stworzyć bardziej stabilną Republikę."
- PIRATE_WAR_NAME: "$ORDER$$FIRST$ piracka wojna z państwem $SECOND$"
+ PIRATE_WAR_NAME: "$ORDER$Piracka wojna $FIRST$ z państwem $SECOND_NAME$"
  cb_war_against_the_world: "Wojna przeciwko światu"
  cb_war_against_the_world_desc: "Cały świat nazywa nas potworami; my będziemy walczyć z nimi wszystkimi, aby ochronić naszą wolność!"
  pirate_king_decision_title: "Koronuj króla piratów"
