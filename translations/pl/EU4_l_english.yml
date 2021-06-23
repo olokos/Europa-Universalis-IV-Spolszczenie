@@ -4103,7 +4103,7 @@
  COLONIAL_CALIFORNIA_California_ADJ: "[Root.GetAdjective] Kalifornii"
  COLONIAL_CALIFORNIA_Oregon: "Oregon"
  COLONIAL_CALIFORNIA_Oregon_ADJ: "Oregonu"
- COLONIAL_CALIFORNIA_Cascadia: "[Root.GetAdjective] Kaskadia"
+ COLONIAL_CALIFORNIA_Cascadia: "Kaskadia [Root.GetAdjective]"
  COLONIAL_CALIFORNIA_Cascadia_ADJ: "[Root.GetAdjective] Kaskadii"
  COLONIAL_MEXICO_New_Spain: "Nowa Hiszpania"
  COLONIAL_MEXICO_New_Spain_ADJ: "Nowej Hiszpanii"
