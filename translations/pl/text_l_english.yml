@@ -4640,7 +4640,7 @@
  occupied_imperial: "Bezprawne terytorium Cesarskie"
  big_hre: "Integralność Cesarstwa"
  desc_big_hre: "Tak długo, jak przynajmniej 25 księstw wchodzi w skład Cesarstwa, będziemy korzystać ze związku z nim."
- RELIGIOUS_WAR_NAME: "Wojna religijna $ORDER$$FIRST$ i $SECOND$"
+ RELIGIOUS_WAR_NAME: "$ORDER$Wojna religijna $FIRST$ i $SECOND$"
  ALL_REL_GROUP_PROVS: "Wszystkie prowincje w naszej grupie religijnej"
  cb_religious_liberation: "Wyzwolenie religijne"
  cb_religious_liberation_desc: "Oni prześladują naszych braci w wierze!"
