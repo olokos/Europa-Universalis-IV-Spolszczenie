@@ -6797,7 +6797,7 @@
  CHOOSE_CB: "Wybierz casus belli:"
  STABILITY_EFFECTS: "Efekty stabilności:"
  ATTACK_NO_CB: "Atak bez casus belli"
- CRUSADE_WAR_NAME: "$ORDER$$CRUSADE_NAME$ $FIRST$ przeciwko krajowi $SECOND_NAME$"
+ CRUSADE_WAR_NAME: "$ORDER$$CRUSADE_NAME$ $FIRST$ przeciwko państwu $SECOND_NAME$"
  CORE_WAR_NAME: "$ORDER$ Rekonkwista $PROVINCE$ dla $FIRST$"
  FINANCIAL_WAR_NAME: "$ORDER$ Wojna rekompensująca $FIRST$ i $SECOND$"
  SPY_WAR_NAME: "$ORDER$ Wojna $FIRST$ z powodu prowokacji państwa $SECOND$"
