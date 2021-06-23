@@ -499,7 +499,7 @@
  superiority_chinese_unification_desc: "Celem wojny jest okazanie pozostałym chińskim państwom naszej wyższości."
  CHINESE_UNIFICATION_WAR_NAME: "$ORDER$Wojna $FIRST$ i $SECOND$ o hegemonię nad Chinami"
  CELESTIAL_EMPIRE_WAR_NAME: "$ORDER$$FIRST$-$SECOND$ wojna o mandat niebios"
- FORCE_MIGRATION_WAR_NAME: "$ORDER$Wymuszona wojna $FIRST$ i $SECOND$ o wymuszenie migracji"
+ FORCE_MIGRATION_WAR_NAME: "$ORDER$Wojna $FIRST$ i $SECOND$ o wymuszenie migracji"
  IN_WARGOAL_COST: "Jest częścią celu wojny i nie będzie skutkować żadnym dodatkowym kosztem dla państwa $WHO|Y$!"
  NOT_IN_WARGOAL_COST: "Nie jest częścią celu wojny i będzie wymagać od państwa $WHO|Y$! poniesienia dodatkowego kosztu §Y$COST$§!£dip punktów dyplomatycznych."
  UNLAWFUL_TERRITORY_WARN: "§RBezprawna okupacja, Cesarz może nakazać zwrot tej ziemi!§!"
