@@ -4040,7 +4040,7 @@
  COLONIAL_ALASKA_Aleutia: "Aleutia"
  COLONIAL_ALASKA_Aleutia_ADJ: "Aleutii"
  COLONIAL_CANADA_Root_Culture_GetGroupName_Canada: "Kanada (kol. [Root.GetAdjective])"
- COLONIAL_CANADA_Root_Culture_GetGroupName_Canada_ADJ: "Kanady [Root.GetAdjective]"
+ COLONIAL_CANADA_Root_Culture_GetGroupName_Canada_ADJ: "Kanady (kol. [Root.GetAdjective])"
  COLONIAL_CANADA_Acadia: "Akadia"
  COLONIAL_CANADA_Acadia_ADJ: "Akadii"
  COLONIAL_CANADA_Nouvelle_Ecosse: "Nowa Szkocja"
