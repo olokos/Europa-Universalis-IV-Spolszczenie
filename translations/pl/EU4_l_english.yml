@@ -4140,7 +4140,7 @@
  COLONIAL_COLOMBIA_Root_Culture_GetName_Colombia: "Kolumbia (kol. [Root.GetAdjective])"
  COLONIAL_COLOMBIA_Root_Culture_GetName_Colombia_ADJ: "Kolumbii (kol. [Root.GetAdjective])"
  COLONIAL_PERU_Root_Culture_GetName_Peru: "Peru (kol. [Root.GetAdjective])"
- COLONIAL_PERU_Root_Culture_GetName_Peru_ADJ: "Peru [Root.GetAdjective]"
+ COLONIAL_PERU_Root_Culture_GetName_Peru_ADJ: "Peru (kol. [Root.GetAdjective])"
  COLONIAL_LA_PLATA_Argentine: "Argentyna"
  COLONIAL_LA_PLATA_Argentine_ADJ: "Argentyny"
  COLONIAL_LA_PLATA_Rio_de_Prata: "Rio da Prata"
