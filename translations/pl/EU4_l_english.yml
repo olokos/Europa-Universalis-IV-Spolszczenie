@@ -4048,7 +4048,7 @@
  COLONIAL_CANADA_Newfoundland: "Nowa Fundlandia"
  COLONIAL_CANADA_Newfoundland_ADJ: "Nowej Funlandii"
  COLONIAL_CANADA_Root_Culture_GetName_Quebec: "[Root.GetAdjective] Quebec"
- COLONIAL_CANADA_Root_Culture_GetName_Quebec_ADJ: "[Root.GetAdjective] Quebecu"
+ COLONIAL_CANADA_Root_Culture_GetName_Quebec_ADJ: "Quebecu [Root.GetAdjective]"
  COLONIAL_CANADA_Laurentia: "Laurencja"
  COLONIAL_CANADA_Laurentia_ADJ: "Laurencji"
  COLONIAL_CANADA_Borealia: "Borealia"
