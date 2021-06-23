@@ -4137,7 +4137,7 @@
  COLONIAL_THE_CARRIBEAN_The_Carribean_ADJ: "Karaibów"
  COLONIAL_COLOMBIA_New_Granada: "Nowa Grenada"
  COLONIAL_COLOMBIA_New_Granada_ADJ: "Nowej Grenady"
- COLONIAL_COLOMBIA_Root_Culture_GetName_Colombia: "[Root.GetAdjective] Kolumbia"
+ COLONIAL_COLOMBIA_Root_Culture_GetName_Colombia: "Kolumbia [Root.GetAdjective]"
  COLONIAL_COLOMBIA_Root_Culture_GetName_Colombia_ADJ: "[Root.GetAdjective] Kolumbii"
  COLONIAL_PERU_Root_Culture_GetName_Peru: "[Root.GetAdjective] Peru"
  COLONIAL_PERU_Root_Culture_GetName_Peru_ADJ: "[Root.GetAdjective] Peru"
