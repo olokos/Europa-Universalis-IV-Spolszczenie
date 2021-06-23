@@ -4147,7 +4147,7 @@
  COLONIAL_LA_PLATA_Rio_de_Prata_ADJ: "Rio da Praty"
  COLONIAL_LA_PLATA_Transplatina: "Transplatina"
  COLONIAL_LA_PLATA_Transplatina_ADJ: "Transplatiny"
- COLONIAL_LA_PLATA_Root_Culture_GetName_La_Plata: "[Root.GetAdjective] La Plata"
+ COLONIAL_LA_PLATA_Root_Culture_GetName_La_Plata: "La Plata [Root.GetAdjective]"
  COLONIAL_LA_PLATA_Root_Culture_GetName_La_Plata_ADJ: "[Root.GetAdjective] La Platy"
  COLONIAL_LA_PLATA_Root_Culture_GetName_Paraguay: "[Root.GetAdjective] Paragwaj"
  COLONIAL_LA_PLATA_Root_Culture_GetName_Paraguay_ADJ: "[Root.GetAdjective] Paragwaju"
