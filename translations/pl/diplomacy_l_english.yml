@@ -494,7 +494,7 @@
  war_goal_change_government_desc: "Celem wojny jest zdobycie stolicy. Będziesz mógł zmusić państwo do zmiany ustroju na panujący w twoim kraju."
  war_goal_change_government_mutual: "Zmień ustrój państwa"
  war_goal_change_government_mutual_desc: "Celem wojny jest zdobycie stolicy. Będziesz mógł zmusić państwo do zmiany ustroju na panujący w twoim kraju."
- CHANGE_GOVERNMENT_WAR_NAME: "$ORDER$Zmiana ustroju państwa $SECOND_NAME$ rękami $FIRST$"
+ CHANGE_GOVERNMENT_WAR_NAME: "$ORDER$Zmiana ustroju $SECOND$ rękami $FIRST$"
  superiority_chinese_unification: "Podbij Chiny"
  superiority_chinese_unification_desc: "Celem wojny jest okazanie pozostałym chińskim państwom naszej wyższości."
  CHINESE_UNIFICATION_WAR_NAME: "$ORDER$Wojna $FIRST$ i $SECOND$ o hegemonię nad Chinami"
