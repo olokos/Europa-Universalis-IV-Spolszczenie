@@ -4182,7 +4182,7 @@
  COLONIAL_AUSTRALIA_New_Holland: "Nowa Holandia"
  COLONIAL_AUSTRALIA_New_Holland_ADJ: "Nowej Holandii"
  COLONIAL_AUSTRALIA_Root_Culture_GetName_Australia: "Australia [Root.GetAdjective]"
- COLONIAL_AUSTRALIA_Root_Culture_GetName_Australia_ADJ: "[Root.GetAdjective] Australii"
+ COLONIAL_AUSTRALIA_Root_Culture_GetName_Australia_ADJ: "Australii [Root.GetAdjective]"
  COLONIAL_REGION_Terra_Australis: "Terra Australis"
  COLONIAL_REGION_Terra_Australis_ADJ: "Terry Australis"
  tariffs_on_grain: "Cło na ziarno"
