@@ -6822,7 +6822,7 @@
  BAN_WAR_NAME: "$ORDER$Przyłączenie prowincji $PROVINCE$ do Świętego Cesarstwa Rzymskiego"
  CONFORMANCE_WAR_NAME: "$ORDER$Wojna zgodności Świętego Cesarstwa Rzymskiego i $SECOND$ "
  PUNITIVE_WAR_NAME: "$ORDER$ Wojna odwetowa $FIRST$ i $SECOND$"
- PRIMITIVE_WAR_NAME: "$ORDER$ Inwazja $FIRST$ na kraj $SECOND_NAME$"
+ PRIMITIVE_WAR_NAME: "$ORDER$ Inwazja $FIRST$ na państwo $SECOND_NAME$"
  HUMILIATE_WAR_NAME: "$ORDER$ Upokorzenie $SECOND$ ze strony $FIRST$"
  CONQUEST_WAR_NAME: "$ORDER$ Inwazja $FIRST$ na prowincję $PROVINCE$"
  VASSAL_MISSION_WAR_NAME: "$ORDER$ Ujarzmienie $SECOND$ rękami $FIRST$"
