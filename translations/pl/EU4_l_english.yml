@@ -4099,7 +4099,7 @@
  COLONIAL_CALIFORNIA_Root_Culture_GetGroupName_Columbia_ADJ: "[Root.GetAdjective] Kolumbii"
  COLONIAL_CALIFORNIA_New_Albion: "Nowy Albion"
  COLONIAL_CALIFORNIA_New_Albion_ADJ: "Nowego Albionu"
- COLONIAL_CALIFORNIA_California: "[Root.GetAdjective] Kalifornia"
+ COLONIAL_CALIFORNIA_California: "Kalifornia [Root.GetAdjective]"
  COLONIAL_CALIFORNIA_California_ADJ: "Kalifornii [Root.GetAdjective]"
  COLONIAL_CALIFORNIA_Oregon: "Oregon"
  COLONIAL_CALIFORNIA_Oregon_ADJ: "Oregonu"
