@@ -4095,7 +4095,7 @@
  COLONIAL_LOUISIANA_Wisconsin_ADJ: "Wisconsin"
  COLONIAL_LOUISIANA_Nebraska: "Nebraska"
  COLONIAL_LOUISIANA_Nebraska_ADJ: "Nebraski"
- COLONIAL_CALIFORNIA_Root_Culture_GetGroupName_Columbia: "[Root.GetAdjective] Kolumbia"
+ COLONIAL_CALIFORNIA_Root_Culture_GetGroupName_Columbia: "Kolumbia [Root.GetAdjective]"
  COLONIAL_CALIFORNIA_Root_Culture_GetGroupName_Columbia_ADJ: "[Root.GetAdjective] Kolumbii"
  COLONIAL_CALIFORNIA_New_Albion: "Nowy Albion"
  COLONIAL_CALIFORNIA_New_Albion_ADJ: "Nowego Albionu"
