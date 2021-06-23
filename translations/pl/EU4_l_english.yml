@@ -4062,7 +4062,7 @@
  COLONIAL_CANADA_Vinland: "Winlandia"
  COLONIAL_CANADA_Vinland_ADJ: "Winlandii"
  COLONIAL_CANADA_Root_Culture_GetName_Canada: "Kanada (kol. [Root.GetAdjective])"
- COLONIAL_CANADA_Root_Culture_GetName_Canada_ADJ: "Kanady [Root.GetAdjective]"
+ COLONIAL_CANADA_Root_Culture_GetName_Canada_ADJ: "Kanady (kol. [Root.GetAdjective])"
  COLONIAL_CANADA_Nova_Hollandia: "Nowa Holandia"
  COLONIAL_CANADA_Nova_Hollandia_ADJ: "Nowej Holandii"
  COLONIAL_CANADA_Labrador: "Labrador"
