@@ -4081,7 +4081,7 @@
  COLONIAL_EASTERN_AMERICA_Florida_ADJ: "Florydy"
  COLONIAL_EASTERN_AMERICA_Virginia: "Wirginia"
  COLONIAL_EASTERN_AMERICA_Virginia_ADJ: "Wirginii"
- COLONIAL_LOUISIANA_Root_Culture_GetGroupName_Louisiana: "[Root.GetAdjective] Luizjana "
+ COLONIAL_LOUISIANA_Root_Culture_GetGroupName_Louisiana: "Luizjana [Root.GetAdjective]"
  COLONIAL_LOUISIANA_Root_Culture_GetGroupName_Louisiana_ADJ: "[Root.GetAdjective] Luizjany"
  COLONIAL_LOUISIANA_Root_Culture_GetName_Louisiana: "[Root.GetAdjective] Luizjana "
  COLONIAL_LOUISIANA_Root_Culture_GetName_Louisiana_ADJ: "[Root.GetAdjective] Luizjany"
