@@ -4138,7 +4138,7 @@
  COLONIAL_COLOMBIA_New_Granada: "Nowa Grenada"
  COLONIAL_COLOMBIA_New_Granada_ADJ: "Nowej Grenady"
  COLONIAL_COLOMBIA_Root_Culture_GetName_Colombia: "Kolumbia (kol. [Root.GetAdjective])"
- COLONIAL_COLOMBIA_Root_Culture_GetName_Colombia_ADJ: "Kolumbii [Root.GetAdjective]"
+ COLONIAL_COLOMBIA_Root_Culture_GetName_Colombia_ADJ: "Kolumbii (kol. [Root.GetAdjective])"
  COLONIAL_PERU_Root_Culture_GetName_Peru: "Peru [Root.GetAdjective]"
  COLONIAL_PERU_Root_Culture_GetName_Peru_ADJ: "Peru [Root.GetAdjective]"
  COLONIAL_LA_PLATA_Argentine: "Argentyna"
