@@ -4100,7 +4100,7 @@
  COLONIAL_CALIFORNIA_New_Albion: "Nowy Albion"
  COLONIAL_CALIFORNIA_New_Albion_ADJ: "Nowego Albionu"
  COLONIAL_CALIFORNIA_California: "Kalifornia (kol. [Root.GetAdjective])"
- COLONIAL_CALIFORNIA_California_ADJ: "Kalifornii [Root.GetAdjective]"
+ COLONIAL_CALIFORNIA_California_ADJ: "Kalifornii (kol. [Root.GetAdjective])"
  COLONIAL_CALIFORNIA_Oregon: "Oregon"
  COLONIAL_CALIFORNIA_Oregon_ADJ: "Oregonu"
  COLONIAL_CALIFORNIA_Cascadia: "Kaskadia [Root.GetAdjective]"
