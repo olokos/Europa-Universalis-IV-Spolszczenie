@@ -140,7 +140,7 @@
  humiliate_rotw_desc:0 "Celem jest zmuszenie wroga do przyznania si² do pora¿ki i upokorzenia go w oczach œwiata."
  cb_humiliate_rotw:0 "Upokorz rywala"
  cb_humiliate_rotw_desc:0 "Mo¿emy upokarza¾ naszych rywali."
- HUMILIATE_ROTW_WAR_NAME:0 "$ORDER$Upokorzenie paªstwa $SECOND_NAME$ ze strony $FIRST$"
+ HUMILIATE_ROTW_WAR_NAME:0 "$ORDER$Upokorzenie $SECOND$ ze strony $FIRST$"
  NO_PROVS:0 "Nie mo¿na u¿y¾ tego do pozyskania prowincji."
  blockade_ports:0 "Blokuj porty"
  blockade_ports_desc:0 "Twoim celem jest wstrzymanie handlu przeciwników poprzez zablokowanie tylu portów, ile to mo¿liwe."

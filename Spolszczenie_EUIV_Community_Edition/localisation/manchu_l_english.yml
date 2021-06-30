@@ -656,7 +656,7 @@
  CHG_constant_scheming_desc:0 "The constant power struggles between the various princes, local noblemen, cities and tribes in the Chagatai Khanate have produced a nation of highly-adept schemers and politicians. If we can put aside our quarrels and channel this energy towards outsmarting our enemies, it would be a great boon to our people."
  KOR_has_factional_upheaval_tooltip2:0 "Has had the event §YThird Literati Purge§!."
  is_rivalled_by_root:0 "Is rivalled by §Y[Root.GetName]§!."
- have_at_least_7point5_more_discipline:0 "Have at least §G107.5%§! Discipline"
+ have_at_least_7point5_more_discipline:0 "Ma co najmniej §G107.5%§! dyscypliny"
  TOTAL_OWN_AND_NON_TRIBUTARIES_DEVELOPMENT_AT_LEAST:0 "Total own and non-tributary subject development is at least $VAL|Y$ (Currently $CURRENT|0Y$).\n"
  TOTAL_OWN_AND_NON_TRIBUTARIES_DEVELOPMENT_LESS_THAN:0 "Total own and non-tributary subject development is less than $VAL|Y$ (Currently $CURRENT|0Y$).\n"
  new_mandate_holder:0 "New Imperial Dynasty"
