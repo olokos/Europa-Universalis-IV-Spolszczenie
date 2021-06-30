@@ -160,6 +160,15 @@
  ## ą/ego
  string_AEgoDat_fem: "ą"
  string_AEgoDat_mal: "ego"
+ ## pierszym/pierwszą
+ string_female_AYm: "ą"
+ string_man_AYm: "ym"
+ ## na/ien
+ string_NaIen_fem: "na"
+ string_NaIen_mal: "ien"
+ ## na/ien
+ daughter_gen: "córki"
+ son_gen: "syna"
 ##Klasy społeczne
 #mała
  string_estate_brahmins: "bramini" #Bramini MM

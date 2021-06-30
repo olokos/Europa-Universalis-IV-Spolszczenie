@@ -34,6 +34,21 @@ defined_text = {
 	}
 }
 
+## Dodanie żeńskiej końcówki -ą lub męskiej -ym
+defined_text = {
+	name = GetAYm
+	random = no
+	text = {
+		localisation_key = string_female_AYm
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_man_AYm
+	}
+}
+
 
 defined_text = {
 	name = GetANounAdvAdm
@@ -412,5 +427,35 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_AEgoDat_mal
+	}
+}
+
+## na/ien
+defined_text = {
+	name = GetNaIen
+	random = no
+	text = {
+		localisation_key = string_NaIen_fem
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_NaIen_mal
+	}
+}
+
+## na/ien
+defined_text = {
+	name = GetDaughterSon_gen
+	random = no
+	text = {
+		localisation_key = daughter_gen
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = son_gen
 	}
 }
