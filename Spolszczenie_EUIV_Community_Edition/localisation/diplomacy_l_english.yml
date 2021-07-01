@@ -270,7 +270,7 @@
  JOIN_COALITIONDESC:0 "Do³¹cz do koalicji przeciwko nim"
  JOIN_COALITIONDESC2:0 "Do³¹cz do koalicji przeciwko paªstwu $WITH$"
  FORMCOALITIONTITLE:0 "Utwórz koalicj² przeciwko"
- FORMJOINCOALITIONTITLE:0 "Utwórz/Do³¹cz do Koalicji Przeciwko"
+ FORMJOINCOALITIONTITLE:0 "Utwórz/Do³¹cz do koalicji przeciwko"
  FORMCOALITIONDESC:0 "Utwórz koalicj² przeciwko nim"
  FORMCOALITIONDESC2:0 "Utwórz koalicj² przeciwko paªstwu $WITH$"
  FORM_COALITION_AGAINST:0 "Czy chcesz utworzy¾ koalicj² przeciwko paªstwu §Y$WHO$§!? Jeœli któryœ z cz³onków koalicji rozpocznie z nim wojn², wszyscy pozostali cz³onkowie zostan¹ wezwani do wzi²cia w niej udzia³u."

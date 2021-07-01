@@ -4562,7 +4562,7 @@
  START_CANAL_CONSTRUCTION:0 "Rozpoczyna budow² kana³u w prowincji $WHERE$."
  HAS_CANAL:0 "$WHO$ dysponuje kana³em."
  HAS_CANAL_DONT:0 "$WHO$ nie dysponuje kana³em."
- MACRO_BUILDR_INCL_SUBJ:0 "Z uwzgl. poddanych"
+ MACRO_BUILDR_INCL_SUBJ:0 "Uwzgl²dnij poddanych"
  MACRO_BUILDR_INCL_TERRITORIES:0 "Uwzgl²dnij terytoria"
  SELECT_RIVAL_TITLE:0 "Wybierz rywala"
  CONFIRMADDRIVAL:0 "ZatwierdŸ rywala"
