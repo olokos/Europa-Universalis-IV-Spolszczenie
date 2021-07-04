@@ -1,6 +1,7 @@
 defined_text = {
 	name = GetAdmEmployed
-
+	random = no
+	
 	text = {
 		localisation_key = string_philosopher_male
 		trigger = {
@@ -89,6 +90,7 @@ defined_text = {
 
 defined_text = {
 	name = GetDipEmployed
+	random = no
 	text = {
 		localisation_key = string_statesman_male
 		trigger = {
@@ -177,6 +179,7 @@ defined_text = {
 
 defined_text = {
 	name = GetMilEmployed
+	random = no
 	text = {
 		localisation_key = string_army_reformer_male
 		trigger = {
@@ -267,6 +270,7 @@ defined_text = {
 
 defined_text = {
 	name = GetAdmEmployed_acc
+	random = no
 
 	text = {
 		localisation_key = string_philosopher_male_acc
@@ -356,6 +360,7 @@ defined_text = {
 
 defined_text = {
 	name = GetDipEmployed_acc
+	random = no
 	text = {
 		localisation_key = string_statesman_male_acc
 		trigger = {
@@ -444,6 +449,7 @@ defined_text = {
 
 defined_text = {
 	name = GetMilEmployed_acc
+	random = no
 	text = {
 		localisation_key = string_army_reformer_male_acc
 		trigger = {
@@ -535,6 +541,7 @@ defined_text = {
 
 defined_text = {
 	name = GetAdmEmployed_gen
+	random = no
 
 	text = {
 		localisation_key = string_philosopher_male_gen
@@ -624,6 +631,7 @@ defined_text = {
 
 defined_text = {
 	name = GetDipEmployed_gen
+	random = no
 	text = {
 		localisation_key = string_statesman_male_gen
 		trigger = {
@@ -712,6 +720,7 @@ defined_text = {
 
 defined_text = {
 	name = GetMilEmployed_gen
+	random = no
 	text = {
 		localisation_key = string_army_reformer_male_gen
 		trigger = {
@@ -800,6 +809,7 @@ defined_text = {
 
 defined_text = {
 	name = GetAdmAdvNounKa
+	random = no
 	text = {
 		localisation_key = string_female_ka
 		trigger = {
@@ -826,6 +836,157 @@ defined_text = {
 				employed_advisor = { type = master_of_mint is_male = yes }
 				employed_advisor = { type = inquisitor is_male = yes }
 			}
+		}
+	}
+}
+
+
+defined_text = {
+	name = GetEventAdvisorANoun
+	random = no
+	text = {
+		localisation_key = string_event_advisor_anoun_a
+		trigger = {
+			has_country_flag = advisor_events_adm
+		}
+	}
+	
+	text = {
+		localisation_key = string_event_advisor_anoun_d
+		trigger = {
+			has_country_flag = advisor_events_dip
+		}
+	}
+	
+	text = {
+		localisation_key = string_event_advisor_anoun_m
+		trigger = {
+			has_country_flag = advisor_events_mil
+		}
+	}
+}
+
+defined_text = {
+	name = GetEventAdvisorTitle_CL
+	random = no
+	text = {
+		localisation_key = string_event_advisor_title_a
+		trigger = {
+			has_country_flag = advisor_events_adm
+		}
+	}
+	
+	text = {
+		localisation_key = string_event_advisor_title_d
+		trigger = {
+			has_country_flag = advisor_events_dip
+		}
+	}
+	
+	text = {
+		localisation_key = string_event_advisor_title_m
+		trigger = {
+			has_country_flag = advisor_events_mil
+		}
+	}
+}
+
+defined_text = {
+	name = GetEventAdvisorAY
+	random = no
+	text = {
+		localisation_key = string_event_advisor_ay_a
+		trigger = {
+			has_country_flag = advisor_events_adm
+		}
+	}
+	
+	text = {
+		localisation_key = string_event_advisor_ay_d
+		trigger = {
+			has_country_flag = advisor_events_dip
+		}
+	}
+	
+	text = {
+		localisation_key = string_event_advisor_ay_m
+		trigger = {
+			has_country_flag = advisor_events_mil
+		}
+	}
+}
+
+defined_text = {
+	name = GetEventAdvisor_acc
+	random = no
+	text = {
+		localisation_key = string_event_advisor_acc_a
+		trigger = {
+			has_country_flag = advisor_events_adm
+		}
+	}
+	
+	text = {
+		localisation_key = string_event_advisor_acc_d
+		trigger = {
+			has_country_flag = advisor_events_dip
+		}
+	}
+	
+	text = {
+		localisation_key = string_event_advisor_acc_m
+		trigger = {
+			has_country_flag = advisor_events_mil
+		}
+	}
+}
+
+defined_text = {
+	name = GetEventAdvisor_gen
+	random = no
+	text = {
+		localisation_key = string_event_advisor_gen_a
+		trigger = {
+			has_country_flag = advisor_events_adm
+		}
+	}
+	
+	text = {
+		localisation_key = string_event_advisor_gen_d
+		trigger = {
+			has_country_flag = advisor_events_dip
+		}
+	}
+	
+	text = {
+		localisation_key = string_event_advisor_gen_m
+		trigger = {
+			has_country_flag = advisor_events_mil
+		}
+	}
+}
+
+defined_text = {
+	name = GetEventAdvisorHerHim_dat
+	random = no
+	text = {
+		localisation_key = string_event_advisor_herhim_dat_a
+		trigger = {
+			has_country_flag = advisor_events_adm
+		}
+	}
+	
+	text = {
+		localisation_key = string_event_advisor_herhim_dat_d
+		trigger = {
+			has_country_flag = advisor_events_dip
+		}
+	}
+	
+	text = {
+		localisation_key = string_event_advisor_herhim_dat_m
+		trigger = {
+			has_country_flag = advisor_events_mil
 		}
 	}
 }

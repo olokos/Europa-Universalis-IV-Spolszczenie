@@ -792,6 +792,33 @@
  string_fortification_expert_fem_gen: "Fortyfikatorki" #
  string_grand_captain_male_gen: "Wielkiego kapitana" #Wielki kapitan
  string_grand_captain_fem_gen: "Wielkiej kapitanki" #
+ ## ka/-
+ string_female_ka: "ka"
+ ##GetEventAdvisor
+ ##ANnoun
+ string_event_advisor_anoun_a: "[This.GetANounAdvAdm]"
+ string_event_advisor_anoun_d: "[This.GetANounAdvDip]"
+ string_event_advisor_anoun_m: "[This.GetANounAdvMil]"
+ ##Title
+ string_event_advisor_title_a: "[This.GetAdmEmployed]"
+ string_event_advisor_title_d: "[This.GetDipEmployed]"
+ string_event_advisor_title_m: "[This.GetMilEmployed]"
+ ##AY
+ string_event_advisor_ay_a: "[This.GetAYAdvAdm]"
+ string_event_advisor_ay_d: "[This.GetAYAdvDip]"
+ string_event_advisor_ay_m: "[This.GetAYAdvMil]"
+ ##Gen
+ string_event_advisor_gen_a: "[This.GetAdmEmployed_gen]"
+ string_event_advisor_gen_d: "[This.GetDipEmployed_gen]"
+ string_event_advisor_gen_m: "[This.GetMilEmployed_gen]"
+ ##Acc
+ string_event_advisor_acc_a: "[This.GetAdmEmployed_acc]"
+ string_event_advisor_acc_d: "[This.GetDipEmployed_acc]"
+ string_event_advisor_acc_m: "[This.GetMilEmployed_acc]"
+ ##HerHim_dat
+ string_event_advisor_herhim_dat_a: "[This.GetAdvAdmHerHim_dat]"
+ string_event_advisor_herhim_dat_d: "[This.GetAdvDipHerHim_dat]"
+ string_event_advisor_herhim_dat_m: "[This.GetAdvMilHerHim_dat]"
  ## Manufaktury dopełniacz
  string_building_wharf_gen: "Wytwórni wyposażenia okrętowego" #Wytwórnia wyposażenia okrętowego
  string_building_weapons_gen: "Wytwórni broni" #Wytwórnia broni
@@ -801,8 +828,6 @@
  string_building_farm_estate_gen: "Folwarku" #Folwark
  string_building_mills_gen: "Młynu" #Młyn
  string_building_furnace_gen: "Pieca" #Piec
- ## ka/-
- string_female_ka: "ka"
  ##odmiana nowy dla manufaktur
  string_new_fem: "nowej"
  string_new_male: "nowego"
