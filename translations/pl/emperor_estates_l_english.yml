@@ -805,7 +805,7 @@
  estate_nomadic_tribes_develop_x_desc: "[Root.GetTribesName_CL_Cap] żądają, abyśmy zainwestowali w dobrobyt ich ziem w prowincji [agenda_province.GetName]."
  estate_cossacks_develop_x_desc: "[Root.GetCossacksName_CL_Cap] żądają, abyśmy zainwestowali w dobrobyt ich ziem w prowincji [agenda_province.GetName]."
  estate_brahmins_hire_advisor_desc: "[Root.GetBrahminsName_CL_Cap] chcą, aby [Root.Monarch.GetTitle] zatrudnił[Root.Monarch.GetANoun] nowego doradcę administracyjnego."
- estate_brahmins_fire_advisor_desc: "[Root.Adm_Advisor.GetAdv_Adm_Title] [Root.Adm_Advisor.GetName] obraził[Root.Adm_Advisor.GetAdv_Adm_ANoun] klasę [Root.GetBrahminsName_gen]. Żądają, abyśmy zwolnili [Root.Adm_Advisor.GetHerHim]!"
+ estate_brahmins_fire_advisor_desc: "[Root.Adm_Advisor.GetAdv_Adm_Title] [Root.Adm_Advisor.GetName] obraził[Root.GetAdv_Adm_ANoun] klasę [Root.GetBrahminsName_gen]. Żądają, abyśmy zwolnili [Root.Adm_Advisor.GetHerHim]!"
  estate_brahmins_convert_province_x_desc: "[Root.GetBrahminsName_CL_Cap] są zaniepokojeni ciągłą obecnością niewierzących w naszym narodzie. Żądają, abyśmy ich wykorzenili, zaczynając od osób mieszkających w prowincji [agenda_province.GetName]!"
  estate_brahmins_stop_converting_province_x_desc: "[Root.GetBrahminsName_CL_Cap] są zbulwersowani naszymi wysiłkami zmierzającymi do nawrócenia ich wyznawców na [Root.Religion.GetName]. Żądają, abyśmy natychmiast odwołali naszego misjonarza z prowincji [agenda_province.GetName]!"
  estate_brahmins_reduce_war_exhaustion_desc: "[Root.GetBrahminsName_CL_Cap] narzekają na cierpienia spowodowane wieloma wojnami [Root.GetGovNameGen] [Root.GetAdjective]. Błagają nas, abyśmy pozwolili narodowi wyzdrowieć przed podjęciem dalszych podbojów."
