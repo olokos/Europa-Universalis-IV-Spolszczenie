@@ -698,7 +698,7 @@
  estate_jains_fire_advisor: "Zwolnij naszego doradcę dyplomatycznego"
  fire_adm_advisor_tooltip: "[Root.GetAdv_Adm_Title] został[Root.GetAdv_Adm_ANoun] zwolnion[Root.GetAdv_Adm_AY]."
  fire_dip_advisor_tooltip: "[Root.GetAdv_Dip_Title] został[Root.GetAdv_Dip_ANoun] zwolnion[Root.GetAdv_Dip_AY]."
- fire_mil_advisor_tooltip: "[Root.GetMilEmployed] został[Root.GetAdv_Mil_ANoun] zwolnion[Root.GetAdv_Mil_AY]."
+ fire_mil_advisor_tooltip: "[Root.GetAdv_Mil_Title] został[Root.GetAdv_Mil_ANoun] zwolnion[Root.GetAdv_Mil_AY]."
  no_penalties_annexing_tt: "Kraj §Y[Root.GetName]§! nie otrzyma kary do reputacji dyplomatycznej za aneksję państwa §Y[agenda_country.GetName]§!."
  sending_condottieri_to_them: "§Y[Root.GetName]§! wynajmuje kondotierów państwu §YCountry§!."
  is_root_religion: "Wyznaje religię §Y[Root.Religion.GetName]§!."
