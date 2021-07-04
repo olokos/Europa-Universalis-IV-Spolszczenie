@@ -5002,7 +5002,7 @@
  opinion_great_feast: "Wielka uczta"
  opinion_disappointing_feast: "Rozczarowująca uczta"
  totemism_flavor.14.t: "Skradziona rura"
- totemism_flavor.14.d: "Grupa dzieci zachowywała się dziś rano tak głośno, że nawet [Root.Mil_Advisor.GetName] został[Root.GetAdv_Mil_ANoun] obudzon[Root.GetAYAdvMil], podczas gdy [Root.Mil_Advisor.GetSheHe] spokojnie spał[Root.GetAdv_Mil_ANoun]. Kiedy [Root.Mil_Advisor.GetSheHe] podszedł[Root.GetAdv_Mil_ANoun] do nich, by zobaczyć, co robią, dzieci zaczęły się śmiać i natychmiast uciekły, jedno z nich wyraźnie niosło coś w rękach. Kiedy [Root.Mil_Advisor.GetName] skupił[Root.GetAdv_Mil_ANoun]. się na tym, [Root.Mil_Advisor.GetSheHe] odkrył[Root.GetAdv_Mil_ANoun]., że była to cenna ceremonialna fajka naszego plemienia.\n\"Natychmiast powstrzymajcie te złośliwe demony!\""
+ totemism_flavor.14.d: "Grupa dzieci zachowywała się dziś rano tak głośno, że nawet [Root.Mil_Advisor.GetName] został[Root.GetAdv_Mil_ANoun] obudzon[Root.GetAdv_Mil_AY], podczas gdy [Root.Mil_Advisor.GetSheHe] spokojnie spał[Root.GetAdv_Mil_ANoun]. Kiedy [Root.Mil_Advisor.GetSheHe] podszedł[Root.GetAdv_Mil_ANoun] do nich, by zobaczyć, co robią, dzieci zaczęły się śmiać i natychmiast uciekły, jedno z nich wyraźnie niosło coś w rękach. Kiedy [Root.Mil_Advisor.GetName] skupił[Root.GetAdv_Mil_ANoun]. się na tym, [Root.Mil_Advisor.GetSheHe] odkrył[Root.GetAdv_Mil_ANoun]., że była to cenna ceremonialna fajka naszego plemienia.\n\"Natychmiast powstrzymajcie te złośliwe demony!\""
  totemism_flavor.14.a: "Muszą zrozumieć znaczenie tego, co zrobili."
  totemism_flavor.14.b: "To tylko dzieci."
  totemism_flavor.15.t: "Lekcja na świeżym powietrzu"
