@@ -971,7 +971,7 @@
  estate_nomadic_tribes_increase_stability_desc: "Dla [Root.GetTribesName_gen] najważniejsza jest stabilność [Root.GetGovNameGen] [Root.GetAdjective]. Nalegają, że musimy naprawić państwową administracje, aby nasz naród nie był zdestabilizowany."
  estate_nomadic_tribes_despoil_x_desc: "[Root.GetTribesName_CL_Cap] chcą łupów. Żądają, abyśmy pozwolili im złupić obszar [agenda_province.GetAreaName] i przejąć jego bogactwa dla siebie."
  estate_dhimmi_hire_advisor_desc: "[Root.GetDhimmiName_CL_Cap] chcą, aby [Root.Monarch.GetTitle] zatrudnił[Root.Monarch.GetANoun] nowego doradcę administracyjnego."
- estate_dhimmi_fire_advisor_desc: "[Root.Adm_Advisor.GetAdmEmployed] [Root.Adm_Advisor.GetName] obraził[Root.Adm_Advisor.GetANounAdvAdm] klasę [Root.GetDhimmiName_gen]. Żądają, abyśmy zwolnili [Root.Adm_Advisor.GetHerHim]!"
+ estate_dhimmi_fire_advisor_desc: "[Root.Adm_Advisor.GetAdmEmployed] [Root.Adm_Advisor.GetName] obraził[Root.Adm_Advisor.GetAdv_Adm_ANoun] klasę [Root.GetDhimmiName_gen]. Żądają, abyśmy zwolnili [Root.Adm_Advisor.GetHerHim]!"
  estate_dhimmi_develop_x_desc: "[Root.GetDhimmiName_CL_Cap] żądają, abyśmy zainwestowali w dobrobyt ich ziem w prowincji [agenda_province.GetName]."
  estate_dhimmi_build_temple_in_y_desc: "[Root.GetDhimmiName_CL_Cap] wzywają nas do zbudowania wspaniałego domu modlitwy w prowincji [agenda_province.GetName], aby ich bracia mieli odpowiednie miejsce do gromadzenia się."
  estate_dhimmi_build_university_in_y_desc: "[Root.GetDhimmiName_CL_Cap] proszą nas o sfinansowanie utworzenia nowego uniwersytetu w prowincji [agenda_province.GetName], aby ich zwolennicy mogli otrzymać najlepsze wykształcenie, jakie mogą zaoferować ich intelektualiści."
