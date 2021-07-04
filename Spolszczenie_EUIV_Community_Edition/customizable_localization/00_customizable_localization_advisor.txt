@@ -1,5 +1,5 @@
 defined_text = {
-	name = GetAdmEmployed
+	name = GetAdv_Adm_Title
 	random = no
 	
 	text = {
@@ -89,7 +89,7 @@ defined_text = {
 }
 
 defined_text = {
-	name = GetDipEmployed
+	name = GetAdv_Dip_Title
 	random = no
 	text = {
 		localisation_key = string_statesman_male
@@ -178,7 +178,7 @@ defined_text = {
 }
 
 defined_text = {
-	name = GetMilEmployed
+	name = GetAdv_Mil_Title
 	random = no
 	text = {
 		localisation_key = string_army_reformer_male
@@ -269,7 +269,7 @@ defined_text = {
 ##Accusativ
 
 defined_text = {
-	name = GetAdmEmployed_acc
+	name = GetAdv_Adm_acc
 	random = no
 
 	text = {
@@ -359,7 +359,7 @@ defined_text = {
 }
 
 defined_text = {
-	name = GetDipEmployed_acc
+	name = GetAdv_Dip_acc
 	random = no
 	text = {
 		localisation_key = string_statesman_male_acc
@@ -448,7 +448,7 @@ defined_text = {
 }
 
 defined_text = {
-	name = GetMilEmployed_acc
+	name = GetAdv_Mil_acc
 	random = no
 	text = {
 		localisation_key = string_army_reformer_male_acc
@@ -540,7 +540,7 @@ defined_text = {
 ##Genitive
 
 defined_text = {
-	name = GetAdmEmployed_gen
+	name = GetAdv_Adm_gen
 	random = no
 
 	text = {
@@ -630,7 +630,7 @@ defined_text = {
 }
 
 defined_text = {
-	name = GetDipEmployed_gen
+	name = GetAdv_Dip_gen
 	random = no
 	text = {
 		localisation_key = string_statesman_male_gen
@@ -719,7 +719,7 @@ defined_text = {
 }
 
 defined_text = {
-	name = GetMilEmployed_gen
+	name = GetAdv_Mil_gen
 	random = no
 	text = {
 		localisation_key = string_army_reformer_male_gen
@@ -808,7 +808,7 @@ defined_text = {
 }
 
 defined_text = {
-	name = GetAdmAdvNounKa
+	name = GetAdv_Adm_KaNoun
 	random = no
 	text = {
 		localisation_key = string_female_ka
@@ -842,7 +842,7 @@ defined_text = {
 
 
 defined_text = {
-	name = GetEventAdvisorANoun
+	name = GetEventAdvisor_ANoun
 	random = no
 	text = {
 		localisation_key = string_event_advisor_anoun_a
@@ -892,7 +892,7 @@ defined_text = {
 }
 
 defined_text = {
-	name = GetEventAdvisorAY
+	name = GetEventAdviso_rAY
 	random = no
 	text = {
 		localisation_key = string_event_advisor_ay_a
@@ -967,7 +967,7 @@ defined_text = {
 }
 
 defined_text = {
-	name = GetEventAdvisorHerHim_dat
+	name = GetEventAdvisor_HerHim_dat
 	random = no
 	text = {
 		localisation_key = string_event_advisor_herhim_dat_a
@@ -985,6 +985,56 @@ defined_text = {
 	
 	text = {
 		localisation_key = string_event_advisor_herhim_dat_m
+		trigger = {
+			has_country_flag = advisor_events_mil
+		}
+	}
+}
+
+defined_text = {
+	name = GetEventAdvisor_CzNoun
+	random = no
+	text = {
+		localisation_key = string_event_advisor_cznoun_a
+		trigger = {
+			has_country_flag = advisor_events_adm
+		}
+	}
+	
+	text = {
+		localisation_key = string_event_advisor_cznoun_d
+		trigger = {
+			has_country_flag = advisor_events_dip
+		}
+	}
+	
+	text = {
+		localisation_key = string_event_advisor_cznoun_m
+		trigger = {
+			has_country_flag = advisor_events_mil
+		}
+	}
+}
+
+defined_text = {
+	name = GetEventAdvisor_AIem
+	random = no
+	text = {
+		localisation_key = string_event_advisor_AIem_a
+		trigger = {
+			has_country_flag = advisor_events_adm
+		}
+	}
+	
+	text = {
+		localisation_key = string_event_advisor_AIem_d
+		trigger = {
+			has_country_flag = advisor_events_dip
+		}
+	}
+	
+	text = {
+		localisation_key = string_event_advisor_AIem_m
 		trigger = {
 			has_country_flag = advisor_events_mil
 		}

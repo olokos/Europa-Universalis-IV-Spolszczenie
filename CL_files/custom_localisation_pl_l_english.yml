@@ -794,31 +794,44 @@
  string_grand_captain_fem_gen: "Wielkiej kapitanki" #
  ## ka/-
  string_female_ka: "ka"
+ ## cz/-
+ string_female_cz: "cz"
+ ##ą/iem
+ string_female_aa: "ą"
+ string_male_iem: "iem"
  ##GetEventAdvisor
  ##ANnoun
- string_event_advisor_anoun_a: "[This.GetANounAdvAdm]"
- string_event_advisor_anoun_d: "[This.GetANounAdvDip]"
- string_event_advisor_anoun_m: "[This.GetANounAdvMil]"
+ string_event_advisor_anoun_a: "[This.GetAdv_Adm_ANoun]"
+ string_event_advisor_anoun_d: "[This.GetAdv_Dip_ANoun]"
+ string_event_advisor_anoun_m: "[This.GetAdv_Mil_ANoun]"
  ##Title
- string_event_advisor_title_a: "[This.GetAdmEmployed]"
- string_event_advisor_title_d: "[This.GetDipEmployed]"
- string_event_advisor_title_m: "[This.GetMilEmployed]"
+ string_event_advisor_title_a: "[This.GetAdv_Adm_Title]"
+ string_event_advisor_title_d: "[This.GetAdv_Dip_Title]"
+ string_event_advisor_title_m: "[This.GetAdv_Mil_Title]"
  ##AY
- string_event_advisor_ay_a: "[This.GetAYAdvAdm]"
- string_event_advisor_ay_d: "[This.GetAYAdvDip]"
- string_event_advisor_ay_m: "[This.GetAYAdvMil]"
+ string_event_advisor_ay_a: "[This.GetAdv_Adm_AY]"
+ string_event_advisor_ay_d: "[This.GetAdv_Dip_AY]"
+ string_event_advisor_ay_m: "[This.GetAdv_Mil_AY]"
  ##Gen
- string_event_advisor_gen_a: "[This.GetAdmEmployed_gen]"
- string_event_advisor_gen_d: "[This.GetDipEmployed_gen]"
- string_event_advisor_gen_m: "[This.GetMilEmployed_gen]"
+ string_event_advisor_gen_a: "[This.GetAdv_Adm_gen]"
+ string_event_advisor_gen_d: "[This.GetAdv_Dip_gen]"
+ string_event_advisor_gen_m: "[This.GetAdv_Mil_gen]"
  ##Acc
- string_event_advisor_acc_a: "[This.GetAdmEmployed_acc]"
- string_event_advisor_acc_d: "[This.GetDipEmployed_acc]"
- string_event_advisor_acc_m: "[This.GetMilEmployed_acc]"
+ string_event_advisor_acc_a: "[This.GetAdv_Adm_acc]"
+ string_event_advisor_acc_d: "[This.GetAdv_Dip_acc]"
+ string_event_advisor_acc_m: "[This.GetAdv_Mil_acc]"
  ##HerHim_dat
- string_event_advisor_herhim_dat_a: "[This.GetAdvAdmHerHim_dat]"
- string_event_advisor_herhim_dat_d: "[This.GetAdvDipHerHim_dat]"
- string_event_advisor_herhim_dat_m: "[This.GetAdvMilHerHim_dat]"
+ string_event_advisor_herhim_dat_a: "[This.GetAdv_Adm_HerHim_dat]"
+ string_event_advisor_herhim_dat_d: "[This.GetAdv_Dip_HerHim_dat]"
+ string_event_advisor_herhim_dat_m: "[This.GetAdv_Mil_HerHim_dat]"
+ ##CzNoun
+ string_event_advisor_cznoun_a: "[This.GetAdv_Adm_CzNoun]"
+ string_event_advisor_cznoun_d: "[This.GetAdv_Dip_CzNoun]"
+ string_event_advisor_cznoun_m: "[This.GetAdv_Mil_CzNoun]"
+ ##AIem
+ string_event_advisor_AIem_a: "[This.GetAdv_Adm_AIem]"
+ string_event_advisor_AIem_d: "[This.GetAdv_Dip_AIem]"
+ string_event_advisor_AIem_m: "[This.GetAdv_Mil_AIem]"
  ## Manufaktury dopełniacz
  string_building_wharf_gen: "Wytwórni wyposażenia okrętowego" #Wytwórnia wyposażenia okrętowego
  string_building_weapons_gen: "Wytwórni broni" #Wytwórnia broni
