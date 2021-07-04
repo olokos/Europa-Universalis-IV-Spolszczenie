@@ -980,7 +980,7 @@
  estate_dhimmi_three_privileges_desc: "Jako mniejszość w państwie [Root.GetName], [Root.GetDhimmiName_CL] czują się pokrzywdzeni w wielu aspektach życia. Proszą, abyśmy zapewnili ich o ich statusie, przyznając im dalsze przywileje."
  estate_dhimmi_relations_with_X_desc: "[Root.GetDhimmiName_CL_Cap] widzą państwo [agenda_country.GetName] jako potencjalnego cennego sojusznika. Zalecają, abyśmy szukali z nimi bliższych więzi."
  estate_jains_hire_advisor_desc: "[Root.GetJainsName_CL_Cap] chcą, aby [Root.Monarch.GetTitle] zatrudnił[Root.Monarch.GetANoun] nowego doradcę dyplomatycznego."
- estate_jains_fire_advisor_desc: "[Root.Dip_Advisor.GetAdmEmployed] [Root.Dip_Advisor.GetName] obraził[Root.Dip_Advisor.GetAdv_Dip_ANoun] klasę [Root.GetJainsName_gen]. Żądają, abyśmy zwolnili [Root.Adm_Advisor.GetHerHim]!"
+ estate_jains_fire_advisor_desc: "[Root.Dip_Advisor.GetAdv_Adm_Title] [Root.Dip_Advisor.GetName] obraził[Root.Dip_Advisor.GetAdv_Dip_ANoun] klasę [Root.GetJainsName_gen]. Żądają, abyśmy zwolnili [Root.Adm_Advisor.GetHerHim]!"
  estate_jains_pay_off_loans_desc: "[Root.GetJainsName_CL_Cap] sa zaniepokojeni stanem finansów naszego narodu. Naciskają na nas, abyśmy ograniczyli wydatki i zmniejszyli skalę naszych długów."
  estate_jains_restore_republican_tradition_desc: "[Root.GetJainsName_CL_Cap] są zaniepokojeni stanem naszej Republiki. Wzywają do działań na rzecz wzmocnienia naszych instytucji i przywrócenia wiary społeczeństwa w demokrację."
  estate_jains_restore_currency_desc: "[Root.GetJainsName_CL_Cap] są zaniepokojeni inflacją, której doświadcza [Root.GetName]. Wzywają do ograniczenia jej, zanim wymknie się spod kontroli!"
