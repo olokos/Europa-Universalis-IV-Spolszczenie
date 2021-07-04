@@ -261,7 +261,7 @@
  corruption_event.6.a: "Przeprowadzić dochodzenie i natychmiast zastąpić winnych."
  corruption_event.6.b: "Niech doczekają emerytury; w przeszłości dobrze nam służyli."
  corruption_event.7.t: "Skorumpowany doradca"
- corruption_event.7.d: "Korupcja może toczyć państwo [Root.GetName], ale staramy się dopilnować, by przynajmniej ludziom, którymi otacza się [Root.Monarch.GetTitle], można było ufać. I najwyraźniej ponosimy klęskę, jako że jeden z doradców, [Root.GetEventAdvisorName], których słucha [Root.Monarch.GetName], został[Root.GetEventAdvisor_ANoun] przyłapan[Root.GetEventAdvisor_AY] na braniu dużych łapówek od ludzi o dużych wpływach w naszym kraju za doradzanie rządowi w sposób zgodny z ich interesami. Jak mamy zareagować na taką zdradę?"
+ corruption_event.7.d: "Korupcja może toczyć państwo [Root.GetName], ale staramy się dopilnować, by przynajmniej ludziom, którymi otacza się [Root.Monarch.GetTitle], można było ufać. I najwyraźniej ponosimy klęskę, jako że jeden z doradców, których słucha [Root.Monarch.GetName], [Root.GetEventAdvisorName], został[Root.GetEventAdvisor_ANoun] przyłapan[Root.GetEventAdvisor_AY] na braniu dużych łapówek od ludzi o dużych wpływach w naszym kraju za doradzanie rządowi w sposób zgodny z ich interesami. Jak mamy zareagować na taką zdradę?"
  corruption_event.7.a: "Publicznie ujawnij jego kłamstwa i przygotuj egzekucję."
  corruption_event.7.b: "Zorganizuj cichą emeryturę w areszcie domowym."
  corruption_event.7.c: "Wystosuj upomnienie. Stronnicze rady to wciąż rady."
