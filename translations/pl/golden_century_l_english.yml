@@ -345,7 +345,7 @@
  order_events.4.t: "Oskarżenie o sympatyzowanie z Fraticelli"
  order_events.4.d: "Wszyscy naśladowcy świętego Franciszka prowadzą życie w ubóstwie i pokorze, ale niektórzy posuwają się dalej w odrzucaniu bogactwa. Grupa franciszkanów z [Root.GetAdjective] przyjęła skrajne stanowisko, kwestionując pobożność zarówno wyższych urzędników kościelnych, jak i innych zakonów posiadających majątek. Wskazują oni na życie Chrystusa i apostołów jako wolne od bogactwa obecnego kościoła.\n\n[Root.GetAdv_Adm_Title] [Root.Adm_Advisor.GetName] z zakonu Dominikanów wskazuje, że te poglądy są niebezpiecznie bliskie Fraticelli, heretykom ściganym przez inkwizycję. [Root.Adm_Advisor.GetSheHeCap] sugeruje, by postawić tych tak zwanych franciszkanów przed sądem i pozwolić [Root.Adm_Advisor.GetHerHis] zakonowi przejąć ich obowiązki w regionie."
  order_events.4.a: "Wypędzić heretyków i zaprosić inny zakon."
- order_events.4.b: "[Root.Adm_Advisor.GetName] przekroczył[Root.Adm_Advisor.GetAdv_Adm_ANoun] swoje uprawnienia."
+ order_events.4.b: "[Root.Adm_Advisor.GetName] przekroczył[Root.GetAdv_Adm_ANoun] swoje uprawnienia."
  order_events.5.t: "Mediacje między odłamami"
  order_events.5.d: "W przeszłości podejmowano wiele prób zjednoczenia odłamów zakonu franciszkańskiego. Jak dotąd nie powiodły się one, głównie z powodu zbyt dużych różnic w zasadach panujących w poszczególnych odłamach. [PAP.Monarch.GetTitle] [PAP.Monarch.GetName] nie ma takich ambicji, ale wciąż musi zdecydować, czy spróbować skonsolidować odłamy tego bardzo podzielonego zakonu, czy też usankcjonować ich różnice. Ze swoim znaczącym wpływem na papiestwo, [Root.GetName] jest w wyjątkowej pozycji, by wpłynąć na rozwój decyzję."
  order_events.5.a: "Postaraj się zbliżyć odłamy do siebie."
