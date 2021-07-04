@@ -4940,7 +4940,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_BE_MM
+		localisation_key = string_BE_PN
 	}
 }
 

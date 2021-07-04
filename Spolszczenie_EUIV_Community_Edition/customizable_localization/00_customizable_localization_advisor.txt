@@ -1020,21 +1020,71 @@ defined_text = {
 	name = GetEventAdvisor_AIem
 	random = no
 	text = {
-		localisation_key = string_event_advisor_AIem_a
+		localisation_key = string_event_advisor_aiem_a
 		trigger = {
 			has_country_flag = advisor_events_adm
 		}
 	}
 	
 	text = {
-		localisation_key = string_event_advisor_AIem_d
+		localisation_key = string_event_advisor_aiem_d
 		trigger = {
 			has_country_flag = advisor_events_dip
 		}
 	}
 	
 	text = {
-		localisation_key = string_event_advisor_AIem_m
+		localisation_key = string_event_advisor_aiem_m
+		trigger = {
+			has_country_flag = advisor_events_mil
+		}
+	}
+}
+
+defined_text = {
+	name = GetEventAdvisor_AEgo
+	random = no
+	text = {
+		localisation_key = string_event_advisor_aego_a
+		trigger = {
+			has_country_flag = advisor_events_adm
+		}
+	}
+	
+	text = {
+		localisation_key = string_event_advisor_aego_d
+		trigger = {
+			has_country_flag = advisor_events_dip
+		}
+	}
+	
+	text = {
+		localisation_key = string_event_advisor_aego_m
+		trigger = {
+			has_country_flag = advisor_events_mil
+		}
+	}
+}
+
+defined_text = {
+	name = GetEventAdvisor_KNoun
+	random = no
+	text = {
+		localisation_key = string_event_advisor_knoun_a
+		trigger = {
+			has_country_flag = advisor_events_adm
+		}
+	}
+	
+	text = {
+		localisation_key = string_event_advisor_knoun_d
+		trigger = {
+			has_country_flag = advisor_events_dip
+		}
+	}
+	
+	text = {
+		localisation_key = string_event_advisor_knoun_m
 		trigger = {
 			has_country_flag = advisor_events_mil
 		}

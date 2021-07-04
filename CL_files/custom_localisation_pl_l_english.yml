@@ -799,6 +799,10 @@
  ##ą/iem
  string_female_aa: "ą"
  string_male_iem: "iem"
+ ##ą/ego
+ string_male_ego: "ego"
+ ##k/-
+ string_female_k: "k"
  ##GetEventAdvisor
  ##ANnoun
  string_event_advisor_anoun_a: "[This.GetAdv_Adm_ANoun]"
@@ -829,9 +833,17 @@
  string_event_advisor_cznoun_d: "[This.GetAdv_Dip_CzNoun]"
  string_event_advisor_cznoun_m: "[This.GetAdv_Mil_CzNoun]"
  ##AIem
- string_event_advisor_AIem_a: "[This.GetAdv_Adm_AIem]"
- string_event_advisor_AIem_d: "[This.GetAdv_Dip_AIem]"
- string_event_advisor_AIem_m: "[This.GetAdv_Mil_AIem]"
+ string_event_advisor_aiem_a: "[This.GetAdv_Adm_AIem]"
+ string_event_advisor_aiem_d: "[This.GetAdv_Dip_AIem]"
+ string_event_advisor_aiem_m: "[This.GetAdv_Mil_AIem]"
+ ##AIem
+ string_event_advisor_aego_a: "[This.GetAdv_Adm_AEgo]"
+ string_event_advisor_aego_d: "[This.GetAdv_Dip_AEgo]"
+ string_event_advisor_aego_m: "[This.GetAdv_Mil_AEgo]"
+ ##KNoun
+ string_event_advisor_knoun_a: "[This.GetAdv_Adm_KNoun]"
+ string_event_advisor_knoun_d: "[This.GetAdv_Dip_KNoun]"
+ string_event_advisor_knoun_m: "[This.GetAdv_Mil_KNoun]"
  ## Manufaktury dopełniacz
  string_building_wharf_gen: "Wytwórni wyposażenia okrętowego" #Wytwórnia wyposażenia okrętowego
  string_building_weapons_gen: "Wytwórni broni" #Wytwórnia broni
