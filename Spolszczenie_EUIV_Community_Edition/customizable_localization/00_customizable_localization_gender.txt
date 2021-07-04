@@ -52,6 +52,7 @@ defined_text = {
 
 defined_text = {
 	name = GetANounAdvAdm
+	random = no
 	text = {
 		localisation_key = string_female_a
 		trigger = {
@@ -84,6 +85,7 @@ defined_text = {
 
 defined_text = {
 	name = GetANounAdvDip
+	random = no
 	text = {
 		localisation_key = string_female_a
 		trigger = {
@@ -116,6 +118,7 @@ defined_text = {
 
 defined_text = {
 	name = GetANounAdvMil
+	random = no
 	text = {
 		localisation_key = string_female_a
 		trigger = {
@@ -148,6 +151,7 @@ defined_text = {
 
 defined_text = {
 	name = GetAYAdvAdm
+	random = no
 	text = {
 		localisation_key = string_female_a
 		trigger = {
@@ -180,6 +184,7 @@ defined_text = {
 
 defined_text = {
 	name = GetAYAdvDip
+	random = no
 	text = {
 		localisation_key = string_female_a
 		trigger = {
@@ -212,6 +217,7 @@ defined_text = {
 
 defined_text = {
 	name = GetAYAdvMil
+	random = no
 	text = {
 		localisation_key = string_female_a
 		trigger = {
@@ -246,6 +252,7 @@ defined_text = {
 
 defined_text = {
 	name = GetAdvAdmHerHim_dat
+	random = no
 	text = {
 		localisation_key = string_her_dat
 		trigger = {
@@ -278,6 +285,7 @@ defined_text = {
 
 defined_text = {
 	name = GetAdvDipHerHim_dat
+	random = no
 	text = {
 		localisation_key = string_her_dat
 		trigger = {
@@ -310,6 +318,7 @@ defined_text = {
 
 defined_text = {
 	name = GetAdvDipHerHim_dat
+	random = no
 	text = {
 		localisation_key = string_her_dat
 		trigger = {

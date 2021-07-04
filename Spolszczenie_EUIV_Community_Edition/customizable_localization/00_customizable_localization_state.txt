@@ -1,5 +1,6 @@
 defined_text = {
 	name = GetStateForm_ins
+	random = no
 
 	text = {
 		localisation_key = string_crown_ins
@@ -28,6 +29,7 @@ defined_text = {
 
 defined_text = {
 	name = GetStateForm_gen
+	random = no
 
 	text = {
 		localisation_key = string_crown_gen
@@ -73,6 +75,7 @@ defined_text = {
 
 defined_text = {
 	name = GetRulerTitleOrRegencyGen
+	random = no
 
 	text = {
 		localisation_key = string_rule_title_gen
