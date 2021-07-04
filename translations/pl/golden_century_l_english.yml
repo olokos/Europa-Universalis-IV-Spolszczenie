@@ -370,7 +370,7 @@
  order_events.9.a: "Staraj się zyskać przychylność Stolicy Apostolskiej poprzez wspieranie ustalonej doktryny."
  order_events.9.b: "Spróbuj udobruchać jezuitów z [Root.GetAdjective], powtarzając ich argumenty."
  order_events.9.c: "Odmówić opowiedzenia się po którejś ze stron i pozostaw to teologom."
- order_events.9.e: "Poproś [Root.GetAdmEmployed_acc] o radę, aby rozwiązać problem w ugodowy sposób."
+ order_events.9.e: "Poproś [Root.GetAdv_Adm_acc] o radę, aby rozwiązać problem w ugodowy sposób."
  ADD_FLAGSHIP_EFFECT: "Tworzy nowy okręt flagowy typu $TYPE|Y$  nazywający się \"$NAME|Y$\" w prowincji $PROV|Y$."
  ADD_NAMED_SHIP_EFFECT: "Tworzy nowy okręt typu $TYPE|Y$  nazywający się \"$NAME|Y$\" w prowincji $PROV|Y$."
  MODIFIER_GLOBAL_NAVAL_BARRAGE_COST: "Koszt ostrzału morskiego"
