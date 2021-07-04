@@ -675,7 +675,7 @@
  monopoly_privileges.11.b.tooltip: "Otrzymamy możliwość cofnięcia przywileju §YMonopol na niewolników§!."
  estate_nobles_strong_duchies_trigger_tooltip: "Kraj §Y[Root.GetName]§! posiada co najmniej 2 państwa będące jego wasalami lub marchiami."
  estate_brahmins_hire_advisor: "Zatrudnij doradcę administracyjnego"
- estate_brahmins_fire_advisor: "Zwolnij [Root.GetAdmEmployed_acc]"
+ estate_brahmins_fire_advisor: "Zwolnij [Root.GetAdv_Adm_acc]"
  estate_rajput_hire_advisor: "Zatrudnij doradcę wojskowego"
  estate_rajput_fire_advisor: "Zwolnij naszego doradcę militarnego"
  estate_maratha_hire_advisor: "Zatrudnij doradcę wojskowego"
