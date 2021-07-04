@@ -949,7 +949,7 @@
  estate_cossacks_despoil_x_desc: "[Root.GetCossacksName_CL_Cap] chcą łupów. Żądają, abyśmy pozwolili im złupić obszar [agenda_province.GetAreaName] i przejąć jego bogactwa dla siebie."
  estate_cossacks_recruit_more_cossacks_desc: "[Root.GetCossacksName_CL_Cap] pragną większego udziału w chwalebnych wojnach naszego narodu. Naciskają, abyśmy zwerbowali więcej ich krewnych do naszych armii."
  estate_nomadic_tribes_hire_advisor_desc: "[Root.GetTribesName_CL_Cap] chcą, aby [Root.Monarch.GetTitle] zatrudnił[Root.Monarch.GetANoun] nowego doradcę wojskowego."
- estate_nomadic_tribes_fire_advisor_desc: "[Root.Mil_Advisor.GetAdv_Mil_Title] [Root.Mil_Advisor.GetName] obraził[Root.Mil_Advisor.GetAdv_Mil_ANoun] klasę [Root.GetTribesName_gen]. Żądają, abyśmy zwolnili [Root.Mil_Advisor.GetHerHim]!"
+ estate_nomadic_tribes_fire_advisor_desc: "[Root.GetAdv_Mil_Title] [Root.Mil_Advisor.GetName] obraził[Root.GetAdv_Mil_ANoun] klasę [Root.GetTribesName_gen]. Żądają, abyśmy zwolnili [Root.Mil_Advisor.GetHerHim]!"
  estate_nomadic_tribes_raze_a_province_desc: "Wojownicy z [Root.GetTribesName_gen] pragną łupów! Żądają, abyśmy splądrowali naszych wrogów!"
  estate_nomadic_tribes_restore_horde_unity_desc: "[Root.GetTribesName_CL_Cap] opłakują słabość, jaką niosą ze sobą nasze podziały. Wzywają nas do zjednoczenia [Root.GetGovNameGen] wszelkimi niezbędnymi środkami."
  estate_nomadic_tribes_befriend_rival_of_rival_desc: "[Root.GetTribesName_CL_Cap] są zaniepokojeni zagrożeniem ze strony naszych rywali z [rival_country.GetGovNameGen] [rival_country.GetAdjective]. Zalecają, abyśmy zaprzyjaźnili się z ich rywalami, państwem [agenda_country.GetName], abyśmy mogli razem stanąć przeciwko nim."
