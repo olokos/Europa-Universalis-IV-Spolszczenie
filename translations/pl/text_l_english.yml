@@ -1960,7 +1960,7 @@
  alert_army_tradition_high_no_general_instant: "§YMasz Wysoki poziom Tradycji Wojskowej§!"
  alert_army_tradition_high_no_general_delayed: "Tradycja Wojskowa może z czasem ulec zmniejszeniu. Obecnie możesz zwerbować dobrego generała.\n "
  alert_navy_tradition_high_no_admiral_instant: "§YMasz Wysoki poziom Tradycji Morskiej§!"
- alert_navy_tradition_high_no_admiral_delayed: "Tradycja Morska może z czasem ulec zmniejszeniu. Obecnie możesz zwerbować dobrego generała.\n "
+ alert_navy_tradition_high_no_admiral_delayed: "Tradycja Morska może z czasem ulec zmniejszeniu. Obecnie możesz zwerbować dobrego generała."
  incite_troop_desertion: "Doprowadź do dezercji wojsk"
  assassinate_advisor: "Dokonaj zamachu na doradcę"
  incite_against_merchant: "Podżegaj przeciwko kupcom"
