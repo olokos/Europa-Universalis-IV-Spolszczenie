@@ -735,9 +735,4 @@ defined_text = {
 			religion_group = muslim
 		}
 	}
-}eform = steppe_horde
-			}
-			religion_group = muslim
-		}
-	}
 }
