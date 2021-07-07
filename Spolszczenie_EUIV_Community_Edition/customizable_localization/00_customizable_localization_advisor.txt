@@ -811,7 +811,7 @@ defined_text = {
 	name = GetAdv_Adm_KaNoun
 	random = no
 	text = {
-		localisation_key = string_female_ka
+		localisation_key = string_end_ka
 		trigger = {
 			OR = {
 				employed_advisor = { type = philosopher is_female = yes }
@@ -825,7 +825,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_man_empty
+		localisation_key = string_end_ampty
 		trigger = {
 			OR = {
 				employed_advisor = { type = philosopher is_male = yes }

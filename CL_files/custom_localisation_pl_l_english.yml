@@ -138,37 +138,6 @@
  string_protestantism_gen: "Protestantyzmu" #Protestantyzm
  string_anglicanism_gen: "Anglikanizmu" #Anglikanizm
  string_catholicism_gen: "Katolicyzmu" #Katolicyzm
- ###### koªcówki odmiany dla płci
- string_female_a: "a"
- string_man_empty: ""
- string_man_y: "y"
- ## jej/jemu
- string_her_dat: "jej"
- string_him_dat: "jemu"
- ## nią/nim
- string_her_ins: "nią"
- string_him_ins: "nim"
- ## ęła/ął
- string_EndPast_fem: "ęła"
- string_EndPast_mal: "ął"
- ## Odszedł/Odeszła
- string_Gone_fem: "Odeszła"
- string_Gone_mal: "Odszedł"
- ## władcę/władczynię
- string_RulDat_fem: "władczynię"
- string_RulDat_mal: "władcę"
- ## ą/ego
- string_AEgoDat_fem: "ą"
- string_AEgoDat_mal: "ego"
- ## pierszym/pierwszą
- string_female_AYm: "ą"
- string_man_AYm: "ym"
- ## na/ien
- string_NaIen_fem: "na"
- string_NaIen_mal: "ien"
- ## na/ien
- daughter_gen: "córki"
- son_gen: "syna"
 ##Klasy społeczne
 #mała
  string_estate_brahmins: "bramini" #Bramini MM
@@ -549,99 +518,6 @@
  string_ins_estate_dhimmi_Cap: "Zimmami" #Zimmi
  string_ins_estate_jains_Cap: "Dźinistami" #Dźiniści
  string_ins_estate_rajput_Cap: "Radźputami" #Radźputowie
- ## żąda/żądają
- string_NounJa_PM: "" #Ümera, Qinwang
- string_NounJa_PN: "" #Mieszczaństwo
- string_NounJa_PZ: "" #Arystokracja
- string_NounJa_MM: "ją" #Bojarzy
- string_NounJa_MZ: "ją" #Gildie kupieckie
- ##twierdzi/twierdzą
- string_IA_PM: "i" #Ümera, Qinwang
- string_IA_PN: "i" #Mieszczaństwo
- string_IA_PZ: "i" #Arystokracja
- string_IA_MM: "ą" #Bojarzy
- string_IA_MZ: "ą" #Gildie kupieckie
- ##czyje to ziemie
- string_Whose_PM: "jego" #Ümera, Qinwang
- string_Whose_PN: "jego" #Mieszczaństwo
- string_Whose_PZ: "jej" #Arystokracja
- string_Whose_MM: "ich" #Bojarzy
- string_Whose_MZ: "ich" #Gildie kupieckie
- ##czyje to ziemie
- string_Whose_PM_Cap: "Jego" #Ümera, Qinwang
- string_Whose_PN_Cap: "Jego" #Mieszczaństwo
- string_Whose_PZ_Cap: "Jej" #Arystokracja
- string_Whose_MM_Cap: "Ich" #Bojarzy
- string_Whose_MZ_Cap: "Ich" #Gildie kupieckie
- ##prosi/proszą
- string_IZa_PM: "i" #Ümera, Qinwang
- string_IZa_PN: "i" #Mieszczaństwo
- string_IZa_PZ: "i" #Arystokracja
- string_IZa_MM: "zą" #Bojarzy
- string_IZa_MZ: "zą" #Gildie kupieckie
- ##chce/chcą
- string_EA_PM: "e" #Ümera, Qinwang
- string_EA_PN: "e" #Mieszczaństwo
- string_EA_PZ: "e" #Arystokracja
- string_EA_MM: "ą" #Bojarzy
- string_EA_MZ: "ą" #Gildie kupieckie
- ##będzie/będą
- string_ZieA_PM: "zie" #Ümera, Qinwang
- string_ZieA_PN: "zie" #Mieszczaństwo
- string_ZieA_PZ: "zie" #Arystokracja
- string_ZieA_MM: "ą" #Bojarzy
- string_ZieA_MZ: "ą" #Gildie kupieckie
- ##jemu/jej/im
- string_Who_PM: "jemu" #Ümera, Qinwang
- string_Who_PN: "jemu" #Mieszczaństwo
- string_Who_PZ: "jej" #Arystokracja
- string_Who_MM: "im" #Bojarzy
- string_Who_MZ: "im" #Gildie kupieckie
- ##powinien/powinna/powinno/powinni/powinne
- string_NormEnd_PM: "ien" #Ümera, Qinwang
- string_NormEnd_PN: "no" #Mieszczaństwo
- string_NormEnd_PZ: "na" #Arystokracja
- string_NormEnd_MM: "ni" #Bojarzy
- string_NormEnd_MZ: "ne" #Gildie kupieckie
- ##jest/są
- string_BE_PM: "jest" #Ümera, Qinwang
- string_BE_PN: "jest" #Mieszczaństwo
- string_BE_PZ: "jest" #Arystokracja
- string_BE_MM: "są" #Bojarzy
- string_BE_MZ: "są" #Gildie kupieckie
- ##skłonn y/a/e/i/e
- string_AdjEndS_PM: "y" #Ümera, Qinwang
- string_AdjEndS_PN: "e" #Mieszczaństwo
- string_AdjEndS_PZ: "a" #Arystokracja
- string_AdjEndS_MM: "i" #Bojarzy
- string_AdjEndS_MZ: "e" #Gildie kupieckie
- ## -/ą martwi/martwią
- string_NounA_PM: "" #Ümera, Qinwang
- string_NounA_PN: "" #Mieszczaństwo
- string_NounA_PZ: "" #Arystokracja
- string_NounA_MM: "ą" #Bojarzy
- string_NounA_MZ: "ą" #Gildie kupieckie
- ## ony/ona/one/eni/one zaniepokoj
- string_Conc_PM: "ony" #Ümera, Qinwang
- string_Conc_PN: "one" #Mieszczaństwo
- string_Conc_PZ: "ona" #Arystokracja
- string_Conc_MM: "eni" #Bojarzy
- string_Conc_MZ: "one" #Gildie kupieckie
- ## y/a/e/y/e posiadając
- string_AdjEnd_PM: "y" #Ümera, Qinwang
- string_AdjEnd_PN: "e" #Mieszczaństwo
- string_AdjEnd_PZ: "a" #Arystokracja
- string_AdjEnd_MM: "y" #Bojarzy
- string_AdjEnd_MZ: "e" #Gildie kupieckie
- ## ał/ała/ało/eli/ały słysz
- string_PastEnd_PM: "ał" #Ümera, Qinwang
- string_PastEnd_PN: "ało" #Mieszczaństwo
- string_PastEnd_PZ: "ała" #Arystokracja
- string_PastEnd_MM: "eli" #Bojarzy
- string_PastEnd_MZ: "ały" #Gildie kupieckie
- ## ej/ym
- string_ej: "ej"
-
  ##Narzędnik dla klucza GetStateForm
  string_crown_ins: "Koroną" #Korona
  string_sublime_porte_ins: "Wysoką Portą" #Wysoka Porta
@@ -793,17 +669,6 @@
  string_fortification_expert_fem_gen: "Fortyfikatorki" #
  string_grand_captain_male_gen: "Wielkiego kapitana" #Wielki kapitan
  string_grand_captain_fem_gen: "Wielkiej kapitanki" #
- ## ka/-
- string_female_ka: "ka"
- ## cz/-
- string_female_cz: "cz"
- ##ą/iem
- string_female_aa: "ą"
- string_male_iem: "iem"
- ##ą/ego
- string_male_ego: "ego"
- ##k/-
- string_female_k: "k"
  ##GetEventAdvisor
  ##ANnoun
  string_event_advisor_anoun_a: "[This.GetAdv_Adm_ANoun]"
@@ -854,9 +719,6 @@
  string_building_farm_estate_gen: "Folwarku" #Folwark
  string_building_mills_gen: "Młynu" #Młyn
  string_building_furnace_gen: "Pieca" #Piec
- ##odmiana nowy dla manufaktur
- string_new_fem: "nowej"
- string_new_male: "nowego"
  #Dobra handlowe
  #Mianownik mała
  string_naval_supplies: "materiały okrętowe" #Materiały okrętowe

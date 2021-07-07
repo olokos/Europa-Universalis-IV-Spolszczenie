@@ -9,13 +9,13 @@ defined_text = {
 	name = GetANoun
 	random = no
 	text = {
-		localisation_key = string_female_a
+		localisation_key = string_end_a
 		trigger = {
 			is_female = yes
 		}
 	}
 	text = {
-		localisation_key = string_man_empty
+		localisation_key = string_end_ampty
 	}
 }
 
@@ -24,13 +24,13 @@ defined_text = {
 	name = GetAY
 	random = no
 	text = {
-		localisation_key = string_female_a
+		localisation_key = string_end_a
 		trigger = {
 			is_female = yes
 		}
 	}
 	text = {
-		localisation_key = string_man_y
+		localisation_key = string_end_al
 	}
 }
 
@@ -39,13 +39,13 @@ defined_text = {
 	name = GetAYm
 	random = no
 	text = {
-		localisation_key = string_female_AYm
+		localisation_key = string_end_apl
 		trigger = {
 			is_female = yes
 		}
 	}
 	text = {
-		localisation_key = string_man_AYm
+		localisation_key = string_end_alm
 	}
 }
 
@@ -54,13 +54,13 @@ defined_text = {
 	name = GetHerHim_dat
 	random = no
 	text = {
-		localisation_key = string_her_dat
+		localisation_key = string_end_jej
 		trigger = {
 			is_female = yes
 		}
 	}
 	text = {
-		localisation_key = string_him_dat
+		localisation_key = string_end_jemu
 	}
 }
 
@@ -69,13 +69,13 @@ defined_text = {
 	name = GetHerHim_ins
 	random = no
 	text = {
-		localisation_key = string_her_ins
+		localisation_key = string_end_nia
 		trigger = {
 			is_female = yes
 		}
 	}
 	text = {
-		localisation_key = string_him_ins
+		localisation_key = string_end_nim
 	}
 }
 
@@ -84,13 +84,13 @@ defined_text = {
 	name = GetEndPast
 	random = no
 	text = {
-		localisation_key = string_EndPast_fem
+		localisation_key = string_end_ala
 		trigger = {
 			is_female = yes
 		}
 	}
 	text = {
-		localisation_key = string_EndPast_mal
+		localisation_key = string_end_alpl
 	}
 }
 
@@ -99,13 +99,13 @@ defined_text = {
 	name = GetGone
 	random = no
 	text = {
-		localisation_key = string_Gone_fem
+		localisation_key = string_word_odeszla
 		trigger = {
 			is_female = yes
 		}
 	}
 	text = {
-		localisation_key = string_Gone_mal
+		localisation_key = string_word_odszedl
 	}
 }
 
@@ -114,13 +114,13 @@ defined_text = {
 	name = GetRulDat
 	random = no
 	text = {
-		localisation_key = string_RulDat_fem
+		localisation_key = string_word_wladczynie
 		trigger = {
 			is_female = yes
 		}
 	}
 	text = {
-		localisation_key = string_RulDat_mal
+		localisation_key = string_word_wladce
 	}
 }
 
@@ -129,13 +129,13 @@ defined_text = {
 	name = GetAEgoDat
 	random = no
 	text = {
-		localisation_key = string_AEgoDat_fem
+		localisation_key = string_end_apl
 		trigger = {
 			is_female = yes
 		}
 	}
 	text = {
-		localisation_key = string_AEgoDat_mal
+		localisation_key = string_end_ago
 	}
 }
 
@@ -144,13 +144,13 @@ defined_text = {
 	name = GetNaIen
 	random = no
 	text = {
-		localisation_key = string_NaIen_fem
+		localisation_key = string_end_na
 		trigger = {
 			is_female = yes
 		}
 	}
 	text = {
-		localisation_key = string_NaIen_mal
+		localisation_key = string_end_ien
 	}
 }
 
@@ -159,13 +159,13 @@ defined_text = {
 	name = GetDaughterSon_gen
 	random = no
 	text = {
-		localisation_key = daughter_gen
+		localisation_key = string_word_corki
 		trigger = {
 			is_female = yes
 		}
 	}
 	text = {
-		localisation_key = son_gen
+		localisation_key = string_word_syna
 	}
 }
 
@@ -173,7 +173,7 @@ defined_text = {
 	name = GetAdv_Adm_ANoun
 	random = no
 	text = {
-		localisation_key = string_female_a
+		localisation_key = string_end_a
 		trigger = {
 			OR = {
 				employed_advisor = { type = philosopher is_female = yes }
@@ -187,7 +187,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_man_empty
+		localisation_key = string_end_ampty
 		trigger = {
 			OR = {
 				employed_advisor = { type = philosopher is_male = yes }
@@ -206,7 +206,7 @@ defined_text = {
 	name = GetAdv_Dip_ANoun
 	random = no
 	text = {
-		localisation_key = string_female_a
+		localisation_key = string_end_a
 		trigger = {
 			OR = {
 				employed_advisor = { type = statesman is_female = yes }
@@ -220,7 +220,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_man_empty
+		localisation_key = string_end_ampty
 		trigger = {
 			OR = {
 				employed_advisor = { type = statesman is_male = yes }
@@ -239,7 +239,7 @@ defined_text = {
 	name = GetAdv_Mil_ANoun
 	random = no
 	text = {
-		localisation_key = string_female_a
+		localisation_key = string_end_a
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_female = yes }
@@ -253,7 +253,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_man_empty
+		localisation_key = string_end_ampty
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_male = yes }
@@ -272,7 +272,7 @@ defined_text = {
 	name = GetAdv_Adm_AY
 	random = no
 	text = {
-		localisation_key = string_female_a
+		localisation_key = string_end_a
 		trigger = {
 			OR = {
 				employed_advisor = { type = philosopher is_female = yes }
@@ -286,7 +286,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_man_y
+		localisation_key = string_end_al
 		trigger = {
 			OR = {
 				employed_advisor = { type = philosopher is_male = yes }
@@ -305,7 +305,7 @@ defined_text = {
 	name = GetAdv_Dip_AY
 	random = no
 	text = {
-		localisation_key = string_female_a
+		localisation_key = string_end_a
 		trigger = {
 			OR = {
 				employed_advisor = { type = statesman is_female = yes }
@@ -319,7 +319,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_man_y
+		localisation_key = string_end_al
 		trigger = {
 			OR = {
 				employed_advisor = { type = statesman is_male = yes }
@@ -338,7 +338,7 @@ defined_text = {
 	name = GetAdv_Mil_AY
 	random = no
 	text = {
-		localisation_key = string_female_a
+		localisation_key = string_end_a
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_female = yes }
@@ -352,7 +352,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_man_y
+		localisation_key = string_end_al
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_male = yes }
@@ -373,7 +373,7 @@ defined_text = {
 	name = GetAdv_Adm_HerHim_dat
 	random = no
 	text = {
-		localisation_key = string_her_dat
+		localisation_key = string_end_jej
 		trigger = {
 			OR = {
 				employed_advisor = { type = philosopher is_female = yes }
@@ -387,7 +387,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_his_dat
+		localisation_key = string_end_jemu
 		trigger = {
 			OR = {
 				employed_advisor = { type = philosopher is_male = yes }
@@ -406,7 +406,7 @@ defined_text = {
 	name = GetAdv_Dip_HerHim_dat
 	random = no
 	text = {
-		localisation_key = string_her_dat
+		localisation_key = string_end_jej
 		trigger = {
 			OR = {
 				employed_advisor = { type = statesman is_female = yes }
@@ -420,7 +420,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_his_dat
+		localisation_key = string_end_jemu
 		trigger = {
 			OR = {
 				employed_advisor = { type = statesman is_male = yes }
@@ -439,7 +439,7 @@ defined_text = {
 	name = GetAdv_Mil_HerHim_dat
 	random = no
 	text = {
-		localisation_key = string_her_dat
+		localisation_key = string_end_jej
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_female = yes }
@@ -453,7 +453,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_his_dat
+		localisation_key = string_end_jemu
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_male = yes }
@@ -474,7 +474,7 @@ defined_text = {
 	name = GetAdv_Adm_CzNoun
 	random = no
 	text = {
-		localisation_key = string_female_cz
+		localisation_key = string_end_cz
 		trigger = {
 			OR = {
 				employed_advisor = { type = philosopher is_female = yes }
@@ -488,7 +488,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_man_empty
+		localisation_key = string_end_ampty
 		trigger = {
 			OR = {
 				employed_advisor = { type = philosopher is_male = yes }
@@ -507,7 +507,7 @@ defined_text = {
 	name = GetAdv_Dip_CzNoun
 	random = no
 	text = {
-		localisation_key = string_female_cz
+		localisation_key = string_end_cz
 		trigger = {
 			OR = {
 				employed_advisor = { type = statesman is_female = yes }
@@ -521,7 +521,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_man_empty
+		localisation_key = string_end_ampty
 		trigger = {
 			OR = {
 				employed_advisor = { type = statesman is_male = yes }
@@ -540,7 +540,7 @@ defined_text = {
 	name = GetAdv_Mil_CzNoun
 	random = no
 	text = {
-		localisation_key = string_female_cz
+		localisation_key = string_end_cz
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_female = yes }
@@ -554,7 +554,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_man_empty
+		localisation_key = string_end_ampty
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_male = yes }
@@ -575,7 +575,7 @@ defined_text = {
 	name = GetAdv_Adm_AIem
 	random = no
 	text = {
-		localisation_key = string_female_aa
+		localisation_key = string_end_apl
 		trigger = {
 			OR = {
 				employed_advisor = { type = philosopher is_female = yes }
@@ -589,7 +589,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_male_iem
+		localisation_key = string_end_iem
 		trigger = {
 			OR = {
 				employed_advisor = { type = philosopher is_male = yes }
@@ -608,7 +608,7 @@ defined_text = {
 	name = GetAdv_Dip_AIem
 	random = no
 	text = {
-		localisation_key = string_female_aa
+		localisation_key = string_end_apl
 		trigger = {
 			OR = {
 				employed_advisor = { type = statesman is_female = yes }
@@ -622,7 +622,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_male_iem
+		localisation_key = string_end_iem
 		trigger = {
 			OR = {
 				employed_advisor = { type = statesman is_male = yes }
@@ -641,7 +641,7 @@ defined_text = {
 	name = GetAdv_Mil_AIem
 	random = no
 	text = {
-		localisation_key = string_female_aa
+		localisation_key = string_end_apl
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_female = yes }
@@ -655,7 +655,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_male_iem
+		localisation_key = string_end_iem
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_male = yes }
@@ -676,7 +676,7 @@ defined_text = {
 	name = GetAdv_Adm_AEgo
 	random = no
 	text = {
-		localisation_key = string_female_aa
+		localisation_key = string_end_apl
 		trigger = {
 			OR = {
 				employed_advisor = { type = philosopher is_female = yes }
@@ -690,7 +690,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_male_ego
+		localisation_key = string_end_ego
 		trigger = {
 			OR = {
 				employed_advisor = { type = philosopher is_male = yes }
@@ -709,7 +709,7 @@ defined_text = {
 	name = GetAdv_Dip_AEgo
 	random = no
 	text = {
-		localisation_key = string_female_aa
+		localisation_key = string_end_apl
 		trigger = {
 			OR = {
 				employed_advisor = { type = statesman is_female = yes }
@@ -723,7 +723,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_male_ego
+		localisation_key = string_end_ego
 		trigger = {
 			OR = {
 				employed_advisor = { type = statesman is_male = yes }
@@ -742,7 +742,7 @@ defined_text = {
 	name = GetAdv_Mil_AEgo
 	random = no
 	text = {
-		localisation_key = string_female_aa
+		localisation_key = string_end_apl
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_female = yes }
@@ -756,7 +756,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_male_ego
+		localisation_key = string_end_ego
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_male = yes }
@@ -777,7 +777,7 @@ defined_text = {
 	name = GetAdv_Adm_KNoun
 	random = no
 	text = {
-		localisation_key = string_female_k
+		localisation_key = string_end_k
 		trigger = {
 			OR = {
 				employed_advisor = { type = philosopher is_female = yes }
@@ -791,7 +791,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_man_empty
+		localisation_key = string_end_ampty
 		trigger = {
 			OR = {
 				employed_advisor = { type = philosopher is_male = yes }
@@ -810,7 +810,7 @@ defined_text = {
 	name = GetAdv_Dip_KNoun
 	random = no
 	text = {
-		localisation_key = string_female_k
+		localisation_key = string_end_k
 		trigger = {
 			OR = {
 				employed_advisor = { type = statesman is_female = yes }
@@ -824,7 +824,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_man_empty
+		localisation_key = string_end_ampty
 		trigger = {
 			OR = {
 				employed_advisor = { type = statesman is_male = yes }
@@ -843,7 +843,7 @@ defined_text = {
 	name = GetAdv_Mil_KNoun
 	random = no
 	text = {
-		localisation_key = string_female_k
+		localisation_key = string_end_k
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_female = yes }
@@ -857,7 +857,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_man_empty
+		localisation_key = string_end_ampty
 		trigger = {
 			OR = {
 				employed_advisor = { type = army_reformer is_male = yes }

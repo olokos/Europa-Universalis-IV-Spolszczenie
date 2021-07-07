@@ -791,12 +791,3 @@
  string_SHAHZADE: "Szachzade" #Szachzade
  string_SHEIKHA: "Szejkini" #Szejkini
  string_VALI_AHAD: "Wali Ahada" #Wali Ahad
-## Odmiana czasowników dla nazw rządów, aktualnie nie używane
- string_Z: "ła"#Republika
- string_M: "ł"#Hetmanat
- string_N: "ło"#Wodzostwo
- string_MZ: "ły"#Zjednoczone Prowincje
- string_MM: "li"#Wieczni Rycerze
-## odmiana can
- string_can_poj: "może"
- string_can_mno: "mogą"

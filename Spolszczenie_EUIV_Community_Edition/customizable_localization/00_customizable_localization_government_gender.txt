@@ -2,20 +2,20 @@ defined_text = {
 	name = GetGovNameGen
 	random = no
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = stateless_society
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_country_modifier = unified_islam
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			is_revolutionary_republic_trigger = yes
@@ -24,14 +24,14 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			is_revolutionary_republic_trigger = yes
 			tag = SPA
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			is_revolutionary_republic_trigger = yes
 			OR = {
@@ -50,7 +50,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			is_revolutionary_republic_trigger = yes
 			OR = {
@@ -67,14 +67,14 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			is_revolutionary_republic_trigger = yes
 			tag = TUR
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			is_revolutionary_republic_trigger = yes
 			OR = {
@@ -91,13 +91,13 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			is_revolutionary_republic_trigger = yes
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			primary_culture = polish
@@ -105,7 +105,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			culture_group = germanic
@@ -118,38 +118,38 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = prussian_republic_reform
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = admiralty_reform
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = protectorate_parliament_reform
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_ruler_flag = savonarola_flag
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = military_dictatorship_reform
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = pirate_republic_reform
@@ -160,7 +160,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = pirate_republic_reform
@@ -174,20 +174,20 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = pirate_king_reform
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			tag = SYN
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			tag = YUA
@@ -195,7 +195,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = celestial_empire
@@ -203,7 +203,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -219,14 +219,14 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = papacy_reform
 			is_elector = yes
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -235,7 +235,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -243,7 +243,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -255,7 +255,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = theocracy
@@ -264,7 +264,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = republic
@@ -273,7 +273,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			tag = JAP
@@ -284,7 +284,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -295,7 +295,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -310,7 +310,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			religion_group = muslim
@@ -322,7 +322,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			tag = AVR
@@ -330,7 +330,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -338,7 +338,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			religion_group = muslim
@@ -346,7 +346,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -354,7 +354,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			religion_group = muslim
@@ -363,7 +363,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			religion_group = muslim
@@ -374,7 +374,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -385,7 +385,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -393,7 +393,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -401,7 +401,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -409,7 +409,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			tag = LIT
@@ -417,7 +417,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			tag = DAN
@@ -426,7 +426,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			tag = HUN
@@ -435,7 +435,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			tag = HAB
@@ -443,7 +443,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			OR = {
@@ -454,7 +454,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -462,7 +462,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -470,7 +470,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -478,7 +478,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -486,7 +486,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -495,7 +495,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -504,7 +504,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -517,7 +517,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -525,7 +525,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -538,7 +538,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -549,7 +549,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -557,7 +557,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -566,7 +566,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -574,7 +574,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -582,7 +582,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			OR = {
@@ -595,7 +595,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = peasants_republic
@@ -603,7 +603,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -617,7 +617,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -633,7 +633,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -647,7 +647,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = steppe_horde
@@ -655,7 +655,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -663,7 +663,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -671,7 +671,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -686,7 +686,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -694,7 +694,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -703,7 +703,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			OR = {
@@ -717,7 +717,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -726,7 +726,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -734,7 +734,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -747,7 +747,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -755,7 +755,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -763,7 +763,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -774,7 +774,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -782,7 +782,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -790,7 +790,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -798,7 +798,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -806,7 +806,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -814,7 +814,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -822,7 +822,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -834,7 +834,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -842,7 +842,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -850,7 +850,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			OR = {
@@ -872,7 +872,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -883,7 +883,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -897,7 +897,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -905,14 +905,14 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			primary_culture = highland_scottish
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			OR = {
@@ -923,7 +923,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			OR = {
@@ -933,7 +933,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -944,7 +944,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -952,7 +952,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			OR = {
@@ -963,7 +963,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			OR = {
@@ -975,7 +975,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -983,7 +983,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -991,7 +991,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -1007,7 +1007,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -1018,7 +1018,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = republic
@@ -1026,7 +1026,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = republic
@@ -1034,7 +1034,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = republic
@@ -1049,7 +1049,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = republic
@@ -1078,7 +1078,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = republic
@@ -1098,7 +1098,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = republic
@@ -1109,14 +1109,14 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = ambrosian_republic
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = republic
@@ -1124,7 +1124,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = republic
@@ -1132,7 +1132,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = republic
@@ -1140,7 +1140,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = noble_elite_reform
@@ -1152,7 +1152,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = republic
@@ -1160,7 +1160,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = steppe_horde
@@ -1171,7 +1171,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			OR = {
 				government = native
@@ -1190,7 +1190,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = states_general_reform
@@ -1223,7 +1223,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = states_general_reform
@@ -1256,13 +1256,13 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			is_revolutionary_republic_trigger = yes
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			OR = {
@@ -1272,41 +1272,41 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = presidential_despot_reform
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = bureaucratic_despotism
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = papacy_reform
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = indep_daimyo
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = tribal_kingdom
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			OR = {
@@ -1316,14 +1316,14 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = tribal_democracy_legacy
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = republic
@@ -1341,7 +1341,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = monarchy_mechanic
@@ -1352,7 +1352,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = peasants_republic
@@ -1365,7 +1365,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			OR = {
@@ -1383,7 +1383,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = monastic_order_reform
@@ -1395,7 +1395,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = monastic_order_reform
@@ -1403,7 +1403,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = monastic_order_reform
@@ -1411,7 +1411,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			OR = {
@@ -1425,7 +1425,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = monastic_breweries_reform
@@ -1433,7 +1433,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			religion = jewish
@@ -1441,7 +1441,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			religion = zoroastrian
@@ -1449,7 +1449,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			religion = sikhism
@@ -1457,7 +1457,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			religion = hinduism
@@ -1465,7 +1465,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			religion = shinto
@@ -1473,7 +1473,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			OR = {
@@ -1485,7 +1485,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			religion = confucianism
@@ -1493,7 +1493,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			religion = ibadi
@@ -1504,7 +1504,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			religion = shiite
@@ -1516,7 +1516,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			religion = shiite
@@ -1524,7 +1524,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			religion = sunni
@@ -1536,7 +1536,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			religion = sunni
@@ -1547,7 +1547,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			OR = {
@@ -1558,7 +1558,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			religion = inti
@@ -1566,7 +1566,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			religion_group = pagan
@@ -1574,7 +1574,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			OR = {
@@ -1587,7 +1587,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			religion = catholic
@@ -1596,35 +1596,35 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = monarchy_mechanic
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = republic
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = theocracy
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = tribal
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			primary_culture = polish
@@ -1632,14 +1632,14 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = admiralty_reform
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = pirate_republic_reform
@@ -1650,7 +1650,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = pirate_republic_reform
@@ -1664,14 +1664,14 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = pirate_king_reform
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			tag = YUA
@@ -1679,7 +1679,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -1695,7 +1695,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -1703,7 +1703,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -1714,7 +1714,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -1726,7 +1726,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = theocracy
@@ -1735,7 +1735,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = republic
@@ -1744,7 +1744,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			tag = JAP
@@ -1755,7 +1755,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -1766,7 +1766,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -1781,7 +1781,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			religion_group = muslim
@@ -1793,7 +1793,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -1801,7 +1801,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			religion_group = muslim
@@ -1809,7 +1809,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -1817,7 +1817,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			religion_group = muslim
@@ -1826,7 +1826,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			religion_group = muslim
@@ -1837,7 +1837,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -1848,7 +1848,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -1856,7 +1856,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -1864,7 +1864,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -1872,7 +1872,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			tag = LIT
@@ -1880,7 +1880,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			tag = DAN
@@ -1889,7 +1889,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			tag = HUN
@@ -1898,7 +1898,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			tag = HAB
@@ -1906,7 +1906,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			OR = {
@@ -1917,7 +1917,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -1925,7 +1925,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -1933,7 +1933,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -1941,7 +1941,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -1949,7 +1949,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -1958,7 +1958,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -1967,7 +1967,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -1980,7 +1980,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -1988,7 +1988,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2001,7 +2001,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2012,7 +2012,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2020,7 +2020,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2029,7 +2029,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2037,7 +2037,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2045,7 +2045,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			OR = {
@@ -2058,7 +2058,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = peasants_republic
@@ -2066,7 +2066,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2080,7 +2080,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2096,7 +2096,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2110,7 +2110,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = steppe_horde
@@ -2118,7 +2118,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2126,7 +2126,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2134,7 +2134,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2149,7 +2149,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2157,7 +2157,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2166,7 +2166,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			OR = {
@@ -2180,7 +2180,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2189,7 +2189,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2197,7 +2197,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2210,7 +2210,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2218,7 +2218,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2226,7 +2226,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2237,7 +2237,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2245,7 +2245,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2253,7 +2253,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2261,7 +2261,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2269,7 +2269,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2277,7 +2277,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2285,7 +2285,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2297,7 +2297,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2305,7 +2305,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			OR = {
@@ -2327,7 +2327,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2338,7 +2338,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2352,14 +2352,14 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			primary_culture = highland_scottish
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			OR = {
@@ -2369,7 +2369,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2380,7 +2380,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2388,7 +2388,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			OR = {
@@ -2399,7 +2399,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			OR = {
@@ -2411,7 +2411,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2419,7 +2419,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2427,7 +2427,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2443,7 +2443,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2454,7 +2454,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = republic
@@ -2462,7 +2462,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = republic
@@ -2470,7 +2470,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_mno
+		localisation_key = string_word_moga
 		trigger = {
 			government_rank = 2
 			government = republic
@@ -2485,7 +2485,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = republic
@@ -2514,7 +2514,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = republic
@@ -2534,7 +2534,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = republic
@@ -2545,14 +2545,14 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = ambrosian_republic
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = republic
@@ -2560,7 +2560,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = republic
@@ -2568,7 +2568,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = republic
@@ -2576,7 +2576,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = noble_elite_reform
@@ -2588,7 +2588,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = republic
@@ -2596,7 +2596,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = steppe_horde
@@ -2607,7 +2607,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = states_general_reform
@@ -2640,7 +2640,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = states_general_reform
@@ -2673,7 +2673,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			OR = {
@@ -2683,42 +2683,42 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = presidential_despot_reform
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = bureaucratic_despotism
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = indep_daimyo
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = shogunate
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = tribal_kingdom
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			OR = {
@@ -2728,14 +2728,14 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = tribal_democracy_legacy
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = republic
@@ -2753,7 +2753,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = monarchy_mechanic
@@ -2764,7 +2764,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = peasants_republic
@@ -2777,7 +2777,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			OR = {
@@ -2795,7 +2795,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = monastic_order_reform
@@ -2807,7 +2807,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_mno
+		localisation_key = string_word_moga
 		trigger = {
 			government_rank = 2
 			has_reform = monastic_order_reform
@@ -2820,7 +2820,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = monastic_order_reform
@@ -2832,7 +2832,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = monastic_order_reform
@@ -2840,7 +2840,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = monastic_order_reform
@@ -2848,7 +2848,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			OR = {
@@ -2862,7 +2862,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = monastic_breweries_reform
@@ -2870,7 +2870,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			religion = jewish
@@ -2878,7 +2878,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			religion = zoroastrian
@@ -2886,7 +2886,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			religion = sikhism
@@ -2894,7 +2894,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			religion = hinduism
@@ -2902,7 +2902,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			religion = shinto
@@ -2910,7 +2910,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			OR = {
@@ -2922,7 +2922,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			religion = confucianism
@@ -2930,7 +2930,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			religion = ibadi
@@ -2941,7 +2941,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			religion = shiite
@@ -2953,7 +2953,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			religion = shiite
@@ -2961,7 +2961,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			religion = sunni
@@ -2973,7 +2973,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			religion = sunni
@@ -2984,7 +2984,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			OR = {
@@ -2995,7 +2995,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			religion = inti
@@ -3003,7 +3003,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			religion_group = pagan
@@ -3011,7 +3011,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			OR = {
@@ -3024,48 +3024,48 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = monarchy_mechanic
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = republic
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = theocracy
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = tribal
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			primary_culture = polish
 			government = republic
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = admiralty_reform
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = pirate_republic_reform
 			NOT = {
@@ -3075,7 +3075,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			tag = SOO
 			OR = {
@@ -3088,7 +3088,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = pirate_republic_reform
 			NOT = {
@@ -3101,27 +3101,27 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = pirate_king_reform
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			tag = YUA
 			government = monarchy
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			tag = ILK
 			is_march = yes
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			is_march = yes
 			religion_group = muslim
@@ -3129,7 +3129,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			religion_group = muslim
@@ -3140,7 +3140,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			religion_group = christian
@@ -3155,7 +3155,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			is_elector = yes
@@ -3163,14 +3163,14 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			tag = PAL
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			NOT = {
@@ -3180,7 +3180,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			is_elector = yes
@@ -3191,7 +3191,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = theocracy
 			is_elector = yes
@@ -3199,7 +3199,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = republic
 			is_elector = yes
@@ -3207,7 +3207,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			tag = JAP
 			government = monarchy
@@ -3217,7 +3217,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			NOT = {
@@ -3227,7 +3227,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			NOT = {
@@ -3241,7 +3241,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			religion_group = muslim
 			OR = {
@@ -3252,35 +3252,35 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			tag = AVR
 			government = monarchy
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			primary_culture = georgian
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			religion_group = muslim
 			tag = NJR
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			tag = MAL
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			religion_group = muslim
 			primary_culture = bedouin_arabic
@@ -3288,7 +3288,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			religion_group = muslim
 			government = tribal
@@ -3298,7 +3298,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			OR = {
@@ -3308,35 +3308,35 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			tag = SIS
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			culture_group = iranian
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			primary_culture = somali
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			tag = LIT
 			government = monarchy
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			tag = DAN
 			government = monarchy
@@ -3344,7 +3344,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			tag = HUN
 			government = monarchy
@@ -3352,14 +3352,14 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			tag = HAB
 			government = monarchy
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			OR = {
 				government = monarchy
@@ -3369,35 +3369,35 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			tag = FEO
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			primary_culture = croatian
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			primary_culture = finnish
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			tag = TUS
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			tag = BAD
@@ -3405,7 +3405,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			tag = LUX
@@ -3413,7 +3413,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			OR = {
@@ -3425,14 +3425,14 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			primary_culture = serbian
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			OR = {
@@ -3444,7 +3444,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			OR = {
@@ -3454,14 +3454,14 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			tag = ARK
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			tag = PGS
@@ -3469,21 +3469,21 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			tag = ALB
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			tag = QNG
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			OR = {
 				has_reform = enlightened_despotism
@@ -3495,14 +3495,14 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = peasants_republic
 			primary_culture = scanian
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			OR = {
@@ -3515,7 +3515,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			OR = {
@@ -3530,7 +3530,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			OR = {
@@ -3543,28 +3543,28 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = steppe_horde
 			primary_culture = manchu
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			primary_culture = romanian
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			tag = DEC
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			OR = {
@@ -3578,14 +3578,14 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			tag = BHA
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			primary_culture = rajput
@@ -3593,7 +3593,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			OR = {
 				has_reform = administrative_monarchy
@@ -3606,7 +3606,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			primary_culture = marathi
@@ -3614,14 +3614,14 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			tag = KAF
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			religion_group = christian
@@ -3633,21 +3633,21 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			tag = NKO
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			tag = BNY
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			OR = {
@@ -3657,49 +3657,49 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			tag = ZIM
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			tag = RZW
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			primary_culture = rwandan
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			primary_culture = ganda
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			tag = ANT
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			tag = BTS
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			OR = {
@@ -3710,21 +3710,21 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			primary_culture = shan
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			culture_group = burman
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			OR = {
 				government = monarchy
@@ -3745,7 +3745,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			culture_group = south_slavic
@@ -3755,7 +3755,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			primary_culture = irish
@@ -3768,20 +3768,20 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			primary_culture = irish
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			primary_culture = highland_scottish
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			OR = {
 				has_reform = principality
@@ -3791,7 +3791,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			OR = {
 				has_reform = principality
@@ -3800,7 +3800,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			OR = {
@@ -3810,14 +3810,14 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			religion = inti
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			OR = {
 				government = monarchy
@@ -3827,7 +3827,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			OR = {
 				government = monarchy
@@ -3838,21 +3838,21 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			culture_group = east_asian
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			religion = hinduism
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			NOT = {
@@ -3867,7 +3867,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			NOT = {
@@ -3877,48 +3877,48 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = free_city
 			culture_group = germanic
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = free_city
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			culture_group = iberian
 			has_reform = colonial_government
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			primary_culture = dutch
 			has_reform = colonial_government
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = republic
 			has_reform = cossacks_reform
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = republic
 			tag = RAG
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = republic
 			primary_culture = dutch
@@ -3932,7 +3932,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = republic
 			OR = {
@@ -3960,7 +3960,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = republic
 			culture_group = south_slavic
@@ -3979,7 +3979,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = republic
 			OR = {
@@ -3989,34 +3989,34 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = ambrosian_republic
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = republic
 			culture_group = germanic
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = republic
 			culture_group = latin
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = republic
 			religion = hinduism
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = noble_elite_reform
 			OR = {
@@ -4027,14 +4027,14 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = republic
 			religion_group = muslim
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			NOT = {
@@ -4049,7 +4049,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = steppe_horde
 			OR = {
@@ -4059,13 +4059,13 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = colonial_government
 		}
 	}
 	text={
-		localisation_key = string_can_mno
+		localisation_key = string_word_moga
 		trigger = {
 			has_reform = states_general_reform
 			is_statists_in_power = yes
@@ -4097,7 +4097,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_mno
+		localisation_key = string_word_moga
 		trigger = {
 			has_reform = states_general_reform
 			is_monarchists_in_power = yes
@@ -4129,7 +4129,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			OR = {
 				has_reform = noble_elite_reform
@@ -4138,37 +4138,37 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = presidential_despot_reform
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = bureaucratic_despotism
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = daimyo
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = indep_daimyo
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = tribal_kingdom
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			OR = {
 				has_reform = tribal_despotism
@@ -4177,13 +4177,13 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = tribal_democracy_legacy
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = republic
 			OR = {
@@ -4200,7 +4200,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = monarchy_mechanic
 			is_part_of_hre = yes
@@ -4210,7 +4210,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = peasants_republic
 			has_country_flag = ikko_ikki_peasants_flag
@@ -4222,7 +4222,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			OR = {
 				has_reform = leading_clergy_reform
@@ -4239,7 +4239,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = monastic_order_reform
 			OR = {
@@ -4250,7 +4250,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_mno
+		localisation_key = string_word_moga
 		trigger = {
 			has_reform = monastic_order_reform
 			has_reform = commander_king_reform
@@ -4262,7 +4262,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_mno
+		localisation_key = string_word_moga
 		trigger = {
 			has_reform = monastic_order_reform
 			OR = {
@@ -4273,21 +4273,21 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = monastic_order_reform
 			tag = TEU
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = monastic_order_reform
 			tag = LIV
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			OR = {
 				has_reform = monastic_order_reform
@@ -4300,49 +4300,49 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = monastic_breweries_reform
 			religion = catholic
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			religion = jewish
 			government = theocracy
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			religion = zoroastrian
 			government = theocracy
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			religion = sikhism
 			government = theocracy
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			religion = hinduism
 			government = theocracy
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			religion = shinto
 			government = theocracy
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			OR = {
 				religion = buddhism
@@ -4353,14 +4353,14 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			religion = confucianism
 			government = theocracy
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			religion = ibadi
 			OR = {
@@ -4370,7 +4370,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			religion = shiite
 			primary_culture = yemeni_culture
@@ -4381,14 +4381,14 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			religion = shiite
 			government = theocracy
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			religion = sunni
 			government = theocracy
@@ -4399,7 +4399,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			religion = sunni
 			OR = {
@@ -4409,7 +4409,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			OR = {
 				religion = orthodox
@@ -4419,21 +4419,21 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			religion = inti
 			government = theocracy
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			religion_group = pagan
 			government = theocracy
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			OR = {
 				has_reform = monastic_order_reform
@@ -4445,7 +4445,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			religion = catholic
 			has_reform = holy_state_reform
@@ -4453,25 +4453,25 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = monarchy_mechanic
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = republic
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = theocracy
 		}
 	}
 	text={
-		localisation_key = string_can_poj
+		localisation_key = string_word_moze
 		trigger = {
 			government = tribal
 		}

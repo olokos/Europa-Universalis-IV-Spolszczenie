@@ -90,7 +90,7 @@ defined_text = {
 	name = GetManufactory_new
 	random = no
 	text = {
-		localisation_key = string_new_fem
+		localisation_key = string_word_nowej
 		trigger = {
 			OR = {
 				trade_goods = naval_supplies
@@ -112,7 +112,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_new_male
+		localisation_key = string_word_nowego
 		trigger = {
 			OR = {
 				trade_goods = ivory
