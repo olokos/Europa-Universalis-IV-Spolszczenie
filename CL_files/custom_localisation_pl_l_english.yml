@@ -639,7 +639,8 @@
  string_PastEnd_PZ: "ała" #Arystokracja
  string_PastEnd_MM: "eli" #Bojarzy
  string_PastEnd_MZ: "ały" #Gildie kupieckie
-
+ ## ej/ym
+ string_ej: "ej"
 
  ##Narzędnik dla klucza GetStateForm
  string_crown_ins: "Koroną" #Korona
@@ -956,3 +957,13 @@
  ## GetRulerTitleOrRegencyGen
  string_rule_title_gen: "[This.GetRulerGen]"
  string_regency_council_gen: "Rady regencyjnej" #Rada regencyjna
+ ## GetLowLevelOfficialForCountry_acc
+ string_mandarin_acc: "Mandaryna" # Mandaryn
+ string_zamindar_acc: "Zamindara" # Zamindar
+ string_bey_acc: "Beja" # Bej
+ string_polygar_acc: "Poligara" # Poligar
+ string_thakur_acc: "Thakura" # Thakur
+ string_zupan_acc: "Żupana" # Żupan
+ string_bailif_acc: "Komornika" # Komornik
+ string_ispan_acc: "Ispána" # Ispán
+ string_official_acc: "Urzędnika" # Urzędnik

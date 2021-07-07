@@ -261,7 +261,7 @@
  corruption_event.6.a:0 "Przeprowadzi¾ dochodzenie i natychmiast zast¹pi¾ winnych."
  corruption_event.6.b:0 "Niech doczekaj¹ emerytury; w przesz³oœci dobrze nam s³u¿yli."
  corruption_event.7.t:0 "Skorumpowany doradca"
- corruption_event.7.d:0 "Korupcja mo¿e toczy¾ paªstwo [Root.GetName], ale staramy si² dopilnowa¾, by przynajmniej ludziom, którymi otacza si² [Root.Monarch.GetTitle], mo¿na by³o ufa¾. I najwyraŸniej ponosimy kl²sk², jako ¿e jeden z doradców, [Root.GetEventAdvisorName], których s³ucha [Root.Monarch.GetName], zosta³ przy³apany na braniu du¿ych ³apówek od ludzi o du¿ych wp³ywach w naszym kraju za doradzanie rz¹dowi w sposób zgodny z ich interesami. Jak mamy zareagowa¾ na tak¹ zdrad²?"
+ corruption_event.7.d:0 "Korupcja mo¿e toczy¾ paªstwo [Root.GetName], ale staramy si² dopilnowa¾, by przynajmniej ludziom, którymi otacza si² [Root.Monarch.GetTitle], mo¿na by³o ufa¾. I najwyraŸniej ponosimy kl²sk², jako ¿e jeden z doradców, których s³ucha [Root.Monarch.GetName], [Root.GetEventAdvisorName], zosta³[Root.GetEventAdvisor_ANoun] przy³apan[Root.GetEventAdvisor_AY] na braniu du¿ych ³apówek od ludzi o du¿ych wp³ywach w naszym kraju za doradzanie rz¹dowi w sposób zgodny z ich interesami. Jak mamy zareagowa¾ na tak¹ zdrad²?"
  corruption_event.7.a:0 "Publicznie ujawnij jego k³amstwa i przygotuj egzekucj²."
  corruption_event.7.b:0 "Zorganizuj cich¹ emerytur² w areszcie domowym."
  corruption_event.7.c:0 "Wystosuj upomnienie. Stronnicze rady to wci¹¿ rady."

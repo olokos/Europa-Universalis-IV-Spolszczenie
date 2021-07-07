@@ -90,3 +90,99 @@ defined_text = {
 		}
 	}
 }
+
+defined_text = {
+    name = GetLowLevelOfficialForCountry_acc
+
+    text = {
+        localisation_key = string_mandarin_acc
+        trigger = {
+			culture_group = east_asian #Chinese
+        }
+    }
+    text = {
+        localisation_key = string_zamindar_acc
+        trigger = {
+			religion_group = muslim
+			OR = {
+				culture_group = eastern_aryan
+				culture_group = hindusthani
+				culture_group = western_aryan
+				culture_group = dravidian
+				culture_group = central_indic
+			}
+        }
+    }
+	text = {
+        localisation_key = string_bey_acc
+        trigger = {
+			religion_group = muslim
+			NOT = {
+				culture_group = eastern_aryan
+				culture_group = hindusthani
+				culture_group = western_aryan
+				culture_group = dravidian
+				culture_group = central_indic
+			}
+        }
+	}
+	text = {
+        localisation_key = string_polygar_acc
+        trigger = {
+			NOT = { religion_group = muslim }
+			culture_group = dravidian
+        }
+	}
+	text = {
+        localisation_key = string_thakur_acc
+        trigger = {
+			NOT = { religion_group = muslim }
+			OR = {
+				culture_group = eastern_aryan
+				culture_group = hindusthani
+				culture_group = western_aryan
+				culture_group = central_indic
+			}
+        }
+	}
+	text = {
+		localisation_key = string_zupan_acc
+		trigger = {
+			culture_group = south_slavic
+		}
+	}
+	text = {
+		localisation_key = string_bailif_acc
+		trigger = {
+			OR = {
+				culture_group = british
+				culture_group = french
+				culture_group = germanic
+			}
+		}
+	}
+	text = {
+		localisation_key = string_ispan_acc
+		trigger = {
+			culture_group = carpathian
+		}
+	}
+	text = {
+        localisation_key = string_official_acc
+        trigger = {
+			NOT = { religion_group = muslim }
+			NOT = {
+				culture_group = east_asian
+				culture_group = eastern_aryan
+				culture_group = hindusthani
+				culture_group = western_aryan
+				culture_group = dravidian
+				culture_group = central_indic
+				culture_group = south_slavic
+				culture_group = british
+				culture_group = french
+				culture_group = germanic
+			}
+        }
+	}
+}

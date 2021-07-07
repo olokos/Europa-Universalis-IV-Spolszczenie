@@ -1,3 +1,4 @@
+
 defined_text = {
 	name = GetBrahminsName_CL
 	random = no
@@ -6222,5 +6223,183 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_PastEnd_PN
+	}
+}
+
+
+
+defined_text = {
+	name = GetMarathasOrRajputsOrNoblesName_gen
+	random = no
+	text = {
+		localisation_key = string_gen_estate_nobles
+		trigger = {
+			has_estate = estate_nobles
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_rajput
+		trigger = {
+			has_estate = estate_rajput
+			NOT = { has_estate = estate_nobles }
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_maratha
+		trigger = {
+			has_estate = estate_maratha
+			NOT = { has_estate = estate_nobles }
+		}
+	}
+}
+
+defined_text = {
+	name = GetMarathasOrRajputsOrNoblesName_dat
+	random = no
+	text = {
+		localisation_key = string_dat_estate_nobles
+		trigger = {
+			has_estate = estate_nobles
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_rajput
+		trigger = {
+			has_estate = estate_rajput
+			NOT = { has_estate = estate_nobles }
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_maratha
+		trigger = {
+			has_estate = estate_maratha
+			NOT = { has_estate = estate_nobles }
+		}
+	}
+}
+
+defined_text = {
+	name = GetMarathasOrRajputsOrNoblesName_EjYm
+	random = no
+	text = {
+		localisation_key = string_ej
+		trigger = {
+			has_estate = estate_nobles
+		}
+	}
+	text = {
+		localisation_key = string_man_AYm
+		trigger = {
+			OR = {
+				has_estate = estate_maratha
+				has_estate = estate_rajput
+			}
+			NOT = { has_estate = estate_nobles }
+		}
+	}
+}
+
+defined_text = {
+	name = GetMarathasOrRajputsOrNoblesName_NounJa
+	random = no
+	text = {
+		localisation_key = string_NounJa_PN
+		trigger = {
+			has_estate = estate_nobles
+		}
+	}
+	text = {
+		localisation_key = string_NounJa_MM
+		trigger = {
+			OR = {
+				has_estate = estate_maratha
+				has_estate = estate_rajput
+			}
+			NOT = { has_estate = estate_nobles }
+		}
+	}
+}
+
+defined_text = {
+	name = GetMarathasOrRajputsOrNoblesName_Whose
+	random = no
+	text = {
+		localisation_key = string_Whose_PZ
+		trigger = {
+			has_estate = estate_nobles
+		}
+	}
+	text = {
+		localisation_key = string_Whose_MM
+		trigger = {
+			OR = {
+				has_estate = estate_maratha
+				has_estate = estate_rajput
+			}
+			NOT = { has_estate = estate_nobles }
+		}
+	}
+}
+
+defined_text = {
+	name = GetMarathasOrRajputsOrNoblesName_AI
+	random = no
+	text = {
+		localisation_key = string_AdjEndS_PZ
+		trigger = {
+			has_estate = estate_nobles
+		}
+	}
+	text = {
+		localisation_key = string_AdjEndS_MM
+		trigger = {
+			OR = {
+				has_estate = estate_maratha
+				has_estate = estate_rajput
+			}
+			NOT = { has_estate = estate_nobles }
+		}
+	}
+}
+
+defined_text = {
+	name = GetMarathasOrRajputsOrNoblesName_JejIm
+	random = no
+	text = {
+		localisation_key = string_her_dat
+		trigger = {
+			has_estate = estate_nobles
+		}
+	}
+	text = {
+		localisation_key = string_Who_MM
+		trigger = {
+			OR = {
+				has_estate = estate_maratha
+				has_estate = estate_rajput
+			}
+			NOT = { has_estate = estate_nobles }
+		}
+	}
+}
+
+defined_text = {
+	name = GetMarathasOrRajputsOrNoblesName_JaIch
+	random = no
+	text = {
+		localisation_key = string_NounJa_MM
+		trigger = {
+			has_estate = estate_nobles
+		}
+	}
+	text = {
+		localisation_key = string_Whose_MM
+		trigger = {
+			OR = {
+				has_estate = estate_maratha
+				has_estate = estate_rajput
+			}
+			NOT = { has_estate = estate_nobles }
+		}
 	}
 }
