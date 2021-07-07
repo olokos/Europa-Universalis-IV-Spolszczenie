@@ -1934,7 +1934,7 @@
  alert_alliance_breaking_instant: "§YZerwany Sojusz§!"
  alert_alliance_breaking_delayed: "Następujący sojusznicy nie uważają już sojuszu z Tobą za warty utrzymania i wkrótce go zakończą:\n$LIST$."
  alert_alliance_breaking_reasons: "\n\nPragnienie utrzymania naszego sojuszu z państwem $COUNTRY_ADJ|Y$ wynosi obecnie $VAL$, z powodu:\n$REASONS$"
- alert_unconditional_surrender_instant: "§YBezwarunkowa Kapitulacja§!"
+ alert_unconditional_surrender_instant: "§YBezwarunkowa kapitulacja§!"
  alert_unconditional_surrender_delayed: "Następujący wrogowie rzucili broń i bezwarunkowo się poddali:\n$LIST$.\n\nMusisz jak najszybciej wysłać im propozycje pokojowe, które zostaną automatycznie przyjęte. W przeciwnym razie w twoim państwie rozbrzmi wezwanie do zawarcia pokoju."
  alert_diplo_annexing_instant: "Mamy duże szanse na powodzenie aneksji na drodze dyplomatycznej."
  alert_diplo_annexing_delayed: "$LIST$"
