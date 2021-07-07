@@ -124,6 +124,21 @@ defined_text = {
 	}
 }
 
+## władca/władczyni
+defined_text = {
+	name = GetRul
+	random = no
+	text = {
+		localisation_key = string_word_wladczyni
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_word_wladca
+	}
+}
+
 ## ą/ego
 defined_text = {
 	name = GetAEgoDat

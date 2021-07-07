@@ -186,3 +186,54 @@ defined_text = {
         }
 	}
 }
+
+defined_text = {
+	name = GetNoblesReplacementForOtherGovernments_AE
+
+	text = {
+		localisation_key = string_end_a
+		trigger = {
+			NOT = { government = republic }
+		}
+	}
+	text = {
+		localisation_key = string_end_e
+		trigger = {
+			government = republic
+		}
+	}
+}
+
+defined_text = {
+	name = GetNoblesReplacementForOtherGovernments_BE
+
+	text = {
+		localisation_key = string_word_jest
+		trigger = {
+			NOT = { government = republic }
+		}
+	}
+	text = {
+		localisation_key = string_word_sa
+		trigger = {
+			government = republic
+		}
+	}
+}
+
+defined_text = {
+	name = GetNoblesReplacementForOtherGovernments_JejIch
+
+	text = {
+		localisation_key = string_end_jej
+		trigger = {
+			NOT = { government = republic }
+		}
+	}
+	text = {
+		localisation_key = string_end_ich
+		trigger = {
+			government = republic
+		}
+	}
+}

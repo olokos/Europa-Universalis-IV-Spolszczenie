@@ -48,6 +48,8 @@
  string_word_odszedl: "Odszedł"
  string_word_wladczynie: "władczynię"
  string_word_wladce: "władcę"
+ string_word_wladczyni: "władczyni"
+ string_word_wladca: "władca"
  string_word_jest: "jest"
  string_word_sa: "są"
  string_word_nowej: "nowej"
