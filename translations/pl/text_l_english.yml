@@ -1958,7 +1958,7 @@
  alert_loan_due_instant: "§YMasz pożyczki§!"
  alert_loan_due_delayed: "Pożyczone pieniądze należy zwrócić. Nadchodzi czas spłaty. Należy uregulować poniższe zobowiązania:\n$LIST$"
  alert_army_tradition_high_no_general_instant: "§YMasz Wysoki poziom Tradycji Wojskowej§!"
- alert_army_tradition_high_no_general_delayed: "Tradycja Wojskowa może z czasem ulec zmniejszeniu. Obecnie możesz zwerbować dobrego generała.\n "
+ alert_army_tradition_high_no_general_delayed: "Tradycja Wojskowa może z czasem ulec zmniejszeniu. Obecnie możesz zwerbować dobrego generała."
  alert_navy_tradition_high_no_admiral_instant: "§YMasz Wysoki poziom Tradycji Morskiej§!"
  alert_navy_tradition_high_no_admiral_delayed: "Tradycja Morska może z czasem ulec zmniejszeniu. Obecnie możesz zwerbować dobrego generała."
  incite_troop_desertion: "Doprowadź do dezercji wojsk"
