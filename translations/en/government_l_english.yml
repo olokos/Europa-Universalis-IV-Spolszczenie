@@ -265,7 +265,7 @@
  mechanic_has_harem_yes: "Ruler has a harem."
  mechanic_has_harem_no: "Ruler does not have a harem."
  mechanic_has_pashas_yes: "Can place Pashas & recruit Janissaries."
- mechanic_boost_income_yes: "Enables Merchant Republic Mechanics."
+ mechanic_boost_income_yes: "Enables Merchant Republic Mechanics (Vassals transfer trade power to you, higher state governing cost, cheaper Trade Companies)."
  mechanic_boost_income_no: "Disables Merchant Republic Mechanics."
  mechanic_can_use_trade_post_yes: "Can place Trade Posts."
  mechanic_can_use_trade_post_no: "Cannot place Trade Posts."

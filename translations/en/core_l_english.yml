@@ -289,7 +289,7 @@
  PEACE_SHOW_STRENGTH: "Show Strength"
  PEACE_HUMILIATE: "Humiliate"
  INFLATION_DESC: "Inflation may come from having too much gold income (in comparison to other income) or from taking loans."
- INLAND_SEA_DESC: "This is an inland sea, Galleys will be more effective here, performing at a higher level in combat."
+ INLAND_SEA_DESC: "This is an inland sea, Galleys will be more effective here, doing 100% more damage in combat against other non-Galleys."
  SIEGE_ATTACKER_INFANTRY_DESC: "The attacker has $NUM|Y$ infantry."
  SIEGE_ATTACKER_CAVALRY_DESC: "The attacker has $NUM|Y$ cavalry."
  SIEGE_ATTACKER_ARTILLERY_DESC: "The attacker has $NUM|Y$ artillery."

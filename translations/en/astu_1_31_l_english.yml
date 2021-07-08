@@ -41,3 +41,8 @@
  CONSTRUCTION_LOST_3: "You can´t build ships if you have no port"
  CONSTRUCTION_LOST_LOG: "Ships lost due to migrating into a new province"
  CONSTRUCTION_LOST_BTN1: "OK"
+ PRIMARY_LOCAL: "§YPrimary controller§!\nThis player will receive all the events.\n"
+ NOT_PRIMARY_LOCAL: "§YSecondary controller§!\nThis player will not receive events.\n"
+ PRIMARY_LOCAL_OBSERVER: "§YPrimary controller§!\nThis player is in observer mode, he will only see events of the ingame selected country.\n"
+ COOP_NOT_ENABLED: "§RCooperative mode is not enabled§!\n"
+ KICK_PLAYER: "Right Click to kick the player from the game.\n"
