@@ -565,6 +565,7 @@
  estate_dhimmi_build_university_in_y: "Sponsoruj szkoły zimmów w prowincji [agenda_province.GetName]"
  estate_dhimmi_stop_converting_province_x: "Chroń prawa mniejszości w prowincji [agenda_province.GetName]"
  estate_dhimmi_increase_autonomy_in_province_x: "Zwiększ autonomię prowincji [agenda_province.GetName]"
+ estate_dhimmi_increase_autonomy_in_province_x_tooltip: "Autonomia prowincji [agenda_province.GetName] jest ograniczona o 10"
  estate_dhimmi_three_privileges: "Zwiększ przywileje zimmów"
  estate_dhimmi_relations_with_X: "Popraw stosunki z państwem [agenda_country.GetName]"
  agenda_automatically_completed: "Ten program zostanie ukończony automatycznie."
