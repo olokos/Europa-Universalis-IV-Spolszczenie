@@ -265,7 +265,7 @@
  mechanic_has_harem_yes: "Władca ma harem."
  mechanic_has_harem_no: "Władca nie ma haremu."
  mechanic_has_pashas_yes: "Może umieszczać paszów i rekrutować janczarów."
- mechanic_boost_income_yes: "Włącza mechanikę republik kupieckich."
+ mechanic_boost_income_yes: "Odblokowuje mechanikę republik kupieckich (wasale przekazują ci siłę handlową, wyższy koszt zarządzania państwem, tańsze Kompanie Handlowe)."
  mechanic_boost_income_no: "Wyłącz mechanikę republik kupieckich."
  mechanic_can_use_trade_post_yes: "Może umieszczać placówki handlowe."
  mechanic_can_use_trade_post_no: "Nie może umieszczać placówek handlowych."
