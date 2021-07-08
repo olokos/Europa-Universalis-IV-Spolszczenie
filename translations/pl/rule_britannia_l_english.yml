@@ -278,7 +278,7 @@
  innovativeness_events.4.t: "Zagraniczny wynalazca"
  innovativeness_events.4.d: "Przybył genialny wynalazca [Inventor_country.GetAdjective] z państwa  [Inventor_country.GetName], aby ubiegać się o nasz patronat ponieważ został wyrzucony z kraju przez [Inventor_country.GovernmentName]. [Root.inventor.GetName] jest opisywany przez niektórych jako jeden z wielkich umysłów tej epoki, dokonujący wielu wynalazków mechanicznych i chemicznych, których większość nie jest w stanie zrozumieć."
  innovativeness_events.4.a: "Przyjmijmy [Root.inventor.GetName]!"
- innovativeness_events.4.b: "Nie chcemy ryzykować pogorszenia stosunków z [inventor_country.GetDefiniteArticleBeforePluralCountry][inventor_country.GetName]."
+ innovativeness_events.4.b: "Nie chcemy ryzykować pogorszenia stosunków z państwem [inventor_country.GetName]."
  innovativeness_events.5.t: "Edukacja dla biednych?"
  innovativeness_events.5.d: "Lokalny filantrop religijny zaczął tworzyć szkoły dla biednych dzieci w prowincji [poor_province.GetName]. Jego ambicją jest nauczenie czytania i pisania ubogich i wychowanie ich na drodze wiary [Root.Religion.GetName].\nOczywiście są tacy, którzy twierdzą, że nie jest to działalność pozbawiona ryzyka."
  innovativeness_events.5.a: "Świetna inicjatywa!"
