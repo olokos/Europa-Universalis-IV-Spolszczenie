@@ -7467,7 +7467,7 @@
  desc_the_last_joust: "Choć w naszej armii wciąż służą rycerze, tradycje rycerstwa powoli zamierają."
  NOCLAIMLESSER: "Nie możesz wysuwać pretensji do tronu, jako słabszy partner w unii personalnej."
  florentine_school: "Wsparcie dla szkoły florenckiej"
- desc_florentine_school: "Florencka szkoła sztuki wywodziła się z Włoch i znana była przede wszystkim z naturalistycznego stylu i słynnych fresków. Takie nazwiska, jak Donatello, Michał Anioł czy Brunelleschi znane są na całym świecie. Państwo $COUNTRY$ wspiera tych artystów, o czym mówi się na całym świecie."
+ desc_florentine_school: "Florencka szkoła sztuki wywodziła się z Włoch i znana była przede wszystkim z naturalistycznego stylu i słynnych fresków. Takie nazwiska, jak Donatello, Michał Anioł czy Brunelleschi znane są na całym świecie. Państwo [Root.GetName] wspiera tych artystów, o czym mówi się na całym świecie."
  support_florentine_school_title: "Wspieraj szkołę florencką"
  support_florentine_school_desc: "Cieszymy się względnym poważaniem, a więc możemy zaproponować wsparcie dla włoskich artystów ze szkoły florenckiej. Patronowanie sztuce międzynarodowej na pewno wspomoże nasze wysiłki propagandowe."
  court_byzantine_refugees_title: "Uchodźcy z Bizancjum"
