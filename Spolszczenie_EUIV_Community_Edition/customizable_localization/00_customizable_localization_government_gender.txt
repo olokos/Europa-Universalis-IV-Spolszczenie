@@ -1359,7 +1359,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = { region = japan_region }
 			}
 		}
@@ -1377,7 +1377,7 @@ defined_text = {
 				has_reform = leading_clergy_reform
 				has_reform = monastic_order_reform
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = { region = japan_region }
 			}
 		}
@@ -1389,7 +1389,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = { region = japan_region }
 			}
 		}
@@ -2771,7 +2771,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = { region = japan_region }
 			}
 		}
@@ -2789,7 +2789,7 @@ defined_text = {
 				has_reform = leading_clergy_reform
 				has_reform = monastic_order_reform
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = { region = japan_region }
 			}
 		}
@@ -2801,7 +2801,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = { region = japan_region }
 			}
 		}
@@ -3893,14 +3893,24 @@ defined_text = {
 		localisation_key = string_word_moze
 		trigger = {
 			culture_group = iberian
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 	text={
 		localisation_key = string_word_moze
 		trigger = {
 			primary_culture = dutch
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 	text={
@@ -4061,7 +4071,12 @@ defined_text = {
 	text={
 		localisation_key = string_word_moze
 		trigger = {
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 	text={
@@ -4216,7 +4231,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = { region = japan_region }
 			}
 		}
@@ -4233,7 +4248,7 @@ defined_text = {
 				has_reform = leading_clergy_reform
 				has_reform = monastic_order_reform
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = { region = japan_region }
 			}
 		}
@@ -4244,7 +4259,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = { region = japan_region }
 			}
 		}
