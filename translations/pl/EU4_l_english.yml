@@ -1628,7 +1628,7 @@
  root_out_corruption: "Wyplenianie korupcji"
  corruption: "Korupcja"
  CORRUPTION_SLIDER_TOOLTIP: "Przy takich ustawieniach będziemy płacić do §Y$PERDEV$§!¤ na §Ypoziom rozwoju§! za comiesięczne zwalczanie §Ykorupcji§!. Obecnie płacimy §Y$COST$§!¤ co miesiąc, ograniczając korupcję o $ROOTOUT$ rocznie, co rocznie daje razem $CHANGE$."
- CORRUPTION_EXPLANATION: "Z czasem korupcja wzrasta z powodu niezrównoważonych badań, nadmiernych napięć, braku jedności religijnej i posiadania większej liczby terytoriów niż stanów. Można ją zmniejszyć dzięki wysokiej stabilności i wyprzedzaniu technologii administracyjnych lub dyplomatycznych. Jeśli wszystko inne zawiedzie, możesz wydać dukaty, aby z czasem zmniejszyć korupcję. Korupcja może wpłynąć na wszystkie koszty energii, minimalną autonomię, a także ochronę przed szpiegowaniem i szybkość budowy sieci szpiegowskiej."
+ CORRUPTION_EXPLANATION: "Z czasem korupcja wzrasta z powodu niezrównoważonych badań, nadmiernego przerostu i braku jedności religijnej. Można ją zmniejszyć dzięki wysokiej stabilności i wyprzedzaniu technologii administracyjnych lub dyplomatycznych. Jeśli wszystko inne zawiedzie, możesz wydać dukaty, aby z czasem zmniejszyć korupcję. Korupcja może wpłynąć na wszystkie koszty energii, minimalną autonomię, a także ochronę przed szpiegowaniem i szybkość budowy sieci szpiegowskiej."
  MERCANTILISM_LABEL: "Merkantylizm"
  positive_piety: "Legalizm"
  negative_piety: "Mistycyzm"
