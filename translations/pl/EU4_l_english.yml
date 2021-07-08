@@ -4950,7 +4950,7 @@
  REQUIRED_COMBAT_WIDTH: "Rozpiętość działań"
  LEADER_MANUEVER: "Umiejętność manewrowania: $VAL$"
  NO_DEVASTATION_PROSP_MAP_TT: "Wszyscy $NAME|Y$ cieszą się dobrobytem!"
- NO_DEVASTATION_MAP_TT: "Kraj $NAME|Y$ nie jest zdewastowany."
+ NO_DEVASTATION_MAP_TT: "Prowincja $NAME|Y$ nie jest zdewastowana."
  DEVASTATION_MAP_TT: "Dewastacja w prowincji $NAME|Y$ wynosi §R$VAL$%§!"
  CONFIRM_CORE_ALL_TITLE: "Przekształć wszystkie prowincje  $NAME$ w narodowe"
  CONFIRM_CORE_ALL_TITLE_TEXT: "Czy na pewno chcesz wydać §Y$COST$§!£adm£, by przekształcić następujące $COUNT$ z $TOTAL$ prowincji w narodowe?\n§Y$PROVS$§!"
