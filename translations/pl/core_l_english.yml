@@ -289,7 +289,7 @@
  PEACE_SHOW_STRENGTH: "Okaż siłę"
  PEACE_HUMILIATE: "Upokorz"
  INFLATION_DESC: "Inflacja może być powodowana zbyt wysokim przychodem złota (w porównaniu z innymi źródłami dochodu) lub zaciąganiem pożyczek."
- INLAND_SEA_DESC: "To jest morze śródlądowe, galery będą tutaj silniejsze i bardziej skuteczne podczas bitew."
+ INLAND_SEA_DESC: "To jest morze śródlądowe, galery będą tu bardziej efektywne, zadając 100% więcej obrażeń w walce z innymi statkami nie będącymi galerami."
  SIEGE_ATTACKER_INFANTRY_DESC: "Agresor ma $NUM|Y$ jednostek piechoty."
  SIEGE_ATTACKER_CAVALRY_DESC: "Agresor ma $NUM|Y$ jednostek kawalerii."
  SIEGE_ATTACKER_ARTILLERY_DESC: "Agresor ma $NUM|Y$ jednostek artylerii."
