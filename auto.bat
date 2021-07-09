@@ -21,10 +21,8 @@ call jrepl ": \q \q"^
          ": \q\q" /m /x /t "|" /f "temp\supply\custom_localisation_l_english.yml" /o -
 )
 
-pause
 echo "Starting compiling latest translations to desired language - in this case - polish."
 java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_to_eu4" "temp\\supply" "temp\\eu4" "%charset%"
-
 
 cd "%project_folder%"
 echo "Removing old localisations"
