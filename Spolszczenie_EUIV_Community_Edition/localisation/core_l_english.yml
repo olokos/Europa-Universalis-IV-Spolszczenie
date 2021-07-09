@@ -289,7 +289,7 @@
  PEACE_SHOW_STRENGTH:0 "Oka¿ si³²"
  PEACE_HUMILIATE:0 "Upokorz"
  INFLATION_DESC:0 "Inflacja mo¿e by¾ powodowana zbyt wysokim przychodem z³ota (w porównaniu z innymi Ÿród³ami dochodu) lub zaci¹ganiem po¿yczek."
- INLAND_SEA_DESC:0 "To jest morze œródl¹dowe, galery b²d¹ tutaj silniejsze i bardziej skuteczne podczas bitew."
+ INLAND_SEA_DESC:0 "To jest morze œródl¹dowe, galery b²d¹ tu bardziej efektywne, zadaj¹c 100% wi²cej obra¿eª w walce z innymi statkami nie b²d¹cymi galerami."
  SIEGE_ATTACKER_INFANTRY_DESC:0 "Agresor ma $NUM|Y$ jednostek piechoty."
  SIEGE_ATTACKER_CAVALRY_DESC:0 "Agresor ma $NUM|Y$ jednostek kawalerii."
  SIEGE_ATTACKER_ARTILLERY_DESC:0 "Agresor ma $NUM|Y$ jednostek artylerii."

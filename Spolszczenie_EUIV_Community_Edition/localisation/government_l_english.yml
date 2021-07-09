@@ -265,7 +265,7 @@
  mechanic_has_harem_yes:0 "W³adca ma harem."
  mechanic_has_harem_no:0 "W³adca nie ma haremu."
  mechanic_has_pashas_yes:0 "Mo¿e umieszcza¾ paszów i rekrutowa¾ janczarów."
- mechanic_boost_income_yes:0 "W³¹cza mechanik² republik kupieckich."
+ mechanic_boost_income_yes:0 "Odblokowuje mechanik² republik kupieckich (wasale przekazuj¹ ci si³² handlow¹, wy¿szy koszt zarz¹dzania paªstwem, taªsze Kompanie Handlowe)."
  mechanic_boost_income_no:0 "Wy³¹cz mechanik² republik kupieckich."
  mechanic_can_use_trade_post_yes:0 "Mo¿e umieszcza¾ placówki handlowe."
  mechanic_can_use_trade_post_no:0 "Nie mo¿e umieszcza¾ placówek handlowych."

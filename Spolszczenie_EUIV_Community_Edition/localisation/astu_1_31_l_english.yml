@@ -41,3 +41,8 @@
  CONSTRUCTION_LOST_3:0 "Nie mo¿esz budowa¾ statków, jeœli nie masz portu"
  CONSTRUCTION_LOST_LOG:0 "Utracono statki w wyniku migracji do nowej prowincji"
  CONSTRUCTION_LOST_BTN1:0 "Rozumiem."
+ PRIMARY_LOCAL:0 "§YG³ówny gracz§!\nTen gracz b²dzie otrzymywa³ powiadomieª o wydarzeniach.\n"
+ NOT_PRIMARY_LOCAL:0 "§YDrugi gracz§!\nTen gracz nie b²dzie otrzymywa³ powiadomieª o wydarzeniach.\n"
+ PRIMARY_LOCAL_OBSERVER:0 "§YG³ówny gracz§!\nTen gracz jest w trybie obserwatora, b²dzie widzia³ tylko powiadomienia o wydarzeniach z wybranego w grze kraju.\n"
+ COOP_NOT_ENABLED:0 "§RTryb wspó³pracy nie jest w³¹czony§!\n"
+ KICK_PLAYER:0 "Kliknij prawym przyciskiem myszy, aby wyrzuci¾ gracza z gry.\n"
