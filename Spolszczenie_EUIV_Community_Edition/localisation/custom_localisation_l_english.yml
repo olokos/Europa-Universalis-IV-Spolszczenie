@@ -122,7 +122,7 @@
  string_l_ivory_figurines:0 "rzeŸby z koœci s³oniowej"
  string_l_calligraphy:0 "kaligrafia"
  string_l_frankincense:0 "kadzid³o"
- string_definite_article_before_country:0 " "
+ string_definite_article_before_country:0 ""
  string_empty:0 ""
  string_ruler_name_really:0 "[Root.Monarch.GetName]"
  string_regency_council:0 "Rada Regencyjna"
