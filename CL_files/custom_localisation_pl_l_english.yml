@@ -829,3 +829,8 @@
  string_bailif_acc: "Baliwa" # Baliw
  string_ispan_acc: "Ispána" # Ispán
  string_official_acc: "Urzędnika" # Urzędnik
+ ## GetGovernmentSupporters_plur_gen
+ string_royalist_plur_gen: "rojalistów" #rojaliści
+ string_khanzada_plur_gen: "chan-zady" #chan-zada
+ string_republican_plur_gen: "republikanów" #republikanie
+ string_clergy_plur_gen: "kleru" #kler

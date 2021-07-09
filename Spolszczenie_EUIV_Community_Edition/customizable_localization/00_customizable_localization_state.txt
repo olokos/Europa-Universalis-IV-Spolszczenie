@@ -237,3 +237,38 @@ defined_text = {
 		}
 	}
 }
+
+defined_text = {
+    name = GetGovernmentSupporters_plur_gen
+
+    text = {
+        localisation_key = string_royalist_plur_gen
+		trigger = {
+			government = monarchy
+		}
+    }
+	text = {
+        localisation_key = string_khanzada_plur_gen
+		trigger = {
+			has_reform = steppe_horde
+		}
+    }
+	text = {
+        localisation_key = string_royalist_plur_gen
+		trigger = {
+			government = tribal
+		}
+    }
+	text = {
+		 localisation_key = string_republican_plur_gen
+		trigger = {
+			government = republic
+		}
+	}
+	text = {
+		 localisation_key = string_clergy_plur_gen
+		trigger = {
+			government = theocracy
+		}
+	}
+}
