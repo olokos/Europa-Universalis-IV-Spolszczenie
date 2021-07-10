@@ -777,3 +777,7 @@
  string_bailif_acc:0 "Baliwa"
  string_ispan_acc:0 "Ispána"
  string_official_acc:0 "Urz²dnika"
+ string_royalist_plur_gen:0 "rojalistów"
+ string_khanzada_plur_gen:0 "chan-zady"
+ string_republican_plur_gen:0 "republikanów"
+ string_clergy_plur_gen:0 "kleru"

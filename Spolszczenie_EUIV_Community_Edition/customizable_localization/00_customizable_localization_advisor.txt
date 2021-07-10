@@ -825,7 +825,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_ampty
+		localisation_key = string_end_empty
 		trigger = {
 			OR = {
 				employed_advisor = { type = philosopher is_male = yes }
