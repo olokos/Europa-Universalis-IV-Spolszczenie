@@ -1,5 +1,5 @@
 defined_text = {
-	name = GetGovNameGen
+	name = GetGovGender_can
 	random = no
 	text={
 		localisation_key = string_word_moze

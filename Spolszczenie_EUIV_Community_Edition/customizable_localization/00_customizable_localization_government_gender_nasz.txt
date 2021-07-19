@@ -1,5 +1,5 @@
 defined_text = {
-	name = GetGovNameGen
+	name = GetGovGender_nasz
 	random = no
 	text={
 		localisation_key = string_end_ego
