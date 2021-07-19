@@ -38,6 +38,7 @@
  string_end_one:0 "one"
  string_end_ony:0 "ony"
  string_end_y:0 "y"
+ string_end_ych:0 "ych"
  string_end_ym:0 "ym"
  string_end_zapl:0 "z¹"
  string_end_zie:0 "zie"
@@ -55,3 +56,5 @@
  string_word_nowego:0 "nowego"
  string_word_moze:0 "mo¿e"
  string_word_moga:0 "mog¹"
+ string_word_woman_dat:0 "kobiet¹"
+ string_word_man_dat:0 "m²¿czyzn¹"

@@ -170,14 +170,14 @@
  string_christian_adj: "chrześcijański" #Chrześcijaństwo
  string_muslim_adj: "muzułmański" #Islam
  string_eastern_adj: "wschodni" #Wschodnia
- string_dharmic_adj: "dharmski" #Dharmizm
+ string_dharmic_adj: "dharmiczny" #Dharmizm
  string_pagan_adj: "pogański" #Pogaństwo
  string_jewish_group_adj: "żydowski" #Judaizm
  string_zoroastrian_group_adj: "zaratusztriański" #Zaratusztrianizm
  string_christian_adj_Cap: "Chrześcijański" #Chrześcijaństwo
  string_muslim_adj_Cap: "Muzułmański" #Islam
  string_eastern_adj_Cap: "Wschodni" #Wschodnia
- string_dharmic_adj_Cap: "Dharmski" #Dharmizm
+ string_dharmic_adj_Cap: "Dharmiczny" #Dharmizm
  string_pagan_adj_Cap: "Pogański" #Pogaństwo
  string_jewish_group_adj_Cap: "Żydowski" #Judaizm
  string_zoroastrian_group_adj_Cap: "Zaratusztriański" #Zaratusztrianizm
@@ -185,7 +185,7 @@
  string_christian_adj_gen: "chrześcijańskiej" #Chrześcijaństwo
  string_muslim_adj_gen: "muzułmańskiej" #Islam
  string_eastern_adj_gen: "wschodniej" #Wschodnia
- string_dharmic_adj_gen: "dharmskiej" #Dharmizm
+ string_dharmic_adj_gen: "dharmicznej" #Dharmizm
  string_pagan_adj_gen: "pogańskiej" #Pogaństwo
  string_jewish_group_adj_gen: "żydowskiej" #Judaizm
  string_zoroastrian_group_adj_gen: "zaratusztriańskiej" #Zaratusztrianizm
