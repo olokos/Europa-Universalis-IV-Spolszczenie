@@ -109,21 +109,6 @@ defined_text = {
 	}
 }
 
-## władcę/władczynię
-defined_text = {
-	name = GetRulDat
-	random = no
-	text = {
-		localisation_key = string_word_wladczynie
-		trigger = {
-			is_female = yes
-		}
-	}
-	text = {
-		localisation_key = string_word_wladce
-	}
-}
-
 ## władca/władczyni
 defined_text = {
 	name = GetRul
@@ -139,9 +124,39 @@ defined_text = {
 	}
 }
 
+## władcę/władczynię
+defined_text = {
+	name = GetRulAcc
+	random = no
+	text = {
+		localisation_key = string_word_wladczynie
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_word_wladce
+	}
+}
+
+## władczyni/władcy
+defined_text = {
+	name = GetRulGen
+	random = no
+	text = {
+		localisation_key = string_word_wladczynie
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_word_wladce
+	}
+}
+
 ## ą/ego
 defined_text = {
-	name = GetAEgoDat
+	name = GetAEgo
 	random = no
 	text = {
 		localisation_key = string_end_apl
@@ -181,6 +196,51 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_word_syna
+	}
+}
+
+## kobietą/mężczyzną
+defined_text = {
+	name = GetWomanMan_dat
+	random = no
+	text = {
+		localisation_key = string_word_woman_dat
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_word_man_dat
+	}
+}
+
+## ej/ego
+defined_text = {
+	name = GetEjEgo
+	random = no
+	text = {
+		localisation_key = string_end_ej
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_end_ego
+	}
+}
+
+## a/i
+defined_text = {
+	name = GetAI
+	random = no
+	text = {
+		localisation_key = string_end_a
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_end_i
 	}
 }
 

@@ -114,7 +114,7 @@
  string_zoroastrianism_people_gen: "Zaratusztrianizmu" #Zaratusztrianizm
  string_judaism_gen: "Judaizmu" #Judaizm
  string_tengrianism_gen: "Tengryzmu" #Tengryzm
- string_dreamtime_gen: "Alczeringa"
+ string_dreamtime_gen: "Alczeringi" #Alczeringa
  string_norse_gen: "Nordycyzmu" #Nordycyzm
  string_mayan_gen: "Majów" #Majów
  string_nahuatl_gen: "Nahuatl" #Nahuatl
@@ -138,6 +138,57 @@
  string_protestantism_gen: "Protestantyzmu" #Protestantyzm
  string_anglicanism_gen: "Anglikanizmu" #Anglikanizm
  string_catholicism_gen: "Katolicyzmu" #Katolicyzm
+ ##celownik dla religii
+ string_zoroastrianism_people_dat: "Zaratusztrianizmowi" #Zaratusztrianizm
+ string_judaism_dat: "Judaizmowi" #Judaizm
+ string_tengrianism_dat: "Tengryzmowi" #Tengryzm
+ string_dreamtime_dat: "Alczerindze" #Alczeringa
+ string_norse_dat: "Nordycyzmowi" #Nordycyzm
+ string_mayan_dat: "Majom" #Majów
+ string_nahuatl_dat: "Nahuatl" #Nahuatl
+ string_inti_dat: "Inti" #Inti
+ string_totemism_dat: "Totemizmowi" #Totemizm
+ string_fetishism_dat: "Fetyszyzmowi" #Fetyszyzm
+ string_animism_dat: "Animizmowi" #Animizm
+ string_sikhism_dat: "Sikhizmowi" #Sikhizm
+ string_hinduism_dat: "Hinduizmowi" #Hinduizm
+ string_shintoism_dat: "Szintoizmowi" #Szintoizm
+ string_confucianism_dat: "Konfucjanizmowi" #Konfucjanizm
+ string_mahayana_dat: "Mahajanie" #Mahajana
+ string_vajrayana_dat: "Wadźrajanie" #Wadźrajana
+ string_theravada_dat: "Therawadzie" #Therawada
+ string_ibadism_dat: "Ibadytyzmowi" #Ibadytyzm
+ string_shia_dat: "Szyizmowi" #Szyizm
+ string_sunni_dat: "Sunnizmowi" #Sunnizm
+ string_coptic_dat: "Koptyzmowi" #Koptyzm
+ string_orthodox_dat: "Prawosławiu" #Prawosławie
+ string_reformed_dat: "Kalwinizmowi" #Kalwinizm
+ string_protestantism_dat: "Protestantyzmowi" #Protestantyzm
+ string_anglicanism_dat: "Anglikanizmowi" #Anglikanizm
+ string_catholicism_dat: "Katolicyzmowi" #Katolicyzm
+## przymiotnik dla grupy religijnej
+ string_christian_adj: "chrześcijański" #Chrześcijaństwo
+ string_muslim_adj: "muzułmański" #Islam
+ string_eastern_adj: "wschodni" #Wschodnia
+ string_dharmic_adj: "dharmski" #Dharmizm
+ string_pagan_adj: "pogański" #Pogaństwo
+ string_jewish_group_adj: "żydowski" #Judaizm
+ string_zoroastrian_group_adj: "zaratusztriański" #Zaratusztrianizm
+ string_christian_adj_Cap: "Chrześcijański" #Chrześcijaństwo
+ string_muslim_adj_Cap: "Muzułmański" #Islam
+ string_eastern_adj_Cap: "Wschodni" #Wschodnia
+ string_dharmic_adj_Cap: "Dharmski" #Dharmizm
+ string_pagan_adj_Cap: "Pogański" #Pogaństwo
+ string_jewish_group_adj_Cap: "Żydowski" #Judaizm
+ string_zoroastrian_group_adj_Cap: "Zaratusztriański" #Zaratusztrianizm
+## dopełniacz przymiotnika dla grupy religijnej
+ string_christian_adj_gen: "chrześcijańskiej" #Chrześcijaństwo
+ string_muslim_adj_gen: "muzułmańskiej" #Islam
+ string_eastern_adj_gen: "wschodniej" #Wschodnia
+ string_dharmic_adj_gen: "dharmskiej" #Dharmizm
+ string_pagan_adj_gen: "pogańskiej" #Pogaństwo
+ string_jewish_group_adj_gen: "żydowskiej" #Judaizm
+ string_zoroastrian_group_adj_gen: "zaratusztriańskiej" #Zaratusztrianizm
 ##Klasy społeczne
 #mała
  string_estate_brahmins: "bramini" #Bramini MM
@@ -834,3 +885,6 @@
  string_khanzada_plur_gen: "chan-zady" #chan-zada
  string_republican_plur_gen: "republikanów" #republikanie
  string_clergy_plur_gen: "kleru" #kler
+ ## GetNoblesReplacementForOtherGovernments_gen
+ string_nobility_gen: "Szlachty" #Szlachta
+ string_families_gen: "Wpływowych rodzin" #Wpływowe Rodziny

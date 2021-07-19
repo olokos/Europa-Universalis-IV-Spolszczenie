@@ -239,6 +239,40 @@ defined_text = {
 }
 
 defined_text = {
+	name = GetNoblesReplacementForOtherGovernments_AY
+
+	text = {
+		localisation_key = string_end_a
+		trigger = {
+			NOT = { government = republic }
+		}
+	}
+	text = {
+		localisation_key = string_end_y
+		trigger = {
+			government = republic
+		}
+	}
+}
+
+defined_text = {
+	name = GetNoblesReplacementForOtherGovernments_gen
+
+	text = {
+		localisation_key = string_nobility_gen
+		trigger = {
+			NOT = { government = republic }
+		}
+	}
+	text = {
+		localisation_key = string_families_gen
+		trigger = {
+			government = republic
+		}
+	}
+}
+
+defined_text = {
     name = GetGovernmentSupporters_plur_gen
 
     text = {

@@ -843,3 +843,267 @@ defined_text = {
 		}
 	}
 }
+
+## Celownik dla nazwy religii
+defined_text = {
+	name = GetReligion_dat
+	random = no
+	text = {
+		localisation_key = string_catholicism_dat
+		trigger = {
+			religion = catholic
+		}
+	}
+	text = {
+		localisation_key = string_anglicanism_dat
+		trigger = {
+			religion = anglican
+		}
+	}
+	text = {
+		localisation_key = string_protestantism_dat
+		trigger = {
+			religion = protestant
+		}
+	}
+	text = {
+		localisation_key = string_reformed_dat
+		trigger = {
+			religion = reformed
+		}
+	}
+	text = {
+		localisation_key = string_orthodox_dat
+		trigger = {
+			religion = orthodox
+		}
+	}
+	text = {
+		localisation_key = string_coptic_dat
+		trigger = {
+			religion = coptic
+		}
+	}
+	text = {
+		localisation_key = string_sunni_dat
+		trigger = {
+			religion = sunni
+		}
+	}
+	text = {
+		localisation_key = string_shia_dat
+		trigger = {
+			religion = shiite
+		}
+	}
+	text = {
+		localisation_key = string_ibadism_dat
+		trigger = {
+			religion = ibadi
+		}
+	}
+	text = {
+		localisation_key = string_theravada_dat
+		trigger = {
+			religion = buddhism
+		}
+	}
+	text = {
+		localisation_key = string_vajrayana_dat
+		trigger = {
+			religion = vajrayana
+		}
+	}
+	text = {
+		localisation_key = string_mahayana_dat
+		trigger = {
+			religion = mahayana
+		}
+	}
+	text = {
+		localisation_key = string_confucianism_dat
+		trigger = {
+			religion = confucianism
+		}
+	}
+	text = {
+		localisation_key = string_shintoism_dat
+		trigger = {
+			religion = shinto
+		}
+	}
+	text = {
+		localisation_key = string_hinduism_dat
+		trigger = {
+			religion = hinduism
+		}
+	}
+	text = {
+		localisation_key = string_sikhism_dat
+		trigger = {
+			religion = sikhism
+		}
+	}
+	text = {
+		localisation_key = string_animism_dat
+		trigger = {
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_fetishism_dat
+		trigger = {
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_totemism_dat
+		trigger = {
+			religion = totemism
+		}
+	}
+	text = {
+		localisation_key = string_inti_dat
+		trigger = {
+			religion = inti
+		}
+	}
+	text = {
+		localisation_key = string_nahuatl_dat
+		trigger = {
+			religion = nahuatl
+		}
+	}
+	text = {
+		localisation_key = string_mayan_dat
+		trigger = {
+			religion = mesoamerican_religion
+		}
+	}
+	text = {
+		localisation_key = string_norse_dat
+		trigger = {
+			religion = norse_pagan_reformed
+		}
+	}
+	text = {
+		localisation_key = string_tengrianism_dat
+		trigger = {
+			religion = tengri_pagan_reformed
+		}
+	}
+	text = {
+		localisation_key = string_dreamtime_dat
+		trigger = {
+			religion = dreamtime
+		}
+	}
+	text = {
+		localisation_key = string_judaism_dat
+		trigger = {
+			religion = jewish
+		}
+	}
+	text = {
+		localisation_key = string_zoroastrianism_dat
+		trigger = {
+			religion = zoroastrian
+		}
+	}
+}
+
+defined_text = {
+	name = GetReligionGroup_adj
+	text = {
+		localisation_key = string_christian_adj
+		trigger = { religion_group = christian }
+	}
+	text = {
+		localisation_key = string_muslim_adj
+		trigger = { religion_group = muslim }
+	}
+	text = {
+		localisation_key = string_eastern_adj
+		trigger = { religion_group = eastern }
+	}
+	text = {
+		localisation_key = string_dharmic_adj
+		trigger = { religion_group = dharmic }
+	}
+	text = {
+		localisation_key = string_pagan_adj
+		trigger = { religion_group = pagan }
+	}
+	text = {
+		localisation_key = string_jewish_group_adj
+		trigger = { religion_group = jewish_group }
+	}
+	text = {
+		localisation_key = string_zoroastrian_group_adj
+		trigger = { religion_group = zoroastrian_group }
+	}
+}
+
+defined_text = {
+	name = GetReligionGroup_adj_Cap
+	text = {
+		localisation_key = string_christian_adj_Cap
+		trigger = { religion_group = christian }
+	}
+	text = {
+		localisation_key = string_muslim_adj_Cap
+		trigger = { religion_group = muslim }
+	}
+	text = {
+		localisation_key = string_eastern_adj_Cap
+		trigger = { religion_group = eastern }
+	}
+	text = {
+		localisation_key = string_dharmic_adj_Cap
+		trigger = { religion_group = dharmic }
+	}
+	text = {
+		localisation_key = string_pagan_adj_Cap
+		trigger = { religion_group = pagan }
+	}
+	text = {
+		localisation_key = string_jewish_group_adj_Cap
+		trigger = { religion_group = jewish_group }
+	}
+	text = {
+		localisation_key = string_zoroastrian_group_adj_Cap
+		trigger = { religion_group = zoroastrian_group }
+	}
+}
+
+defined_text = {
+	name = GetReligionGroup_adj_gen
+	text = {
+		localisation_key = string_christian_adj_gen
+		trigger = { religion_group = christian }
+	}
+	text = {
+		localisation_key = string_muslim_adj_gen
+		trigger = { religion_group = muslim }
+	}
+	text = {
+		localisation_key = string_eastern_adj_gen
+		trigger = { religion_group = eastern }
+	}
+	text = {
+		localisation_key = string_dharmic_adj_gen
+		trigger = { religion_group = dharmic }
+	}
+	text = {
+		localisation_key = string_pagan_adj_gen
+		trigger = { religion_group = pagan }
+	}
+	text = {
+		localisation_key = string_jewish_group_adj_gen
+		trigger = { religion_group = jewish_group }
+	}
+	text = {
+		localisation_key = string_zoroastrian_group_adj_gen
+		trigger = { religion_group = zoroastrian_group }
+	}
+}
