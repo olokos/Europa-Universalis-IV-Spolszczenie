@@ -30,7 +30,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_al
+		localisation_key = string_end_y
 	}
 }
 
