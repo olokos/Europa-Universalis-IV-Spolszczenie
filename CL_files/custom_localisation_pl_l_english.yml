@@ -25,6 +25,7 @@
  string_reformed_people_Cap: "Kalwiniści"
  string_protestantism_people_Cap: "Protestanci"
  string_anglicanism_people_Cap: "Anglikanie"
+ string_hussite_people_Cap: "Husyci"
  string_catholicism_people_Cap: "Katolicy"
  ##########
  string_zoroastrianism_people: "zaratusztrianie"
@@ -53,6 +54,7 @@
  string_reformed_people: "kalwiniści"
  string_protestantism_people: "protestanci"
  string_anglicanism_people: "anglikanie"
+ string_hussite_people: "husyci"
  string_catholicism_people: "katolicy"
  ##dopełniacz dla wyznawców
  string_zoroastrianism_people_gen_Cap: "Zaratusztrianów"
@@ -81,6 +83,7 @@
  string_reformed_people_gen_Cap: "Kalwinistów"
  string_protestantism_people_gen_Cap: "Protestantów"
  string_anglicanism_people_gen_Cap: "Anglikanów"
+ string_hussite_people_gen_Cap: "Husytów"
  string_catholicism_people_gen_Cap: "Katolików"
  ##########
  string_zoroastrianism_people_gen: "zaratusztrianów"
@@ -109,6 +112,7 @@
  string_reformed_people_gen: "kalwinistów"
  string_protestantism_people_gen: "protestantów"
  string_anglicanism_people_gen: "anglikanów"
+ string_hussite_people_gen: "husytów"
  string_catholicism_people_gen: "katolików"
  ##dopełniacz dla religii
  string_zoroastrianism_people_gen: "Zaratusztrianizmu" #Zaratusztrianizm
@@ -137,6 +141,7 @@
  string_reformed_gen: "Kalwinizmu" #Kalwinizm
  string_protestantism_gen: "Protestantyzmu" #Protestantyzm
  string_anglicanism_gen: "Anglikanizmu" #Anglikanizm
+ string_hussite_gen: "Husytyzmu" #Anglikanizm
  string_catholicism_gen: "Katolicyzmu" #Katolicyzm
  ##celownik dla religii
  string_zoroastrianism_people_dat: "Zaratusztrianizmowi" #Zaratusztrianizm
@@ -165,6 +170,7 @@
  string_reformed_dat: "Kalwinizmowi" #Kalwinizm
  string_protestantism_dat: "Protestantyzmowi" #Protestantyzm
  string_anglicanism_dat: "Anglikanizmowi" #Anglikanizm
+ string_hussite_dat: "Husytyzmowi" #Anglikanizm
  string_catholicism_dat: "Katolicyzmowi" #Katolicyzm
 ## przymiotnik dla grupy religijnej
  string_christian_adj: "chrześcijański" #Chrześcijaństwo
@@ -761,6 +767,10 @@
  string_event_advisor_knoun_a: "[This.GetAdv_Adm_KNoun]"
  string_event_advisor_knoun_d: "[This.GetAdv_Dip_KNoun]"
  string_event_advisor_knoun_m: "[This.GetAdv_Mil_KNoun]"
+ ##ReligionPeop_gen
+ other_advisor_religion_ReligionPeop_gen_a: "[This.GetAdv_Adm_GetReligionPeop_gen]"
+ other_advisor_religion_ReligionPeop_gen_d: "[This.GetAdv_Dip_GetReligionPeop_gen]"
+ other_advisor_religion_ReligionPeop_gen_m: "[This.GetAdv_Mil_GetReligionPeop_gen]"
  ## Manufaktury dopełniacz
  string_building_wharf_gen: "Wytwórni wyposażenia okrętowego" #Wytwórnia wyposażenia okrętowego
  string_building_weapons_gen: "Wytwórni broni" #Wytwórnia broni

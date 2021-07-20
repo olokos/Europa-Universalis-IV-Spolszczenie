@@ -22,6 +22,12 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_hussite_people
+		trigger = {
+			religion = hussite
+		}
+	}
+	text = {
 		localisation_key = string_protestantism_people
 		trigger = {
 			religion = protestant
@@ -187,6 +193,12 @@ defined_text = {
 		localisation_key = string_anglicanism_people_Cap
 		trigger = {
 			religion = anglican
+		}
+	}
+	text = {
+		localisation_key = string_hussite_people_Cap
+		trigger = {
+			religion = hussite
 		}
 	}
 	text = {
@@ -358,6 +370,12 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_hussite_people_gen
+		trigger = {
+			religion = hussite
+		}
+	}
+	text = {
 		localisation_key = string_protestantism_people_gen
 		trigger = {
 			religion = protestant
@@ -522,6 +540,12 @@ defined_text = {
 		localisation_key = string_anglicanism_people_gen_Cap
 		trigger = {
 			religion = anglican
+		}
+	}
+	text = {
+		localisation_key = string_hussite_people_gen_Cap
+		trigger = {
+			religion = hussite
 		}
 	}
 	text = {
@@ -693,6 +717,12 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_hussite_gen
+		trigger = {
+			religion = hussite
+		}
+	}
+	text = {
 		localisation_key = string_protestantism_gen
 		trigger = {
 			religion = protestant
@@ -858,6 +888,12 @@ defined_text = {
 		localisation_key = string_anglicanism_dat
 		trigger = {
 			religion = anglican
+		}
+	}
+	text = {
+		localisation_key = string_hussite_dat
+		trigger = {
+			religion = hussite
 		}
 	}
 	text = {

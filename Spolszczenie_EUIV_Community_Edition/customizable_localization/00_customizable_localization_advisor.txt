@@ -808,40 +808,6 @@ defined_text = {
 }
 
 defined_text = {
-	name = GetAdv_Adm_KaNoun
-	random = no
-	text = {
-		localisation_key = string_end_ka
-		trigger = {
-			OR = {
-				employed_advisor = { type = philosopher is_female = yes }
-				employed_advisor = { type = natural_scientist is_female = yes }
-				employed_advisor = { type = artist is_female = yes }
-				employed_advisor = { type = treasurer is_female = yes }
-				employed_advisor = { type = theologian is_female = yes }
-				employed_advisor = { type = master_of_mint is_female = yes }
-				employed_advisor = { type = inquisitor is_female = yes }
-			}
-		}
-	}
-	text = {
-		localisation_key = string_end_empty
-		trigger = {
-			OR = {
-				employed_advisor = { type = philosopher is_male = yes }
-				employed_advisor = { type = natural_scientist is_male = yes }
-				employed_advisor = { type = artist is_male = yes }
-				employed_advisor = { type = treasurer is_male = yes }
-				employed_advisor = { type = theologian is_male = yes }
-				employed_advisor = { type = master_of_mint is_male = yes }
-				employed_advisor = { type = inquisitor is_male = yes }
-			}
-		}
-	}
-}
-
-
-defined_text = {
 	name = GetEventAdvisor_ANoun
 	random = no
 	text = {
@@ -1087,6 +1053,1073 @@ defined_text = {
 		localisation_key = string_event_advisor_knoun_m
 		trigger = {
 			has_country_flag = advisor_events_mil
+		}
+	}
+}
+
+defined_text = {
+	name = other_advisor_religion_ReligionPeop_gen
+	random = no
+	text = {
+		localisation_key = other_advisor_religion_ReligionPeop_gen_a
+		trigger = {
+			has_country_flag = adm_advisor_heretic
+		}
+	}
+	
+	text = {
+		localisation_key = other_advisor_religion_ReligionPeop_gen_d
+		trigger = {
+			has_country_flag = dip_advisor_heretic
+		}
+	}
+	
+	text = {
+		localisation_key = other_advisor_religion_ReligionPeop_gen_m
+		trigger = {
+			has_country_flag = mil_advisor_heretic
+		}
+	}
+}
+
+##other_advisor_religion_ReligionPeop_gen
+
+defined_text = {
+	name = GetAdv_Adm_GetReligionPeop_gen
+	random = no
+	text = {
+		localisation_key = string_catholicism_people_gen
+		trigger = {
+			employed_advisor = { category = ADM religion = catholic}
+		}
+	}
+	text = {
+		localisation_key = string_anglicanism_people_gen
+		trigger = {
+			employed_advisor = { category = ADM religion = anglican}
+		}
+	}
+	text = {
+		localisation_key = string_hussite_people_gen
+		trigger = {
+			employed_advisor = { category = ADM religion = hussite}
+		}
+	}
+	text = {
+		localisation_key = string_protestantism_people_gen
+		trigger = {
+			employed_advisor = { category = ADM religion = protestant}
+		}
+	}
+	text = {
+		localisation_key = string_reformed_people_gen
+		trigger = {
+			employed_advisor = { category = ADM religion = reformed}
+		}
+	}
+	text = {
+		localisation_key = string_orthodox_people_gen
+		trigger = {
+			employed_advisor = { category = ADM religion = orthodox}
+		}
+	}
+	text = {
+		localisation_key = string_coptic_people_gen
+		trigger = {
+			employed_advisor = { category = ADM religion = coptic}
+		}
+	}
+	text = {
+		localisation_key = string_sunni_people_gen
+		trigger = {
+			employed_advisor = { category = ADM religion = sunni}
+		}
+	}
+	text = {
+		localisation_key = string_shia_people_gen
+		trigger = {
+			employed_advisor = { category = ADM religion = shiite}
+		}
+	}
+	text = {
+		localisation_key = string_ibadism_people_gen
+		trigger = {
+			employed_advisor = { category = ADM religion = ibadi}
+		}
+	}
+	text = {
+		localisation_key = string_theravada_people_gen
+		trigger = {
+			employed_advisor = { category = ADM religion = buddhism}
+		}
+	}
+	text = {
+		localisation_key = string_vajrayana_people_gen
+		trigger = {
+			employed_advisor = { category = ADM religion = vajrayana}
+		}
+	}
+	text = {
+		localisation_key = string_mahayana_people_gen
+		trigger = {
+			employed_advisor = { category = ADM religion = mahayana}
+		}
+	}
+	text = {
+		localisation_key = string_confucianism_people_gen
+		trigger = {
+			employed_advisor = { category = ADM religion = confucianism}
+		}
+	}
+	text = {
+		localisation_key = string_shintoism_people_gen
+		trigger = {
+			employed_advisor = { category = ADM religion = shinto}
+		}
+	}
+	text = {
+		localisation_key = string_hinduism_people_gen
+		trigger = {
+			employed_advisor = { category = ADM religion = hinduism}
+		}
+	}
+	text = {
+		localisation_key = string_sikhism_people_gen
+		trigger = {
+			employed_advisor = { category = ADM religion = sikhism}
+		}
+	}
+	text = {
+		localisation_key = string_animism_people_gen
+		trigger = {
+			employed_advisor = { category = ADM religion = animism}
+		}
+	}
+	text = {
+		localisation_key = string_fetishism_people_gen
+		trigger = {
+			employed_advisor = { category = ADM religion = shamanism}
+		}
+	}
+	text = {
+		localisation_key = string_totemism_people_gen
+		trigger = {
+			employed_advisor = { category = ADM religion = totemism}
+		}
+	}
+	text = {
+		localisation_key = string_inti_people_gen
+		trigger = {
+			employed_advisor = { category = ADM religion = inti}
+		}
+	}
+	text = {
+		localisation_key = string_nahuatl_people_gen
+		trigger = {
+			employed_advisor = { category = ADM religion = nahuatl}
+		}
+	}
+	text = {
+		localisation_key = string_mayan_people_gen
+		trigger = {
+			employed_advisor = { category = ADM religion = mesoamerican_religion}
+		}
+	}
+	text = {
+		localisation_key = string_norse_people_gen
+		trigger = {
+			employed_advisor = { category = ADM religion = norse_pagan_reformed}
+		}
+	}
+	text = {
+		localisation_key = string_tengrianism_people_gen
+		trigger = {
+			employed_advisor = { category = ADM religion = tengri_pagan_reformed}
+		}
+	}
+	text = {
+		localisation_key = string_dreamtime_people_gen
+		trigger = {
+			employed_advisor = { category = ADM religion = dreamtime}
+		}
+	}
+	text = {
+		localisation_key = string_judaism_people_gen
+		trigger = {
+			employed_advisor = { category = ADM religion = jewish}
+		}
+	}
+	text = {
+		localisation_key = string_zoroastrianism_people_gen
+		trigger = {
+			employed_advisor = { category = ADM religion = zoroastrian}
+		}
+	}
+}
+
+defined_text = {
+	name = GetAdv_Dip_GetReligionPeop_gen
+	random = no
+	text = {
+		localisation_key = string_catholicism_people_gen
+		trigger = {
+			employed_advisor = { category = DIP religion = catholic}
+		}
+	}
+	text = {
+		localisation_key = string_anglicanism_people_gen
+		trigger = {
+			employed_advisor = { category = DIP religion = anglican}
+		}
+	}
+	text = {
+		localisation_key = string_hussite_people_gen
+		trigger = {
+			employed_advisor = { category = DIP religion = hussite}
+		}
+	}
+	text = {
+		localisation_key = string_protestantism_people_gen
+		trigger = {
+			employed_advisor = { category = DIP religion = protestant}
+		}
+	}
+	text = {
+		localisation_key = string_reformed_people_gen
+		trigger = {
+			employed_advisor = { category = DIP religion = reformed}
+		}
+	}
+	text = {
+		localisation_key = string_orthodox_people_gen
+		trigger = {
+			employed_advisor = { category = DIP religion = orthodox}
+		}
+	}
+	text = {
+		localisation_key = string_coptic_people_gen
+		trigger = {
+			employed_advisor = { category = DIP religion = coptic}
+		}
+	}
+	text = {
+		localisation_key = string_sunni_people_gen
+		trigger = {
+			employed_advisor = { category = DIP religion = sunni}
+		}
+	}
+	text = {
+		localisation_key = string_shia_people_gen
+		trigger = {
+			employed_advisor = { category = DIP religion = shiite}
+		}
+	}
+	text = {
+		localisation_key = string_ibadism_people_gen
+		trigger = {
+			employed_advisor = { category = DIP religion = ibadi}
+		}
+	}
+	text = {
+		localisation_key = string_theravada_people_gen
+		trigger = {
+			employed_advisor = { category = DIP religion = buddhism}
+		}
+	}
+	text = {
+		localisation_key = string_vajrayana_people_gen
+		trigger = {
+			employed_advisor = { category = DIP religion = vajrayana}
+		}
+	}
+	text = {
+		localisation_key = string_mahayana_people_gen
+		trigger = {
+			employed_advisor = { category = DIP religion = mahayana}
+		}
+	}
+	text = {
+		localisation_key = string_confucianism_people_gen
+		trigger = {
+			employed_advisor = { category = DIP religion = confucianism}
+		}
+	}
+	text = {
+		localisation_key = string_shintoism_people_gen
+		trigger = {
+			employed_advisor = { category = DIP religion = shinto}
+		}
+	}
+	text = {
+		localisation_key = string_hinduism_people_gen
+		trigger = {
+			employed_advisor = { category = DIP religion = hinduism}
+		}
+	}
+	text = {
+		localisation_key = string_sikhism_people_gen
+		trigger = {
+			employed_advisor = { category = DIP religion = sikhism}
+		}
+	}
+	text = {
+		localisation_key = string_animism_people_gen
+		trigger = {
+			employed_advisor = { category = DIP religion = animism}
+		}
+	}
+	text = {
+		localisation_key = string_fetishism_people_gen
+		trigger = {
+			employed_advisor = { category = DIP religion = shamanism}
+		}
+	}
+	text = {
+		localisation_key = string_totemism_people_gen
+		trigger = {
+			employed_advisor = { category = DIP religion = totemism}
+		}
+	}
+	text = {
+		localisation_key = string_inti_people_gen
+		trigger = {
+			employed_advisor = { category = DIP religion = inti}
+		}
+	}
+	text = {
+		localisation_key = string_nahuatl_people_gen
+		trigger = {
+			employed_advisor = { category = DIP religion = nahuatl}
+		}
+	}
+	text = {
+		localisation_key = string_mayan_people_gen
+		trigger = {
+			employed_advisor = { category = DIP religion = mesoamerican_religion}
+		}
+	}
+	text = {
+		localisation_key = string_norse_people_gen
+		trigger = {
+			employed_advisor = { category = DIP religion = norse_pagan_reformed}
+		}
+	}
+	text = {
+		localisation_key = string_tengrianism_people_gen
+		trigger = {
+			employed_advisor = { category = DIP religion = tengri_pagan_reformed}
+		}
+	}
+	text = {
+		localisation_key = string_dreamtime_people_gen
+		trigger = {
+			employed_advisor = { category = DIP religion = dreamtime}
+		}
+	}
+	text = {
+		localisation_key = string_judaism_people_gen
+		trigger = {
+			employed_advisor = { category = DIP religion = jewish}
+		}
+	}
+	text = {
+		localisation_key = string_zoroastrianism_people_gen
+		trigger = {
+			employed_advisor = { category = DIP religion = zoroastrian}
+		}
+	}
+}
+
+defined_text = {
+	name = GetAdv_Mil_GetReligionPeop_gen
+	random = no
+	text = {
+		localisation_key = string_catholicism_people_gen
+		trigger = {
+			employed_advisor = { category = MIL religion = catholic}
+		}
+	}
+	text = {
+		localisation_key = string_anglicanism_people_gen
+		trigger = {
+			employed_advisor = { category = MIL religion = anglican}
+		}
+	}
+	text = {
+		localisation_key = string_hussite_people_gen
+		trigger = {
+			employed_advisor = { category = MIL religion = hussite}
+		}
+	}
+	text = {
+		localisation_key = string_protestantism_people_gen
+		trigger = {
+			employed_advisor = { category = MIL religion = protestant}
+		}
+	}
+	text = {
+		localisation_key = string_reformed_people_gen
+		trigger = {
+			employed_advisor = { category = MIL religion = reformed}
+		}
+	}
+	text = {
+		localisation_key = string_orthodox_people_gen
+		trigger = {
+			employed_advisor = { category = MIL religion = orthodox}
+		}
+	}
+	text = {
+		localisation_key = string_coptic_people_gen
+		trigger = {
+			employed_advisor = { category = MIL religion = coptic}
+		}
+	}
+	text = {
+		localisation_key = string_sunni_people_gen
+		trigger = {
+			employed_advisor = { category = MIL religion = sunni}
+		}
+	}
+	text = {
+		localisation_key = string_shia_people_gen
+		trigger = {
+			employed_advisor = { category = MIL religion = shiite}
+		}
+	}
+	text = {
+		localisation_key = string_ibadism_people_gen
+		trigger = {
+			employed_advisor = { category = MIL religion = ibadi}
+		}
+	}
+	text = {
+		localisation_key = string_theravada_people_gen
+		trigger = {
+			employed_advisor = { category = MIL religion = buddhism}
+		}
+	}
+	text = {
+		localisation_key = string_vajrayana_people_gen
+		trigger = {
+			employed_advisor = { category = MIL religion = vajrayana}
+		}
+	}
+	text = {
+		localisation_key = string_mahayana_people_gen
+		trigger = {
+			employed_advisor = { category = MIL religion = mahayana}
+		}
+	}
+	text = {
+		localisation_key = string_confucianism_people_gen
+		trigger = {
+			employed_advisor = { category = MIL religion = confucianism}
+		}
+	}
+	text = {
+		localisation_key = string_shintoism_people_gen
+		trigger = {
+			employed_advisor = { category = MIL religion = shinto}
+		}
+	}
+	text = {
+		localisation_key = string_hinduism_people_gen
+		trigger = {
+			employed_advisor = { category = MIL religion = hinduism}
+		}
+	}
+	text = {
+		localisation_key = string_sikhism_people_gen
+		trigger = {
+			employed_advisor = { category = MIL religion = sikhism}
+		}
+	}
+	text = {
+		localisation_key = string_animism_people_gen
+		trigger = {
+			employed_advisor = { category = MIL religion = animism}
+		}
+	}
+	text = {
+		localisation_key = string_fetishism_people_gen
+		trigger = {
+			employed_advisor = { category = MIL religion = shamanism}
+		}
+	}
+	text = {
+		localisation_key = string_totemism_people_gen
+		trigger = {
+			employed_advisor = { category = MIL religion = totemism}
+		}
+	}
+	text = {
+		localisation_key = string_inti_people_gen
+		trigger = {
+			employed_advisor = { category = MIL religion = inti}
+		}
+	}
+	text = {
+		localisation_key = string_nahuatl_people_gen
+		trigger = {
+			employed_advisor = { category = MIL religion = nahuatl}
+		}
+	}
+	text = {
+		localisation_key = string_mayan_people_gen
+		trigger = {
+			employed_advisor = { category = MIL religion = mesoamerican_religion}
+		}
+	}
+	text = {
+		localisation_key = string_norse_people_gen
+		trigger = {
+			employed_advisor = { category = MIL religion = norse_pagan_reformed}
+		}
+	}
+	text = {
+		localisation_key = string_tengrianism_people_gen
+		trigger = {
+			employed_advisor = { category = MIL religion = tengri_pagan_reformed}
+		}
+	}
+	text = {
+		localisation_key = string_dreamtime_people_gen
+		trigger = {
+			employed_advisor = { category = MIL religion = dreamtime}
+		}
+	}
+	text = {
+		localisation_key = string_judaism_people_gen
+		trigger = {
+			employed_advisor = { category = MIL religion = jewish}
+		}
+	}
+	text = {
+		localisation_key = string_zoroastrianism_people_gen
+		trigger = {
+			employed_advisor = { category = MIL religion = zoroastrian}
+		}
+	}
+}
+
+##GetReligionPeop_Cap dla doradcy
+
+defined_text = {
+	name = GetAdv_Adm_GetReligionPeop_Cap
+	random = no
+	text = {
+		localisation_key = string_catholicism_people_Cap
+		trigger = {
+			employed_advisor = { category = ADM religion = catholic}
+		}
+	}
+	text = {
+		localisation_key = string_anglicanism_people_Cap
+		trigger = {
+			employed_advisor = { category = ADM religion = anglican}
+		}
+	}
+	text = {
+		localisation_key = string_hussite_people_Cap
+		trigger = {
+			employed_advisor = { category = ADM religion = hussite}
+		}
+	}
+	text = {
+		localisation_key = string_protestantism_people_Cap
+		trigger = {
+			employed_advisor = { category = ADM religion = protestant}
+		}
+	}
+	text = {
+		localisation_key = string_reformed_people_Cap
+		trigger = {
+			employed_advisor = { category = ADM religion = reformed}
+		}
+	}
+	text = {
+		localisation_key = string_orthodox_people_Cap
+		trigger = {
+			employed_advisor = { category = ADM religion = orthodox}
+		}
+	}
+	text = {
+		localisation_key = string_coptic_people_Cap
+		trigger = {
+			employed_advisor = { category = ADM religion = coptic}
+		}
+	}
+	text = {
+		localisation_key = string_sunni_people_Cap
+		trigger = {
+			employed_advisor = { category = ADM religion = sunni}
+		}
+	}
+	text = {
+		localisation_key = string_shia_people_Cap
+		trigger = {
+			employed_advisor = { category = ADM religion = shiite}
+		}
+	}
+	text = {
+		localisation_key = string_ibadism_people_Cap
+		trigger = {
+			employed_advisor = { category = ADM religion = ibadi}
+		}
+	}
+	text = {
+		localisation_key = string_theravada_people_Cap
+		trigger = {
+			employed_advisor = { category = ADM religion = buddhism}
+		}
+	}
+	text = {
+		localisation_key = string_vajrayana_people_Cap
+		trigger = {
+			employed_advisor = { category = ADM religion = vajrayana}
+		}
+	}
+	text = {
+		localisation_key = string_mahayana_people_Cap
+		trigger = {
+			employed_advisor = { category = ADM religion = mahayana}
+		}
+	}
+	text = {
+		localisation_key = string_confucianism_people_Cap
+		trigger = {
+			employed_advisor = { category = ADM religion = confucianism}
+		}
+	}
+	text = {
+		localisation_key = string_shintoism_people_Cap
+		trigger = {
+			employed_advisor = { category = ADM religion = shinto}
+		}
+	}
+	text = {
+		localisation_key = string_hinduism_people_Cap
+		trigger = {
+			employed_advisor = { category = ADM religion = hinduism}
+		}
+	}
+	text = {
+		localisation_key = string_sikhism_people_Cap
+		trigger = {
+			employed_advisor = { category = ADM religion = sikhism}
+		}
+	}
+	text = {
+		localisation_key = string_animism_people_Cap
+		trigger = {
+			employed_advisor = { category = ADM religion = animism}
+		}
+	}
+	text = {
+		localisation_key = string_fetishism_people_Cap
+		trigger = {
+			employed_advisor = { category = ADM religion = shamanism}
+		}
+	}
+	text = {
+		localisation_key = string_totemism_people_Cap
+		trigger = {
+			employed_advisor = { category = ADM religion = totemism}
+		}
+	}
+	text = {
+		localisation_key = string_inti_people_Cap
+		trigger = {
+			employed_advisor = { category = ADM religion = inti}
+		}
+	}
+	text = {
+		localisation_key = string_nahuatl_people_Cap
+		trigger = {
+			employed_advisor = { category = ADM religion = nahuatl}
+		}
+	}
+	text = {
+		localisation_key = string_mayan_people_Cap
+		trigger = {
+			employed_advisor = { category = ADM religion = mesoamerican_religion}
+		}
+	}
+	text = {
+		localisation_key = string_norse_people_Cap
+		trigger = {
+			employed_advisor = { category = ADM religion = norse_pagan_reformed}
+		}
+	}
+	text = {
+		localisation_key = string_tengrianism_people_Cap
+		trigger = {
+			employed_advisor = { category = ADM religion = tengri_pagan_reformed}
+		}
+	}
+	text = {
+		localisation_key = string_dreamtime_people_Cap
+		trigger = {
+			employed_advisor = { category = ADM religion = dreamtime}
+		}
+	}
+	text = {
+		localisation_key = string_judaism_people_Cap
+		trigger = {
+			employed_advisor = { category = ADM religion = jewish}
+		}
+	}
+	text = {
+		localisation_key = string_zoroastrianism_people_Cap
+		trigger = {
+			employed_advisor = { category = ADM religion = zoroastrian}
+		}
+	}
+}
+
+defined_text = {
+	name = GetAdv_Dip_GetReligionPeop_Cap
+	random = no
+	text = {
+		localisation_key = string_catholicism_people_Cap
+		trigger = {
+			employed_advisor = { category = DIP religion = catholic}
+		}
+	}
+	text = {
+		localisation_key = string_anglicanism_people_Cap
+		trigger = {
+			employed_advisor = { category = DIP religion = anglican}
+		}
+	}
+	text = {
+		localisation_key = string_hussite_people_Cap
+		trigger = {
+			employed_advisor = { category = DIP religion = hussite}
+		}
+	}
+	text = {
+		localisation_key = string_protestantism_people_Cap
+		trigger = {
+			employed_advisor = { category = DIP religion = protestant}
+		}
+	}
+	text = {
+		localisation_key = string_reformed_people_Cap
+		trigger = {
+			employed_advisor = { category = DIP religion = reformed}
+		}
+	}
+	text = {
+		localisation_key = string_orthodox_people_Cap
+		trigger = {
+			employed_advisor = { category = DIP religion = orthodox}
+		}
+	}
+	text = {
+		localisation_key = string_coptic_people_Cap
+		trigger = {
+			employed_advisor = { category = DIP religion = coptic}
+		}
+	}
+	text = {
+		localisation_key = string_sunni_people_Cap
+		trigger = {
+			employed_advisor = { category = DIP religion = sunni}
+		}
+	}
+	text = {
+		localisation_key = string_shia_people_Cap
+		trigger = {
+			employed_advisor = { category = DIP religion = shiite}
+		}
+	}
+	text = {
+		localisation_key = string_ibadism_people_Cap
+		trigger = {
+			employed_advisor = { category = DIP religion = ibadi}
+		}
+	}
+	text = {
+		localisation_key = string_theravada_people_Cap
+		trigger = {
+			employed_advisor = { category = DIP religion = buddhism}
+		}
+	}
+	text = {
+		localisation_key = string_vajrayana_people_Cap
+		trigger = {
+			employed_advisor = { category = DIP religion = vajrayana}
+		}
+	}
+	text = {
+		localisation_key = string_mahayana_people_Cap
+		trigger = {
+			employed_advisor = { category = DIP religion = mahayana}
+		}
+	}
+	text = {
+		localisation_key = string_confucianism_people_Cap
+		trigger = {
+			employed_advisor = { category = DIP religion = confucianism}
+		}
+	}
+	text = {
+		localisation_key = string_shintoism_people_Cap
+		trigger = {
+			employed_advisor = { category = DIP religion = shinto}
+		}
+	}
+	text = {
+		localisation_key = string_hinduism_people_Cap
+		trigger = {
+			employed_advisor = { category = DIP religion = hinduism}
+		}
+	}
+	text = {
+		localisation_key = string_sikhism_people_Cap
+		trigger = {
+			employed_advisor = { category = DIP religion = sikhism}
+		}
+	}
+	text = {
+		localisation_key = string_animism_people_Cap
+		trigger = {
+			employed_advisor = { category = DIP religion = animism}
+		}
+	}
+	text = {
+		localisation_key = string_fetishism_people_Cap
+		trigger = {
+			employed_advisor = { category = DIP religion = shamanism}
+		}
+	}
+	text = {
+		localisation_key = string_totemism_people_Cap
+		trigger = {
+			employed_advisor = { category = DIP religion = totemism}
+		}
+	}
+	text = {
+		localisation_key = string_inti_people_Cap
+		trigger = {
+			employed_advisor = { category = DIP religion = inti}
+		}
+	}
+	text = {
+		localisation_key = string_nahuatl_people_Cap
+		trigger = {
+			employed_advisor = { category = DIP religion = nahuatl}
+		}
+	}
+	text = {
+		localisation_key = string_mayan_people_Cap
+		trigger = {
+			employed_advisor = { category = DIP religion = mesoamerican_religion}
+		}
+	}
+	text = {
+		localisation_key = string_norse_people_Cap
+		trigger = {
+			employed_advisor = { category = DIP religion = norse_pagan_reformed}
+		}
+	}
+	text = {
+		localisation_key = string_tengrianism_people_Cap
+		trigger = {
+			employed_advisor = { category = DIP religion = tengri_pagan_reformed}
+		}
+	}
+	text = {
+		localisation_key = string_dreamtime_people_Cap
+		trigger = {
+			employed_advisor = { category = DIP religion = dreamtime}
+		}
+	}
+	text = {
+		localisation_key = string_judaism_people_Cap
+		trigger = {
+			employed_advisor = { category = DIP religion = jewish}
+		}
+	}
+	text = {
+		localisation_key = string_zoroastrianism_people_Cap
+		trigger = {
+			employed_advisor = { category = DIP religion = zoroastrian}
+		}
+	}
+}
+
+defined_text = {
+	name = GetAdv_Mil_GetReligionPeop_Cap
+	random = no
+	text = {
+		localisation_key = string_catholicism_people_Cap
+		trigger = {
+			employed_advisor = { category = MIL religion = catholic}
+		}
+	}
+	text = {
+		localisation_key = string_anglicanism_people_Cap
+		trigger = {
+			employed_advisor = { category = MIL religion = anglican}
+		}
+	}
+	text = {
+		localisation_key = string_hussite_people_Cap
+		trigger = {
+			employed_advisor = { category = MIL religion = hussite}
+		}
+	}
+	text = {
+		localisation_key = string_protestantism_people_Cap
+		trigger = {
+			employed_advisor = { category = MIL religion = protestant}
+		}
+	}
+	text = {
+		localisation_key = string_reformed_people_Cap
+		trigger = {
+			employed_advisor = { category = MIL religion = reformed}
+		}
+	}
+	text = {
+		localisation_key = string_orthodox_people_Cap
+		trigger = {
+			employed_advisor = { category = MIL religion = orthodox}
+		}
+	}
+	text = {
+		localisation_key = string_coptic_people_Cap
+		trigger = {
+			employed_advisor = { category = MIL religion = coptic}
+		}
+	}
+	text = {
+		localisation_key = string_sunni_people_Cap
+		trigger = {
+			employed_advisor = { category = MIL religion = sunni}
+		}
+	}
+	text = {
+		localisation_key = string_shia_people_Cap
+		trigger = {
+			employed_advisor = { category = MIL religion = shiite}
+		}
+	}
+	text = {
+		localisation_key = string_ibadism_people_Cap
+		trigger = {
+			employed_advisor = { category = MIL religion = ibadi}
+		}
+	}
+	text = {
+		localisation_key = string_theravada_people_Cap
+		trigger = {
+			employed_advisor = { category = MIL religion = buddhism}
+		}
+	}
+	text = {
+		localisation_key = string_vajrayana_people_Cap
+		trigger = {
+			employed_advisor = { category = MIL religion = vajrayana}
+		}
+	}
+	text = {
+		localisation_key = string_mahayana_people_Cap
+		trigger = {
+			employed_advisor = { category = MIL religion = mahayana}
+		}
+	}
+	text = {
+		localisation_key = string_confucianism_people_Cap
+		trigger = {
+			employed_advisor = { category = MIL religion = confucianism}
+		}
+	}
+	text = {
+		localisation_key = string_shintoism_people_Cap
+		trigger = {
+			employed_advisor = { category = MIL religion = shinto}
+		}
+	}
+	text = {
+		localisation_key = string_hinduism_people_Cap
+		trigger = {
+			employed_advisor = { category = MIL religion = hinduism}
+		}
+	}
+	text = {
+		localisation_key = string_sikhism_people_Cap
+		trigger = {
+			employed_advisor = { category = MIL religion = sikhism}
+		}
+	}
+	text = {
+		localisation_key = string_animism_people_Cap
+		trigger = {
+			employed_advisor = { category = MIL religion = animism}
+		}
+	}
+	text = {
+		localisation_key = string_fetishism_people_Cap
+		trigger = {
+			employed_advisor = { category = MIL religion = shamanism}
+		}
+	}
+	text = {
+		localisation_key = string_totemism_people_Cap
+		trigger = {
+			employed_advisor = { category = MIL religion = totemism}
+		}
+	}
+	text = {
+		localisation_key = string_inti_people_Cap
+		trigger = {
+			employed_advisor = { category = MIL religion = inti}
+		}
+	}
+	text = {
+		localisation_key = string_nahuatl_people_Cap
+		trigger = {
+			employed_advisor = { category = MIL religion = nahuatl}
+		}
+	}
+	text = {
+		localisation_key = string_mayan_people_Cap
+		trigger = {
+			employed_advisor = { category = MIL religion = mesoamerican_religion}
+		}
+	}
+	text = {
+		localisation_key = string_norse_people_Cap
+		trigger = {
+			employed_advisor = { category = MIL religion = norse_pagan_reformed}
+		}
+	}
+	text = {
+		localisation_key = string_tengrianism_people_Cap
+		trigger = {
+			employed_advisor = { category = MIL religion = tengri_pagan_reformed}
+		}
+	}
+	text = {
+		localisation_key = string_dreamtime_people_Cap
+		trigger = {
+			employed_advisor = { category = MIL religion = dreamtime}
+		}
+	}
+	text = {
+		localisation_key = string_judaism_people_Cap
+		trigger = {
+			employed_advisor = { category = MIL religion = jewish}
+		}
+	}
+	text = {
+		localisation_key = string_zoroastrianism_people_Cap
+		trigger = {
+			employed_advisor = { category = MIL religion = zoroastrian}
 		}
 	}
 }
