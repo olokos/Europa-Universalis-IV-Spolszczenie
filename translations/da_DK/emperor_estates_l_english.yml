@@ -565,6 +565,7 @@
  estate_dhimmi_build_university_in_y: ""
  estate_dhimmi_stop_converting_province_x: ""
  estate_dhimmi_increase_autonomy_in_province_x: ""
+ estate_dhimmi_increase_autonomy_in_province_x_tooltip: ""
  estate_dhimmi_three_privileges: ""
  estate_dhimmi_relations_with_X: ""
  agenda_automatically_completed: ""
