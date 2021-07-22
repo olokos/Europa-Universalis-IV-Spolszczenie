@@ -70,7 +70,7 @@
  STAPAT_OTHER_REL: "$NAME$ wyznaje $REL$."
  STAPAT_NOT_FULL_CORE: "$NAME$ jest tylko terytorium narodowym."
  STAPAT_OTHER_CUL: "$NAME$ ma kulturę $CUL$."
- STAPAT_LOW_DEV: "Konsekrować Metropolie można tylko w stanach o rozwoju co najmniej $NEED|Y$, a w prowincja $NAME$ ma tylko $CUR|Y$."
+ STAPAT_LOW_DEV: "Konsekrować Metropolie można tylko w stanach o rozwoju co najmniej $NEED|Y$, a $NAME$ ma tylko $CUR|Y$."
  STAPAT_DO_IT: "Możesz konsekrować Metropolie w stanach o rozwoju co najmniej 30, jeśli wszystkie prowincje są rdzenne, prawosławne i mają akceptowane kultury.\n\nPoświęcenie Metropolii w $NAME|Y$ da nam $VAL$ Autorytetu Patriarchy i następujący trwały efekt:\n$EFFECT$"
  CONFIRCONSECRATEPATRIARCh: "Potwierdź wyświęcenie metropolity"
  CONFIRCONSECRATEPATRIARCH_TEXT: "$EFFECT$\nJesteś pewien?"
