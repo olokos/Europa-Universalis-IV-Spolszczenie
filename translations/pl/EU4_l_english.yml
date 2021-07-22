@@ -490,7 +490,7 @@
  EMBRACED: "Przyjęto"
  PRESENT: "Obecny"
  NOT_CREATED: "§gNie powstał§!"
- EMBRACEMENT_RATIO: "Nurt w $NUM_EMBRACED|Y$ z $NUM_PROVINCES$ prowincji, łącznie $VAL|Y$ z $COUNTRY_ADJ$ rozwoju ($TOTAL_DEV|Y$ po lokalnej autonomii)."
+ EMBRACEMENT_RATIO: "Nurt w $NUM_EMBRACED|Y$ z $NUM_PROVINCES$ prowincji, łącznie $VAL|Y$ z rozwoju $COUNTRY_ADJ$ ($TOTAL_DEV|Y$ po lokalnej autonomii)."
  EMBRACE_RATIO2: "Nurtu $NAME$ nie przyjęły dotąd następujące prowincje, przez co ponoszą dodatkowe koszty:\n"
  EMBRACE_RATIO_PROV: " $PROV$ kosztuje $COST|Y$¤ ($DEV$ rozwoju)\n"
  EMBRACE_RATIO3: "(oraz $COST|Y$¤ z $NUM$ pozostałych prowincji)\n"
