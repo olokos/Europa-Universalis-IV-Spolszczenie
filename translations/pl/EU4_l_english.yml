@@ -4952,7 +4952,7 @@
  NO_DEVASTATION_PROSP_MAP_TT: "Wszyscy $NAME|Y$ cieszą się dobrobytem!"
  NO_DEVASTATION_MAP_TT: "Prowincja $NAME|Y$ nie jest zdewastowana."
  DEVASTATION_MAP_TT: "Dewastacja w prowincji $NAME|Y$ wynosi §R$VAL$%§!"
- CONFIRM_CORE_ALL_TITLE: "Przekształć wszystkie prowincje  $NAME$ w narodowe"
+ CONFIRM_CORE_ALL_TITLE: "Przekształć wszystkie prowincje w stanie $NAME$ w narodowe"
  CONFIRM_CORE_ALL_TITLE_TEXT: "Czy na pewno chcesz wydać §Y$COST$§!£adm£, by przekształcić następujące $COUNT$ z $TOTAL$ prowincji w narodowe?\n§Y$PROVS$§!"
  CORE_ALL_TOOLTIP: "Przekształć tyle prowincji, na ile cię stać (w £adm£), w narodowe."
  CORE_ALL_TOOLTIP_NO_CORABLE: "Nie da się tu przekształcić żadnych prowincji w narodowe."
