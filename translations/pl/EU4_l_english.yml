@@ -3035,7 +3035,7 @@
  CV_REPAY_LOAN_CONFIRM_TITLE: "Spłać pożyczkę"
  CV_REPAY_LOAN_CONFIRM_TEXT: "Jesteś pewny, że chcesz spłacić §Y$VAL$§W¤? Suma ta zawiera §Y$FEE$§W¤ pozostałe odsetki."
  CV_REPAY_ALL_LOANS_CONFIRM_TITLE: "Spłać wszystkie pożyczki"
- CV_REPAY_ALL_LOANS_CONFIRM_TEXT: "Jesteś pewny, że chcesz pożyczki w liczbie $NUM$, których wartość wynosi $VAL|Y2$¤? Suma ta zawiera $FEE|Y2$¤ pozostałe odsetki."
+ CV_REPAY_ALL_LOANS_CONFIRM_TEXT: "Czy na pewno chcesz spłacić pożyczki w liczbie $NUM$, których wartość wynosi $VAL|Y2$¤? Suma ta zawiera pozostałe odsetki w kwocie $FEE|Y2$¤."
  CV_CURRENT_INFLATION: "Aktualna inflacja: $VAL|Y%$§Y%§!"
  CV_AVARAGE_INFLATION: "Średnia inflacja (z ostatnich $TIME$ miesięcy): $VAL|Y%$§Y%§!"
  CV_MAX_INFLATION: "Maksymalna inflacja (z ostatnich $TIME$ miesięcy): $VAL|Y%$§Y%§!"
