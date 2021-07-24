@@ -1889,12 +1889,12 @@ guiTypes = {
 
 				instantTextBoxType = {
 					name = "country_name"
-					position = { x = 96 y = -6 }
+					position = { x = 86 y = -6 }#x = 96 y = -6 
 					textureFile = ""
 					font = "vic_22"
 					borderSize = {x = 4 y = 4}
 					text = "Country Name"
-					maxWidth = 130
+					maxWidth = 160#130
 					maxHeight = 32
 					format = left
 					fixedsize = yes

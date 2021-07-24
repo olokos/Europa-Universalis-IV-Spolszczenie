@@ -327,7 +327,7 @@ guiTypes = {
 			font = "vic_18"
 			borderSize = {x = 4 y = 4}
 			text = ""
-			maxWidth = 190
+			maxWidth = 220#190
 			maxHeight = 24
 			Orientation = "UPPER_LEFT"
 			fixedsize = yes
@@ -775,13 +775,13 @@ guiTypes = {
 		{
 			name ="heir_gender"
 			spriteType = "GFX_gender_icon"
-			position = { x = 15 y = 259 }
+			position = { x = 15 y = 263 }#x = 15 y = 259
 			Orientation = "UPPER_LEFT"
 		}
 
 		instantTextBoxType = {
 			name = "monarch_heir_name"
-			position = { x = 32 y = 257 }
+			position = { x = 32 y = 261 }#x = 32 y = 257
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 4 y = 4}
@@ -794,15 +794,15 @@ guiTypes = {
 
 		instantTextBoxType = {
 			name = "monarch_heir_info"
-			position = { x =200 y = 257 }
+			position = { x =223 y = 243 }#x =200 y = 257
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 4 y = 4}
 			text = ""
-			maxWidth = 150
+			maxWidth = 120#150
 			maxHeight = 26
 			format = right
-			fixedsize = yes
+			fixedsize = no#yes
 		}
 
 		# End of country stats

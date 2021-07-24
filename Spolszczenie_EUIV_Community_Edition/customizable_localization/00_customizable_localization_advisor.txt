@@ -858,7 +858,7 @@ defined_text = {
 }
 
 defined_text = {
-	name = GetEventAdviso_rAY
+	name = GetEventAdvisor_AY
 	random = no
 	text = {
 		localisation_key = string_event_advisor_ay_a

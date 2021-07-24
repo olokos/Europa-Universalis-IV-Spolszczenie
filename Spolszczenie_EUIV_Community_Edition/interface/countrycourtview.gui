@@ -713,12 +713,12 @@ guiTypes = {
 
 		instantTextBoxType = {
 			name = "advisor_name"
-			position = { x = 136 y = 0 }
+			position = { x = 108 y = 0 }#x = 136 y = 0
 			textureFile = ""
 			font = "vic_22"
 			borderSize = {x = 4 y = 4}	
 			text = "Charles Darwin"	
-			maxWidth = 160
+			maxWidth = 193#160
 			maxHeight = 32
 			format = center
 			fixedsize = yes
@@ -826,7 +826,7 @@ guiTypes = {
 
 		instantTextBoxType = {
 			name = "advisor_ability_skill"
-			position = { x = 100 y = 0 }
+			position = { x = 90 y = 0 }#x = 100 y = 0
 			textureFile = ""
 			font = "vic_22"
 			borderSize = {x = 4 y = 4}	
@@ -844,7 +844,7 @@ guiTypes = {
 			tooltip = ""
 			tooltipText =""
 			delayedTooltipText = ""
-			position = { x= 80 y = 0 }
+			position = { x= 75 y = 0 }#x= 80 y = 0 
 			Orientation = "UPPER_LEFT"
 		}
 
