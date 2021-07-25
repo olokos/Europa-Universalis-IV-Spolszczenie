@@ -489,14 +489,14 @@ guiTypes = {
 		{
 			name ="unit_destination"
 			spriteType = "GFX_icon_unit_destination"
-			position = { x= 130 y = 105 }
+			position = { x= 38 y = 105 }#x= 130 y = 105
 			Orientation = "UPPER_LEFT"
 			frame = 2
 		}
 		
 		instantTextBoxType = {
 			name = "unitlocation"
-			position = { x = 46 y = 105 }
+			position = { x = 56 y = 105 }#x = 46 y = 105
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
