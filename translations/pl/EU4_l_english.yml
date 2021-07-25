@@ -564,7 +564,7 @@
  ABANDONSTATE_MAKE: "$NAME$ to §Ystan§!.\n(Kliknij by uczynić ją terytorium)"
  ABANDONSTATE_IS_CONVERTING_RELIGION: "Nie można porzucić tego stanu, ponieważ nawracamy ludzi w prowincji $PROVINCENAME|Y$.\n"
  ABANDONSTATE_IS_CONVERTING_CULTURE: "Nie można porzucić tego stanu, ponieważ nawracamy ludzi w prowincji $PROVINCENAME|Y$.\n"
- STATE_IRO: "$NAME$ jest §Ystanem§!."
+ STATE_IRO: "$NAME$ to §Ystan§!."
  STATE_DRO: "Państwo dzieli się na kilka terytoriów, przy czym wszystkie posiadane prowincje na danym obszarze tworzą jedno terytorium. Terytorium może zostać przekształcone w stan, będący integralną częścią państwa. Wymaga to poniesienia kosztów utrzymania, zależnych od odległości od stolicy, oraz spowoduje znaczące zmniejszenie minimalnej autonomii stanu.\n\nRozwijanie stanów i terytoriów zwiększa wartość zdolności zarządzania danej prowincji, ale dla terytoriów jest ona zwiększana tylko o 25%. Zdolność zarządzania może zostać zwiększona poprzez podniesienie rangi urzędu, rozwijanie technologii administracyjnych lub odkrycie całej grupy idei administracyjnych."
  CONFIRMAKESTATETITLE: "Przekształć terytorium w stan"
  CONFIRMMAKESTATETEXT: "Przekształcenie terytorium $NAME$ w stan będzie nas kosztować $COST|Y$¤ miesięcznie (koszt utrzymania stanu). Przychody zostaną zwiększone o $INC|Y$¤, zaś autonomia obniżona do dolnych granic. Zwiększeniu ulegną również zasoby ludzkie i liczba marynarzy pochodzących z tego terenu.\n\nPrzekształcenie prowincji $NAME$ w stan spowoduje wykorzystanie  $CAP|Y0$ z naszej zdolności zarządzania, zwiększając ją do $USED_CAP|Y0$."
