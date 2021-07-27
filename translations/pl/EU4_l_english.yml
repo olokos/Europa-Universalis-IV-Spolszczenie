@@ -460,7 +460,7 @@
  RETURNING: "Powrót"
  DIPLO_TRADE_POWER_MECHANT_REPUBLIC: "Republika kupiecka: "
  COMBAT: "Walka"
- SHIPS_LOST: "Utracono okręty"
+ SHIPS_LOST: "Straty okrętów"
  PROV_IS_OUR_CORE: "$NAME$ jest prowincją narodową."
  STATE_INCOME_LABEL: "Przychód stanu (@$OWNER$):"
  STATE_INCOME_IRO: "Przychód $WHO$ ze stanu $STATE$ bazuje na:"
