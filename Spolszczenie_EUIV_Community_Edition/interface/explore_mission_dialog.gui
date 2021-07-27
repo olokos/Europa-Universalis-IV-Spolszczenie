@@ -72,7 +72,7 @@ guiTypes = {
 			position = {x = 32 y  = 7 }#x = 37 y  = 7
 			name = "location"
 			font = "vic_18"	
-			maxWidth = 245#215
+			maxWidth = 237#215
 			maxHeight = 20
 			text = "Elbonien"	
 			format = left
@@ -80,7 +80,7 @@ guiTypes = {
 		}		
 		guiButtonType = {
 			name = "send"
-			position = { x= 272 y = 1 }#x= 252 y = 1
+			position = { x= 254 y = 1 }#x= 252 y = 1
 			quadTextureSprite ="GFX_button_straight_67_32"	
 			buttonText = "SEND"
 			buttonFont = "vic_18"
