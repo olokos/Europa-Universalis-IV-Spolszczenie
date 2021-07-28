@@ -4580,7 +4580,7 @@
  NOT_REMOVE_RIVAL_AT_WAR: "§R- Nie można usunąć statusu rywala podczas wojny..§!"
  NOT_REMOVE_RIVAL_UNTIL: "§R- Uznano niedawno kraj §Y$NAME$§! za rywala, więc nie można go zastąpić innym do §Y$DATE$§!.§!"
  CANT_AFFORD_RIVAL_REMOVE: "§R- Nie masz §Y$COST$§!£dip wymaganego do usunięcia rywala.§!"
- NOT_ADD_RIVAL_UNTIL: "§R- Niedawno zostałeś zmuszony do usunięcia §Y$NAME$§! jako rywala i nie możesz go ponownie dodać przed upływem §Y$DATE$§!.§!"
+ NOT_ADD_RIVAL_UNTIL: "§R- Niedawno zmuszono cię do usunięcia kraju §Y$NAME$§! z listy rywali i nie możesz go ponownie dodać przed upływem §Y$DATE$§!.§!"
  LEDGER_PPROJ: "Prog. pot."
  EXTRA_BONUS_GOOD_SMALL: "Jeśli twoja prognozowana potęga wynosi co najmniej $MAX$, zyskujesz:\n"
  EXTRA_BONUS_GOOD_SMALL_FACT: "\nPonieważ prognozowana potęga wynosi nie mniej niż $VAL|Y$:\n"
