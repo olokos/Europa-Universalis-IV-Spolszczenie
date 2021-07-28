@@ -4578,7 +4578,7 @@
  SELL_SHIPS_NO_SHIPS: "Nie możesz sprzedać statków, jeśli ich nie masz."
  NOT_ADD_RIVAL_AT_WAR: "§R- Nie można nadać statusu rywala podczas wojny.§!"
  NOT_REMOVE_RIVAL_AT_WAR: "§R- Nie można usunąć statusu rywala podczas wojny..§!"
- NOT_REMOVE_RIVAL_UNTIL: "§R- Dodałeś ostatnio kraj §Y$NAME$§! do rywali, więc nie możesz go zastąpić do §Y$DATE$§!.§!"
+ NOT_REMOVE_RIVAL_UNTIL: "§R- Uznano niedawno kraj §Y$NAME$§! za rywala, więc nie można go zastąpić innym do §Y$DATE$§!.§!"
  CANT_AFFORD_RIVAL_REMOVE: "§R- Nie masz §Y$COST$§!£dip wymaganego do usunięcia rywala.§!"
  NOT_ADD_RIVAL_UNTIL: "§R- Niedawno zostałeś zmuszony do usunięcia §Y$NAME$§! jako rywala i nie możesz go ponownie dodać przed upływem §Y$DATE$§!.§!"
  LEDGER_PPROJ: "Prog. pot."
