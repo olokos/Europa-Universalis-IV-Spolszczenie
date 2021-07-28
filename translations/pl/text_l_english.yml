@@ -1193,7 +1193,7 @@
  MILACCREQDESC: "Państwo $COUNTRY$ prosi o zgodę na przemarsz wojsk. Jej udzielenie oznaczałoby, że ich armie będą mogły swobodnie poruszać się po naszym kraju."
  MILACCREQWARWITH: "Są teraz w stanie wojny z państwem $COUNTRYLIST|Y$."
  CANCELMILACCDESC: "Anuluj temu państwu przemarsz wojsk"
- CANCELMILACCTITLE: "Anuluj prawo do przemarszu wojsk"
+ CANCELMILACCTITLE: "Anuluj przemarsz wojsk"
  OFFERMILACCTITLE: "Zaoferuj prawo do przemarszu wojsk"
  OFFERMILACCNEWDESC: "Czy chcesz udzielić państwu $COUNTRY$ zgody na przemarsz wojsk? Umożliwi ona stacjonowanie ich wojsk w naszym kraju."
  OFFERMILACCDESC: "Umożliwia stacjonowanie ich wojsk na terytorium naszego państwa."
