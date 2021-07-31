@@ -86,7 +86,7 @@
  SELECT_ICON_TO_BECOMMISSIONED: "Wybierz Ikonę do zamówienia"
  ORTHIC_LOSE: "Utracisz obecne korzyści płynące z '$NAME|Y$'."
  PATRIARCH_MAP_TT_HAS: "$NAME|Y$ posiada metropolitę."
- PATRIARCH_MAP_TT_CAN: "$NAME|Y$ może uzyskać Metropolię."
+ PATRIARCH_MAP_TT_CAN: "$NAME|Y$ może uzyskać metropolitę."
  LASTS_ICON_UNTIL: "Trwa to do $WHEN|Y$."
  icon_michael: "Ikona św. Michała"
  desc_icon_michael: "Święty Michał, Archistrategos, jest dowódcą niebiańskich zastępów i Archaniołem, który pokona Szatana podczas wojny w Niebie. Ikony Świętego Michała są powszechne w całym chrześcijaństwie prawosławnym, a większość rosyjskich miast ma poświęcona mu cerkiew."
