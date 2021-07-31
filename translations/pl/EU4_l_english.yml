@@ -85,7 +85,7 @@
  NO_ICON_COMMISSIONED: "Nie masz obecnie zamówionych Ikon"
  SELECT_ICON_TO_BECOMMISSIONED: "Wybierz Ikonę do zamówienia"
  ORTHIC_LOSE: "Utracisz obecne korzyści płynące z '$NAME|Y$'."
- PATRIARCH_MAP_TT_HAS: "$NAME|Y$ posiada Metropolię."
+ PATRIARCH_MAP_TT_HAS: "$NAME|Y$ posiada metropolitę."
  PATRIARCH_MAP_TT_CAN: "$NAME|Y$ może uzyskać Metropolię."
  LASTS_ICON_UNTIL: "Trwa to do $WHEN|Y$."
  icon_michael: "Ikona św. Michała"
