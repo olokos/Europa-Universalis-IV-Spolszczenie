@@ -44,7 +44,7 @@
  REGCAT_streltsy: "Strzelcy moskiewscy"
  REGCAT_cossacks: "Kozacy"
  REGCAT_janissaries: "Janczarzy"
- REGCAT_rajput: "Radźputany"
+ REGCAT_rajput: "Radźputowie"
  COSSACKS_NAME: "$NUM$$ORDER$ Kozacy z $HOME$"
  RAJPUT_NAME: "$NUM$$ORDER$ radźputowie z $HOME$"
  COSSACKS_REGIMENT: "Pułk Kozaków\nPremia za Natarcie: $VAL$"
