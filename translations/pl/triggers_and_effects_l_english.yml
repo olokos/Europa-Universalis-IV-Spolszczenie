@@ -10,7 +10,7 @@
  NO_ANY_STATE_STARTS: "Brak stanu"
  ALL_STATE_STARTS: "Wszystkie stany"
  NO_ALL_STATE_STARTS: "Nie wszystkie stany"
- HAVE_NO_PATRIARCH_IN: "Nie ma metropolity w państwie $NAME$.\n"
+ HAVE_NO_PATRIARCH_IN: "Nie ma metropolity w stanie $NAME$.\n"
  HAVE_PATRIARCH_IN: "Metropolita znajduje się w stanie $NAME|Y$.\n"
  IN_GOLDEN_ERA: "Kraj $COUNTRY|Y$ jest w złotej erze."
  NOT_GOLDEN_ERA: "Kraj $COUNTRY|Y$ NIE jest w złotej erze."
