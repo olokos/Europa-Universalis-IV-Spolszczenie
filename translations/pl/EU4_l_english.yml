@@ -64,7 +64,7 @@
  NOSF_NO_TRACE_HOME: "Granicę można ustanowić tylko obok miasta, które posiadamy i z którego można wyznaczyć powrotną drogę do naszej stolicy."
  ESTABLISH_SIBFRO_IRO: "Ustanowienie granicy syberyjskiej będzie kosztowało §Y$COST$§!£dip£. Stworzy to kolonię, która będzie powoli rosła, bez potrzeby kolonisty ani kosztu utrzymania koloni."
  BASE_HARSH_COST: "Podstawa Rozmiaru Rebelii: $VAL|Y$."
- patriarch_state: "Metropolita kraju $NAME$"
+ patriarch_state: "Metropolita stanu $NAME$"
  CONSECRATE_FOR_PA: "Możesz konsekrować metropolitę stanu, aby uzyskać $VAL$ Autorytetu Patriarchy."
  STATE_PATRIARCH_ALREADY: "$NAME$ posiada już konsekrowanego metropolitę!"
  STAPAT_OTHER_REL: "$NAME$ wyznaje $REL$."
