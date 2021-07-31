@@ -66,7 +66,7 @@
  BASE_HARSH_COST: "Podstawa Rozmiaru Rebelii: $VAL|Y$."
  patriarch_state: "Metropolia $NAME$"
  CONSECRATE_FOR_PA: "Możesz Konsekrować Metropolię Stanu, aby uzyskać $VAL$ Autorytetu Patriarchy."
- STATE_PATRIARCH_ALREADY: "$NAME$ posiada już konsekrowaną metropolię!"
+ STATE_PATRIARCH_ALREADY: "$NAME$ posiada już konsekrowanego metropolitę!"
  STAPAT_OTHER_REL: "$NAME$ wyznaje $REL$."
  STAPAT_NOT_FULL_CORE: "$NAME$ jest tylko terytorium narodowym."
  STAPAT_OTHER_CUL: "$NAME$ ma kulturę $CUL$."
