@@ -65,7 +65,7 @@
  ESTABLISH_SIBFRO_IRO: "Ustanowienie granicy syberyjskiej będzie kosztowało §Y$COST$§!£dip£. Stworzy to kolonię, która będzie powoli rosła, bez potrzeby kolonisty ani kosztu utrzymania koloni."
  BASE_HARSH_COST: "Podstawa Rozmiaru Rebelii: $VAL|Y$."
  patriarch_state: "Metropolita kraju $NAME$"
- CONSECRATE_FOR_PA: "Możesz Konsekrować Metropolię Stanu, aby uzyskać $VAL$ Autorytetu Patriarchy."
+ CONSECRATE_FOR_PA: "Możesz konsekrować metropolitę stanu, aby uzyskać $VAL$ Autorytetu Patriarchy."
  STATE_PATRIARCH_ALREADY: "$NAME$ posiada już konsekrowanego metropolitę!"
  STAPAT_OTHER_REL: "$NAME$ wyznaje $REL$."
  STAPAT_NOT_FULL_CORE: "$NAME$ jest tylko terytorium narodowym."
