@@ -620,7 +620,7 @@
  STRELTSY_REGIMENT_TYPE: "Strzelcy moskiewscy"
  COSSACKS_REGIMENT_TYPE: "Kozacy"
  JANISSARIES_REGIMENT_TYPE: "Janczarzy"
- RAJPUT_REGIMENT_TYPE: "Radźputany"
+ RAJPUT_REGIMENT_TYPE: "Radźputowie"
  HAVE_LESS_JANISSARIES_THAN: "Ma mniej pułków janczarów niż $VALUE|Y$ .\n"
  HAVE_AT_LEAST_JANISSARIES_THAN: "Ma co najmniej $VALUE|Y$ pułków janczarów. \n"
  HAVE_LESS_RAJPUT_THAN: "Ma mniej pułków radżputów niż $VALUE|Y$.\n"
