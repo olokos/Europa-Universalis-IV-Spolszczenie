@@ -759,7 +759,7 @@
  estate_cossacks_prime_herding_rights: "Najwyższe prawa pasterskie"
  estate_cossacks_prime_herding_rights_desc: "Społeczności kozackie często ścierały się ze społecznościami osiadłymi o użytkowanie ziemi. Możemy rozwiązać ten problem raz na zawsze, przyznając im pełne prawa do wypasu na wszystkich stepach w zamian za zaoferowanie większej liczby poborowych dla naszych armii."
  estate_cossacks_prime_herding_rights_effect_tooltip: "§G+25%§! zasobów ludzkich ze wszystkich prowincji stepowych\n§R-50%§! dochodów z podatków ze wszystkich prowincji stepowych"
- estate_cossacks_prime_herding_rights_mod: "Prawa pasterskie kozaków"
+ estate_cossacks_prime_herding_rights_mod: "Prawa pasterskie Kozaków"
  desc_estate_cossacks_prime_herding_rights_mod: "Daliśmy kozakom pełne prawa do wypasu na wszystkich stepach w zamian za to, że zaoferowali więcej poborowych dla naszych armii."
  estate_cossacks_prime_herding_rights_mod_revoke_tooltip: "Usuwa §YPrawa pasterskie Kozaków§! ze wszystkich posiadanych prowincji stepowych."
  estate_church_build_temple_in_y_desc: "[Root.GetClergyName_CL_Cap] wzywa[Root.GetClergyName_NounJa] nas do zbudowania wspaniałego domu modlitwy w prowincji [agenda_province.GetName], aby [Root.GetClergyName_Whose] wyznawcy mieli odpowiednie miejsce do gromadzenia się."
