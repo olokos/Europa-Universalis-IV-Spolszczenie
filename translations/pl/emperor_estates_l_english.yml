@@ -1227,7 +1227,7 @@
  INCOME_BALANCE_MORE_THAN: "Saldo dochodów z ostatniego miesiąca wynosi ponad "
  INCOME_BALANCE_LESS_THAN: "Saldo dochodów w zeszłym miesiącu jest mniejsze niż "
  estate_cossacks_exploration_expedition_mod: "Odkrycia kozaków"
- desc_estate_cossacks_exploration_expedition_mod: "Wykorzystujemy pionierskie instynkty kozaków, aby przyspieszyć osadnictwo i rozwój tego obszaru."
+ desc_estate_cossacks_exploration_expedition_mod: "Wykorzystujemy pionierskie instynkty Kozaków, aby przyspieszyć osadnictwo i rozwój tego obszaru."
  decision_once_every_twenty_years: "Taka decyzja może być podjęta tylko raz na §Y20§! lat."
  estate_cossacks_exploration_expedition_effect_tooltip: "§G-15%§! lokalnego kosztu rozwoju we wszystkich prowincjach stepowych"
  estate_cossacks_exploration_expedition_mod_revoke_tooltip: "Usuwa §YOdkrycia kozaków§! ze wszystkich posiadanych prowincji stepowych."
