@@ -1148,7 +1148,7 @@
  flavor_rus.EVTOPTB3413: "Wyłącznie zreformuj skarbiec"
  flavor_rus.EVTOPTC3413: "Wyłącznie znieś kormlenije"
  flavor_rus.EVTNAME3415: "Rosyjski Kościół Prawosławny deklaruje niezależność"
- flavor_rus.EVTDESC3415: "Niedługo przed upadkiem Cesarstwa Bizantyjskiego Kościół rosyjski uniezależnił się od Patriarchatu Konstantynopola. Metropolita Jonasz, ustanowiony przez Radę Biskupów Rosyjskich, otrzymał tytuł metropolity moskiewskiego i całej Rosji. Odkąd Kościół rosyjski coraz bardziej uniezależnia się od Konstantynopola, sprzymierzając się z państwem rosyjskim."
+ flavor_rus.EVTDESC3415: "Niedługo przed upadkiem Cesarstwa Bizantyjskiego Rosyjski Kościół Prawosławny stał się w praktyce niezależny od Patriarchatu Konstantynopola. Metropolita Jonasz, ustanowiony przez synod rosyjskich biskupów, otrzymał tytuł metropolity moskiewskiego i całej Rusi. Od tego czasu Rosyjski Kościół coraz bardziej uniezależnia się od Konstantynopola, sprzymierzając się w zamian z państwem rosyjskim."
  flavor_rus.EVTOPTA3415: "Wprowadź Prawdziwą Wiarę do stolicy [Root.Capital.GetCapitalName]."
  flavor_rus.EVTOPTB3415: "Pomóżmy naszym braciom odzyskać Konstantynopol."
  flavor_rus.EVTOPTC3415: "Naszym przeznaczeniem jest uwolnienie Konstantynopola od Turków!"
