@@ -133,7 +133,7 @@
  BREAK_ROYAL_MARRIAGE_EFFECT: "Zerwij mariaż królewski z krajem §Y$WHO$§!.\n"
  ADD_MERCENARY_SUB_UNIT_EFFECT: "Otrzymano $UNIT$ oddziałów najemników w prowincji §Y$WHERE$§!."
  ADD_STRELTSY_SUB_UNIT_EFFECT: "Orzynano $UNIT$ oddziałów '§Gstrzelców moskiewskich§!' w prowincji §Y$WHERE$§!."
- ADD_COSSACKS_SUB_UNIT_EFFECT: "Orzynano $UNIT$ oddziałów '§Gkozaków§!' w prowincji §Y$WHERE$§!."
+ ADD_COSSACKS_SUB_UNIT_EFFECT: "Otrzymano $UNIT$ oddziałów '§GKozaków§!' w prowincji §Y$WHERE$§!."
  ADD_RAJPUT_SUB_UNIT_EFFECT: "Orzynano $UNIT$ oddziałów '§Gradźputów§!' w prowincji §Y$WHERE$§!."
  CHANGE_GRAPHICAL_CULTURE_EFFECT: "Zmień kulturę graficzną na $CULTURE|Y$.\n"
  DO_NOT_OWN_OR_VASSAL_OF: "nie należy do państwa $COUNTRY$ lub jego wasali"
