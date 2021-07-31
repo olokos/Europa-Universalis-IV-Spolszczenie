@@ -151,7 +151,7 @@
  HAVE_AT_LEAST_BANNERS_THAN: "Posiada co najmniej §Y$VALUE$§! sztandarów.\n"
  HAVE_LESS_STRELTSY_THAN: "Posiada mniej niż §Y$VALUE$§! strzelców moskiewskich\n"
  HAVE_AT_LEAST_STRELTSY_THAN: "Posiada co najmniej §Y$VALUE$§! strzelców moskiewskich.\n"
- HAVE_LESS_COSSACKS_THAN: "Posiada mniej niż §Y$VALUE$§! kozaków.\n"
+ HAVE_LESS_COSSACKS_THAN: "Posiada mniej niż §Y$VALUE$§! Kozaków.\n"
  HAVE_AT_LEAST_COSSACKS_THAN: "Posiada co najmniej §Y$VALUE$§! kozaków.\n"
  HAVE_LESS_HARMONIZED_THAN: "Posiada mniej niż $VALUE|Y$ zharmonizowanych religii lub grup religijnych (obecnie $CURRENTVALUE|Y$)."
  HAVE_AT_LEAST_HARMONIZED_THAN: "Posiada co najmniej $VALUE|Y$ zharmonizowanych religii lub grup religijnych (obecnie $CURRENTVALUE|Y$)."
