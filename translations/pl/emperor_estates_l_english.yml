@@ -1226,7 +1226,7 @@
  NOT_NEGATIVE_BALANCE_IN_TWO_MONTHS: "NIE będziemy potrzebować pożyczki maksymalnie za §Y2§! miesiące"
  INCOME_BALANCE_MORE_THAN: "Saldo dochodów z ostatniego miesiąca wynosi ponad "
  INCOME_BALANCE_LESS_THAN: "Saldo dochodów w zeszłym miesiącu jest mniejsze niż "
- estate_cossacks_exploration_expedition_mod: "Odkrycia kozaków"
+ estate_cossacks_exploration_expedition_mod: "Odkrycia Kozaków"
  desc_estate_cossacks_exploration_expedition_mod: "Wykorzystujemy pionierskie instynkty Kozaków, aby przyspieszyć osadnictwo i rozwój tego obszaru."
  decision_once_every_twenty_years: "Taka decyzja może być podjęta tylko raz na §Y20§! lat."
  estate_cossacks_exploration_expedition_effect_tooltip: "§G-15%§! lokalnego kosztu rozwoju we wszystkich prowincjach stepowych"
