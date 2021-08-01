@@ -273,7 +273,7 @@
  SORT_BY_STABILITY: "Sortuj według §Ystabilności§!"
  SORT_BY_BLOCKADE: "Sortuj według współczynnika §Yblokady§!"
  SORT_BY_PARTICIPATION: "Sortuj według §Ywspółuczestnictwa§!"
- WAR_OVERVIEW_TICKING_WARSCORE: "Ponieważ ta wojna została wypowiedziana bez Casus Belli, wynik wojny nie zależy od czasu jej trwania."
+ WAR_OVERVIEW_TICKING_WARSCORE: "Ponieważ ta wojna została wypowiedziana bez casus belli, wynik wojny nie zależy od czasu jej trwania."
  WAR_OVERVIEW_TICKING_WARSCORE_WG: "Obecna liczba punktów wojennych: $SCORE$. \nMożesz zdobyć $MORE$ dodatkowych punktów, osiągając cel wojny $GOAL|Y$."
  WAR_OVERVIEW_TICKING_WARSCORE_MAX: "Aktualnie posiadasz maks. ilość punktów wojennych: $MAXSCORE$."
  natives_american_inuit: "Inuici amerykańscy"
