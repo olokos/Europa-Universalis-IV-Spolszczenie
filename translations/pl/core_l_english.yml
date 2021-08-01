@@ -217,7 +217,7 @@
  NAVY_COMBAT_TOOLTIP_LASTENGAGED: "Ostatni napotkany wrogi statek był $ENEMY|R$."
  NAVY_COMBAT_TOOLTIP_NOENGAGED: "Ten okręt nie wdał się w walkę w poprzedniej rundzie."
  NAVY_COMBAT_TOOLTIP_DISENGAGED: "§YTen statek się odłączył. Po zakończeniu bitwy dołączy do floty.§!"
- NAVY_COMBAT_TOOLTIP_DEMORALIZED: "§YTen statek  jest zdemoralizowany i będzie próbował wycofać się z bitwy.§!"
+ NAVY_COMBAT_TOOLTIP_DEMORALIZED: "§YZałoga statku utraciła morale i będzie próbował wycofać się z bitwy.§!"
  LAND_COMBAT_TOOLTIP_LASTENGAGED: "Ostatnia napotkana wroga jednostka była $ENEMY|R$."
  HOTJOIN_LABEL: "Dołączenie do rozpoczętej gry:"
  PREPARING_AFTER_HOTJOIN: "Przygotowywanie gry po dołączeniu do rozpoczętej gry."
