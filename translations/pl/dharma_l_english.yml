@@ -550,7 +550,7 @@
  FE_USE_TEAMS: "Użyj drużyn"
  FE_ALLOW_FREE_TEAM_CREATION: "Darmowe tworzenie drużyn"
  ICON_CHARTERCOMPANY: "Oferta firmy §Yczarterowej§!"
- INVESTMENT_NEED_TRADE_COMPANY_PROVINCE: "§RMusisz mieć kompanią handlową z prowincją w obszarze $AREA|Y$, aby dokonać tutaj inwestycji w kompani handlowej.\n§!"
+ INVESTMENT_NEED_TRADE_COMPANY_PROVINCE: "§RMusisz mieć kompanię handlową z prowincją w obszarze $AREA|Y$, aby dokonać tutaj inwestycji w kompani handlowej.\n§!"
  ALREADY_HAVE_INVESTMENT_IN_AREA: "§RZainwestowałeś już w $NAME|Y$ w obszarze $AREA|Y$.§!"
  CONFIRM_TRADE_COMPANY_INVESTMENT: "Zatwierdź inwestycję kompani handlowej"
  CONFIRM_TRADE_COMPANY_INVESTMENT_DESC: "Zrobienie $NAME|Y$ inwestycji kompanii handlowej w $AREA|Y$ kosztuje $COST|Y$¤ i daje następujące korzyści:"
