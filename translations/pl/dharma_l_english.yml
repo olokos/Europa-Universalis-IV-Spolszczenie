@@ -552,7 +552,7 @@
  ICON_CHARTERCOMPANY: "Oferta firmy §Yczarterowej§!"
  INVESTMENT_NEED_TRADE_COMPANY_PROVINCE: "§RMusisz mieć kompanię handlową z prowincją w obszarze $AREA|Y$, aby dokonać tutaj inwestycji w kompanii handlowej.\n§!"
  ALREADY_HAVE_INVESTMENT_IN_AREA: "§RZainwestowałeś już w $NAME|Y$ w obszarze $AREA|Y$.§!"
- CONFIRM_TRADE_COMPANY_INVESTMENT: "Zatwierdź inwestycję kompani handlowej"
+ CONFIRM_TRADE_COMPANY_INVESTMENT: "Zatwierdź inwestycję kompanii handlowej"
  CONFIRM_TRADE_COMPANY_INVESTMENT_DESC: "Zrobienie $NAME|Y$ inwestycji kompanii handlowej w $AREA|Y$ kosztuje $COST|Y$¤ i daje następujące korzyści:"
  INVESTMENT_OWNER_MODIFIER: "Dla $COUNTRY|Y$:\n"
  INVESTMENT_OWNER_REGION_MODIFIER: "Dla $COUNTRY|Y$ w $REGION|Y$:\n"
