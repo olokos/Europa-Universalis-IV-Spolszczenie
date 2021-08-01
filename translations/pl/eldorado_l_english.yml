@@ -1076,7 +1076,7 @@
  SACRIFICE_HEIR_DESC: "Poświęcenie następcy państwa §Y$COUNTRY$§! Bogom obniży naszą Zagładę o §G$AMT$§!, zmniejszy relacje o §R-75§! i zwiększ pragnienie wolności wszystkich naszych wasali o §R$LD_INC$%§!."
  maya_nation_title: "Zjednocz Ligę Majów"
  maya_nation_desc: "Kiedyś wszystkie ważne państwa Majów walczyły pod tym samym sztandarem. Odtwórzmy Ligę Majów i zostawmy za sobą drobne konflikty, które kiedyś zniszczyły konfederację."
- ND_IDEA_ALREADY_SELECTED: "§YJuż wybrałeś ten modyfikator, ponowne wybranie zamieni poprzedni slot z tym.§!"
+ ND_IDEA_ALREADY_SELECTED: "§YJuż wybrano ten modyfikator, ponowne wybranie zamieni poprzedni slot z tym.§!"
  RANDOM_OR_EMPTY_SETUP_DESC: "§YLosowy albo Własny Układ został wybrany w opcjach. Proszę stworzyć własne państwo aby rozpocząć grę.§!"
  AUTHORITY_FROM_LA: "To zmieni twój autorytet maksymalnie o $CHANGE$."
  custom_idea_years_of_nationalism: "Jeden Naród, Jeden Lud"
