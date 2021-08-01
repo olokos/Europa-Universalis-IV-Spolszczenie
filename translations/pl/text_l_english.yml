@@ -1038,7 +1038,7 @@
  MYRELIGION: "Nasza religia: $RELIGION$"
  IDEATITLE: "Zmień doktrynę państwową"
  IDEADESCNEW: "Czy chcesz przyjąć doktrynę: $IDEA$?"
- NOIDEA: "Nie wybrałeś żadnej doktryny dla tego okna."
+ NOIDEA: "Nie wybrano żadnej doktryny dla tego okna."
  NOTECH_MORE_ADVANCED: "Kiedy osiągniesz §Y$NEWLEVEL$§W poziom zaawansowania w Sferze rządowej, otworzy się nowe okno. Obecnie jesteś na poziomie §Y$LEVEL$§W."
  COTNOTECH: "Nie jesteś na tyle zaawansowany, aby wysyłać kupców."
  COTMONOPOLY: "Zdobyliśmy tu monopol, nie ma sensu wysyłać więcej kupców w to miejsce."
