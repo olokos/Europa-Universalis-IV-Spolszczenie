@@ -375,7 +375,7 @@
  patriarch_events.1.b: "Zmuszanie na niewiele się zda."
  patriarch_events.2.t: "Wpływ liturgiczny"
  patriarch_events.2.d: "Biskup z [local_see_province.GetAreaName] sprzeciwił aroganckiemu zachowaniu [Root.GetRulerGen] jakie pokazał[Root.Monarch.GetANoun] podczas konsekracji katedry w mieście [local_see_province.GetCapitalName]. Choć podkreśla, że nie jest niewdzięczny za wielkie darowizny, które przekazaliśmy Kościołowi, Biskup kwestionuje łamanie kanonu liturgicznego w celu wspierania interesów [Root.GetGovNameGen]."
- patriarch_events.2.a: "Musi nauczyć się gdzie jego miejsce!"
+ patriarch_events.2.a: "Musi nauczyć się, gdzie jego miejsce!"
  patriarch_events.2.b: "Złożymy kolejną ofiarę na kościół, aby pokazać naszą pokorę."
  patriarch_events.3.t: "Katedra dla prowincji [local_see_province.GetName]"
  patriarch_events.3.d: "Katedra w prowincji [local_see_province.GetName] została uszkodzona i pilnie potrzebuje naprawy. Metropolita dał do zrozumienia, że oczekuje od nas pomocy w sfinansowaniu napraw i że ogólne odnowienie kościoła byłoby również korzystne dla świątyni.\nOd czasu wybudowania tego domu modlitwy architektura sakralna bardzo się rozwinęła i z pewnością skorzysta na tym, że sprowadzimy do tego projektu zagranicznych ekspertów..."
