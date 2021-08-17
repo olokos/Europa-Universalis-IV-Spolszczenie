@@ -370,7 +370,7 @@
  saints_enforced: "Zgodność religijna"
  desc_saints_enforced: "Zmusiliśmy ludność tego stanu do przestrzegania naszych własnych zwyczajów religijnych, kosztem tego, że bardzo niechętnie odnoszą się do naszych rządów. Z czasem jednak pozwoli nam to lepiej zintegrować ich z naszym społeczeństwem."
  patriarch_events.1.t: "Święci z obszaru [local_saint_state_province.GetAreaName]"
- patriarch_events.1.d: "Ludzie z obszaru [local_saint_state_province.GetAreaName] zaniepokojeni. Podczas gdy my jesteśmy zjednoczeni w wierze, mieszkańcy tego stanu, w tym wielu miejscowych księży, odmawiają udziału w świętach i uroczystościach ku czci świętych, które są zwyczajowo obchodzone w naszych granicach. Twierdzą oni, że nie są one kanoniczne i że będą przestrzegać zwyczajów religijnych swoich przodków, w tym czcić wielu podejrzanych świętych z tego obszaru."
+ patriarch_events.1.d: "Na terenie [local_saint_state_province.GetAreaName] panuje wielka niepewność. Podczas gdy my jesteśmy zjednoczeni w wierze, mieszkańcy tego stanu, w tym wielu miejscowych księży, odmawiają udziału w świętach i uroczystościach ku czci świętych, które są zwyczajowo obchodzone w naszych granicach. Twierdzą oni, że nie są one kanoniczne i że będą przestrzegać zwyczajów religijnych swoich przodków, w tym czcić wielu podejrzanych świętych z tego obszaru."
  patriarch_events.1.a: "Musimy narzucić im świętych i święta [Root.GetAdjective]."
  patriarch_events.1.b: "Zmuszanie na niewiele się zda."
  patriarch_events.2.t: "Wpływ liturgiczny"
