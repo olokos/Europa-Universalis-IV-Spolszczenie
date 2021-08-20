@@ -1,6 +1,6 @@
 ﻿l_english:
- INVITE_ACCEPTED_INGAME_TITLE: "Ne można dołączyć do rozgrywki wieloosobowej"
- INVITE_ACCEPTED_INGAME_DESC: "Możesz dołączać do rozgrywki wieloosobowych tylko z menu głównego lub menu dobierania graczy. Uruchom ponownie grę i spróbuj ponownie dołączyć."
+ INVITE_ACCEPTED_INGAME_TITLE: "Nie można dołączyć do rozgrywki wieloosobowej"
+ INVITE_ACCEPTED_INGAME_DESC: "Możesz dołączać do rozgrywek wieloosobowych tylko z menu głównego lub menu szukania rozgrywki. Uruchom ponownie grę i spróbuj ponownie dołączyć."
  NAME_INVALID_TITLE: "Twoja nazwa jest nieprawidłowa"
  NAME_INVALID_DESC: "Twoja nazwa jest nieprawidłowa. Nazwa nie powinna być pusta i nie może zawierać znaków specjalnych. Wybierz inną nazwę."
  HAVE_LESS_FREE_EXPLORERS_THAN: "Ma mniej darmowych odkrywców niż"
