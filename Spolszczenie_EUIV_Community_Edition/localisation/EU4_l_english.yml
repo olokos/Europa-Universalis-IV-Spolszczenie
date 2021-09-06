@@ -1699,7 +1699,7 @@
  decentralisation_modifier:0 "Decentralizacja"
  desc_decentralisation_modifier:0 "Decentralizacja b²dzie mia³a negatywny wp³yw na nasze dochody."
  MANPOWER_IRO:0 "§YZasoby ludzkie§!\nMaksymalny poziom to §Y$MAX$§W\nObecnie przybywa §Y$YEARLY$§W rekrutów miesi²cznie.\nAby osi¹gn¹¾ pe³en stan armii, potrzebujesz §Y$NEED$§W ludzi, a w tym miesi¹cu do wojska trafi ich §Y$USED$§W."
- MANPOWER_DRO2:0 "Maksymalne zasoby ludzkie prowincji §Y$BASE$§W zale¿¹ od\n"
+ MANPOWER_DRO2:0 "Maksymalne zasoby ludzkie wynosz¹ce §Y$BASE$§W zale¿¹ od\n"
  MANPOWER_IRO_OTHERS:0 "§YZasoby ludzkie§!\nMaksymalny poziom to §Y$MAX$§W\nObecnie kraj §Y$NAME$§W zyskuje §Y$YEARLY$§W rekrutów miesi²cznie.\nAby osi¹gn¹¾ pe³en stan armii, potrzebuj¹ §Y$NEED$§W ludzi, a w tym miesi¹cu do wojska trafi ich §Y$USED$§W."
  SAILOR_MAINT_BASE:0 "Podstawa: $VAL|Y$ ($PERC$%)\n"
  SAILORS_IRO:0 "§YMarynarze§!\nMaksymalny poziom to §Y$MAX$§W\nObecnie zyskujesz §Y$YEARLY$§W marynarzy miesi²cznie i zu¿ywasz ich $MAIN|R$ podczas misji.\nAby osi¹gn¹¾ pe³en stan twojej marynarki, potrzebujesz §Y$NEED$§W marynarzy, a w tym miesi¹cu na okr²ty trafi ich §Y$USED$§W.\nNa misji jest obecnie $FLEET$ flot."
