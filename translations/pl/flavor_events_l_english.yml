@@ -4619,7 +4619,7 @@
  flavor_cri.7.a: "I tak oto ich los został związany z naszym."
  flavor_cri.7.a.tt: "Krym jest teraz marchią Osmanów."
  flavor_cri.8.t: "Przywrócenie Ilchanatu"
- flavor_cri.8.d: "Po ciężkiej kampanii [Root.Monarch.GetTitle] wezwał Kurultai do niedawno podbitego miasta Soltanieh. Generałów i pomniejsi Chanowie gromadzą się przed znaczącym miejscem; Mauzoleum Ilkhan Oljeitu.\nPrzemawiając przed Kurultai, [Root.Monarch.GetTitle] [Root.Monarch.GetName] porusza palące pytanie, jak Iran ma być rządzony; [Root.Monarch.GetSheHe] wskazuje na Mauzoleum i odważnie proponuje przywrócenie Il-Chanatu. Przywołując dziedzictwo wielkiego imperium mongolskiego i podbojów Czyngis-chana, przedstawia [Root.Monarch.GetSheHe] przekonujący argument za odrodzeniem podporządkowanego Chanatu."
+ flavor_cri.8.d: "Po ciężkiej kampanii [Root.Monarch.GetTitle] wezwał kurułtaj do niedawno podbitego miasta Soltanije. Generałowie i pomniejsi chanowie gromadzą się przed znaczącym miejscem - Mauzoleum ilchana Oldżajtu.\nPrzemawiając przed kurułtajem, [Root.Monarch.GetTitle] [Root.Monarch.GetName] porusza palące pytanie, jak Iran ma być rządzony, następnie wskazuje na Mauzoleum i odważnie proponuje przywrócenie Ilchanatu. Przywołując dziedzictwo wielkiego imperium mongolskiego i podbojów Czyngis-chana, przedstawia [Root.Monarch.GetSheHe] przekonujący argument za odrodzeniem podporządkowanego chanatu."
  flavor_cri.8.a: "Wyznacz podległego Chana."
  flavor_cri.8.b: "Możemy sami rządzić Persją."
  flavor_swi.1.t: "Paracelsus"
