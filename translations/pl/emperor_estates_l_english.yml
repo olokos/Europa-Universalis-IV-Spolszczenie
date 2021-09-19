@@ -503,7 +503,7 @@
  estate_cossacks_give_us_money: "Zrekompensuj wkład klas"
  estate_cossacks_three_privileges: "Zwiększ przywileje Kozaków"
  estate_cossacks_reply_of_the_zaporozhian: "Wyślij państwu [agenda_country.GetName] zniewagę dyplomatyczną"
- estate_cossacks_expand_into_x: "Podejmij ekspansję w rejon [agenda_province.GetAreaName]"
+ estate_cossacks_expand_into_x: "Podejmij ekspansję w rejonie [agenda_province.GetAreaName]"
  estate_cossacks_complete_conquest_of_x: "Zakończ podbój rejonu [agenda_province.GetAreaName]"
  estate_cossacks_colonise_X: "Zasiedl prowincję [agenda_province.GetName]"
  estate_cossacks_go_privateering: "Zrekrutuj korsarzy"
