@@ -271,7 +271,7 @@
  pirates.10.d: "Krążą plotki, że odkryto miejsce zatopienia flotylli ze skarbami. Mówi się, że rozbity przez szalejący huragan, zaginiony galeon zabrał ze sobą do wodnego grobu około tysiąca marynarzy i miliony dolarów z [sunken_ship_country.GetAdjective].\n\nTeraz, gdy jego domniemana lokalizacja jest powszechnie znana, z pewnością przyciągnie wielu oportunistycznych \"ratowników\", a być może nawet władze [sunken_ship_country.GetAdjective] pragnące odzyskać swoje złoto."
  pirates.10.a: "Zorganizuj zasadzkę na niedoszłych \"ratowników\"."
  pirates.10.b: "Opuśćcie dzwon nurkowy. Złoto będzie nasze!"
- pirates.11.t: "Tyrania Kapitana [Root.captain_name.GetName]"
+ pirates.11.t: "Tyran Kapitan [Root.captain_name.GetName]"
  pirates.11.d: "Kiedy kapitan piratów wywieszający czarną flagę, musi wzbudzić przerażenie w sercach wszystkich, którzy na nią spojrzą. Ale musi też wzbudzać szacunek swojej załogi i przynajmniej w teorii dowodzi statkiem za ich zgodą.\n\nKapitan [Root.captain_name.GetName] z statku [Root.GetRandomShipName] zyskał sobie reputację bezlitosnego i okrutnego. Kary, które wymierza za nawet najbardziej drobne i nieuzasadnione przewinienia są zbyt wysokie nawet jak na standardy ludzi bezprawia. Niepokoje narastają i jest tylko kwestią czasu, kiedy załoga weźmie sprawy w swoje ręce."
  pirates.11.a: "Bunt!"
  pirates.11.b: "Słowo kapitana jest prawem."
