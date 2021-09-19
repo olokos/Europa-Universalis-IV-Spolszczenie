@@ -3276,7 +3276,7 @@
  EVTDESC9206: "Armie $CONTROLLERNAME$ splądrowały prowincję znaną jako $PROVINCENAME$."
  EVTOPTA9206: "Niech to!"
  EVTNAME611: "Nowy pretendent"
- EVTDESC611: "Pojawił się pretendent do tronu, który nie chce uznać dziedzictwa tronu dla naszego następcy, $HEIR$! Pod pretekstem \"nadzwyczajnej niesprawiedliwości\" rządów rodu [Root.Monarch.Dynasty.GetName], którego legitymizacji nie chce uznać, [Root.pretender.GetName] powołał armię celem przejęcia dla siebie korony i maszeruje w kierunku naszej stolicy!"
+ EVTDESC611: "Pojawił się pretendent do tronu, który nie chce uznać dziedzictwa tronu dla naszego następcy, $HEIR$! pod pretekstem \"nadzwyczajnej niesprawiedliwości\" rządów rodu [Root.Monarch.Dynasty.GetName], którego legitymizacji nie chce uznać, [Root.pretender.GetName] powołał[Root.pretender.GetAY] armię celem przejęcia dla siebie korony i maszeruje w kierunku naszej stolicy!"
  EVTOPTB611A: "$HEIR$ ma Boga po swojej stronie!"
  EVTNAME5060: "Obserwacja komety"
  EVTDESC5060: "Plebs zawsze był przesądny, a pojawienie się na niebie komety wywołało panikę wśród naszych poddanych. Są oni przekonani, że nadchodzi koniec świata, lub że w najbliższej przyszłości wydarzy się coś niedobrego."
