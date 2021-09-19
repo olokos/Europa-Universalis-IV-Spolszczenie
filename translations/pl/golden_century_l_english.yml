@@ -450,7 +450,7 @@
  HOLY_ORDER_ALREADY_ESTABLISHED: "§RW tym stanie zakon święty został już ustanowiony.§!"
  privateering: "Korsarstwo"
  flagship_events.1.t: "Statek flagowy przejęty przez państwo [From.GetName]!"
- flagship_events.1.d: "[Root.GetLostFlagshipName], duma marynarki wojennej państwa [Root.GetName], wziął niedawno udział w zagorzałej bitwie przeciwko flocie [From.GetAdjective]. Mimo próby obrony, statek trafił w ręce wroga. Nasza flota straciła wielki statek flagowy i co gorsza, będziemy musieli odpierać jego wykorzystanie przeciwko nam."
+ flagship_events.1.d: "[Root.GetLostFlagshipName], duma marynarki wojennej [Root.GetAdjective], wziął niedawno udział w zagorzałej bitwie przeciwko flocie [From.GetAdjective]. Mimo próby obrony, statek trafił w ręce wroga. Nasza flota straciła wielki statek flagowy i co gorsza, będziemy teraz musieli odpierać jego ataki na nas."
  flagship_events.1.a: "Zostaliśmy upokorzeni!"
  flagship_events.2.t: "Zajęliśmy statek flagowy [captured_flagship_country.GetAdjective]!"
  flagship_events.2.d: "Podczas bitwy z flotą [captured_flagship_country.GetAdjective], zdołaliśmy zająć statek [captured_flagship_country.GetLostFlagshipName], który niegdyś był dumą marynarki wojennej naszego przeciwnika. Imponujący okręt trafił do naszego portu w jednym kawałku. Mamy nadzieję, że to ich nauczy, że nie są dominującą siłą na oceanach świata."
