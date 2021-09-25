@@ -3538,7 +3538,7 @@
  MAPMODE_NON_PRIMARY: "Kliknij LPM, by zobaczyć tryb mapy.\nKliknij PPM, by wybrać ten tryb mapy jako jeden z głównych trybów mapy."
  MAPMODE_PRIMARY_FULL: "(Najpierw musisz odznaczyć jeden z trybów głównych prowincji)."
  LOCK_MORE_MAPMODES: "§YZablokuj/Odblokuj interfejs z większą liczbą map§!"
- STABILITY_VAL: "Stabilność"
+ STABILITY_VAL: "Stabilność: $VAL|0+=$"
  RELIGION_VAR: "Religia: $RELIGION|Y$"
  NUM_OF_MARRIAGES_DESC: "Posiadanie $NUM|0Y$ królewskich mariaży będzie miało następujący efekt na $COUNTRY$: "
  jap_colonize_taiwan_title: "Skolonizuj Tajwan"
