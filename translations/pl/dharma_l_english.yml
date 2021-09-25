@@ -388,7 +388,7 @@
  mug_mission_events.1.b: "Wyznaczmy wicekróla Dekanu."
  mug_mission_events.1.b.tt: "§RTo uwolni wszystkie prowincje południowych Indii jako bardzo lojalnych wasali..§!"
  mug_mission_events.2.t: "Upadek Golkondy"
- mug_mission_events.2.d: "Dowódca Golkondy poddają się armiom [Root.GetAdjective], przekazał im również skarb trzymany w murach legendarnego fortu. Diamenty we wszystkich rozmiarach, z których wiele ma własne nazwy, zostały szybko wysłane do skarbca w [Root.Capital.GetCapitalName].\nNajwiększy rynek diamentów na świecie jest teraz w rękach [Root.GetAdjective] ..."
+ mug_mission_events.2.d: "Dowódca Golkondy poddają się armiom [Root.GetAdjective], przekazał im również skarb trzymany w murach legendarnego fortu. Diamenty we wszystkich rozmiarach, z których wiele ma własne nazwy, zostały szybko wysłane do skarbca w [Root.Capital.GetCapitalName].\nNajwiększy rynek diamentów na świecie jest teraz w rękach [Root.GetAdjective]..."
  mug_mission_events.2.a: "Cudownie."
  SELECT_SUPPRESSION_AREA: "§GKliknij aby dodać $AREA|Y$ do represjonowanych regionów.§!\n"
  DESELECT_SUPPRESSION_AREA: "§GKliknij aby $AREA|Y$ wyłączyć z represjonowanych regionów.§!\n"
