@@ -8102,7 +8102,7 @@
  PEACE_VIEW_GOLD_ADD_REMOVE: "Kliknij §G+§! lub §G-§!, by §Gdodać§! lub §Gusunąć§!¤ do twojej propozycji lub żądania.\n$GOLD|+$¤ jest warte około §Y$WS|+1$§! punktów wojennych."
  PEACE_VIEW_GOLD_ADD_REMOVE_KEYS: "§YPPM§!, aby dodać lub usunąć §Gwięcej§!.\n§YShift + LPM§!, aby dodać lub usunąć §Gwszystko§!"
  PEACE_VIEW_GOLD_ADD_KEYS: "§YPPM§! aby zwiększyć tempo przyrostu.\n§YShift + LPM§! aby zaproponować największą kwotę jaką zaakceptują.\n§YShift + PPM§! aby wybrać największą możliwą kwotę."
- PEACE_VIEW_GOLD_REMOVE_KEYS: "§YRMB§! aby zmniejszyć tempo spadku.\n§YShift + LMB§! aby zaproponować największą kwotę jaką zaakceptują.\n§YShift + RMB§! aby ustawić zero."
+ PEACE_VIEW_GOLD_REMOVE_KEYS: "§YPPM§! aby zmniejszyć tempo spadku.\n§YShift + LPM§! aby zaproponować największą kwotę jaką zaakceptują.\n§YShift + PPM§! aby ustawić zero."
  SIEGE_ARTILLERY_EXPLANATION: "Artyleria daje bonus do rzutu kością w czasie oblężenia. Jego wielkość zależy od liczby dział w stosunku do poziomu fortecy. "
  SIEGE_ARTILLERY_LINE: "§Y$AMOUNT$§! sztuk artylerii (§Y+$BONUS$§! premii)"
  SIEGE_STATUS_EXPLANATION: "Na oblężenie ma wpływ:"
