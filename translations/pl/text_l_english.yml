@@ -8112,7 +8112,7 @@
  SIEGE_CHANCE_LINE: "$NAME$: $RANGE$ (Szansa: $CHANCE$)"
  SIEGE_DATES: "To oblężenie trwa już §Y$TOTAL$§! dzień, następna jego faza będzie za §Y$LEFT$§!."
  SIEGE_PAUSING_CONSTRUCTION: "§RPodczas oblężenia postęp zostaje wstrzymany.§!"
- PEACE_OFFER_GOLD_LIMIT: "Maksymalna kwota z $MAX_LOANS$ wynosi w sumie §Y$TOTAL$§!¤ ($WS|G$ wynik wojny)."
+ PEACE_OFFER_GOLD_LIMIT: "Maksymalna kwota z $MAX_LOANS$. pożyczek wynosi w sumie §Y$TOTAL$§!¤ ($WS|G$ wynik wojny)."
  ANNUL_TREATIES_CANT_GUARANTEE: "Nie można zagwarantować, ponieważ musielibyśmy anulować traktaty trwające do §Y$DATE$§!"
  ANNUL_TREATIES_CANT_ALLIANCE: "Nie można założyć sojuszu, ponieważ musielibyśmy anulować traktaty trwające do §Y$DATE$§!"
  ANNUL_TREATIES_CANT_MIL_ACCESS: "Nie można poprosić, ani zagwarantować dostępu wojskowego, ponieważ musielibyśmy anulować traktaty trwające do §Y$DATE$§!"
