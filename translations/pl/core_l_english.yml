@@ -301,7 +301,7 @@
  SORT_BY_CULTURE: "Sortuj według kultury"
  SORT_BY_PRIMARY_CULTURE_GROUP: "Sortuj według głównej grupy kulturowej"
  BUTTON_EMBRACE: "Wprowadź"
- INSTI_NOT_ACTIVE: "Kraj $NAME|Y$ nie został dotąd odkryty."
+ INSTI_NOT_ACTIVE: "Nurt $NAME|Y$ nie został dotąd odkryty."
  INSTI_PRIMITIVE_CANNOT_EMBRACE_RELIGION: "Prymitywne kraje muszą najpierw zreformować swoją religię, zanim będą mogły przyjmować nurty."
  INSTI_PRIMITIVE_CANNOT_EMBRACE_GOVERNMENT: "Prymitywne kraje muszą zreformować swój rząd, zanim będą mogły przyjmować nurty."
  INSTI_TOO_EXPENSIVE: "Nie stać nas na wprowadzenie $NAME|Y$ za cenę $COST|Y$¤, ponieważ mamy tylko $CASH|Y$¤."
