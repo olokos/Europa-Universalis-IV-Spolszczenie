@@ -166,7 +166,7 @@
  reactionaries_failed: "Niepowodzenie sił reakcyjnych "
  desc_reactionaries_failed: "Okopane siły reakcyjne w tym kraju stoczyły zaciekłą wojnę domową, aby uniemożliwić rewolucjonistom przejęcie władzy. Chociaż ostatecznie im się to nie udało, naród jest nadal podzielony między tych, którzy popierali rewolucję, a tych, którzy byli jej przeciwni."
  revolution.1.A: "Musimy pokazać tym arywistom ich miejsce! "
- revolution.1.B: "Być może mają rację ..."
+ revolution.1.B: "Być może mają rację..."
  revolution_disaster_go_for_it_tooltip: "Kraj §Y[Root.GetName] stanie się Republiką Rewolucyjną. Reakcjoniści będą dążyć do odwrócenia tej zmiany.§!\n"
  the_revolution_will_succeed: "§YRewolucja się powiedzie\n§!"
  revolution.9.won_revolution: "Wraz ze zwycięstwem naszych sił rewolucyjnych, zamieszanie ostatnich lat dobiega końca. Możemy teraz spodziewać się lepszej przyszłości dla mieszkańców [Root.GetAdjective]."
