@@ -174,7 +174,7 @@
  revolution.9.won_reactionary: "Zmiażdżyliśmy rewolucyjnych aktywistów! Nie będzie już kwestionowana władzy [Root.GetRulerGen]."
  revolution.9.lost_reactionary: "Biada nam! Rewolucjoniści pokonali prawowity rząd naszego narodu! Przynajmniej może powróci stabilność dawnych czasów."
  revolution.9.A: "Radujmy się zwycięstwem!"
- revolution.9.B: "Przynajmniej konflikt się skończył ..."
+ revolution.9.B: "Przynajmniej konflikt się skończył..."
  add_as_much_revolutionary_zeal_as_you_can_take: "Ferwor rewolucyjny w państwie §Y[Root.GetName]§!' jest ustawiony na maksymalną wartość."
  remove_revolution_from_all_provinces: "Nastroje rewolucyjne zostały usunięte ze wszystkich posiadanych prowincji.\nNie wrócą do nich, dopóki będziemy ich właścicielami."
  french_revolution.10.name: "Żniwo wojen Republiki"
