@@ -436,7 +436,7 @@
  flavor_hun.20.b: "Obecne fortyfikacje będą musiały wystarczyć."
  flavor_hun.21.t: "Upadek Serbii"
  flavor_hun.21.d: "Wraz z upadkiem Serbii wielu serbskich uchodźców zaczęło przekraczać naszą granice od południa. Szukają nowego domu w naszych kraju, a wielu z nich zaczęło osiedlać się w prowincji [belgrade_localized.GetName], ponieważ chcą rozpocząć nowe życie wśród rodaków, którzy już cieszą się naszą ochroną."
- flavor_hun.21.a: "Znajdzie się miejsce dla każdego ..."
+ flavor_hun.21.a: "Znajdzie się miejsce dla każdego..."
  flavor_hun.22.t: "Synod w prowincji [debrecen_province.GetName]"
  flavor_hun.22.d: "Odkąd zreformowani myśliciele z prowincji [reformed_origin.GetCapitalName] zaczęli szerzyć swoje idee religijne, zyskali silną pozycję w naszym królestwie. Zreformowane idee, takie jak predestynacja, trafiły zarówno do domu szlachty, jak i pospólstwa, a zreformowane szkoły i uczelnie zaczęły pojawiać się w wielu naszych prowincjach. Wraz z wciąż niepewnym przyjęciem się drugiej spowiedzi helweckiej, reformowany Kościół [Root.GetAdjective] zaczął również łączyć się z innymi zreformowanymi kościołami.\nJednak duchowieństwo katolickie zawsze było zdecydowanym zwolennikiem władzy królewskiej i patrzyło na ten rozwój z nieufnością. Chociaż reformowany Kościół jest silny, pozostaje nadal zbyt młody i wrażliwy. Czy chcemy dać reformowanemu Kościołowi przestrzeń do wzrostu, czy też powinniśmy spróbować go wykorzenić, zanim będzie za późno?"
  flavor_hun.22.a: "Czas zaprosić jezuitów."
