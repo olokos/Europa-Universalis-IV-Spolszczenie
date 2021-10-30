@@ -184,7 +184,7 @@
  french_revolution.14.name: "Powszechny sprzeciw wobec Republiki"
  french_revolution.15.name: "Republika w zamęcie"
  french_revolution.16.name: "Rozprzestrzenianie się rozczarowania w Republice"
- french_revolution.18.e: "Przynajmniej konflikt się skończył ..."
+ french_revolution.18.e: "Przynajmniej konflikt się skończył..."
  french_revolution.18.f: "Radujmy się zwycięstwem!"
  center_of_revolution.1600.name: "Rewolucjoniści pokonani"
  center_of_revolution.1600.desc: "Klęska sił rewolucyjnych w państwie [From.GetName] stanowi poważną porażkę w naszej sprawie. Z powodu niepowodzenia w obaleniu państwa wielu ich dawnych zwolenników w całym regionie[From.GetRegionName] traci wiarę w sprawę rewolucji i zamiast tego zgadza się na kontynuację [Root.GetGovNameGen]."
