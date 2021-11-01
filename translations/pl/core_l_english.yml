@@ -158,7 +158,7 @@
  SIEGE_TO_FEW_MEN: "Za mało ludzi, aby przeprowadzić oblężenie prowincji."
  CANCEL_MISSION_DESC: "Jeśli anulujesz swoją aktualną misję, aż do §Y$DATE$§W nie będziesz mógł wybrać nowej."
  CONFIRMCANCELMISSION: "Rezygnacja z misji"
- CONFIRMCANCELMISSION_TEXT: "Czy jesteś pewny, że chcesz anulować tę misję?"
+ CONFIRMCANCELMISSION_TEXT: "Czy na pewno chcesz anulować tę misję?"
  WAR_SCORE_99_DESC: "Zdobycie 100% wyniku wojennego (całkowitego zwycięstwa) jest możliwe tylko wtedy, kiedy zwycięzca kontroluje wszystkie prowincje przegranego, a przegrany nie kontroluje żadnych prowincji."
  WAR_OVERVIEW_ENEMY_TROOPS_LOST: "Wróg stracił w sumie $NUM|Y$ jednostek."
  WAR_OVERVIEW_ENEMY_TROOPS_ATTRIT: "Liczba ofiar z powodu wyniszczenia po stronie przeciwnika wyniosła $NUM|Y$."
