@@ -646,7 +646,7 @@
  NORTHERN_HEMISPHERE_WINTER: "Zima na północnej półkuli"
  GOTO_GOVERNMENT_REFORM_VIEW: "§YReformy rządu§!"
  GOTO_GOVERNMENT_REFORM_VIEW_DESC: "Wprowadzaj lub zmieniaj reformy, aby zapewnić sobie stałe korzyści i umożliwić korzystanie z nowych mechanik."
- ability_iqta_mechanic: "Podatek Iqta"
+ ability_iqta_mechanic: "Podatek Ikta"
  mechanic_max_states: "Podstawowa liczba stanów: $VALUE|Y$"
  mechanic_queen_no: "Bez małżonków."
  mechanic_queen_yes: "Z małżonkami."
