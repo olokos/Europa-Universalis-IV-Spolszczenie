@@ -52,7 +52,7 @@
  EST_VAL_FEUDALISM: "Szlachta feudalna: §Y$VAL$%§!"
  PROMOTE_MARATHA_NOBILITY: "Promuj marathańską szlachtę"
  EST_VAL_PROMOTED_MARATHAS: "Promuj marathańską szlachtę: §Y$VAL$%§!"
- rajput_tax_burden_autonomy_tooltip: "Wszystkie prowincje kontrolowane przez  §Yradźputów§! zyskuje §R15%§! lokalnej autonomi."
+ rajput_tax_burden_autonomy_tooltip: "Wszystkie prowincje kontrolowane przez §Yradźputów§! zyskują §R15%§! lokalnej autonomii."
  look_up_purbias: "Purbiowie"
  desc_look_up_purbias: "Ogłaszamy, że rekrutujemy tylko wykwalifikowanych radźpuckich wojowników. Ci elitarni wojownicy będą sami chcieli walczyć pod naszym sztandarem."
  look_up_purbias_upgraded: "Purbiowie"
