@@ -819,7 +819,7 @@
  india_mission_events.2.tooltip: "Zwiększy lojalność marathów o §Y10§!."
  india_mission_events.2.tooltip.2: "Zmniejszy lojalność radźputów o §Y10§!."
  india_mission_events.3.t: "Pawi tron"
- india_mission_events.3.d: "Po pełnym podboju Hindustanu, [Root.Monarch.GetName] postanowił upamiętnić nasze zwycięstwo, oddając nam najwspanialszy tron, jaki świat kiedykolwiek widział. Ozdobiona klejnotami wszelkiego rodzaju, od diamentów przez szmaragdy po perły, wartość tego miejsca przewyższa wartość największych mauzoleumów.\n\nNajważniejsze pytanie to gdzie ten tron zostanie umieszczony. Tradycyjnie zdobywcy Hindustanu rządzili z Delhi i stamtąd zarządzali swoimi imperiami. Jako [Root.Monarch.GetTitle] z Delhi, od nas zależy, czy będziemy podtrzymywać tę tradycję."
+ india_mission_events.3.d: "Po pełnym podboju Hindustanu, [Root.Monarch.GetName] postanowił upamiętnić nasze zwycięstwo, oddając nam najwspanialszy tron, jaki świat kiedykolwiek widział. Ozdobiona klejnotami wszelkiego rodzaju, od diamentów przez szmaragdy po perły, wartość tego miejsca przewyższa wartość największych mauzoleów.\n\nPytanie, które zaprząta umysły wszystkich na dworze, brzmi: gdzie ten tron ma być umieszczony. Tradycyjnie zdobywcy Hindustanu rządzili z Delhi i stamtąd zarządzali swoimi imperiami. Jako [Root.Monarch.GetTitle] z Delhi, od nas zależy, czy będziemy podtrzymywać tę tradycję."
  india_mission_events.3.a: "Będziemy rządzić z Delhi, tak jak czynili to nasi przodkowie."
  india_mission_events.3.b: "Przenieś tron do [Root.Capital.GetName]."
  india_mission_events.4.t: "Kąpiel w Gangesie"
