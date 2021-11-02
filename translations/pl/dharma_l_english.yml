@@ -332,7 +332,7 @@
  marathas_estate_events.1.t: "Bunt marathów w [Root.GetName]"
  marathas_estate_events.1.d: "Marathowie nie zgadzają się na konfiskatę ich własności w [Root.GetName] i zbuntowali się przeciwko nam!"
  marathas_estate_events.1.a: "Rozumiem."
- marathas_estate_events.2.t: "Marathacki poeta kwestionuje autorytet braminów"
+ marathas_estate_events.2.t: "Marathański poeta kwestionuje autorytet braminów"
  marathas_estate_events.2.d: "Wielki poeta wyłonił się z ludu marathów. Okrzyknięty żywym świętym poeta głosi równość wobec bogów i przeciwstawia się kastowym ograniczeniom. Pisze o braminach:\n\n„Słudzy Wisznu nie podlegają kastom,\nNauka Wedy tak zarządza.\nKtóre z twoich ksiąg uratowały zmarłych?\nNic nie wiem.\n\nArgumentując, że człowiek jest tak czysty jak jego własna wiara i kładąc nacisk na osobiste zbawienie nad rytualnymi obrzędami, jego nauki rozgniewały braminów z [Root.Country.GetName]. Domagają się, aby poeta musiał utopić swoje dzieła w rzece i złożyć formalne przeprosiny za swoją niekonwencjonalną postawę."
  marathas_estate_events.2.a: "Wspieraj poetę."
  marathas_estate_events.2.b: "Zmuś poetę do przeprosin."
