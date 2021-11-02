@@ -792,7 +792,7 @@
  monsoon_events.4.t: "Głód w [company_drought_province.GetAreaName]"
  monsoon_events.4.d: "[company_drought_province.TradeCompany.GetName] przekształciła krajobraz rolniczy w [company_drought_province.GetAreaName]. Tam, gdzie kiedyś na polach rosła żywność dla miejscowej ludności, kompania wymaga od nich silnego skupienia się na uprawach przemysłowych. Ta krótkowzroczna polityka mająca na celu natychmiastowy zysk przyniosła efekty odwrotne, ponieważ prowincja [company_drought_province.GetAreaName] została dotknięta szczególnie dotkliwa suszą. Kompania nie jest w stanie zebrać wystarczającej ilości żywności, aby wyżywić ludzi, i ponosi dużą odpowiedzialność za nadchodzący głód."
  monsoon_events.4.a: "Zysk ważniejszy od ludzi."
- monsoon_events.5.t: "Urodzaj śliwek"
+ monsoon_events.5.t: "Śliwkowy deszcz"
  monsoon_events.5.d: "Śliwki kwitną wiosną\nDeszcze przynoszą wielki urodzaj\nNasi rolnicy zyskują"
  plum_rain_tooltip: "Prowincje w §Y[plum_rains_province.GetAreaName]§! produkujące §Yzboże§!, §Ywino§!, §Yherbatę§!, lub §Yprzyprawy§! zdobywają §Y'Śliwkowy urodzaj'§! przez §5 lat§!, dając następujące efekty:\nLokalna wydajność produkcji: §G+20,0%§!"
  HAVE_HAD_REFORM: "Miałeś reformę $REFORM|Y$\n"
