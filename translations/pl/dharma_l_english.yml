@@ -307,7 +307,7 @@
  EST_VAL_JAINS_PREFERRED_BANKERS: "Preferowanie dźinijskich bankierów: §Y$VAL$%§!"
  EST_VAL_BRAHMINS_PREFERRED_BANKERS: "Preferowanie bramińskich bankierów: §Y$VAL$%§!"
  EST_VAL_JAIN_ADMINISTRATION: "Dźiniści w administracji: §Y$VAL$%§!"
- jains_estate_events.8.t: "Paryushana"
+ jains_estate_events.8.t: "Parjuszana"
  jains_estate_events.8.d: "Paryushana jest najświętszy okres kalendarza religijnego dźinistów. Jest to czas postu, wyrzeczeń i rozgrzeszenia. Członkowie społeczności wykorzystują ten czas na modlitwę, medytację i proszenie o wybaczenie od swoich towarzyszy.\nDźinijscy ministrowie zatrudnieni w administracji [Root.GetAdjective] złożyli petycję do stanu z prośbą o zakazanie uboju zwierząt na czas trwania Paryushany. Chociaż jest to kosztowna propozycja dla naszych rzeźników, sugerowano, że państwo może zrekompensować utratę zysków."
  jains_estate_events.8.a: "Zakaz uboju zwierząt podczas Paryushany."
  jains_estate_events.8.b: "Nie będziemy ustępować pogańskim wiarom."
