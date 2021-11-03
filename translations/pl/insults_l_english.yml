@@ -9,7 +9,7 @@
  insult_default8: "[Root.GetAdjective] nie wie nic o prowadzeniu kraju!"
  insult_default9: "Największy problem stanowi kraj [Root.GetName], i podejrzewam że przyczyną jest ich kultura [Root.Culture.GetName]."
  insult_default10: "W tej wspaniałej grze, w którą gramy, jesteś tylko pionkiem."
- insult_default11: "W [From.GetName], '[Root.GetName]' to słowo będące synonimem obornika."
+ insult_default11: "W kraju [From.GetName], '[Root.GetName]' to słowo będące synonimem obornika."
  insult_default12: "Opowieści o twych złych czynach krążą od Irlandii po Kataj."
  insult_default13: "[Root.GetAdjective] kultura jest czymś jak oksymoron, nie sądzisz?"
  insult_default14: "Niech twoje niebo będzie pełne komet."
