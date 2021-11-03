@@ -72,7 +72,7 @@
  drunken_explorer: "Pijany odkrywca"
  desc_drunken_explorer: "Odkrywca, upił się owocowym alkoholem, przez to zawstydził cały naród i siebie samego."
  seven_cities_events.1.t: "El Dorado"
- seven_cities_events.1.d: "Poszukiwacz przygód na łożu śmierci opowiedział historię o pokrytym złotem królu, który zmył złoto, a jego służący wrzucili do jeziora bibeloty ze złota i kamieni szlachetnych. Mężczyzna twierdził, że został uratowany przez samego El Hombre Dorado i na własne oczy widział rytuał i złote miasto. Zanim zachorował, sporządził prymitywną mapę, która, jak twierdzi, pokazuje drogę do El Dorado. Teraz, gdy dotarliśmy do prowincji $PROVINCENAME$, punkt orientacyjny odpowiada jednemu z niewielu z grubsza narysowanych na mapie poszukiwacza przygód."
+ seven_cities_events.1.d: "Poszukiwacz przygód na łożu śmierci opowiedział historię o pokrytym złotem królu, który zmył z ciała złoto, a jego służący wrzucili do jeziora bibeloty ze złota i kamieni szlachetnych. Mężczyzna twierdził, że został uratowany przez samego El Hombre Dorado i na własne oczy widział rytuał oraz złote miasto. Zanim zachorował, sporządził prymitywną mapę, która, jak twierdzi, pokazuje drogę do El Dorado. Teraz, gdy dotarliśmy do prowincji $PROVINCENAME$, punkt orientacyjny odpowiada jednemu z niewielu z grubsza narysowanych miejsc na mapie poszukiwacza przygód."
  seven_cities_events.1.a: "Idź za mapą! Doprowadzi nas ona do skarbów."
  seven_cities_events.1.b: "Spróbuj znaleźć coś o prawdziwej wartości."
  seven_cities_events.2.t: "Fontanna Młodości"
