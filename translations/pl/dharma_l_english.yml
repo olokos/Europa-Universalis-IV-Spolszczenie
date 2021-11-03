@@ -937,7 +937,7 @@
  dutch_republic.33.d2: "Lata wewnętrznych walk w Zgromadzeniu [Root.GetAdjectiveCap] zaczęły odbijać się na duchu narodowym [Root.GetName]. Rosnąca popularność negatywnej oceny Zgromadzenia przyciągnęła wielu głośnych przeciwników wśród naszych obywateli.\n\nNareszcie jeden z rywali zyskał przewagę nad swoimi przeciwnikami obalając resztki opozycji w Zgromadzeniu i przywracając chwalebne tradycje [Root.GetName]."
  dutch_republic.33.a: "Niech żyje [Root.Monarch.GetName]!"
  dutch_republic.33.b: "Niech żyje [Root.GovernmentName]!"
- opinion_company_land_purchase: "Agresywne negocjacje kompani"
+ opinion_company_land_purchase: "Agresywne negocjacje kompanii"
  opinion_appropriated_currency: "Odpowiednia waluta"
  opinion_monopoly_enforced_company: "Wymuszony monopol"
  the_draft_tooltip: "Rozwiązanie tego problemu miało następujący skutek:\nUzyskana przez lata siła ludzka przekładaja się na miejsca w parlamencie."
