@@ -6,7 +6,7 @@
  insult_default5: "Moja ostatnia wizyta w toalecie była przyjemniejsza niż kolacja z ambasadorem [Root.GetAdjective]."
  insult_default6: "O, spójrz. Tu jest trochę brudu!"
  insult_default7: "Twoja krew sprawi, że ziemia którą od ciebie zabiorę, będzie bogatsza!"
- insult_default8: "[Root.GetAdjective] nie wie nic o prowadzeniu kraju!"
+ insult_default8: "Mieszkańcy [Root.GetAdjective] nie wiedzą nic o prowadzeniu kraju!"
  insult_default9: "Największy problem stanowi kraj [Root.GetName], i podejrzewam że przyczyną jest ich kultura [Root.Culture.GetName]."
  insult_default10: "W tej wspaniałej grze, w którą gramy, jesteś tylko pionkiem."
  insult_default11: "W kraju [From.GetName], '[Root.GetName]' to słowo będące synonimem obornika."
