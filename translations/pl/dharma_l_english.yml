@@ -871,7 +871,7 @@
  CHARTER_COMPANY_BASE_RELUCTANCE: "Niechętny rozdawaniu prowincji:"
  NEW_LEGACY_GOVERNMENT: "Dostępna jest nowa reforma rządu: $WHICH|Y$\n"
  dutch_republic.32.t: "Zagraniczny monarcha przejmuje władzę"
- dutch_republic.32.d: "Poprzez skomplikowane systemy zagraniczny [From.Monarch.GetTitle] [From.Monarch.GetName] przejął kontrolę nad naszym stanem generalnym. Razem z monarchistami [From.Monarch.GetSheHe] narzucili ustawodawstwo, które poważnie ogranicza moc naszego najbardziej cenionego zgromadzenia."
+ dutch_republic.32.d: "Poprzez skomplikowane intrygi zagraniczny [From.Monarch.GetTitle] [From.Monarch.GetName] przejął kontrolę nad naszymi Stanami Generalnymi. Razem z monarchistami, narzucił [From.Monarch.GetSheHe] ustawodawstwo, które poważnie ogranicza władzę naszego najbardziej cenionego zgromadzenia."
  dutch_republic.32.a: "Niech żyje król..."
  STATES_GENERAL_PU_ELECTION_DISABLED: "§YMonarchiści przejmą władzę i zapobiegną dalszym wyborom, dopóki nie wyjdziesz z unii personalnej z [From.GetName] lub etatyści odzyskają władzę.§!"
  REFORM_AVAILABLE: "Rządowa reforma $REFORM|Y$ jest dostępna.\n"
