@@ -61,7 +61,7 @@
  insult_turkish_drunkard: "Serio jesteś Sułtanem Rumu, ty pijana świnio!"
  insult_against_england2: "Twoje królestwo jest warte tylko konia."
  insult_against_scotland: "Odbierzemy wam życia i waszą wolność!"
- insult_for_buddhists: "Obyście wpadli w kołowrót reinkarnacji i żyli tysiącem żyć bez radości i oświecenia."
+ insult_for_buddhists: "Obyście wpadli w kołowrót wcieleń i żyli tysiącem żyć bez radości lub oświecenia."
  insult_for_persians: "Nasze strzały zestrzelą słońce!"
  chinese_insult_1: "Jak słyszę, [Root.Monarch.GetName] jest gorliwym wyznawcą [Root.religion.GetName], która zadecyduje o losie [From.Monarch.GetHerHis] w następnym życiu. Tymczasem Cesarz zadecyduje o Twoim losie w tym życiu."
  chinese_insult_2: "Okaż swoje posłuszeństwo Cesarzowi i ciesz się szczęśliwym życiem, albo przywitaj się z Niebiańskimi Zastępami!"
