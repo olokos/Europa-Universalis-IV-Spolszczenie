@@ -933,7 +933,7 @@
  REFORM_AVAILABLE_TOOLTIP: "§YDostępne z powodu:§!\n"
  REFORM_NOT_AVAILABLE_TOOLTIP: "§YNiedostępne z powodu:§!\n"
  dutch_republic.33.t: "Zgromadzenie w [Root.GetAdjectiveCap] zostało unieważnione"
- dutch_republic.33.d1: "Po latach sprzeczek, wewnętrznych konfliktów i opóźnionego prawodawstwa wszyscy zgodzili się, że należy coś zrobić w sprawie stanu Zgromadzenia.\n\nStarożytny Dom [Root.Monarch.Dynasty.GetName], który od lat czeka na swój czas, w doskonale zaplanowanym czasie, stanął na czele projektu całkowitego zniesienia zgromadzenia i przywrócenia [Root.Monarch.GetName] tron [Root.GetName]."
+ dutch_republic.33.d1: "Po latach sprzeczek, wewnętrznych konfliktów i opóźnionego prawodawstwa wszyscy zgodzili się, że należy coś zrobić w sprawie stanu Zgromadzenia.\n\nStarożytny Dom [Root.Monarch.Dynasty.GetName], który od lat czeka na swój czas, w doskonale zaplanowanym czasie, stanął na czele projektu całkowitego zniesienia zgromadzenia i przywrócenia [Root.Monarch.GetName] na tron w [Root.GetName]."
  dutch_republic.33.d2: "Lata wewnętrznych walk w Zgromadzeniu [Root.GetAdjectiveCap] zaczęły odbijać się na duchu narodowym [Root.GetName]. Rosnąca popularność negatywnej oceny Zgromadzenia przyciągnęła wielu głośnych przeciwników wśród naszych obywateli.\n\nNareszcie jeden z rywali zyskał przewagę nad swoimi przeciwnikami obalając resztki opozycji w Zgromadzeniu i przywracając chwalebne tradycje [Root.GetName]."
  dutch_republic.33.a: "Niech żyje [Root.Monarch.GetName]!"
  dutch_republic.33.b: "Niech żyje [Root.GovernmentName]!"
