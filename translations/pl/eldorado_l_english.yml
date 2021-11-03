@@ -33,7 +33,7 @@
  exploration_events.9.a: "Niech zrozumieją, że nie chcemy wyrządzić im krzywdy."
  exploration_events.9.b: "Jeśli wrócą - zabij ich!"
  exploration_events.10.t: "Bestie z prowincji $PROVINCENAME$"
- exploration_events.10.d: "Zanim wybraliśmy się na wyprawę, usłyszeliśmy opowieści o odkrywcy imieniem Hanno, który znalazł wyspę zaludnioną przez „owłosionych i dzikich ludzi”. Hanno próbował schwytać mężczyzn, ale im się to nie udało. Jednak zabrano trzy kobiety. Ich okrutna natura zmusiła odkrywcę do zabicia ich i przedstawienia dowodów na to, że dzikusi zachowali ich skóry na czas transportu. Tacy ludzie zostali nazwani „gorylami” przez tłumaczy podróżujących z Hanno. Zakładamy, że małpim gatunkiem, który znaleźliśmy w prowincji $PROVINCENAME$, muszą być te, o których mówił Gorillae Hanno."
+ exploration_events.10.d: "Zanim wybraliśmy się na wyprawę, usłyszeliśmy opowieści o odkrywcy imieniem Hannon, który znalazł wyspę zaludnioną przez „owłosionych i dzikich ludzi”. Hannon próbował schwytać mężczyzn, ale mu się to nie udało. Jednak zabrano trzy kobiety. Ich dzika natura zmusiła odkrywcę do ich zabicia, a ich skóry zostały zakonserwowane na czas transportu, aby dostarczyć dowód na istnienie tych dzikusów. Tacy ludzie zostali nazwani „gorillai” (goryle) przez tłumaczy podróżujących z Hannonem. Zakładamy, że małpi gatunek, który znaleźliśmy w prowincji $PROVINCENAME$, musi być tymi gorylami, o których wspominał Hannon."
  exploration_events.10.a: "Można je oswoić za pomocą świecidełek."
  exploration_events.10.b: "Schwytaj co dasz radę i odjedź!"
  exploration_events.11.t: "Zatrute strzały"
