@@ -1067,7 +1067,7 @@
  JMN: "Jan Mayen"
  JMN_ADJ: "Jan Mayen"
  TREASURE_FLEET_TOOLTIP: "Następna flota ze skarbami z $COUNTRY$ przybędzie za §Y$DATE$§!. Szacujemy, że przywiezie nam to złoto i srebro warte §Y$NUM$§!."
- TREASURE_FLEET_TOOLTIP_CANT_REACH: "$COUNTRY$  nie może wysłać floty ze skarbami, ponieważ nasz główny węzeł handlowy $OURNODE|Y$ nie znajduje się poniżej ich głównego węzła handlowego $THEIRNODE|Y$."
+ TREASURE_FLEET_TOOLTIP_CANT_REACH: "$COUNTRY$ nie może wysłać floty ze skarbami, ponieważ nasz główny węzeł handlowy $OURNODE|Y$ nie znajduje się poniżej ich głównego węzła handlowego $THEIRNODE|Y$."
  TREASURE_FLEET_TOOLTIP_CANT_REACH_DELAYED: "§Zamiast tego zachowają swój dochód.§!\n\nGdybyśmy przenieśli nasz główny węzeł handlowy do węzła poniżej ich głównego węzła handlowego, otrzymalibyśmy od nich floty ze skarbami."
  CANNOT_SACRIFICE_NO_ADULT: "§R- Można składać ofiary tylko z dorosłych monarchów i następców.§!"
  CANNOT_SACRIFICE_NO_HEIR: "§R-  Nie posiadają następcy którego można poświęcić!§!"
