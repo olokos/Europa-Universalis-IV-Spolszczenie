@@ -11,7 +11,7 @@
  exploration_events.3.d: "W miarę zbliżania się naszego statku do prowincji $PROVINCENAME$ zaczyna podążać duża liczba kajaków z podarunkiem. Pasażerowie kajaków nieustannie wsiadali na statek, a dwaj pozornie ważni koledzy próbują przekonać kapitana statku, by poszedł za nimi do [tribal_nation.Capital.GetCapitalName]. Ich intencje wydają się niewinne i na podstawie kilku słów, które nasz tłumacz może zrozumieć, przybyliśmy w samą porę na jakieś święto. Formowanie masztów, żagle i olinowanie naszego statku przypominają pewne istotne artefakty dla tubylców, a nasza zgodna z ruchem wskazówek zegara trasa wokół wyspy odzwierciedla ścieżkę, jaką idą procesje podczas tego festiwalu. To przekonało tubylców, że jesteśmy przyjaźni, ale jeden fałszywy ruch i wszystko może się zmienić ..."
  exploration_events.3.a: "Zaakceptuj ich prymitywne tradycje."
  exploration_events.3.b: "Trzymaj się od nich z daleka i nie rób lądowania!"
- exploration_events.4.t: "Droga Chwały"
+ exploration_events.4.t: "Droga chwały"
  exploration_events.4.d: "Obserwacja ze statku wykazała oznaki osadnictwa, ale nie zauważono jeszcze żadnych tubylców, dopóki w końcu nie natknięto się na przybrzeżną wioskę w prowincji $PROVINCENAME$. Niewielka grupa wysiadła i została przyjęta gościnnie, co przypisano fascynacji tubylców brodatymi mężczyznami wyższego wzrostu. Tubylcy byli pozbawieni zarostu i z nie bez trudu zdołali przekazać, że ich mity i legendy zapowiadały, że brodaci bogowie przybędą zza morza, aby ich odwiedzić. Przyniesiono jedzenie i złoto co świadczy o zamożności prowincji i miałoby dla nas wielką wartość."
  exploration_events.4.a: "Ta kraina jest obiecująca!"
  exploration_events.5.t: "Statek na lato"
