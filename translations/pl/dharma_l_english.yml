@@ -890,7 +890,7 @@
  ICE_parliament_name: "Althing"
  iberian_parliament_name: "Kortezy"
  east_slavic_parliament_name: "Duma"
- LIT_parliament_name: "Seimas"
+ LIT_parliament_name: "Sejmas"
  turko_semitic_parliament_name: "Medżlis"
  maghrebi_parliament_name: "Madżlis"
  ENACT_REFORM_EFFECT_LOCK_WARNING: "(§RJest to zamknięta reforma. Nie będziesz mógł zmienić na inną reformę na tym samym poziomie.§!)\n"
