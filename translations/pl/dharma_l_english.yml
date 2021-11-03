@@ -823,7 +823,7 @@
  india_mission_events.3.a: "Będziemy rządzić z Delhi, tak jak czynili to nasi przodkowie."
  india_mission_events.3.b: "Przenieś tron do [Root.Capital.GetName]."
  india_mission_events.4.t: "Kąpiel w Gangesie"
- india_mission_events.4.d: "Duchowego znaczenia świętej rzeki Ganges nie można lekceważyć. Jest ona czymś więcej niż tylko zbiornikiem wodnym, jest boginią Gangha, która przynosi obfitość i czystość wszystkim, którzy kąpią się w jej wodach.\n\nNasz chwalebny podbój Niziny Hinduskiej został zakończony, zleciliśmy braminom zorganizowanie wystawnego festiwalu religijnego o niespotykanej dotąd skali. Konsekrowanemu w świętych wodach Gangha imperium [Root.Country.GetName] z pewnością będą Bogowie sprzyjać przez całą wieczność."
+ india_mission_events.4.d: "Duchowego znaczenia świętej rzeki Ganges nie można lekceważyć. Jest ona czymś więcej niż tylko zbiornikiem wodnym, jest boginią Ganga, która przynosi obfitość i czystość wszystkim, którzy kąpią się w jej wodach.\n\nNasz chwalebny podbój Niziny Hindustańskiej został zakończony, więc zleciliśmy braminom zorganizowanie wystawnego święta religijnego o niespotykanej dotąd skali. Konsekrowanemu w świętych wodach Gangi imperium [Root.Country.GetName] z pewnością będą Bogowie sprzyjać przez całą wieczność."
  india_mission_events.4.a: "Jesteśmy oczyszczeni"
  india_mission_events.5.t: "Panowanie marathów"
  india_mission_events.5.d: "Po podbiciu serca marathów, dla [Root.Country.GetName] najważniejszym jest zwrócenie uwagi na marathów. Nadaliśmy im przywilej i pierwszeństwo, które spłacili poprzez wierną służbę wojskową. W miarę wzrostu ich mocy i wykazania skuteczności wielu zastanawia się głośno, czy generał marathów nie byłby lepiej przystosowany do zasiadania na tronie [Root.Country.GetName]."
