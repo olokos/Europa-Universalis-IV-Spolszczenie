@@ -827,7 +827,7 @@
  india_mission_events.4.a: "Jesteśmy oczyszczeni"
  india_mission_events.5.t: "Panowanie marathów"
  india_mission_events.5.d: "Po podbiciu \"serca\" marathów, [Root.Country.GetName] znajduje się w centrum uwagi marathów. Nadaliśmy im uprzywilejowaną pozycję i pierwszeństwo, co spłacili poprzez wierną służbę wojskową. W miarę wzrostu ich potęgi i wykazania się skutecznością, wielu zastanawia się głośno, czy marathański generał nie byłby bardziej odpowiedni, by zasiąść na tronie kraju [Root.Country.GetName]."
- india_mission_events.5.d2: "Po podbiciu serca marathów, dla [Root.Country.GetName] najważniejszym jest zwrócenie uwagi na marathów. Nadaliśmy im przywilej i pierwszeństwo, które spłacili poprzez wierna służbę wojskową. Nasza wojskowa kultura i polityka militaryzacji okazały się bardzo skuteczne."
+ india_mission_events.5.d2: "Po podbiciu \"serca\" marathów, [Root.Country.GetName] znajduje się w centrum uwagi marathów. Nadaliśmy im uprzywilejowaną pozycję i pierwszeństwo, co spłacili poprzez wierną służbę wojskową. Nasza wojskowa kultura i polityka militaryzacji okazały się bardzo skuteczne."
  india_mission_events.5.b: "Poprowadzi nas generał marathów."
  india_mission_events.5.c: "Marathowie będą dalej nam wiernie służyć."
  TRADE_COMPANY_INVESTMENTS_DESC: "Inwestycje w kompanie handlowe są drogie, ale korzystnie na nie wpływają. Mogą mieć znaczący korzystny wpływ na wszystkie prowincje w regionie lub regionalne kompanie handlowe, niezależnie od tego, czy należą one do ciebie, czy do krajów rodzimych. Podczas gdy większość ma efekty lokalne, niektóre dotyczą całego kraju."
