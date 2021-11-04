@@ -1887,7 +1887,7 @@
  china_events.49.a: "Wykonajmy egzekucję i zrzućmy winę na nadwornego astrologa."
  china_events.49.b: "Zakażmy jakichkolwiek dyskusji na ten temat."
  china_events.50.t: "Nielojalni urzędnicy"
- china_events.50.d: "System Egzaminów Cesarskich jest doskonały do wyłaniania dobrze wykształconych i kompetentnych biurokratów i urzędników, gotowych stawić czoła różnym wyzwaniom związanym z codziennym rządzeniem i administrowaniem, jakie stawia Cesarstwo Chińskie.\nTa sama edukacja sprawia jednak, że nasi administratorzy są teraz bardzo ostrożni w stosunku do niektórych działań, które ostatnio podejmujemy. Wiara w to, że rodzina [Root.Monarch.Dynasty.GetName] działa bez niebiańskiego mandatu sprawiła, że wielu urzędników nie chce spełnić naszych żądań. Czasami wydaje się, że władza cesarska nie sięga dalej niż można to spojrzeć z murów pałacu."
+ china_events.50.d: "System cesarskich egzaminów urzędniczych jest doskonały do wyłaniania dobrze wykształconych i kompetentnych biurokratów i urzędników, gotowych stawić czoła różnym wyzwaniom związanym z codziennym rządzeniem i administrowaniem, jakie stawia Cesarstwo Chińskie.\nTa sama edukacja sprawia jednak, że nasi administratorzy są teraz bardzo ostrożni w stosunku do niektórych działań, które ostatnio podejmujemy. Wiara w to, że rodzina [Root.Monarch.Dynasty.GetName] działa bez niebiańskiego mandatu sprawiła, że wielu urzędników nie chce spełnić naszych żądań. Czasami wydaje się, że władza cesarska nie wykracza poza tereny widoczne z murów pałacu."
  china_events.50.a: "Musimy oczyścić się z tej herezji!"
  china_events.50.b: "Z czasem znów zdobędziemy ich zaufanie."
  china_events.51.t: "Brak autorytetu"
