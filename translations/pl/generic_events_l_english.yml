@@ -1720,7 +1720,7 @@
  china_events.11.a: "Tylko najlepsi są wystarczająco dobrzy."
  china_events.11.b: "Z pewnością przyda się nam więcej lojalnych administratorów."
  china_events.12.t: "Południowe elity"
- china_events.12.d: "Przez wieki południowe imperium było bogatsze i bardziej zaludnione niż północ. To na południu wiele najbogatszych i najbardziej wpływowych rodzin ma swoje korzenie i to z południa pochodzi zdecydowana większość najzdolniejszych absolwentów Egzaminów Cesarskich.\n[Root.Monarch.GetName] martwi się, że rodziny południowe posiadają zbyt wielki wpływ ze względu na wielu południowców w administracji pałacowej. W przeszłości stosowano reguły zapewniające, że część osób po zdanych egzaminach pochodzi z północy. Takie regulacje groziłyby jednak podważeniem całego naszego systemu zasług jako zasady przewodniej."
+ china_events.12.d: "Przez wieki południowe imperium było bogatsze i bardziej zaludnione niż północ. To na południu wiele najbogatszych i najbardziej wpływowych rodzin ma swoje korzenie i to z południa pochodzi zdecydowana większość najzdolniejszych absolwentów cesarskich egzaminów urzędniczych.\n[Root.Monarch.GetName] martwi się, że rodziny południowe posiadają zbyt wielki wpływ ze względu na wielu południowców w administracji pałacowej. W przeszłości stosowano reguły zapewniające, że część osób po zdanych egzaminach pochodzi z północy. Takie regulacje groziłyby jednak podważeniem całego naszego systemu zasług jako zasady przewodniej."
  china_events.12.a: "Potrzebujemy lepszych zasad!"
  china_events.12.b: "Uczeni Północy po prostu nie mają porównania do południowców..."
  china_events.13.t: "Pobór w prowincji [levy_province.GetName]"
