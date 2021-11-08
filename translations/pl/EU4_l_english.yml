@@ -223,7 +223,7 @@
  obj_humiliate_rival_desc: "Upokorz rywala poprzez traktat pokojowy."
  obj_humiliate_rival_tooltip: "Upokorzono rywala"
  obj_christian_convert: "Dołącz do reformacji"
- obj_christian_convert_desc: "Zmień religię państwową na protestantyzm, kalwinizm lub anglikanizm."
+ obj_christian_convert_desc: "Zmień religię państwową na protestantyzm, kalwinizm, anglikanizm lub husytyzm."
  obj_humanism_religious: "Humanistyczne lub religijne"
  obj_humanism_religious_desc: "W pełni odblokowano grupę idei humanistycznych lub religijnych."
  obj_convert_10_provinces: "Nawróć prowincje"
