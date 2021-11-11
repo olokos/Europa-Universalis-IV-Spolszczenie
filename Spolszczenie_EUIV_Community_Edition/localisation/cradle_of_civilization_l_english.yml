@@ -415,7 +415,7 @@
  alert_can_use_feudal_theocracy_ability_delayed:0 "$POWERS|Y$ mo¿e by¾ obecnie u¿ywany."
  alert_can_use_tribal_federation_ability_instant:0 "§YCan demand a Tribal Tribute!§!"
  alert_can_use_tribal_federation_ability_delayed:0 "$POWERS|Y$ can currently be demanded."
- IQTA_TAXATION_POLICY_PERIOD:0 "W tym okresie nie mo¿esz wprowadzi¾ kolejnej polityki podatkowej Iqta."
+ IQTA_TAXATION_POLICY_PERIOD:0 "W tym okresie nie mo¿esz wprowadzi¾ kolejnej polityki podatkowej Ikta."
  RELIGIOUS_SCHOLAR_EXPIRY_TITLE:0 "Religious Scholar Has Left"
  RELIGIOUS_SCHOLAR_EXPIRY_SETUP:0 "When a religious scholar leaves our country."
  RELIGIOUS_SCHOLAR_EXPIRY_HEADER:0 "Religious Scholar Has Left"

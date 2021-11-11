@@ -154,7 +154,7 @@
  conversion_of_convenience_title:0 "Czy to ju¿ czas, aby [Root.Monarch.GetTitle] zmieni³[Root.Monarch.GetANoun] wiar² na [Root.Religion.GetName]?"
  conversion_of_convenience_desc:0 "Fakt, i¿ [Root.Monarch.GetName] [Root.Monarch.GetHerselfHimself] nie czci paªstwowej religii, jest strza³em w serce dla tych, którzy walczyli za dusze i umys³y ludu [Root.GetAdjective]. By¾ mo¿e nadszed³ czas, aby [Root.Monarch.GetName] pozwoli³[Root.Monarch.GetANoun], by dobro [Root.Monarch.GetHerHis] ludzi stan²³o przed osobistymi sprawami wiary?"
  reform_into_iqta_title:0 "WprowadŸ islamski System Rz¹dów"
- reform_into_iqta_desc:0 "Panowanie i zarz¹dzanie mog¹ by¾ wieloma rzeczami, a tradycje, na których polegamy, znajduj¹ si² poza g³ównym nurtem œwiata islamskiego. Przyjmuj¹c system Iqta, mo¿emy bezpoœrednio egzekwowa¾ nasz¹ w³adz² nad ziemiami, a prawa do dochodów przyznawane s¹ wy³¹cznie zaufanym Emirom."
+ reform_into_iqta_desc:0 "Panowanie i zarz¹dzanie mog¹ by¾ wieloma rzeczami, a tradycje, na których polegamy, znajduj¹ si² poza g³ównym nurtem œwiata islamskiego. Przyjmuj¹c system Ikta, mo¿emy bezpoœrednio egzekwowa¾ nasz¹ w³adz² nad ziemiami, a prawa do dochodów przyznawane s¹ wy³¹cznie zaufanym Emirom."
  enforce_religion_muslim_title:0 "WprowadŸ jednostk² religijn¹"
  enforce_religion_muslim_desc:0 "Nie mo¿emy znieœ¾ heretyków w naszym królestwie. Surowy zestaw przepisów, których celem s¹ zwolennicy tradycji fa³szywi imamowie i kap³ani, pozwoli nam zmarginalizowa¾ wszelkie heretyckie wp³ywy w naszym spo³eczeªstwie."
  remove_non_electors_emperors_from_empire_effect_tooltip:0 "Wszystkie posiadane prowincje zostan¹ usuni²te ze Œwi²tego Cesarstwa Rzymskiego."
