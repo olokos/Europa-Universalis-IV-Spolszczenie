@@ -1631,7 +1631,7 @@
  CONFIRM_MOTHBALL_ALL_DESC: "This will immediately mothball all of your forts, depleting their garrisons."
  GOTO: "Go to"
  MOVE_BLOCKED_BY_FORT_IN_PROVINCE: "§RMovement blocked due to hostile fort in $PROV$.§!"
- MOVE_BLOCKED_BY_FORT: "§RLand movement blocked by hostile fort.§!"
+ MOVE_BLOCKED_BY_FORT: "Land movement blocked by hostile fort."
  MOVE_CANT_RETREAT_FROM_COMBAT: "In Combat, and can not leave it for another $VAL|Y$ days!"
  PROVINCE_IN_FORT_ZONE_OF_CONTROL: "§GWithin your fort in $NAME$'s zone of control.§!"
  PROVINCE_IN_HOSTILE_FORT_ZONE_OF_CONTROL: "Within the $HOSTILE|R$ fort in $NAME|Y$'s zone of control."

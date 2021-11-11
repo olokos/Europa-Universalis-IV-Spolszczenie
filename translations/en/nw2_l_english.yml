@@ -159,7 +159,7 @@
  CORE_EXPLAIN_LOSE_PRIMARY_TAG_NOLOSE: "§Y$WHO$§! is the primary nation of §Y$PROVCULTURE$§! and will never lose §Y$PROV$§! as a Core province."
  HISTORY_DISCOVERED_BY_GROUP: "Was discovered by the §Y$GROUP$§W sphere."
  WESTERNIZATION_AFFECTS: "§YEffects during Westernization:§W"
- SUBJECT_COUNTRY_STARTS: "Subject country"
+ SUBJECT_COUNTRY_STARTS: "Any Subject country"
  ALL_SUBJECT_COUNTRY_STARTS: "All subject countries"
  gen_trade_access_denied: "Denied exclusive trade privileges through the Bosphorus"
  gen_trade_given: "Granted exclusive trade privileges through the Bosphorus"

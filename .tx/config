@@ -253,6 +253,13 @@ source_file = translations/en/gecko_1_31_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
+[Community-edition.gecko-1-32-l-english-yml]
+file_filter = translations/<lang>/gecko_1_32_l_english.yml
+minimum_perc = 0
+source_file = translations/en/gecko_1_32_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
 [Community-edition.generic-events-l-english-yml]
 file_filter = translations/<lang>/generic_events_l_english.yml
 minimum_perc = 0
@@ -299,6 +306,13 @@ type = YAML_GENERIC
 file_filter = translations/<lang>/hints_l_english.yml
 minimum_perc = 0
 source_file = translations/en/hints_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[Community-edition.hnn-1-32-l-english-yml]
+file_filter = translations/<lang>/hnn_1_32_l_english.yml
+minimum_perc = 0
+source_file = translations/en/hnn_1_32_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
@@ -509,6 +523,13 @@ type = YAML_GENERIC
 file_filter = translations/<lang>/opinions_l_english.yml
 minimum_perc = 0
 source_file = translations/en/opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[Community-edition.origins-l-english-yml]
+file_filter = translations/<lang>/origins_l_english.yml
+minimum_perc = 0
+source_file = translations/en/origins_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 

@@ -24,7 +24,7 @@
  MODIFIER_YEARLY_FEDERATION_FAVOR_GROWTH: "Yearly Federation Favor Growth"
  MODIFIER_MONTHLY_REFORM_PROGRESS_MODIFIER: "Monthly Reform Progress Modifier"
  TRIBAL_DEVELOPMENT_VALUE: "From Tribal Development: $VAL|Y0$"
- TRIBAL_DEVELOPMENT_INCREASE_EXPLANATION: "Random category will grow by $VAL|+$:\n"
+ TRIBAL_DEVELOPMENT_INCREASE_EXPLANATION: "$POWER|$ category will grow by $VAL|+3$:\n"
  PROVINCE_SETTLE_TOOLTIP_DESC: "Will settle our people in the province making it belong to us fully and relocate $ADM|Y$£adm£, $DIP|Y$£dip£, $MIL|Y$£mil£ Development to it.\n\n"
  SETTLE_PROVINCE_COST: "Costs $COST|Y$ $POWER|$ Power\n"
  MIGRATE_PROVINE_NOT_LAND: "§R$PROV|Y$ is not settleable land.\n"
@@ -127,3 +127,4 @@
  SETTLE_PROVINCE_NO_DEVELOPMENT: "§RNot enough tribal development to settle province.§!"
  BUILDING_SLOT_NATIVE_IN_NON_NATIVE: "Natives can't build in non-native land"
  BUILDING_SLOT_NON_NATIVE_IN_NATIVE: "Non-natives can't build in native land"
+ native_remain_being_native_reform: "Tribal Identity"

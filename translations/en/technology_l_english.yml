@@ -10,7 +10,7 @@
  ENABLES: "Enables §Y$WHICH$§W.\n"
  NEW_BUILDING: "Can now build §Y$WHICH$§W.\n"
  NEW_GOVERNMENT: "Allows §Y$WHICH$§W.\n"
- TIME_TECH_INFO: "The current penalty or bonus to the cost of this technology from neighbor bonuses and being ahead in time."
+ TIME_TECH_INFO: "The current penalty or bonus to the cost of this technology from institutions, neighbor bonuses and being ahead in time."
  mil_tech: "Military Technology"
  adm_tech: "Administrative Technology"
  dip_tech: "Diplomatic Technology"

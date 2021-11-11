@@ -1233,7 +1233,7 @@
  estate_cossacks_exploration_expedition_mod_revoke_tooltip: "Removes §YCossack Exploration§! from all owned Steppe provinces."
  estate_burghers_exclusive_trade_rights_enact_tooltip: "Adds §R20§! local autonomy and §G-15%§! local development cost to Centers of Trade in §Y[This.GetTradeNodeName]§! trade node."
  estate_burghers_exclusive_trade_rights_revoke_tooltip: "Removes \"Exclusive Trade Rights\" modifier from all owned provinces"
- PRIVILEGE_LOYALTY_CHANGE: "$ESTATE$ Loyalty will change by $VAL|+%0$."
+ PRIVILEGE_LOYALTY_CHANGE: "$ESTATE$ Loyalty equilibrium will change by $VAL|+%0$."
  PRIVILEGE_INFLUENCE_CHANGE: "$ESTATE$ Influence will change by $VAL|Y%0$."
  PRIVILEGE_MAX_ABSOLUTISM_CHANGE: "Max Absolutism will be change by $VAL|+0$."
  PRIVILEGE_LANDSHARE_CHANGE: "We will $DIR$ $VAL|Y0$ crown land."
