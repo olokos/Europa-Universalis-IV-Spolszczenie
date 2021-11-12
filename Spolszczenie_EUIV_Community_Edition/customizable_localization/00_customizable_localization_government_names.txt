@@ -8,6 +8,22 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_TRIBAL_EMPIRE
+		trigger = {
+			government_rank = 3
+			tag = KON
+			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_EMPIRE
+		trigger = {
+			government_rank = 3
+			tag = KON
+			government = monarchy
+		}
+	}
+	text={
 		localisation_key = string_ISLAMIC_CALIPHATE
 		trigger = {
 			government_rank = 3
@@ -446,10 +462,7 @@ defined_text = {
 		localisation_key = string_EMPIRE
 		trigger = {
 			government_rank = 3
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -909,6 +922,7 @@ defined_text = {
 		trigger = {
 			government_rank = 3
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text={
@@ -1015,6 +1029,10 @@ defined_text = {
 				has_reform = steppe_horde
 			}
 			religion_group = muslim
+			NOT = {
+				has_reform = steppe_horde
+				has_reform = feudal_theocracy
+			}
 		}
 	}
 	text={
@@ -1124,7 +1142,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_GREAT_REPUBLIC
+		localisation_key = string_MOST_SERENE_REPUBLIC
 		trigger = {
 			government_rank = 3
 			government = republic
@@ -1624,6 +1642,22 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_TRIBAL_KINGDOM
+		trigger = {
+			government_rank = 2
+			tag = KON
+			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_KINGDOM
+		trigger = {
+			government_rank = 2
+			tag = KON
+			government = monarchy
+		}
+	}
+	text={
 		localisation_key = string_SERENE_REPUBLIC
 		trigger = {
 			government_rank = 2
@@ -1909,10 +1943,7 @@ defined_text = {
 		localisation_key = string_SULTANATE
 		trigger = {
 			government_rank = 2
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -2356,6 +2387,7 @@ defined_text = {
 		trigger = {
 			government_rank = 2
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text={
@@ -2451,6 +2483,10 @@ defined_text = {
 				has_reform = steppe_horde
 			}
 			religion_group = muslim
+			NOT = {
+				has_reform = steppe_horde
+				has_reform = feudal_theocracy
+			}
 		}
 	}
 	text={
@@ -3052,6 +3088,20 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_CHIEFDOM
+		trigger = {
+			tag = KON
+			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_DUCHY
+		trigger = {
+			tag = KON
+			government = monarchy
+		}
+	}
+	text={
 		localisation_key = string_REPUBLIC
 		trigger = {
 			primary_culture = polish
@@ -3361,10 +3411,7 @@ defined_text = {
 	text={
 		localisation_key = string_BEYLIK
 		trigger = {
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -3778,6 +3825,7 @@ defined_text = {
 		localisation_key = string_LORDSHIP
 		trigger = {
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text={
@@ -3874,6 +3922,10 @@ defined_text = {
 				has_reform = steppe_horde
 			}
 			religion_group = muslim
+			NOT = {
+				has_reform = steppe_horde
+				has_reform = feudal_theocracy
+			}
 		}
 	}
 	text={
@@ -4505,6 +4557,22 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_TRIBAL_EMPIRE_ins
+		trigger = {
+			government_rank = 3
+			tag = KON
+			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_EMPIRE_ins
+		trigger = {
+			government_rank = 3
+			tag = KON
+			government = monarchy
+		}
+	}
+	text={
 		localisation_key = string_ISLAMIC_CALIPHATE_ins
 		trigger = {
 			government_rank = 3
@@ -4943,10 +5011,7 @@ defined_text = {
 		localisation_key = string_EMPIRE_ins
 		trigger = {
 			government_rank = 3
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -5406,6 +5471,7 @@ defined_text = {
 		trigger = {
 			government_rank = 3
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text={
@@ -5512,6 +5578,10 @@ defined_text = {
 				has_reform = steppe_horde
 			}
 			religion_group = muslim
+			NOT = {
+				has_reform = steppe_horde
+				has_reform = feudal_theocracy
+			}
 		}
 	}
 	text={
@@ -5621,7 +5691,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_GREAT_REPUBLIC_ins
+		localisation_key = string_MOST_SERENE_REPUBLIC_ins
 		trigger = {
 			government_rank = 3
 			government = republic
@@ -6121,6 +6191,22 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_TRIBAL_KINGDOM_ins
+		trigger = {
+			government_rank = 2
+			tag = KON
+			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_KINGDOM_ins
+		trigger = {
+			government_rank = 2
+			tag = KON
+			government = monarchy
+		}
+	}
+	text={
 		localisation_key = string_SERENE_REPUBLIC_ins
 		trigger = {
 			government_rank = 2
@@ -6406,10 +6492,7 @@ defined_text = {
 		localisation_key = string_SULTANATE_ins
 		trigger = {
 			government_rank = 2
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -6853,6 +6936,7 @@ defined_text = {
 		trigger = {
 			government_rank = 2
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text={
@@ -6948,6 +7032,10 @@ defined_text = {
 				has_reform = steppe_horde
 			}
 			religion_group = muslim
+			NOT = {
+				has_reform = steppe_horde
+				has_reform = feudal_theocracy
+			}
 		}
 	}
 	text={
@@ -7549,6 +7637,20 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_CHIEFDOM_ins
+		trigger = {
+			tag = KON
+			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_DUCHY_ins
+		trigger = {
+			tag = KON
+			government = monarchy
+		}
+	}
+	text={
 		localisation_key = string_REPUBLIC_ins
 		trigger = {
 			primary_culture = polish
@@ -7858,10 +7960,7 @@ defined_text = {
 	text={
 		localisation_key = string_BEYLIK_ins
 		trigger = {
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -8275,6 +8374,7 @@ defined_text = {
 		localisation_key = string_LORDSHIP_ins
 		trigger = {
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text={
@@ -8371,6 +8471,10 @@ defined_text = {
 				has_reform = steppe_horde
 			}
 			religion_group = muslim
+			NOT = {
+				has_reform = steppe_horde
+				has_reform = feudal_theocracy
+			}
 		}
 	}
 	text={

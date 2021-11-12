@@ -2,6 +2,51 @@ defined_text = {
 	name = GetConsortGen
 	random = no
 	text={
+		localisation_key = string_CONSORT
+		trigger = {
+			has_female_consort = no
+			has_reform = stateless_society
+		}
+	}
+	text={
+		localisation_key = string_PRINCE_CONSORT
+		trigger = {
+			has_female_consort = no
+			tag = KON
+			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_PRINCE_CONSORT
+		trigger = {
+			has_female_consort = no
+			tag = KON
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			has_country_modifier = unified_islam
+		}
+	}
+	text={
+		localisation_key = string_KAISER
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			culture_group = germanic
+			government_rank = 3
+			OR = {
+				tag = HLR
+				tag = GER
+			}
+			government = monarchy
+		}
+	}
+	text={
 		localisation_key = string_YEKHE_KHAGAN
 		trigger = {
 			has_female_consort = no
@@ -77,11 +122,83 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_EMPEROR
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			NOT = {
+				has_reform = revolutionary_empire_reform
+			}
+			OR = {
+				has_reform = revolutionary_empire_reform
+				tag = FRA
+				tag = AUV
+			}
+		}
+	}
+	text={
+		localisation_key = string_KHAGAN
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			tag = AVR
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_EMPEROR
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			primary_culture = georgian
+		}
+	}
+	text={
+		localisation_key = string_PADISHAH_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			religion_group = muslim
+			tag = NJR
+		}
+	}
+	text={
+		localisation_key = string_EMPEROR_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			tag = MAL
+		}
+	}
+	text={
+		localisation_key = string_CONSORT
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			OR = {
+				tag = KAT
+				primary_culture = sindhi
+			}
+		}
+	}
+	text={
 		localisation_key = string_BOQOR
 		trigger = {
 			has_female_consort = no
 			government = monarchy
 			primary_culture = somali
+		}
+	}
+	text={
+		localisation_key = string_EMPEROR_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			tag = LIT
+			government = monarchy
 		}
 	}
 	text={
@@ -113,15 +230,38 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_PADISHAH
+		localisation_key = string_PADISHAH_CONSORT
 		trigger = {
 			has_female_consort = no
 			government_rank = 3
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
+		}
+	}
+	text={
+		localisation_key = string_EMPEROR_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			tag = FEO
+		}
+	}
+	text={
+		localisation_key = string_PRINCE_CONSORT
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			primary_culture = croatian
+		}
+	}
+	text={
+		localisation_key = string_EMPEROR_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			primary_culture = finnish
 		}
 	}
 	text={
@@ -154,16 +294,107 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_BASILEUS
+		localisation_key = string_PRINCE_CONSORT
 		trigger = {
 			has_female_consort = no
-			government_rank = 3
+			government = monarchy
+			OR = {
+				has_reform = feudalism_reform
+				has_reform = autocracy_reform
+			}
+			primary_culture = serbian
+			religion = orthodox
+		}
+	}
+	text={
+		localisation_key = string_PRINCE_CONSORT
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			primary_culture = serbian
+		}
+	}
+	text={
+		localisation_key = string_PRINCE_CONSORT
+		trigger = {
+			has_female_consort = no
 			government = monarchy
 			OR = {
 				tag = BYZ
 				tag = TRE
 				tag = EPI
 				tag = MOE
+			}
+		}
+	}
+	text={
+		localisation_key = string_EMPEROR_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			OR = {
+				primary_culture = greek
+				primary_culture = pontic_greek
+			}
+		}
+	}
+	text={
+		localisation_key = string_EMPEROR_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			tag = PGS
+			religion_group = eastern
+		}
+	}
+	text={
+		localisation_key = string_EMPEROR_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			tag = ALB
+		}
+	}
+	text={
+		localisation_key = string_EMPEROR_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			tag = QNG
+		}
+	}
+	text={
+		localisation_key = string_PRINCE_CONSORT
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			OR = {
+				AND = {
+					primary_culture = greek
+					religion = animism
+				}
+				primary_culture = athenian
+				primary_culture = spartan
+				primary_culture = atlantean
+			}
+		}
+	}
+	text={
+		localisation_key = string_IMPERATOR
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			OR = {
+				AND = {
+					primary_culture = umbrian
+					religion = animism
+				}
+				primary_culture = roman
 			}
 		}
 	}
@@ -177,6 +408,15 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_CAR
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			primary_culture = romanian
+		}
+	}
+	text={
 		localisation_key = string_PADISHAH
 		trigger = {
 			has_female_consort = no
@@ -186,7 +426,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_PADISHAH
+		localisation_key = string_PADISHAH_CONSORT
 		trigger = {
 			has_female_consort = no
 			government_rank = 3
@@ -246,6 +486,15 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_EMPEROR_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			tag = KAF
+		}
+	}
+	text={
 		localisation_key = string_JANHOY
 		trigger = {
 			has_female_consort = no
@@ -259,6 +508,258 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_GREAT_MUGABE
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			tag = NKO
+		}
+	}
+	text={
+		localisation_key = string_GREAT_OMUKAMA
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			tag = BNY
+		}
+	}
+	text={
+		localisation_key = string_EMPEROR_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			OR = {
+				primary_culture = lunda
+				primary_culture = luba
+			}
+		}
+	}
+	text={
+		localisation_key = string_EMPEROR_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			tag = ZIM
+		}
+	}
+	text={
+		localisation_key = string_EMPEROR_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			tag = RZW
+		}
+	}
+	text={
+		localisation_key = string_EMPEROR_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			primary_culture = rwandan
+		}
+	}
+	text={
+		localisation_key = string_EMPEROR_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			primary_culture = ganda
+		}
+	}
+	text={
+		localisation_key = string_EMPEROR_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			tag = ANT
+		}
+	}
+	text={
+		localisation_key = string_EMPEROR_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			tag = BTS
+		}
+	}
+	text={
+		localisation_key = string_MAHARAJA
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			OR = {
+				tag = BTU
+				tag = MNA
+				tag = CEB
+			}
+		}
+	}
+	text={
+		localisation_key = string_EMPEROR_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			primary_culture = shan
+		}
+	}
+	text={
+		localisation_key = string_EMPEROR_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			culture_group = burman
+		}
+	}
+	text={
+		localisation_key = string_EMPEROR_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			OR = {
+				government = monarchy
+				government = republic
+			}
+			NOT = {
+				government = monarchy
+				government = republic
+				tag = SUL
+			}
+			NOT = {
+				government = monarchy
+				government = republic
+				tag = SUL
+				tag = MGD
+			}
+			primary_culture = filipino
+		}
+	}
+	text={
+		localisation_key = string_CAR
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			culture_group = south_slavic
+			NOT = {
+				tag = CLI
+			}
+		}
+	}
+	text={
+		localisation_key = string_EMPEROR
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			primary_culture = irish
+			OR = {
+				tag = DMS
+				tag = ORD
+				tag = KID
+				tag = ULS
+			}
+		}
+	}
+	text={
+		localisation_key = string_EMPEROR
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			primary_culture = irish
+		}
+	}
+	text={
+		localisation_key = string_EMPEROR
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			primary_culture = highland_scottish
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_TSAR
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			OR = {
+				has_reform = principality
+				has_reform = tsardom
+			}
+			tag = MOS
+		}
+	}
+	text={
+		localisation_key = string_TSAR
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			OR = {
+				has_reform = principality
+				has_reform = tsardom
+			}
+		}
+	}
+	text={
+		localisation_key = string_EMPEROR_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			OR = {
+				culture_group = east_slavic
+				tag = PRM
+			}
+		}
+	}
+	text={
+		localisation_key = string_EMPEROR_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			religion = inti
+		}
+	}
+	text={
+		localisation_key = string_EMPEROR_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			OR = {
+				government = monarchy
+				government = tribal
+			}
+			religion = mesoamerican_religion
+		}
+	}
+	text={
+		localisation_key = string_EMPEROR_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			OR = {
+				government = monarchy
+				government = tribal
+				has_reform = tribal_democracy_legacy
+			}
+			religion = nahuatl
+		}
+	}
+	text={
 		localisation_key = string_CONSORT
 		trigger = {
 			has_female_consort = no
@@ -267,15 +768,20 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_PADISHAH_CONSORT
+		localisation_key = string_EMPEROR_CONSORT
 		trigger = {
 			has_female_consort = no
 			government_rank = 3
 			government = monarchy
 			NOT = {
-				has_reform = steppe_horde
+				government = tribal
 			}
-			religion_group = muslim
+			OR = {
+				government = tribal
+				religion = buddhism
+				religion = vajrayana
+				religion = mahayana
+			}
 		}
 	}
 	text={
@@ -291,6 +797,51 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_CONSORT
+		trigger = {
+			has_female_consort = no
+			OR = {
+				government = native
+				has_reform = siberian_tribe
+				has_reform = native_basic_reform
+				AND = {
+					has_reform = steppe_horde
+					NOT = {
+						OR = {
+							culture_group = altaic
+							culture_group = tartar
+						}
+					}
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_LORD
+		trigger = {
+			has_female_consort = no
+			has_reform = indep_daimyo
+		}
+	}
+	text={
+		localisation_key = string_EMPEROR_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			has_reform = tribal_kingdom
+		}
+	}
+	text={
+		localisation_key = string_CONSORT
+		trigger = {
+			has_female_consort = no
+			OR = {
+				has_reform = tribal_despotism
+				has_reform = tribal_federation
+			}
+		}
+	}
+	text={
 		localisation_key = string_PRINCE_CONSORT
 		trigger = {
 			has_female_consort = no
@@ -298,6 +849,40 @@ defined_text = {
 			is_part_of_hre = yes
 			NOT = {
 				total_development = 50
+			}
+		}
+	}
+	text={
+		localisation_key = string_CONSORT
+		trigger = {
+			has_female_consort = no
+			religion = ibadi
+			OR = {
+				government = theocracy
+				has_reform = feudal_theocracy
+			}
+		}
+	}
+	text={
+		localisation_key = string_CONSORT
+		trigger = {
+			has_female_consort = no
+			religion = shiite
+			primary_culture = yemeni_culture
+			OR = {
+				government = theocracy
+				has_reform = feudal_theocracy
+			}
+		}
+	}
+	text={
+		localisation_key = string_CONSORT
+		trigger = {
+			has_female_consort = no
+			religion = sunni
+			OR = {
+				has_reform = feudal_theocracy
+				government = theocracy
 			}
 		}
 	}
@@ -358,6 +943,83 @@ defined_text = {
 		trigger = {
 			has_female_consort = no
 			government_rank = 2
+			government = monarchy
+			NOT = {
+				religion_group = muslim
+			}
+			has_country_flag = sultan_titles_for_non_muslims
+		}
+	}
+	text={
+		localisation_key = string_KING
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			NOT = {
+				has_reform = revolutionary_empire_reform
+			}
+			OR = {
+				has_reform = revolutionary_empire_reform
+				tag = FRA
+				tag = AUV
+			}
+		}
+	}
+	text={
+		localisation_key = string_EMIR
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			religion_group = muslim
+			OR = {
+				tag = HED
+				tag = MDA
+				tag = MFL
+			}
+		}
+	}
+	text={
+		localisation_key = string_KHAN
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			tag = AVR
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_KING
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			primary_culture = georgian
+		}
+	}
+	text={
+		localisation_key = string_SULTAN_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			religion_group = muslim
+			tag = NJR
+		}
+	}
+	text={
+		localisation_key = string_KING_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			tag = MAL
+		}
+	}
+	text={
+		localisation_key = string_EMIR_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
 			religion_group = muslim
 			primary_culture = bedouin_arabic
 			government = tribal
@@ -398,6 +1060,15 @@ defined_text = {
 		trigger = {
 			has_female_consort = no
 			government_rank = 2
+			tag = LIT
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_KING_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
 			tag = DAN
 			government = monarchy
 			has_ruler = "Christopher III"
@@ -413,15 +1084,30 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_SULTAN
+		localisation_key = string_SULTAN_CONSORT
 		trigger = {
 			has_female_consort = no
 			government_rank = 2
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
+		}
+	}
+	text={
+		localisation_key = string_KING_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			tag = FEO
+		}
+	}
+	text={
+		localisation_key = string_KING_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			primary_culture = finnish
 		}
 	}
 	text={
@@ -454,16 +1140,86 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_AUTOKRATOR
+		localisation_key = string_KING_CONSORT
 		trigger = {
 			has_female_consort = no
 			government_rank = 2
 			government = monarchy
 			OR = {
-				tag = BYZ
-				tag = TRE
-				tag = EPI
-				tag = MOE
+				primary_culture = greek
+				primary_culture = pontic_greek
+			}
+		}
+	}
+	text={
+		localisation_key = string_SULTAN_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			tag = ARK
+		}
+	}
+	text={
+		localisation_key = string_KING_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			tag = PGS
+			religion_group = eastern
+		}
+	}
+	text={
+		localisation_key = string_KING_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			tag = ALB
+		}
+	}
+	text={
+		localisation_key = string_SULTAN_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			OR = {
+				has_reform = enlightened_despotism
+				has_reform = letat_cest_moi_reform
+				has_reform = regional_representation_reform
+			}
+			primary_culture = al_misr_arabic
+			religion_group = muslim
+		}
+	}
+	text={
+		localisation_key = string_KING_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			OR = {
+				AND = {
+					primary_culture = al_misr_arabic
+					religion = animism
+				}
+				primary_culture = old_egyptian
+			}
+		}
+	}
+	text={
+		localisation_key = string_REX
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			OR = {
+				AND = {
+					primary_culture = umbrian
+					religion = animism
+				}
+				primary_culture = roman
 			}
 		}
 	}
@@ -474,6 +1230,15 @@ defined_text = {
 			government_rank = 2
 			has_reform = steppe_horde
 			primary_culture = manchu
+		}
+	}
+	text={
+		localisation_key = string_KRALJ
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			primary_culture = romanian
 		}
 	}
 	text={
@@ -546,6 +1311,281 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_KING_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			tag = KAF
+		}
+	}
+	text={
+		localisation_key = string_MUGABE
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			tag = NKO
+		}
+	}
+	text={
+		localisation_key = string_OMUKAMA
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			tag = BNY
+		}
+	}
+	text={
+		localisation_key = string_KING_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			OR = {
+				primary_culture = lunda
+				primary_culture = luba
+			}
+		}
+	}
+	text={
+		localisation_key = string_KING_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			tag = ZIM
+		}
+	}
+	text={
+		localisation_key = string_KING_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			tag = RZW
+		}
+	}
+	text={
+		localisation_key = string_KING_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			primary_culture = rwandan
+		}
+	}
+	text={
+		localisation_key = string_KING_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			primary_culture = ganda
+		}
+	}
+	text={
+		localisation_key = string_KING_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			tag = ANT
+		}
+	}
+	text={
+		localisation_key = string_KING_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			tag = BTS
+		}
+	}
+	text={
+		localisation_key = string_RAJA
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			OR = {
+				tag = BTU
+				tag = MNA
+				tag = CEB
+			}
+		}
+	}
+	text={
+		localisation_key = string_KING_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			primary_culture = shan
+		}
+	}
+	text={
+		localisation_key = string_KING_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			culture_group = burman
+		}
+	}
+	text={
+		localisation_key = string_KING_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			OR = {
+				government = monarchy
+				government = republic
+			}
+			NOT = {
+				government = monarchy
+				government = republic
+				tag = SUL
+			}
+			NOT = {
+				government = monarchy
+				government = republic
+				tag = SUL
+				tag = MGD
+			}
+			primary_culture = filipino
+		}
+	}
+	text={
+		localisation_key = string_KRALJ
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			culture_group = south_slavic
+			NOT = {
+				tag = CLI
+			}
+		}
+	}
+	text={
+		localisation_key = string_HIGH_KING
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			primary_culture = irish
+			OR = {
+				tag = DMS
+				tag = ORD
+				tag = KID
+				tag = ULS
+			}
+		}
+	}
+	text={
+		localisation_key = string_HIGH_KING
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			primary_culture = irish
+		}
+	}
+	text={
+		localisation_key = string_KING
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			primary_culture = highland_scottish
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_GREAT_KNIAZ
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			OR = {
+				has_reform = principality
+				has_reform = tsardom
+			}
+		}
+	}
+	text={
+		localisation_key = string_GREAT_KNIAZ
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			OR = {
+				culture_group = east_slavic
+				tag = PRM
+			}
+		}
+	}
+	text={
+		localisation_key = string_KING_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			religion = inti
+		}
+	}
+	text={
+		localisation_key = string_KING_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			OR = {
+				government = monarchy
+				government = tribal
+			}
+			religion = mesoamerican_religion
+		}
+	}
+	text={
+		localisation_key = string_KING_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			OR = {
+				government = monarchy
+				government = tribal
+				has_reform = tribal_democracy_legacy
+			}
+			religion = nahuatl
+		}
+	}
+	text={
+		localisation_key = string_MAHARAJA
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			religion = hinduism
+		}
+	}
+	text={
+		localisation_key = string_KING_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			NOT = {
+				government = tribal
+			}
+			OR = {
+				government = tribal
+				religion = buddhism
+				religion = vajrayana
+				religion = mahayana
+			}
+		}
+	}
+	text={
 		localisation_key = string_SULTAN_CONSORT
 		trigger = {
 			has_female_consort = no
@@ -555,6 +1595,10 @@ defined_text = {
 				has_reform = steppe_horde
 			}
 			religion_group = muslim
+			NOT = {
+				has_reform = steppe_horde
+				has_reform = feudal_theocracy
+			}
 		}
 	}
 	text={
@@ -567,6 +1611,22 @@ defined_text = {
 				culture_group = altaic
 				culture_group = tartar
 			}
+		}
+	}
+	text={
+		localisation_key = string_LORD
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			has_reform = shogunate
+		}
+	}
+	text={
+		localisation_key = string_KING_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			has_reform = tribal_kingdom
 		}
 	}
 	text={
@@ -634,6 +1694,76 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_EMIR_CONSORT
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			NOT = {
+				religion_group = muslim
+			}
+			has_country_flag = sultan_titles_for_non_muslims
+		}
+	}
+	text={
+		localisation_key = string_DUKE
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			NOT = {
+				has_reform = revolutionary_empire_reform
+			}
+			OR = {
+				has_reform = revolutionary_empire_reform
+				tag = FRA
+				tag = AUV
+			}
+		}
+	}
+	text={
+		localisation_key = string_MALIK
+		trigger = {
+			has_female_consort = no
+			religion_group = muslim
+			OR = {
+				tag = HED
+				tag = MDA
+				tag = MFL
+			}
+		}
+	}
+	text={
+		localisation_key = string_PRINCE
+		trigger = {
+			has_female_consort = no
+			tag = AVR
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_PRINCE
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			primary_culture = georgian
+		}
+	}
+	text={
+		localisation_key = string_EMIR_CONSORT
+		trigger = {
+			has_female_consort = no
+			religion_group = muslim
+			tag = NJR
+		}
+	}
+	text={
+		localisation_key = string_PRINCE_CONSORT
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			tag = MAL
+		}
+	}
+	text={
 		localisation_key = string_MALIK
 		trigger = {
 			has_female_consort = no
@@ -670,6 +1800,14 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_GRAND_DUKE_CONSORT
+		trigger = {
+			has_female_consort = no
+			tag = LIT
+			government = monarchy
+		}
+	}
+	text={
 		localisation_key = string_ARCHDUKE_CONSORT
 		trigger = {
 			has_female_consort = no
@@ -690,11 +1828,24 @@ defined_text = {
 		localisation_key = string_BEY
 		trigger = {
 			has_female_consort = no
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
+		}
+	}
+	text={
+		localisation_key = string_PRINCE_CONSORT
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			tag = FEO
+		}
+	}
+	text={
+		localisation_key = string_GRAND_DUKE_CONSORT
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			primary_culture = finnish
 		}
 	}
 	text={
@@ -724,15 +1875,87 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_DESPOT
+		localisation_key = string_DUKE_CONSORT
 		trigger = {
 			has_female_consort = no
 			government = monarchy
 			OR = {
-				tag = BYZ
-				tag = TRE
-				tag = EPI
-				tag = MOE
+				primary_culture = greek
+				primary_culture = pontic_greek
+			}
+		}
+	}
+	text={
+		localisation_key = string_EMIR_CONSORT
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			tag = ARK
+		}
+	}
+	text={
+		localisation_key = string_PRINCE_CONSORT
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			tag = PGS
+			religion_group = eastern
+		}
+	}
+	text={
+		localisation_key = string_PRINCE_CONSORT
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			tag = ALB
+		}
+	}
+	text={
+		localisation_key = string_WANG
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			tag = QNG
+		}
+	}
+	text={
+		localisation_key = string_CONSORT
+		trigger = {
+			has_female_consort = no
+			OR = {
+				has_reform = enlightened_despotism
+				has_reform = letat_cest_moi_reform
+				has_reform = regional_representation_reform
+			}
+			primary_culture = al_misr_arabic
+			religion_group = muslim
+		}
+	}
+	text={
+		localisation_key = string_CONSORT
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			OR = {
+				AND = {
+					primary_culture = al_misr_arabic
+					religion = animism
+				}
+				primary_culture = old_egyptian
+			}
+		}
+	}
+	text={
+		localisation_key = string_CHIEF
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			OR = {
+				AND = {
+					primary_culture = umbrian
+					religion = animism
+				}
+				primary_culture = roman
 			}
 		}
 	}
@@ -742,6 +1965,14 @@ defined_text = {
 			has_female_consort = no
 			has_reform = steppe_horde
 			primary_culture = manchu
+		}
+	}
+	text={
+		localisation_key = string_VOIVODE
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			primary_culture = romanian
 		}
 	}
 	text={
@@ -808,6 +2039,267 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_PRINCE_CONSORT
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			tag = KAF
+		}
+	}
+	text={
+		localisation_key = string_PRINCE
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			tag = NKO
+		}
+	}
+	text={
+		localisation_key = string_PRINCE
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			tag = BNY
+		}
+	}
+	text={
+		localisation_key = string_PRINCE_CONSORT
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			OR = {
+				primary_culture = lunda
+				primary_culture = luba
+			}
+		}
+	}
+	text={
+		localisation_key = string_PRINCE_CONSORT
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			tag = ZIM
+		}
+	}
+	text={
+		localisation_key = string_PRINCE_CONSORT
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			tag = RZW
+		}
+	}
+	text={
+		localisation_key = string_PRINCE_CONSORT
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			primary_culture = rwandan
+		}
+	}
+	text={
+		localisation_key = string_PRINCE_CONSORT
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			primary_culture = ganda
+		}
+	}
+	text={
+		localisation_key = string_PRINCE_CONSORT
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			tag = ANT
+		}
+	}
+	text={
+		localisation_key = string_PRINCE_CONSORT
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			tag = BTS
+		}
+	}
+	text={
+		localisation_key = string_PRINCE_CONSORT
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			OR = {
+				tag = BTU
+				tag = MNA
+				tag = CEB
+			}
+		}
+	}
+	text={
+		localisation_key = string_PRINCE_CONSORT
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			primary_culture = shan
+		}
+	}
+	text={
+		localisation_key = string_PRINCE_CONSORT
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			culture_group = burman
+		}
+	}
+	text={
+		localisation_key = string_PRINCE_CONSORT
+		trigger = {
+			has_female_consort = no
+			OR = {
+				government = monarchy
+				government = republic
+			}
+			NOT = {
+				government = monarchy
+				government = republic
+				tag = SUL
+			}
+			NOT = {
+				government = monarchy
+				government = republic
+				tag = SUL
+				tag = MGD
+			}
+			primary_culture = filipino
+		}
+	}
+	text={
+		localisation_key = string_VOIVODE
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			culture_group = south_slavic
+			NOT = {
+				tag = CLI
+			}
+		}
+	}
+	text={
+		localisation_key = string_EARL
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			primary_culture = irish
+			OR = {
+				tag = DMS
+				tag = ORD
+				tag = KID
+				tag = ULS
+			}
+		}
+	}
+	text={
+		localisation_key = string_KING
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			primary_culture = irish
+		}
+	}
+	text={
+		localisation_key = string_LORD
+		trigger = {
+			has_female_consort = no
+			primary_culture = highland_scottish
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_GREAT_KNIAZ
+		trigger = {
+			has_female_consort = no
+			OR = {
+				has_reform = principality
+				has_reform = tsardom
+			}
+			tag = MOS
+		}
+	}
+	text={
+		localisation_key = string_KNIAZ
+		trigger = {
+			has_female_consort = no
+			OR = {
+				has_reform = principality
+				has_reform = tsardom
+			}
+		}
+	}
+	text={
+		localisation_key = string_KNIAZ
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			OR = {
+				culture_group = east_slavic
+				tag = PRM
+			}
+		}
+	}
+	text={
+		localisation_key = string_PRINCE_CONSORT
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			religion = inti
+		}
+	}
+	text={
+		localisation_key = string_PRINCE_CONSORT
+		trigger = {
+			has_female_consort = no
+			OR = {
+				government = monarchy
+				government = tribal
+			}
+			religion = mesoamerican_religion
+		}
+	}
+	text={
+		localisation_key = string_PRINCE_CONSORT
+		trigger = {
+			has_female_consort = no
+			OR = {
+				government = monarchy
+				government = tribal
+				has_reform = tribal_democracy_legacy
+			}
+			religion = nahuatl
+		}
+	}
+	text={
+		localisation_key = string_RAJA
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			religion = hinduism
+		}
+	}
+	text={
+		localisation_key = string_PRINCE_CONSORT
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			NOT = {
+				government = tribal
+			}
+			OR = {
+				government = tribal
+				religion = buddhism
+				religion = vajrayana
+				religion = mahayana
+			}
+		}
+	}
+	text={
 		localisation_key = string_EMIR_CONSORT
 		trigger = {
 			has_female_consort = no
@@ -816,6 +2308,26 @@ defined_text = {
 				has_reform = steppe_horde
 			}
 			religion_group = muslim
+			NOT = {
+				has_reform = steppe_horde
+				has_reform = feudal_theocracy
+			}
+		}
+	}
+	text={
+		localisation_key = string_PRINCE_CONSORT
+		trigger = {
+			has_female_consort = no
+			government = monarchy
+			NOT = {
+				has_reform = principality
+			}
+			OR = {
+				has_reform = principality
+				religion = coptic
+				religion = orthodox
+			}
+			is_march = yes
 		}
 	}
 	text={
@@ -827,6 +2339,62 @@ defined_text = {
 				culture_group = altaic
 				culture_group = tartar
 			}
+		}
+	}
+	text={
+		localisation_key = string_LORD
+		trigger = {
+			has_female_consort = no
+			has_reform = daimyo
+		}
+	}
+	text={
+		localisation_key = string_CONSORT
+		trigger = {
+			has_female_consort = no
+			has_reform = tribal_kingdom
+		}
+	}
+	text={
+		localisation_key = string_CONSORT
+		trigger = {
+			has_reform = stateless_society
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS_CONSORT
+		trigger = {
+			government_rank = 3
+			tag = KON
+			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS_CONSORT
+		trigger = {
+			government_rank = 3
+			tag = KON
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_CONSORT
+		trigger = {
+			government_rank = 3
+			has_country_modifier = unified_islam
+		}
+	}
+	text={
+		localisation_key = string_KAISERIN
+		trigger = {
+			government_rank = 3
+			culture_group = germanic
+			government_rank = 3
+			OR = {
+				tag = HLR
+				tag = GER
+			}
+			government = monarchy
 		}
 	}
 	text={
@@ -899,10 +2467,75 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			NOT = {
+				has_reform = revolutionary_empire_reform
+			}
+			OR = {
+				has_reform = revolutionary_empire_reform
+				tag = FRA
+				tag = AUV
+			}
+		}
+	}
+	text={
+		localisation_key = string_GREAT_KHATUN
+		trigger = {
+			government_rank = 3
+			tag = AVR
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			primary_culture = georgian
+		}
+	}
+	text={
+		localisation_key = string_PADISHAH_CONSORT
+		trigger = {
+			government_rank = 3
+			religion_group = muslim
+			tag = NJR
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			tag = MAL
+		}
+	}
+	text={
+		localisation_key = string_CONSORT
+		trigger = {
+			government = monarchy
+			OR = {
+				tag = KAT
+				primary_culture = sindhi
+			}
+		}
+	}
+	text={
 		localisation_key = string_BOQORAD
 		trigger = {
 			government = monarchy
 			primary_culture = somali
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			tag = LIT
+			government = monarchy
 		}
 	}
 	text={
@@ -936,6 +2569,30 @@ defined_text = {
 		trigger = {
 			government_rank = 3
 			government = monarchy
+			tag = FEO
+		}
+	}
+	text={
+		localisation_key = string_CARICA
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			primary_culture = croatian
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			primary_culture = finnish
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			government = monarchy
 			tag = TUS
 		}
 	}
@@ -958,6 +2615,27 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_CARICA
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			OR = {
+				has_reform = feudalism_reform
+				has_reform = autocracy_reform
+			}
+			primary_culture = serbian
+			religion = orthodox
+		}
+	}
+	text={
+		localisation_key = string_CARICA
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			primary_culture = serbian
+		}
+	}
+	text={
 		localisation_key = string_BASILISSA
 		trigger = {
 			government_rank = 3
@@ -968,6 +2646,72 @@ defined_text = {
 				tag = EPI
 				tag = MOE
 			}
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			OR = {
+				primary_culture = greek
+				primary_culture = pontic_greek
+			}
+		}
+	}
+	text={
+		localisation_key = string_GREAT_SULTANA
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			tag = ARK
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			tag = PGS
+			religion_group = eastern
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			tag = ALB
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			tag = QNG
+		}
+	}
+	text={
+		localisation_key = string_IMPERATRIX
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			OR = {
+				AND = {
+					primary_culture = umbrian
+					religion = animism
+				}
+				primary_culture = roman
+			}
+		}
+	}
+	text={
+		localisation_key = string_CARICA
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			primary_culture = romanian
 		}
 	}
 	text={
@@ -1034,6 +2778,14 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			tag = KAF
+		}
+	}
+	text={
 		localisation_key = string_ITEGE
 		trigger = {
 			government = monarchy
@@ -1046,10 +2798,296 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_GREAT_MUGO
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			tag = NKO
+		}
+	}
+	text={
+		localisation_key = string_GREAT_MUGO
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			tag = BNY
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			OR = {
+				primary_culture = lunda
+				primary_culture = luba
+			}
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			tag = ZIM
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			tag = RZW
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			primary_culture = rwandan
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			primary_culture = ganda
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			tag = ANT
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			tag = BTS
+		}
+	}
+	text={
+		localisation_key = string_MAHARANI
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			OR = {
+				tag = BTU
+				tag = MNA
+				tag = CEB
+			}
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			primary_culture = shan
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			culture_group = burman
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			OR = {
+				government = monarchy
+				government = republic
+			}
+			NOT = {
+				government = monarchy
+				government = republic
+				tag = SUL
+			}
+			NOT = {
+				government = monarchy
+				government = republic
+				tag = SUL
+				tag = MGD
+			}
+			primary_culture = filipino
+		}
+	}
+	text={
+		localisation_key = string_CARICA
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			culture_group = south_slavic
+			NOT = {
+				tag = CLI
+			}
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			primary_culture = irish
+			OR = {
+				tag = DMS
+				tag = ORD
+				tag = KID
+				tag = ULS
+			}
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			primary_culture = irish
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			primary_culture = highland_scottish
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_TSARITSA
+		trigger = {
+			government_rank = 3
+			OR = {
+				has_reform = principality
+				has_reform = tsardom
+			}
+			tag = MOS
+		}
+	}
+	text={
+		localisation_key = string_TSARITSA
+		trigger = {
+			government_rank = 3
+			OR = {
+				has_reform = principality
+				has_reform = tsardom
+			}
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			OR = {
+				culture_group = east_slavic
+				tag = PRM
+			}
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			religion = inti
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			OR = {
+				government = monarchy
+				government = tribal
+			}
+			religion = mesoamerican_religion
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			OR = {
+				government = monarchy
+				government = tribal
+				has_reform = tribal_democracy_legacy
+			}
+			religion = nahuatl
+		}
+	}
+	text={
 		localisation_key = string_CONSORT
 		trigger = {
 			government = monarchy
 			culture_group = east_asian
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			NOT = {
+				government = tribal
+			}
+			OR = {
+				government = tribal
+				religion = buddhism
+				religion = vajrayana
+				religion = mahayana
+			}
+		}
+	}
+	text={
+		localisation_key = string_CONSORT
+		trigger = {
+			OR = {
+				government = native
+				has_reform = siberian_tribe
+				has_reform = native_basic_reform
+				AND = {
+					has_reform = steppe_horde
+					NOT = {
+						OR = {
+							culture_group = altaic
+							culture_group = tartar
+						}
+					}
+				}
+			}
+		}
+	}
+	text={
+		localisation_key = string_LADY
+		trigger = {
+			has_reform = indep_daimyo
+		}
+	}
+	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			has_reform = tribal_kingdom
+		}
+	}
+	text={
+		localisation_key = string_CONSORT
+		trigger = {
+			OR = {
+				has_reform = tribal_despotism
+				has_reform = tribal_federation
+			}
 		}
 	}
 	text={
@@ -1060,6 +3098,37 @@ defined_text = {
 			is_part_of_hre = yes
 			NOT = {
 				total_development = 50
+			}
+		}
+	}
+	text={
+		localisation_key = string_CONSORT
+		trigger = {
+			religion = ibadi
+			OR = {
+				government = theocracy
+				has_reform = feudal_theocracy
+			}
+		}
+	}
+	text={
+		localisation_key = string_CONSORT
+		trigger = {
+			religion = shiite
+			primary_culture = yemeni_culture
+			OR = {
+				government = theocracy
+				has_reform = feudal_theocracy
+			}
+		}
+	}
+	text={
+		localisation_key = string_CONSORT
+		trigger = {
+			religion = sunni
+			OR = {
+				has_reform = feudal_theocracy
+				government = theocracy
 			}
 		}
 	}
@@ -1075,6 +3144,22 @@ defined_text = {
 		trigger = {
 			government_rank = 3
 			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_QUEEN_CONSORT
+		trigger = {
+			government_rank = 2
+			tag = KON
+			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_QUEEN_CONSORT
+		trigger = {
+			government_rank = 2
+			tag = KON
+			government = monarchy
 		}
 	}
 	text={
@@ -1124,6 +3209,76 @@ defined_text = {
 		localisation_key = string_SULTANA
 		trigger = {
 			government_rank = 2
+			government = monarchy
+			NOT = {
+				religion_group = muslim
+			}
+			has_country_flag = sultan_titles_for_non_muslims
+		}
+	}
+	text={
+		localisation_key = string_QUEEN
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			NOT = {
+				has_reform = revolutionary_empire_reform
+			}
+			OR = {
+				has_reform = revolutionary_empire_reform
+				tag = FRA
+				tag = AUV
+			}
+		}
+	}
+	text={
+		localisation_key = string_EMIRA
+		trigger = {
+			government_rank = 2
+			religion_group = muslim
+			OR = {
+				tag = HED
+				tag = MDA
+				tag = MFL
+			}
+		}
+	}
+	text={
+		localisation_key = string_KHATUN
+		trigger = {
+			government_rank = 2
+			tag = AVR
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_QUEEN
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			primary_culture = georgian
+		}
+	}
+	text={
+		localisation_key = string_SULTANA
+		trigger = {
+			government_rank = 2
+			religion_group = muslim
+			tag = NJR
+		}
+	}
+	text={
+		localisation_key = string_QUEEN
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			tag = MAL
+		}
+	}
+	text={
+		localisation_key = string_EMIRA
+		trigger = {
+			government_rank = 2
 			religion_group = muslim
 			primary_culture = bedouin_arabic
 			government = tribal
@@ -1160,6 +3315,14 @@ defined_text = {
 		localisation_key = string_QUEEN
 		trigger = {
 			government_rank = 2
+			tag = LIT
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_QUEEN
+		trigger = {
+			government_rank = 2
 			tag = DAN
 			government = monarchy
 			has_ruler = "Christopher III"
@@ -1186,11 +3349,32 @@ defined_text = {
 		localisation_key = string_HASEKI_SULTAN
 		trigger = {
 			government_rank = 2
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
+		}
+	}
+	text={
+		localisation_key = string_QUEEN
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			tag = FEO
+		}
+	}
+	text={
+		localisation_key = string_KRALJICA
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			primary_culture = croatian
+		}
+	}
+	text={
+		localisation_key = string_QUEEN
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			primary_culture = finnish
 		}
 	}
 	text={
@@ -1220,6 +3404,27 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_DESPOTISSA
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			OR = {
+				has_reform = feudalism_reform
+				has_reform = autocracy_reform
+			}
+			primary_culture = serbian
+			religion = orthodox
+		}
+	}
+	text={
+		localisation_key = string_KRALJICA
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			primary_culture = serbian
+		}
+	}
+	text={
 		localisation_key = string_AUTOKRATEIRA
 		trigger = {
 			government_rank = 2
@@ -1233,11 +3438,112 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_QUEEN
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			OR = {
+				primary_culture = greek
+				primary_culture = pontic_greek
+			}
+		}
+	}
+	text={
+		localisation_key = string_SULTANA
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			tag = ARK
+		}
+	}
+	text={
+		localisation_key = string_QUEEN
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			tag = PGS
+			religion_group = eastern
+		}
+	}
+	text={
+		localisation_key = string_QUEEN
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			tag = ALB
+		}
+	}
+	text={
+		localisation_key = string_SULTANA
+		trigger = {
+			government_rank = 2
+			OR = {
+				has_reform = enlightened_despotism
+				has_reform = letat_cest_moi_reform
+				has_reform = regional_representation_reform
+			}
+			primary_culture = al_misr_arabic
+			religion_group = muslim
+		}
+	}
+	text={
+		localisation_key = string_QUEEN
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			OR = {
+				AND = {
+					primary_culture = al_misr_arabic
+					religion = animism
+				}
+				primary_culture = old_egyptian
+			}
+		}
+	}
+	text={
+		localisation_key = string_BASILISSA
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			OR = {
+				AND = {
+					primary_culture = greek
+					religion = animism
+				}
+				primary_culture = athenian
+				primary_culture = spartan
+				primary_culture = atlantean
+			}
+		}
+	}
+	text={
+		localisation_key = string_REGINA
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			OR = {
+				AND = {
+					primary_culture = umbrian
+					religion = animism
+				}
+				primary_culture = roman
+			}
+		}
+	}
+	text={
 		localisation_key = string_KHANUM
 		trigger = {
 			government_rank = 2
 			has_reform = steppe_horde
 			primary_culture = manchu
+		}
+	}
+	text={
+		localisation_key = string_KRALJICA
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			primary_culture = romanian
 		}
 	}
 	text={
@@ -1304,6 +3610,256 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_QUEEN
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			tag = KAF
+		}
+	}
+	text={
+		localisation_key = string_MUGO
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			tag = NKO
+		}
+	}
+	text={
+		localisation_key = string_MUGO
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			tag = BNY
+		}
+	}
+	text={
+		localisation_key = string_QUEEN
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			OR = {
+				primary_culture = lunda
+				primary_culture = luba
+			}
+		}
+	}
+	text={
+		localisation_key = string_QUEEN
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			tag = ZIM
+		}
+	}
+	text={
+		localisation_key = string_QUEEN
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			tag = RZW
+		}
+	}
+	text={
+		localisation_key = string_QUEEN
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			primary_culture = rwandan
+		}
+	}
+	text={
+		localisation_key = string_QUEEN
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			primary_culture = ganda
+		}
+	}
+	text={
+		localisation_key = string_QUEEN
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			tag = ANT
+		}
+	}
+	text={
+		localisation_key = string_QUEEN
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			tag = BTS
+		}
+	}
+	text={
+		localisation_key = string_RANI
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			OR = {
+				tag = BTU
+				tag = MNA
+				tag = CEB
+			}
+		}
+	}
+	text={
+		localisation_key = string_QUEEN
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			primary_culture = shan
+		}
+	}
+	text={
+		localisation_key = string_QUEEN
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			culture_group = burman
+		}
+	}
+	text={
+		localisation_key = string_QUEEN
+		trigger = {
+			government_rank = 2
+			OR = {
+				government = monarchy
+				government = republic
+			}
+			NOT = {
+				government = monarchy
+				government = republic
+				tag = SUL
+			}
+			NOT = {
+				government = monarchy
+				government = republic
+				tag = SUL
+				tag = MGD
+			}
+			primary_culture = filipino
+		}
+	}
+	text={
+		localisation_key = string_KRALJICA
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			culture_group = south_slavic
+			NOT = {
+				tag = CLI
+			}
+		}
+	}
+	text={
+		localisation_key = string_HIGH_QUEEN
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			primary_culture = irish
+			OR = {
+				tag = DMS
+				tag = ORD
+				tag = KID
+				tag = ULS
+			}
+		}
+	}
+	text={
+		localisation_key = string_HIGH_QUEEN
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			primary_culture = irish
+		}
+	}
+	text={
+		localisation_key = string_QUEEN
+		trigger = {
+			government_rank = 2
+			primary_culture = highland_scottish
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_GREAT_KNIAGINIA
+		trigger = {
+			government_rank = 2
+			OR = {
+				has_reform = principality
+				has_reform = tsardom
+			}
+		}
+	}
+	text={
+		localisation_key = string_GREAT_KNIAGINIA
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			OR = {
+				culture_group = east_slavic
+				tag = PRM
+			}
+		}
+	}
+	text={
+		localisation_key = string_QUEEN
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			religion = inti
+		}
+	}
+	text={
+		localisation_key = string_QUEEN
+		trigger = {
+			government_rank = 2
+			OR = {
+				government = monarchy
+				government = tribal
+			}
+			religion = mesoamerican_religion
+		}
+	}
+	text={
+		localisation_key = string_QUEEN
+		trigger = {
+			government_rank = 2
+			OR = {
+				government = monarchy
+				government = tribal
+				has_reform = tribal_democracy_legacy
+			}
+			religion = nahuatl
+		}
+	}
+	text={
+		localisation_key = string_MAHARANI
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			religion = hinduism
+		}
+	}
+	text={
+		localisation_key = string_QUEEN
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			NOT = {
+				government = tribal
+			}
+			OR = {
+				government = tribal
+				religion = buddhism
+				religion = vajrayana
+				religion = mahayana
+			}
+		}
+	}
+	text={
 		localisation_key = string_SULTANA
 		trigger = {
 			government_rank = 2
@@ -1312,6 +3868,10 @@ defined_text = {
 				has_reform = steppe_horde
 			}
 			religion_group = muslim
+			NOT = {
+				has_reform = steppe_horde
+				has_reform = feudal_theocracy
+			}
 		}
 	}
 	text={
@@ -1323,6 +3883,20 @@ defined_text = {
 				culture_group = altaic
 				culture_group = tartar
 			}
+		}
+	}
+	text={
+		localisation_key = string_LADY
+		trigger = {
+			government_rank = 2
+			has_reform = shogunate
+		}
+	}
+	text={
+		localisation_key = string_QUEEN
+		trigger = {
+			government_rank = 2
+			has_reform = tribal_kingdom
 		}
 	}
 	text={
@@ -1348,6 +3922,20 @@ defined_text = {
 		trigger = {
 			government_rank = 2
 			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_CONSORT
+		trigger = {
+			tag = KON
+			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_CONSORT
+		trigger = {
+			tag = KON
+			government = monarchy
 		}
 	}
 	text={
@@ -1416,6 +4004,69 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_EMIRA
+		trigger = {
+			government = monarchy
+			NOT = {
+				religion_group = muslim
+			}
+			has_country_flag = sultan_titles_for_non_muslims
+		}
+	}
+	text={
+		localisation_key = string_DUCHESS
+		trigger = {
+			government = monarchy
+			NOT = {
+				has_reform = revolutionary_empire_reform
+			}
+			OR = {
+				has_reform = revolutionary_empire_reform
+				tag = FRA
+				tag = AUV
+			}
+		}
+	}
+	text={
+		localisation_key = string_MALIKAH
+		trigger = {
+			religion_group = muslim
+			OR = {
+				tag = HED
+				tag = MDA
+				tag = MFL
+			}
+		}
+	}
+	text={
+		localisation_key = string_PRINCESS
+		trigger = {
+			tag = AVR
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_PRINCESS
+		trigger = {
+			government = monarchy
+			primary_culture = georgian
+		}
+	}
+	text={
+		localisation_key = string_EMIRA
+		trigger = {
+			religion_group = muslim
+			tag = NJR
+		}
+	}
+	text={
+		localisation_key = string_PRINCESS
+		trigger = {
+			government = monarchy
+			tag = MAL
+		}
+	}
+	text={
 		localisation_key = string_MALIKAH
 		trigger = {
 			religion_group = muslim
@@ -1448,6 +4099,13 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_GRAND_DUCHESS
+		trigger = {
+			tag = LIT
+			government = monarchy
+		}
+	}
+	text={
 		localisation_key = string_ARCHDUCHESS
 		trigger = {
 			tag = DAN
@@ -1473,11 +4131,29 @@ defined_text = {
 	text={
 		localisation_key = string_HATUN
 		trigger = {
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
+		}
+	}
+	text={
+		localisation_key = string_PRINCESS
+		trigger = {
+			government = monarchy
+			tag = FEO
+		}
+	}
+	text={
+		localisation_key = string_PRINCESS
+		trigger = {
+			government = monarchy
+			primary_culture = croatian
+		}
+	}
+	text={
+		localisation_key = string_GRAND_DUCHESS
+		trigger = {
+			government = monarchy
+			primary_culture = finnish
 		}
 	}
 	text={
@@ -1504,6 +4180,25 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_PRINCEZA
+		trigger = {
+			government = monarchy
+			OR = {
+				has_reform = feudalism_reform
+				has_reform = autocracy_reform
+			}
+			primary_culture = serbian
+			religion = orthodox
+		}
+	}
+	text={
+		localisation_key = string_VOJVODKINJA
+		trigger = {
+			government = monarchy
+			primary_culture = serbian
+		}
+	}
+	text={
 		localisation_key = string_DESPOTISSA
 		trigger = {
 			government = monarchy
@@ -1516,10 +4211,109 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_DUCHESS
+		trigger = {
+			government = monarchy
+			OR = {
+				primary_culture = greek
+				primary_culture = pontic_greek
+			}
+		}
+	}
+	text={
+		localisation_key = string_EMIRA
+		trigger = {
+			government = monarchy
+			tag = ARK
+		}
+	}
+	text={
+		localisation_key = string_PRINCESS
+		trigger = {
+			government = monarchy
+			tag = PGS
+			religion_group = eastern
+		}
+	}
+	text={
+		localisation_key = string_PRINCESS
+		trigger = {
+			government = monarchy
+			tag = ALB
+		}
+	}
+	text={
+		localisation_key = string_GEGE
+		trigger = {
+			government = monarchy
+			tag = QNG
+		}
+	}
+	text={
+		localisation_key = string_CONSORT
+		trigger = {
+			OR = {
+				has_reform = enlightened_despotism
+				has_reform = letat_cest_moi_reform
+				has_reform = regional_representation_reform
+			}
+			primary_culture = al_misr_arabic
+			religion_group = muslim
+		}
+	}
+	text={
+		localisation_key = string_CONSORT
+		trigger = {
+			government = monarchy
+			OR = {
+				AND = {
+					primary_culture = al_misr_arabic
+					religion = animism
+				}
+				primary_culture = old_egyptian
+			}
+		}
+	}
+	text={
+		localisation_key = string_PRINCESS
+		trigger = {
+			government = monarchy
+			OR = {
+				AND = {
+					primary_culture = greek
+					religion = animism
+				}
+				primary_culture = athenian
+				primary_culture = spartan
+				primary_culture = atlantean
+			}
+		}
+	}
+	text={
+		localisation_key = string_CHIEFTESS
+		trigger = {
+			government = monarchy
+			OR = {
+				AND = {
+					primary_culture = umbrian
+					religion = animism
+				}
+				primary_culture = roman
+			}
+		}
+	}
+	text={
 		localisation_key = string_GEGE
 		trigger = {
 			has_reform = steppe_horde
 			primary_culture = manchu
+		}
+	}
+	text={
+		localisation_key = string_VOJVODKINJA
+		trigger = {
+			government = monarchy
+			primary_culture = romanian
 		}
 	}
 	text={
@@ -1580,6 +4374,241 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_PRINCESS
+		trigger = {
+			government = monarchy
+			tag = KAF
+		}
+	}
+	text={
+		localisation_key = string_PRINCESS
+		trigger = {
+			government = monarchy
+			tag = NKO
+		}
+	}
+	text={
+		localisation_key = string_PRINCESS
+		trigger = {
+			government = monarchy
+			tag = BNY
+		}
+	}
+	text={
+		localisation_key = string_PRINCESS
+		trigger = {
+			government = monarchy
+			OR = {
+				primary_culture = lunda
+				primary_culture = luba
+			}
+		}
+	}
+	text={
+		localisation_key = string_PRINCESS
+		trigger = {
+			government = monarchy
+			tag = ZIM
+		}
+	}
+	text={
+		localisation_key = string_PRINCESS
+		trigger = {
+			government = monarchy
+			tag = RZW
+		}
+	}
+	text={
+		localisation_key = string_PRINCESS
+		trigger = {
+			government = monarchy
+			primary_culture = rwandan
+		}
+	}
+	text={
+		localisation_key = string_PRINCESS
+		trigger = {
+			government = monarchy
+			primary_culture = ganda
+		}
+	}
+	text={
+		localisation_key = string_PRINCESS
+		trigger = {
+			government = monarchy
+			tag = ANT
+		}
+	}
+	text={
+		localisation_key = string_PRINCESS
+		trigger = {
+			government = monarchy
+			tag = BTS
+		}
+	}
+	text={
+		localisation_key = string_PRINCESS
+		trigger = {
+			government = monarchy
+			OR = {
+				tag = BTU
+				tag = MNA
+				tag = CEB
+			}
+		}
+	}
+	text={
+		localisation_key = string_PRINCESS
+		trigger = {
+			government = monarchy
+			primary_culture = shan
+		}
+	}
+	text={
+		localisation_key = string_PRINCESS
+		trigger = {
+			government = monarchy
+			culture_group = burman
+		}
+	}
+	text={
+		localisation_key = string_PRINCESS
+		trigger = {
+			OR = {
+				government = monarchy
+				government = republic
+			}
+			NOT = {
+				government = monarchy
+				government = republic
+				tag = SUL
+			}
+			NOT = {
+				government = monarchy
+				government = republic
+				tag = SUL
+				tag = MGD
+			}
+			primary_culture = filipino
+		}
+	}
+	text={
+		localisation_key = string_VOJVODKINJA
+		trigger = {
+			government = monarchy
+			culture_group = south_slavic
+			NOT = {
+				tag = CLI
+			}
+		}
+	}
+	text={
+		localisation_key = string_COUNTESS
+		trigger = {
+			government = monarchy
+			primary_culture = irish
+			OR = {
+				tag = DMS
+				tag = ORD
+				tag = KID
+				tag = ULS
+			}
+		}
+	}
+	text={
+		localisation_key = string_QUEEN
+		trigger = {
+			government = monarchy
+			primary_culture = irish
+		}
+	}
+	text={
+		localisation_key = string_LADY
+		trigger = {
+			primary_culture = highland_scottish
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_GREAT_KNIAGINIA
+		trigger = {
+			OR = {
+				has_reform = principality
+				has_reform = tsardom
+			}
+			tag = MOS
+		}
+	}
+	text={
+		localisation_key = string_KNIAGINIA
+		trigger = {
+			OR = {
+				has_reform = principality
+				has_reform = tsardom
+			}
+		}
+	}
+	text={
+		localisation_key = string_KNIAGINIA
+		trigger = {
+			government = monarchy
+			OR = {
+				culture_group = east_slavic
+				tag = PRM
+			}
+		}
+	}
+	text={
+		localisation_key = string_PRINCESS
+		trigger = {
+			government = monarchy
+			religion = inti
+		}
+	}
+	text={
+		localisation_key = string_PRINCESS
+		trigger = {
+			OR = {
+				government = monarchy
+				government = tribal
+			}
+			religion = mesoamerican_religion
+		}
+	}
+	text={
+		localisation_key = string_PRINCESS
+		trigger = {
+			OR = {
+				government = monarchy
+				government = tribal
+				has_reform = tribal_democracy_legacy
+			}
+			religion = nahuatl
+		}
+	}
+	text={
+		localisation_key = string_RANI
+		trigger = {
+			government = monarchy
+			religion = hinduism
+		}
+	}
+	text={
+		localisation_key = string_PRINCESS
+		trigger = {
+			government = monarchy
+			NOT = {
+				government = tribal
+			}
+			OR = {
+				government = tribal
+				religion = buddhism
+				religion = vajrayana
+				religion = mahayana
+			}
+		}
+	}
+	text={
 		localisation_key = string_EMIRA
 		trigger = {
 			government = monarchy
@@ -1587,6 +4616,25 @@ defined_text = {
 				has_reform = steppe_horde
 			}
 			religion_group = muslim
+			NOT = {
+				has_reform = steppe_horde
+				has_reform = feudal_theocracy
+			}
+		}
+	}
+	text={
+		localisation_key = string_PRINCESS
+		trigger = {
+			government = monarchy
+			NOT = {
+				has_reform = principality
+			}
+			OR = {
+				has_reform = principality
+				religion = coptic
+				religion = orthodox
+			}
+			is_march = yes
 		}
 	}
 	text={
@@ -1600,7 +4648,19 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_LADY
+		trigger = {
+			has_reform = daimyo
+		}
+	}
+	text={
 		localisation_key = string_CONSORT
+		trigger = {
+			has_reform = tribal_kingdom
+		}
+	}
+	text={
+		localisation_key = string_COUNTESS
 		trigger = {
 			has_reform = monarchy_mechanic
 			is_part_of_hre = yes

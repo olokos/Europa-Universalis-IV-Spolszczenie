@@ -198,8 +198,20 @@
 ##Klasy społeczne
 #mała
  string_estate_brahmins: "bramini" #Bramini MM
+ string_estate_ogboni: "ogboni" #Ogboni MM
+ string_estate_tengbiise: "tengbiise" #Tengbiise MM
  string_estate_monasteries: "zakony" #Zakony MM
  string_estate_babaylanes: "babaylan" #Babaylan MZ
+ string_estate_pastors: "pastorzy" #Pastorzy MM
+ string_estate_popes: "patriarchowie" #Patriarchowie MM
+ string_estate_shamans: "szamani" #Szamani MM
+ string_estate_gurus: "guru" #Guru MM
+ string_estate_medicine_men: "uzdrawiacze" #Uzdrawiacze MM
+ string_estate_godar: "goðar" #Goðar MM
+ string_estate_rabbis: "rabini" #Rabini MM
+ string_estate_mobeds: "mobadowie" #Mobadowie MM
+ string_estate_kannushi: "kapłani kannushi" #Kapłani Kannushi MM
+ string_estate_panacas: "panaka" #Panaka MZ
  string_estate_gentry: "shizu" #Shizu PM
  string_estate_ulema: "ulemowie" #Ulemowie MM
  string_estate_tlamacazqueh: "tlamacazqueh" #Tlamacazqueh PM
@@ -211,6 +223,9 @@
  string_estate_bete: "bete" #Bete MM
  string_estate_church: "duchowieństwo" #Duchowieństwo PN
  string_estate_maratha: "marathowie" #Marathowie MM
+ string_estate_oyo_mesi: "oyo mesi" #Oyo Mesi MZ
+ string_estate_nakomse: "nakomse" #Nakomse MZ
+ string_estate_chieftains: "wodzowie" #Wodzowie MM
  string_estate_beys: "ümera" #Ümera PM
  string_estate_boyars: "bojarzy" #Bojarzy MM
  string_estate_szlachta: "szlachta" #Szlachta PZ
@@ -231,10 +246,13 @@
  string_estate_Rangatira: "rangatira" #Rangatira MM
  string_estate_eiki: "eiki" #Eiki MM
  string_estate_ratu: "ratu" #Ratu MM
+ string_estate_warriors: "wojownicy" #Wojownicy MM
+ string_estate_mani: "mani" #Mani MM
  string_estate_nobles: "arystokracja" #Arystokracja PZ
  string_estate_bourgeoisie: "burżuazja" #Burżuazja PZ
  string_estate_shangbang: "shangbang" #Shangbang PM
  string_estate_neoconfucian_reformers: "neokonfucjańscy reformatorzy" #Neokonfucjańscy reformatorzy MM
+ string_estate_pochteca: "pochtekowie" #Pochtekowie MM
  string_estate_merchant_guilds: "gildie kupieckie" #Gildie kupieckie MZ
  string_estate_burghers: "mieszczaństwo" #Mieszczaństwo PN
  string_estate_vaisyas: "wajśjowie" #Wajśjowie MM
@@ -245,8 +263,20 @@
  string_estate_rajput: "radźputowie" #Radźputowie MM
 #duża
  string_estate_brahmins_Cap: "Bramini" #Bramini MM
+ string_estate_ogboni_Cap: "Ogboni" #Ogboni MM
+ string_estate_tengbiise_Cap: "Tengbiise" #Tengbiise MM
  string_estate_monasteries_Cap: "Zakony" #Zakony MM
  string_estate_babaylanes_Cap: "Babaylan" #Babaylan MZ
+ string_estate_pastors_Cap: "Pastorzy" #Pastorzy MM
+ string_estate_popes_Cap: "Patriarchowie" #Patriarchowie MM
+ string_estate_shamans_Cap: "Szamani" #Szamani MM
+ string_estate_gurus_Cap: "Guru" #Guru MM
+ string_estate_medicine_men_Cap: "Uzdrawiacze" #Uzdrawiacze MM
+ string_estate_godar_Cap: "Goðar" #Goðar MM
+ string_estate_rabbis_Cap: "Rabini" #Rabini MM
+ string_estate_mobeds_Cap: "Mobadowie" #Mobadowie MM
+ string_estate_kannushi_Cap: "Kapłani Kannushi" #Kapłani Kannushi MM
+ string_estate_panacas_Cap: "Panaka" #Panaka MZ
  string_estate_gentry_Cap: "Shizu" #Shizu PM
  string_estate_ulema_Cap: "Ulemowie" #Ulemowie MM
  string_estate_tlamacazqueh_Cap: "Tlamacazqueh" #Tlamacazqueh PM
@@ -258,6 +288,9 @@
  string_estate_bete_Cap: "Bete" #Bete MM
  string_estate_church_Cap: "Duchowieństwo" #Duchowieństwo PN
  string_estate_maratha_Cap: "Marathowie" #Marathowie MM
+ string_estate_oyo_mesi_Cap: "Oyo Mesi" #Oyo Mesi MZ
+ string_estate_nakomse_Cap: "Nakomse" #Nakomse MZ
+ string_estate_chieftains_Cap: "Wodzowie" #Wodzowie MM
  string_estate_beys_Cap: "Ümera" #Ümera PM
  string_estate_boyars_Cap: "Bojarzy" #Bojarzy MM
  string_estate_szlachta_Cap: "Szlachta" #Szlachta PZ
@@ -278,10 +311,13 @@
  string_estate_rangatira_Cap: "Rangatira" #Rangatira MM
  string_estate_eiki_Cap: "Eiki" #Eiki MM
  string_estate_ratu_Cap: "Ratu" #Ratu MM
+ string_estate_warriors_Cap: "Wojownicy" #Wojownicy MM
+ string_estate_mani_Cap: "Mani" #Mani MM
  string_estate_nobles_Cap: "Arystokracja" #Arystokracja PZ
  string_estate_bourgeoisie_Cap: "Burżuazja" #Burżuazja PZ
  string_estate_shangbang_Cap: "Shangbang" #Shangbang PM
  string_estate_neoconfucian_reformers_Cap: "Neokonfucjańscy reformatorzy" #Neokonfucjańscy reformatorzy MM
+ string_estate_pochteca_Cap: "Pochtekowie" #Pochtekowie MM
  string_estate_merchant_guilds_Cap: "Gildie kupieckie" #Gildie kupieckie MZ
  string_estate_burghers_Cap: "Mieszczaństwo" #Mieszczaństwo PN
  string_estate_vaisyas_Cap: "Wajśjowie" #Wajśjowie MM
@@ -293,8 +329,20 @@
 ## Dopełniacz klas społecznych
 ##mała
  string_gen_estate_brahmins: "braminów" #Bramini
+ string_gen_estate_ogboni: "ogbonów" #Ogboni
+ string_gen_estate_tengbiise: "tengbiise" #Tengbiise
  string_gen_estate_monasteries: "zakonów" #Zakony
  string_gen_estate_babaylanes: "babaylan" #Babaylan
+ string_gen_estate_pastors: "pastorów" #Pastorzy
+ string_gen_estate_popes: "patriarchów" #Patriarchowie
+ string_gen_estate_shamans: "szamanów" #Szamani
+ string_gen_estate_gurus: "guru" #Guru
+ string_gen_estate_medicine_men: "uzdrawiaczy" #Uzdrawiacze
+ string_gen_estate_godar: "goðar" #Goðar
+ string_gen_estate_rabbis: "rabinów" #Rabini
+ string_gen_estate_mobeds: "mobadów" #Mobadowie
+ string_gen_estate_kannushi: "kapłanów kannushi" #Kapłani Kannushi
+ string_gen_estate_panacas: "panaka" #Panaka
  string_gen_estate_gentry: "shizu" #Shizu
  string_gen_estate_ulema: "ulemów" #Ulemowie
  string_gen_estate_tlamacazqueh: "tlamacazqueh" #Tlamacazqueh
@@ -306,6 +354,9 @@
  string_gen_estate_bete: "bete" #Bete MM
  string_gen_estate_church: "duchowieństwa" #Duchowieństwo
  string_gen_estate_maratha: "marathów" #Marathowie
+ string_gen_estate_oyo_mesi: "oyo mesi" #Oyo Mesi
+ string_gen_estate_nakomse: "nakomsów" #Nakomse
+ string_gen_estate_chieftains: "wodzów" #Wodzowie
  string_gen_estate_beys: "ümery" #Ümera
  string_gen_estate_boyars: "bojarów" #Bojarzy
  string_gen_estate_szlachta: "szlachty" #Szlachta
@@ -326,10 +377,13 @@
  string_gen_estate_rangatira: "rangatira" #Rangatira
  string_gen_estate_eiki: "eiki" #Eiki
  string_gen_estate_ratu: "ratu" #Ratu
+ string_gen_estate_warriors: "wojowników" #Wojownicy
+ string_gen_estate_mani: "mani" #Mani
  string_gen_estate_nobles: "arystokracji" #Arystokracja
  string_gen_estate_bourgeoisie: "burżuazji" #Burżuazja
  string_gen_estate_shangbang: "shangbangu" #Shangbang
  string_gen_estate_neoconfucian_reformers: "neokonfucjańskich reformatorów" #Neokonfucjańscy reformatorzy
+ string_gen_estate_pochteca: "pochteków" #Pochtekowie
  string_gen_estate_merchant_guilds: "gildii kupieckich" #Gildie kupieckie
  string_gen_estate_burghers: "mieszczaństwa" #Mieszczaństwo
  string_gen_estate_vaisyas: "wajśjów" #Wajśjowie
@@ -340,8 +394,20 @@
  string_gen_estate_rajput: "radźputów" #Radźputowie
 ## duża
  string_gen_estate_brahmins_Cap: "Braminów" #Bramini
+ string_gen_estate_ogboni_Cap: "Ogbonów" #Ogboni
+ string_gen_estate_tengbiise_Cap: "Tengbiise" #Tengbiise
  string_gen_estate_monasteries_Cap: "Zakonów" #Zakony
  string_gen_estate_babaylanes_Cap: "Babaylan" #Babaylan
+ string_gen_estate_pastors_Cap: "Pastorów" #Pastorzy
+ string_gen_estate_popes_Cap: "Patriarchów" #Patriarchowie
+ string_gen_estate_shamans_Cap: "Szamanów" #Szamani
+ string_gen_estate_gurus_Cap: "Guru" #Guru
+ string_gen_estate_medicine_men_Cap: "Uzdrawiaczy" #Uzdrawiacze
+ string_gen_estate_godar_Cap: "Goðar" #Goðar
+ string_gen_estate_rabbis_Cap: "Rabinów" #Rabini
+ string_gen_estate_mobeds_Cap: "Mobadów" #Mobadowie
+ string_gen_estate_kannushi_Cap: "Kapłanów Kannushi" #Kapłani Kannushi
+ string_gen_estate_panacas_Cap: "Panaka" #Panaka
  string_gen_estate_gentry_Cap: "Shizu" #Shizu
  string_gen_estate_ulema_Cap: "Ulemów" #Ulemowie
  string_gen_estate_tlamacazqueh_Cap: "Tlamacazqueh" #Tlamacazqueh
@@ -353,6 +419,9 @@
  string_gen_estate_bete_Cap: "Bete" #Bete
  string_gen_estate_church_Cap: "Duchowieństwa" #Duchowieństwo
  string_gen_estate_maratha_Cap: "Marathów" #Marathowie
+ string_gen_estate_oyo_mesi_Cap: "Oyo Mesi" #Oyo Mesi
+ string_gen_estate_nakomse_Cap: "Nakomsów" #Nakomse
+ string_gen_estate_chieftains_Cap: "Wodzów" #Wodzowie
  string_gen_estate_beys_Cap: "Ümery" #Ümera
  string_gen_estate_boyars_Cap: "Bojarów" #Bojarzy
  string_gen_estate_szlachta_Cap: "Szlachty" #Szlachta
@@ -373,10 +442,13 @@
  string_gen_estate_rangatira_Cap: "Rangatira" #Rangatira
  string_gen_estate_eiki_Cap: "Eiki" #Eiki
  string_gen_estate_ratu_Cap: "Ratu" #Ratu
+ string_gen_estate_warriors_Cap: "Wojowników" #Wojownicy
+ string_gen_estate_mani_Cap: "Mani" #Mani
  string_gen_estate_nobles_Cap: "Arystokracji" #Arystokracja
  string_gen_estate_bourgeoisie_Cap: "Burżuazji" #Burżuazja
  string_gen_estate_shangbang_Cap: "Shangbangu" #Shangbang
  string_gen_estate_neoconfucian_reformers_Cap: "Neokonfucjańskich reformatorów" #Neokonfucjańscy reformatorzy
+ string_gen_estate_pochteca_Cap: "Pochteków" #Pochtekowie
  string_gen_estate_merchant_guilds_Cap: "Gildii kupieckich" #Gildie kupieckie
  string_gen_estate_burghers_Cap: "Mieszczaństwa" #Mieszczaństwo
  string_gen_estate_vaisyas_Cap: "Wajśjów" #Wajśjowie
@@ -388,8 +460,20 @@
 ## Celownik klas społecznych komu czemu szlachcie
 #mała
  string_dat_estate_brahmins: "braminom" #Bramini
+ string_dat_estate_ogboni: "ogbonom" #Ogboni
+ string_dat_estate_tengbiise: "tengbiise" #Tengbiise
  string_dat_estate_monasteries: "zakonom" #Zakony
  string_dat_estate_babaylanes: "babaylan" #Babaylan
+ string_dat_estate_pastors: "pastorom" #Pastorzy
+ string_dat_estate_popes: "patriarchom" #Patriarchowie
+ string_dat_estate_shamans: "szamanom" #Szamani
+ string_dat_estate_gurus: "guru" #Guru
+ string_dat_estate_medicine_men: "uzdrawiaczom" #Uzdrawiacze
+ string_dat_estate_godar: "goðar" #Goðar
+ string_dat_estate_rabbis: "rabinom" #Rabini
+ string_dat_estate_mobeds: "mobadom" #Mobadowie
+ string_dat_estate_kannushi: "kapłanom kannushi" #Kapłani Kannushi
+ string_dat_estate_panacas: "panaka" #Panaka
  string_dat_estate_gentry: "shizu" #Shizu
  string_dat_estate_ulema: "ulemom" #Ulemowie
  string_dat_estate_tlamacazqueh: "tlamacazqueh" #Tlamacazqueh
@@ -401,6 +485,9 @@
  string_dat_estate_bete: "bete" #Bete
  string_dat_estate_church: "duchowieństwu" #Duchowieństwo
  string_dat_estate_maratha: "marathom" #Marathowie
+ string_dat_estate_oyo_mesi: "oyo mesi" #Oyo Mesi
+ string_dat_estate_nakomse: "nakomsom" #Nakomse
+ string_dat_estate_chieftains: "wodzom" #Wodzowie
  string_dat_estate_beys: "ümerze" #Ümera
  string_dat_estate_boyars: "bojarom" #Bojarzy
  string_dat_estate_szlachta: "szlachcie" #Szlachta
@@ -421,10 +508,13 @@
  string_dat_estate_rangatira: "rangatira" #Rangatira
  string_dat_estate_eiki: "eiki" #Eiki
  string_dat_estate_ratu: "ratu" #Ratu
+ string_dat_estate_warriors: "wojownikom" #Wojownicy
+ string_dat_estate_mani: "mani" #Mani
  string_dat_estate_nobles: "arystokracji" #Arystokracja
  string_dat_estate_bourgeoisie: "burżuazji" #Burżuazja
  string_dat_estate_shangbang: "shangbangowi" #Shangbang
  string_dat_estate_neoconfucian_reformers: "neokonfucjańskim reformatorom" #Neokonfucjańscy reformatorzy
+ string_dat_estate_pochteca: "pochtekom" #Pochtekowie
  string_dat_estate_merchant_guilds: "gildiom kupieckim" #Gildie kupieckie
  string_dat_estate_burghers: "mieszczaństwu" #Mieszczaństwo
  string_dat_estate_vaisyas: "wajśjom" #Wajśjowie
@@ -435,8 +525,20 @@
  string_dat_estate_rajput: "radźputom" #Radźputowie
 #duża
  string_dat_estate_brahmins_Cap: "Braminom" #Bramini
+ string_dat_estate_ogboni_Cap: "Ogbonom" #Ogboni
+ string_dat_estate_tengbiise_Cap: "Tengbiise" #Tengbiise
  string_dat_estate_monasteries_Cap: "Zakonom" #Zakony
  string_dat_estate_babaylanes_Cap: "Babaylan" #Babaylan
+ string_dat_estate_pastors_Cap: "Pastorom" #Pastorzy
+ string_dat_estate_popes_Cap: "Patriarchom" #Patriarchowie
+ string_dat_estate_shamans_Cap: "Szamanom" #Szamani
+ string_dat_estate_gurus_Cap: "Guru" #Guru
+ string_dat_estate_medicine_men_Cap: "Uzdrawiaczom" #Uzdrawiacze
+ string_dat_estate_godar_Cap: "Goðar" #Goðar
+ string_dat_estate_rabbis_Cap: "Rabinom" #Rabini
+ string_dat_estate_mobeds_Cap: "Mobadom" #Mobadowie
+ string_dat_estate_kannushi_Cap: "Kapłanom Kannushi" #Kapłani Kannushi
+ string_dat_estate_panacas_Cap: "Panaka" #Panaka
  string_dat_estate_gentry_Cap: "Shizu" #Shizu
  string_dat_estate_ulema_Cap: "Ulemom" #Ulemowie
  string_dat_estate_tlamacazqueh_Cap: "Tlamacazqueh" #Tlamacazqueh
@@ -448,6 +550,9 @@
  string_dat_estate_bete_Cap: "Bete" #Bete
  string_dat_estate_church_Cap: "Duchowieństwu" #Duchowieństwo
  string_dat_estate_maratha_Cap: "Marathom" #Marathowie
+ string_dat_estate_oyo_mesi_Cap: "Oyo Mesi" #Oyo Mesi
+ string_dat_estate_nakomse_Cap: "Nakomsom" #Nakomse
+ string_dat_estate_chieftains_Cap: "Wodzom" #Wodzowie
  string_dat_estate_beys_Cap: "Ümerze" #Ümera
  string_dat_estate_boyars_Cap: "Bojarom" #Bojarzy
  string_dat_estate_szlachta_Cap: "Szlachcie" #Szlachta
@@ -468,10 +573,13 @@
  string_dat_estate_rangatira_Cap: "Rangatira" #Rangatira
  string_dat_estate_eiki_Cap: "Eiki" #Eiki
  string_dat_estate_ratu_Cap: "Ratu" #Ratu
+ string_dat_estate_warriors_Cap: "Wojowników" #Wojownicy
+ string_dat_estate_mani_Cap: "Mani" #Mani
  string_dat_estate_nobles_Cap: "Arystokracji" #Arystokracja
  string_dat_estate_bourgeoisie_Cap: "Burżuazji" #Burżuazja
  string_dat_estate_shangbang_Cap: "Shangbangowi" #Shangbang
  string_dat_estate_neoconfucian_reformers_Cap: "Neokonfucjańskim reformatorom" #Neokonfucjańscy reformatorzy
+ string_dat_estate_pochteca_Cap: "Pochtekom" #Pochtekowie
  string_dat_estate_merchant_guilds_Cap: "Gildiom kupieckim" #Gildie kupieckie
  string_dat_estate_burghers_Cap: "Mieszczaństwu" #Mieszczaństwo
  string_dat_estate_vaisyas_Cap: "Wajśjom" #Wajśjowie
@@ -483,8 +591,20 @@
  #Narzędnik klas społecznych kim czym szlachtą
  #mała
  string_ins_estate_brahmins: "braminami" #Bramini
+ string_ins_estate_ogboni: "ogbonami" #Ogboni
+ string_ins_estate_tengbiise: "tengbiise" #Tengbiise
  string_ins_estate_monasteries: "zakonami" #Zakony
  string_ins_estate_babaylanes: "babaylan" #Babaylan
+ string_ins_estate_pastors: "pastorami" #Pastorzy
+ string_ins_estate_popes: "patriarchami" #Patriarchowie
+ string_ins_estate_shamans: "szamanami" #Szamani
+ string_ins_estate_gurus: "guru" #Guru
+ string_ins_estate_medicine_men: "uzdrawiaczami" #Uzdrawiacze
+ string_ins_estate_godar: "goðar" #Goðar
+ string_ins_estate_rabbis: "rabinami" #Rabini
+ string_ins_estate_mobeds: "mobadami" #Mobadowie
+ string_ins_estate_kannushi: "kapłanami kannushi" #Kapłani Kannushi
+ string_ins_estate_panacas: "panaka" #Panaka
  string_ins_estate_gentry: "shizu" #Shizu
  string_ins_estate_ulema: "ulemami" #Ulemowie
  string_ins_estate_tlamacazqueh: "tlamacazqueh" #Tlamacazqueh
@@ -496,6 +616,9 @@
  string_ins_estate_bete: "bete" #Bete
  string_ins_estate_church: "duchowieństwem" #Duchowieństwo
  string_ins_estate_maratha: "marathami" #Marathowie
+ string_ins_estate_oyo_mesi: "oyo mesi" #Oyo Mesi
+ string_ins_estate_nakomse: "nakomsami" #Nakomse
+ string_ins_estate_chieftains: "wodzami" #Wodzowie
  string_ins_estate_beys: "ümerą" #Ümera
  string_ins_estate_boyars: "bojarami" #Bojarzy
  string_ins_estate_szlachta: "szlachtą" #Szlachta
@@ -516,10 +639,13 @@
  string_ins_estate_rangatira: "rangatira" #Rangatira
  string_ins_estate_eiki: "eiki" #Eiki
  string_ins_estate_ratu: "ratu" #Ratu
+ string_ins_estate_warriors: "wojownikami" #Wojownicy
+ string_ins_estate_mani: "mani" #Mani
  string_ins_estate_nobles: "arystokracją" #Arystokracja
  string_ins_estate_bourgeoisie: "burżuazją" #Burżuazja
  string_ins_estate_shangbang: "shangbangiem" #Shangbang
  string_ins_estate_neoconfucian_reformers: "neokonfucjańskimi reformatorami" #Neokonfucjańscy reformatorzy
+ string_ins_estate_pochteca: "pochtekami" #Pochtekowie
  string_ins_estate_merchant_guilds: "gildiami kupieckimi" #Gildie kupieckie
  string_ins_estate_burghers: "mieszczaństwem" #Mieszczaństwo
  string_ins_estate_vaisyas: "wajśjami" #Wajśjowie
@@ -530,8 +656,20 @@
  string_ins_estate_rajput: "radźputami" #Radźputowie
  #duża
  string_ins_estate_brahmins_Cap: "Braminami" #Bramini
+ string_ins_estate_ogboni_Cap: "Ogbonami" #Ogboni
+ string_ins_estate_tengbiise_Cap: "Tengbiise" #Tengbiise
  string_ins_estate_monasteries_Cap: "Zakonami" #Zakony
  string_ins_estate_babaylanes_Cap: "Babaylan" #Babaylan
+ string_ins_estate_pastors_Cap: "Pastorami" #Pastorzy
+ string_ins_estate_popes_Cap: "Patriarchami" #Patriarchowie
+ string_ins_estate_shamans_Cap: "Szamanami" #Szamani
+ string_ins_estate_gurus_Cap: "Guru" #Guru
+ string_ins_estate_medicine_men_Cap: "Uzdrawiaczami" #Uzdrawiacze
+ string_ins_estate_godar_Cap: "Goðar" #Goðar
+ string_ins_estate_rabbis_Cap: "Rabinami" #Rabini
+ string_ins_estate_mobeds_Cap: "Mobadami" #Mobadowie
+ string_ins_estate_kannushi_Cap: "Kapłanami Kannushi" #Kapłani Kannushi
+ string_ins_estate_panacas_Cap: "Panaka" #Panaka
  string_ins_estate_gentry_Cap: "Shizu" #Shizu
  string_ins_estate_ulema_Cap: "Ulemami" #Ulemowie
  string_ins_estate_tlamacazqueh_Cap: "Tlamacazqueh" #Tlamacazqueh
@@ -543,6 +681,9 @@
  string_ins_estate_bete_Cap: "bete" #Bete
  string_ins_estate_church_Cap: "Duchowieństwem" #Duchowieństwo
  string_ins_estate_maratha_Cap: "Marathami" #Marathowie
+ string_ins_estate_oyo_mesi_Cap: "Oyo Mesi" #Oyo Mesi
+ string_ins_estate_nakomse_Cap: "Nakomsami" #Nakomse
+ string_ins_estate_chieftains_Cap: "Wodzami" #Wodzowie
  string_ins_estate_beys_Cap: "Ümerą" #Ümera
  string_ins_estate_boyars_Cap: "Bojarami" #Bojarzy
  string_ins_estate_szlachta_Cap: "Szlachtą" #Szlachta
@@ -563,10 +704,13 @@
  string_ins_estate_rangatira_Cap: "Rangatira" #Rangatira
  string_ins_estate_eiki_Cap: "Eiki" #Eiki
  string_ins_estate_ratu_Cap: "Ratu" #Ratu
+ string_ins_estate_warriors_Cap: "Wojownikami" #Wojownicy
+ string_ins_estate_mani_Cap: "Mani" #Mani
  string_ins_estate_nobles_Cap: "Arystokracją" #Arystokracja
  string_ins_estate_bourgeoisie_Cap: "Burżuazją" #Burżuazja
  string_ins_estate_shangbang_Cap: "Shangbangiem" #Shangbang
  string_ins_estate_neoconfucian_reformers_Cap: "Neokonfucjańskimi reformatorami" #Neokonfucjańscy reformatorzy
+ string_ins_estate_pochteca_Cap: "Pochtekami" #Pochtekowie
  string_ins_estate_merchant_guilds_Cap: "Gildiami kupieckimi" #Gildie kupieckie
  string_ins_estate_burghers_Cap: "Mieszczaństwem" #Mieszczaństwo
  string_ins_estate_vaisyas_Cap: "Wajśjami" #Wajśjowie
