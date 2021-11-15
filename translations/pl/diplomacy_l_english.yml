@@ -81,7 +81,7 @@
  NO_INTEGREATION_PROGRESS_AT_WAR: "Aby integracja postępowała, w obu krajach musi panować pokój."
  NO_ANNEX_PROGRESS_AT_WAR: "Aby aneksja postępowała, w obu krajach musi panować pokój."
  NO_ANNEX_PROGRESS_WHILE_CAPITAL_TAKEN: "Kiedy nie kontrolują swojej stolicy, postęp aneksji zostanie wstrzymany."
- NO_ANNEX_PROGRESS_LIBERTY: "Aby aneksja postępowała, ich dążenia niepodległościowe muszą być mniejsze niż §Y$LIMIT$§!,a  obecnie wynoszą §R$AMOUNT$§!.\n"
+ NO_ANNEX_PROGRESS_LIBERTY: "Aby aneksja postępowała, ich dążenia niepodległościowe muszą być mniejsze niż §Y$LIMIT$§!, a obecnie wynoszą §R$AMOUNT$§!.\n"
  ALL_CORES_AND_CLAIMS: "Wszystkie prowincje narodowe oraz będące przedmiotem roszczeń"
  RIVAL_BENEFITS: "§Y$WHO$§! jest naszym rywalem, i mamy przeciwko nim następujące benefity:\n"
  RIVAL_DIPLO_ALLY: "- jest większa szansa na sojusz z ich wrogami;\n"
