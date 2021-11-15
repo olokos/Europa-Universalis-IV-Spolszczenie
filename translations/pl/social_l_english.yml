@@ -118,7 +118,7 @@
  WRONG_DOB_FORMAT: "Data urodzenia jest nieprawidłowa"
  CREATE_PARADOX_ACCOUNT: "Stwórz konto Paradox"
  CREATE_PARADOX_ACCOUNT_DESCRIPTION: ""
- CREATE_PARADOX_ACCOUNT_FEATURES: "Utwórz konto Paradox, aby:\n  - Otrzymać wyjątkowy portret EUIV\n  - Grać na platformie dla wielu graczy\n  - Zdobywać osiągnięcia\n  - Utworzyć kopię zapasową gry w chmurze\n  - Uzyskać dostęp do forów Paradox\n  - Otrzymać unikalne oferty i propozycje"
+ CREATE_PARADOX_ACCOUNT_FEATURES: "Utwórz konto Paradox, aby:\n - Otrzymać wyjątkowy portret EUIV\n - Grać na platformie dla wielu graczy\n - Zdobywać osiągnięcia\n - Utworzyć kopię zapasową gry w chmurze\n - Uzyskać dostęp do forów Paradox\n - Otrzymać unikalne oferty i propozycje"
  NEWSLETTER_DESCRIPTION: "Chciałbym otrzymywać powiadomienia i oferty od Paradox Interactive"
  LOGIN_REQUIRED: "Wymagany login"
  LOGIN: "Login"
