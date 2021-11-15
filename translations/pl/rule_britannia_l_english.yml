@@ -152,7 +152,7 @@
  anglican_events.5.b: "Odpowiedz im naszymi broszurami."
  anglican_events.5.c: "Znajdź i aresztuj autorów."
  anglican_events.6.t: "Protest przeciwko zmianom w Księdze Modlitw"
- anglican_events.6.d: "Doktryny Kościoła anglikańskiego są zawarte w Księdze Modlitw. Jest to książka, która wymaga okresowych korekt, aby była dostosowana do aktualnej myśli kościoła anglikańskiego, zmienia się ona pomiędzy radykalną i tradycyjną teologią. Najnowsze wydanie zawiera sformułowania, który bardzo rozgniewał ludzi z prowincji [prayer_book_province.GetName].  W wielu z nich nadal trzyma się katolickich dogmatów i praktyk. Żądają oni przywrócenia Księgi do jej poprzedniego wydania."
+ anglican_events.6.d: "Doktryny Kościoła anglikańskiego są zawarte w Księdze Modlitw. Jest to książka, która wymaga okresowych korekt, aby była dostosowana do aktualnej myśli kościoła anglikańskiego, zmienia się ona pomiędzy radykalną i tradycyjną teologią. Najnowsze wydanie zawiera sformułowania, który bardzo rozgniewał ludzi z prowincji [prayer_book_province.GetName]. W wielu z nich nadal trzyma się katolickich dogmatów i praktyk. Żądają oni przywrócenia Księgi do jej poprzedniego wydania."
  anglican_events.6.a: "Odwołajmy aktualne wydanie i poczyńmy ustępstwa względem tradycjonalistów."
  anglican_events.6.b: "Nie będziemy tolerować papistycznej zdrady!"
  anglican_events.7.t: "Kryptokatolicki mąż stanu"
