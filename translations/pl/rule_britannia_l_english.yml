@@ -364,7 +364,7 @@
  KNOWLEDGE_SHARING_INTERACT_DESC: "Płacąc §R$PERCENT$%§! ich dochodu ($INCOME|Y$ ¤) każdego miesiąca, wzrost najstarszego nurtu, którego oni nie przyjęli (obecnie $INSTITUTION|Y$) będzie przyspieszany o $GROWTH$ miesięcznie w ich stolicy."
  OFFER_KNOWLEDGESHARENEWDESC: "Czy chcesz kontynuować udostępnianie wiedzy państwu $COUNTRY|Y$? Jeśli zaakceptują, zapłacą nam §R$PERCENT$%§! ich dochodu ($INCOME|Y$ ¤) każdego miesiąca, wzrost najstarszego nurtu, którego oni nie przyjęli (obecnie $INSTITUTION|Y$) będzie przyspieszany o $GROWTH$ miesięcznie w ich stolicy."
  KNOWLEDGESHARE_EXPIRY: "Umowa wygasa, gdy minie $YEARS|Y$ lat, nie można dalej przekazać wiedzy lub gdy znajdziemy się po przeciwnych stronach wojny, cokolwiek nastąpi wcześniej."
- OUTSIDE_COLONIAL_RANGE_ANY: "Poza zasięgiem kolonialnym  (od dowolnej prowincji)."
+ OUTSIDE_COLONIAL_RANGE_ANY: "Poza zasięgiem kolonialnym (od dowolnej prowincji)."
  NO_INSTITUTION_TO_SHARE: "Nie ma nurtu, o którym mogliby się od nas dowiedzieć."
  WE_SHARING_KNOWLEDGE: "Udostępniamy już wiedzę państwu @$TAG$ $NAME$ do $EXPIRY$."
  WE_HAVE_KNOWLEDGE_SHARED: "Nie możemy zaoferować udostępniania wiedzy gdy państwo @$TAG$ $NAME$ udziela nam wiedzy."
