@@ -255,7 +255,7 @@
  DIPLO_NOT_WANT_PROVINCES: "Nie chce żadnych ziem kraju $WHO$, jakich nie zażądało państwo $CALLER$:"
  DIPLO_WANTS_PROVINCES: "Obiecano $WHO$ ziemie:"
  DIPLO_PREPARED_FOR_WAR: "Przygotowania do wojny:"
- DIPLO_PLAYER_AI_PREFS_KEEP_ALLY: "§GUtrzymuj sojuszników i rywali§! przez SI prowadzącą państwo $WHO$ jest  §Gwłączone§!:"
+ DIPLO_PLAYER_AI_PREFS_KEEP_ALLY: "§GUtrzymuj sojuszników i rywali§! przez SI prowadzącą państwo $WHO$ jest §Gwłączone§!:"
  DIPLO_UNION_WAR_GREAT_POWER: "Kraj $WHO$ nie chce, by państwo $TARGET$ zawarło unię z państwem $THEM$:"
  DIPLO_PLAYER_AI_PREFS_FIGHT_TO_DEATH: "§GDążenie do szybkiego pokoju§! przez SI prowadzącą państwo $WHO$ jest §Gwłączone§!:"
  DIPLO_VASSAL_UNDER: "Kraj $VASSAL$ jest wasalem państwa $LEADER$:"
