@@ -159,7 +159,7 @@
  CORE_EXPLAIN_LOSE_PRIMARY_TAG_NOLOSE: "§Y$WHO$§! jest główną nacją kultury §Y$PROVCULTURE$§! i nigdy nie stracji prowincji §Y$PROV$§! jako prowincji narodowej."
  HISTORY_DISCOVERED_BY_GROUP: "Odkryto przez sferę §Y$GROUP$§W. "
  WESTERNIZATION_AFFECTS: "§YEfekty w trakcie westernizacji:§W"
- SUBJECT_COUNTRY_STARTS: ""
+ SUBJECT_COUNTRY_STARTS: "Każde państwo podległe"
  ALL_SUBJECT_COUNTRY_STARTS: "Wszystkie państwa podległe"
  gen_trade_access_denied: "Odmówiono przyznania wyłącznych przywilejów handlowych w rejonie cieśniny Bosfor"
  gen_trade_given: "Przyznano wyłączne przywileje handlowe w rejonie cieśniny Bosfor"
