@@ -880,7 +880,7 @@
  NATIVE_SPONSOR_LEGACY_TEXT: "Nauczyliśmy się od naszych sąsiadów $NEIGHBOR|Y$."
  NATIVE_SPONSOR_LEGACY_TEXT_OTHER: "Nauczyli się od swoich sąsiadów $NEIGHBOR|Y$."
  ADD_YEARS_OF_MANPOWER_SCALED_TO_SEATS: "$DIRECTION$ $MANPOWER|G0$ zasobów ludzkich z miejsc w parlamencie."
- ADD_YEARS_OF_SAILORS_SCALED_TO_SEATS: "$DIRECTION$  $SAILORS|G0$ marynarzy z miejsc w parlamencie."
+ ADD_YEARS_OF_SAILORS_SCALED_TO_SEATS: "$DIRECTION$ $SAILORS|G0$ marynarzy z miejsc w parlamencie."
  ADD_YEARS_OF_TAX_SCALED_TO_SEATS: "$DIRECTION$ $TAX|G$ wpływów z podatków z miejsc w parlamencie."
  germanic_parliament_name: "Landtag"
  GER_parliament_name: "Reichstag"
