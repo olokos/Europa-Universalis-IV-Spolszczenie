@@ -198,7 +198,7 @@
  JUSTIFY_TRADE_CONFLICTTITLE: "Uzasadnij konflikt handlowy"
  JUSTIFY_TRADE_CONFLICTDESC: "Uzasadnij konflikt handlowy z państwem, które zagraża twojemu handlowi."
  JUSTIFY_TRADE_CONFLICT_NO_POWER: "$WHO|Y$ musi dysponować siłą handlową w węźle handlowym, w którym działa jeden z twoich kupców, gdzie posiadasz co najmniej $OURVAL|Y0%$ całkowitej siły handlowej."
- JUSTIFY_TRADE_CONFLICT_LOW_POWER: "Państwo $WHO|Y$ musi mieć co najmniej $VAL|Y0%$ całkowitej siły handlowej w węźle handlowym, w którym działa jeden z twoich kupców,  gdzie posiadasz co najmniej $OURVAL|Y0%$ całkowitej siły handlowej. Obecnie dysponuje ono $MAX|Y0%$ w węźle $NODE|Y$, gdzie posiadasz $MAXOURS|Y0%$."
+ JUSTIFY_TRADE_CONFLICT_LOW_POWER: "Państwo $WHO|Y$ musi mieć co najmniej $VAL|Y0%$ całkowitej siły handlowej w węźle handlowym, w którym działa jeden z twoich kupców, gdzie posiadasz co najmniej $OURVAL|Y0%$ całkowitej siły handlowej. Obecnie dysponuje ono $MAX|Y0%$ w węźle $NODE|Y$, gdzie posiadasz $MAXOURS|Y0%$."
  TRANSFER_TRADE_POWERTITLE: "Transfer siły handlowej"
  TRANSFER_TRADE_POWERDESC: "Zapytaj, czy $WHO$ nie chce przekazać tobie części swojej siły handlowej."
  TRANSFER_TRADE_POWER_SELECT_DESC: " Czy chcesz zapytać państwo $WHO$, czy nie zechce przekazać ci części swej siły handlowej?"
