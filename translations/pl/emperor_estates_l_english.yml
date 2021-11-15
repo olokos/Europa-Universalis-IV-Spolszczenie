@@ -1233,7 +1233,7 @@
  estate_cossacks_exploration_expedition_mod_revoke_tooltip: "Usuwa §YOdkrycia kozaków§! ze wszystkich posiadanych prowincji stepowych."
  estate_burghers_exclusive_trade_rights_enact_tooltip: "Dodaje §R20§! lokalnej autonomii i §G-15%§! lokalnego kosztu rozwoju dla centrów handlowych w węzeł handlowy §Y[This.GetTradeNodeName]§!."
  estate_burghers_exclusive_trade_rights_revoke_tooltip: "Usuwa modyfikator „Wyłączne prawa handlowe” ze wszystkich posiadanych prowincji"
- PRIVILEGE_LOYALTY_CHANGE: "Równowaga lojalności  klasy $ESTATE$ zmieni się o $VAL|+%0$."
+ PRIVILEGE_LOYALTY_CHANGE: "Równowaga lojalności klasy $ESTATE$ zmieni się o $VAL|+%0$."
  PRIVILEGE_INFLUENCE_CHANGE: "Wpływ klasy $ESTATE$ zmieni się o $VAL|Y%0$."
  PRIVILEGE_MAX_ABSOLUTISM_CHANGE: "Maksymalny absolutyzm zmieni się o $VAL|+0$."
  PRIVILEGE_LANDSHARE_CHANGE: "Zmiana o $DIR$ $VAL|Y0$ ziem koronnych."
