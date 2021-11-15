@@ -417,7 +417,7 @@
  CHANGE_REFORM_POTENTIAL: "\nPamiętaj, że ta reforma jest dostępna tylko pod warunkiem spełnienia następujących warunków:\n$CONDITIONS$"
  NO_MANUAL_CHANGE: "Tej reformy nie można wybrać ręcznie."
  CHANGE_REFORM_CONFIRM_DESC: "Czy na pewno chcesz zmienić reformę rządową: $REFORM|Y$ kosztującą $COST|Y$ postępu reformy rządowej i zapewni to następujące korzyści:\n$BENEFITS$"
- VACANT_REFORM_CONFIRM_DESC: "Czy na pewno chcesz wybrać reformę rządową  $REFORM|Y$? Ten wybór jest darmowy i daje następujące korzyści:\n$BENEFITS$"
+ VACANT_REFORM_CONFIRM_DESC: "Czy na pewno chcesz wybrać reformę rządową $REFORM|Y$? Ten wybór jest darmowy i daje następujące korzyści:\n$BENEFITS$"
  CHANGE_REFORM_CANT_AFFORD: "Nie możesz zmienić reformy rządowej, ponieważ nie masz $COST|R$."
  N_REFORM_UPGRADES_AVAILABLE: "Dostępne reformy: $UPGRADES|Y$"
  NEXT_UPGRADE_AVAILABLE: "Następny poziom reform: $NEXT|Y$"
