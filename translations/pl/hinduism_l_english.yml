@@ -50,7 +50,7 @@
  hindu_events.4.a: "Pomodlę się i zastanowię nad tym."
  hindu_events.4.b: "Ufam Śiwie w wielu sprawach, lecz to na mnie spoczywa obowiązek ochrony kraju."
  hindu_events.5.t: "Sthiti - utrwalanie"
- hindu_events.5.d: "Rozważając latami Abhajamudrę - wzniesioną dłoń Śiwy, niosącą błogosławieństwo spokoju i bezpieczeństwa - zyskałeś poczucie, że udało ci się w znacznym stopniu zrozumieć, w jaki sposób bóg działa dla zachowania świata. Ta świadomość przyniosła ci  spokój, pozwalając skupić się na rządzeniu krajem [Root.GetName] i troszczeniu się o niego, tak jak Śiwa troszczy się o całe stworzenie."
+ hindu_events.5.d: "Rozważając latami Abhajamudrę - wzniesioną dłoń Śiwy, niosącą błogosławieństwo spokoju i bezpieczeństwa - zyskałeś poczucie, że udało ci się w znacznym stopniu zrozumieć, w jaki sposób bóg działa dla zachowania świata. Ta świadomość przyniosła ci spokój, pozwalając skupić się na rządzeniu krajem [Root.GetName] i troszczeniu się o niego, tak jak Śiwa troszczy się o całe stworzenie."
  hindu_events.5.a: "Om."
  hindu_events.6.t: "Śiwa Niszczyciel"
  hindu_events.6.d: "[Root.GetName] jest w stanie wojny. Kraj obraca swoich wrogów w perzynę, pozostawiając za sobą pustkę i ruiny. Będąc w samym sercu najazdu, jako jego dowódca nie masz zbyt wiele czasu na medytację czy jakiekolwiek przemyślenia religijne. Jednakże pewnego dnia spoglądasz na znaczące wasz ślad płomienie i posokę, i przez głowę przelatuje ci myśl, że może zboczyłeś z drogi prawego wyznawcy Śiwy. \n\n$INQUISITOR$, osoba niezłomnej wiary, podjeżdża do ciebie i tak rzecze:\n - Niech [Root.Monarch.GetTitle] nie ogląda się za siebie. Świat musi spłonąć, by się odrodzić. Pan Śiwa także niszczy, by stworzyć na nowo."
