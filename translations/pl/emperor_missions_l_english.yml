@@ -160,7 +160,7 @@
  emp_mlo_reclaim_ducal_lands_desc: "Wenecja zajmuje Brescię i Bergamo, miasta, które z mocy prawa powinny należeć do Mediolanu, jako że zostały włączone w granice księstwa określone w dyplomie cesarskim z 1395 roku. Jeśli mamy powrócić do dawnej siły, musimy odzyskać te miasta!"
  emp_mlo_terra_firma_title: "Zajmij suchy ląd"
  emp_mlo_terra_firma_desc: "Wenecja od dawna była naszym rywalem w walce o kontrolę nad północnymi Włochami. Podbijając Terra Firma, możemy zredukować posiadłości Wenecji w północnych Włoszech do samego miasta i raz na zawsze zapewnić sobie nad nim przewagę!"
- emp_mlo_terra_firma_trigger_tooltip: "§YRepublika Wenecka§! nie posiada żadnych prowincji w §Ypółnocnych Włoszech§!, z wyjątkiem §YWenecji§!."
+ emp_mlo_terra_firma_trigger_tooltip: ""
  emp_mlo_kingdom_of_lombardy_title: "Królestwo Lombardii"
  emp_mlo_kingdom_of_lombardy_desc: "W wiekach XII i XIII Lombardia była zjednoczona jako sojusz miast znany pod nazwą Ligi Lombardzkiej. Z czasem jednak ta liga się rozpadła, pozostawiając po sobie Mediolan i kilka innych państw-miast. Powinniśmy odtworzyć Ligę, tym razem pod rządami Mediolanu, ze stałym przywództwem państwa mediolańskiego i zapewnić jej jedność jako prawdziwego państwa Lombardii."
  string_republic: "Republika"

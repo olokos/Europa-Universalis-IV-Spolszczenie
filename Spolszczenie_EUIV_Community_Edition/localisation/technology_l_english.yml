@@ -10,7 +10,7 @@
  ENABLES:0 "Udost²pnia §Y$WHICH$§W.\n"
  NEW_BUILDING:0 "Mo¿na teraz wznieœ¾ budynek §Y$WHICH$§W.\n"
  NEW_GOVERNMENT:0 "Odblokowuje §Y$WHICH$§W.\n"
- TIME_TECH_INFO:0 "Obecne kary lub premie do kosztu tej technologii, wynikaj¹ce z s¹siedztwa i stopnia zaawansowania."
+ TIME_TECH_INFO:0 "The current penalty or bonus to the cost of this technology from institutions, neighbor bonuses and being ahead in time."
  mil_tech:0 "Technologia wojskowa"
  adm_tech:0 "Technologia administracyjna"
  dip_tech:0 "Technologia dyplomatyczna"

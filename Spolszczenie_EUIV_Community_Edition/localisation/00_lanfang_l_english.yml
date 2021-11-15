@@ -481,6 +481,7 @@
  stateless_society_desc:0 "Our people have consciously chosen not to organize into a state, preferring simple lives free from the oppressive hierarchies prevalent in the lowland realm."
  STATELESS_SOCIETY:0 "Spo³eczeªstwo Bezpaªstwowe"
  TRIBAL_LEADER:0 "Przywódca Plemienia"
+ TRIBAL_LEADER_fem:0 "Tribal Leader"
  manpower_sailors_on_build_tt:0 "Otrzymasz §G1000§! zasobów ludzkich lub §G200§! ¿eglarzy w wyniku budowy §Ykoszar§!, §Ypól treningowych§!, §Ydoków§!, lub §Ysuchych doków§!."
  HARIPHUNCHAI:0 "Hariphunchai"
  HARIPHUNCHAI_ADJ:0 "Hariphunchai"

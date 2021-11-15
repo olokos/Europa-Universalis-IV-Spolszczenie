@@ -1,3 +1,4 @@
 ﻿l_english:
  MATCHMAKING_MISMATCH_TITLE: "Niewłaściwy system dla wielu graczy"
  MATCHMAKING_MISMATCH_DESC: "Drugi użytkownik korzysta z innego systemu dla wielu graczy, zrestartuj grę i wybierz $NAME$"
+ MATCHMAKING_MISMATCH_DESC_EGS: ""

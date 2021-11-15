@@ -24,7 +24,7 @@
  MODIFIER_YEARLY_FEDERATION_FAVOR_GROWTH: "Roczny wzrost przysług federacji"
  MODIFIER_MONTHLY_REFORM_PROGRESS_MODIFIER: "Modyfikator miesięcznego postępu reform"
  TRIBAL_DEVELOPMENT_VALUE: "Z rozwoju plemienia: $VAL|Y0$"
- TRIBAL_DEVELOPMENT_INCREASE_EXPLANATION: "Losowa kategoria wzrośnie o $VAL|+$:\n"
+ TRIBAL_DEVELOPMENT_INCREASE_EXPLANATION: ""
  PROVINCE_SETTLE_TOOLTIP_DESC: "Będziemy w tej prowincji osiedlać naszych ludzi, czyniąc ją w pełni naszą własnością i przeniesiemy do niej $ADM|Y$£adm£, $DIP|Y$£dip£, $MIL|Y$£mil£ rozwoju.\n\n"
  SETTLE_PROVINCE_COST: "Kosztuje $COST|Y$ punkty $POWER|$\n"
  MIGRATE_PROVINE_NOT_LAND: "Prowincja §R$PROV|Y$ nie nadaje się do zasiedlenia\n"
@@ -127,3 +127,4 @@
  SETTLE_PROVINCE_NO_DEVELOPMENT: "§RZa mało rozwoju plemiennego, aby zasiedlić prowincję.§!"
  BUILDING_SLOT_NATIVE_IN_NON_NATIVE: "Tubylcy nie mogą budować na terenach nie należących do nich."
  BUILDING_SLOT_NON_NATIVE_IN_NATIVE: "Nie-tubylcy nie mogą budować na rdzennych zmiemiach"
+ native_remain_being_native_reform: "Tożsamość plemienna"

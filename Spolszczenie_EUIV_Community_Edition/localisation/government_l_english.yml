@@ -338,7 +338,7 @@
  native_land_tradition_reform_desc:0 "Zawsze tu mieszkaliœmy. Byliœmy tutaj, kiedy l¹d zosta³ stworzony, a ziemia zosta³a ukszta³towana. B²dziemy tutaj, gdy l¹d zostanie spalony, a ziemia si² rozpadnie."
  native_war_band_reform_desc:0 "Poczucie bezpieczeªstwa to najwa¿niejsza rzecz w ¿yciu. Skupiaj¹c si² na wojnie, b²dziemy w stanie zapewni¾ dobrobyt naszemu plemieniu."
  native_seasonal_travel_reform_desc:0 "Poniewa¿ œwiat ci¹gle si² zmienia to my te¿ musimy. Jeœli b²dziemy post²powa¾ zgodnie z porami roku to odnajdziemy dobrobyt."
- native_settle_down_reform_desc:0 "Czasami pod¹¿anie za burz¹ nie jest tak wa¿ne, jak znalezienie schronienia przed ni¹. Nadszed³ czas, abyœmy osiedlili si² i zbudowali bardziej trwa³e wioski."
+ native_settle_down_reform_desc:0 "Sometimes following the storm is not as important as finding shelter for it. The time has come for us to settle down and build more permanent villages.\n\nWe will lose §R1§! Stability if this reform gets replaced."
  native_codified_power_reform_desc:0 "Nie ma nic ponad prawem. Czyni ono œwiat bardziej sprawiedliwym miejscem i zrównuje ¿ycie wszystkich cz³onków naszego plemienia."
  native_trading_with_foreigners_reform_desc:0 "Przybycie cudzoziemców na nasze ziemie pozwoli³o nam uzyska¾ dost²p do nowych technologii, które zmieni³y nasz styl ¿ycia, zarówno w czasie wojny, jak i pokoju."
  native_becomes_monarchy_reform_desc:0 "Rodowód naszych w³adców jest œwiadectwem b³ogos³awieªstwa od bogów. Ich królewska krew uczyni³a ich odpowiednimi do prowadzenia nas ku dobrobytowi."
@@ -347,3 +347,4 @@
  native_becomes_horde_reform_desc:0 "Niektórych dusz nie da si² oswoi¾. Nie ma nic bardziej wa¿nego ni¿ nasze w³asne dusze, dla tego powinny na zawsze zosta¾ wolne. Nigdy nie porzucimy tej wolnoœci."
  native_hereditary_reform_desc:0 "Ci, którzy byli przed nami, wiedz¹, czego szukamy. Przeszli ju¿ przez czasy wojny i pokoju, czasy dobrobytu i g³odu. Nasi w³adcy musz¹ pod¹¿a¾ za ich rozs¹dnymi wskazówkami i  b³ogos³awion¹ krwi¹."
  native_diplomatic_cermonies_reform_desc:0 "Bycie razem w rz¹dzeniu naszym ludem to wa¿ne zadanie, ale znacznie wa¿niejsze jest dzielenie si² tym samym jedzeniem, t¹ sam¹ wod¹, tymi samymi rytua³ami, kiedy s³oªce wschodzi i zachodzi, a my œpiewamy."
+ native_remain_being_native_reform_desc:0 "Civilization, be it a monarchy, republic or any other kind, has brought only destruction for nature. We cannot allow us to follow these vile steps and stay on the ways as nature has intended for us."

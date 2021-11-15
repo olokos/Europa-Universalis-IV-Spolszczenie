@@ -1631,7 +1631,7 @@
  CONFIRM_MOTHBALL_ALL_DESC: "Natychmiast przeniesiesz wszystkie swoje forty do rezerwy, uszczuplając ich garnizony."
  GOTO: "Idź do"
  MOVE_BLOCKED_BY_FORT_IN_PROVINCE: "§RRuch wstrzymany ze względu na wrogi fort w prowincji $PROV$.§!"
- MOVE_BLOCKED_BY_FORT: "§RRuch wstrzymany ze względu na wrogi fort.§!"
+ MOVE_BLOCKED_BY_FORT: ""
  MOVE_CANT_RETREAT_FROM_COMBAT: ""
  PROVINCE_IN_FORT_ZONE_OF_CONTROL: "§GW strefie kontroli twojego fortu w prowincji $NAME$.§!"
  PROVINCE_IN_HOSTILE_FORT_ZONE_OF_CONTROL: "W strefie kontroli fortu $HOSTILE|R$ w prowincji $NAME|Y$."
