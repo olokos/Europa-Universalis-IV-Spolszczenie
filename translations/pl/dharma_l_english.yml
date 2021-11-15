@@ -448,7 +448,7 @@
  RED_TEXT: "$NAME|R$"
  LEGACY_GOVERNMENT_CONFIRM_TITLE: "Potwierdź ustrój rządu"
  CHANGE_LEGACY_GOVERNMENT_DESC: "Zmiana rządu na $GOVERNMENT|Y$ będzie kosztować $COST|R$ punktów administracyjnych i zapewni następujące korzyści:\n$BENEFITS$"
- CHANGE_LEGACY_GOVERNMENT_CONFIRM_DESC: "Czy na pewno chcesz zmienić typ swojego rządu na $GOVERNMENT|Y$? Będzie to kosztowało $COST|R$  punktów administracyjnych i da ci następujące korzyści:\n$BENEFITS$"
+ CHANGE_LEGACY_GOVERNMENT_CONFIRM_DESC: "Czy na pewno chcesz zmienić typ swojego rządu na $GOVERNMENT|Y$? Będzie to kosztowało $COST|R$ punktów administracyjnych i da ci następujące korzyści:\n$BENEFITS$"
  CHANGE_LEGACY_GOVERNMENT_NOT_ENOUGH_ADMIN: "Potrzebujesz $COST|Y$, aby zmienić rząd, ale masz tylko $CURRENT|R$."
  REQUIRED_TECHNOLOGY_NOT_REACHED: "Potrzebujesz poziomu $REQ_LEVEL|Y$ technologii administracyjnej, aby zmienić typ swojego rządu na $GOV_NAME|Y$."
  CONVERSION_NOT_ALLOWED_BECAUSE: "Zmiana rządu jest niemożliwa, ponieważ:"
