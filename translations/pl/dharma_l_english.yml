@@ -398,7 +398,7 @@
  SUPPRESSION_AREA_NOT_ADJACENT: "§RMożesz dodać tylko regiony sąsiadujące z już represjonowanymi regionami.§!"
  SUPPRESSED_AREAS: "Represjonowane obszary"
  MAX_UNREST: "Najwyższy niepokój: $MAX$"
- AREA_REBEL_SUPPRESSION_EXPLANATION: "Całkowita redukcja niepokojów $TOTAL|G$:\nRedukcja niepokojów z pułków: $BASE|G$\nRedukcję niepokojów modyfikowane przez:\nAutonomiczne tłumienie buntowników: $MULT$\n\nRedukcja niepokojów rozkłada się równomiernie między prowincje z niepokojami, zmniejszając niepokoje z $PER_PROV|G$ w prowincjach  $PROVS|Y$.\nNiepokój nigdy nie może zostać zredukowany o więcej niż $MAX_UNREST_REDUCTION|G$ na prowincję."
+ AREA_REBEL_SUPPRESSION_EXPLANATION: "Całkowita redukcja niepokojów $TOTAL|G$:\nRedukcja niepokojów z pułków: $BASE|G$\nRedukcję niepokojów modyfikowane przez:\nAutonomiczne tłumienie buntowników: $MULT$\n\nRedukcja niepokojów rozkłada się równomiernie między prowincje z niepokojami, zmniejszając niepokoje z $PER_PROV|G$ w prowincjach $PROVS|Y$.\nNiepokój nigdy nie może zostać zredukowany o więcej niż $MAX_UNREST_REDUCTION|G$ na prowincję."
  CLICK_MAP_TO_ADD_AREAS: "Kliknij na mapę aby dodać/usunąć represjonowanie regionu."
  alert_can_enact_government_reform_instant: "§YMożesz wprowadzić reformę rządu§!"
  alert_can_enact_government_reform_delayed: "Masz wystarczający poziom postępu reformy rządowej, aby wprowadzić reformę, która da ci stałe bonusy lub mechanikę."
