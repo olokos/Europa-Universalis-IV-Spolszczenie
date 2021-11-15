@@ -24,7 +24,7 @@
  MODIFIER_YEARLY_FEDERATION_FAVOR_GROWTH: "Roczny wzrost przysług federacji"
  MODIFIER_MONTHLY_REFORM_PROGRESS_MODIFIER: "Modyfikator miesięcznego postępu reform"
  TRIBAL_DEVELOPMENT_VALUE: "Z rozwoju plemienia: $VAL|Y0$"
- TRIBAL_DEVELOPMENT_INCREASE_EXPLANATION: ""
+ TRIBAL_DEVELOPMENT_INCREASE_EXPLANATION: "$POWER|$ wzrośnie o $VAL|+3$:\n"
  PROVINCE_SETTLE_TOOLTIP_DESC: "Będziemy w tej prowincji osiedlać naszych ludzi, czyniąc ją w pełni naszą własnością i przeniesiemy do niej $ADM|Y$£adm£, $DIP|Y$£dip£, $MIL|Y$£mil£ rozwoju.\n\n"
  SETTLE_PROVINCE_COST: "Kosztuje $COST|Y$ punkty $POWER|$\n"
  MIGRATE_PROVINE_NOT_LAND: "Prowincja §R$PROV|Y$ nie nadaje się do zasiedlenia\n"

@@ -117,7 +117,7 @@
  CANCEL_GREAT_PROJECT_IN_SUBJECT: "Konstruowanie $TYPE$ zostało anulowane"
  CANCEL_GREAT_PROJECT_IN_SUBJECT_WHAT: "wstrzymać konstruowanie $TYPE$ w naszym państwie"
  CANCEL_GREAT_PROJECT_IN_SUBJECT_EFFECT: "Konstruowanie budynku $BUILDING|Y$ w prowincji $PROVINCE$ zostało przerwane."
- CANCEL_GREAT_PROJECT_PROGRESS: "Czy jesteś pewien, że chcesz zakończyć budowę  $BUILDING$ w prowincji  $PROVINCE$? $PERCENTAGE_RETURNED|%1Y$ inwestycji zostanie zwrócone."
+ CANCEL_GREAT_PROJECT_PROGRESS: "Czy jesteś pewien, że chcesz zakończyć budowę $BUILDING$ w prowincji $PROVINCE$? $PERCENTAGE_RETURNED|%1Y$ inwestycji zostanie zwrócone."
  CONFIRMGREATPROJECTUPGRADETITLE: "Potwierdź ulepszanie."
  CONFIRMGREATPROJECTUPGRADETEXTLEDGER: "Czy jesteś pewien, że chcesz ulepszyć $GREATPROJECT|Y$ w prowincji $PROVINCE$?"
  CONFIRMGREATPROJECTUPGRADEDESC: "To będzie kosztowało $COST|Y$¤ i zapewni następujące korzyści:\n$BENEFITS$"

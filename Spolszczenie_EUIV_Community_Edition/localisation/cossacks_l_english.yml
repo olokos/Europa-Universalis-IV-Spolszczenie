@@ -1011,7 +1011,7 @@
  EST_VAL_MERITOCRATIC_RECRUITMENT:0 "Meritocratic Recruitment: §Y$VAL$%§!"
  cossack_raids_opinion:0 "Cossack Raids"
  cossack_estate_events.1.t:0 "Colonization of the Steppes"
- cossack_estate_events.1.d:0 "$ESTATE_NOBLES$ narzekaj¹, ¿e coraz wi²cej ch³opów paªszczyŸnianych opuszcza bezpieczne domy, które im udost²pniono, by szuka¾ szcz²œcia wœród Kozaków  stepowych. Uwa¿aj¹, ¿e jesteœmy winni, poniewa¿ pozwoliliœmy Kozakom sta¾ si² zbyt pot²¿nymi, co inspiruje poddanych do porzucenia swoich prawowitych panów. \nPrzedstawiciele g³ównych rodzin ¿¹daj¹ teraz, abyœmy ograniczyli w³adz² Kozaków, aby mogli rozszerzy¾ swoje latyfundia w regionach granicz¹cych ze stepem. Twierdz¹, ¿e w ten sposób mo¿na oswoi¾ dzikie pola i zachowa¾ prawa obowi¹zuj¹ce w danej krainie."
+ cossack_estate_events.1.d:0 "$ESTATE_NOBLES$ narzekaj¹, ¿e coraz wi²cej ch³opów paªszczyŸnianych opuszcza bezpieczne domy, które im udost²pniono, by szuka¾ szcz²œcia wœród Kozaków stepowych. Uwa¿aj¹, ¿e jesteœmy winni, poniewa¿ pozwoliliœmy Kozakom sta¾ si² zbyt pot²¿nymi, co inspiruje poddanych do porzucenia swoich prawowitych panów. \nPrzedstawiciele g³ównych rodzin ¿¹daj¹ teraz, abyœmy ograniczyli w³adz² Kozaków, aby mogli rozszerzy¾ swoje latyfundia w regionach granicz¹cych ze stepem. Twierdz¹, ¿e w ten sposób mo¿na oswoi¾ dzikie pola i zachowa¾ prawa obowi¹zuj¹ce w danej krainie."
  cossack_estate_events.1.a:0 "Tych poddanych trzeba sprowadzi¾ z powrotem."
  cossack_estate_events.1.b:0 "Nie mo¿emy sobie pozwoli¾ na z³oœ¾ Kozaków."
  cossack_estate_events.2.t:0 "Agresja kozacka"

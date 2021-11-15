@@ -192,7 +192,7 @@
  CANCEL_CARPET_SIEGE_MOVE_CONFIRM_TITLE:0 "Cancel Autonomous Sieging"
  CANCEL_CARPET_SIEGE_MOVE_CONFIRM_DESC:0 "Are you sure you want to move $ARMY|Y$ and cancel Autonomous Sieging?"
  CANCEL_DRILLING_LOAD_CONFIRM_TITLE:0 "Anuluj musztr² wojskow¹"
- CANCEL_DRILLING_LOAD_CONFIRM_DESC:0 "Czy na pewno chcesz przemieœci¾ $NAVY|Y$ i anulowa¾ musztrowanie armii  po³¹czonej z ni¹?"
+ CANCEL_DRILLING_LOAD_CONFIRM_DESC:0 "Czy na pewno chcesz przemieœci¾ $NAVY|Y$ i anulowa¾ musztrowanie armii po³¹czonej z ni¹?"
  CANCEL_ARMY_MISSIONS_MULTIPLE_CONFIRM_TITLE:0 "Cancel Army Missions"
  CANCEL_DRILLING_MULTIPLE_CONFIRM_DESC:0 "You are about to move several §YDrilling§! units.\nAre you sure?"
  CANCEL_HUNTING_MULTIPLE_CONFIRM_DESC:0 "You are about to move several units that are §YHunting Rebels§!.\nAre you sure?"

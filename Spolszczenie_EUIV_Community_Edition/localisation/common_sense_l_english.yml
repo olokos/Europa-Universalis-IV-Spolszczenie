@@ -1599,7 +1599,7 @@
  LOOT_CAPABILITY_DESC:0 "Faktyczna iloœ¾ ³upów mo¿e by¾ ni¿sza w zale¿noœci od iloœci ³upów pozosta³ych w prowincji i obecnoœci innych pl¹druj¹cych jednostek. "
  UNIT_LOOT_EXPLANATION:0 "$COUNT$ pu³ków $UNIT$ pl¹druje $VAL|Y$ ka¿dy = §G$LOOT$§!"
  RR_SUPPRESSION_CAPABILITY:0 "§YObni¿enie niepokojów w prowincji§!"
- RR_SUPPRESSION_CAPABILITY_DESC:0 "Obni¿enie niepokojów z powodu przebywania tej jednostki w prowincji : $BASE|G$.\nNiepokoje nigdy nie mog¹ by¾ obni¿one o wi²cej ni¿  $MAX_UNREST_REDUCTION|G$ na prowincj²."
+ RR_SUPPRESSION_CAPABILITY_DESC:0 "Obni¿enie niepokojów z powodu przebywania tej jednostki w prowincji : $BASE|G$.\nNiepokoje nigdy nie mog¹ by¾ obni¿one o wi²cej ni¿ $MAX_UNREST_REDUCTION|G$ na prowincj²."
  CUSTOMIZE_SUBJECT:0 "Wybierz nazw², flag² i barwy swojego poddanego."
  CUSTOMIZE_SUBJECT_LIGHT:0 "Wybierz nazw² swojego poddanego."
  CUSTOMIZE_SUBJECT_TITLE:0 "Zmieª nazw² poddanego"

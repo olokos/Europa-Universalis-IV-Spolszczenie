@@ -1,4 +1,4 @@
 ﻿l_english:
  MATCHMAKING_MISMATCH_TITLE: "Niewłaściwy system dla wielu graczy"
  MATCHMAKING_MISMATCH_DESC: "Drugi użytkownik korzysta z innego systemu dla wielu graczy, zrestartuj grę i wybierz $NAME$"
- MATCHMAKING_MISMATCH_DESC_EGS: ""
+ MATCHMAKING_MISMATCH_DESC_EGS: "Drugi użytkownik korzysta z hostingu używając serwisu Steam, który nie jest obsługiwany w wersji gry Epic."

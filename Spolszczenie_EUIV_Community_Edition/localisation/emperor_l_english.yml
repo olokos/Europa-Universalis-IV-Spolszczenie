@@ -118,7 +118,7 @@
  ANY_ANY_PROVINCE_STARTS:0 "Dowolna prowincja"
  IS_NOT_A_RIVAL_TRIGGER:0 "Paªstwo $NAME|Y$ nie jest rywalem."
  IS_A_RIVAL_TRIGGER:0 "$NAME|Y$ jest rywalem"
- YEARLY_TAX_INCOME:0 "Roczny dochód  podatkowy"
+ YEARLY_TAX_INCOME:0 "Roczny dochód podatkowy"
  MODIFIER_RELIGIOUS_CONVERSION_RESISTANCE_DRO:0 "Okreœla zdolnoœ¾ twojego kraju do przeciwstawiania si² religii rozprzestrzeniaj¹cej si² z oœrodków reformacji. Zmniejsza to szanse na wybranie twoich prowincji przez centra reformacji."
  MODIFIER_LEGITIMATE_SUBJECT_ELECTOR:0 "Legitimate Subject Elector"
  MODIFIER_ACCEPT_VASSALIZATION_REASONS:0 "Vassalizatation Acceptance"

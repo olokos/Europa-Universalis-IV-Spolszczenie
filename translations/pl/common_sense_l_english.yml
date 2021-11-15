@@ -1599,7 +1599,7 @@
  LOOT_CAPABILITY_DESC: "Faktyczna ilość łupów może być niższa w zależności od ilości łupów pozostałych w prowincji i obecności innych plądrujących jednostek. "
  UNIT_LOOT_EXPLANATION: "$COUNT$ pułków $UNIT$ plądruje $VAL|Y$ każdy = §G$LOOT$§!"
  RR_SUPPRESSION_CAPABILITY: "§YObniżenie niepokojów w prowincji§!"
- RR_SUPPRESSION_CAPABILITY_DESC: "Obniżenie niepokojów z powodu przebywania tej jednostki w prowincji : $BASE|G$.\nNiepokoje nigdy nie mogą być obniżone o więcej niż  $MAX_UNREST_REDUCTION|G$ na prowincję."
+ RR_SUPPRESSION_CAPABILITY_DESC: "Obniżenie niepokojów z powodu przebywania tej jednostki w prowincji : $BASE|G$.\nNiepokoje nigdy nie mogą być obniżone o więcej niż $MAX_UNREST_REDUCTION|G$ na prowincję."
  CUSTOMIZE_SUBJECT: "Wybierz nazwę, flagę i barwy swojego poddanego."
  CUSTOMIZE_SUBJECT_LIGHT: "Wybierz nazwę swojego poddanego."
  CUSTOMIZE_SUBJECT_TITLE: "Zmień nazwę poddanego"

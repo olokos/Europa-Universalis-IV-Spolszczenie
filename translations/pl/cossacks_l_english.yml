@@ -1011,7 +1011,7 @@
  EST_VAL_MERITOCRATIC_RECRUITMENT: ""
  cossack_raids_opinion: ""
  cossack_estate_events.1.t: ""
- cossack_estate_events.1.d: "$ESTATE_NOBLES$ narzekają, że coraz więcej chłopów pańszczyźnianych opuszcza bezpieczne domy, które im udostępniono, by szukać szczęścia wśród Kozaków  stepowych. Uważają, że jesteśmy winni, ponieważ pozwoliliśmy Kozakom stać się zbyt potężnymi, co inspiruje poddanych do porzucenia swoich prawowitych panów. \nPrzedstawiciele głównych rodzin żądają teraz, abyśmy ograniczyli władzę Kozaków, aby mogli rozszerzyć swoje latyfundia w regionach graniczących ze stepem. Twierdzą, że w ten sposób można oswoić dzikie pola i zachować prawa obowiązujące w danej krainie."
+ cossack_estate_events.1.d: "$ESTATE_NOBLES$ narzekają, że coraz więcej chłopów pańszczyźnianych opuszcza bezpieczne domy, które im udostępniono, by szukać szczęścia wśród Kozaków stepowych. Uważają, że jesteśmy winni, ponieważ pozwoliliśmy Kozakom stać się zbyt potężnymi, co inspiruje poddanych do porzucenia swoich prawowitych panów. \nPrzedstawiciele głównych rodzin żądają teraz, abyśmy ograniczyli władzę Kozaków, aby mogli rozszerzyć swoje latyfundia w regionach graniczących ze stepem. Twierdzą, że w ten sposób można oswoić dzikie pola i zachować prawa obowiązujące w danej krainie."
  cossack_estate_events.1.a: "Tych poddanych trzeba sprowadzić z powrotem."
  cossack_estate_events.1.b: "Nie możemy sobie pozwolić na złość Kozaków."
  cossack_estate_events.2.t: "Agresja kozacka"
