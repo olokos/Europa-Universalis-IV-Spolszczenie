@@ -768,7 +768,7 @@
  investment_events.9.a: "[monopoly_ignored_country.GetName] może handlować tylko z kompanią."
  investment_events.9.b: "Sami będziemy ścigać nieuczciwych handlarzy."
  investment_events.10.t: "Ingerencja kompanii w lokalne konflikty"
- investment_events.10.d: "[company_interference_province.TradeCompany.GetName] informuje, że jej sąsiad, naród [company_interference_country_1.GetName], został uwikłany w wojnę. Funkcjonariusze kompanii widzą szansę w tym kryzysie, dążąc do realizacji długoterminowych interesów kompanii. Zdobycie przywilejów dla [company_interference_country_1.GetName]  ułatwi pokojowy rozwój naszego handlu w regionie. Wspieranie ich wrogów, stan [company_interference_country_2.GetName], może osłabić [company_interference_country_1.GetName]  na tyle, że byliby zmuszeni zaakceptować więcej przymusowych traktatów, a nawet byliby podatni na przejęcie przez kompanię."
+ investment_events.10.d: "[company_interference_province.TradeCompany.GetName] informuje, że jej sąsiad, naród [company_interference_country_1.GetName], został uwikłany w wojnę. Funkcjonariusze kompanii widzą szansę w tym kryzysie, dążąc do realizacji długoterminowych interesów kompanii. Zdobycie przywilejów dla [company_interference_country_1.GetName] ułatwi pokojowy rozwój naszego handlu w regionie. Wspieranie ich wrogów, stan [company_interference_country_2.GetName], może osłabić [company_interference_country_1.GetName] na tyle, że byliby zmuszeni zaakceptować więcej przymusowych traktatów, a nawet byliby podatni na przejęcie przez kompanię."
  investment_events.10.a: "Wyślij wsparcie do [company_interference_country_1.GetName]."
  investment_events.10.b: "Wyślij wsparcie do [company_interference_country_2.GetName]."
  investment_events.10.c: "Nie ingeruj."
