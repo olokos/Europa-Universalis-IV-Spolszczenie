@@ -857,7 +857,7 @@
  INTEGRATE_OWNS_MORE_PROVINCES: "$BIG$ posiada więcej prowincji niż $SMALL$."
  PEACEOFFER_DEMANDED_PROVINCE_CANNOT_TAKE_CAPITAL: "Zażądaliśmy od nich już innych prowincji, więc nie możemy zażądać także ich stolicy."
  DIPLO_CHANGE_VASSALS: "Opinia na temat innego poddanego uległa zmianie o:"
- DIPLO_CHANGE_EMPIRE: "Zmiana opinii o innych członkach Świętego Cesarstwa Rzymskiego:  "
+ DIPLO_CHANGE_EMPIRE: "Zmiana opinii o innych członkach Świętego Cesarstwa Rzymskiego: "
  SUBJECT_NEW_WAR: "Kraj $SUBJECT$ wciągnie państwo $OVERLORD$ do wojny z krajami $LIST$."
  SUBJECT_NOT_NEW_VAR: "Państwo $OVERLORD$ nie dołączy do wojny, którą toczą $SUBJECT$ i $SUBJECT_ENEMY$ ze względu na: $REASON$."
  PART_OF_HRE: "Kraj $COUNTRY|Y$ jest częścią Świętego Cesarstwa Rzymskiego."
