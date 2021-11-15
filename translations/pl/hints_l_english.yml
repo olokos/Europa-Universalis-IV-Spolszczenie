@@ -261,7 +261,7 @@
  HINT_HEIR_TITLE: "Następca"
  HINT_HEIR_TEXT: "Punkty monarchy następcy uaktywniają się w momencie śmierci obecnego władcy."
  HINT_TRADENODE_TITLE: "Węzeł handlowy"
- HINT_TRADENODE_TEXT: "Wartość handlowa z prowincji spływa do przypisanego węzła handlowego. Świat podzielony jest na wiele takich węzłów, a każda prowincja przypisana jest  do jednego z nich. Wartość handlowa może przepływać z jednego węzła do drugiego w kierunku wychodzącym. Siła handlowa jest kluczem do czerpania zysków z danego węzła, lub określenia transferowanej zeń wartości handlowej. Nie można wyprowadzać handlu z Wenecji, Genui i Kanału La Manche."
+ HINT_TRADENODE_TEXT: "Wartość handlowa z prowincji spływa do przypisanego węzła handlowego. Świat podzielony jest na wiele takich węzłów, a każda prowincja przypisana jest do jednego z nich. Wartość handlowa może przepływać z jednego węzła do drugiego w kierunku wychodzącym. Siła handlowa jest kluczem do czerpania zysków z danego węzła, lub określenia transferowanej zeń wartości handlowej. Nie można wyprowadzać handlu z Wenecji, Genui i Kanału La Manche."
  HINT_TRADEPOST_TITLE: "Placówka handlowa"
  HINT_TRADEPOST_TEXT: "Republiki kupieckie mogą zakładać w swoich prowincjach placówki handlowe. Takie placówki zapewniają prowincji dodatkową siłę handlową oraz zwiększają limit sił morskich. Republika kupiecka może mieć tylko jedną placówkę handlową w danym węźle i nie może zakładać ich w swoim głównym węźle handlowym."
  HINT_FORTDEFENSE_TITLE: "Ufortyfikowanie"
