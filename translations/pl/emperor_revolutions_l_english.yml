@@ -91,7 +91,7 @@
  center_of_revolution.8.desc: "Wywrotowe ideały rewolucji w państwie [revolution_target.GetName] opanowały prowincję [revolutionary_province.GetName], wypaczając naturalny porządek rzeczy. Jednak prawomyślni członkowie szlachty nie zaakceptują takiego stanu rzeczy bez walki. Zebrali swoje siły i obiecali wypędzić rewolucjonistów z tej prowincji, jeśli tylko udzielimy im naszego wsparcia."
  center_of_revolution.8.A: "Otrzymają nasze wsparcie."
  center_of_revolution.8.B: "Nie będziemy wtrącać się w lokalny samorząd."
- center_of_revolution.9.name: "Reakcjoniści w prowincji  [reactionary_province.GetName]!"
+ center_of_revolution.9.name: "Reakcjoniści w prowincji [reactionary_province.GetName]!"
  center_of_revolution.9.desc: "Zwolennicy starego reżimu w prowincji [reactionary_province.GetName] ujawnili się jako wrogowie ludu. W skrupulatnie zaplanowanej konspiracji pokonali członków lokalnej milicji i zdołali aresztować naszych zarządców pod fałszywymi zarzutami. Teraz twierdzą, że ich obowiązkiem jest poprowadzenie ludzi z prowincji [reactionary_province.GetName] przez te niespokojne czasy, chroniąc ich przed najgorszymi ekscesami rewolucyjnego rządu. Jak powinniśmy sobie z nimi poradzić?"
  center_of_revolution.9.A: "Zmiażdżymy tych wrogów ludu!"
  center_of_revolution.9.B: "Nie są godni naszej uwagi."
