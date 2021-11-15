@@ -406,7 +406,7 @@
  flavor_hun.13.a: "Deus vult!"
  flavor_hun.13.b: "[From.Monarch.GetName] jest prawowitym władcą..."
  flavor_hun.14.t: "Wybory w Ołomuńcu"
- flavor_hun.14.d: "[From.Monarch.GetTitle] z państwa [From.GetName] otrzymał prośbę o ochronę od zdesperowanych katolickich rebeliantów. [From.Monarch.GetName]  został wybrany przez katolickie prowincje jako nowy [From.Monarch.GetTitle] i z niecierpliwością czekają na przybycie armii [From.GetAdjective].\nPozostałe prowincje pozostają lojalne wobec prawowitego władcy, którym jest  [Root.Monarch.GetName] i potępiają działania katolickich intruzów."
+ flavor_hun.14.d: "[From.Monarch.GetTitle] z państwa [From.GetName] otrzymał prośbę o ochronę od zdesperowanych katolickich rebeliantów. [From.Monarch.GetName] został wybrany przez katolickie prowincje jako nowy [From.Monarch.GetTitle] i z niecierpliwością czekają na przybycie armii [From.GetAdjective].\nPozostałe prowincje pozostają lojalne wobec prawowitego władcy, którym jest  [Root.Monarch.GetName] i potępiają działania katolickich intruzów."
  flavor_hun.14.a: "Zdrada stanu!"
  flavor_hun.15.t: "Bandytyzm na Górnych Węgrzech"
  flavor_hun.15.d: "W następstwie krucjaty o Warnę, wojen husyckich, wewnętrznych walk na Węgrzech w latach trzydziestych i czterdziestych XIX wieku, wielu wysoko wykwalifikowanych najemników straciło pracę. Ci ludzie, niezdolni do zarabiania na życie w inny sposób, postanowili zbić fortunę poprzez bandytyzm i grabież. W niektórych przypadkach miejscowa szlachta dołączyła do wichrzycieli i wydaje się, że mają nadzieję na wykorzystanie tych żołnierzy do poszerzenia swojej władzy.\nNie ma wątpliwości, że powstanie zostanie z czasem pokonane przez nasze lokalne siły, ale może się to wiązać ze znacznymi kosztami dla lokalnej gospodarki."
