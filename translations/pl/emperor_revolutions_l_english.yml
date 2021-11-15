@@ -100,7 +100,7 @@
  center_of_revolution.10.A: "Otrzymają nasze wsparcie."
  center_of_revolution.10.B: "Nie powinniśmy ingerować w sprawy [neighbour_country.GetAdjective]."
  center_of_revolution.11.name: "Przewrót w [province_to_revolution.GetName]"
- center_of_revolution.11.desc: "Niebezpieczni idealiści opowiadający się za rewolucyjnymi ideami przejęli kontrolę nad prowincją [provincia_to_revolution.GetName], wypędzając lub wykonując egzekucję naszych administratorach, którzy nie przysięgli wierności ich sprawie. Świadkowie twierdzą, że wśród nich byli dobrze znani rewolucjoniści z [From.GetAdjective], chociaż delegat [From.GetAdjective] w mieście [Root.Capital.GetCapitalName] zaprzecza jakiejkolwiek wiedzy o wsparciu zamachu stanu."
+ center_of_revolution.11.desc: "Niebezpieczni idealiści opowiadający się za rewolucyjnymi ideami przejęli kontrolę nad prowincją [province_to_revolution.GetName], wypędzając lub wykonując egzekucję naszych administratorach, którzy nie przysięgli wierności ich sprawie. Świadkowie twierdzą, że wśród nich byli dobrze znani rewolucjoniści z [From.GetAdjective], chociaż delegat [From.GetAdjective] w mieście [Root.Capital.GetCapitalName] zaprzecza jakiejkolwiek wiedzy o wsparciu zamachu stanu."
  center_of_revolution.11.A: "Nie będziemy tego tolerować."
  opinion_revolutionary_coup_in_our_province: "Wspieranie rewolucjonistów w naszym kraju"
  opinion_non_intervention: "Nieinterwencjonizm"
