@@ -1,7 +1,7 @@
 ﻿l_english:
  insult_default: "Twoja matka była chomikiem, a twój ojciec śmierdział skisłymi jagodami!"
  insult_default2: "Nadszedł dzień sądu! Stworzenia Lucyfera chodzą po Ziemi! A nie, to tylko mieszkańcy [Root.GetAdjective]."
- insult_default3: "Ponadto, wierzę że państwo [Root.GetCapital.GetName] musi zostać zniszczone!"
+ insult_default3: "Ponadto, wierzę że państwo [Root.Capital.GetCapitalName] musi zostać zniszczone!"
  insult_default4: "Kiedy przyszłe pokolenia będą czytały o naszych czasach, spojrzą na ciebie z tą mieszanką litości i obrzydzenia zwaną współczuciem."
  insult_default5: "Moja ostatnia wizyta w toalecie była przyjemniejsza niż kolacja z ambasadorem [Root.GetAdjective]."
  insult_default6: "O, spójrz. Tu jest trochę brudu!"
