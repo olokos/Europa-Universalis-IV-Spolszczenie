@@ -361,7 +361,7 @@
  order_events.7.a: "Jeśli to pomoże im nawracać heretyków, pozwolimy im na to."
  order_events.7.b: "Nie mają prawa mówić, gdzie Kościół potrzebuje reformy."
  order_events.8.t: "Misja jezuicka w koloniach"
- order_events.8.d: "Towarzystwo Jezusowe zawsze było aktywne w pracy misyjnej i jest już obecne w kolonii [Root.GetAdjective] w prowincji [jesuit_mission_origin.GetName]. Teraz są pewni, że mają wszystkie zasoby, których potrzebują w obecnej kolonii, i chcą założyć nową misję w pobliżu. Z naszym błogosławieństwem i obietnicą pomocy w ich przyszłych wysiłkach, wierzą, że mają już wystarczająco dużo ludzi, aby położyć znaczące fundamenty na tej nieokiełznanej ziemi, zarówno dla  [Root.GetAdjective] jak i dla wiary katolickiej."
+ order_events.8.d: "Towarzystwo Jezusowe zawsze było aktywne w pracy misyjnej i jest już obecne w kolonii [Root.GetAdjective] w prowincji [jesuit_mission_origin.GetName]. Teraz są pewni, że mają wszystkie zasoby, których potrzebują w obecnej kolonii, i chcą założyć nową misję w pobliżu. Z naszym błogosławieństwem i obietnicą pomocy w ich przyszłych wysiłkach, wierzą, że mają już wystarczająco dużo ludzi, aby położyć znaczące fundamenty na tej nieokiełznanej ziemi, zarówno dla [Root.GetAdjective] jak i dla wiary katolickiej."
  order_events.8.a: "Chwalebna inicjatywa."
  order_events.8.b: "Powinni pozostać w prowincji [jesuit_mission_origin.GetName]."
  order_events.8.c: "Powinni skupić swoje wysiłki na naszych już istniejących koloniach."
