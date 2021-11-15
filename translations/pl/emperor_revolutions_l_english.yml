@@ -83,7 +83,7 @@
  opinion_refused_to_fund_independence_war: "Odmówił wsparcia finansowego wojny o niepodległość"
  revolutionary_sentiment: "Nastroje rewolucujne"
  center_of_revolution.7.name: "Byli rewolucjoniści powracają do łask"
- center_of_revolution.7.desc.is_former_target: "Po niepowodzeniu rewolucji, którzy nigdy tak naprawdę nie utożsamiali się z jej celami, ponownie dali o sobie znać. Pomimo że spory ideologiczne z pewnością będą dręczyć nasz naród jeszcze przez wiele lat, ale przynajmniej  rewolucyjny zapał prowincji powoli słabnie."
+ center_of_revolution.7.desc.is_former_target: "Po niepowodzeniu rewolucji, którzy nigdy tak naprawdę nie utożsamiali się z jej celami, ponownie dali o sobie znać. Pomimo że spory ideologiczne z pewnością będą dręczyć nasz naród jeszcze przez wiele lat, ale przynajmniej rewolucyjny zapał prowincji powoli słabnie."
  center_of_revolution.7.desc.former_target_exists: "Wraz z niepowodzeniem rewolucji w państwie [former_revolutionary_country.GetName], rewolucyjny zapał ludności w obszarze [revolutionary_province.GetAreaName] nieco osłabł. Ci, którzy chcieli zmienić system, niechętnie pogodzili się z wizją życia w państwie o ustroju [Root.GovernmentName]."
  center_of_revolution.7.desc.no_former_target: "Po całkowitej klęsce tych, którzy starali się doprowadzić do rewolucji, rewolucyjny zapał ludności w obszarze [revolutionary_province.GetAreaName] nieco osłabł.  Niechętnie pogodzili się z wizją życia w państwie o ustroju [Root.GovernmentName]."
  center_of_revolution.7.A: "Przywrócony został naturalny porządek rzeczy."
