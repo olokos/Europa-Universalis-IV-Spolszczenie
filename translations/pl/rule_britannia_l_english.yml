@@ -52,7 +52,7 @@
  industrialization_events.3.a: "Czu-czu."
  industrialization_events.3.a.tt: "W prowincjach częściej występują wydarzenia industrializacyjne."
  industrialization_events.4.t: "Pług obrotowy"
- industrialization_events.4.d: "Eksperymentując z nowymi kształtami i pokrytą żelazem odkładnicą, lokalny wynalazca z prowincji [Invent_province.GetName], [Root.inventor_name.GetName], stworzył znacznie lżejszy pług, który jest łatwiejszy i wydajniejszy w użyciu. Wraz z innymi niedawnymi wynalazkami z zakresu narzędzi rolniczych nowy pług zapowiada znaczny wzrost produktywności rolnictwa w naszym kraju."
+ industrialization_events.4.d: "Eksperymentując z nowymi kształtami i pokrytą żelazem odkładnicą, lokalny wynalazca z prowincji [invention_province.GetName], [Root.inventor_name.GetName], stworzył znacznie lżejszy pług, który jest łatwiejszy i wydajniejszy w użyciu. Wraz z innymi niedawnymi wynalazkami z zakresu narzędzi rolniczych nowy pług zapowiada znaczny wzrost produktywności rolnictwa w naszym kraju."
  industrialization_events.4.a: "Cudownie."
  industrialization_events.4.a.tt: "W prowincjach częściej występują wydarzenia industrializacyjne."
  industrialization_events.5.t: "Czółenko szybkobieżne"
