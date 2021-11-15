@@ -60,7 +60,7 @@
  industrialization_events.5.a: "Gdyby tylko nasze przędzalnie nadążały ..."
  industrialization_events.5.a.tt: "W prowincjach produkujących §Ywełnęl§!, §Ysukno§!, §Yjedwab§! lub §Ybawełnę§! częściej występują wydarzenia industrializacyjne."
  industrialization_events.6.t: "Przędąca joasia"
- industrialization_events.6.d: "Głównym ograniczeniem wydajności tkania od dawna jest szybkość, z jaką można prząść nić. Jeszcze przed wprowadzeniem czółenka szybkobieżnego aby zaspokoić potrzeby jednego tkacza potrzebne były cztery przędzarki. Aby pokonać tę przeszkodę, [Root.inventor_name.GetName], wynalazca z prowincji  [invention_province.GetName], opracował maszynę pozwalającą jednemu pracownikowi wykonywać pracę wielu przędzarek. Wraz z czółenkiem szybkobieżnym maszyna ta obiecuje znacznie poprawić wydajność tkania w najbliższej przyszłości."
+ industrialization_events.6.d: "Głównym ograniczeniem wydajności tkania od dawna jest szybkość, z jaką można prząść nić. Jeszcze przed wprowadzeniem czółenka szybkobieżnego aby zaspokoić potrzeby jednego tkacza potrzebne były cztery przędzarki. Aby pokonać tę przeszkodę, [Root.inventor_name.GetName], wynalazca z prowincji [invention_province.GetName], opracował maszynę pozwalającą jednemu pracownikowi wykonywać pracę wielu przędzarek. Wraz z czółenkiem szybkobieżnym maszyna ta obiecuje znacznie poprawić wydajność tkania w najbliższej przyszłości."
  industrialization_events.6.a: "Fantastycznie!"
  industrialization_events.6.a.tt: "W prowincjach produkujących §Ywełnęl§!, §Ysukno§!, §Yjedwab§! lub §Ybawełnę§! częściej występują wydarzenia industrializacyjne."
  industrialization_events.7.t: "Kanały i autostrady"
