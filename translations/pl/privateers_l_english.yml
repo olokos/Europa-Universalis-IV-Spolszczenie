@@ -46,7 +46,7 @@
  privateers.7.b: "To szantaż. Nie będziemy robić interesów z piratami."
  privateers.7.b.tt: "Piraci zwrócą się z propozycją do [This.Monarch.GetTitle] kraju o nazwie [This.GetName]."
  privateers.8.t: "Piraci szukają sojusznika"
- privateers.8.d: "Naszych korsarzy zaczepiła ostatnio grupa piratów, którzy prosili o wsparcie  [Root.GetAdjective] w napadach i rabunkach. Udzielenie takiego poparcia będzie oczywiście oznaczać, że nasze statki nie będą przez nich atakowane. Najwyraźniej są wyjątkowo zainteresowani szlakiem handlowym [From.GetName], ponieważ [From.Monarch.GetTitle] [From.GetAdjective] otrzymał podobną ofertę, ale została ona odrzucona, a piraci znieważeni."
+ privateers.8.d: "Naszych korsarzy zaczepiła ostatnio grupa piratów, którzy prosili o wsparcie [Root.GetAdjective] w napadach i rabunkach. Udzielenie takiego poparcia będzie oczywiście oznaczać, że nasze statki nie będą przez nich atakowane. Najwyraźniej są wyjątkowo zainteresowani szlakiem handlowym [From.GetName], ponieważ [From.Monarch.GetTitle] [From.GetAdjective] otrzymał podobną ofertę, ale została ona odrzucona, a piraci znieważeni."
  privateers.8.a: "Nie mamy zastrzeżeń. Mogą uważać się za naszych korsarzy."
  privateers.8.b: "[From.Monarch.GetTitle] [From.Monarch.GetName] słusznie sprzeciwił się takiemu nękaniu uczciwych handlarzy."
  privateers.9.t: "Pojmani handlarze niewolnikami"
