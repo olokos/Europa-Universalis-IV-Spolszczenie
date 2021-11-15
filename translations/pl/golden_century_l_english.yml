@@ -372,7 +372,7 @@
  order_events.9.c: "Odmówić opowiedzenia się po którejś ze stron i pozostaw to teologom."
  order_events.9.e: "Poproś [Root.GetAdv_Adm_acc] o radę, aby rozwiązać problem w ugodowy sposób."
  ADD_FLAGSHIP_EFFECT: "Tworzy nowy okręt flagowy typu $TYPE|Y$ nazywający się \"$NAME|Y$\" w prowincji $PROV|Y$."
- ADD_NAMED_SHIP_EFFECT: "Tworzy nowy okręt typu $TYPE|Y$  nazywający się \"$NAME|Y$\" w prowincji $PROV|Y$."
+ ADD_NAMED_SHIP_EFFECT: "Tworzy nowy okręt typu $TYPE|Y$ nazywający się \"$NAME|Y$\" w prowincji $PROV|Y$."
  MODIFIER_GLOBAL_NAVAL_BARRAGE_COST: "Koszt ostrzału morskiego"
  flavor_nav.1.t: "Terra Nova"
  flavor_nav.1.d: "Statek wypełniony baskijskimi wielorybnikami i ich rodzinami zakotwiczył przy odległym brzegu krainy, którą nazywamy Terra Nova; Nowy Świat. Finansowani z funduszy [Root.GetRulerGen], mają za zadanie założyć kolonię na tej mroźnej północnej wyspie.\n\nW Nawarze, Królestwo nadal zmaga się z niebezpieczeństwami bycia małym narodem na łasce wielkich potęg, które je otaczają. Są tacy, którzy zastanawiają się, czy nie uciec od naszych kłopotów, porzucając ziemie naszych przodków i zakładając nowy dom dla naszych ludzi w Terra Nova."
