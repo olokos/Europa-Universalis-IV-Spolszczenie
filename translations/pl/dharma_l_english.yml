@@ -413,7 +413,7 @@
  ENACT_REFORM_NOT_ENOUGH_PROGRESS: "§RNiewystarczający poziom postępu reformy rządowej, aby wprowadzić tę reformę.§!"
  ENACT_PREVIOUS_LEVEL_BEFORE: "§RPrzed uchwaleniem tej reformy musisz uchwalić wcześniejsze reformy.§!"
  VACANT_REFORM_DESC: "Możesz wybrać tę reformę rządową bez żadnych kosztów, co da następujące korzyści:\n$BENEFITS$"
- CHANGE_REFORM_DESC: "Zmiana na reformę rządową $REFORM|Y$ usunie $COST|R$  postępu reformy rządowej i zapewni następujące korzyści:\n$BENEFITS$"
+ CHANGE_REFORM_DESC: "Zmiana na reformę rządową $REFORM|Y$ usunie $COST|R$ postępu reformy rządowej i zapewni następujące korzyści:\n$BENEFITS$"
  CHANGE_REFORM_POTENTIAL: "\nPamiętaj, że ta reforma jest dostępna tylko pod warunkiem spełnienia następujących warunków:\n$CONDITIONS$"
  NO_MANUAL_CHANGE: "Tej reformy nie można wybrać ręcznie."
  CHANGE_REFORM_CONFIRM_DESC: "Czy na pewno chcesz zmienić reformę rządową: $REFORM|Y$ kosztującą $COST|Y$ postępu reformy rządowej i zapewni to następujące korzyści:\n$BENEFITS$"
