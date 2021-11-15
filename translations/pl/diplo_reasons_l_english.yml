@@ -14,7 +14,7 @@
  DIPLO_MULTI_WARS: "Zostanie wezwane do udziału w wojnach: "
  DIPLO_FIGHTING_OTHER_WAR: "Toczy inne wojny: "
  DIPLO_POSITIVE: "Pozytywny: $VAL|G$"
- DIPLO_NEGATIVE: "Negatywny:  $VAL|R$"
+ DIPLO_NEGATIVE: "Negatywny: $VAL|R$"
  DIPLO_UNSTABLE: "Kraj jest zbyt niestabilny: "
  DIPLO_ALLIANCE_IS_BREAKING: "Kraj nie chce już, by kraj $WHO$ był jego sojusznikiem:  "
  DIPLO_BLOCKED_OFFENSIVE_CALLS: "Kraj $THEM$ nie chce dołączyć do naszej wojny napastniczej: "
