@@ -98,7 +98,7 @@
  russian_principality_events.7.b: "Nie wyłączymy tych ziem spod naszego prawa."
  russian_principality_events.8.t: "Umiera posiadacz ziemski"
  russian_principality_events.8.da: "Książę z [Root.GetAdjective] zmarł, a [Root.Monarch.GetName] opłakuje stratę brata. Jako obecny [Root.Monarch.GetTitle] powinniśmy teraz dokonać redystrybucji ziem, które zmarły posiadał jako apanaż. Nasi pozostali bracia bez wątpienia będą oczekiwać, że dostaną część ziemi, ale my możemy spróbować wykorzystać tę okazję do powiększenia naszych własnych ziem..."
- russian_principality_events.8.db: "Książę z [brothers_appanage.GetAdjective] zmarł, a [Root.Monarcha.GetName] opłakuje stratę brata. Jako obecny [Root.Monarcha.GetTitle] powinniśmy teraz dokonać redystrybucji ziem, które do tej pory były własnością zmarłego. . Nasi pozostali bracia bez wątpienia będą oczekiwać, że dostaną część ziemi, ale my możemy spróbować wykorzystać tę okazję do powiększenia naszych własnych ziem..."
+ russian_principality_events.8.db: "Książę z [brothers_appanage.GetAdjective] zmarł, a [Root.Monarch.GetName] opłakuje stratę brata. Jako obecny [Root.Monarch.GetTitle] powinniśmy teraz dokonać redystrybucji ziem, które do tej pory były własnością zmarłego. . Nasi pozostali bracia bez wątpienia będą oczekiwać, że dostaną część ziemi, ale my możemy spróbować wykorzystać tę okazję do powiększenia naszych własnych ziem..."
  russian_principality_events.8.a: "Skonfiskujmy tę ziemię dla siebie."
  russian_principality_events.8.b: "Powinniśmy skonfiskować tę ziemię dla siebie."
  russian_principality_events.8.c: "Musimy zapewnić sobie wsparcie ze strony naszych braci."
