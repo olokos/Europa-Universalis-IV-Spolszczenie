@@ -68,7 +68,7 @@
  industrialization_events.7.a: "Godny cel, będą mieli nasz patronat!"
  industrialization_events.7.b: "Wspaniała inicjatywa, ale państwo nie da rady ich wesprzeć."
  industrialization_events.8.t: "Usprawnienie siewu"
- industrialization_events.8.d: "Biorąc sobie do serca lekcje oświecenia, grupa szlachetnych właścicieli ziemskich zaczęła pracować nad poprawą wydajności rolnictwa. Pionierskie wynalazki w zakresie wykorzystania maszyn do dystrybucji nasion, nowych upraw, nowych form płodozmianu i hodowli, właściciele ziemscy z prowincji  [agricultural_province.GetName] byli w stanie znacznie poprawić lokalną produkcję żywności."
+ industrialization_events.8.d: "Biorąc sobie do serca lekcje oświecenia, grupa szlachetnych właścicieli ziemskich zaczęła pracować nad poprawą wydajności rolnictwa. Pionierskie wynalazki w zakresie wykorzystania maszyn do dystrybucji nasion, nowych upraw, nowych form płodozmianu i hodowli, właściciele ziemscy z prowincji [agricultural_province.GetName] byli w stanie znacznie poprawić lokalną produkcję żywności."
  industrialization_events.8.a: "Wspaniały przykład dla innych."
  industrialization_events.9.t: "Rozwój gospodarczy"
  industrialization_events.9.d: "Wykorzystując najnowsze innowacje technologiczne w dziedzinie maszyn, lokalni przedsiębiorcy zaczęli znacznie poprawiać swoją produkcję w prowincji  [industrialization_province.GetName]. W rezultacie wielu ludzi podróżuje teraz do prowincji z okolicznych wsi, szukając nowej pracy w rozwijającym się mieście [industrialization_province.GetCapitalName]."
