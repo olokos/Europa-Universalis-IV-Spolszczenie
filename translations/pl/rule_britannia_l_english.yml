@@ -64,7 +64,7 @@
  industrialization_events.6.a: "Fantastycznie!"
  industrialization_events.6.a.tt: "W prowincjach produkujących §Ywełnęl§!, §Ysukno§!, §Yjedwab§! lub §Ybawełnę§! częściej występują wydarzenia industrializacyjne."
  industrialization_events.7.t: "Kanały i autostrady"
- industrialization_events.7.d: "Złe drogi od dawna są czynnikiem ograniczającym wzrost gospodarczy w prowincji  [industrial_province.GetName], poważnie utrudniając przepływ towarów, ludzi i kapitału. Szukając innych obszarów, lokalni przedsiębiorcy zaczęli wprowadzać płatne drogi, aby opłacić konserwację, a plany budowy kanałów transportowych są dalekie od ukończenia."
+ industrialization_events.7.d: "Złe drogi od dawna są czynnikiem ograniczającym wzrost gospodarczy w prowincji [industrial_province.GetName], poważnie utrudniając przepływ towarów, ludzi i kapitału. Szukając innych obszarów, lokalni przedsiębiorcy zaczęli wprowadzać płatne drogi, aby opłacić konserwację, a plany budowy kanałów transportowych są dalekie od ukończenia."
  industrialization_events.7.a: "Godny cel, będą mieli nasz patronat!"
  industrialization_events.7.b: "Wspaniała inicjatywa, ale państwo nie da rady ich wesprzeć."
  industrialization_events.8.t: "Usprawnienie siewu"
