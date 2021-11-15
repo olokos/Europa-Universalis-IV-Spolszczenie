@@ -5017,7 +5017,7 @@
  totemism_flavor.17.t: "Duchowe nauczanie"
  totemism_flavor.17.d: "Nasz[Root.Monarch.GetANoun] [Root.Monarch.GetTitle] [Root.Monarch.GetName] wielokrotnie czuł[Root.Monarch.GetANoun] potrzebę poszerzenia swojej wiedzy w sprawach duchowych, aby być lepszym przywódcą dla naszego ludu. Mając to na uwadze, [Root.Monarch.GetSheHe] zwrócił[Root.Monarch.GetANoun] się do naszych najmądrzejszych starszych z prośbą o oddanie się pod ich mądrą opiekę."
  totemism_flavor.17.a: "[Root.Monarch.GetName]  z pewnością na tym skorzysta."
- totemism_flavor.17.b: "Nasza starszyzna wyraziła swoje obawy co do osobowości [Root.GetRulerGen}."
+ totemism_flavor.17.b: "Nasza starszyzna wyraziła swoje obawy co do osobowości [Root.GetRulerGen]."
  totemism_flavor.17.c: "Zobaczymy, jak to będzie..."
  tot_dedicated_ruler: "Oddany władca"
  desc_tot_dedicated_ruler: "Nasz władca włożył wiele wysiłku w zrozumienie duchowości."
