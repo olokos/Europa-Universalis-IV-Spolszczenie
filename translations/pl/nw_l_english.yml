@@ -25,7 +25,7 @@
  SUBJECT_DISLOYAL_INCOME_DESC: "Nielojalni poddani odmówią płacenia nam podatków i cła."
  SUBJECT_ARMY_SIZE: "Nasz cel posiada armie składającą się z §Y$NUM$§! regimentów. Nasza armia składa się z §Y$LORD_NUM$§! regimentów."
  SUBJECT_ARMY_SIZE_DESC: "Podległe państwo które ma armię większą niż senior będzie bardziej skłonne do buntu. "
- SUBJECT_TP_FROM_PROT: "Daje następującą ilość  §Ysiły handlowa§! w wymienionych węzłach."
+ SUBJECT_TP_FROM_PROT: "Daje następującą ilość §Ysiły handlowa§! w wymienionych węzłach."
  UNION_BREAK_OPINION: "Unia rozpadnie się, jeżeli opinia poddanego o jego suwerenie spadnie poniżej §Y$LIMIT$§! (obecnie: $CURRENT$)."
  UNION_BREAK_PRESTIGE: "Unia rozpadnie się, jeżeli prestiż suwerena spadnie poniżej §Y$LIMIT$§! (obecnie: $CURRENT$)."
  PROTECTORATE_LEAD: "Jest protektorem państw znanych jako $LIST$"
