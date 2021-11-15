@@ -672,7 +672,7 @@
  EDIT_TEAM: "Edytuj drużynę"
  JOIN_TEAM: "Dołącz do drużyny"
  FROM_CENTER_OF_TRADE: "$COT$"
- COT_EFFECT: "Stwórz  centrum handlowe poziomu $LEVEL|Y$ w $PROVINCE|G$\n"
+ COT_EFFECT: "Stwórz centrum handlowe poziomu $LEVEL|Y$ w $PROVINCE|G$\n"
  COT_ADD_LEVEL_EFFECT: "Poziom centrum handlowego w prowincji $PROVINCE|Y$ zwiększył się o $DELTA|Y$\n"
  COT_REMOVE_LEVEL_EFFECT: "Centrum handlowe w $PROVINCE|Y$ zmniejszyło się o $DELTA|Y$\n"
  COT_COASTAL: "Nadmorskie"
