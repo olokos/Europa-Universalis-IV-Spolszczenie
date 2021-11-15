@@ -95,7 +95,7 @@
  MIGRATE_REASON_SEA: "Nie jest możliwym migrowanie do morskiej prowincji"
  MIGRATE_REASON_POSSIBLE: "Możemy migrować do $PROVINCE$."
  MODIFIER_NATIVE_ADVANCEMENT_COST: "Koszt rozwoju narodowego"
- WHEN_GROUPS_FILLED: "Kiedy wszystkie z $MAX|Y$ grup rozwoju zostaną odblokowane, będziesz w stanie zmienić rodzaj rządu. Jak dotąd  $UNLOCKED|Y$ z grup zostało odblokowanych."
+ WHEN_GROUPS_FILLED: "Kiedy wszystkie z $MAX|Y$ grup rozwoju zostaną odblokowane, będziesz w stanie zmienić rodzaj rządu. Jak dotąd $UNLOCKED|Y$ z grup zostało odblokowanych."
  MAPMODE_COLONIALANDTRADECOMPANYREGIONS: "Regiony kolonialne i handl."
  MAPMODE_COLONIALANDTRADECOMPANYREGIONS_DESC: "Regiony, w których mogą powstawać państwa kolonijne i kompanie handlowe."
  NOT_IN_FEDERATION: "$NAME$ nie jest członkiem federacji"
