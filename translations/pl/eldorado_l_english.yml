@@ -987,7 +987,7 @@
  inti_events.25.d: "Po kilku dniach postu i abstynencji przyszedł czas na święto słońca. Ludność stolicy przygotowuje się do wielkich ceremonii, podczas których wita się słońce i składa ofiary ze zwierząt. Czeka ich kilka dni ucztowania."
  inti_events.25.a: "Rozumiem."
  inti_events.26.t: "Święto Inti Raymi"
- inti_events.26.d: "Po kilku dniach postu i abstynencji przyszedł czas na święto słońca. Skwery stolicy [From.Capital.GetCapitalName]  są wypełnione po brzegi, gdy rozpoczynają się ceremonie powitania słońca, a ludzie z naszego dworu i wielu wodzów pod naszymi rządami składają ofiary ze zwierząt i innych darów. Czeka nas teraz kilka dni ucztowania i prezentów, które nasz [Root.Monarch.GetTitle] daje swoim poddanym."
+ inti_events.26.d: "Po kilku dniach postu i abstynencji przyszedł czas na święto słońca. Skwery stolicy [From.Capital.GetCapitalName] są wypełnione po brzegi, gdy rozpoczynają się ceremonie powitania słońca, a ludzie z naszego dworu i wielu wodzów pod naszymi rządami składają ofiary ze zwierząt i innych darów. Czeka nas teraz kilka dni ucztowania i prezentów, które nasz [Root.Monarch.GetTitle] daje swoim poddanym."
  inti_events.26.a: "Rozumiem."
  inti_events.27.t: "Święto Inti Raymi"
  inti_events.27.d: "Po kilku dniach postu i abstynencji przyszedł czas na święto słońca. Skwery stolicy są wypełnione po brzegi, gdy rozpoczynają się ceremonie powitania słońca, a ludzie z naszego dworu, wielu wodzów pod naszymi rządami i dużo idoli Huaca z naszych ziem składają ofiary ze zwierząt i innych darów. Czeka nas teraz kilka dni ucztowania i prezentów, które nasz [Root.Monarch.GetTitle] daje swoim poddanym."
