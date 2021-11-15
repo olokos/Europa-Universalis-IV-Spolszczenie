@@ -73,7 +73,7 @@
  more_flavor_por.EVTOPTA1: "Zezwól im na zwierzchnictwo nad Makau."
  more_flavor_por.EVTOPTB1: "Tym cudzoziemcom nie można ufać."
  more_flavor_por.EVTNAME2: "Zakup Makau"
- more_flavor_por.EVTDESC2: "Będąc pod wrażeniem naszych wysiłków na rzecz zwalczania piractwa na Morzu Południowochińskim, [From.Monarch.GetTitle] kraju [From.GetName] łaskawie pozwolił społeczności kupieckiej z  [Root.GetAdjective] na osiedlenie się w Makau w zamian za odpowiednią zapłatę w srebrnych taeli. Rzadka okazja do otwartego handlu w Chinach z pewnością będzie niezwykle opłacalna."
+ more_flavor_por.EVTDESC2: "Będąc pod wrażeniem naszych wysiłków na rzecz zwalczania piractwa na Morzu Południowochińskim, [From.Monarch.GetTitle] kraju [From.GetName] łaskawie pozwolił społeczności kupieckiej z [Root.GetAdjective] na osiedlenie się w Makau w zamian za odpowiednią zapłatę w srebrnych taeli. Rzadka okazja do otwartego handlu w Chinach z pewnością będzie niezwykle opłacalna."
  more_flavor_por.EVTOPTA2: "Nareszcie przyczółek w Chinach!"
  more_flavor_por.EVTNAME3: "Portugalczycy w Nagasaki"
  more_flavor_por.EVTDESC3: "Nie są nam obcy kupcy z Nanban, którzy próbują handlować w naszych portach. Naszą typową polityką jest wysyłanie ich w drogę z pustymi rękami. Ci Jezuici z [From.GetAdjective] mają jednak wyjątkowy i przekonujący argument; jako że [From.GetName] mają dostęp do portów Chin z ograniczonym dostępem, mogliby działać jako pośrednicy w handlu między Chinami a Japonią. W zamian musielibyśmy pozwolić ich księżom i kupcom na założenie stałej wspólnoty w Nagasaki, co mogłoby dać im niepokojący wpływ na sprawy japońskie."
