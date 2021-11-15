@@ -4463,7 +4463,7 @@
  flavor_mca.5.a: "Nadszedł czas na wspólne działanie."
  flavor_mca.5.b: "Tylko jedna osoba może władać ziemiami Czibcza!"
  flavor_mca.6.t: "Zjednoczenie Cziczbów"
- flavor_mca.6.d: "Wraz z rozwojem konfederacji Czibczów pod naszym przywództwem stary konflikt między Zake i Zipa nie wydaje się już mieć znaczenia. Faktem jest, że dzięki wielkiemu przywódcy jakim jest $MONARCH$ i jego przodkami w mieście  [Root.Capital.GetCapitalName] jest teraz niekwestionowanym centrum władzy na ziemiach Czibczów."
+ flavor_mca.6.d: "Wraz z rozwojem konfederacji Czibczów pod naszym przywództwem stary konflikt między Zake i Zipa nie wydaje się już mieć znaczenia. Faktem jest, że dzięki wielkiemu przywódcy jakim jest $MONARCH$ i jego przodkami w mieście [Root.Capital.GetCapitalName] jest teraz niekwestionowanym centrum władzy na ziemiach Czibczów."
  flavor_mca.6.a: "Wspaniale!"
  targeted_by_tamoyos: "Zaatakowanie przez Konfederację Tamoyo"
  tamoyo_target: "Wróg Konfederacji Tamoyo"
