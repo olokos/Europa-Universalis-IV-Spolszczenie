@@ -350,7 +350,7 @@
  flavor_boh.8.a: "Bóg będzie z nami!"
  flavor_boh.9.t: "Husycki [From.Monarch.GetTitle] w państwie [From.GetName]"
  flavor_boh.9.d: "Nowy [From.Monarch.GetTitle] zasiadł na tronie państwa [From.GetName]. Podobnie jak [From.Monarch.GetHerHis] poprzednicy [From.Monarch.GetTitle] [From.Monarch.GetName] zdecydowali się zachować heretycką wiarę husycką w otwartej obronie przed wszystkim, co właściwe. Kolegium Kardynałów określa to jako obrazę katolicyzmu i papieża [Root.Monarch.GetName]."
- flavor_boh.9.a: "Musimy potępić [From.Monarch.GetName] oraz  [From.Monarch.GetHerHis] dom."
+ flavor_boh.9.a: "Musimy potępić [From.Monarch.GetName] oraz [From.Monarch.GetHerHis] dom."
  flavor_boh.9.b: "Musimy szukać pojednania z [From.GetAdjective]."
  flavor_boh.10.t: "Papież potępia [Root.Monarch.GetName]"
  flavor_boh.10.d: " Nasz [Root.Monarch.GetTitle] za to, że sprzyja husyckim heretykom, został potępiony przez papieża."
