@@ -189,7 +189,7 @@
  pr_captains: "Kapitanowie"
  pr_captains_influence: "Wpływ kapitanów"
  pr_captains_FACTION_DESC: "Kapitanami statków pirackich zostawali często ci, którzy działali na własną rękę z chciwości, albo z motywów politycznych. Mieli oni doświadczenie, wykształcenie i charyzmę, aby przewodzić piratom.\n\n§YZyskaj wpływy dzięki Piractwu.§!"
- support_pr_captains_title: "Wspieraj  kapitanów"
+ support_pr_captains_title: "Wspieraj kapitanów"
  support_pr_captains_desc: ""
  PIRATE_REPUBLIC: "Republika Piratów"
  PIRATE_CONFEDERACY: "Konfederacja Piratów"
