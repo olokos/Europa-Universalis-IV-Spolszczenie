@@ -706,7 +706,7 @@
  ENFORCE_PEACE_NOT_WINNING_2: "Jeśli kraj przegrywa wojnę, nie można go zmusić do zawarcia pokoju. Muszą zdobyć co najmniej $VAL$ punktów wyniku wojny. "
  ENFORCE_PEACE_NOT_ATTACKER: "Nie możemy narzucić pokoju broniącemu się w wojnie, a to kraj $TARGET$ zaatakował państwo $WHO$."
  ENFORCEPEACE_LOW_RELATION: "Opinia państwa $WHO$ na twój temat musi wynosić co najmniej $NEED$, a na razie wynosi $VAL$."
- IS_IMPROVE_RELATIONS: "Poprawia stosunki  z państwem $WHO$."
+ IS_IMPROVE_RELATIONS: "Poprawia stosunki z państwem $WHO$."
  IS_NOT_IMPROVE_RELATIONS: "NIE poprawia stosunków z państwem $WHO$."
  DIP_FREE_IDEA: "Wolna idea: §Y$NAME$§!"
  DIP_FULL_IDEA: "Pełna grupa: §Y$NAME$§!"
