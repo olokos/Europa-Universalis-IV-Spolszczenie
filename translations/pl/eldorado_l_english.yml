@@ -1070,7 +1070,7 @@
  TREASURE_FLEET_TOOLTIP_CANT_REACH: "$COUNTRY$ nie może wysłać floty ze skarbami, ponieważ nasz główny węzeł handlowy $OURNODE|Y$ nie znajduje się poniżej ich głównego węzła handlowego $THEIRNODE|Y$."
  TREASURE_FLEET_TOOLTIP_CANT_REACH_DELAYED: "§RZamiast tego zachowają swój dochód.§!\n\nGdybyśmy przenieśli nasz główny węzeł handlowy do węzła poniżej ich głównego węzła handlowego, otrzymalibyśmy od nich floty ze skarbami."
  CANNOT_SACRIFICE_NO_ADULT: "§R- Można składać ofiary tylko z dorosłych monarchów i następców.§!"
- CANNOT_SACRIFICE_NO_HEIR: "§R-  Nie posiadają następcy którego można poświęcić!§!"
+ CANNOT_SACRIFICE_NO_HEIR: "§R- Nie posiadają następcy którego można poświęcić!§!"
  CANNOT_SACRIFICE_UNTIL: "§R- Niedawno złożono w ofierze władcę lub następcę, nie możemy złożyć w ofierze kolejnego władcy lub następcy przed §Y$DATE$§!.§!"
  SACRIFICE_RULER_DESC: "Poświęcenie §Y$TITLE$ $RULER$§! Bogom obniży naszą Zagładę o §G$AMT$§!, zmniejszy relacje o §R-100§! i zwiększ pragnienie wolności wszystkich naszych wasali o §R$LD_INC$%§!."
  SACRIFICE_HEIR_DESC: "Poświęcenie następcy państwa §Y$COUNTRY$§! Bogom obniży naszą Zagładę o §G$AMT$§!, zmniejszy relacje o §R-75§! i zwiększ pragnienie wolności wszystkich naszych wasali o §R$LD_INC$%§!."
