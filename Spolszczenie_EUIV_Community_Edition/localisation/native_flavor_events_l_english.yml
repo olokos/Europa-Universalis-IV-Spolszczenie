@@ -38,7 +38,7 @@
  native_americans.6.a:0 "Wybierz wodza wojennego spoœród doœwiadczonych weteranów."
  native_americans.6.b:0 "[Root.Monarch.GetName] to uzdolniony wódz, równie¿ w boju."
  native_americans.7.t:0 "Wybór wodza na czas pokoju"
- native_americans.7.d:0 "Po dowiedzeniu swojej wartoœci w boju, [Root.MonarchGetHerHis] obrano na wodza, aby przewodzi¾ naszym narodem w czasie wojny. Skoro wojna si² skoªczy³a, potrzebujemy teraz wodza, który wzrok si²ga poza pole bitwy i obejmuje potrzeby naszego narodu w czasie pokoju.\n\nWódz wojenny musi si² temu podporz¹dkowa¾, aby autorytet [Root.Monarch.GetHerHis] nie zosta³ naruszony. Tak ka¿e tradycja."
+ native_americans.7.d:0 "Po dowiedzeniu swojej wartoœci w boju, [Root.Monarch.GetHerHis] obrano na wodza, aby przewodzi¾ naszym narodem w czasie wojny. Skoro wojna si² skoªczy³a, potrzebujemy teraz wodza, który wzrok si²ga poza pole bitwy i obejmuje potrzeby naszego narodu w czasie pokoju.\n\nWódz wojenny musi si² temu podporz¹dkowa¾, aby autorytet [Root.Monarch.GetHerHis] nie zosta³ naruszony. Tak ka¿e tradycja."
  native_americans.7.a:0 "[Root.Monarch.GetName] musi odejœ¾. Zostanie wybrany wódz na czas pokoju."
  native_americans.7.b:0 "W³adza ochroni nasz naród. Nie istnieje coœ takiego jak czas pokoju!"
  native_americans.8.t:0 "Ci, którzy w²druj¹ oraz ci, którzy pozostaj¹"

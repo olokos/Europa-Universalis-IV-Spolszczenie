@@ -11,6 +11,19 @@ defined_text = {
 	name = GetClergyName_CL
 	random = no
 	text = {
+		localisation_key = string_estate_ogboni
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_estate_tengbiise
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
 		localisation_key = string_estate_monasteries
 		trigger = {
 			OR = {
@@ -30,6 +43,78 @@ defined_text = {
 		localisation_key = string_estate_brahmins
 		trigger = {
 			religion = hinduism
+		}
+	}
+	text = {
+		localisation_key = string_estate_pastors
+		trigger = {
+			OR = {
+				religion = protestant
+				religion = reformed
+			}
+		}
+	}
+	text = {
+		localisation_key = string_estate_popes
+		trigger = {
+			AND = {
+				religion = orthodox
+				OR = {
+					culture_group = east_slavic
+					culture_group = south_slavic
+					culture_group = west_slavic
+				}
+			}
+		}
+	}
+	text = {
+		localisation_key = string_estate_shamans
+		trigger = {
+			OR = {
+				religion = tengri_pagan_reformed
+			}
+		}
+	}
+	text = {
+		localisation_key = string_estate_gurus
+		trigger = {
+			religion = sikhism
+		}
+	}
+	text = {
+		localisation_key = string_estate_medicine_men
+		trigger = {
+			religion = totemism
+		}
+	}
+	text = {
+		localisation_key = string_estate_godar
+		trigger = {
+			religion = norse_pagan_reformed
+		}
+	}
+	text = {
+		localisation_key = string_estate_rabbis
+		trigger = {
+			religion = jewish
+		}
+	}
+	text = {
+		localisation_key = string_estate_mobeds
+		trigger = {
+			religion = zoroastrian
+		}
+	}
+	text = {
+		localisation_key = string_estate_kannushi
+		trigger = {
+			religion = shinto
+		}
+	}
+	text = {
+		localisation_key = string_estate_panacas
+		trigger = {
+			religion = inti
 		}
 	}
 	text = {
@@ -118,6 +203,25 @@ defined_text = {
 defined_text = {
 	name = GetNobilityName_CL
 	random = no
+	text = {
+		localisation_key = string_estate_oyo_mesi
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_estate_nakomse
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_estate_chieftains
+		trigger = {
+			has_reform = tribal_confederacy
+		}
+	}
 	text = {
 		localisation_key = string_estate_beys
 		trigger = {
@@ -267,6 +371,22 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_estate_warriors
+		trigger = {
+			OR = {
+				government = native
+				has_reform = siberian_tribe
+				has_reform = native_basic_reform
+			}
+		}
+	}
+	text = {
+		localisation_key = string_estate_mani
+		trigger = {
+			tag = KON
+		}
+	}
+	text = {
 		localisation_key = string_estate_nobles
 	}
 }
@@ -291,6 +411,12 @@ defined_text = {
 		trigger = {
 			tag = KOR
 			religion = confucianism
+		}
+	}
+	text = {
+		localisation_key = string_estate_pochteca
+		trigger = {
+			religion = nahuatl
 		}
 	}
 	text = {
@@ -366,6 +492,19 @@ defined_text = {
 	name = GetClergyName_gen
 	random = no
 	text = {
+		localisation_key = string_gen_estate_ogboni
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_tengbiise
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
 		localisation_key = string_gen_estate_monasteries
 		trigger = {
 			OR = {
@@ -385,6 +524,78 @@ defined_text = {
 		localisation_key = string_gen_estate_brahmins
 		trigger = {
 			religion = hinduism
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_pastors
+		trigger = {
+			OR = {
+				religion = protestant
+				religion = reformed
+			}
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_popes
+		trigger = {
+			AND = {
+				religion = orthodox
+				OR = {
+					culture_group = east_slavic
+					culture_group = south_slavic
+					culture_group = west_slavic
+				}
+			}
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_shamans
+		trigger = {
+			OR = {
+				religion = tengri_pagan_reformed
+			}
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_gurus
+		trigger = {
+			religion = sikhism
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_medicine_men
+		trigger = {
+			religion = totemism
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_godar
+		trigger = {
+			religion = norse_pagan_reformed
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_rabbis
+		trigger = {
+			religion = jewish
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_mobeds
+		trigger = {
+			religion = zoroastrian
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_kannushi
+		trigger = {
+			religion = shinto
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_panacas
+		trigger = {
+			religion = inti
 		}
 	}
 	text = {
@@ -473,6 +684,25 @@ defined_text = {
 defined_text = {
 	name = GetNobilityName_gen
 	random = no
+	text = {
+		localisation_key = string_gen_estate_oyo_mesi
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_nakomse
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_chieftains
+		trigger = {
+			has_reform = tribal_confederacy
+		}
+	}
 	text = {
 		localisation_key = string_gen_estate_beys
 		trigger = {
@@ -622,6 +852,22 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_gen_estate_warriors
+		trigger = {
+			OR = {
+				government = native
+				has_reform = siberian_tribe
+				has_reform = native_basic_reform
+			}
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_mani
+		trigger = {
+			tag = KON
+		}
+	}
+	text = {
 		localisation_key = string_gen_estate_nobles
 	}
 }
@@ -646,6 +892,12 @@ defined_text = {
 		trigger = {
 			tag = KOR
 			religion = confucianism
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_pochteca
+		trigger = {
+			religion = nahuatl
 		}
 	}
 	text = {
@@ -720,6 +972,19 @@ defined_text = {
 	name = GetClergyName_dat
 	random = no
 	text = {
+		localisation_key = string_dat_estate_ogboni
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_tengbiise
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
 		localisation_key = string_dat_estate_monasteries
 		trigger = {
 			OR = {
@@ -739,6 +1004,78 @@ defined_text = {
 		localisation_key = string_dat_estate_brahmins
 		trigger = {
 			religion = hinduism
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_pastors
+		trigger = {
+			OR = {
+				religion = protestant
+				religion = reformed
+			}
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_popes
+		trigger = {
+			AND = {
+				religion = orthodox
+				OR = {
+					culture_group = east_slavic
+					culture_group = south_slavic
+					culture_group = west_slavic
+				}
+			}
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_shamans
+		trigger = {
+			OR = {
+				religion = tengri_pagan_reformed
+			}
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_gurus
+		trigger = {
+			religion = sikhism
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_medicine_men
+		trigger = {
+			religion = totemism
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_godar
+		trigger = {
+			religion = norse_pagan_reformed
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_rabbis
+		trigger = {
+			religion = jewish
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_mobeds
+		trigger = {
+			religion = zoroastrian
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_kannushi
+		trigger = {
+			religion = shinto
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_panacas
+		trigger = {
+			religion = inti
 		}
 	}
 	text = {
@@ -827,6 +1164,25 @@ defined_text = {
 defined_text = {
 	name = GetNobilityName_dat
 	random = no
+	text = {
+		localisation_key = string_dat_estate_oyo_mesi
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_nakomse
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_chieftains
+		trigger = {
+			has_reform = tribal_confederacy
+		}
+	}
 	text = {
 		localisation_key = string_dat_estate_beys
 		trigger = {
@@ -976,6 +1332,22 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_dat_estate_warriors
+		trigger = {
+			OR = {
+				government = native
+				has_reform = siberian_tribe
+				has_reform = native_basic_reform
+			}
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_mani
+		trigger = {
+			tag = KON
+		}
+	}
+	text = {
 		localisation_key = string_dat_estate_nobles
 	}
 }
@@ -1000,6 +1372,12 @@ defined_text = {
 		trigger = {
 			tag = KOR
 			religion = confucianism
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_pochteca
+		trigger = {
+			religion = nahuatl
 		}
 	}
 	text = {
@@ -1075,6 +1453,19 @@ defined_text = {
 	name = GetClergyName_ins
 	random = no
 	text = {
+		localisation_key = string_ins_estate_ogboni
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_tengbiise
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
 		localisation_key = string_ins_estate_monasteries
 		trigger = {
 			OR = {
@@ -1094,6 +1485,78 @@ defined_text = {
 		localisation_key = string_ins_estate_brahmins
 		trigger = {
 			religion = hinduism
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_pastors
+		trigger = {
+			OR = {
+				religion = protestant
+				religion = reformed
+			}
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_popes
+		trigger = {
+			AND = {
+				religion = orthodox
+				OR = {
+					culture_group = east_slavic
+					culture_group = south_slavic
+					culture_group = west_slavic
+				}
+			}
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_shamans
+		trigger = {
+			OR = {
+				religion = tengri_pagan_reformed
+			}
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_gurus
+		trigger = {
+			religion = sikhism
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_medicine_men
+		trigger = {
+			religion = totemism
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_godar
+		trigger = {
+			religion = norse_pagan_reformed
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_rabbis
+		trigger = {
+			religion = jewish
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_mobeds
+		trigger = {
+			religion = zoroastrian
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_kannushi
+		trigger = {
+			religion = shinto
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_panacas
+		trigger = {
+			religion = inti
 		}
 	}
 	text = {
@@ -1182,6 +1645,25 @@ defined_text = {
 defined_text = {
 	name = GetNobilityName_ins
 	random = no
+	text = {
+		localisation_key = string_ins_estate_oyo_mesi
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_nakomse
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_chieftains
+		trigger = {
+			has_reform = tribal_confederacy
+		}
+	}
 	text = {
 		localisation_key = string_ins_estate_beys
 		trigger = {
@@ -1331,6 +1813,22 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_ins_estate_warriors
+		trigger = {
+			OR = {
+				government = native
+				has_reform = siberian_tribe
+				has_reform = native_basic_reform
+			}
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_mani
+		trigger = {
+			tag = KON
+		}
+	}
+	text = {
 		localisation_key = string_ins_estate_nobles
 	}
 }
@@ -1355,6 +1853,12 @@ defined_text = {
 		trigger = {
 			tag = KOR
 			religion = confucianism
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_pochteca
+		trigger = {
+			religion = nahuatl
 		}
 	}
 	text = {
@@ -1431,6 +1935,19 @@ defined_text = {
 	name = GetClergyName_CL_Cap
 	random = no
 	text = {
+		localisation_key = string_estate_ogboni_Cap
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_estate_tengbiise_Cap
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
 		localisation_key = string_estate_monasteries_Cap
 		trigger = {
 			OR = {
@@ -1450,6 +1967,78 @@ defined_text = {
 		localisation_key = string_estate_brahmins_Cap
 		trigger = {
 			religion = hinduism
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_pastors_Cap
+		trigger = {
+			OR = {
+				religion = protestant
+				religion = reformed
+			}
+		}
+	}
+	text = {
+		localisation_key = string_estate_popes_Cap
+		trigger = {
+			AND = {
+				religion = orthodox
+				OR = {
+					culture_group = east_slavic
+					culture_group = south_slavic
+					culture_group = west_slavic
+				}
+			}
+		}
+	}
+	text = {
+		localisation_key = string_estate_shamans_Cap
+		trigger = {
+			OR = {
+				religion = tengri_pagan_reformed
+			}
+		}
+	}
+	text = {
+		localisation_key = string_estate_gurus_Cap
+		trigger = {
+			religion = sikhism
+		}
+	}
+	text = {
+		localisation_key = string_estate_medicine_men_Cap
+		trigger = {
+			religion = totemism
+		}
+	}
+	text = {
+		localisation_key = string_estate_godar_Cap
+		trigger = {
+			religion = norse_pagan_reformed
+		}
+	}
+	text = {
+		localisation_key = string_estate_rabbis_Cap
+		trigger = {
+			religion = jewish
+		}
+	}
+	text = {
+		localisation_key = string_estate_mobeds_Cap
+		trigger = {
+			religion = zoroastrian
+		}
+	}
+	text = {
+		localisation_key = string_estate_kannushi_Cap
+		trigger = {
+			religion = shinto
+		}
+	}
+	text = {
+		localisation_key = string_estate_panacas_Cap
+		trigger = {
+			religion = inti
 		}
 	}
 	text = {
@@ -1538,6 +2127,25 @@ defined_text = {
 defined_text = {
 	name = GetNobilityName_CL_Cap
 	random = no
+	text = {
+		localisation_key = string_estate_oyo_mesi_Cap
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_estate_nakomse_Cap
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_estate_chieftains_Cap
+		trigger = {
+			has_reform = tribal_confederacy
+		}
+	}
 	text = {
 		localisation_key = string_estate_beys_Cap
 		trigger = {
@@ -1687,6 +2295,22 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_estate_warriors_Cap
+		trigger = {
+			OR = {
+				government = native
+				has_reform = siberian_tribe
+				has_reform = native_basic_reform
+			}
+		}
+	}
+	text = {
+		localisation_key = string_estate_mani_Cap
+		trigger = {
+			tag = KON
+		}
+	}
+	text = {
 		localisation_key = string_estate_nobles_Cap
 	}
 }
@@ -1711,6 +2335,12 @@ defined_text = {
 		trigger = {
 			tag = KOR
 			religion = confucianism
+		}
+	}
+	text = {
+		localisation_key = string_estate_pochteca_Cap
+		trigger = {
+			religion = nahuatl
 		}
 	}
 	text = {
@@ -1786,6 +2416,19 @@ defined_text = {
 	name = GetClergyName_gen_Cap
 	random = no
 	text = {
+		localisation_key = string_gen_estate_ogboni_Cap
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_tengbiise_Cap
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
 		localisation_key = string_gen_estate_monasteries_Cap
 		trigger = {
 			OR = {
@@ -1805,6 +2448,78 @@ defined_text = {
 		localisation_key = string_gen_estate_brahmins_Cap
 		trigger = {
 			religion = hinduism
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_pastors_Cap
+		trigger = {
+			OR = {
+				religion = protestant
+				religion = reformed
+			}
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_popes_Cap
+		trigger = {
+			AND = {
+				religion = orthodox
+				OR = {
+					culture_group = east_slavic
+					culture_group = south_slavic
+					culture_group = west_slavic
+				}
+			}
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_shamans_Cap
+		trigger = {
+			OR = {
+				religion = tengri_pagan_reformed
+			}
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_gurus_Cap
+		trigger = {
+			religion = sikhism
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_medicine_men_Cap
+		trigger = {
+			religion = totemism
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_godar_Cap
+		trigger = {
+			religion = norse_pagan_reformed
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_rabbis_Cap
+		trigger = {
+			religion = jewish
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_mobeds_Cap
+		trigger = {
+			religion = zoroastrian
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_kannushi_Cap
+		trigger = {
+			religion = shinto
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_panacas_Cap
+		trigger = {
+			religion = inti
 		}
 	}
 	text = {
@@ -1893,6 +2608,25 @@ defined_text = {
 defined_text = {
 	name = GetNobilityName_gen_Cap
 	random = no
+	text = {
+		localisation_key = string_gen_estate_oyo_mesi_Cap
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_nakomse_Cap
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_chieftains_Cap
+		trigger = {
+			has_reform = tribal_confederacy
+		}
+	}
 	text = {
 		localisation_key = string_gen_estate_beys_Cap
 		trigger = {
@@ -2042,6 +2776,22 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_gen_estate_warriors_Cap
+		trigger = {
+			OR = {
+				government = native
+				has_reform = siberian_tribe
+				has_reform = native_basic_reform
+			}
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_mani_Cap
+		trigger = {
+			tag = KON
+		}
+	}
+	text = {
 		localisation_key = string_gen_estate_nobles_Cap
 	}
 }
@@ -2059,6 +2809,12 @@ defined_text = {
 		localisation_key = string_gen_estate_shangbang_Cap
 		trigger = {
 			culture_group = east_asian
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_pochteca_Cap
+		trigger = {
+			religion = nahuatl
 		}
 	}
 	text = {
@@ -2140,6 +2896,19 @@ defined_text = {
 	name = GetClergyName_dat_Cap
 	random = no
 	text = {
+		localisation_key = string_dat_estate_ogboni_Cap
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_tengbiise_Cap
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
 		localisation_key = string_dat_estate_monasteries_Cap
 		trigger = {
 			OR = {
@@ -2159,6 +2928,78 @@ defined_text = {
 		localisation_key = string_dat_estate_brahmins_Cap
 		trigger = {
 			religion = hinduism
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_pastors_Cap
+		trigger = {
+			OR = {
+				religion = protestant
+				religion = reformed
+			}
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_popes_Cap
+		trigger = {
+			AND = {
+				religion = orthodox
+				OR = {
+					culture_group = east_slavic
+					culture_group = south_slavic
+					culture_group = west_slavic
+				}
+			}
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_shamans_Cap
+		trigger = {
+			OR = {
+				religion = tengri_pagan_reformed
+			}
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_gurus_Cap
+		trigger = {
+			religion = sikhism
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_medicine_men_Cap
+		trigger = {
+			religion = totemism
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_godar_Cap
+		trigger = {
+			religion = norse_pagan_reformed
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_rabbis_Cap
+		trigger = {
+			religion = jewish
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_mobeds_Cap
+		trigger = {
+			religion = zoroastrian
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_kannushi_Cap
+		trigger = {
+			religion = shinto
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_panacas_Cap
+		trigger = {
+			religion = inti
 		}
 	}
 	text = {
@@ -2247,6 +3088,25 @@ defined_text = {
 defined_text = {
 	name = GetNobilityName_dat_Cap
 	random = no
+	text = {
+		localisation_key = string_dat_estate_oyo_mesi_Cap
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_nakomse_Cap
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_chieftains_Cap
+		trigger = {
+			has_reform = tribal_confederacy
+		}
+	}
 	text = {
 		localisation_key = string_dat_estate_beys_Cap
 		trigger = {
@@ -2396,6 +3256,22 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_dat_estate_warriors_Cap
+		trigger = {
+			OR = {
+				government = native
+				has_reform = siberian_tribe
+				has_reform = native_basic_reform
+			}
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_mani_Cap
+		trigger = {
+			tag = KON
+		}
+	}
+	text = {
 		localisation_key = string_dat_estate_nobles_Cap
 	}
 }
@@ -2420,6 +3296,12 @@ defined_text = {
 		trigger = {
 			tag = KOR
 			religion = confucianism
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_pochteca_Cap
+		trigger = {
+			religion = nahuatl
 		}
 	}
 	text = {
@@ -2495,6 +3377,19 @@ defined_text = {
 	name = GetClergyName_ins_Cap
 	random = no
 	text = {
+		localisation_key = string_ins_estate_ogboni_Cap
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_tengbiise_Cap
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
 		localisation_key = string_ins_estate_monasteries_Cap
 		trigger = {
 			OR = {
@@ -2514,6 +3409,78 @@ defined_text = {
 		localisation_key = string_ins_estate_brahmins_Cap
 		trigger = {
 			religion = hinduism
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_pastors_Cap
+		trigger = {
+			OR = {
+				religion = protestant
+				religion = reformed
+			}
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_popes_Cap
+		trigger = {
+			AND = {
+				religion = orthodox
+				OR = {
+					culture_group = east_slavic
+					culture_group = south_slavic
+					culture_group = west_slavic
+				}
+			}
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_shamans_Cap
+		trigger = {
+			OR = {
+				religion = tengri_pagan_reformed
+			}
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_gurus_Cap
+		trigger = {
+			religion = sikhism
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_medicine_men_Cap
+		trigger = {
+			religion = totemism
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_godar_Cap
+		trigger = {
+			religion = norse_pagan_reformed
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_rabbis_Cap
+		trigger = {
+			religion = jewish
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_mobeds_Cap
+		trigger = {
+			religion = zoroastrian
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_kannushi_Cap
+		trigger = {
+			religion = shinto
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_panacas_Cap
+		trigger = {
+			religion = inti
 		}
 	}
 	text = {
@@ -2602,6 +3569,25 @@ defined_text = {
 defined_text = {
 	name = GetNobilityName_ins_Cap
 	random = no
+	text = {
+		localisation_key = string_ins_estate_oyo_mesi_Cap
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_nakomse_Cap
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_chieftains_Cap
+		trigger = {
+			has_reform = tribal_confederacy
+		}
+	}
 	text = {
 		localisation_key = string_ins_estate_beys_Cap
 		trigger = {
@@ -2751,6 +3737,22 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_ins_estate_warriors_Cap
+		trigger = {
+			OR = {
+				government = native
+				has_reform = siberian_tribe
+				has_reform = native_basic_reform
+			}
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_mani_Cap
+		trigger = {
+			tag = KON
+		}
+	}
+	text = {
 		localisation_key = string_ins_estate_nobles_Cap
 	}
 }
@@ -2775,6 +3777,12 @@ defined_text = {
 		trigger = {
 			tag = KOR
 			religion = confucianism
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_pochteca_Cap
+		trigger = {
+			religion = nahuatl
 		}
 	}
 	text = {
@@ -2844,11 +3852,23 @@ defined_text = {
 	text = {
 		localisation_key = string_end_japl
 		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_japl
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_end_japl
+		trigger = {
 			OR = {
 				religion = buddhism
 				religion = mahayana
 				religion = vajrayana
-				religion = hinduism
 			}
 		}
 	}
@@ -2856,6 +3876,39 @@ defined_text = {
 		localisation_key = string_end_japl
 		trigger = {
 			tag = MAS
+		}
+	}
+	text = {
+		localisation_key = string_end_japl
+		trigger = {
+			OR = {
+				religion = hinduism			
+				religion = protestant
+				religion = reformed			
+				AND = {
+					religion = orthodox
+					OR = {
+						culture_group = east_slavic
+						culture_group = south_slavic
+						culture_group = west_slavic
+					}
+				}
+				religion = tengri_pagan_reformed
+				religion = sikhism
+				religion = totemism
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_japl
+		trigger = {
+			OR = {
+				religion = norse_pagan_reformed
+				religion = jewish
+				religion = zoroastrian
+				religion = shinto
+				religion = inti
+			}
 		}
 	}
 	text = {
@@ -2915,6 +3968,25 @@ defined_text = {
 	name = GetNobilityName_NounJa
 	random = no
 	text = {
+		localisation_key = string_end_japl
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_japl
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_end_japl
+		trigger = {
+			has_reform = tribal_confederacy
+		}
+	}
+	text = {
 		localisation_key = string_end_empty
 		trigger = {
 			technology_group = ottoman
@@ -3025,6 +4097,22 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_end_japl
+		trigger = {
+			OR = {
+				government = native
+				has_reform = siberian_tribe
+				has_reform = native_basic_reform
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_japl
+		trigger = {
+			tag = KON
+		}
+	}
+	text = {
 		localisation_key = string_end_empty
 	}
 }
@@ -3054,6 +4142,12 @@ defined_text = {
 	text = {
 		localisation_key = string_end_japl
 		trigger = {
+			religion = nahuatl
+		}
+	}
+	text = {
+		localisation_key = string_end_japl
+		trigger = {
 			NOT = { religion_group = christian }
 		}
 	}
@@ -3070,11 +4164,23 @@ defined_text = {
 	text = {
 		localisation_key = string_end_apl
 		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
 			OR = {
 				religion = buddhism
 				religion = mahayana
 				religion = vajrayana
-				religion = hinduism
 			}
 		}
 	}
@@ -3082,6 +4188,39 @@ defined_text = {
 		localisation_key = string_end_apl
 		trigger = {
 			tag = MAS
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			OR = {
+				religion = hinduism			
+				religion = protestant
+				religion = reformed			
+				AND = {
+					religion = orthodox
+					OR = {
+						culture_group = east_slavic
+						culture_group = south_slavic
+						culture_group = west_slavic
+					}
+				}
+				religion = tengri_pagan_reformed
+				religion = sikhism
+				religion = totemism
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			OR = {
+				religion = norse_pagan_reformed
+				religion = jewish
+				religion = zoroastrian
+				religion = shinto
+				religion = inti
+			}
 		}
 	}
 	text = {
@@ -3141,6 +4280,25 @@ defined_text = {
 	name = GetNobilityName_IA
 	random = no
 	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			has_reform = tribal_confederacy
+		}
+	}
+	text = {
 		localisation_key = string_end_i
 		trigger = {
 			technology_group = ottoman
@@ -3251,6 +4409,22 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			OR = {
+				government = native
+				has_reform = siberian_tribe
+				has_reform = native_basic_reform
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			tag = KON
+		}
+	}
+	text = {
 		localisation_key = string_end_i
 	}
 }
@@ -3280,6 +4454,12 @@ defined_text = {
 	text = {
 		localisation_key = string_end_apl
 		trigger = {
+			religion = nahuatl
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
 			NOT = { religion_group = christian }
 		}
 	}
@@ -3296,11 +4476,23 @@ defined_text = {
 	text = {
 		localisation_key = string_end_ich
 		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_ich
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_end_ich
+		trigger = {
 			OR = {
 				religion = buddhism
 				religion = mahayana
 				religion = vajrayana
-				religion = hinduism
 			}
 		}
 	}
@@ -3308,6 +4500,39 @@ defined_text = {
 		localisation_key = string_end_ich
 		trigger = {
 			tag = MAS
+		}
+	}
+	text = {
+		localisation_key = string_end_ich
+		trigger = {
+			OR = {
+				religion = hinduism			
+				religion = protestant
+				religion = reformed			
+				AND = {
+					religion = orthodox
+					OR = {
+						culture_group = east_slavic
+						culture_group = south_slavic
+						culture_group = west_slavic
+					}
+				}
+				religion = tengri_pagan_reformed
+				religion = sikhism
+				religion = totemism
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_ich
+		trigger = {
+			OR = {
+				religion = norse_pagan_reformed
+				religion = jewish
+				religion = zoroastrian
+				religion = shinto
+				religion = inti
+			}
 		}
 	}
 	text = {
@@ -3367,6 +4592,25 @@ defined_text = {
 	name = GetNobilityName_Whose
 	random = no
 	text = {
+		localisation_key = string_end_ich
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_ich
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_end_ich
+		trigger = {
+			has_reform = tribal_confederacy
+		}
+	}
+	text = {
 		localisation_key = string_end_jego
 		trigger = {
 			technology_group = ottoman
@@ -3477,6 +4721,22 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_end_ich
+		trigger = {
+			OR = {
+				government = native
+				has_reform = siberian_tribe
+				has_reform = native_basic_reform
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_ich
+		trigger = {
+			tag = KON
+		}
+	}
+	text = {
 		localisation_key = string_end_jej
 	}
 }
@@ -3506,6 +4766,12 @@ defined_text = {
 	text = {
 		localisation_key = string_end_ich
 		trigger = {
+			religion = nahuatl
+		}
+	}
+	text = {
+		localisation_key = string_end_ich
+		trigger = {
 			NOT = { religion_group = christian }
 		}
 	}
@@ -3522,11 +4788,23 @@ defined_text = {
 	text = {
 		localisation_key = string_end_ich_Cap
 		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_ich_Cap
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_end_ich_Cap
+		trigger = {
 			OR = {
 				religion = buddhism
 				religion = mahayana
 				religion = vajrayana
-				religion = hinduism
 			}
 		}
 	}
@@ -3534,6 +4812,39 @@ defined_text = {
 		localisation_key = string_end_ich_Cap
 		trigger = {
 			tag = MAS
+		}
+	}
+	text = {
+		localisation_key = string_end_ich_Cap
+		trigger = {
+			OR = {
+				religion = hinduism			
+				religion = protestant
+				religion = reformed			
+				AND = {
+					religion = orthodox
+					OR = {
+						culture_group = east_slavic
+						culture_group = south_slavic
+						culture_group = west_slavic
+					}
+				}
+				religion = tengri_pagan_reformed
+				religion = sikhism
+				religion = totemism
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_ich_Cap
+		trigger = {
+			OR = {
+				religion = norse_pagan_reformed
+				religion = jewish
+				religion = zoroastrian
+				religion = shinto
+				religion = inti
+			}
 		}
 	}
 	text = {
@@ -3593,6 +4904,25 @@ defined_text = {
 	name = GetNobilityName_Whose_Cap
 	random = no
 	text = {
+		localisation_key = string_end_ich_Cap
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_ich_Cap
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_end_ich_Cap
+		trigger = {
+			has_reform = tribal_confederacy
+		}
+	}
+	text = {
 		localisation_key = string_end_jego_Cap
 		trigger = {
 			technology_group = ottoman
@@ -3703,6 +5033,22 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_end_ich_Cap
+		trigger = {
+			OR = {
+				government = native
+				has_reform = siberian_tribe
+				has_reform = native_basic_reform
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_ich_Cap
+		trigger = {
+			tag = KON
+		}
+	}
+	text = {
 		localisation_key = string_end_jej_Cap
 	}
 }
@@ -3732,6 +5078,12 @@ defined_text = {
 	text = {
 		localisation_key = string_end_ich_Cap
 		trigger = {
+			religion = nahuatl
+		}
+	}
+	text = {
+		localisation_key = string_end_ich_Cap
+		trigger = {
 			NOT = { religion_group = christian }
 		}
 	}
@@ -3748,11 +5100,23 @@ defined_text = {
 	text = {
 		localisation_key = string_end_zapl
 		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_zapl
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_end_zapl
+		trigger = {
 			OR = {
 				religion = buddhism
 				religion = mahayana
 				religion = vajrayana
-				religion = hinduism
 			}
 		}
 	}
@@ -3760,6 +5124,39 @@ defined_text = {
 		localisation_key = string_end_zapl
 		trigger = {
 			tag = MAS
+		}
+	}
+	text = {
+		localisation_key = string_end_zapl
+		trigger = {
+			OR = {
+				religion = hinduism			
+				religion = protestant
+				religion = reformed			
+				AND = {
+					religion = orthodox
+					OR = {
+						culture_group = east_slavic
+						culture_group = south_slavic
+						culture_group = west_slavic
+					}
+				}
+				religion = tengri_pagan_reformed
+				religion = sikhism
+				religion = totemism
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_zapl
+		trigger = {
+			OR = {
+				religion = norse_pagan_reformed
+				religion = jewish
+				religion = zoroastrian
+				religion = shinto
+				religion = inti
+			}
 		}
 	}
 	text = {
@@ -3819,6 +5216,25 @@ defined_text = {
 	name = GetNobilityName_IZa
 	random = no
 	text = {
+		localisation_key = string_end_zapl
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_zapl
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_end_zapl
+		trigger = {
+			has_reform = tribal_confederacy
+		}
+	}
+	text = {
 		localisation_key = string_end_i
 		trigger = {
 			technology_group = ottoman
@@ -3929,6 +5345,22 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_end_zapl
+		trigger = {
+			OR = {
+				government = native
+				has_reform = siberian_tribe
+				has_reform = native_basic_reform
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_zapl
+		trigger = {
+			tag = KON
+		}
+	}
+	text = {
 		localisation_key = string_end_i
 	}
 }
@@ -3958,6 +5390,12 @@ defined_text = {
 	text = {
 		localisation_key = string_end_zapl
 		trigger = {
+			religion = nahuatl
+		}
+	}
+	text = {
+		localisation_key = string_end_zapl
+		trigger = {
 			NOT = { religion_group = christian }
 		}
 	}
@@ -3974,11 +5412,23 @@ defined_text = {
 	text = {
 		localisation_key = string_end_apl
 		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
 			OR = {
 				religion = buddhism
 				religion = mahayana
 				religion = vajrayana
-				religion = hinduism
 			}
 		}
 	}
@@ -3986,6 +5436,39 @@ defined_text = {
 		localisation_key = string_end_apl
 		trigger = {
 			tag = MAS
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			OR = {
+				religion = hinduism			
+				religion = protestant
+				religion = reformed			
+				AND = {
+					religion = orthodox
+					OR = {
+						culture_group = east_slavic
+						culture_group = south_slavic
+						culture_group = west_slavic
+					}
+				}
+				religion = tengri_pagan_reformed
+				religion = sikhism
+				religion = totemism
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			OR = {
+				religion = norse_pagan_reformed
+				religion = jewish
+				religion = zoroastrian
+				religion = shinto
+				religion = inti
+			}
 		}
 	}
 	text = {
@@ -4045,6 +5528,25 @@ defined_text = {
 	name = GetNobilityName_EA
 	random = no
 	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			has_reform = tribal_confederacy
+		}
+	}
+	text = {
 		localisation_key = string_end_e
 		trigger = {
 			technology_group = ottoman
@@ -4155,6 +5657,22 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			OR = {
+				government = native
+				has_reform = siberian_tribe
+				has_reform = native_basic_reform
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			tag = KON
+		}
+	}
+	text = {
 		localisation_key = string_end_e
 	}
 }
@@ -4184,6 +5702,12 @@ defined_text = {
 	text = {
 		localisation_key = string_end_apl
 		trigger = {
+			religion = nahuatl
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
 			NOT = { religion_group = christian }
 		}
 	}
@@ -4200,11 +5724,23 @@ defined_text = {
 	text = {
 		localisation_key = string_end_apl
 		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
 			OR = {
 				religion = buddhism
 				religion = mahayana
 				religion = vajrayana
-				religion = hinduism
 			}
 		}
 	}
@@ -4212,6 +5748,39 @@ defined_text = {
 		localisation_key = string_end_apl
 		trigger = {
 			tag = MAS
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			OR = {
+				religion = hinduism			
+				religion = protestant
+				religion = reformed			
+				AND = {
+					religion = orthodox
+					OR = {
+						culture_group = east_slavic
+						culture_group = south_slavic
+						culture_group = west_slavic
+					}
+				}
+				religion = tengri_pagan_reformed
+				religion = sikhism
+				religion = totemism
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			OR = {
+				religion = norse_pagan_reformed
+				religion = jewish
+				religion = zoroastrian
+				religion = shinto
+				religion = inti
+			}
 		}
 	}
 	text = {
@@ -4271,6 +5840,25 @@ defined_text = {
 	name = GetNobilityName_ZieA
 	random = no
 	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			has_reform = tribal_confederacy
+		}
+	}
+	text = {
 		localisation_key = string_end_zie
 		trigger = {
 			technology_group = ottoman
@@ -4381,6 +5969,22 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			OR = {
+				government = native
+				has_reform = siberian_tribe
+				has_reform = native_basic_reform
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			tag = KON
+		}
+	}
+	text = {
 		localisation_key = string_end_zie
 	}
 }
@@ -4410,6 +6014,12 @@ defined_text = {
 	text = {
 		localisation_key = string_end_apl
 		trigger = {
+			religion = nahuatl
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
 			NOT = { religion_group = christian }
 		}
 	}
@@ -4426,11 +6036,23 @@ defined_text = {
 	text = {
 		localisation_key = string_end_im
 		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_im
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_end_im
+		trigger = {
 			OR = {
 				religion = buddhism
 				religion = mahayana
 				religion = vajrayana
-				religion = hinduism
 			}
 		}
 	}
@@ -4438,6 +6060,39 @@ defined_text = {
 		localisation_key = string_end_im
 		trigger = {
 			tag = MAS
+		}
+	}
+	text = {
+		localisation_key = string_end_im
+		trigger = {
+			OR = {
+				religion = hinduism			
+				religion = protestant
+				religion = reformed			
+				AND = {
+					religion = orthodox
+					OR = {
+						culture_group = east_slavic
+						culture_group = south_slavic
+						culture_group = west_slavic
+					}
+				}
+				religion = tengri_pagan_reformed
+				religion = sikhism
+				religion = totemism
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_im
+		trigger = {
+			OR = {
+				religion = norse_pagan_reformed
+				religion = jewish
+				religion = zoroastrian
+				religion = shinto
+				religion = inti
+			}
 		}
 	}
 	text = {
@@ -4497,6 +6152,25 @@ defined_text = {
 	name = GetNobilityName_Who
 	random = no
 	text = {
+		localisation_key = string_end_im
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_im
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_end_im
+		trigger = {
+			has_reform = tribal_confederacy
+		}
+	}
+	text = {
 		localisation_key = string_end_jemu
 		trigger = {
 			technology_group = ottoman
@@ -4607,6 +6281,22 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_end_im
+		trigger = {
+			OR = {
+				government = native
+				has_reform = siberian_tribe
+				has_reform = native_basic_reform
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_im
+		trigger = {
+			tag = KON
+		}
+	}
+	text = {
 		localisation_key = string_end_jej
 	}
 }
@@ -4636,6 +6326,12 @@ defined_text = {
 	text = {
 		localisation_key = string_end_im
 		trigger = {
+			religion = nahuatl
+		}
+	}
+	text = {
+		localisation_key = string_end_im
+		trigger = {
 			NOT = { religion_group = christian }
 		}
 	}
@@ -4650,13 +6346,25 @@ defined_text = {
 	name = GetClergyName_NormEnd
 	random = no
 	text = {
+		localisation_key = string_end_ne
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_ni
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
 		localisation_key = string_end_ni
 		trigger = {
 			OR = {
 				religion = buddhism
 				religion = mahayana
 				religion = vajrayana
-				religion = hinduism
 			}
 		}
 	}
@@ -4664,6 +6372,39 @@ defined_text = {
 		localisation_key = string_end_ne
 		trigger = {
 			tag = MAS
+		}
+	}
+	text = {
+		localisation_key = string_end_ni
+		trigger = {
+			OR = {
+				religion = hinduism			
+				religion = protestant
+				religion = reformed			
+				AND = {
+					religion = orthodox
+					OR = {
+						culture_group = east_slavic
+						culture_group = south_slavic
+						culture_group = west_slavic
+					}
+				}
+				religion = tengri_pagan_reformed
+				religion = sikhism
+				religion = totemism
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_ni
+		trigger = {
+			OR = {
+				religion = norse_pagan_reformed
+				religion = jewish
+				religion = zoroastrian
+				religion = shinto
+				religion = inti
+			}
 		}
 	}
 	text = {
@@ -4723,6 +6464,25 @@ defined_text = {
 	name = GetNobilityName_NormEnd
 	random = no
 	text = {
+		localisation_key = string_end_ne
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_ni
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_end_ni
+		trigger = {
+			has_reform = tribal_confederacy
+		}
+	}
+	text = {
 		localisation_key = string_end_ien
 		trigger = {
 			technology_group = ottoman
@@ -4833,6 +6593,22 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_end_ni
+		trigger = {
+			OR = {
+				government = native
+				has_reform = siberian_tribe
+				has_reform = native_basic_reform
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_ni
+		trigger = {
+			tag = KON
+		}
+	}
+	text = {
 		localisation_key = string_end_na
 	}
 }
@@ -4860,6 +6636,12 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_end_ni
+		trigger = {
+			religion = nahuatl
+		}
+	}
+	text = {
 		localisation_key = string_end_ne
 		trigger = {
 			NOT = { religion_group = christian }
@@ -4878,11 +6660,23 @@ defined_text = {
 	text = {
 		localisation_key = string_word_sa
 		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_word_sa
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_word_sa
+		trigger = {
 			OR = {
 				religion = buddhism
 				religion = mahayana
 				religion = vajrayana
-				religion = hinduism
 			}
 		}
 	}
@@ -4890,6 +6684,39 @@ defined_text = {
 		localisation_key = string_word_sa
 		trigger = {
 			tag = MAS
+		}
+	}
+	text = {
+		localisation_key = string_word_sa
+		trigger = {
+			OR = {
+				religion = hinduism			
+				religion = protestant
+				religion = reformed			
+				AND = {
+					religion = orthodox
+					OR = {
+						culture_group = east_slavic
+						culture_group = south_slavic
+						culture_group = west_slavic
+					}
+				}
+				religion = tengri_pagan_reformed
+				religion = sikhism
+				religion = totemism
+			}
+		}
+	}
+	text = {
+		localisation_key = string_word_sa
+		trigger = {
+			OR = {
+				religion = norse_pagan_reformed
+				religion = jewish
+				religion = zoroastrian
+				religion = shinto
+				religion = inti
+			}
 		}
 	}
 	text = {
@@ -4949,6 +6776,25 @@ defined_text = {
 	name = GetNobilityName_BE
 	random = no
 	text = {
+		localisation_key = string_word_sa
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_word_sa
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_word_sa
+		trigger = {
+			has_reform = tribal_confederacy
+		}
+	}
+	text = {
 		localisation_key = string_word_jest
 		trigger = {
 			technology_group = ottoman
@@ -5059,6 +6905,22 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_word_sa
+		trigger = {
+			OR = {
+				government = native
+				has_reform = siberian_tribe
+				has_reform = native_basic_reform
+			}
+		}
+	}
+	text = {
+		localisation_key = string_word_sa
+		trigger = {
+			tag = KON
+		}
+	}
+	text = {
 		localisation_key = string_word_jest
 	}
 }
@@ -5088,6 +6950,12 @@ defined_text = {
 	text = {
 		localisation_key = string_word_sa
 		trigger = {
+			religion = nahuatl
+		}
+	}
+	text = {
+		localisation_key = string_word_sa
+		trigger = {
 			NOT = { religion_group = christian }
 		}
 	}
@@ -5102,13 +6970,25 @@ defined_text = {
 	name = GetClergyName_AdjEndS
 	random = no
 	text = {
+		localisation_key = string_end_e
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_i
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
 		localisation_key = string_end_i
 		trigger = {
 			OR = {
 				religion = buddhism
 				religion = mahayana
 				religion = vajrayana
-				religion = hinduism
 			}
 		}
 	}
@@ -5116,6 +6996,39 @@ defined_text = {
 		localisation_key = string_end_e
 		trigger = {
 			tag = MAS
+		}
+	}
+	text = {
+		localisation_key = string_end_i
+		trigger = {
+			OR = {
+				religion = hinduism			
+				religion = protestant
+				religion = reformed			
+				AND = {
+					religion = orthodox
+					OR = {
+						culture_group = east_slavic
+						culture_group = south_slavic
+						culture_group = west_slavic
+					}
+				}
+				religion = tengri_pagan_reformed
+				religion = sikhism
+				religion = totemism
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_i
+		trigger = {
+			OR = {
+				religion = norse_pagan_reformed
+				religion = jewish
+				religion = zoroastrian
+				religion = shinto
+				religion = inti
+			}
 		}
 	}
 	text = {
@@ -5175,6 +7088,25 @@ defined_text = {
 	name = GetNobilityName_AdjEndS
 	random = no
 	text = {
+		localisation_key = string_end_e
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_i
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_end_i
+		trigger = {
+			has_reform = tribal_confederacy
+		}
+	}
+	text = {
 		localisation_key = string_end_y
 		trigger = {
 			technology_group = ottoman
@@ -5285,6 +7217,22 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_end_i
+		trigger = {
+			OR = {
+				government = native
+				has_reform = siberian_tribe
+				has_reform = native_basic_reform
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_i
+		trigger = {
+			tag = KON
+		}
+	}
+	text = {
 		localisation_key = string_end_a
 	}
 }
@@ -5312,6 +7260,12 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_end_i
+		trigger = {
+			religion = nahuatl
+		}
+	}
+	text = {
 		localisation_key = string_end_e
 		trigger = {
 			NOT = { religion_group = christian }
@@ -5330,11 +7284,23 @@ defined_text = {
 	text = {
 		localisation_key = string_end_apl
 		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
 			OR = {
 				religion = buddhism
 				religion = mahayana
 				religion = vajrayana
-				religion = hinduism
 			}
 		}
 	}
@@ -5342,6 +7308,39 @@ defined_text = {
 		localisation_key = string_end_apl
 		trigger = {
 			tag = MAS
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			OR = {
+				religion = hinduism			
+				religion = protestant
+				religion = reformed			
+				AND = {
+					religion = orthodox
+					OR = {
+						culture_group = east_slavic
+						culture_group = south_slavic
+						culture_group = west_slavic
+					}
+				}
+				religion = tengri_pagan_reformed
+				religion = sikhism
+				religion = totemism
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			OR = {
+				religion = norse_pagan_reformed
+				religion = jewish
+				religion = zoroastrian
+				religion = shinto
+				religion = inti
+			}
 		}
 	}
 	text = {
@@ -5401,6 +7400,25 @@ defined_text = {
 	name = GetNobilityName_NounA
 	random = no
 	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			has_reform = tribal_confederacy
+		}
+	}
+	text = {
 		localisation_key = string_end_empty
 		trigger = {
 			technology_group = ottoman
@@ -5511,6 +7529,22 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			OR = {
+				government = native
+				has_reform = siberian_tribe
+				has_reform = native_basic_reform
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			tag = KON
+		}
+	}
+	text = {
 		localisation_key = string_end_empty
 	}
 }
@@ -5540,6 +7574,12 @@ defined_text = {
 	text = {
 		localisation_key = string_end_apl
 		trigger = {
+			religion = nahuatl
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
 			NOT = { religion_group = christian }
 		}
 	}
@@ -5554,13 +7594,25 @@ defined_text = {
 	name = GetClergyName_Conc
 	random = no
 	text = {
+		localisation_key = string_end_one
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_eni
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
 		localisation_key = string_end_eni
 		trigger = {
 			OR = {
 				religion = buddhism
 				religion = mahayana
 				religion = vajrayana
-				religion = hinduism
 			}
 		}
 	}
@@ -5568,6 +7620,39 @@ defined_text = {
 		localisation_key = string_end_one
 		trigger = {
 			tag = MAS
+		}
+	}
+	text = {
+		localisation_key = string_end_eni
+		trigger = {
+			OR = {
+				religion = hinduism			
+				religion = protestant
+				religion = reformed			
+				AND = {
+					religion = orthodox
+					OR = {
+						culture_group = east_slavic
+						culture_group = south_slavic
+						culture_group = west_slavic
+					}
+				}
+				religion = tengri_pagan_reformed
+				religion = sikhism
+				religion = totemism
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_eni
+		trigger = {
+			OR = {
+				religion = norse_pagan_reformed
+				religion = jewish
+				religion = zoroastrian
+				religion = shinto
+				religion = inti
+			}
 		}
 	}
 	text = {
@@ -5627,6 +7712,25 @@ defined_text = {
 	name = GetNobilityName_Conc
 	random = no
 	text = {
+		localisation_key = string_end_one
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_eni
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_end_eni
+		trigger = {
+			has_reform = tribal_confederacy
+		}
+	}
+	text = {
 		localisation_key = string_end_ony
 		trigger = {
 			technology_group = ottoman
@@ -5737,6 +7841,22 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_end_eni
+		trigger = {
+			OR = {
+				government = native
+				has_reform = siberian_tribe
+				has_reform = native_basic_reform
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_eni
+		trigger = {
+			tag = KON
+		}
+	}
+	text = {
 		localisation_key = string_end_ona
 	}
 }
@@ -5764,6 +7884,12 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_end_eni
+		trigger = {
+			religion = nahuatl
+		}
+	}
+	text = {
 		localisation_key = string_end_one
 		trigger = {
 			NOT = { religion_group = christian }
@@ -5780,13 +7906,25 @@ defined_text = {
 	name = GetClergyName_AdjEnd
 	random = no
 	text = {
+		localisation_key = string_end_e
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_y
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
 		localisation_key = string_end_y
 		trigger = {
 			OR = {
 				religion = buddhism
 				religion = mahayana
 				religion = vajrayana
-				religion = hinduism
 			}
 		}
 	}
@@ -5794,6 +7932,39 @@ defined_text = {
 		localisation_key = string_end_e
 		trigger = {
 			tag = MAS
+		}
+	}
+	text = {
+		localisation_key = string_end_y
+		trigger = {
+			OR = {
+				religion = hinduism			
+				religion = protestant
+				religion = reformed			
+				AND = {
+					religion = orthodox
+					OR = {
+						culture_group = east_slavic
+						culture_group = south_slavic
+						culture_group = west_slavic
+					}
+				}
+				religion = tengri_pagan_reformed
+				religion = sikhism
+				religion = totemism
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_y
+		trigger = {
+			OR = {
+				religion = norse_pagan_reformed
+				religion = jewish
+				religion = zoroastrian
+				religion = shinto
+				religion = inti
+			}
 		}
 	}
 	text = {
@@ -5853,6 +8024,25 @@ defined_text = {
 	name = GetNobilityName_AdjEnd
 	random = no
 	text = {
+		localisation_key = string_end_e
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_y
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_end_y
+		trigger = {
+			has_reform = tribal_confederacy
+		}
+	}
+	text = {
 		localisation_key = string_end_y
 		trigger = {
 			technology_group = ottoman
@@ -5963,6 +8153,22 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_end_y
+		trigger = {
+			OR = {
+				government = native
+				has_reform = siberian_tribe
+				has_reform = native_basic_reform
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_y
+		trigger = {
+			tag = KON
+		}
+	}
+	text = {
 		localisation_key = string_end_a
 	}
 }
@@ -5990,6 +8196,12 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_end_y
+		trigger = {
+			religion = nahuatl
+		}
+	}
+	text = {
 		localisation_key = string_end_e
 		trigger = {
 			NOT = { religion_group = christian }
@@ -6006,13 +8218,25 @@ defined_text = {
 	name = GetClergyName_PastEnd
 	random = no
 	text = {
+		localisation_key = string_end_aly
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_eli
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
 		localisation_key = string_end_eli
 		trigger = {
 			OR = {
 				religion = buddhism
 				religion = mahayana
 				religion = vajrayana
-				religion = hinduism
 			}
 		}
 	}
@@ -6020,6 +8244,39 @@ defined_text = {
 		localisation_key = string_end_aly
 		trigger = {
 			tag = MAS
+		}
+	}
+	text = {
+		localisation_key = string_end_eli
+		trigger = {
+			OR = {
+				religion = hinduism			
+				religion = protestant
+				religion = reformed			
+				AND = {
+					religion = orthodox
+					OR = {
+						culture_group = east_slavic
+						culture_group = south_slavic
+						culture_group = west_slavic
+					}
+				}
+				religion = tengri_pagan_reformed
+				religion = sikhism
+				religion = totemism
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_eli
+		trigger = {
+			OR = {
+				religion = norse_pagan_reformed
+				religion = jewish
+				religion = zoroastrian
+				religion = shinto
+				religion = inti
+			}
 		}
 	}
 	text = {
@@ -6079,6 +8336,25 @@ defined_text = {
 	name = GetNobilityName_PastEnd
 	random = no
 	text = {
+		localisation_key = string_end_aly
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_eli
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_end_eli
+		trigger = {
+			has_reform = tribal_confederacy
+		}
+	}
+	text = {
 		localisation_key = string_end_al
 		trigger = {
 			technology_group = ottoman
@@ -6189,6 +8465,22 @@ defined_text = {
 		}
 	}
 	text = {
+		localisation_key = string_end_eli
+		trigger = {
+			OR = {
+				government = native
+				has_reform = siberian_tribe
+				has_reform = native_basic_reform
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_eli
+		trigger = {
+			tag = KON
+		}
+	}
+	text = {
 		localisation_key = string_end_alo
 	}
 }
@@ -6213,6 +8505,12 @@ defined_text = {
 		trigger = {
 			tag = KOR
 			religion = confucianism
+		}
+	}
+	text = {
+		localisation_key = string_end_eli
+		trigger = {
+			religion = nahuatl
 		}
 	}
 	text = {

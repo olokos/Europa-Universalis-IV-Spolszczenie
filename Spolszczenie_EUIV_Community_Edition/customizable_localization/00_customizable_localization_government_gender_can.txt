@@ -1,5 +1,5 @@
 defined_text = {
-	name = GetGovGender_can
+	name = GetGovNameGen
 	random = no
 	text={
 		localisation_key = string_word_moze
@@ -8,7 +8,23 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
+		trigger = {
+			government_rank = 3
+			tag = KON
+			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_word_moze
+		trigger = {
+			government_rank = 3
+			tag = KON
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_country_modifier = unified_islam
@@ -31,7 +47,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			is_revolutionary_republic_trigger = yes
 			OR = {
@@ -50,7 +66,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			is_revolutionary_republic_trigger = yes
 			OR = {
@@ -105,7 +121,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			culture_group = germanic
@@ -137,7 +153,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			has_ruler_flag = savonarola_flag
 		}
@@ -168,7 +184,6 @@ defined_text = {
 				has_reform = pirate_king_reform
 			}
 			NOT = {
-				has_reform = pirate_king_reform
 				primary_culture = greek
 			}
 		}
@@ -187,7 +202,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			tag = YUA
@@ -195,7 +210,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = celestial_empire
@@ -212,7 +227,6 @@ defined_text = {
 				religion = orthodox
 			}
 			NOT = {
-				religion = orthodox
 				religion = coptic
 			}
 			is_march = yes
@@ -255,7 +269,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = theocracy
@@ -303,14 +317,13 @@ defined_text = {
 				has_reform = revolutionary_empire_reform
 			}
 			OR = {
-				has_reform = revolutionary_empire_reform
 				tag = FRA
 				tag = AUV
 			}
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			religion_group = muslim
@@ -322,7 +335,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			tag = AVR
@@ -354,7 +367,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			religion_group = muslim
@@ -446,10 +459,7 @@ defined_text = {
 		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -557,7 +567,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -647,7 +657,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = steppe_horde
@@ -822,7 +832,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = monarchy
@@ -850,7 +860,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			OR = {
@@ -858,14 +868,9 @@ defined_text = {
 				government = republic
 			}
 			NOT = {
-				government = monarchy
-				government = republic
 				tag = SUL
 			}
 			NOT = {
-				government = monarchy
-				government = republic
-				tag = SUL
 				tag = MGD
 			}
 			primary_culture = filipino
@@ -909,6 +914,7 @@ defined_text = {
 		trigger = {
 			government_rank = 3
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text={
@@ -999,7 +1005,6 @@ defined_text = {
 				government = tribal
 			}
 			OR = {
-				government = tribal
 				religion = buddhism
 				religion = vajrayana
 				religion = mahayana
@@ -1015,10 +1020,13 @@ defined_text = {
 				has_reform = steppe_horde
 			}
 			religion_group = muslim
+			NOT = {
+				has_reform = feudal_theocracy
+			}
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = republic
@@ -1043,7 +1051,6 @@ defined_text = {
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				is_revolutionary_republic_trigger = yes
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -1058,21 +1065,12 @@ defined_text = {
 				tag = PRM
 			}
 			NOT = {
-				culture_group = east_slavic
-				tag = PRM
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				culture_group = east_slavic
-				tag = PRM
-				is_revolutionary_republic_trigger = yes
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				culture_group = east_slavic
-				tag = PRM
-				is_revolutionary_republic_trigger = yes
-				has_reform = parliamentary_reform
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -1087,12 +1085,9 @@ defined_text = {
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				is_revolutionary_republic_trigger = yes
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				is_revolutionary_republic_trigger = yes
-				has_reform = parliamentary_reform
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -1160,7 +1155,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = steppe_horde
@@ -1199,25 +1194,15 @@ defined_text = {
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				has_reform = parliamentary_reform
 				has_reform = presidential_reform
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
-				is_revolutionary_republic_trigger = yes
 				has_reform = constitutional_republic
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
-				is_revolutionary_republic_trigger = yes
-				has_reform = constitutional_republic
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -1232,25 +1217,15 @@ defined_text = {
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				has_reform = parliamentary_reform
 				has_reform = presidential_reform
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
-				is_revolutionary_republic_trigger = yes
 				has_reform = constitutional_republic
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
-				is_revolutionary_republic_trigger = yes
-				has_reform = constitutional_republic
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -1292,7 +1267,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = indep_daimyo
@@ -1333,9 +1308,6 @@ defined_text = {
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				has_reform = constitutional_republic
-				has_reform = presidential_reform
-				has_reform = parliamentary_reform
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -1352,7 +1324,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = peasants_republic
@@ -1365,7 +1337,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			OR = {
@@ -1374,8 +1346,6 @@ defined_text = {
 			}
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
-				has_reform = leading_clergy_reform
-				has_reform = monastic_order_reform
 				religion_group = eastern
 				culture_group = japanese_g
 				capital_scope = { region = japan_region }
@@ -1383,7 +1353,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			has_reform = monastic_order_reform
@@ -1504,7 +1474,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			religion = shiite
@@ -1516,7 +1486,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			religion = shiite
@@ -1536,7 +1506,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			religion = sunni
@@ -1547,7 +1517,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			OR = {
@@ -1610,7 +1580,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
 			government = theocracy
@@ -1621,6 +1591,22 @@ defined_text = {
 		trigger = {
 			government_rank = 3
 			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_word_moze
+		trigger = {
+			government_rank = 2
+			tag = KON
+			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_word_moze
+		trigger = {
+			government_rank = 2
+			tag = KON
+			government = monarchy
 		}
 	}
 	text={
@@ -1658,7 +1644,6 @@ defined_text = {
 				has_reform = pirate_king_reform
 			}
 			NOT = {
-				has_reform = pirate_king_reform
 				primary_culture = greek
 			}
 		}
@@ -1671,7 +1656,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			tag = YUA
@@ -1688,14 +1673,13 @@ defined_text = {
 				religion = orthodox
 			}
 			NOT = {
-				religion = orthodox
 				religion = coptic
 			}
 			is_march = yes
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -1703,7 +1687,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -1755,7 +1739,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -1774,14 +1758,13 @@ defined_text = {
 				has_reform = revolutionary_empire_reform
 			}
 			OR = {
-				has_reform = revolutionary_empire_reform
 				tag = FRA
 				tag = AUV
 			}
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			religion_group = muslim
@@ -1801,7 +1784,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			religion_group = muslim
@@ -1817,7 +1800,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			religion_group = muslim
@@ -1826,7 +1809,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			religion_group = muslim
@@ -1848,7 +1831,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -1856,7 +1839,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -1864,7 +1847,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -1906,13 +1889,10 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -1967,7 +1947,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2012,7 +1992,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2020,7 +2000,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2037,7 +2017,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2045,7 +2025,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			OR = {
@@ -2058,7 +2038,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = peasants_republic
@@ -2110,7 +2090,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = steppe_horde
@@ -2126,7 +2106,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2134,7 +2114,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2285,7 +2265,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2305,7 +2285,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			OR = {
@@ -2313,14 +2293,9 @@ defined_text = {
 				government = republic
 			}
 			NOT = {
-				government = monarchy
-				government = republic
 				tag = SUL
 			}
 			NOT = {
-				government = monarchy
-				government = republic
-				tag = SUL
 				tag = MGD
 			}
 			primary_culture = filipino
@@ -2356,6 +2331,7 @@ defined_text = {
 		trigger = {
 			government_rank = 2
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text={
@@ -2388,7 +2364,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			OR = {
@@ -2435,7 +2411,6 @@ defined_text = {
 				government = tribal
 			}
 			OR = {
-				government = tribal
 				religion = buddhism
 				religion = vajrayana
 				religion = mahayana
@@ -2443,7 +2418,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -2451,10 +2426,13 @@ defined_text = {
 				has_reform = steppe_horde
 			}
 			religion_group = muslim
+			NOT = {
+				has_reform = feudal_theocracy
+			}
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			government = republic
@@ -2479,7 +2457,6 @@ defined_text = {
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				is_revolutionary_republic_trigger = yes
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -2494,21 +2471,12 @@ defined_text = {
 				tag = PRM
 			}
 			NOT = {
-				culture_group = east_slavic
-				tag = PRM
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				culture_group = east_slavic
-				tag = PRM
-				is_revolutionary_republic_trigger = yes
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				culture_group = east_slavic
-				tag = PRM
-				is_revolutionary_republic_trigger = yes
-				has_reform = parliamentary_reform
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -2523,12 +2491,9 @@ defined_text = {
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				is_revolutionary_republic_trigger = yes
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				is_revolutionary_republic_trigger = yes
-				has_reform = parliamentary_reform
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -2596,7 +2561,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = steppe_horde
@@ -2616,25 +2581,15 @@ defined_text = {
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				has_reform = parliamentary_reform
 				has_reform = presidential_reform
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
-				is_revolutionary_republic_trigger = yes
 				has_reform = constitutional_republic
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
-				is_revolutionary_republic_trigger = yes
-				has_reform = constitutional_republic
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -2649,25 +2604,15 @@ defined_text = {
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				has_reform = parliamentary_reform
 				has_reform = presidential_reform
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
-				is_revolutionary_republic_trigger = yes
 				has_reform = constitutional_republic
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
-				is_revolutionary_republic_trigger = yes
-				has_reform = constitutional_republic
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -2697,14 +2642,14 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = indep_daimyo
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = shogunate
@@ -2745,9 +2690,6 @@ defined_text = {
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				has_reform = constitutional_republic
-				has_reform = presidential_reform
-				has_reform = parliamentary_reform
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -2764,7 +2706,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = peasants_republic
@@ -2777,7 +2719,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			OR = {
@@ -2786,8 +2728,6 @@ defined_text = {
 			}
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
-				has_reform = leading_clergy_reform
-				has_reform = monastic_order_reform
 				religion_group = eastern
 				culture_group = japanese_g
 				capital_scope = { region = japan_region }
@@ -2795,7 +2735,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			has_reform = monastic_order_reform
@@ -2886,7 +2826,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			religion = sikhism
@@ -2930,7 +2870,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			religion = ibadi
@@ -2941,7 +2881,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			religion = shiite
@@ -2973,7 +2913,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
 			religion = sunni
@@ -3054,6 +2994,20 @@ defined_text = {
 	text={
 		localisation_key = string_word_moze
 		trigger = {
+			tag = KON
+			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_word_moze
+		trigger = {
+			tag = KON
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_word_moze
+		trigger = {
 			primary_culture = polish
 			government = republic
 		}
@@ -3075,7 +3029,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			tag = SOO
 			OR = {
@@ -3095,7 +3049,6 @@ defined_text = {
 				has_reform = pirate_king_reform
 			}
 			NOT = {
-				has_reform = pirate_king_reform
 				primary_culture = greek
 			}
 		}
@@ -3114,14 +3067,14 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			tag = ILK
 			is_march = yes
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			is_march = yes
 			religion_group = muslim
@@ -3129,7 +3082,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			religion_group = muslim
@@ -3148,14 +3101,13 @@ defined_text = {
 				religion = orthodox
 			}
 			NOT = {
-				religion = orthodox
 				religion = coptic
 			}
 			is_march = yes
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			is_elector = yes
@@ -3170,7 +3122,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			NOT = {
@@ -3180,7 +3132,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			is_elector = yes
@@ -3207,7 +3159,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			tag = JAP
 			government = monarchy
@@ -3217,7 +3169,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			NOT = {
@@ -3234,14 +3186,13 @@ defined_text = {
 				has_reform = revolutionary_empire_reform
 			}
 			OR = {
-				has_reform = revolutionary_empire_reform
 				tag = FRA
 				tag = AUV
 			}
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			religion_group = muslim
 			OR = {
@@ -3252,21 +3203,21 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			tag = AVR
 			government = monarchy
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			primary_culture = georgian
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			religion_group = muslim
 			tag = NJR
@@ -3280,7 +3231,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			religion_group = muslim
 			primary_culture = bedouin_arabic
@@ -3288,7 +3239,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			religion_group = muslim
 			government = tribal
@@ -3308,14 +3259,14 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			tag = SIS
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			culture_group = iranian
@@ -3359,12 +3310,9 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -3454,14 +3402,14 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			tag = ARK
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			tag = PGS
@@ -3483,7 +3431,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			OR = {
 				has_reform = enlightened_despotism
@@ -3495,7 +3443,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = peasants_republic
 			primary_culture = scanian
@@ -3557,14 +3505,14 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			tag = DEC
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			OR = {
@@ -3699,7 +3647,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			OR = {
@@ -3710,7 +3658,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			primary_culture = shan
@@ -3724,21 +3672,16 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			OR = {
 				government = monarchy
 				government = republic
 			}
 			NOT = {
-				government = monarchy
-				government = republic
 				tag = SUL
 			}
 			NOT = {
-				government = monarchy
-				government = republic
-				tag = SUL
 				tag = MGD
 			}
 			primary_culture = filipino
@@ -3775,9 +3718,10 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text={
@@ -3817,7 +3761,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			OR = {
 				government = monarchy
@@ -3827,7 +3771,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			OR = {
 				government = monarchy
@@ -3859,7 +3803,6 @@ defined_text = {
 				government = tribal
 			}
 			OR = {
-				government = tribal
 				religion = buddhism
 				religion = vajrayana
 				religion = mahayana
@@ -3867,13 +3810,16 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government = monarchy
 			NOT = {
 				has_reform = steppe_horde
 			}
 			religion_group = muslim
+			NOT = {
+				has_reform = feudal_theocracy
+			}
 		}
 	}
 	text={
@@ -3914,7 +3860,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			government = republic
 			has_reform = cossacks_reform
@@ -3936,7 +3882,6 @@ defined_text = {
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				is_revolutionary_republic_trigger = yes
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -3950,21 +3895,12 @@ defined_text = {
 				tag = PRM
 			}
 			NOT = {
-				culture_group = east_slavic
-				tag = PRM
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				culture_group = east_slavic
-				tag = PRM
-				is_revolutionary_republic_trigger = yes
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				culture_group = east_slavic
-				tag = PRM
-				is_revolutionary_republic_trigger = yes
-				has_reform = parliamentary_reform
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -3978,12 +3914,9 @@ defined_text = {
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				is_revolutionary_republic_trigger = yes
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				is_revolutionary_republic_trigger = yes
-				has_reform = parliamentary_reform
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -4088,25 +4021,15 @@ defined_text = {
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				has_reform = parliamentary_reform
 				has_reform = presidential_reform
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
-				is_revolutionary_republic_trigger = yes
 				has_reform = constitutional_republic
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
-				is_revolutionary_republic_trigger = yes
-				has_reform = constitutional_republic
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -4120,25 +4043,15 @@ defined_text = {
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				has_reform = parliamentary_reform
 				has_reform = presidential_reform
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
-				is_revolutionary_republic_trigger = yes
 				has_reform = constitutional_republic
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
-				is_revolutionary_republic_trigger = yes
-				has_reform = constitutional_republic
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -4153,7 +4066,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = presidential_despot_reform
 		}
@@ -4165,13 +4078,13 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = daimyo
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = indep_daimyo
 		}
@@ -4207,9 +4120,6 @@ defined_text = {
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				has_reform = constitutional_republic
-				has_reform = presidential_reform
-				has_reform = parliamentary_reform
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -4225,7 +4135,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = peasants_republic
 			has_country_flag = ikko_ikki_peasants_flag
@@ -4245,8 +4155,6 @@ defined_text = {
 			}
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
-				has_reform = leading_clergy_reform
-				has_reform = monastic_order_reform
 				religion_group = eastern
 				culture_group = japanese_g
 				capital_scope = { region = japan_region }
@@ -4254,7 +4162,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = monastic_order_reform
 			OR = {
@@ -4315,7 +4223,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			has_reform = monastic_breweries_reform
 			religion = catholic
@@ -4375,7 +4283,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			religion = ibadi
 			OR = {
@@ -4385,7 +4293,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			religion = shiite
 			primary_culture = yemeni_culture
@@ -4396,14 +4304,14 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			religion = shiite
 			government = theocracy
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			religion = sunni
 			government = theocracy
@@ -4414,7 +4322,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_word_moga
+		localisation_key = string_word_moze
 		trigger = {
 			religion = sunni
 			OR = {

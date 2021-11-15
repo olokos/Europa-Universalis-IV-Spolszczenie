@@ -75,7 +75,6 @@ defined_text = {
 				religion = orthodox
 			}
 			NOT = {
-				religion = orthodox
 				religion = coptic
 			}
 			is_march = yes
@@ -131,7 +130,6 @@ defined_text = {
 				has_reform = revolutionary_empire_reform
 			}
 			OR = {
-				has_reform = revolutionary_empire_reform
 				tag = FRA
 				tag = AUV
 			}
@@ -632,14 +630,9 @@ defined_text = {
 				government = republic
 			}
 			NOT = {
-				government = monarchy
-				government = republic
 				tag = SUL
 			}
 			NOT = {
-				government = monarchy
-				government = republic
-				tag = SUL
 				tag = MGD
 			}
 			primary_culture = filipino
@@ -777,7 +770,6 @@ defined_text = {
 				government = tribal
 			}
 			OR = {
-				government = tribal
 				religion = buddhism
 				religion = vajrayana
 				religion = mahayana
@@ -920,7 +912,6 @@ defined_text = {
 				religion = orthodox
 			}
 			NOT = {
-				religion = orthodox
 				religion = coptic
 			}
 			is_march = yes
@@ -960,7 +951,6 @@ defined_text = {
 				has_reform = revolutionary_empire_reform
 			}
 			OR = {
-				has_reform = revolutionary_empire_reform
 				tag = FRA
 				tag = AUV
 			}
@@ -1444,14 +1434,9 @@ defined_text = {
 				government = republic
 			}
 			NOT = {
-				government = monarchy
-				government = republic
 				tag = SUL
 			}
 			NOT = {
-				government = monarchy
-				government = republic
-				tag = SUL
 				tag = MGD
 			}
 			primary_culture = filipino
@@ -1578,7 +1563,6 @@ defined_text = {
 				government = tribal
 			}
 			OR = {
-				government = tribal
 				religion = buddhism
 				religion = vajrayana
 				religion = mahayana
@@ -1676,7 +1660,6 @@ defined_text = {
 				religion = orthodox
 			}
 			NOT = {
-				religion = orthodox
 				religion = coptic
 			}
 			is_march = yes
@@ -1713,7 +1696,6 @@ defined_text = {
 				has_reform = revolutionary_empire_reform
 			}
 			OR = {
-				has_reform = revolutionary_empire_reform
 				tag = FRA
 				tag = AUV
 			}
@@ -2158,14 +2140,9 @@ defined_text = {
 				government = republic
 			}
 			NOT = {
-				government = monarchy
-				government = republic
 				tag = SUL
 			}
 			NOT = {
-				government = monarchy
-				government = republic
-				tag = SUL
 				tag = MGD
 			}
 			primary_culture = filipino
@@ -2292,7 +2269,6 @@ defined_text = {
 				government = tribal
 			}
 			OR = {
-				government = tribal
 				religion = buddhism
 				religion = vajrayana
 				religion = mahayana
@@ -2423,7 +2399,6 @@ defined_text = {
 				religion = orthodox
 			}
 			NOT = {
-				religion = orthodox
 				religion = coptic
 			}
 			is_march = yes
@@ -2475,7 +2450,6 @@ defined_text = {
 				has_reform = revolutionary_empire_reform
 			}
 			OR = {
-				has_reform = revolutionary_empire_reform
 				tag = FRA
 				tag = AUV
 			}
@@ -2909,14 +2883,9 @@ defined_text = {
 				government = republic
 			}
 			NOT = {
-				government = monarchy
-				government = republic
 				tag = SUL
 			}
 			NOT = {
-				government = monarchy
-				government = republic
-				tag = SUL
 				tag = MGD
 			}
 			primary_culture = filipino
@@ -3042,7 +3011,6 @@ defined_text = {
 				government = tribal
 			}
 			OR = {
-				government = tribal
 				religion = buddhism
 				religion = vajrayana
 				religion = mahayana
@@ -3180,7 +3148,6 @@ defined_text = {
 				religion = orthodox
 			}
 			NOT = {
-				religion = orthodox
 				religion = coptic
 			}
 			is_march = yes
@@ -3225,7 +3192,6 @@ defined_text = {
 				has_reform = revolutionary_empire_reform
 			}
 			OR = {
-				has_reform = revolutionary_empire_reform
 				tag = FRA
 				tag = AUV
 			}
@@ -3729,14 +3695,9 @@ defined_text = {
 				government = republic
 			}
 			NOT = {
-				government = monarchy
-				government = republic
 				tag = SUL
 			}
 			NOT = {
-				government = monarchy
-				government = republic
-				tag = SUL
 				tag = MGD
 			}
 			primary_culture = filipino
@@ -3852,7 +3813,6 @@ defined_text = {
 				government = tribal
 			}
 			OR = {
-				government = tribal
 				religion = buddhism
 				religion = vajrayana
 				religion = mahayana
@@ -3980,7 +3940,6 @@ defined_text = {
 				religion = orthodox
 			}
 			NOT = {
-				religion = orthodox
 				religion = coptic
 			}
 			is_march = yes
@@ -4021,7 +3980,6 @@ defined_text = {
 				has_reform = revolutionary_empire_reform
 			}
 			OR = {
-				has_reform = revolutionary_empire_reform
 				tag = FRA
 				tag = AUV
 			}
@@ -4479,14 +4437,9 @@ defined_text = {
 				government = republic
 			}
 			NOT = {
-				government = monarchy
-				government = republic
 				tag = SUL
 			}
 			NOT = {
-				government = monarchy
-				government = republic
-				tag = SUL
 				tag = MGD
 			}
 			primary_culture = filipino
@@ -4601,7 +4554,6 @@ defined_text = {
 				government = tribal
 			}
 			OR = {
-				government = tribal
 				religion = buddhism
 				religion = vajrayana
 				religion = mahayana

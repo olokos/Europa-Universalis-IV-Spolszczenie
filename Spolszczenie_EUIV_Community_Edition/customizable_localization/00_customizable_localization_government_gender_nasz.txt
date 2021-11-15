@@ -1,10 +1,26 @@
 defined_text = {
-	name = GetGovGender_nasz
+	name = GetGovNameGen
 	random = no
 	text={
 		localisation_key = string_end_ego
 		trigger = {
 			has_reform = stateless_society
+		}
+	}
+	text={
+		localisation_key = string_end_ego
+		trigger = {
+			government_rank = 3
+			tag = KON
+			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_end_ego
+		trigger = {
+			government_rank = 3
+			tag = KON
+			government = monarchy
 		}
 	}
 	text={
@@ -168,7 +184,6 @@ defined_text = {
 				has_reform = pirate_king_reform
 			}
 			NOT = {
-				has_reform = pirate_king_reform
 				primary_culture = greek
 			}
 		}
@@ -212,7 +227,6 @@ defined_text = {
 				religion = orthodox
 			}
 			NOT = {
-				religion = orthodox
 				religion = coptic
 			}
 			is_march = yes
@@ -303,7 +317,6 @@ defined_text = {
 				has_reform = revolutionary_empire_reform
 			}
 			OR = {
-				has_reform = revolutionary_empire_reform
 				tag = FRA
 				tag = AUV
 			}
@@ -446,10 +459,7 @@ defined_text = {
 		localisation_key = string_end_ego
 		trigger = {
 			government_rank = 3
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -858,14 +868,9 @@ defined_text = {
 				government = republic
 			}
 			NOT = {
-				government = monarchy
-				government = republic
 				tag = SUL
 			}
 			NOT = {
-				government = monarchy
-				government = republic
-				tag = SUL
 				tag = MGD
 			}
 			primary_culture = filipino
@@ -909,6 +914,7 @@ defined_text = {
 		trigger = {
 			government_rank = 3
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text={
@@ -999,7 +1005,6 @@ defined_text = {
 				government = tribal
 			}
 			OR = {
-				government = tribal
 				religion = buddhism
 				religion = vajrayana
 				religion = mahayana
@@ -1015,6 +1020,9 @@ defined_text = {
 				has_reform = steppe_horde
 			}
 			religion_group = muslim
+			NOT = {
+				has_reform = feudal_theocracy
+			}
 		}
 	}
 	text={
@@ -1043,7 +1051,6 @@ defined_text = {
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				is_revolutionary_republic_trigger = yes
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -1058,21 +1065,12 @@ defined_text = {
 				tag = PRM
 			}
 			NOT = {
-				culture_group = east_slavic
-				tag = PRM
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				culture_group = east_slavic
-				tag = PRM
-				is_revolutionary_republic_trigger = yes
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				culture_group = east_slavic
-				tag = PRM
-				is_revolutionary_republic_trigger = yes
-				has_reform = parliamentary_reform
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -1087,12 +1085,9 @@ defined_text = {
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				is_revolutionary_republic_trigger = yes
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				is_revolutionary_republic_trigger = yes
-				has_reform = parliamentary_reform
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -1199,25 +1194,15 @@ defined_text = {
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				has_reform = parliamentary_reform
 				has_reform = presidential_reform
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
-				is_revolutionary_republic_trigger = yes
 				has_reform = constitutional_republic
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
-				is_revolutionary_republic_trigger = yes
-				has_reform = constitutional_republic
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -1232,25 +1217,15 @@ defined_text = {
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				has_reform = parliamentary_reform
 				has_reform = presidential_reform
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
-				is_revolutionary_republic_trigger = yes
 				has_reform = constitutional_republic
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
-				is_revolutionary_republic_trigger = yes
-				has_reform = constitutional_republic
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -1333,9 +1308,6 @@ defined_text = {
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				has_reform = constitutional_republic
-				has_reform = presidential_reform
-				has_reform = parliamentary_reform
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -1374,8 +1346,6 @@ defined_text = {
 			}
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
-				has_reform = leading_clergy_reform
-				has_reform = monastic_order_reform
 				religion_group = eastern
 				culture_group = japanese_g
 				capital_scope = { region = japan_region }
@@ -1624,6 +1594,22 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_end_ego
+		trigger = {
+			government_rank = 2
+			tag = KON
+			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_end_ego
+		trigger = {
+			government_rank = 2
+			tag = KON
+			government = monarchy
+		}
+	}
+	text={
 		localisation_key = string_end_ej
 		trigger = {
 			government_rank = 2
@@ -1658,7 +1644,6 @@ defined_text = {
 				has_reform = pirate_king_reform
 			}
 			NOT = {
-				has_reform = pirate_king_reform
 				primary_culture = greek
 			}
 		}
@@ -1688,7 +1673,6 @@ defined_text = {
 				religion = orthodox
 			}
 			NOT = {
-				religion = orthodox
 				religion = coptic
 			}
 			is_march = yes
@@ -1774,7 +1758,6 @@ defined_text = {
 				has_reform = revolutionary_empire_reform
 			}
 			OR = {
-				has_reform = revolutionary_empire_reform
 				tag = FRA
 				tag = AUV
 			}
@@ -1909,10 +1892,7 @@ defined_text = {
 		localisation_key = string_end_ego
 		trigger = {
 			government_rank = 2
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -2313,14 +2293,9 @@ defined_text = {
 				government = republic
 			}
 			NOT = {
-				government = monarchy
-				government = republic
 				tag = SUL
 			}
 			NOT = {
-				government = monarchy
-				government = republic
-				tag = SUL
 				tag = MGD
 			}
 			primary_culture = filipino
@@ -2356,6 +2331,7 @@ defined_text = {
 		trigger = {
 			government_rank = 2
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text={
@@ -2435,7 +2411,6 @@ defined_text = {
 				government = tribal
 			}
 			OR = {
-				government = tribal
 				religion = buddhism
 				religion = vajrayana
 				religion = mahayana
@@ -2451,6 +2426,9 @@ defined_text = {
 				has_reform = steppe_horde
 			}
 			religion_group = muslim
+			NOT = {
+				has_reform = feudal_theocracy
+			}
 		}
 	}
 	text={
@@ -2479,7 +2457,6 @@ defined_text = {
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				is_revolutionary_republic_trigger = yes
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -2494,21 +2471,12 @@ defined_text = {
 				tag = PRM
 			}
 			NOT = {
-				culture_group = east_slavic
-				tag = PRM
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				culture_group = east_slavic
-				tag = PRM
-				is_revolutionary_republic_trigger = yes
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				culture_group = east_slavic
-				tag = PRM
-				is_revolutionary_republic_trigger = yes
-				has_reform = parliamentary_reform
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -2523,12 +2491,9 @@ defined_text = {
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				is_revolutionary_republic_trigger = yes
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				is_revolutionary_republic_trigger = yes
-				has_reform = parliamentary_reform
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -2616,25 +2581,15 @@ defined_text = {
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				has_reform = parliamentary_reform
 				has_reform = presidential_reform
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
-				is_revolutionary_republic_trigger = yes
 				has_reform = constitutional_republic
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
-				is_revolutionary_republic_trigger = yes
-				has_reform = constitutional_republic
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -2649,25 +2604,15 @@ defined_text = {
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				has_reform = parliamentary_reform
 				has_reform = presidential_reform
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
-				is_revolutionary_republic_trigger = yes
 				has_reform = constitutional_republic
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
-				is_revolutionary_republic_trigger = yes
-				has_reform = constitutional_republic
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -2745,9 +2690,6 @@ defined_text = {
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				has_reform = constitutional_republic
-				has_reform = presidential_reform
-				has_reform = parliamentary_reform
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -2786,8 +2728,6 @@ defined_text = {
 			}
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
-				has_reform = leading_clergy_reform
-				has_reform = monastic_order_reform
 				religion_group = eastern
 				culture_group = japanese_g
 				capital_scope = { region = japan_region }
@@ -3052,6 +2992,20 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_end_ego
+		trigger = {
+			tag = KON
+			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_end_ego
+		trigger = {
+			tag = KON
+			government = monarchy
+		}
+	}
+	text={
 		localisation_key = string_end_ej
 		trigger = {
 			primary_culture = polish
@@ -3095,7 +3049,6 @@ defined_text = {
 				has_reform = pirate_king_reform
 			}
 			NOT = {
-				has_reform = pirate_king_reform
 				primary_culture = greek
 			}
 		}
@@ -3148,7 +3101,6 @@ defined_text = {
 				religion = orthodox
 			}
 			NOT = {
-				religion = orthodox
 				religion = coptic
 			}
 			is_march = yes
@@ -3234,7 +3186,6 @@ defined_text = {
 				has_reform = revolutionary_empire_reform
 			}
 			OR = {
-				has_reform = revolutionary_empire_reform
 				tag = FRA
 				tag = AUV
 			}
@@ -3361,10 +3312,7 @@ defined_text = {
 	text={
 		localisation_key = string_end_ego
 		trigger = {
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -3731,14 +3679,9 @@ defined_text = {
 				government = republic
 			}
 			NOT = {
-				government = monarchy
-				government = republic
 				tag = SUL
 			}
 			NOT = {
-				government = monarchy
-				government = republic
-				tag = SUL
 				tag = MGD
 			}
 			primary_culture = filipino
@@ -3778,6 +3721,7 @@ defined_text = {
 		localisation_key = string_end_ego
 		trigger = {
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text={
@@ -3859,7 +3803,6 @@ defined_text = {
 				government = tribal
 			}
 			OR = {
-				government = tribal
 				religion = buddhism
 				religion = vajrayana
 				religion = mahayana
@@ -3874,6 +3817,9 @@ defined_text = {
 				has_reform = steppe_horde
 			}
 			religion_group = muslim
+			NOT = {
+				has_reform = feudal_theocracy
+			}
 		}
 	}
 	text={
@@ -3936,7 +3882,6 @@ defined_text = {
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				is_revolutionary_republic_trigger = yes
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -3950,21 +3895,12 @@ defined_text = {
 				tag = PRM
 			}
 			NOT = {
-				culture_group = east_slavic
-				tag = PRM
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				culture_group = east_slavic
-				tag = PRM
-				is_revolutionary_republic_trigger = yes
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				culture_group = east_slavic
-				tag = PRM
-				is_revolutionary_republic_trigger = yes
-				has_reform = parliamentary_reform
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -3978,12 +3914,9 @@ defined_text = {
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				is_revolutionary_republic_trigger = yes
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				is_revolutionary_republic_trigger = yes
-				has_reform = parliamentary_reform
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -4088,25 +4021,15 @@ defined_text = {
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				has_reform = parliamentary_reform
 				has_reform = presidential_reform
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
-				is_revolutionary_republic_trigger = yes
 				has_reform = constitutional_republic
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
-				is_revolutionary_republic_trigger = yes
-				has_reform = constitutional_republic
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -4120,25 +4043,15 @@ defined_text = {
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				has_reform = parliamentary_reform
 				has_reform = presidential_reform
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
 				is_revolutionary_republic_trigger = yes
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
-				is_revolutionary_republic_trigger = yes
 				has_reform = constitutional_republic
 			}
 			NOT = {
-				has_reform = parliamentary_reform
-				has_reform = presidential_reform
-				is_revolutionary_republic_trigger = yes
-				has_reform = constitutional_republic
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -4207,9 +4120,6 @@ defined_text = {
 				has_reform = parliamentary_reform
 			}
 			NOT = {
-				has_reform = constitutional_republic
-				has_reform = presidential_reform
-				has_reform = parliamentary_reform
 				has_reform = presidential_despot_reform
 			}
 		}
@@ -4245,8 +4155,6 @@ defined_text = {
 			}
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
-				has_reform = leading_clergy_reform
-				has_reform = monastic_order_reform
 				religion_group = eastern
 				culture_group = japanese_g
 				capital_scope = { region = japan_region }

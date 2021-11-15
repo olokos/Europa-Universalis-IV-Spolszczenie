@@ -736,7 +736,7 @@ defined_text = {
 }
 
 defined_text = {
-	name = GetDip_Adm_KaNoun
+	name = GetAdv_Dip_KaNoun
 	random = no
 	text = {
 		localisation_key = string_end_ka
@@ -753,7 +753,7 @@ defined_text = {
 }
 
 defined_text = {
-	name = GetMil_Adm_KaNoun
+	name = GetAdv_Mil_KaNoun
 	random = no
 	text = {
 		localisation_key = string_end_ka
