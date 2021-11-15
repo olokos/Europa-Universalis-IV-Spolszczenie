@@ -136,7 +136,7 @@
  brahmins_estate_events.6.t: "Bramini wzniecają ludowy bunt"
  brahmins_estate_events.6.d: "Stosunki państwa z kastą bramińską osiągnęły punkt krytyczny. Pujarowie otwarcie potępili [Root.Monarch.GetName] podczas ceremonii, a rodziny bramińskie odmawiają współpracy w zakresie rządów naszych hinduskich poddanych. Niedawny religijny faux-pas [Root.Monarch.GetTitle] wywołał duże oburzenie. Bramini podżegają lud do powstania przeciwko naszej władzy!"
  brahmins_estate_events.6.a: "Dobrze."
- brahmins_estate_events.7.t: "Bramini odstraszyli kupców z [brahmin_trade_province.GetName]"
+ brahmins_estate_events.7.t: "Bramini odstraszyli kupców z prowincji [brahmin_trade_province.GetName]"
  brahmins_estate_events.7.d: "Miasto [brahmin_trade_province.GetCapitalName] jest ważnym regionalnym centrum handlowym w [Root.Country.GetName]. Często odwiedzają go muzułmańscy kupcy z Gudźaratu, Arabii i Persji, a [brahmin_trade_province.GetName] czerpał korzyści z silnych powiązań handlowych z tymi kupcami.\n\n[brahmin_trade_province.GetName] jest administrowany przez grupę bramińskich duchownych, których wpływ był odczuwalny na każdym aspekcie życia społecznego. Wprowadzili szereg polityk i stworzyli atmosferę społeczną, która nie jest przyjazna z perspektywy przyjeżdżających muzułmańskich kupców. W rezultacie wielu z tych zagranicznych inwestorów zdecydowało się przenieść swoją działalność w inne miejsce. [brahmin_trade_province.GetName] może stracić status centrum handlowego, jeśli nie zostaną podjęte działania w celu przyciągnięcia ruchu handlowego z powrotem do miasta."
  brahmins_estate_events.7.a: "Kłopoty kupców z niskiej kasty nie są naszym problemem."
  brahmins_estate_events.7.b: "Przekaż miasto liderom bardziej zainteresowanym rozwojem handlu."
