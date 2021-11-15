@@ -95,7 +95,7 @@
  center_of_revolution.9.desc: "Zwolennicy starego reżimu w prowincji [reactionary_province.GetName] ujawnili się jako wrogowie ludu. W skrupulatnie zaplanowanej konspiracji pokonali członków lokalnej milicji i zdołali aresztować naszych zarządców pod fałszywymi zarzutami. Teraz twierdzą, że ich obowiązkiem jest poprowadzenie ludzi z prowincji [reactionary_province.GetName] przez te niespokojne czasy, chroniąc ich przed najgorszymi ekscesami rewolucyjnego rządu. Jak powinniśmy sobie z nimi poradzić?"
  center_of_revolution.9.A: "Zmiażdżymy tych wrogów ludu!"
  center_of_revolution.9.B: "Nie są godni naszej uwagi."
- center_of_revolution.10.name: "Republikańskie plany w prowincji [provincia_to_revolution.GetName]"
+ center_of_revolution.10.name: "Republikańskie plany w prowincji [province_to_revolution.GetName]"
  center_of_revolution.10.desc: "Patrioci w prowincji [own_revolutionary_province.GetName] zaalarmowali nas o możliwości szerzenia ideałów rewolucji. Republikanie z prowincji [province_to_revolution.GetName] zwrócili się do nich z prośbą o pomoc [Root.GetAdjective] w zamachu stanu przeciwko reakcjonistom kierującym ich prowincją. Jednak reakcjoniści mają rozbudowane struktury tylko w mieście [own_revolutionary_province.GetCapitalName] i jest mało prawdopodobne, aby zrobią postępy bez naszego materialnego wsparcia. Na pewno nie zostanie to przychylnie przyjęte przez państwo [neighbour_country.GetName]."
  center_of_revolution.10.A: "Otrzymają nasze wsparcie."
  center_of_revolution.10.B: "Nie powinniśmy ingerować w sprawy [neighbour_country.GetAdjective]."
