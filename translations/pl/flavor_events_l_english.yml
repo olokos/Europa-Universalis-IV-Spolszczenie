@@ -1979,7 +1979,7 @@
  janissary_decadence.2.a: "Niech żyje [Root.Heir.GetName]!"
  janissary_decadence.2.b: "To hańba dla dynastii [Root.Monarch.Dynasty.GetName]!"
  janissary_decadence.3.t: "Urzędnicze nominacje"
- janissary_decadence.3.d: "Wraz z władzą przychodzi wielki wpływ na sposób przydzielania urzędów. Janczarzy coraz częściej umieszczają swoich preferowanych kandydatów na stanowiskach rządowych. [Root.Monarch.GetName] nie może odrzucić tych nominacji, ponieważ rozzłości przywódców  puczu."
+ janissary_decadence.3.d: "Wraz z władzą przychodzi wielki wpływ na sposób przydzielania urzędów. Janczarzy coraz częściej umieszczają swoich preferowanych kandydatów na stanowiskach rządowych. [Root.Monarch.GetName] nie może odrzucić tych nominacji, ponieważ rozzłości przywódców puczu."
  janissary_decadence.3.a: "Oburzające"
  janissary_decadence.4.t: "Podwyżka wynagrodzenia janczarów"
  janissary_decadence.4.d: "Janczarzy uważają, że ich obecne pensje nie odzwierciedlają wielkiego znaczenia ich korpusu w czasie wojny, a także odpowiedzialności, jaką obecnie przyjmują za zarządzanie Imperium. Teraz żądają, aby państwo zapewniło im lepszą pensję.\nBiorąc pod uwagę ich obecne uprawnienia, nie możemy im odmówić."
