@@ -837,7 +837,7 @@
  ASSIMILATED_CULTURES_TOOLTIP_DESC: "Kultury asymilowane liczą się jako kultury akceptowane w twoim kraju. Nie otrzymasz kary za prowincje tej kultury, a po asymilacji będzie stała. Kultura zostanie zasymilowana, kiedy podbijesz każdą prowincję z obecną kulturą. Jednak po wybraniu tej formy rządu nie będziesz miał już unii kulturalnych na poziomie imperium."
  ASSIMILATED_CULTURE_GROUPS_TOOLTIP_TITLE: "§YZasymilowane grupy kulturowe§!"
  ASSIMILATED_CULTURE_GROUPS_TOOLTIP_DESC: "Przyjęte grupy kulturowe przyniosą ci różne korzyści. Grupa zostaje zasymilowana, gdy jesteś właścicielem wszystkich prowincji, które mają kulturę należącą do tej grupy. Jeśli nie utrzymasz wszystkich tych prowincji, stracisz modyfikator."
- ADOPT_GOVERNMENT_PROGRESS: "Zyskujesz $TO|Y$ postępu reformy rządowej do wykorzystania na  bieżącą reformę przez $FROM|Y$.\n"
+ ADOPT_GOVERNMENT_PROGRESS: "Zyskujesz $TO|Y$ postępu reformy rządowej do wykorzystania na bieżącą reformę przez $FROM|Y$.\n"
  REFORM_DESELECTED_TITLE: "Reforma rządowa została zniesiona"
  REFORM_DESELECTED_DESC: "Zmiany w Twoim kraju spowodowały, że reforma $REFORM|Y$ nie jest już opłacalna i została zniesiona."
  GOVERNMENT_DESELECTED_TITLE: "Rząd został zniesiony"
