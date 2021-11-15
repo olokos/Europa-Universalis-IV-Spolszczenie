@@ -283,7 +283,7 @@
  EST_VAL_JAINS_ADVANCE: "Rozwój społeczeństwa dźinistów: §Y$VAL$%§!"
  EST_VAL_JAINS_DECLINE: "Upadek społeczeństwa dźinistów: §Y$VAL$%§!"
  jains_estate_events.2.t: "Zwiększenie wpływów dźinistów"
- jains_estate_events.2.d: "Wielu wpływowych dżinistów znalazło dom na dworze [Root.Country.GetName]. Dźinijscy asceci, bankierzy i kupcy mają posłuch u  [Root.Monarch.GetTitle]. Istnieją nawet pogłoski, że [Root.Monarch.GetName] przyłączył się do rytuałów dźinistów. Chociaż jest to niewielka mniejszość religijna, ale zyskuje władzę w polityce i społeczeństwie."
+ jains_estate_events.2.d: "Wielu wpływowych dżinistów znalazło dom na dworze [Root.Country.GetName]. Dźinijscy asceci, bankierzy i kupcy mają posłuch u [Root.Monarch.GetTitle]. Istnieją nawet pogłoski, że [Root.Monarch.GetName] przyłączył się do rytuałów dźinistów. Chociaż jest to niewielka mniejszość religijna, ale zyskuje władzę w polityce i społeczeństwie."
  jains_estate_events.3.t: "Zmniejszenie wpływów dźinistów"
  jains_estate_events.3.d: "Dźiniści po raz kolejny odczuwają brak kapitału społecznego. Wybitni asceci zostali wygnani z dworu po serii nieporozumień religijnych i politycznych, a ich kupcy tracą fortuny. Wpływ dźinistów spada."
  jains_estate_events.3.a: "Zaakceptuj"
