@@ -1858,7 +1858,7 @@
  flavor_tur.EVTOPTB3366: "Ograniczone reformy"
  flavor_tur.EVTOPTC3366: "Zmniejsz oddziaływanie królewskiej biurokracji."
  flavor_tur.EVTNAME3367: "Wielka reforma marynarki"
- flavor_tur.EVTDESC3367: "Selim I, zwany Groźnym, był posępnym mężczyzną o bystrym umyśle. Dostrzegając zagrożenie ze strony wielkich flot chrześcijańskiego świata, zwłaszcza weneckiej, pojął, że Imperium Osmańskie musi znacząco rozbudować własną marynarkę. Wzorując się na Arsenale Weneckim nakazał budowę 'Tersane-i Amire' - imperialnej stoczni  - w Konstantynopolu. Została ona ukończona w 1517 r."
+ flavor_tur.EVTDESC3367: "Selim I, zwany Groźnym, był posępnym mężczyzną o bystrym umyśle. Dostrzegając zagrożenie ze strony wielkich flot chrześcijańskiego świata, zwłaszcza weneckiej, pojął, że Imperium Osmańskie musi znacząco rozbudować własną marynarkę. Wzorując się na Arsenale Weneckim nakazał budowę 'Tersane-i Amire' - imperialnej stoczni - w Konstantynopolu. Została ona ukończona w 1517 r."
  flavor_tur.EVTOPTA3367: "Zbuduj stocznię imperialną"
  flavor_tur.EVTOPTB3367: "Zbuduj mniejszą stocznię"
  flavor_tur.EVTOPTC3367: "Zamiast tego zreformuj armię"
