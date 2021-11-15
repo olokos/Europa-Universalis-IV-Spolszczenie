@@ -1644,7 +1644,7 @@
  flavor_fra.EVTOPTA3200: "Zachęć ich do tego..."
  flavor_fra.EVTOPTB3200: "Trzeba ich powstrzymać"
  flavor_fra.EVTNAME3102: "Plany zabójstwa wladcy"
- flavor_fra.EVTDESC3102: "Po katastrofalnym Dniu Barykad wiele osób na dworze doszło do wniosku, że [Root.fra_religious_league_leader.GetName] jest zbyt niebezpieczny, by pozwolić mu żyć. Być może nadszedł czas, aby kontratakować. Umówiliśmy się na spotkanie, w którym będzie uczestniczył [Root.fra_religious_league_leader.GetName] i [Root.Monarch.GetTitle], które z łatwością można wykorzystać jako pretekst do zwabienia go w pułapkę. Jedyną alternatywą, choć nie do pomyślenia, byłoby dokonanie zbrodni i dążenie do pojednania się  z francuską Ligą [Root.Religion.GetName]."
+ flavor_fra.EVTDESC3102: "Po katastrofalnym Dniu Barykad wiele osób na dworze doszło do wniosku, że [Root.fra_religious_league_leader.GetName] jest zbyt niebezpieczny, by pozwolić mu żyć. Być może nadszedł czas, aby kontratakować. Umówiliśmy się na spotkanie, w którym będzie uczestniczył [Root.fra_religious_league_leader.GetName] i [Root.Monarch.GetTitle], które z łatwością można wykorzystać jako pretekst do zwabienia go w pułapkę. Jedyną alternatywą, choć nie do pomyślenia, byłoby dokonanie zbrodni i dążenie do pojednania się z francuską Ligą [Root.Religion.GetName]."
  flavor_fra.EVTOPTA3102: "Zamorduj go."
  flavor_fra.EVTOPTB3102: "Wybacz Lidze jej czyny."
  flavor_fra.EVTNAME3009: "Dzień Barykad"
