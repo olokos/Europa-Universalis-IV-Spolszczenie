@@ -2,6 +2,8 @@
 Polish translation of Europa Universalis IV.
 
 Spolszczenie jest również dostępne na Paradox Mods: [url=https://mods.paradoxplaza.com/mods/31560/Any] Link[/url]
+Jak i steam:
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1869998815]Link[/url]
 
 [h2]Obsługiwana wersja gry i zakres tłumaczenia:[/h2]
 Spolszczenie do Europa Universalis 4 w najnowszej wersji 1.31.5.2 (Majapahit).
