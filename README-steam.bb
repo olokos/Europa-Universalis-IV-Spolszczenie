@@ -1,25 +1,24 @@
 [h1]Europa Universalis IV Community Translation / Spolszczenie[/h1]
 Polish translation of Europa Universalis IV.
 
-Spolszczenie jest również dostępne na Paradox Mods: [url=https://mods.paradoxplaza.com/mods/16442/Any] Link[/url]
+Spolszczenie jest również dostępne na Paradox Mods: [url=https://mods.paradoxplaza.com/mods/31560/Any] Link[/url]
 
 [h2]Obsługiwana wersja gry i zakres tłumaczenia:[/h2]
-Spolszczenie do najnowszej wersji Europa Universalis 1.31.1. Działa bezproblemowo z każdą wersją gry 1.31.x (Majapahit).
+Spolszczenie do Europa Universalis 4 w najnowszej wersji 1.31.5.2 (Majapahit).
 
-[h3]Stan w wersji 3.0.0 [01.05.2021]:[/h3]
- * 19 624 sprawdzone wpisy (535 948 słów)
- * 76 972 przetłumaczone wpisy (741 190 słów)
- * 20 150 nieprzetłumaczonych wpisów (435 183 słów)
+[h3]Stan w wersji 3.0.4 [06.09.2021]:[/h3]
+* 19 528 sprawdzonych wpisów (100 522 słowa)
+* 80 835 przetłumaczonych wpisów (798 558 słów)
+* 16 632 nieprzetłumaczone wpisy (380 714 słów)
 
-Jest to obecnie najpełniejsze, stworzone przez społeczność gry, spolszczenie, które posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie [b](79,25% całej gry)[/b]. Prace projektu obejmują 116 plików, z czego do przetłumaczenia pozostało 35.
+Jest to obecnie najpełniejsze, stworzone przez społeczność gry, spolszczenie, które posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie [b](82,94% całej gry)[/b]. Prace projektu obejmują 115 plików, z czego do przetłumaczenia pozostało 19.
  
 [h3]Lista zmian:[/h3]
-- Zaktualizowano wszystkie klucze tekstów do najnowszych z wersji 1.31.1 Majapahit
-- Przetłumaczono ponad 2000 linijek tekstu
-- Poprawiono wiele linijek tekstu
-- Dodano kolejne funkcje Customisable Localisation (CL) pozwalające dostosować grę do specyfiki języka polskiego
+- Przetłumaczono ponad 800 linijek tekstu
+- Przetłumaczono całkowicie dodatek Third Rome
+- Dodano nowe funkcje Custom Localisation
 
-[h3]Postęp prac nad spolszczeniem (stan na 01.05.2021):[/h3]
+[h3]Postęp prac nad spolszczeniem (stan na 06.09.2021):[/h3]
 
 [b]Wersja podstawowa EU4[/b]: 
 * Główne pliki przetłumaczone w całości oprócz części wydarzeń i zintegrowanego z grą dodatku women in history, które są w trakcie tłumaczenia.
@@ -31,33 +30,33 @@ Jest to obecnie najpełniejsze, stworzone przez społeczność gry, spolszczenie
 * Conquest of Paradise
 * Wealth of Nations
 * Res Publica
-* El Dorado 
+* El Dorado
 * Mare Nostrum
+* Third Rome
 * Rule Britannia
 * Dharma
+* Golden Century
 
 [b]Tłumaczone dodatki:[/b]
 (postęp określono dla głównych plików)
 
-* Art of War              - 54,28% (29 513)
-* Common Sense            - 29,99% (24 162)
-* The Cossacks            - 38,52% (17 773)
-* Rights of Man           - 31,26% (31 686)
-* Mandate of Heaven       - 20,63% (14 273)
-* Third Rome              - 17,44% (6 722)
-* Cradle of Civilization  - 32,37% (12 035)
-* Golden Century          - 69,11% (4 996)  
+* Art of War - 54,33% (29 508)
+* Common Sense - 30,05% (24 092)
+* The Cossacks - 38,59% (17 768)
+* Rights of Man - 31,44% (31 660)
+* Mandate of Heaven - 20,63% (14 273)
+* Cradle of Civilization - 33,41% (11 990)
 * Emperor
-- emperor content         - 27,02% (59 279)
-- emperor missions        - 50,71% (32 255)
-- emperor                 - 59,58% (4 473)
-- emperor estates         - 100% (0/17 120)
-- emperor revolutions     - 100% (0/6 118)
+- emperor content - 27,20% (59 218)
+- emperor - 61,22% (4 363)
+- emperor missions - 62,04% (24 317)
+- emperor estates - 100% (0/17 120)
+- emperor revolutions - 100% (0/6 118)
 * Leviathan
-- mandala missions        - 3,53% (10 984)
-- leviathan               - 6,12% (26 232)
-- 00 lanfang              - 8,83% (8 211) 
-- tmm                     - 22,26% (5 891)
+- leviathan - 10,64% (28 135)
+- mandala missions - 14,98% (10 592)
+- 00 lanfang - 24,68% (7 900)
+- tmm - 66,90% (3 746)
 
 [b]Objaśnienia:[/b]
  + procenty określają postęp tłumaczenia dodatku (w zakresie wpisów (linijek))
@@ -109,7 +108,7 @@ W razie jakichkolwiek problemów/zastrzeżeń/propozycji zachęcamy do kontaktu 
 - Shick - tłumaczenie
 - Witcher - korekta, testy, tłumaczenie
 
-- Autorzy [url=https://steamcommunity.com/sharedfiles/filedetails/?id=537685335] spolszczenia Grajpopolsku.pl[/url]:
+- Autorzy [url=https://steamcommunity.com/sharedfiles/filedetails/?id=537685335] spolszczenia Grajpopolsku[/url]:
 * Asenath - korekta
 * archi - tłumaczenie
 * Axsis - tłumaczenie
