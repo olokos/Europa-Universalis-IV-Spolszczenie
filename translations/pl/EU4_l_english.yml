@@ -1560,7 +1560,7 @@
  BURN_NOT_COLONY: "Tylko kolonie mogą zostać spalone."
  BURN_NEED_CONTROL: "Musisz kontrolować tę prowincję, aby móc spalić kolonię."
  NOBC_NO_POINTS: "Potrzebujesz §Y$COST$§W £mil, aby spalić kolonię, a masz tylko §Y$VAL$§W."
- UNIT_BURN_COLONY: "Spalić tę kolonię za §Y$COST$§W£mil "
+ UNIT_BURN_COLONY: "Spal tę kolonię za §Y$COST$§W£mil "
  NOT_AN_IN_COMBAT: "Nie jest możliwe, aby zaatakować tubylców w czasie walki."
  NO_NATIVES_TO_ATTACK: "Nie ma tubylców, których można by zaatakować."
  NO_NATIVES_ON_OTHER: "To nie nasza ziemia, tubylcy są tu chronieni."
