@@ -2138,7 +2138,7 @@
  EVENTHAPPENUS_1:0 "$EVENT$"
  EVENTHAPPENUS_2:0 "wydarzenie"
  EVENTHAPPENUS_3:0 "dla nas."
- EVENTHAPPENUS_LOG:0 "Wydarzenie $EVENT$."
+ EVENTHAPPENUS_LOG:0 "Wydarzenie $EVENT$ dla gracza."
  EVENTHAPPENUS_BTN1:0 "Rozumiem."
  EVENTHAPPENUS_BTN2:0 "Rozumiem."
  COLSUCCESS_TITLE:0 "Za³o¿ono koloni²"
