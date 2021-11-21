@@ -104,7 +104,7 @@
  HRE_LEAGUE_LEADER_NO_CHANGE_DURING_WAR:0 "Nie mo¿na zmieni¾ lidera ligi podczas trwania wojny, w której uczestniczy."
  HRE_LEAGUE_LEADER_WRONG_RELIGION:0 "Paªstwo §Y$RELIGION$§! nie mo¿e zosta¾ liderem tej ligi."
  HRE_LEAGUE_LEADER_REGENCY:0 "Paªstwo nie mo¿e zosta¾ liderem ligi podczas rz¹dów Regenta."
- HRE_LEAGUE_LEADER_SCORE:0 "To become the new leader of this league §Y$COUNTRY$§! would need a military score of more than §Y$SCORE_NEEDED$§! due to the current leader having a score of §Y$SCORE_LEADER$§!. The current military score for §Y$COUNTRY$§! is §Y$SCORE_CURRENT$§!. Maximum Manpower, Force Limit and Tactics determine the military score. Being at War reduces it dramatically, while being an Elector increases it significantly."
+ HRE_LEAGUE_LEADER_SCORE:0 "Aby zosta¾ nowym liderem tej ligi kraj §Y$COUNTRY$§! musia³by zgromadzi¾ ponad §Y$SCORE_NEEDED$§! punktów militarnych, jako ¿e dotychczasowy lider zgromadzi³ ich §Y$SCORE_LEADER$§!. Kraj §Y$COUNTRY$§! zgromadzi³ obecnie §Y$SCORE_CURRENT$§! punktów militarnych. O ca³kowitej liczbie punktów militarnych decyduj¹ wielkoœ¾ zasobów ludzkich oraz limity si³y i taktyki. Bycie w stanie wojny drastycznie j¹ zmniejsza, natomiast bycie elektorem znacznie j¹ zwi²ksza."
  HRE_LEAGUE_LEADER_SCORE_WAR:0 "Wynik §Y$COUNTRY$§! jest obni¿ony, poniewa¿ s¹ w stanie wojny."
  HRE_LEAGUE_LEADER_SCORE_ELECTOR:0 "Wynik §Y$COUNTRY$§! jest podniesiony, poniewa¿ pe³ni¹ rol² Elektora."
  HRE_LEAGUE_LEADER_SCORE_ONLY:0 "Aktualna liczba punktów militarnych kraju §Y$COUNTRY$§! wynosi §Y$SCORE_CURRENT$§!."

@@ -249,7 +249,7 @@
  personality_events.20.t:0 "Friends in Low Places"
  personality_events.20.d:0 "It is said that every other performer, artist or thief in the capitals of our rivals is really an informant of [Root.Monarch.GetName]. With a keen personal interest in the comings and goings of just about anyone with any influence our [Root.Monarch.GetTitle] often see opportunities long before our chief of espionage does. Lately the contacts of [Root.Monarch.GetName] have indicated that there are openings we might be able to use in countries of interest. This would require us to open the state coffers a bit however."
  personality_events.20.a:0 "Pieni¹dze to nie wszystko."
- personality_events.20.b:0 "Let's leave the spying to professionals."
+ personality_events.20.b:0 "Szpiegowanie zostawmy profesjonalistom."
  personality_events.21.t:0 "Narodzi³y si² bliŸni²ta!"
  personality_events.21.d:0 "Praise the heavens! [Root.Monarch.GetName] has given birth to two healthy children. In the commotion it is a bit unclear who the new royal heir will be..."
  personality_events.21.a:0 "The one that looks to be the stronger of the two."

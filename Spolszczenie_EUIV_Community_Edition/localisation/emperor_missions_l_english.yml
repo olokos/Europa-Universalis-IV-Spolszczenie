@@ -2423,7 +2423,7 @@
  IS_NOT_IN_WAR_TRIGGER_STARTS:0 "Not in a War"
  dof_refused_join_war:0 "Niehonorowy obroªca wiary"
  defender_of_faith_refused_cta:0 "Niehonorowy obroªca wiary"
- COUNTRY_NAME_WILL_CHANGE_IN:0 "Country name will change to $NAME|Y$."
+ COUNTRY_NAME_WILL_CHANGE_IN:0 "Nazwa kraju zmieni si² na $NAME|Y$."
  COUNTRY_NAME_WILL_BE_RESTORED:0 "Country name will be restored to the original value"
  KINGDOM_OF_GOD:0 "Królestwo Bo¿e"
  KINGDOM_OF_GOD_ADJ:0 "Paªstwa Koœcielnego"

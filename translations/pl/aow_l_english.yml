@@ -104,7 +104,7 @@
  HRE_LEAGUE_LEADER_NO_CHANGE_DURING_WAR: "Nie można zmienić lidera ligi podczas trwania wojny, w której uczestniczy."
  HRE_LEAGUE_LEADER_WRONG_RELIGION: "Państwo §Y$RELIGION$§! nie może zostać liderem tej ligi."
  HRE_LEAGUE_LEADER_REGENCY: "Państwo nie może zostać liderem ligi podczas rządów Regenta."
- HRE_LEAGUE_LEADER_SCORE: ""
+ HRE_LEAGUE_LEADER_SCORE: "Aby zostać nowym liderem tej ligi kraj §Y$COUNTRY$§! musiałby zgromadzić ponad §Y$SCORE_NEEDED$§! punktów militarnych, jako że dotychczasowy lider zgromadził ich §Y$SCORE_LEADER$§!. Kraj §Y$COUNTRY$§! zgromadził obecnie §Y$SCORE_CURRENT$§! punktów militarnych. O całkowitej liczbie punktów militarnych decydują wielkość zasobów ludzkich oraz limity siły i taktyki. Bycie w stanie wojny drastycznie ją zmniejsza, natomiast bycie elektorem znacznie ją zwiększa."
  HRE_LEAGUE_LEADER_SCORE_WAR: "Wynik §Y$COUNTRY$§! jest obniżony, ponieważ są w stanie wojny."
  HRE_LEAGUE_LEADER_SCORE_ELECTOR: "Wynik §Y$COUNTRY$§! jest podniesiony, ponieważ pełnią rolę Elektora."
  HRE_LEAGUE_LEADER_SCORE_ONLY: "Aktualna liczba punktów militarnych kraju §Y$COUNTRY$§! wynosi §Y$SCORE_CURRENT$§!."

@@ -324,14 +324,14 @@
  string_BREWMISTRESS: "Piwowarki" #Piwowarka
  string_BROTHER: "Brata" #Brat
  string_BURGMEISTER: "Bürgermeistera" #Bürgermeister
- string_BURGMEISTER_fem: "" #     #nowy
+ string_BURGMEISTER_fem: "Bürgermeisterin" #Bürgermeisterin
  string_CALIPH: "Kalifa" #Kalif
  string_CALIPHA: "Kalify" #Kalifa
  string_CAPTAIN: "Kapitana" #Kapitan
  string_CAPTAIN_DEFENDER: "Kapitana i Obrońcy" #Kapitan i Obrońca
  string_CAPTAIN_DEFENDER_fem: "Kapitanki i Obrończyni" #Kapitanka i Obrończyni
  string_CAPTAIN_GENERAL: "Kapitana Generalnego" #Kapitan Generalny
- string_CAPTAIN_GENERAL_fem: "" # #nowy
+ string_CAPTAIN_GENERAL_fem: "Kapitanki Generalnej" #Kapitanka Generalna
  string_CAPTAIN_fem: "Kapitanki" #Kapitanka
  string_CAR: "Cara" #Car
  string_CARICA: "Carycy" #Caryca
@@ -344,7 +344,7 @@
  string_CHIEFTESS: "Przywódczyni" #Przywódczyni
  string_CIHUATLAHTOANI: "Cihuatlahtani" #Cihuatlahtani
  string_COMMANDER_EMPEROR: "Dowódcy Imperialnego" #Dowódca Imperialny
- string_COMMANDER_EMPRESS: "" # #nowy
+ string_COMMANDER_EMPRESS: "Dowódczyni Imperialnej" #Dowódczyni Imperialna
  string_CONSUL: "Konsula" #Konsul
  string_CONSULESS: "Konsulki" #Konsulka
  string_CONSULESS_ELECTOR: "Konsulki Elektorki" #Konsulka Elektorka
@@ -362,8 +362,8 @@
  string_DAUGHTER_OF_HEAVEN: "Córy Niebios" #Córa Niebios
  string_DESPOT: "Despoty" #Despota
  string_DESPOTISSA: "Despotki" #Despotka
- string_DEUTSCHMEISTER: "Magistra Germaniae" #Magister Germaniae
- string_DEUTSCHMEISTER_fem: "" # #nowy
+ string_DEUTSCHMEISTER: "Magistra Germaniæ" #Magister Germaniæ
+ string_DEUTSCHMEISTER_fem: "Magistry Germaniæ" #Magistra Germaniæ
  string_DIRECTOR: "Dyrektora" #Dyrektor
  string_DIRECTORESS: "Dyrektorki" #Dyrektorka
  string_DOGARESSA: "Dożaressy" #Dożaressa
@@ -383,12 +383,12 @@
  string_EMPRESS: "Cesarzowej" #Cesarzowa
  string_FAAMA: "Faamy" #Faama
  string_FIELD_MARSHAL: "Feldmarszałka" #Feldmarszałek
- string_FIELD_MARSHAL_fem: "" # #nowy
+ string_FIELD_MARSHAL_fem: "Feldmarszałkini" #Feldmarszałkini
  string_FILOHANY: "Filohany'ego" #Filohany
  string_FIRST_LAWSPEAKER: "Pierwszego Lögsögumadura" #Pierwszy Lögsögumadur
  string_FIRST_LAWSPEAKER_fem: "Pierwszej Lögsögumadur" #Pierwsza Lögsögumadur
  string_FIRST_RANGER: "Lorda Strażnika" #Lord Strażnik
- string_FIRST_RANGER_fem: "" # #nowy
+ string_FIRST_RANGER_fem: "Lady Strażniczki" #Lady Strażniczka
  string_GEGE: "Gege" #Gege
  string_GERAD: "Gerada" #Gerad
  string_GONFALONIERE: "Gonfaloniera" #Gonfalonier
@@ -417,8 +417,8 @@
  string_GRAND_MISTRESS: "Wielkiej Mistrzyni" #Wielka Mistrzyni
  string_GRAND_PENSIONARY: "Wielkiego Pensjonariusza" #Wielki Pensjonariusz
  string_GRAND_PENSIONARY_fem: "Wielkiej Pensjonariuszki" #Wielka Pensjonariuszka
- string_GRAND_POSADNIK: "" # #nowy
- string_GRAND_POSADNITSA: "" # #nowy
+ string_GRAND_POSADNIK: "Wielkiego Posadnika" #Wielki Posadnik
+ string_GRAND_POSADNITSA: "Wielkiej Posadnicy" #Wielka Posadnica
  string_GRAND_RABBI: "Naczelnego Rabina" #Naczelny Rabin
  string_GRAND_RECTOR: "Wielkiego Rektora" #Wielki Rektor
  string_GRAND_RECTORA: "Wielkiej Rektorki" #Wielka Rektorka
@@ -438,13 +438,13 @@
  string_GREAT_HETMAN: "Wielkiego Hetmana" #Wielki Hetman
  string_GREAT_HETMAN_fem: "Wielkiej Hetmanki" #Wielka Hetmanka
  string_GREAT_IMAM: "Wielkiego Imama" #Wielki Imam
- string_GREAT_IMAM_fem: "" # #nowy
+ string_GREAT_IMAM_fem: "Wielkiej Imamki" #Wielka Imamka
  string_GREAT_JAM: "Wielkiego Dźama" #Wielki Dźam
  string_GREAT_JAM_fem: "Wielkiej Dźamy" #Wielka Dźama
  string_GREAT_KABAKA: "Wielkiego Kabaki" #Wielki Kabaka
  string_GREAT_KHATUN: "Wielkiej Katun" #Wielka Katun
  string_GREAT_KHOJA: "Wielkiego Chodży" #Wielki Chodża
- string_GREAT_KHOJA_fem: "" # #nowy
+ string_GREAT_KHOJA_fem: "Wielkiej Chodży" #Wielka Chodża
  string_GREAT_KNIAGINIA: "Wielkiej Kniahini" #Wielka Kniahini
  string_GREAT_KNIAZ: "Wielkiego Kniazia" #Wielki Kniaź
  string_GREAT_LAKAN: "Wielkiego Lakana" #Wielki Lakan
@@ -460,14 +460,14 @@
  string_GREAT_MULOPWE_fem: "Wielkiej Mulopwe" #Wielka Mulopwe
  string_GREAT_MWENEMUTAPA: "Mwana Matapy" #Mwana Motapa
  string_GREAT_MWENEMUTAPA_fem: "Mwany Motapa" #Mwana Motapa
- string_GREAT_MWENE_KONGO: "" # #nowy
- string_GREAT_MWENE_KONGO_fem: "" # #nowy
+ string_GREAT_MWENE_KONGO: "Mwene Kongo" #Mwene Kongo
+ string_GREAT_MWENE_KONGO_fem: "Mwene Kongo" #Mwene Kongo
  string_GREAT_NNABAGEREKA: "Nabagereki" #Nabagereka
  string_GREAT_OMUKAMA: "Wielkiego Omukamana" #Wielki Omukama
  string_GREAT_PHARAOH: "Wielkiego Faraona" #Wielki Faraon
  string_GREAT_PHARAOH_fem: "Wielkiej Faraonki" #Wielka Faraonka
- string_GREAT_POSADNIK: "" # #nowy
- string_GREAT_POSADNITSA: "" # #nowy
+ string_GREAT_POSADNIK: "Wielkiego Posadnika" #Wielki Posadnik
+ string_GREAT_POSADNITSA: "Wielkiej Posadnicy" #Wielka Posadnica
  string_GREAT_PRINCE: "Wielkiego Księcia" #Wielki Książę
  string_GREAT_PRINCESS: "Wielkiej Księżnej" #Wielka Księżna
  string_GREAT_RECTOR: "Wielkiego Rektora" #Wielki Rektor
@@ -480,7 +480,7 @@
  string_GREAT_SULTANA: "Wielkiej Sułtanki" #Wielka Sułtanka
  string_GREAT_TULKU: "Wielkiego Tulku" #Wielki Tulku
  string_GROSSMEISTER: "Grossmeistra" #Grossmeister
- string_GROSSMEISTER_fem: "" # #nowy
+ string_GROSSMEISTER_fem: "Grossmeisterin" #Grossmeisterin
  string_HALACH_UINIK: "Halach Uinika" #Halach Uinik
  string_HATUN: "Hatun" #Hatun
  string_HEGEMON: "Hegemona" #Hegemon
@@ -498,7 +498,7 @@
  string_HIGH_ELDER_fem: "Wyższej Starszej" #Wyższa Starsza
  string_HIGH_GURU: "Najwyższego Guru" #Najwyższy Guru
  string_HIGH_IMAM: "Wysokiego Imama" #Wysoki Imam
- string_HIGH_IMAM_fem: "" # #nowy
+ string_HIGH_IMAM_fem: "Wysokiej Imamki" #Wysoka Imamka
  string_HIGH_KING: "Wielkiego Króla" #Wielki Król
  string_HIGH_MONSHU: "Monshu Szoguna" #Monshu Szogun
  string_HIGH_MONSHUESS: "Monshu Szogunki" #Monshu Szogunka
@@ -506,12 +506,12 @@
  string_HIGH_PRIESTESS: "Wysokiej Kapłanki" #Wysoka Kapłanka
  string_HIGH_QUEEN: "Wielkiej Królowej" #Wielka Królowa
  string_HOCHMEISTER: "Hochmeistra" #Hochmeister
- string_HOCHMEISTER_fem: "" # #nowy
+ string_HOCHMEISTER_fem: "Hochmeisterin" #Hochmeisterin
  string_HUEHUETLATOANI: "Huehuetlatoaniego" #Huehuetlatoani
  string_ILKHAN: "Ilchana" #Ilchan
  string_ILKHATUN: "Ilchatun" #Ilchatun
  string_IMAM: "Imama" #Imam
- string_IMAM_fem: "" # #nowy
+ string_IMAM_fem: "Imamki" #Imamka
  string_IMPERATOR: "Imperatora" #Imperator
  string_IMPERATRIX: "Imperatorki" #Imperatorka
  string_JAM: "Dźama" #Dźam
@@ -546,17 +546,17 @@
  string_LAKAN: "Lakana" #Lakan
  string_LAMA: "Lamy" #Lama
  string_LANDMEISTER: "Landmeistra" #Landmeister
- string_LANDMEISTER_fem: "" # #nowy
+ string_LANDMEISTER_fem: "Landmeisterin" #Landmeisterin
  string_LANDSBONDE: "Landsbonde'a" #Landsbonde
  string_LANDSBONDE_fem: "Landsbonde'y" #Landsbonde
  string_LE_ELT: "Le'elt" #Le'el
  string_LORD: "Lorda" #Lord
  string_LORD_COMMANDER: "Lorda Dowódcy" #Lord Dowódca
  string_LORD_HIGH_ADMIRAL: "Lorda Wysokiego Admirała" #Lord Wysoki Admirał
- string_LORD_HIGH_ADMIRAL_fem: "" # #nowy
+ string_LORD_HIGH_ADMIRAL_fem: "Lady Wysokiej Admirał" #Lady Wysoka Admirał
  string_LORD_PROTECTOR: "Lorda Protektora" #Lord Protektor
  string_MAGISTER_HOCHMEISTER: "Magistra Hochmeistra" #Magister Hochmeister
- string_MAGISTER_HOCHMEISTER_fem: "" # #nowy
+ string_MAGISTER_HOCHMEISTER_fem: "Magistry Hochmeisterin" #Magistra Hochmeisterin
  string_MAHARAJA: "Maharadży" #Maharadża
  string_MAHARANA: "Maharany" #Maharana
  string_MAHARANI: "Maharani" #Maharani
@@ -567,7 +567,7 @@
  string_MARGRAVE: "Margrabiego" #Margrabia
  string_MARGRAVINE: "Margrabiny" #Margrabina
  string_MARSHAL: "Marszałka" #Marszałek
- string_MARSHAL_fem: "" # #nowy
+ string_MARSHAL_fem: "Marszałkini" #Marszałkini
  string_MATRIARCH: "Matrony" #Matrona
  string_MATRIARCH_ELECTOR: "Matrony Elektorki" #Matrona Elektorka
  string_MAYOR: "Burmistrza" #Burmistrz
@@ -580,7 +580,7 @@
  string_MOBEDYAR: "Mobediary" #Mobediara
  string_MONSHU: "Monshu" #Monshu
  string_MOST_SERNE_MARSHAL: "Najjaśniejszego Marszałka" #Najjaśniejszy Marszałek
- string_MOST_SERNE_MARSHAL_fem: "" # #nowy
+ string_MOST_SERNE_MARSHAL_fem: "Najjaśniejszej Marszałkini" #Najjaśniejsza Marszałkini
  string_MOTHER_SUPERIOR: "Matki Przełożonej" #Matka Przełożona
  string_MPANJAKE_BE: "Mpanjake-be" #Mpanjake-be
  string_MUGABE: "Mugabego" #Mugabe
@@ -590,8 +590,8 @@
  string_MWAMI: "Mwamiego" #Mwami
  string_MWENEMUTAPA: "Mwana Motapy" #Mwana Motapa
  string_MWENEMUTAPA_fem: "Mwany Motapy" #Mwana Motapa
- string_MWENE_KONGO: "" # #nowy
- string_MWENE_KONGO_fem: "" # #nowy
+ string_MWENE_KONGO: "Mwene Kongo" #Mwene Kongo
+ string_MWENE_KONGO_fem: "Mwene Kongo" #Mwene Kongo
  string_NACOM: "Nacoma" #Nacom
  string_NAWAB: "Nawaba" #Nawab
  string_NAWAB_BEGUM: "Nawab Begum" #Nawab Begum
@@ -634,8 +634,8 @@
  string_POPETTE: "Papieżycy" #Papieżyca
  string_POPETTE_ELECTOR: "Papieżycy Elektorki" #Papieżyca Elektorka
  string_POPE_ELECTOR: "Papieża Elektora" #Papież Elektor
- string_POSADNIK: "" # #nowy
- string_POSADNITSA: "" # #nowy
+ string_POSADNIK: "Posadnika" #Posadnik
+ string_POSADNITSA: "Posadnicy" #Posadnica
  string_PRATINIDHI: "Pratinidhiego" #Pratinidhi
  string_PRESIDENT: "Prezydenta" #Prezydent
  string_PRESIDENT_fem: "Prezydentki" #Prezydentka
@@ -670,7 +670,7 @@
  string_SERENE_DOGARESSA: "Najjaśniejszej Dożaressy" #Najjaśniejsza Dożaressa
  string_SERENE_DOGE: "Najjaśniejszego Doży" #Najjaśniejszy Doża
  string_SERENE_MARSHAL: "Najjaśniejszego Marszałka" #Najjaśniejszy Marszałek
- string_SERENE_MARSHAL_fem: "" # #nowy
+ string_SERENE_MARSHAL_fem: "Najjaśniejszej Marszałkini" #Najjaśniejsza Marszałkini
  string_SHAH: "Szacha" #Szach
  string_SHAHANSHAH: "Szachinszacha" #Szachinszach
  string_SHARIF: "Szarifa" #Szarif
@@ -680,7 +680,7 @@
  string_SHINRAN: "Shinrana" #Shinran
  string_SHOGUN: "Szoguna" #Szogun
  string_SHOGUNESS: "Szogunki" #Szogunka
- string_SISTER: "" # #nowy
+ string_SISTER: "Siostry" #Siostra
  string_SON_OF_HEAVEN: "Syna Niebios" #Syn Niebios
  string_SPEAKER: "Przewodniczącego" #Przewodniczący
  string_SPEAKER_fem: "Przewodniczącej" #Przewodnicząca
@@ -692,7 +692,7 @@
  string_SULTANA: "Sułtanki" #Sułtanka
  string_SULTAN_fem: "Sułtanki" #Sułtanka
  string_SUPREME_ADMIRAL: "Najwyższego Admirała" #Najwyższy Admirał
- string_SUPREME_ADMIRAL_fem: "" # #nowy
+ string_SUPREME_ADMIRAL_fem: "Najwyższej Admirał" #Najwyższa Admirał
  string_SUPREME_VIZIER: "Najwyższego Wezyra" #Najwyższy Wezyr
  string_SUPREME_VIZIER_fem: "Najwyższej Wezyr" #Najwyższa Wezyr
  string_SYNDIC: "Syndyka" #Syndyk
@@ -707,7 +707,7 @@
  string_TRAPPIST: "Trapisty" #Trapista
  string_TRAPPISTINE: "Trapistki" #Trapistka
  string_TRIBAL_LEADER: "Przywódcy Plemienia" #Przywódca Plemienia
- string_TRIBAL_LEADER_fem: "" # #nowy
+ string_TRIBAL_LEADER_fem: "Przywódczyni Plemienia" #Przywódczyni Plemienia
  string_TSAR: "Cara" #Car
  string_TSARITSA: "Carycy" #Caryca
  string_TULKU: "Tulku" #Tulku
@@ -732,57 +732,57 @@
  string_BEY: "Beja" #Bej
  string_BOQOR: "Boqora" #Boqor
  string_BOQORAD: "Boqorad" #Boqorad
- string_CAR: "Cara" #Car #nowy
- string_CARICA: "Carycy" #nowy
+ string_CAR: "Cara" #Car
+ string_CARICA: "Carycy" #Caryca
  string_CHHATRAPATI: "Czatrapatiego" #Czatrapati
- string_CHIEF: "Wodza" #Wódz #nowy
- string_CHIEFTESS: "Przywódczyni" #Przywódczyni #nowy
+ string_CHIEF: "Wodza" #Wódz
+ string_CHIEFTESS: "Przywódczyni" #Przywódczyni
  string_CONSORT: "Małżonka" #Małżonek
- string_COUNTESS: "Hrabiny" #Hrabina #nowy
+ string_COUNTESS: "Hrabiny" #Hrabina
  string_DESPOTISSA: "Despotki" #Despotka
- string_DUCHESS: "Księżnej" #Księżna #nowy
- string_DUKE: "Księcia" #Książę #nowy
- string_DUKE_CONSORT: "" # #nowy
+ string_DUCHESS: "Księżnej" #Księżna
+ string_DUKE: "Księcia" #Książę
+ string_DUKE_CONSORT: "Księcia Małżonka" #Książę Małżonek
  string_EARL: "Earla" #Earl #nowy
  string_ELECTOR: "Elektora" #Elektor
  string_ELECTRESS: "Elektorki" #Elektorka
  string_EMIR: "Emira" #Emir #nowy
  string_EMIRA: "Emiry" #Emira
  string_EMIR_CONSORT: "Emira Małżonka" #Emir Małżonek
- string_EMPEROR: "Cesarza" #Cesarz #nowy
+ string_EMPEROR: "Cesarza" #Cesarz
  string_EMPEROR_CONSORT: "Cesarza Małżonka" #Cesarz Małżonek
  string_EMPRESS: "Cesarzowej" #Cesarzowa
  string_EMPRESS_CONSORT: "Cesarzowej Małżonki" #Cesarzowa Małżonka
  string_GEGE: "Gege" #Gege
  string_GRAND_DUCHESS: "Wielkiej Księżnej" #Wielka Księżna
  string_GRAND_DUKE_CONSORT: "Wielkiego Księcia Małżonka" #Wielki Książę Małżonek
- string_GREAT_KHATUN: "Wielkiej Katun" #Wielka Katun #nowy
- string_GREAT_KNIAGINIA: "Wielkiej Kniahini" #Wielka Kniahini #nowy
- string_GREAT_KNIAZ: "Wielkiego Kniazia" #Wielki Kniaź #nowy
- string_GREAT_MUGABE: "Wielkiego Mugabe" #Wielki Mugabe #nowy
- string_GREAT_MUGO: "Wielkiej Mugo" #Wielka Mugo #nowy
- string_GREAT_OMUKAMA: "Wielkiego Omukamana" #Wielki Omukama #nowy
- string_GREAT_SULTANA: "Wielkiej Sułtanki" #Wielka Sułtanka #nowy
+ string_GREAT_KHATUN: "Wielkiej Katun" #Wielka Katun
+ string_GREAT_KNIAGINIA: "Wielkiej Kniahini" #Wielka Kniahini
+ string_GREAT_KNIAZ: "Wielkiego Kniazia" #Wielki Kniaź
+ string_GREAT_MUGABE: "Wielkiego Mugabe" #Wielki Mugabe
+ string_GREAT_MUGO: "Wielkiej Mugo" #Wielka Mugo
+ string_GREAT_OMUKAMA: "Wielkiego Omukamana" #Wielki Omukama
+ string_GREAT_SULTANA: "Wielkiej Sułtanki" #Wielka Sułtanka
  string_HASEKI_SULTAN: "Haseki Sułtanki" #Haseki Sułtanka
  string_HATUN: "Hatun" #Hatun
- string_HIGH_KING: "Wielkiego Króla" #Wielki Król #nowy
- string_HIGH_QUEEN: "Wielkiej Królowej" #Wielka Królowa #nowy
- string_IMPERATOR: "Imperatora" #Imperator #nowy
- string_IMPERATRIX: "Imperatorki" #Imperatorka #nowy
+ string_HIGH_KING: "Wielkiego Króla" #Wielki Król
+ string_HIGH_QUEEN: "Wielkiej Królowej" #Wielka Królowa
+ string_IMPERATOR: "Imperatora" #Imperator
+ string_IMPERATRIX: "Imperatorki" #Imperatorka
  string_ITEGE: "Ytiegie" #Ytiegie
  string_JANHOY: "Janhoya" #Janhoy
- string_KAISER: "Kaisera" #Kaiser #nowy
- string_KAISERIN: "Kaiserin" #Kaiserin #nowy
+ string_KAISER: "Kaisera" #Kaiser
+ string_KAISERIN: "Kaiserin" #Kaiserin
  string_KHAGAN: "Kagana" #Kagan
  string_KHAN: "Chana" #Chan
  string_KHANUM: "Chanum" #Chanum
- string_KHATUN: "Katun" #Katun #nowy
- string_KING: "Króla" #Król #nowy
+ string_KHATUN: "Katun" #Katun
+ string_KING: "Króla" #Król
  string_KING_CONSORT: "Króla Małżonka" #Król Małżonek
- string_KNIAGINIA: "Kniahini" #Kniahini #nowy
- string_KNIAZ: "Kniazia" #Kniaź #nowy
- string_KRALJ: "Kralja" #Kralj #nowy
- string_KRALJICA: "Kraljicy" #Kraljica #nowy
+ string_KNIAGINIA: "Kniahini" #Kniahini
+ string_KNIAZ: "Kniazia" #Kniaź
+ string_KRALJ: "Kralja" #Kralj
+ string_KRALJICA: "Kraljicy" #Kraljica
  string_LADY: "Lady" #Lady
  string_LORD: "Lorda" #Lord
  string_MAHARAJA: "Maharadży" #Maharadża
@@ -793,41 +793,41 @@
  string_MARGRAVE_CONSORT: "Margrabiego Małżonka" #Margrabia Małżonek
  string_MARGRAVINE: "Margrabiny" #Margrabin
  string_MIRZA: "Mirzy" #Mirza
- string_MUGABE: "Mugabego" #Mugabe #nowy
- string_MUGO: "Mugo" #Mugo #nowy
+ string_MUGABE: "Mugabego" #Mugabe
+ string_MUGO: "Mugo" #Mugo
  string_NAWAB: "Nawaba" #Nawab
  string_NAWAB_BEGUM: "Nawab Begum" #Nawab Begum
  string_NIZAM: "Nizama" #Nizam
  string_NIZAM_BEGUM: "Nizam Begum" #Nizam Begum
- string_OMUKAMA: "Omukamy" #Omukama #nowy
+ string_OMUKAMA: "Omukamy" #Omukama
  string_PADISHAH: "Padyszacha" #Padyszach
  string_PADISHAH_BEGUM: "Padyszach Begum" #Padyszach Begum
  string_PADISHAH_CONSORT: "Padyszacha Małżonka" #Padyszach Małżonek
  string_PESHWA: "Peśwy" #Peśwa
  string_PESHWIN: "Peświn" #Peświn
- string_PRINCE: "Księcia" #Książę #nowy
- string_PRINCESS: "Księżnej" #Księżna #nowy
- string_PRINCEZA: "Princezy" #Princeza #nowy
+ string_PRINCE: "Księcia" #Książę
+ string_PRINCESS: "Księżnej" #Księżna
+ string_PRINCEZA: "Princezy" #Princeza
  string_PRINCE_CONSORT: "Księcia Małżonka" #Książę Małżonek
  string_QUEEN: "Królowej" #Królowa
  string_QUEEN_CONSORT: "Królowej Małżonki" #Królowa Małżonka
  string_RAJA: "Radży" #Radża
  string_RANA: "Rany" #Rana
  string_RANI: "Rani" #Rani
- string_REGINA: "Reginy" #Regina #nowy
- string_REX: "Rexa" #Rex #nowy
+ string_REGINA: "Reginy" #Regina
+ string_REX: "Rexa" #Rex
  string_SHAH_CONSORT: "Szacha Małżonka" #Szach Małżonek
  string_SHEIKHA: "Szejkini" #Szejkini
  string_SULTANA: "Sułtanki" #Sułtanka
  string_SULTANA_BEGUM: "Sułtanki Begum" #Sułtanka Begum
  string_SULTAN_CONSORT: "Sułtana Małżonka" #Sułtan Małżonek
- string_TSAR: "Cara" #Car #nowy
- string_TSARITSA: "Carycy" #Caryca #nowy
+ string_TSAR: "Cara" #Car
+ string_TSARITSA: "Carycy" #Caryca
  string_VICEREINE: "Wicekrólowej" #Wicekrólowa
  string_VICEROY_CONSORT: "Wicekróla Małżonka" #Wicekról Małżonek
- string_VOIVODE: "Wojewody" #Wojewoda #nowy
- string_VOJVODKINJA: "Wojewodziny" #Wojewodzina #nowy
- string_WANG: "Wanga" #Wang #nowy
+ string_VOIVODE: "Wojewody" #Wojewoda
+ string_VOJVODKINJA: "Wojewodziny" #Wojewodzina
+ string_WANG: "Wanga" #Wang
  string_YEKHE_KHAGAN: "Jeke Kagana" #Jeke Kagan
  string_YEKHE_KHANUM: "Jeke Chanuma" #Jeke Chanum
 ##Heir
@@ -839,16 +839,16 @@
  string_BEYSADI: "Bejzadi" #Bejzadi
  string_DAUPHIN: "Delfina" #Delfin
  string_DAUPHINE: "Delfiny" #Delfina
- string_DESPOT: "Despoty" #Despota #nowy
- string_DESPOTISSA: "Despotki" #Despotka #nowy
+ string_DESPOT: "Despoty" #Despota
+ string_DESPOTISSA: "Despotki" #Despotka
  string_HEIR: "Następcy" #Następca
  string_HEIR_fem: "Następczyni" #Następczyni
  string_KHANUM: "Chanum" #Chanum
  string_KHANZADEH: "Chanzade" #Chanzade
- string_KNIAZHICH: "" # #nowy
- string_KNIAZHNA: "" # #nowy
- string_KRONPRINZ: "" # #nowy
- string_KRONPRINZEN: "" # #nowy
+ string_KNIAZHICH: "Kniaziewicza" #Kniaziewicz
+ string_KNIAZHNA: "Kniaziówny" #Kniaziówna
+ string_KRONPRINZ: "Księcia Koronnego" #Książę Koronny
+ string_KRONPRINZEN: "Księżnej Koronnej" #Księżna Koronna
  string_LE_ELT: "Le'elt" #Le'elt
  string_MALIK: "Malika" #Malik
  string_MALIKAH: "Maliki" #Malika
@@ -859,16 +859,16 @@
  string_NIZAM_BEGUM: "Nizam Begum" #Nizam Begum
  string_PADISHAH_BEGUM: "Padyszach Begum" #Padyszach Begum
  string_PASHAZADE: "Paszazade" #Paszazade
- string_PRINCE: "Księcia" #Książę #nowy
- string_PRINCESS: "Księżnej" #Księżna #nowy
+ string_PRINCE: "Księcia" #Książę
+ string_PRINCESS: "Księżnej" #Księżna
  string_RAJKUMAR: "Radźkumar" #Radźkumar
  string_RAJKUMARI: "Radźkumari" #Radźkumari
  string_SHAHDOKHT: "Szachdocht" #Szachdocht
  string_SHAHZADE: "Szachzade" #Szachzade
- string_SHARIFZADE: "" # #nowy
+ string_SHARIFZADE: "Szarifzade" #Szarifzade
  string_SHEIKHA: "Szejkini" #Szejkini
- string_SYMBASILEUS: "" # #nowy
- string_SYMBASILISSA: "" # #nowy
- string_TSAREVICH: "" # #nowy
- string_TSAREVNA: "" # #nowy
+ string_SYMBASILEUS: "Symbazyleusa" #Symbazyleus
+ string_SYMBASILISSA: "Symbazylissy" #Symbazylissa
+ string_TSAREVICH: "Carewicza" #Carewicz
+ string_TSAREVNA: "Carówny" #Carówna
  string_VALI_AHAD: "Wali Ahada" #Wali Ahad
