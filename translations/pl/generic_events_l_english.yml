@@ -1465,7 +1465,7 @@
  EVTNAME5093: "Parlament domaga się usunięcia [Root.GetAdv_Dip_gen]"
  EVTDESC5093: "Powołując się na kilka przykładów [Root.Dip_Advisor.GetHerHis] rzekomo słabej wydajności i złej oceny sytuacji (ale w rzeczywistości motywowanych [Root.Dip_Advisor.GetHerHis] otwartą krytyką), liderzy parlamentarni żądają, aby [Root.Dip_Advisor.GetName] został[Root.GetAdv_Dip_ANoun] usunięt[Root.GetAdv_Dip_AY] z urzędu."
  EVTOPTA5093: "Zwolnij [Root.Dip_Advisor.GetHerHim]!"
- EVTOPTB5093: "Ufamy [Root.GetAdv_Dip_HerHis_dat]."
+ EVTOPTB5093: "Ufamy [Root.GetAdv_Dip_HerHim_dat]."
  EVTNAME5094: "Heretycki doradca"
  EVTDESC5094: "[Root.GetClergyName_CL_Cap] [Root.GetClergyName_BE] oburz[Root.GetClergyName_Conc], że heretyk, nasz[Root.GetEventAdvisor_ANoun] [Root.GetEventAdvisorTitle_CL] [Root.GetEventAdvisorName], jest zatrudnion[Root.GetEventAdvisor_AY] jako doradca [Root.GetRulerGen]. Żąda[Root.GetClergyName_NounJa] natychmiastowego zwolnienia [Root.GetEventAdvisorHerHis]!"
  EVTOPTA5094: "Zwolnij [Root.GetEventAdvisorHerHim]!"
