@@ -4417,7 +4417,7 @@
  culture_religion_events.19.a: "Co złego może z tego wyniknąć?"
  culture_religion_events.19.b: "To jest coś, co [Root.Heir.GetSheHe] będzie musiał[Root.Heir.GetANoun] zachować dla siebie."
  culture_religion_events.20.t: "[Root.Monarch.GetName] i spadek po nim"
- culture_religion_events.20.d: "Brak następcy tronu [Root.GetAdjective] jest palącą kwestią, nie tylko dla sam[Root.Monarcha.GetEjEgo] [Root.GetRulerGen], ale także dla całego królestwa. Zasugerowano, że [Root.young_heir.GetName], młody i obiecujący potomek odległej gałęzi rodziny [Root.Monarch.Dynasty.GetName] mógłby zostać wprowadzony na dwór w mieście [Root.Capital.GetCapitalName], a z czasem zająć miejsce jako następca [Root.GetRulerGen]."
+ culture_religion_events.20.d: "Brak następcy tronu [Root.GetAdjective] jest palącą kwestią, nie tylko dla sam[Root.Monarch.GetEjEgo] [Root.GetRulerGen], ale także dla całego królestwa. Zasugerowano, że [Root.young_heir.GetName], młody i obiecujący potomek odległej gałęzi rodziny [Root.Monarch.Dynasty.GetName] mógłby zostać wprowadzony na dwór w mieście [Root.Capital.GetCapitalName], a z czasem zająć miejsce jako następca [Root.GetRulerGen]."
  culture_religion_events.20.a: "Świetny pomysł!"
  culture_religion_events.20.b: "Nigdy nie zobaczymy szlachcica [family_holdings.Culture.GetName] na naszym tronie."
  culture_religion_events.21.t: "Kwestia wiary"
