@@ -4673,7 +4673,7 @@
  PW_CENTER_OF_TRADE:0 "W²ze³ handlowy"
  PW_VALUE_OF_TRADE:0 "Ca³kowita wartoœ¾ handlu"
  tut_1b_39:0 "Na prawo od okna prowincji, obok monet, znajduje si² wydajnoœ¾ ekonomiczna prowincji. Poni¿ej opisane s¹ g³ówne zasoby i produkcja. Wszystkie wyprodukowane towary s¹ wysy³ane do w²z³a handlowego, do którego inne kraje mog¹ wysy³a¾ kupców, aby konkurowali w walce o zyski. Klikni²cie przycisku w²z³a handlowego umo¿liwia przejœcie do bardziej szczegó³owych danych."
- tut_miss_19_task:0 "Wyœlij kupca do w²z³a handlowego w prowincji $province$."
+ tut_miss_19_task:0 "Wyœlij kupca do w²z³a handlowego w prowincji $PROVINCE$."
  tut_miss_19_hint:0 "Aby wys³a¾ kupca do w²z³a handlowego, wystarczy klikn¹¾ prowincj², która jest zwi¹zana z tym w²z³em, a nast²pnie klikn¹¾ przycisk dost²pu do okna w²z³a handlowego. Kupiec jest wysy³any za pomoc¹ odpowiedniej ikony kupieckiej."
  tut_miss_22_hint:0 "Aby uzyska¾ monopol w okreœlonym w²Ÿle handlowym, musisz umieœci¾ tam kupców."
  MODIFIER_LOCAL_COT_GRAVITY:0 "Lokalna popularnoœ¾ w²z³a handlowego"

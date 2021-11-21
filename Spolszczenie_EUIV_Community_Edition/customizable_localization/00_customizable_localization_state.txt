@@ -273,6 +273,23 @@ defined_text = {
 }
 
 defined_text = {
+	name = GetNoblesReplacementForOtherGovernments_EjYch
+
+	text = {
+		localisation_key = string_end_ej
+		trigger = {
+			NOT = { government = republic }
+		}
+	}
+	text = {
+		localisation_key = string_end_ych
+		trigger = {
+			government = republic
+		}
+	}
+}
+
+defined_text = {
     name = GetGovernmentSupporters_plur_gen
 
     text = {
