@@ -11,7 +11,7 @@
  estate_church_new_world_mission: "Ustanów misje do Nowego Świata"
  estate_church_papal_emissary: "Wysłannik papieski"
  estate_church_clerical_ministers: "Duchowni ministrowie"
- estate_church_clerical_oversight: "$ESTATE_NAME$ sprawuje nadzór"
+ estate_church_clerical_oversight: "$ESTATE_NAME$ - sprawowanie nadzoru"
  estate_burghers_land_of_commerce: "Kraj handlu"
  estate_burghers_admirals: "[Country.GetBurghersName_CL_Cap] w admiralicji"
  estate_burghers_commercial_board_of_advice: "Handlowa rada doradcza"
