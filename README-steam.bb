@@ -6,21 +6,20 @@ Jak i steam:
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1869998815]Link[/url]
 
 [h2]Obsługiwana wersja gry i zakres tłumaczenia:[/h2]
-Spolszczenie do Europa Universalis 4 w najnowszej wersji 1.32.1.0 (Songhai).
+Spolszczenie do Europa Universalis 4 w najnowszej wersji 1.32.1 (Songhai).
 
 [h3]Stan w wersji 3.0.4 [06.09.2021]:[/h3]
-* 19 528 sprawdzonych wpisów (100 522 słowa)
-* 80 835 przetłumaczonych wpisów (798 558 słów)
-* 16 632 nieprzetłumaczone wpisy (380 714 słów)
+* 19 608 sprawdzonych wpisów (100 633 słowa)
+* 81 551 przetłumaczone wpisy (805 952 słowa)
+* 19 086 nieprzetłumaczonych wpisów (424 850 słów)
 
-Jest to obecnie najpełniejsze, stworzone przez społeczność gry, spolszczenie, które posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie [b](82,94% całej gry)[/b]. Prace projektu obejmują 115 plików, z czego do przetłumaczenia pozostało 19.
+Jest to obecnie najpełniejsze, stworzone przez społeczność gry, spolszczenie, które posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie [b](81,03% całej gry)[/b]. Prace projektu obejmują 115 plików, z czego do przetłumaczenia pozostało 19.
  
 [h3]Lista zmian:[/h3]
-- Przetłumaczono ponad 800 linijek tekstu
-- Przetłumaczono całkowicie dodatek Third Rome
+- Przetłumaczono ponad 700 linijek tekstu
 - Dodano nowe funkcje Custom Localisation
 
-[h3]Postęp prac nad spolszczeniem (stan na 06.09.2021):[/h3]
+[h3]Postęp prac nad spolszczeniem (stan na 22.11.2021):[/h3]
 
 [b]Wersja podstawowa EU4[/b]: 
 * Główne pliki przetłumaczone w całości oprócz części wydarzeń i zintegrowanego z grą dodatku women in history, które są w trakcie tłumaczenia.
@@ -42,23 +41,24 @@ Jest to obecnie najpełniejsze, stworzone przez społeczność gry, spolszczenie
 [b]Tłumaczone dodatki:[/b]
 (postęp określono dla głównych plików)
 
-* Art of War - 54,33% (29 508)
-* Common Sense - 30,05% (24 092)
-* The Cossacks - 38,59% (17 768)
+* Art of War - 54,54% (29 402)
+* Common Sense - 30,41% (23 985)
+* The Cossacks - 39,32% (17 755)
 * Rights of Man - 31,44% (31 660)
-* Mandate of Heaven - 20,63% (14 273)
-* Cradle of Civilization - 33,41% (11 990)
+* Mandate of Heaven - 20,75% (14 271)
+* Cradle of Civilization - 33,06% (12 012)
 * Emperor
-- emperor content - 27,20% (59 218)
-- emperor - 61,22% (4 363)
-- emperor missions - 62,04% (24 317)
+- emperor content - 29,15% (58 831)
+- emperor missions - 62,12% (24 267)
+- emperor - 65,58% (4 022)
 - emperor estates - 100% (0/17 120)
 - emperor revolutions - 100% (0/6 118)
 * Leviathan
-- leviathan - 10,64% (28 135)
+- leviathan - 13,86% (28 150)
 - mandala missions - 14,98% (10 592)
-- 00 lanfang - 24,68% (7 900)
-- tmm - 66,90% (3 746)
+- 00 lanfang - 25,21% (7 896)
+- tmm - 62,52% (4 760)
+* Origins - 5,23% (42 760)
 
 [b]Objaśnienia:[/b]
  + procenty określają postęp tłumaczenia dodatku (w zakresie wpisów (linijek))
