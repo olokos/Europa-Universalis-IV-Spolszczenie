@@ -1528,6 +1528,8 @@
  alhambra_decree: ""
  desc_alhambra_decree: ""
  alhambra_decree_opinion: ""
+ alhambra_working_force: ""
+ desc_alhambra_working_force: ""
  unification_of_spain: ""
  desc_unification_of_spain: ""
  cortes_defended: ""

@@ -481,6 +481,7 @@
  stateless_society_desc: ""
  STATELESS_SOCIETY: ""
  TRIBAL_LEADER: ""
+ TRIBAL_LEADER_fem: ""
  manpower_sailors_on_build_tt: ""
  HARIPHUNCHAI: ""
  HARIPHUNCHAI_ADJ: ""

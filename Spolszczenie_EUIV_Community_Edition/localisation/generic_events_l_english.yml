@@ -1415,7 +1415,7 @@
  EVTOPTA5076:0 "Odmów im dawnych praw!"
  EVTOPTB5076:0 "Przyjmijmy ich ¿¹dania."
  EVTNAME5077:0 "Ordonanse nie s¹ wprowadzane w ¿ycie"
- EVTDESC5077:0 "Chocia¿ [Root.Monarcha.GetTitle] wydaje wiele rozporz¹dzeª, [Root.Monarcha.GetSheHe] jest w praktyce prawie bezsiln[Root.Monarcha.GetAY], by je egzekwowa¾. Zamiast tego, egzekwowanie przepisów zale¿y od lokalnych w³adz - regionalnej szlachty i rz¹dów miejskich - które nie zawsze s¹ tak czujne, jak byœmy sobie tego ¿yczyli. Ostatnio dotar³o do nas, ¿e nasze w³adze w obszarze [Troublesome_province.GetAreaName] s¹ szczególnie powœci¹gliwe w egzekwowaniu woli [Root.GetRulerGen]."
+ EVTDESC5077:0 "Chocia¿ [Root.Monarch.GetTitle] wydaje wiele rozporz¹dzeª, [Root.Monarch.GetSheHe] jest w praktyce prawie bezsiln[Root.Monarch.GetAY], by je egzekwowa¾. Zamiast tego, egzekwowanie przepisów zale¿y od lokalnych w³adz - regionalnej szlachty i rz¹dów miejskich - które nie zawsze s¹ tak czujne, jak byœmy sobie tego ¿yczyli. Ostatnio dotar³o do nas, ¿e nasze w³adze w obszarze [troublesome_province.GetAreaName] s¹ szczególnie powœci¹gliwe w egzekwowaniu woli [Root.GetRulerGen]."
  EVTOPTA5077:0 "Niech sami si² tym zajm¹."
  EVTOPTB5077:0 "Zwi²kszmy na nich naciski!"
  EVTNAME5082:0 "[Root.GetBurghersName_CL_Cap] domaga[Root.GetBurghersName_NounJa] si² przywilejów"
