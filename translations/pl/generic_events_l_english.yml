@@ -3784,7 +3784,7 @@
  EVTDESC741: "Po wynalezieniu maszyn drukarskich zaczęto wydawać coraz więcej książek o coraz bardziej różnorodnej tematyce. Korzyści z tego zaczynają być widoczne, wiedza staje się coraz bardziej powszechna, a wśród filozofów i przyrodników częściej pojawiają się nowe idee."
  EVTOPTA741: "Dobre wieści!"
  EVTNAME742: "Nadzwyczajne reguły poboru"
- EVTDESC742: "Prowadzimy wojnę i nasze rezerwy kadrowe powoli topnieją. [Root.Monarch.GetTitle] [Root.Monarch.GetName], nasz[Root.Monarch.GetANoun] światł[Root.Monarch.GetAY] i przewidując[Root.Monarch.GetAY] [Root.Monarch.GetRul] wymyślił[Root.Monarch.GetANoun] plan zwiększenia poboru poddanych do służby wojskowej. Może to jednak spowodować niepokoje na wsi."
+ EVTDESC742: "Prowadzimy wojnę i nasze rezerwy kadrowe powoli topnieją. [Root.Monarch.GetTitle] [Root.Monarch.GetName], nasz[Root.Monarch.GetANoun] światł[Root.Monarch.GetAY] i przewidując[Root.Monarch.GetAY] władc[Root.Monarch.GetZyniA] wymyślił[Root.Monarch.GetANoun] plan zwiększenia poboru poddanych do służby wojskowej. Może to jednak spowodować niepokoje na wsi."
  EVTOPTA742: "Ilu się tylko da!"
  EVTOPTB742: "Weźmy tylko nadmiar"
  EVTNAME743: "Wpływ wojny"
