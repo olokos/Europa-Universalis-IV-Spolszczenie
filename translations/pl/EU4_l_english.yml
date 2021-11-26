@@ -2865,7 +2865,7 @@
  RIVAL_NAVY_WEAKER: "Flota §Y$ADJ$§! jest §G$PERC$%§! słabsza od naszej."
  RIVAL_NAVY_NONE: "§Y$COUNTRY$§! nie ma floty."
  RIVAL_PLAYER_NAVY_NONE: "Nasz ukochany kraj nie ma floty."
- RIVAL_NAVY_NEITHER: "Żaden kraj nie ma marynarki"
+ RIVAL_NAVY_NEITHER: "Żaden kraj nie ma floty."
  MORALE_RECOVER: "Ta jednostka co miesiąc odzyska §G$PART$%§W swojego maksymalnego poziomu morale (§Y$VAL$§W z §Y$MAX$§W)."
  MORALE_RECOVER_CONTROLLER_TERRITORY: "W kontrolowanych prowincjach: §G+$VAL$%§!\n"
  RECOVER_ARMY_MORALE_SPEED: "Szybkość odzyskiwania morale przez armie"
