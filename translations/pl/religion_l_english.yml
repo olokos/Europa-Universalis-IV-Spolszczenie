@@ -148,7 +148,7 @@
  jewish_flavor.7.d: "Dziś jest szabas, a zatem każdy Żyd jest zobowiązany do odpoczynku i poświęcenia czasu na oddawanie czci Bogu. Jednakże, pojawiła się sprawa najwyższej wagi i niektórzy doradcy uważają, że konieczne jest, aby [Root.Monarch.GetName] skupił[Root.Monarch.GetANoun] się na niej. Sama sugestia wywołała u niektórych rabinów uniesienie brwi, a na dworze szybko rozległy się słowa potępienia. Wygląda na to, że niezależnie od tego, jaki wybór podejmiemy, ktoś będzie zły. Ale co jest mniejszym złem?"
  jewish_flavor.7.a: "Szabas musi być przestrzegany. Cokolwiek to jest, może poczekać."
  jewish_flavor.7.b: "Kraj musi być zarządzany przez cały czas. Rozwiążmy to jak najszybciej i wróćmy do czczenia."
- jewish_flavor.7.c: "Pobożny [Root.Monarch.GetName] nie będzie robił[Root.Monarch.GetANoun] nic poza modlitwą."
+ jewish_flavor.7.c: "Pobożn[Root.Monarch.GetAY] [Root.Monarch.GetName] nie będzie robił[Root.Monarch.GetANoun] nic poza modlitwą."
  jewish_flavor.7.e: "Religia nie jest tak ważna jak problemy z rządzeniem. To może poczekać, aż [Root.Monarch.GetName] będzie miał[Root.Monarch.GetANoun] czas."
  jewish_flavor.8.t: "Mesjasz"
  jewish_flavor.8.d: "Nasz lud tęsknił za powrotem do Ziemi Świętej od czasu, gdy rozpoczęła się diaspora. Chociaż nasz lud jest wciąż rozproszony po całym świecie, niektórzy szepczą, że [Root.Monarch.GetName] może być długo oczekiwanym Mesjaszem. Czy Bóg pozwoli naszemu ludowi na powrót do Ziemi Świętej, czy też weźmiemy sprawy w swoje ręce?"
