@@ -146,7 +146,7 @@
  jewish_flavor.6.a: "Wszyscy są mile widziani, jeśli wyznają prawdziwą wiarę."
  jewish_flavor.7.t: "Ważna sprawa w trakcie szabasu"
  jewish_flavor.7.d: "Dziś jest szabas, a zatem każdy Żyd jest zobowiązany do odpoczynku i poświęcenia czasu na oddawanie czci Bogu. Jednakże, pojawiła się sprawa najwyższej wagi i niektórzy doradcy uważają, że konieczne jest, aby [Root.Monarch.GetName] skupił[Root.Monarch.GetANoun] się na niej. Sama sugestia wywołała u niektórych rabinów uniesienie brwi, a na dworze szybko rozległy się słowa potępienia. Wygląda na to, że niezależnie od tego, jaki wybór podejmiemy, ktoś będzie zły. Ale co jest mniejszym złem?"
- jewish_flavor.7.a: "Szabas musi być respektowany. Cokolwiek to jest, może poczekać."
+ jewish_flavor.7.a: "Szabas musi być przestrzegany. Cokolwiek to jest, może poczekać."
  jewish_flavor.7.b: "Kraj musi być zarządzany przez cały czas. Rozwiążmy to jak najszybciej i wróćmy do czczenia."
  jewish_flavor.7.c: "Pobożny [Root.Monarch.GetName] nie będzie robił[Root.Monarch.GetANoun] nic poza modlitwą."
  jewish_flavor.7.e: "Religia nie jest tak ważna jak problemy z rządzeniem. To może poczekać, aż [Root.Monarch.GetName] będzie miał[Root.Monarch.GetANoun] czas."
