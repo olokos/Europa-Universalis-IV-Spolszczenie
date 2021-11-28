@@ -287,7 +287,7 @@
  mechanic_nomad_yes: "Jest koczownikiem"
  republic_desc: "Republika to państwo rządzone przez swoich obywateli. Władza nie jest dziedziczona, ale wybierana przez obywateli."
  theocracy_desc: "W teokracji autorytet wywodzi się z boskiej mocy. Klasą rządzącą będzie często samo duchowieństwo, a głową państwa - ich przywódca."
- FACTIONS: "Umożliwia frakcjom:"
+ FACTIONS: "Umożliwia frakcjom: "
  mechanic_is_trading_city_yes: "Jest miastem handlowym."
  mechanic_free_city_yes: "Jest wolnym miastem."
  ability_russian_mechanic: "Rosyjski rząd"
