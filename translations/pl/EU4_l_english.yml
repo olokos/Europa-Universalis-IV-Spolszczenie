@@ -37,7 +37,7 @@
  LEDGER_NT: "Tradycja"
  DEV_MAKE_STATE: " z $VAL|Y$¤1"
  PROV_MAKE_STATE: " $COLOR$$PROV$/$SIZE$¤2§!"
- MAKE_STATE_TOO_MANY: "i o $AMOUNT|Y$ więcej Terytoriów..."
+ MAKE_STATE_TOO_MANY: "i o $AMOUNT|Y$ więcej terytoriów..."
  REGCAT_normal: "Wojsko regularne"
  REGCAT_mercenary: "Najemnicy"
  REGCAT_banner: "Chorągwie"
