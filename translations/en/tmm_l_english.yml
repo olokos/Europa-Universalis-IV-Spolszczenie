@@ -1466,3 +1466,4 @@
  MERCENARY_COMPANY_IS_NOT: "Mercenary Company is not $NAME$"
  CANCEL_NAVAL_MISSION_DESC: "Cancel the current mission"
  MODIFIER_MONTHLY_PIETY_ACCELERATOR: "Monthly Piety Accelerator"
+ CANNOT_COLONIZE_CUT_OFF: "The closest province ($PROVINCE$) is cut off from our capital."
