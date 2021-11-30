@@ -50,7 +50,7 @@
  TRADELEAGUE_DISBAND_TOO_FEW2: "Po odejściu kraju $COUNTRY$ nie było dostatecznej liczby członków."
  INVITETOTRADELEAGUETITLE: "Zaproś do ligi handlowej"
  INVITETOTRADELEAGUEDESC: "Zapytaj kraj $THEY$, czy chce dołączyć do ligi handlowej, której przewodzi państwo $LEADER$."
- KICKFROMTRADELEAGUETITLE: "Dołącz do ligi handlowej"
+ KICKFROMTRADELEAGUETITLE: "Wyrzuć z ligi handlowej"
  KICKFROMTRADELEAGUEDESC: "Zapytaj, czy kraj $COUNTRY$ może dołączyć do ligi handlowej, której przewodzi państwo $LEADER$."
  LEAVETRADELEAGUETITLE: "Opuść ligę handlową"
  LEAVETRADELEAGUEDESC: "Kraj $COUNTRY$ opuści ligę handlową, której przewodzi państwo $LEADER$."
