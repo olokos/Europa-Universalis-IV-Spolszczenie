@@ -819,7 +819,7 @@
  PEACE_EFFECT_AGGRESSIVE_EXP: "Ten pokój spowoduje, że państwo $WHO$ zostanie obciążone karą w wysokości $VALUE$ za agresywną ekspansję."
  PEACE_EFFECT_OVEREX: "Ten pokój spowoduje, że przerost kraju $WHO$ wyniesie $VALUE$."
  ANNEX_NATION_ACCEPT_EFFECT: "Zaanektowanie ich będzie miało następujące skutki:"
- ANNEX_NATION_ESTIMATED_DONE2: "Ocenia się, że aneksja zakończy się $DATE|Y$ i będzie kosztować $VAL|Y$£dip miesięcznie, chyba że warunki ulegną zmianie."
+ ANNEX_NATION_ESTIMATED_DONE2: "Ocenia się, że aneksja zakończy się $DATE|Y$ i będzie kosztować $VAL|Y$£dip  miesięcznie, chyba że warunki ulegną zmianie."
  INTEGRATE_NATION_ESTIMATED_DONE: "Ocenia się, że integracja zakończy się $DATE|Y$ ($VAL|+2$/miesiąc) z powodu:"
  NO_COALITION_AGAINST_RECIPIENT: "Nie możesz prosić ich do wstąpienia do koalicji przeciwko nim samym."
  LEAVE_COALITION: "Opuść koalicję"
