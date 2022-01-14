@@ -3880,7 +3880,7 @@
  random_event.EVTOPTC16: "Nie będziemy rozmawiać z kimś jego pokroju."
  colonial.EVTNAME8: "Wiedźma!"
  colonial.EVTDESC8: "Mieszkańcy wsi w prowincji $PROVINCENAME$ złapali czarownicę na gorącym uczynku, twierdzą, że próbowała upiec grupę dzieci żywcem w swoim piecu. Miasto jest w oburzeniu i wygląda na to, że prawdopodobnie zostanie spalona na stosie. Przyjaciele \"dowodów\" i \"logiki\" w naszym sądzie twierdzą, że dowody na jej akty czarownictwa są w najlepszym wypadku wątłe i słabe, a spalenie niewinnej kobiety żywcem jest obrzydliwością, zarówno według prawa naszej ziemi, jak i świętych tekstów. Ale od kiedy to fakty i logika odgrywają jakąkolwiek rolę w zarządzaniu naszym państwem?"
- colonial.EVTOPTA8: "Spalić wiedźmę na proch!"
+ colonial.EVTOPTA8: "Spalić wiedźmę na popiół!"
  colonial.EVTOPTB8: "Wszyscy wiedzą, że wiedźm nie ma. Uwolnić biedną kobietę."
  colonial.EVTNAME9: "Nowa osada"
  colonial.EVTDESC9: "Rozwój naszej prowincji $PROVINCENAME$ trwa nadal, ale teraz niektórzy z osadników porzucili stolicę kolonii i zaczęli zakładać nową osadę dość daleko od oficjalnej kolonii [Root.Owner.GetAdjective] w prowincji [Root.GetName]. Teraz ludzie przybywają do tej drugiej osady, a my musimy podzielić nasze wysiłki. Jeśli zmusimy osadników do opuszczenia ich drugiej kolonii i dołączenia do oficjalnej kolonii, skonsolidujemy nasze wysiłki w prowincji [Root.GetName] i zbudujemy naszą kolonię w mniej efektywny, ale za to bardziej planowany sposób."
