@@ -38,7 +38,7 @@
  insult_against_denmark: "Źle się dzieje w państwie duńskim."
  insult_against_england: "Jeżeli [Root.Monarch.GetName] wpadnie do Tamizy, będzie to nieszczęście. Ale jeżeli ktoś wyciągnie [Root.Monarch.GetHerHim] ponownie, to będzie prawdziwa katastrofa. "
  insult_marprelate: "[Root.Monarch.GetName] jest dumnym, papieskim, zarozumiałym, bluźnierczym, zaraźliwym i szkodliwym prałatem oraz uzurpatorem."
- insult_marprelate2: "Wasz [Root.Monarch.GetTitle] jest bezprawnym, nienaturalnym, fałszywym, łajdackim zarządcą Kościoła, rozporządzeniem diabelskim, marnym Papieżyną, antychrystem, wcielonym diabłem, chytrą kanalią i gorliwym kłamcą. "
+ insult_marprelate2: "Wasz [Root.Monarch.GetTitle] jest bezprawnym, nienaturalnym, fałszywym, łajdackim zarządcą Kościoła, ordynatem diabelskim, marnym papieżyną, antychrystem, wcielonym diabłem, chytrą kanalią i gorliwym kłamcą. "
  insult_against_saxony: "Byłoby szkoda, gdyby coś stało się Waszej miśnieńskiej porcelanie..."
  insult_fort: "Nasze działo rozniesie Wasze mury, jak morze piasek."
  insult_revolutionary: "Twoje zwłoki utorują ścieżkę postępu, [Root.Monarch.GetName]!"
