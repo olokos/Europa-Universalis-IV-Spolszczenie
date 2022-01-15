@@ -196,7 +196,7 @@
  age_of_revolutions_desc: "Kwestionowanie prawa, władzy i samego świata podczas oświecenia doprowadziło do odrzucenia starych rządów. Ponieważ absolutyzm ustępuje miejsca rewolucji, republiki mogą zająć miejsca królestw."
  LEDGER_SCORE_AG: "Wynik przez wieki"
  RELIGIOUS_CONFLICT_RULES_ON: "§YKonflikty religijne§!\n- Krucjaty mogą być ogłaszane przez kraj kontrolujący kurię.\n- Katoliccy władcy mogą być ekskomunikowani.\n- Mogą pojawiać się centra reformacji.\n- Religia wpływa na dyplomację."
- RELIGIOUS_CONFLICT_RULES_OFF: "W tym wieku nie ma specjalnego konfliktu religijnego. Centra Reformacji zniknęły, nie ma zwołanych krucjat, Papież nie może ekskomunikować."
+ RELIGIOUS_CONFLICT_RULES_OFF: "W tym wieku nie ma specjalnego konfliktu religijnego. Ośrodki reformacji zniknęły, nie ma zwołanych krucjat, papież nie może ekskomunikować."
  ABSOLUTISM_RULES_ON: "§YAbsolutyzm§!\nW tej erze rządy mogą stać się bardziej absolutne, dając większą kontrolę nad państwem."
  ABSOLUTISM_RULES_OFF: "W późniejszych erach absolutyzm będzie miarą tego, jak dużą kontrolę sprawuje władca nad państwem."
  last_age_power_projection: "Cele Ostatniej Epoki"
