@@ -1,6 +1,6 @@
 ﻿l_english:
  janissary_regiment: "Janczarzy"
- reovlutionary_guard_regiment: "Straż Rewolucyjna"
+ reovlutionary_guard_regiment: "Gwardia Rewolucyjna"
  LEDGER_SCORE_TC: "Wynik grupowy"
  CAN_NOT_EXPLOIT_UNTIL: "§R- Niedawno wykorzystaliśmy $WHERE|Y$ i nie możemy uczynić tego ponownie przed $DATE|Y$.§!"
  CAN_NOT_EXPLOIT_OCCUPIED: "§R- Nie możesz rozwinąć prowincji $WHERE|Y$ dopóki jest ona okupowana przez wroga.§!"
