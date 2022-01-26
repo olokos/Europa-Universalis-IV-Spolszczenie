@@ -2788,7 +2788,7 @@
  flavor_hol.EVTDESC3714: "Urodzony w 1640 r. Anthonie Heinsius całe swoje życie cieszył się zaufaniem Wilhelma III Orańskiego. Po zawarciu traktatów w Nimjegen został wysłany do Wersalu, by dopilnować realizacji ich postanowień; po wyjeździe Wilhelma do Anglii w 1688 r. został wielkim pensjonariuszem Holandii. Ten twardy negocjator i zagorzały przeciwnik Francji stał w centrum wszystkich antyfrancuskich koalicji zawiązanych podczas wojen późnego XVII wieku. Zmarł w 1720 r."
  flavor_pol.EVTNAME3481: "Walka o władzę królewską"
  flavor_pol.EVTDESC3481: "Napięcie między władcą a Sejmem osiągnęło punkt krytyczny. [Root.Monarch.GetTitle] stał się całkowicie nietolerancyjny wobec nieustannej potrzeby kompromisu ze szlachtą w celu wykonania nawet najmniejszego rozporządzenia, a szlachta znajdowała powód do działania przeciwko monarsze na każdym możliwym etapie. [Root.Monarch.GetTitle] uważa, że nadszedł wreszcie czas, aby zakończyć władzę Sejmu w państwie [Root.GetName]."
- flavor_pol.EVTOPTA3481: "Walcz w gorzki lecz pokojowy sposób"
+ flavor_pol.EVTOPTA3481: "Walcz w gorzki, lecz pokojowy sposób"
  flavor_pol.EVTOPTB3481: "Co innego może jeszcze zrobić [Root.Monarch.GetTitle]?"
  flavor_pol.EVTOPTC3481: "Wypowiedz wojnę szlachcie."
  flavor_pol.EVTNAME10: "Konfederacja sandomierska"
