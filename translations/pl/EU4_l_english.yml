@@ -3719,7 +3719,7 @@
  SERVER_BOOKMARK: "Zakładka: $BOOKMARK$"
  SERVER_START_DATE: "Data początkowa: $DATE$"
  SERVER_LAUNCHING_MP: "*** Włączanie gry WIELOOSOBOWEJ ***"
- CANCEL_BUILDING_PROGRESS: "Czy jesteś pewien, że chcesz zakończyć budowę $BUILDING$ w prowincji $PROVINCE$? $PERCENTAGE_RETURNED|%1Y$ inwestycji zostanie zwrócone."
+ CANCEL_BUILDING_PROGRESS: "Czy na pewno chcesz zakończyć budowę $BUILDING$ w prowincji $PROVINCE$? $PERCENTAGE_RETURNED|%1Y$ inwestycji zostanie zwrócone."
  NO_SHIPS_IN_PORT: "W porcie nie ma przyjaznych statków."
  NO_FRIENDLY_TRANSPORT_SHIPS_IN_PORT: "W porcie nie ma przyjaznych transportowców."
  DISCONNECT_TO_SHIP: "§YOpuść transportowiec§!"
