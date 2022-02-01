@@ -1956,7 +1956,7 @@
  MESOAMERICAN_REFORM_TOOLTIP: "Na pewno chcesz odblokować §Y$NAME$§!? Wyzwoli to wszystkie ujarzmione przez ciebie kraje, wyzwoli część twoich prowincji i obniży twoją stabilność o §R1§!."
  CV_UNLOCK_IDEAGROUP_DIALOG_TITLE: "Potwierdź, aby odblokować grupę idei $NAME$"
  CV_UNLOCK_IDEAGROUP_DIALOG_DESC: "Zużyje to twój wolny slot na odblokowanie grupy idei $NAME$."
- CV_ABANDON_IDEA_GROUP_DESC: "To usunie wszystkie aktywne idee w tej grupie idei, dzięki czemu odzyskasz $PERCENTAGE$ wydanych punktów wpływów.\n\n Porzucenie tej grupy idei przyniesie ci §Y$VALUE$§! $POWER$.\n\nJesteś pewien, że chcesz usunąć grupę idei: §Y$NAME$§!?"
+ CV_ABANDON_IDEA_GROUP_DESC: "To usunie wszystkie aktywne idee w tej grupie idei, dzięki czemu odzyskasz $PERCENTAGE$ wydanych punktów wpływów.\n\n Porzucenie tej grupy idei przyniesie ci §Y$VALUE$§! $POWER$.\n\nCzy na pewno chcesz usunąć grupę idei: §Y$NAME$§!?"
  ABANDON_IDEA_GROUP_TITLE: "Porzuć grupę idei"
  ABANDON_IDEA_GROUP_DELAYED: "Porzucenie grupy idei, usunie wszystkie jej idee, otrzymasz jednak $PERCENTAGE$ wydanych punktów wpływów."
  ABANDON_IDEA_GROUP_REFUND: "Przez porzucenie tej grupy idei otrzymasz §Y$VALUE$§! $POWER$."
