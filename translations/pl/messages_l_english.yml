@@ -819,7 +819,7 @@
  COALITIONWE_BTN2: "Rozumiem."
  COALITIONWE_BTN3: "Idź do"
  SUPPORTHEIR_TITLE: "Wsparcie Następcy"
- SUPPORTHEIR_SETUP: "Kiedy naród zaczyna popierać następcę dynastii w innym kraju."
+ SUPPORTHEIR_SETUP: "Kiedy państwo zaczyna popierać następcę ze swojej dynastii w innym kraju."
  SUPPORTHEIR_HEADER: "Wysłannik państwa"
  SUPPORTHEIR_1: "$ACTOR$"
  SUPPORTHEIR_2: "Dyplomaci z państwa $WHO$"
