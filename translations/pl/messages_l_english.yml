@@ -5994,7 +5994,7 @@
  SUPPORTINDEPENDENCEBANOTHER_BTN2: "Rozumiem."
  SUPPORTINDEPENDENCEBANOTHER_BTN3: "Idź do"
  SUPPORTINDEPENDENCEBAN_TITLE: "Zakończono wsparcie niepodległości"
- SUPPORTINDEPENDENCEBAN_SETUP: "Kiedy jakiś naród łamie z nami traktat o wsparciu niepodległości."
+ SUPPORTINDEPENDENCEBAN_SETUP: "Kiedy jakiś kraj łamie z nami traktat o wsparciu niepodległości."
  SUPPORTINDEPENDENCEBAN_HEADER: "Wysłannik państwa"
  SUPPORTINDEPENDENCEBAN_1: "$ACTOR$"
  SUPPORTINDEPENDENCEBAN_2: "Państwo $ACTOR$"
