@@ -5356,7 +5356,7 @@
  WEACCGRANTFREECITY_BTN2: "Rozumiem."
  WEACCGRANTFREECITY_BTN3: "Idź do"
  GRANTFREECITYWITHOTHER_TITLE: "Zaakceptowano status wolnego miasta"
- GRANTFREECITYWITHOTHER_SETUP: "Kiedy inny naród zaakceptuje ofertę zostania wolnym miastem."
+ GRANTFREECITYWITHOTHER_SETUP: "Kiedy inny kraj zaakceptuje ofertę zostania wolnym miastem."
  GRANTFREECITYWITHOTHER_HEADER: "Wysłannik państwa"
  GRANTFREECITYWITHOTHER_1: "$RECIPIENT$"
  GRANTFREECITYWITHOTHER_2: "Doniesiono nam, iż kraj"
