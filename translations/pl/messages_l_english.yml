@@ -831,7 +831,7 @@
  SUPPORTHEIR_BTN2: "Rozumiem."
  SUPPORTHEIR_BTN3: "Idź do"
  STOPSUPPORTHEIR_TITLE: "Koniec wspierania dziedzica"
- STOPSUPPORTHEIR_SETUP: "Kiedy naród przestaje popierać następcę dynastii w innym kraju."
+ STOPSUPPORTHEIR_SETUP: "Kiedy państwo przestaje popierać następcę ze swojej dynastii w innym kraju."
  STOPSUPPORTHEIR_HEADER: "Wysłannik państwa"
  STOPSUPPORTHEIR_1: "$ACTOR$"
  STOPSUPPORTHEIR_2: "Dyplomaci z państwa $WHO$"
