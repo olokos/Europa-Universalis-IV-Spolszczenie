@@ -6690,7 +6690,7 @@
  PRESS_SAILORS_MESSAGE_BTN1: "Rozumiem."
  PRESS_SAILORS_MESSAGE_BTN2: "Rozumiem."
  TRIBUTARYACCEPT_TITLE: "Zaakceptowano propozycję zostania stanem zależny"
- TRIBUTARYACCEPT_SETUP: "Kiedy naród zaakceptuje twoją propozycję zostania stanem zależnym."
+ TRIBUTARYACCEPT_SETUP: "Kiedy kraj zaakceptuje twoją propozycję zostania stanem zależnym."
  TRIBUTARYACCEPT_HEADER: "Wysłannik państwa"
  TRIBUTARYACCEPT_1: "$RECIPIENT$"
  TRIBUTARYACCEPT_2: "Kraj $RECIPIENT$"
