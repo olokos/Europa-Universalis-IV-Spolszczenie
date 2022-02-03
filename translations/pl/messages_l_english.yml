@@ -882,7 +882,7 @@
  STOPIMPROVERELATIONSMAXOPINIONUS_BTN2: "Pozostaw dyplomatę"
  STOPIMPROVERELATIONSMAXOPINIONUS_BTN3: "Odwołaj dyplomatę"
  STOPIMPROVERELATIONSMAXOPINION_TITLE: "Wstrzymano polepszanie stosunków"
- STOPIMPROVERELATIONSMAXOPINION_SETUP: "Kiedy naród przestaje poprawiać stosunki, ponieważ osiągnęły maksymalny poziom."
+ STOPIMPROVERELATIONSMAXOPINION_SETUP: "Kiedy kraj przestaje poprawiać stosunki, ponieważ osiągnęły maksymalny poziom."
  STOPIMPROVERELATIONSMAXOPINION_HEADER: "Wysłannik państwa"
  STOPIMPROVERELATIONSMAXOPINION_1: "$WHO$"
  STOPIMPROVERELATIONSMAXOPINION_2: "Zostaliśmy poinformowani, że dyplomata z państwa $WHO$ zaprzestał"
