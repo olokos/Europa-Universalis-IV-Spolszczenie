@@ -4463,7 +4463,7 @@
  desc_reformed_work_ethic: "Panuje pogląd, że ciężka praca, sukces społeczny i bogactwo idą w parze z przyszłym zbawieniem, co zachęca ludzi do dążenia do ich osiągnięcia."
  banned_musical_instruments_in_church: "Zakazano instrumentów w kościołach"
  desc_banned_musical_instruments_in_church: "Aby nie odciągać uwagi wiernych od tematów kazań, zakazano używania instrumentów muzycznych w kościołach."
- AGGRESSIVE_EXPANSION_OPINION: "Stosunek kraju $FROM$ o państwie $TO$ zmieni się o: $VAL|+$"
+ AGGRESSIVE_EXPANSION_OPINION: "Opinia kraju $FROM$ o agresywnej ekspansji państwa $TO$: $VAL|+$"
  100YearsWarUnitPackDLC: "100 Years War Unit Pack"
  HorsemenoftheCrescentDLC: "Horsemen of the Crescent"
  WingedHussarsUnitPackDLC: "Winged Hussars Unit Pack"
