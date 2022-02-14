@@ -8701,3 +8701,22 @@ defined_text = {
 		}
 	}
 }
+
+defined_text = {
+	name = GetNobilityOrFallbackName_gen
+	random = no
+	
+	text = {
+		localisation_key = string_country_estate_nobles_name_gen
+		trigger = {
+			has_estate = estate_nobles
+		}
+	}
+	
+	text = {
+		localisation_key = string_gen_estate_nobles
+		trigger = {
+			NOT = { has_estate = estate_nobles }
+		}
+	}
+}

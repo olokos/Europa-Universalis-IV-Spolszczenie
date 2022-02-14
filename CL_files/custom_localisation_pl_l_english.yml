@@ -518,3 +518,5 @@
  ## GetNoblesReplacementForOtherGovernments_gen
  string_nobility_gen: "Szlachty" #Szlachta
  string_families_gen: "Wpływowych rodzin" #Wpływowe Rodziny
+ ## GetNobilityOrFallbackName_gen
+ string_country_estate_nobles_name_gen: "[This.GetNobilityName_gen]"
