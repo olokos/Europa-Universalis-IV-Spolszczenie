@@ -819,7 +819,7 @@
  PEACE_EFFECT_AGGRESSIVE_EXP:0 "Ten pokój spowoduje, ¿e paªstwo $WHO$ zostanie obci¹¿one kar¹ w wysokoœci $VALUE$ za agresywn¹ ekspansj²."
  PEACE_EFFECT_OVEREX:0 "Ten pokój spowoduje, ¿e przerost kraju $WHO$ wyniesie $VALUE$."
  ANNEX_NATION_ACCEPT_EFFECT:0 "Zaanektowanie ich b²dzie mia³o nast²puj¹ce skutki:"
- ANNEX_NATION_ESTIMATED_DONE2:0 "Ocenia si², ¿e aneksja zakoªczy si² $DATE|Y$ i b²dzie kosztowa¾ $VAL|Y$$£dip miesi²cznie, chyba ¿e warunki ulegn¹ zmianie."
+ ANNEX_NATION_ESTIMATED_DONE2:0 "Ocenia si², ¿e aneksja zakoªczy si² $DATE|Y$ i b²dzie kosztowa¾ $VAL|Y$£dip  miesi²cznie, chyba ¿e warunki ulegn¹ zmianie."
  INTEGRATE_NATION_ESTIMATED_DONE:0 "Ocenia si², ¿e integracja zakoªczy si² $DATE|Y$ ($VAL|+2$/miesi¹c) z powodu:"
  NO_COALITION_AGAINST_RECIPIENT:0 "Nie mo¿esz prosi¾ ich do wst¹pienia do koalicji przeciwko nim samym."
  LEAVE_COALITION:0 "Opuœ¾ koalicj²"

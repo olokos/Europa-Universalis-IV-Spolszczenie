@@ -398,7 +398,7 @@
  SUPPRESSION_AREA_NOT_ADJACENT:0 "§RMo¿esz doda¾ tylko regiony s¹siaduj¹ce z ju¿ represjonowanymi regionami.§!"
  SUPPRESSED_AREAS:0 "Represjonowane obszary"
  MAX_UNREST:0 "Najwy¿szy niepokój: $MAX$"
- AREA_REBEL_SUPPRESSION_EXPLANATION:0 "Ca³kowita redukcja niepokojów $TOTAL|G$:\nRedukcja niepokojów z pu³ków: $BASE|G$\nRedukcj² niepokojów modyfikowane przez:\nAutonomiczne t³umienie buntowników: $MULT$\n\nRedukcja niepokojów rozk³ada si² równomiernie mi²dzy prowincje z niepokojami, zmniejszaj¹c niepokoje z $PER_PROV|G$ w prowincjach $PROVS|Y$.\nNiepokój nigdy nie mo¿e zosta¾ zredukowany o wi²cej ni¿ $MAX_UNREST_REDUCTION|G$ na prowincj²."
+ AREA_REBEL_SUPPRESSION_EXPLANATION:0 "Ca³kowita redukcja niepokojów $TOTAL|G$:\nRedukcja niepokojów z pu³ków: $BASE|G$\nRedukcja niepokojów modyfikowana przez:\nAutonomiczne t³umienie buntów: $MULT$\n\nRedukcja niepokojów rozk³ada si² równomiernie mi²dzy prowincje z niepokojami, zmniejszaj¹c niepokoje z $PER_PROV|G$ w prowincjach $PROVS|Y$.\nNiepokój nigdy nie mo¿e zosta¾ zredukowany o wi²cej ni¿ $MAX_UNREST_REDUCTION|G$ na prowincj²."
  CLICK_MAP_TO_ADD_AREAS:0 "Kliknij na map² aby doda¾/usun¹¾ represjonowanie regionu."
  alert_can_enact_government_reform_instant:0 "§YMo¿esz wprowadzi¾ reform² rz¹du§!"
  alert_can_enact_government_reform_delayed:0 "Masz wystarczaj¹cy poziom post²pu reformy rz¹dowej, aby wprowadzi¾ reform², która da ci sta³e bonusy lub mechanik²."

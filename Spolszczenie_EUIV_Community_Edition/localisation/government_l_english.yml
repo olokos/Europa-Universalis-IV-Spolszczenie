@@ -287,7 +287,7 @@
  mechanic_nomad_yes:0 "Jest koczownikiem"
  republic_desc:0 "Republika to paªstwo rz¹dzone przez swoich obywateli. W³adza nie jest dziedziczona, ale wybierana przez obywateli."
  theocracy_desc:0 "W teokracji autorytet wywodzi si² z boskiej mocy. Klas¹ rz¹dz¹c¹ b²dzie cz²sto samo duchowieªstwo, a g³ow¹ paªstwa - ich przywódca."
- FACTIONS:0 "Umo¿liwia frakcjom:"
+ FACTIONS:0 "Umo¿liwia frakcjom: "
  mechanic_is_trading_city_yes:0 "Jest miastem handlowym."
  mechanic_free_city_yes:0 "Jest wolnym miastem."
  ability_russian_mechanic:0 "Rosyjski rz¹d"

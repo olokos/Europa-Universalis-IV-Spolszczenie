@@ -8,7 +8,7 @@
  CENTRALIZE_STATE_DONE:0 "Ten obszar ju¿ zosta³ scentralizowany"
  CENTRALIZE_STATE_PROGRESS:0 "Proces jest ju¿ w toku. Zostanie ukoªczony dnia $DATE$"
  CONFIRM_CENTRALIZE_STATE:0 "Centralizacja obszaru $STATE$"
- CONFIRM_CENTRALIZE_STATE_TEXT:0 "Czy jesteœ pewien, ¿e chcesz wyda¾ $COST|0Y$ post²pu reformy rz¹dowej, aby scentralizowa¾ obszar $STATE|Y$ w prowincji $PROVINCE|Y$ i zredukowa¾ jego koszty zarz¹dzania o $REDUCTION|0Y$? To zajmie $YEARS|0Y$ lat."
+ CONFIRM_CENTRALIZE_STATE_TEXT:0 "Czy na pewno chcesz wyda¾ $COST|0Y$ post²pu reformy rz¹dowej, aby scentralizowa¾ obszar $STATE|Y$ w prowincji $PROVINCE|Y$ i zredukowa¾ jego koszty zarz¹dzania o $REDUCTION|0Y$? To zajmie $YEARS|0Y$ lat."
  CENTRALIZE_STATE_CONSTRUCTION_TITLE:0 "Scentralizowano obszar"
  CENTRALIZE_STATE_CONSTRUCTION_SETUP:0 "Kiedy obszar zostanie scentralizowany."
  CENTRALIZE_STATE_CONSTRUCTION_1:0 "Zakoªczono centralizacj² obszaru"
