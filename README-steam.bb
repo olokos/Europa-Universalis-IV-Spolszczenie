@@ -8,7 +8,7 @@ Jak i steam:
 [h2]Obsługiwana wersja gry i zakres tłumaczenia:[/h2]
 Spolszczenie do Europa Universalis 4 w najnowszej wersji 1.32.1 (Songhai).
 
-[h3]Stan w wersji 3.0.4 [06.09.2021]:[/h3]
+[h3]Stan w wersji 3.1.0 [22.11.2021]:[/h3]
 * 19 608 sprawdzonych wpisów (100 633 słowa)
 * 81 551 przetłumaczone wpisy (805 952 słowa)
 * 19 086 nieprzetłumaczonych wpisów (424 850 słów)
