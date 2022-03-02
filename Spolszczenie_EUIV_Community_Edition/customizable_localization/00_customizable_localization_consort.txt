@@ -785,6 +785,7 @@ defined_text = {
 			OR = {
 				culture_group = altaic
 				culture_group = tartar
+				primary_culture = altaic_new
 			}
 		}
 	}
@@ -802,6 +803,7 @@ defined_text = {
 						OR = {
 							culture_group = altaic
 							culture_group = tartar
+							primary_culture = altaic_new
 						}
 					}
 				}
@@ -860,11 +862,11 @@ defined_text = {
 		trigger = {
 			has_female_consort = no
 			religion = shiite
-			primary_culture = yemeni_culture
 			OR = {
 				government = theocracy
 				has_reform = feudal_theocracy
 			}
+			primary_culture = yemeni_culture
 		}
 	}
 	text={
@@ -1594,6 +1596,7 @@ defined_text = {
 			OR = {
 				culture_group = altaic
 				culture_group = tartar
+				primary_culture = altaic_new
 			}
 		}
 	}
@@ -2314,6 +2317,7 @@ defined_text = {
 			OR = {
 				culture_group = altaic
 				culture_group = tartar
+				primary_culture = altaic_new
 			}
 		}
 	}
@@ -3030,6 +3034,7 @@ defined_text = {
 						OR = {
 							culture_group = altaic
 							culture_group = tartar
+							primary_culture = altaic_new
 						}
 					}
 				}
@@ -3083,11 +3088,11 @@ defined_text = {
 		localisation_key = string_CONSORT
 		trigger = {
 			religion = shiite
-			primary_culture = yemeni_culture
 			OR = {
 				government = theocracy
 				has_reform = feudal_theocracy
 			}
+			primary_culture = yemeni_culture
 		}
 	}
 	text={
@@ -3842,6 +3847,7 @@ defined_text = {
 			OR = {
 				culture_group = altaic
 				culture_group = tartar
+				primary_culture = altaic_new
 			}
 		}
 	}
@@ -4596,6 +4602,7 @@ defined_text = {
 			OR = {
 				culture_group = altaic
 				culture_group = tartar
+				primary_culture = altaic_new
 			}
 		}
 	}
