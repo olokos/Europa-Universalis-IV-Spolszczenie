@@ -422,6 +422,8 @@
  superiority_insult_mutual_desc: "Celem wojny jest okazanie im naszej wyższości poprzez wygrywanie bitew."
  take_capital_personal_union: "Zdobądź stolicę"
  take_capital_personal_union_desc: "Celem wojny jest zdobycie stolicy."
+ take_capital_hundred_years_war: "Zdobądź stolicę"
+ take_capital_hundred_years_war_desc: "Celem wojny jest zdobycie stolicy."
  defend_country_soi: "Obroń przyjazny kraj przed wrogami"
  defend_country_soi_desc: "Celem wojny jest obrona przyjaznego nam kraju."
  take_capital_fabricated_claims: "Zdobądź stolicę"
