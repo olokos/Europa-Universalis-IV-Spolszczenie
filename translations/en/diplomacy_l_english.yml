@@ -422,6 +422,8 @@
  superiority_insult_mutual_desc: "War goal is to show them superiority by winning battles."
  take_capital_personal_union: "Take the capital"
  take_capital_personal_union_desc: "War goal is to take the capital."
+ take_capital_hundred_years_war: "Take the capital"
+ take_capital_hundred_years_war_desc: "War goal is to take the capital."
  defend_country_soi: "Defend a friendly country against them"
  defend_country_soi_desc: "War goal is defend a friendly country."
  take_capital_fabricated_claims: "Take the Capital"
