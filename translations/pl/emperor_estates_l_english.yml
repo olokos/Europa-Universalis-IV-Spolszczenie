@@ -48,7 +48,7 @@
  estate_brahmins_legitimacy_to_rule: "Poparcie władzy przez braminów"
  estate_brahmins_brahmin_leadership: "Doradztwo braminów"
  estate_brahmins_flexible_deities: "Wybór bóstwa osobistego"
- estate_brahmins_flexible_deities_effect_tooltip: "Umożliwia podjęcie decyzji, która pozwoli ci zmieniać swoje osobiste bóstwo co §Y20§! lat kosztem §Y25§! legitymizacji (lub jej odpowiednik dla innych rządów)."
+ estate_brahmins_flexible_deities_effect_tooltip: "Umożliwia podjęcie decyzji, która pozwoli ci zmieniać swoje osobiste bóstwo co §Y20§! lat kosztem §Y25§! legitymizacji (lub jej odpowiednika dla innych rządów)."
  brahmin_hindu_deity_decision_title: "Ponownie wybierz bóstwo osobiste"
  brahmin_hindu_deity_decision_desc: "Czasami żałuje się swoich wyborów. Dlaczego wybór młodego człowieka, za którym bóstwem podążać, miałby obowiązywać do końca życia? Na szczęście nasze ustalenia z braminami pozwalają nam na pewną elastyczność w tej sprawie."
  decision_once_every_ten_years: "Tę decyzję można podjąć tylko raz w ciągu §Y10§! lat."
