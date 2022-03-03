@@ -2574,7 +2574,7 @@
  REVOKENAVALACCDESC: "Unieważnij ich prawo do korzystania z portów."
  REVOKENAVALACCTITLE: "Unieważnij prawo do korzystania z portów."
  REVOKENAVALACCNEWDESC: "Czy chcesz anulować prawo do korzystania z naszych portów dane państwu $COUNTRY$? Spowoduje to zakaz korzystania z naszych portów i zmniejszy ich zasięg kolonialny i handlowy."
- OFFER_NAVALACCNEWDESC: "Czy chcesz zaoferować prawa do korzystania z naszych portów krajowi $COUNTRY$? Umożliwi to im naprawę ich statków w naszych portach.\nKażdego miesiąca będziemy pobierać od nich opłatę w wysokości §Y$VAL$§W¤. Opłata wzrośnie, jeśli zwiększy się ilość naszych portów."
+ OFFER_NAVALACCNEWDESC: "Czy chcesz zaoferować prawo do korzystania z naszych portów krajowi $COUNTRY$? Umożliwi to im naprawę ich statków w naszych portach.\nKażdego miesiąca będziemy pobierać od nich opłatę w wysokości §Y$VAL$§W¤. Opłata wzrośnie, jeśli zwiększy się ilość naszych portów."
  ICON_ASKFLEET: "Prośba o §Yprawa do korzystania z portów§W"
  ICON_OFFERFLEET: "Propozycja §Yprawa do korzystania z portów§!"
  VIEW_PLAYER_COUNTRY: "Twoje państwo"
