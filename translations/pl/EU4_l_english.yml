@@ -4725,7 +4725,7 @@
  support_mr_traders_desc: ""
  mr_aristocrats: "Arystokraci"
  mr_aristocrats_influence: "Wpływ arystokratów"
- mr_aristocrats_FACTION_DESC: "Reprezentują arystokratyczne rodziny patrycjuszy, które dominują życie polityczne stolicy. Ich główny cel to zapewnienie republice zwycięstw w wojnach, a co za tym idzie - zdobycie chwały dla swojego rodu.\n\n§YZdobywają wpływy dzięki dodatniej stabilności i tradycji wojskowej. Traci wpływy przez wyczerpanie wojenne."
+ mr_aristocrats_FACTION_DESC: "Reprezentują arystokratyczne rodziny patrycjuszy, które dominują życie polityczne stolicy. Ich główny cel to zapewnienie republice zwycięstw w wojnach, a co za tym idzie - zdobycie chwały dla swojego rodu.\n\n§YZdobywają wpływy dzięki dodatniej stabilności i tradycji wojskowej. Tracą wpływy przez wyczerpanie wojną.§!"
  support_mr_aristocrats_title: "Wspieraj arystokratów"
  support_mr_aristocrats_desc: ""
  SPY_AGAIN_TICKS: "Do $WHEN|Y$ nasza siatka będzie się rozpadać.\n"
