@@ -2563,7 +2563,7 @@
  POWER_ACTION_MAKE_CORE: "Zmień prowincję $PROVINCE$ na rdzenną."
  OFFER_NAVALACCTITLE: "Zaoferuj dostęp do portów"
  NAVALACCTITLE: "Poproś o dostęp do portów"
- NAVALACCNEWDESC: "Czy chcesz poprosić o prawa do korzystania z portów od państwa $COUNTRY$, umożliwiając naszym statkom cumowanie w ich portach? Pozwoli to naprawiać nasze statki w ich portach.\nKażdego miesiąca będą od nas pobierać opłatę w wysokości §Y$VAL$§W¤. Jeśli zbudują lub zdobędą więcej portów, koszt ten się zwiększy."
+ NAVALACCNEWDESC: "Czy chcesz poprosić o prawo do korzystania z portów od państwa $COUNTRY$, umożliwiając naszym statkom cumowanie w ich portach? Pozwoli to naprawiać nasze statki w ich portach.\nKażdego miesiąca będą od nas pobierać opłatę w wysokości §Y$VAL$§W¤. Jeśli zbudują lub zdobędą więcej portów, koszt ten się zwiększy."
  NAVALACCDESC: "Poproś o prawo do korzystania z ich portów."
  OFFER_NAVALACCDESC: "Zaoferuj prawa do korzystania z naszych portów."
  NAVALACCREQDESC: "Państwo $COUNTRY$ prosi o prawo do korzystania z naszych portów. Jeśli wyrazimy zgodę, będą mogli cumować i naprawiać okręty w naszych portach."
