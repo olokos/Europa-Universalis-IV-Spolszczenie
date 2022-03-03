@@ -1261,7 +1261,7 @@
  ARMY_TRADITION_IRO: "Tradycje wojskowe zmieniają się rocznie o $VAL|+$ wskutek:\n"
  ARMY_TRADITION_DRO: "Tradycje wojskowe określają doświadczenie zgromadzone przez nasze wojsko. Są one zwiększane poprzez idee, budynki, bitwy i oblężenia."
  CURRENT_EFFECTS: "§YObecny efekt§!"
- TRADE_THROUGH_TT: "$WHO$ należy do węzła handlowego §Y$WHERE$§W i jest w odległości wynoszącej $COL$$RANGE$§! od naszej najbliższej prowincji.\n$POWER$"
+ TRADE_THROUGH_TT: "$WHO$ należy do węzła handlowego §Y$WHERE$§W i jest w odległości wynoszącej $COL$$RANGE$§! od naszej najbliższej prowincji narodowej.\n$POWER$"
  TRADE_POWER_MAP_TT_EXPL: "Zapewnia węzłowi handlowemu $VAL$ siły handlowej, co stanowi §Y$PERC$%§! prowincji."
  TRADE_GOODS_SIZE: "Lokalnie produkowane towary"
  TRADE_GOODS_SIZE_MODIFIER: "Modyfikator lokalnie produkowanych towarów"
