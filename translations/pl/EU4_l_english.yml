@@ -4906,7 +4906,7 @@
  LESS_DEVELOPMENT_THAN_TARGET: "$DIFF$ niższy poziom rozwoju niż cel:"
  CONFIRM_DECLARE_WAR_TITLE: "Zatwierdź wypowiedzenie wojny"
  CONFIRM_DECLARE_WAR_DESC_PREPEND: "Wypowiedzenie tej wojny natychmiast przyniesie poważne negatywne skutki.\n\nSkutki dla stabilności:\n"
- CANT_ABORT_EXPLORATION_MISSION: "Ta flota opuściła port i znajduje się poza zasięgiem twojego zaopatrzenia z najbliższego portu ($PROVINCE$) i nie można jej przydzielić nowej misji, dopóki nie wróci z misji eksploracyjnej."
+ CANT_ABORT_EXPLORATION_MISSION: "Ta flota opuściła port i znajduje się poza zasięgiem twojego zaopatrzenia z portu najbliższej prowincji narodowej ($PROVINCE$) i nie można jej przydzielić nowej misji, dopóki nie wróci z misji eksploracyjnej."
  PIRATEHUNT_MISSION_DESC: "Poluje na piratów w węźle §Y$NODE$§!"
  HIDE_MISSION_DESC: "Ukrywanie ($DESC$)"
  HIDE_MISSION_TOOLTIP: "Obecnie ukrywasz się przed zbyt silnymi wrogimi flotami."
