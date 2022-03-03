@@ -2565,7 +2565,7 @@
  NAVALACCTITLE: "Poproś o dostęp do portów"
  NAVALACCNEWDESC: "Czy chcesz poprosić o prawo do korzystania z portów od państwa $COUNTRY$, umożliwiając naszym statkom cumowanie w ich portach? Pozwoli to naprawiać nasze statki w ich portach.\nKażdego miesiąca będą od nas pobierać opłatę w wysokości §Y$VAL$§W¤. Jeśli zbudują lub zdobędą więcej portów, koszt ten się zwiększy."
  NAVALACCDESC: "Poproś o prawo do korzystania z ich portów."
- OFFER_NAVALACCDESC: "Zaoferuj prawa do korzystania z naszych portów."
+ OFFER_NAVALACCDESC: "Zaoferuj prawo do korzystania z naszych portów."
  NAVALACCREQDESC: "Państwo $COUNTRY$ prosi o prawo do korzystania z naszych portów. Jeśli wyrazimy zgodę, będą mogli cumować i naprawiać okręty w naszych portach."
  NAVALACCOFFDESC: "Państwo $COUNTRY$ proponuje nam prawo do korzystania z ich portów. Jeśli wyrazimy zgodę, będziemy mogli cumować i naprawiać okręty w ich portach.\nKraj ten będzie pobierać od nas comiesięczną opłatę w wysokości §Y$FEES$§W¤. Jeśli uzyska więcej portów, opłata może wzrosnąć."
  CANCELNAVALACCDESC: "Anuluj nasze prawa do korzystania z portów."
