@@ -298,7 +298,7 @@
  IS_NOT_SEA_ZONE: "jest częścią lądu"
  IS_SEA_ZONE: "jest częścią morza"
  DYNASTY_CHANGE: "$WHO$ staje się $NEW$\n"
- IS_NOT_STRONGEST_TRADE_POWER: "$WHO|Y$ NIE posiada najwyższej siły handlowej w węźle $WHERE|Y$."
+ IS_NOT_STRONGEST_TRADE_POWER: "$WHO|Y$ NIE posiada największej siły handlowej w węźle $WHERE|Y$."
  HAS_NOT_MORE_TRADE_POWER: "Siła handlowa $WHO|Y$ jest niższa niż $VAL$%."
  HAS_SAME_OR_MORE_TRADE_POWER: "Siła handlowa państwa $WHO|Y$ wynosi więcej lub równo §Y$VAL$%§W."
  TOTAL_HAS_NOT_MORE_PRIVATEERS: "Korsarze w prowincji $WHERE|Y$ rabują mniej niż §Y$VAL$%§! siły handlowej."
