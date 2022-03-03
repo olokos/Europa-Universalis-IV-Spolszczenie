@@ -2568,7 +2568,7 @@
  OFFER_NAVALACCDESC: "Zaoferuj prawo do korzystania z naszych portów."
  NAVALACCREQDESC: "Państwo $COUNTRY$ prosi o prawo do korzystania z naszych portów. Jeśli wyrazimy zgodę, będą mogli cumować i naprawiać okręty w naszych portach."
  NAVALACCOFFDESC: "Państwo $COUNTRY$ proponuje nam prawo do korzystania z ich portów. Jeśli wyrazimy zgodę, będziemy mogli cumować i naprawiać okręty w ich portach.\nKraj ten będzie pobierać od nas comiesięczną opłatę w wysokości §Y$FEES$§W¤. Jeśli uzyska więcej portów, opłata może wzrosnąć."
- CANCELNAVALACCDESC: "Anuluj nasze prawa do korzystania z portów."
+ CANCELNAVALACCDESC: "Anuluj nasze prawo do korzystania z portów."
  CANCELNAVALACCTITLE: "Anuluj dostęp do portów"
  CANCELNAVALACCNEWDESC: "Czy chcesz anulować prawa do korzystania z portów dane nam przez państwo $COUNTRY$? Spowoduje to zakaz korzystania z ich portów."
  REVOKENAVALACCDESC: "Unieważnij ich prawa do korzystania z portów."
