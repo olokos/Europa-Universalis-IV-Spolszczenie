@@ -75,7 +75,7 @@
  icelandic_nation_desc: "Okoliczności sprzysięgły się, by uczynić nasze posiadłości na Islandii najważniejszą częścią naszego państwa. Określmy się mianem islandzkiego państwa i wzmocnijmy miejscowe instytucje, umacniając naszą władzę nad wyspą."
  global_flag_western_focus_not_set_tooltip: "Żaden inny kraj nie zdecydował się na §Yskupienie się na zachodzie§!."
  reestablishing_themes_names_tooltip: "Wiele z naszych tureckich prowincji otrzyma z powrotem greckie nazwy."
- roman_culture_provinces_tooltip: "Wszystkie prowincje z kulturą główną mają teraz kulturę §Yrzymską§!"
+ roman_culture_provinces_tooltip: "Wszystkie prowincje należące do grupy kulturowej [Root.Culture.GetGroupName] zmienią kulturę na §Yrzymską§!."
  no_more_celestial_empire_title: "Reformy rządowe"
  no_more_celestial_empire_desc: "Dzięki wzmocnieniu instytucji rządowych możemy złamać potęgę dworskich frakcji i sprawić, by $MONARCHTITLE$ sprawował(a) faktyczną władzę."
  native_american_reform_title: "Reformy społeczne"
