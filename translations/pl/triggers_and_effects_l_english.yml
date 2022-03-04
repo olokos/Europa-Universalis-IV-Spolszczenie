@@ -602,7 +602,7 @@
  HAS_NOT_ACTIVE_POLICY: "Nie posiada $NAME|Y$ jako aktywnej polityki handlowej w węźle handlowym $NODE|Y$."
  HAS_ANY_ACTIVE_POLICY: "Posiada aktywną politykę handlową w węźle handlowym $NODE|Y$."
  HAS_NOT_ANY_ACTIVE_POLICY: "Nie posiada aktywnej polityki handlowej w węźle handlowym $NODE|Y$."
- has_river_estuary_tooltip: "Jest to §YRiver Estuary§!."
+ has_river_estuary_tooltip: "Posiada §Yujście rzeki§!."
  has_no_river_estuary_tooltip: "Nie jest to §YRiver Estuary§!."
  is_free_or_tributary_trigger_tooltip: "Jest niepodległy lub jest trybutariuszem."
  is_subject_other_than_tributary_trigger_tooltip: "Jest poddanym nietrybutariuszem."
