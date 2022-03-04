@@ -753,7 +753,7 @@
  KNOWLEDGE_SHARING_4: "decyduje się"
  KNOWLEDGE_SHARING_5: "$RESULT$ ofertę udostępnienia wiedzy wystosowaną przez kraj $WHO$."
  KNOWLEDGE_SHARING_6: "$EFFECT$"
- KNOWLEDGE_SHARING_LOG: "Państwo $RECIPIENT$ podjęło decyzje aby $RESULT$ ofertę udostępnienia wiedzy wystosowaną przez kraj $ACTOR$."
+ KNOWLEDGE_SHARING_LOG: "Państwo $RECIPIENT$ podjęło decyzję, aby $RESULT$ ofertę udostępnienia wiedzy wystosowaną przez kraj $ACTOR$."
  KNOWLEDGE_SHARING_BTN1: "OK"
  KNOWLEDGE_SHARING_BTN2: "OK"
  KNOWLEDGE_SHARING_BTN3: "Idź do"
