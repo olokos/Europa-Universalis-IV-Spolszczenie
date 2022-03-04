@@ -2961,7 +2961,7 @@
  NUM_OF_OWNED_PROVINCES_WITH: "$NUMBER|Y$ posiadanych prowincji (obecnie: $CURRENT|Y$) z"
  NUM_OF_OWNED_PROVINCES_WITH_INCLUDING_NON_SOVEREIGN_SUBJECTS: "$NUMBER|Y$ prowincje posiadane przez ciebie lub przez twoich wasali niebędących trybutami (obecnie: $CURRENT|Y$) z"
  NUM_OF_OWNED_STATES_WITH: "posiadane stany z"
- NUM_OF_OWNED_STATES_WITH_INCLUDING_NON_SOVEREIGN_SUBJECTS: "stany posiadane przez ciebie lub przez twoich wasali niebędących trybutami z"
+ NUM_OF_OWNED_STATES_WITH_INCLUDING_NON_SOVEREIGN_SUBJECTS: " stany posiadane przez ciebie lub przez twoich wasali niebędących trybutariuszami z"
  CONFIRM_ADVISOR_FIRE: "Zatrudniając §Y$NEW$§! zwolnisz §Y$OLD$§!"
  WE_ARE_SUBJECT: "Jesteśmy podlegli krajowi $WHO$."
  IS_NOT_SUBJECT_OF: "Nie jest podległy krajowi "
