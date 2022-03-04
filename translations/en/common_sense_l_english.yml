@@ -1677,7 +1677,7 @@
  TRANSFER_OCCUPATION_TITLE: "Transfer occupation"
  CANT_BUILD_IN_OCCUPIED: "This is an empty building plot, but the province has been occupied so you can't build here."
  FORT_FLIPPING: "Control of $PROV$ is being reverted to $FLIPPER$ from the fort in $FORT$. Progress is $PERCENT|Y$%."
- FORT_FLIPPING_SLIPPING: "Control of $PROV$ slipping away from $FLIPPER$ again. Progress is $PERCENT|Y$%."
+ FORT_FLIPPING_SLIPPING: "$FLIPPERADJ$ attempts to wrest control of $PROV$ from $CONTROLLER$ are being repelled by hostile armies. Progress is now $PERCENT|Y$%."
  BUILDING_DISCOUNT: "$DISCOUNT$¤ discount because $NAME|Y$ already is built."
  guarantee_religious_tolerance_tooltip: "1 Province will get §G-10%§! §YDevelopment Cost§!"
  guarantee_religious_tolerance_tooltip_2: "[Root.GetName] will get §G-10%§! §YDevelopment Cost§! for 10 years."

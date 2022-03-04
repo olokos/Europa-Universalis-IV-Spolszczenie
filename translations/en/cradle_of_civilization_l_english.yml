@@ -684,7 +684,7 @@
  pasha_removed_modifier: "Pasha Removed"
  desc_pasha_removed_modifier: "The Pasha has been removed"
  PASHA_MODIFIER: "Pasha in State"
- CONFORM_TO_TEMPLATE: "Conform to Template"
+ CONFORM_TO_TEMPLATE: "§YConform to Template§!"
  CONFORM_TO_TEMPLATE_ARMY_DESC: "Select an Army Template to conform this Army to that Template.\nRegiments not matching the Template will be detached into a new Army and missing Regiments will be built, moved and merged with this Army."
  CONFORM_TO_TEMPLATE_NAVY_DESC: "Select a Navy Template to conform this Navy to that Template.\nShips not matching the Template will be detached into a new Fleet and missing Ships will be built, moved and merged with this Navy."
  NO_CONFORM_TO_TEMPLATE_CONDOTTIERI: "§RThis Army can currently not be Conformed to any Template.§!\nThe Army is currently rented as Condottieri."

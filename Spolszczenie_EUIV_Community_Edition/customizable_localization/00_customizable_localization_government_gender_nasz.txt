@@ -1162,6 +1162,7 @@ defined_text = {
 			OR = {
 				culture_group = altaic
 				culture_group = tartar
+				primary_culture = altaic_new
 			}
 		}
 	}
@@ -1178,6 +1179,7 @@ defined_text = {
 						OR = {
 							culture_group = altaic
 							culture_group = tartar
+							primary_culture = altaic_new
 						}
 					}
 				}
@@ -1228,12 +1230,6 @@ defined_text = {
 			NOT = {
 				has_reform = presidential_despot_reform
 			}
-		}
-	}
-	text={
-		localisation_key = string_end_ej
-		trigger = {
-			is_revolutionary_republic_trigger = yes
 		}
 	}
 	text={
@@ -1303,6 +1299,7 @@ defined_text = {
 			government_rank = 3
 			government = republic
 			OR = {
+				tag = USA
 				has_reform = constitutional_republic
 				has_reform = presidential_reform
 				has_reform = parliamentary_reform
@@ -1478,11 +1475,11 @@ defined_text = {
 		trigger = {
 			government_rank = 3
 			religion = shiite
-			primary_culture = yemeni_culture
 			OR = {
 				government = theocracy
 				has_reform = feudal_theocracy
 			}
+			primary_culture = yemeni_culture
 		}
 	}
 	text={
@@ -1490,7 +1487,13 @@ defined_text = {
 		trigger = {
 			government_rank = 3
 			religion = shiite
-			government = theocracy
+			OR = {
+				government = theocracy
+				has_reform = feudal_theocracy
+			}
+			NOT = {
+				primary_culture = yemeni_culture
+			}
 		}
 	}
 	text={
@@ -2568,6 +2571,7 @@ defined_text = {
 			OR = {
 				culture_group = altaic
 				culture_group = tartar
+				primary_culture = altaic_new
 			}
 		}
 	}
@@ -2685,6 +2689,7 @@ defined_text = {
 			government_rank = 2
 			government = republic
 			OR = {
+				tag = USA
 				has_reform = constitutional_republic
 				has_reform = presidential_reform
 				has_reform = parliamentary_reform
@@ -2885,11 +2890,11 @@ defined_text = {
 		trigger = {
 			government_rank = 2
 			religion = shiite
-			primary_culture = yemeni_culture
 			OR = {
 				government = theocracy
 				has_reform = feudal_theocracy
 			}
+			primary_culture = yemeni_culture
 		}
 	}
 	text={
@@ -2897,7 +2902,13 @@ defined_text = {
 		trigger = {
 			government_rank = 2
 			religion = shiite
-			government = theocracy
+			OR = {
+				government = theocracy
+				has_reform = feudal_theocracy
+			}
+			NOT = {
+				primary_culture = yemeni_culture
+			}
 		}
 	}
 	text={
@@ -3998,6 +4009,7 @@ defined_text = {
 			OR = {
 				culture_group = altaic
 				culture_group = tartar
+				primary_culture = altaic_new
 			}
 		}
 	}
@@ -4115,6 +4127,7 @@ defined_text = {
 		trigger = {
 			government = republic
 			OR = {
+				tag = USA
 				has_reform = constitutional_republic
 				has_reform = presidential_reform
 				has_reform = parliamentary_reform
@@ -4296,18 +4309,24 @@ defined_text = {
 		localisation_key = string_end_ego
 		trigger = {
 			religion = shiite
-			primary_culture = yemeni_culture
 			OR = {
 				government = theocracy
 				has_reform = feudal_theocracy
 			}
+			primary_culture = yemeni_culture
 		}
 	}
 	text={
 		localisation_key = string_end_ego
 		trigger = {
 			religion = shiite
-			government = theocracy
+			OR = {
+				government = theocracy
+				has_reform = feudal_theocracy
+			}
+			NOT = {
+				primary_culture = yemeni_culture
+			}
 		}
 	}
 	text={

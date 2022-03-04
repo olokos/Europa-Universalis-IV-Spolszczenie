@@ -1160,6 +1160,7 @@
  korean_g: "Korean"
  japanese_g: "Japanese"
  kamchatkan: "Kamchatkan"
+ nivkh: "Nivkh"
  kamchatkan_g: "Kamchatkan"
  ainu: "Ainu"
  hindustan_region: "Hindustan"
@@ -2358,4 +2359,4 @@
  accepted_claim_on_neighbor: "Accepted Claim on Neighbor"
  rejected_claim_on_neighbor: "Rejected Claim on Neighbor"
  REMOVE_ELECTORATE_NO_OFFICIAL_RELIGION: "You cannot revoke electorates unless there is an official religion in the Empire."
- AUTO_TRANSPORT_NO_COG: "\nYou need transport ships in order to transport troops with this fleet."
+ AUTO_TRANSPORT_NO_COG: "You need transport ships in order to transport troops with this fleet."
