@@ -4,7 +4,7 @@ Polish translation of Europa Universalis IV.
 Spolszczenie jest również dostępne na Paradox Mods: [Link](https://mods.paradoxplaza.com/mods/16442/Any)
 
 ## Obsługiwana wersja gry i zakres tłumaczenia:
-Spolszczenie do najnowszej wersji Europa Universalis 1.32.1. Działa bezproblemowo z każdą wersją gry 1.32.x (Songhai).
+Spolszczenie do najnowszej wersji Europa Universalis 1.33. Działa bezproblemowo z każdą wersją gry 1.33.
 
 ###Stan w wersji 3.1.0 [22.11.2021]:
 * 19 608 sprawdzonych wpisów (100 633 słowa)

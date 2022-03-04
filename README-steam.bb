@@ -6,7 +6,7 @@ Jak i steam:
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1869998815]Link[/url]
 
 [h2]Obsługiwana wersja gry i zakres tłumaczenia:[/h2]
-Spolszczenie do Europa Universalis 4 w najnowszej wersji 1.32.1 (Songhai).
+Spolszczenie do Europa Universalis 4 w najnowszej wersji 1.33.
 
 [h3]Stan w wersji 3.1.0 [22.11.2021]:[/h3]
 * 19 608 sprawdzonych wpisów (100 633 słowa)
