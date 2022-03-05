@@ -403,7 +403,7 @@
  hun_bakocz_foreign_policy: "Prohabsburska polityka Tamása Bakócza"
  flavor_hun.13.t: "Katolicy z Czech proszą nas o pomoc"
  flavor_hun.13.d: "Wstrząśnięty, tym że [From.Monarch.GetName] faworyzuje heretyckich husytów w [From.GovernmentName] [From.GetName], wiele katolickich rodzin szlacheckich podniosło bunt. Wśród nich są takie nazwiska jak von Rosenberg, Schwanberg, Sternberg czy Hasenburg. Dzięki temu rebeliantom nie brakuje silnego przywództwa oraz tego że sprzyja im nasz Bóg, wątpliwe jest czy będą w stanie sami przeciwstawić się siłom państwa [From.GetName]\nZdesperowani buntownicy zwrócili się do naszego władcy o zbawienie i ochronę. Teraz ofiarowują koronę katolickich Czech naszemu [Root.Monarch.GetTitle] [Root.Monarch.GetName]."
- flavor_hun.13.a: "Deus vult!"
+ flavor_hun.13.a: "Deus Vult!"
  flavor_hun.13.b: "[From.Monarch.GetName] jest prawowitym władcą..."
  flavor_hun.14.t: "Wybory w Ołomuńcu"
  flavor_hun.14.d: "[From.Monarch.GetTitle] z państwa [From.GetName] otrzymał prośbę o ochronę od zdesperowanych katolickich rebeliantów. [From.Monarch.GetName] został wybrany przez katolickie prowincje jako nowy [From.Monarch.GetTitle] i z niecierpliwością czekają na przybycie armii [From.GetAdjective].\nPozostałe prowincje pozostają lojalne wobec prawowitego władcy, którym jest [Root.Monarch.GetName] i potępiają działania katolickich intruzów."
