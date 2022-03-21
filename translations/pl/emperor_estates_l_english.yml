@@ -721,7 +721,7 @@
  every_steppe_province_gains_10_autonomy: "Wszystkie posiadane prowincje na §Ystepach§! otrzymają §R10%§! lokalnej autonomii."
  every_steppe_province_gains_20_autonomy: "Wszystkie posiadane prowincje na §Ystepach§! otrzymają §R20%§! lokalnej autonomii."
  every_steppe_province_gains_33_autonomy: "Wszystkie posiadane prowincje na §Ystepach§! otrzymają §R33%§! lokalnej autonomii."
- palkis.tooltip2: "Każda prowincja posiadana przez §YMarathów§! otrzymuje modyfikator §Y'Procesje Palkhis'§! na §Y20 lat§!, dający następujące efekty:\nLokalne niepokoje: §G-3.00§!\nLokalny koszt rozwoju: §G-5.0%§!\nMiesięczne zniszczenia: §G-0.03§!"
+ palkis.tooltip2: "Każda prowincja posiadana przez §YMarathów§! otrzymuje modyfikator §Y'Ludowe procesje z palankinem'§! na §Y20 lat§!, dający następujące efekty:\nLokalne niepokoje: §G-3.00§!\nLokalny koszt rozwoju: §G-5.0%§!\nMiesięczne zniszczenia: §G-0.03§!"
  estate_burghers_enforced_interfaith_dialogue: "Wymuszony dialog międzywyznaniowy"
  estate_dhimmi_enforced_interfaith_dialogue: "Wymuszony dialog międzywyznaniowy"
  unavailable_during_revolution_disaster: "§Y[Root.GetName]§! nie ma nadciagającej lub trwającej katastrofy §YRewolucja§!."
