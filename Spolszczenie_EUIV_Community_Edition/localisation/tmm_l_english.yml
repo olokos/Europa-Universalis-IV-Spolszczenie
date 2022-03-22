@@ -1603,7 +1603,7 @@
  PEACE_OPTION_REQUIRES_OTHER_PEACE_OPTION:0 "Cannot demand this without also demanding $TREATYTYPE$."
  COMMA:0 ", "
  AND_LIST:0 ", and "
- OR_LIST:0 ", or "
+ OR_LIST:0 " lub "
  MODIFIER_RELATION_WITH_SAME_CULTURE:0 "Opinion of same Culture"
  MODIFIER_RELATION_WITH_SAME_CULTURE_GROUP:0 "Opinion of same Culture Group"
  MODIFIER_RELATION_WITH_ACCEPED_CULTURE:0 "Opinion of Accepted Culture"
