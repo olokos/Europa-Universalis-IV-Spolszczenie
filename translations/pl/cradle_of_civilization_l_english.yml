@@ -684,7 +684,7 @@
  pasha_removed_modifier: ""
  desc_pasha_removed_modifier: ""
  PASHA_MODIFIER: "Pasza w stanie"
- CONFORM_TO_TEMPLATE: "Dostosuj do szablonu"
+ CONFORM_TO_TEMPLATE: ""
  CONFORM_TO_TEMPLATE_ARMY_DESC: "Wybierz szablon armii, aby dostosować tę armię do tego szablonu.\nPułki niezgodne z szablonem zostaną odłączone do nowej armii, a brakujące pułki zostaną zbudowane, przeniesione i połączone z tą armią."
  CONFORM_TO_TEMPLATE_NAVY_DESC: "Wybierz szablon marynarki, aby dostosować tę flotę do tego szablonu.\nOkręty niezgodne z szablonem zostaną odłączone do nowej floty, a brakujące okręty zostaną zbudowane, przeniesione i połączone z tą flotą."
  NO_CONFORM_TO_TEMPLATE_CONDOTTIERI: "§RObecnie ta armia nie może być dostosowana do żadnego szablonu.§!\nArmia jest obecnie wynajmowana jako kondotierzy."

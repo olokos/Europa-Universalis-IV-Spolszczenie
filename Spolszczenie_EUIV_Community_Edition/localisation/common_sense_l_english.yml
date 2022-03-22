@@ -1677,7 +1677,7 @@
  TRANSFER_OCCUPATION_TITLE:0 "Przenieœ okupacj²"
  CANT_BUILD_IN_OCCUPIED:0 "To wolny teren pod budow², ale nie mo¿na jej rozpocz¹¾, poniewa¿ prowincja jest okupowana."
  FORT_FLIPPING:0 "Dzi²ki fortowi w mieœcie $FORT$, kontrola nad prowincj¹ $PROV$ powraca do kraju $FLIPPER$. Post²p wynosi $PERCENT|Y$%."
- FORT_FLIPPING_SLIPPING:0 "Kontrola nad prowincj¹ $PROV$ ponownie wymyka si² z r¹k kraju $FLIPPER$. Post²p wynosi $PERCENT|Y$%."
+ FORT_FLIPPING_SLIPPING:0 "$FLIPPERADJ$ attempts to wrest control of $PROV$ from $CONTROLLER$ are being repelled by hostile armies. Progress is now $PERCENT|Y$%."
  BUILDING_DISCOUNT:0 "$DISCOUNT$¤ zni¿ki, poniewa¿ ju¿ zbudowano $NAME|Y$."
  guarantee_religious_tolerance_tooltip:0 "1 prowincja dostanie §G-10%§! §Ykosztu rozwoju§!"
  guarantee_religious_tolerance_tooltip_2:0 "[Root.GetName] otrzyma §G-10%§! §YKoszt rozwoju§! na 10 lat."

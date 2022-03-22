@@ -75,7 +75,7 @@
  icelandic_nation_desc:0 "Okolicznoœci sprzysi²g³y si², by uczyni¾ nasze posiad³oœci na Islandii najwa¿niejsz¹ cz²œci¹ naszego paªstwa. Okreœlmy si² mianem islandzkiego paªstwa i wzmocnijmy miejscowe instytucje, umacniaj¹c nasz¹ w³adz² nad wysp¹."
  global_flag_western_focus_not_set_tooltip:0 "¯aden inny kraj nie zdecydowa³ si² na §Yskupienie si² na zachodzie§!."
  reestablishing_themes_names_tooltip:0 "Wiele z naszych tureckich prowincji otrzyma z powrotem greckie nazwy."
- roman_culture_provinces_tooltip:0 "Wszystkie prowincje z kultur¹ g³ówn¹ maj¹ teraz kultur² §Yrzymsk¹§!"
+ roman_culture_provinces_tooltip:0 "Wszystkie prowincje nale¿¹ce do grupy kulturowej [Root.Culture.GetGroupName] zmieni¹ kultur² na §Yrzymsk¹§!."
  no_more_celestial_empire_title:0 "Reformy rz¹dowe"
  no_more_celestial_empire_desc:0 "Dzi²ki wzmocnieniu instytucji rz¹dowych mo¿emy z³ama¾ pot²g² dworskich frakcji i sprawi¾, by $MONARCHTITLE$ sprawowa³(a) faktyczn¹ w³adz²."
  native_american_reform_title:0 "Reformy spo³eczne"

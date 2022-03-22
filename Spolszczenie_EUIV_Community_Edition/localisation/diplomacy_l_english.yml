@@ -422,6 +422,8 @@
  superiority_insult_mutual_desc:0 "Celem wojny jest okazanie im naszej wy¿szoœci poprzez wygrywanie bitew."
  take_capital_personal_union:0 "Zdob¹dŸ stolic²"
  take_capital_personal_union_desc:0 "Celem wojny jest zdobycie stolicy."
+ take_capital_hundred_years_war:0 "Zdob¹dŸ stolic²"
+ take_capital_hundred_years_war_desc:0 "Celem wojny jest zdobycie stolicy."
  defend_country_soi:0 "Obroª przyjazny kraj przed wrogami"
  defend_country_soi_desc:0 "Celem wojny jest obrona przyjaznego nam kraju."
  take_capital_fabricated_claims:0 "Zdob¹dŸ stolic²"

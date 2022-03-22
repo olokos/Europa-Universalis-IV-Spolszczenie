@@ -388,6 +388,7 @@
  flavor_nav.4.b:0 "Zobaczymy, co postanowi król Jan."
  flavor_nav.4.c:0 "Nie pójdziemy na ust²pstwa!"
  flavor_nav.5.a:0 "Nawarra powinna przewodzi¾ tej unii!"
+ flavor_nav.5.a.tt:0 "Paªstwo [ARA.GetName] b²dzie rz¹dzone przez cz³onka dynastii §Y[ARA.Monarch.Dynastia.GetName]§!"
  flavor_nav.5.b:0 "Przyjmujemy nasz¹ pozycj² paªstwa zale¿nego od Aragonii."
  MISSIONARY_MAINT_ENVOY_ENTRY:0 "$NAME|Y$ w prowincji $LOCATION|Y$ kosztuje $COST|R$¤/miesi²cznie.\n"
  CONFIRMMISSION_MAINTENANCE_COST:0 "Koszt nawrócenia prowincji b²dzie wynosi³ $COST|R$¤/miesi²cznie ze wzgl²du na jej poziom rozwoju i autonomi²."

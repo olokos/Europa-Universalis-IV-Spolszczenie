@@ -1677,7 +1677,7 @@
  TRANSFER_OCCUPATION_TITLE: "Przenieś okupację"
  CANT_BUILD_IN_OCCUPIED: "To wolny teren pod budowę, ale nie można jej rozpocząć, ponieważ prowincja jest okupowana."
  FORT_FLIPPING: "Dzięki fortowi w mieście $FORT$, kontrola nad prowincją $PROV$ powraca do kraju $FLIPPER$. Postęp wynosi $PERCENT|Y$%."
- FORT_FLIPPING_SLIPPING: "Kontrola nad prowincją $PROV$ ponownie wymyka się z rąk kraju $FLIPPER$. Postęp wynosi $PERCENT|Y$%."
+ FORT_FLIPPING_SLIPPING: ""
  BUILDING_DISCOUNT: "$DISCOUNT$¤ zniżki, ponieważ już zbudowano $NAME|Y$."
  guarantee_religious_tolerance_tooltip: "1 prowincja dostanie §G-10%§! §Ykosztu rozwoju§!"
  guarantee_religious_tolerance_tooltip_2: "[Root.GetName] otrzyma §G-10%§! §YKoszt rozwoju§! na 10 lat."
