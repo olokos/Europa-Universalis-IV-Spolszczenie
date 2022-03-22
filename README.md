@@ -6,10 +6,10 @@ Spolszczenie jest również dostępne na Paradox Mods: [Link](https://mods.parad
 ## Obsługiwana wersja gry i zakres tłumaczenia:
 Spolszczenie do najnowszej wersji Europa Universalis 1.33. Działa bezproblemowo z każdą wersją gry 1.33.
 
-###Stan w wersji 3.1.0 [22.11.2021]:
-* 19 608 sprawdzonych wpisów (100 633 słowa)
-* 81 551 przetłumaczone wpisy (805 952 słowa)
-* 19 086 nieprzetłumaczonych wpisów (424 850 słów)
+###Stan w wersji 3.2.0 [22.03.2022]:
+* 19 599 sprawdzonych wpisów (100 633 słowa)
+* 82 313 przetłumaczone wpisy (805 952 słowa)
+* 18 721 nieprzetłumaczonych wpisów (424 850 słów)
 
 Jest to obecnie najpełniejsze, stworzone przez społeczność gry, spolszczenie, które posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie **(79,25% całej gry)**. Prace projektu obejmują 116 plików, z czego do przetłumaczenia pozostało 35.
  
