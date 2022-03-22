@@ -12,33 +12,33 @@ object ProcessHelper {
     /**
      * Converts all files in directory to specified format type.
      */
-    fun loadDirectoryOfType(directory: File, type: LocaleType): List<Locale> {
+    fun loadDirectoryOfType(directory: File, type: LocaleType): List<EUIVLocale> {
         if (!directory.isDirectory && directory.exists()) {
             logger.error("Source folder \"${directory.canonicalPath}\" is not a folder.")
             throw IllegalArgumentException()
         }
 
-        val locales = mutableListOf<Locale>()
+        val EUIVLocales = mutableListOf<EUIVLocale>()
 
         for (file in directory.listFiles()!!) {
             if (file.isFile && (file.extension == "yml" || file.extension == "txt")) {
                 val locale = LocaleLoader.loadFile(file, type)
-                locales.add(locale)
+                EUIVLocales.add(locale)
             }
         }
 
-        return locales
+        return EUIVLocales
     }
 
     /**
      * Writes specified locales to given directory.
      */
-    fun writeLocalesToDirectory(directory: File, locales: List<Locale>) {
+    fun writeLocalesToDirectory(directory: File, EUIVLocales: List<EUIVLocale>) {
         if (!directory.isDirectory && directory.exists()) {
             logger.error("Output folder \"${directory.canonicalPath}\" is not a folder.")
             throw IllegalArgumentException()
         }
-        for (locale in locales) {
+        for (locale in EUIVLocales) {
             val target = File(directory,locale.fileName)
             LocaleLoader.writeToFile(target, locale)
         }
@@ -47,9 +47,9 @@ object ProcessHelper {
     /**
      * Converts locales with given charset to given type.
      */
-    fun convertLocalesToType(locales: List<Locale>, charset: Charset, type: LocaleType): List<Locale> {
-        val converted = mutableListOf<Locale>()
-        for (locale in locales) {
+    fun convertLocalesToType(EUIVLocales: List<EUIVLocale>, charset: Charset, type: LocaleType): List<EUIVLocale> {
+        val converted = mutableListOf<EUIVLocale>()
+        for (locale in EUIVLocales) {
             logger.info("Converting locale \"${locale.fileName}\" from type \"${locale.type}\" to \"$type\" using charset \"${charset.javaClass.simpleName}\".")
             if (locale.fileName != SpecialFilenames.getFilename(locale.fileName, type))
                 logger.info("Also changing filename from \"${locale.fileName}\" to \"${SpecialFilenames.getFilename(locale.fileName, type)}\".")
@@ -62,9 +62,9 @@ object ProcessHelper {
      * Combines two locale lists to replace empty strings with ones in supplement locales.
      * The locales are identified by their names.
      */
-    fun combineLocales(locales: List<Locale>, supplementLocales: List<Locale>) {
-        locales.forEach { locale ->
-            supplementLocales.forEach { supplement ->
+    fun combineLocales(EUIVLocales: List<EUIVLocale>, supplementEUIVLocales: List<EUIVLocale>) {
+        EUIVLocales.forEach { locale ->
+            supplementEUIVLocales.forEach { supplement ->
                 if (locale.fileName == supplement.fileName) {
                     locale.supplement(supplement)
                 }
@@ -78,10 +78,10 @@ object ProcessHelper {
      * - when condition is false the input entry will be filtered from output
      * Condition takes input's entry.
      */
-    fun filterLocales(input: List<Locale>, condition: (String, String) -> Boolean): List<Locale> {
-        val output = mutableListOf<Locale>()
+    fun filterLocales(input: List<EUIVLocale>, condition: (String, String) -> Boolean): List<EUIVLocale> {
+        val output = mutableListOf<EUIVLocale>()
         input.forEach { i ->
-                    val o = Locale(i.fileName, i.type)
+                    val o = EUIVLocale(i.fileName, i.type)
                     i.entries.forEach { (lang, lines) ->
                         lines.forEach { (key, pair) ->
                             if (condition(key.value, pair.second)) {
@@ -96,7 +96,7 @@ object ProcessHelper {
         return output
     }
 
-    fun filterLocales(input: List<Locale>, condition: (String) -> Boolean): List<Locale> =
+    fun filterLocales(input: List<EUIVLocale>, condition: (String) -> Boolean): List<EUIVLocale> =
             filterLocales(input) { _, value -> condition(value)}
 
     /**
@@ -108,13 +108,13 @@ object ProcessHelper {
      * - when corresponding entry does not exist then the entry will be included in output
      * Condition takes input's entry and filter's entry.
      */
-    fun filterLocales(input: List<Locale>, filter: List<Locale>, condition: (String, String) -> Boolean): List<Locale> {
-        val output = mutableListOf<Locale>()
+    fun filterLocales(input: List<EUIVLocale>, filter: List<EUIVLocale>, condition: (String, String) -> Boolean): List<EUIVLocale> {
+        val output = mutableListOf<EUIVLocale>()
         input.forEach { i ->
             when (val f = findCorrespondingLocale(i, filter)) {
                 null -> output.add(i.clone())
                 else -> {
-                    val o = Locale(i.fileName, i.type)
+                    val o = EUIVLocale(i.fileName, i.type)
                     i.entries.forEach { (lang, lines) ->
                         lines.forEach { (key, pair) ->
                             val add = when {
@@ -136,7 +136,7 @@ object ProcessHelper {
         return output
     }
 
-    fun filterLocales(input: Locale, filter: Locale, output: Locale, condition: (String, String) -> Boolean) {
+    fun filterLocales(input: EUIVLocale, filter: EUIVLocale, output: EUIVLocale, condition: (String, String) -> Boolean) {
         input.entries.forEach { (lang, lines) ->
             lines.forEach { (key, pair) ->
                 val add = when {
@@ -157,15 +157,15 @@ object ProcessHelper {
      * Returns a locale with input's filename from locales list. Returns null if not found. In case of many
      * locales it will return first one found.
      */
-    private fun findCorrespondingLocale(input: Locale, locales: List<Locale>): Locale? =
-        locales.find { it.fileName == input.fileName }
+    private fun findCorrespondingLocale(input: EUIVLocale, EUIVLocales: List<EUIVLocale>): EUIVLocale? =
+        EUIVLocales.find { it.fileName == input.fileName }
 
     /**
      * Merges provided locales to one locale.
      */
-    fun mergeLocales(locales: List<Locale>, fileName: String, type: LocaleType): Locale {
-        val o = Locale(fileName, type)
-        locales.forEach { loc ->
+    fun mergeLocales(EUIVLocales: List<EUIVLocale>, fileName: String, type: LocaleType): EUIVLocale {
+        val o = EUIVLocale(fileName, type)
+        EUIVLocales.forEach { loc ->
             when {
                 loc.type != type -> {
                     logger.error("Incorrect locale type provided. Expected \"$type\" format, got \"${loc.type}\".")
@@ -186,9 +186,9 @@ object ProcessHelper {
     /**
      * Patches entries in provided locales with given patches.
      */
-    fun patchLocales(locales: List<Locale>, patches: List<Locale>): List<Locale> {
-        val output = mutableListOf<Locale>()
-        locales.forEach {
+    fun patchLocales(EUIVLocales: List<EUIVLocale>, patches: List<EUIVLocale>): List<EUIVLocale> {
+        val output = mutableListOf<EUIVLocale>()
+        EUIVLocales.forEach {
             loc -> patches.find { it.fileName == loc.fileName }?.also { output.add(patchLocales(loc, it)) }
         }
         return output
@@ -197,15 +197,15 @@ object ProcessHelper {
     /**
      * Patches entries in provided locale with given patch.
      */
-    fun patchLocales(locale: Locale, patch: Locale): Locale {
-        val output = locale.clone()
+    fun patchLocales(EUIVLocale: EUIVLocale, patch: EUIVLocale): EUIVLocale {
+        val output = EUIVLocale.clone()
         patch.entries.forEach { (lang, lines) ->
             lines.forEach { (key, pair) ->
                 val patchPair = patch.entries[lang]!![key]!!
-                val keyPriority = locale.entries[lang]?.keys?.find { it.value == key.value }?.priority ?: key.priority
-                val langPriority = locale.entries.keys.find { it.value == lang.value }?.priority ?: lang.priority
-                if (!locale.entries.containsKey(lang)) {
-                    locale.entries[PriorityString(lang.value, langPriority)] = hashMapOf()
+                val keyPriority = EUIVLocale.entries[lang]?.keys?.find { it.value == key.value }?.priority ?: key.priority
+                val langPriority = EUIVLocale.entries.keys.find { it.value == lang.value }?.priority ?: lang.priority
+                if (!EUIVLocale.entries.containsKey(lang)) {
+                    EUIVLocale.entries[PriorityString(lang.value, langPriority)] = hashMapOf()
                 }
                 output.entries[PriorityString(lang.value, langPriority)]!![PriorityString(key.value, keyPriority)] = Pair(patchPair.first, patchPair.second)
             }

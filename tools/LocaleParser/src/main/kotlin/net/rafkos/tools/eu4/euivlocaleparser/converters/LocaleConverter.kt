@@ -1,6 +1,6 @@
 package net.rafkos.tools.eu4.euivlocaleparser.converters
 
-import net.rafkos.tools.eu4.euivlocaleparser.Locale
+import net.rafkos.tools.eu4.euivlocaleparser.EUIVLocale
 import net.rafkos.tools.eu4.euivlocaleparser.LocaleType
 import net.rafkos.tools.eu4.euivlocaleparser.SpecialFilenames
 import net.rafkos.tools.eu4.euivlocaleparser.charsets.Charset
@@ -15,12 +15,12 @@ object LocaleConverter {
     /**
      * Converts specified locale file with given charset to given type.
      */
-    fun convertToType(loc: Locale, charset: Charset, type: LocaleType): Locale {
+    fun convertToType(loc: EUIVLocale, charset: Charset, type: LocaleType): EUIVLocale {
         if (loc.type == type) {
             logger.error("This file is already in specified format.")
             throw IllegalArgumentException()
         }
-        return Locale(SpecialFilenames.getFilename(loc.fileName,
+        return EUIVLocale(SpecialFilenames.getFilename(loc.fileName,
                 if (type == LocaleType.EUIV) LocaleType.YAML else LocaleType.EUIV), type).also { locc ->
             loc.entries.forEach { (lang, lines) ->
                 lines.forEach {(key, pair) ->

@@ -4,6 +4,7 @@ import net.rafkos.tools.eu4.euivlocaleparser.LocaleType
 import net.rafkos.tools.eu4.euivlocaleparser.ProcessHelper
 import org.apache.logging.log4j.LogManager
 import java.io.File
+import java.util.*
 
 object FolderSupplementCommand : Command {
     private val logger = LogManager.getLogger(this.javaClass)
@@ -40,7 +41,7 @@ object FolderSupplementCommand : Command {
             return false
         }
 
-        val format = args[3].toLowerCase()
+        val format = args[3].lowercase(Locale.getDefault())
         if (format != "eu4" && format != "euiv" && format != "yaml" && format != "yml") {
             logger.error("Incorrect format type \"$format\". Should be one of the two: \"eu4\", \"yaml\".")
             return false

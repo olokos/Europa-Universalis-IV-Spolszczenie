@@ -1,11 +1,13 @@
 package net.rafkos.tools.eu4.euivlocaleparser.cli.commands
 
-import net.rafkos.tools.eu4.euivlocaleparser.Locale
+import net.rafkos.tools.eu4.euivlocaleparser.EUIVLocale
 import net.rafkos.tools.eu4.euivlocaleparser.LocaleType
 import net.rafkos.tools.eu4.euivlocaleparser.ProcessHelper
 import net.rafkos.tools.eu4.euivlocaleparser.loaders.LocaleLoader
 import org.apache.logging.log4j.LogManager
 import java.io.File
+import java.util.*
+import java.util.Locale.getDefault
 
 object DiffCommand : Command {
     private val logger = LogManager.getLogger(this.javaClass)
@@ -41,7 +43,7 @@ object DiffCommand : Command {
             return false
         }
 
-        val format = args[3].toLowerCase()
+        val format = args[3].lowercase(getDefault())
         if (format != "eu4" && format != "euiv" && format != "yaml" && format != "yml") {
             logger.error("Incorrect format type \"$format\". Should be one of the two: \"eu4\", \"yaml\".")
             return false
@@ -62,9 +64,9 @@ object DiffCommand : Command {
 
         val inputLocale = LocaleLoader.loadFile(input, format)
         val diffLocale = LocaleLoader.loadFile(diff, format)
-        val outputLocale = Locale(output.name, format)
-        ProcessHelper.filterLocales(diffLocale, inputLocale, outputLocale) {i, d -> i != d}
-        LocaleLoader.writeToFile(output, outputLocale)
+        val outputEUIVLocale = EUIVLocale(output.name, format)
+        ProcessHelper.filterLocales(diffLocale, inputLocale, outputEUIVLocale) { i, d -> i != d}
+        LocaleLoader.writeToFile(output, outputEUIVLocale)
     }
 
     override val help: String = "<input file> <diff file> <output file> <locale type: yaml/eu4> - Outputs differences between input and diff files then writes them to output file. Both input and diff files need to be of the same provided format."

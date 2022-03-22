@@ -5,7 +5,7 @@ import org.apache.logging.log4j.LogManager
 /**
  * Represents a locale file with correct YML syntax (not EUIV version)
  */
-class Locale(val fileName: String,  val type: LocaleType) {
+class EUIVLocale(val fileName: String, val type: LocaleType) {
     private val logger = LogManager.getLogger(this.type)
 
     /**
@@ -18,7 +18,7 @@ class Locale(val fileName: String,  val type: LocaleType) {
      * This function will replace all empty texts with ones in supplementary locale file.
      * This operation can only be performed on locales of the same types.
      */
-    fun supplement(supplement: Locale) {
+    fun supplement(supplement: EUIVLocale) {
         logger.info("Combining locale files for supplementing empty texts between \"$fileName\" and \"$fileName\".")
         if (type != supplement.type) {
             logger.error("Can only supplement locales of the same type.")
@@ -33,8 +33,8 @@ class Locale(val fileName: String,  val type: LocaleType) {
         }
     }
 
-    fun clone(): Locale {
-        val clone = Locale(fileName, type)
+    fun clone(): EUIVLocale {
+        val clone = EUIVLocale(fileName, type)
         entries.forEach { (lang, keys) ->
             if (!clone.entries.containsKey(lang))
                 clone.entries[lang] = hashMapOf()

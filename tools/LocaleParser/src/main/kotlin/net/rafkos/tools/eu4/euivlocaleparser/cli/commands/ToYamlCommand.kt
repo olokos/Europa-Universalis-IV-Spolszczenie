@@ -38,7 +38,7 @@ object ToYamlCommand : Command {
             logger.error("Incorrect charset provided \"${args[2]}\".")
             return false
         }
-        val charset = Charsets.charsets[args[2]]
+        val charset = Charsets.charsets[args[2]] // Intellij says it's never used
 
         return true
     }
