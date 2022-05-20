@@ -1,8 +1,3 @@
-#AVIALABLE CUSTOM LOCALISATION KEYS
-#When adding new custom loc keys, add them to the appropriate category (or add a new one) and describe them. Name the strings "String_X" where x is its content.
-# To not display anything, you can use 'localisation_key = ""'
-# Please add one example sentence for each key.
-
 
 ## Dodanie żeńskiej końcówki -a lub męskiej -null
 defined_text = {
@@ -45,7 +40,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_alm
+		localisation_key = string_end_ym
 	}
 }
 
@@ -109,33 +104,33 @@ defined_text = {
 	}
 }
 
-## władca/władczyni
+## władczyni/a
 defined_text = {
-	name = GetRul
+	name = GetZyniA
 	random = no
 	text = {
-		localisation_key = string_word_wladczyni
+		localisation_key = string_end_zyni
 		trigger = {
 			is_female = yes
 		}
 	}
 	text = {
-		localisation_key = string_word_wladca
+		localisation_key = string_end_a
 	}
 }
 
-## władcę/władczynię
+## władczynię/ę
 defined_text = {
-	name = GetRulAcc
+	name = GetZynieE
 	random = no
 	text = {
-		localisation_key = string_word_wladczynie
+		localisation_key = string_end_zynie
 		trigger = {
 			is_female = yes
 		}
 	}
 	text = {
-		localisation_key = string_word_wladce
+		localisation_key = string_end_epl
 	}
 }
 
