@@ -201,7 +201,7 @@
  center_of_revolution.3000.desc.never_rev: "Rewolucyjne ideały głoszone w mieście [Revolution_center.GetCapitalName] nie były w stanie rozpowszechnić się na tyle, aby zmienić sytuację materialną ludzi. Ruchy, które zrodziły się, nie zdołały obalić państwa, które dalej istnieje tak samo jak wcześniej. Ci, którzy kiedyś dążyli do radykalnej zmiany, teraz rozumieją stare powiedzenie: im bardziej rzeczy się zmieniają, tym bardziej pozostają takie same."
  center_of_revolution.3000.A: "I dobrze!"
  center_of_revolution.3000.A.tt: "§YRewolucyjne ideały zostaną usunięte ze wszystkich prowincji.§!"
- center_of_revolution.3000.A.tt2: "§YWszystkie Centrum Rewolucji zostaną usunięte.§!"
+ center_of_revolution.3000.A.tt2: "§YWszystkie centra rewolucji zostaną usunięte.§!"
  center_of_revolution.3000.B: "Smutny dzień."
  disaster_active_for_20_years_tooltip: "Katastrofa trwa od 20 lat."
  no_spread_here_for_15_years_tt: "Rewolucyjne idee zostaną usunięte z §Y[This.GetName]§!. Nie można ich tam ponownie rozprzestrzenić przez 15 lat."
