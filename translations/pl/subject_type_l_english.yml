@@ -38,7 +38,7 @@
  colony_cant_fight: "Jako $SUBJECTTYPE$ możesz wypowiedzieć wojnę tylko innym Koloniom oraz sąsiednim Plemionom Pierwotnym lub Niewiernym."
  subject_cant_fight: "$SUBJECTTYPES$ nie mogą prowadzić własnych wojen."
  subject_cant_rival: "$SUBJECTTYPES$ nie mogą wybierać rywali."
- subject_cant_ally: "$SUBJECTTYPES$ nie może zawierać Sojuszy."
+ subject_cant_ally: "$SUBJECTTYPES$ nie mogą zawierać sojuszy."
  subject_cant_marry: "$SUBJECTTYPES$ nie może zawierać Królewskich Mariaży."
  subject_only_fight_same_overlord: "Jako $MYSUBJECTTYPE$ możemy walczyć z $THEIRSUBJECTTYPES$ tylko, gdy mamy tego samego zwierzchnika."
  subject_only_fight_other_overlord: "Jako $MYSUBJECTTYPE$ możemy walczyć z $THEIRSUBJECTTYPES$ tylko, gdy mamy różnych zwierzchników."
