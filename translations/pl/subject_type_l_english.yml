@@ -36,7 +36,7 @@
  daimyo_vassal_is_our: "$NAME|Y$ jest naszym Wasalem Daimyo."
  IS_OUR_OVERLORD: "Kraj $NAME|Y$ jest naszym suzerenem."
  colony_cant_fight: "Jako $SUBJECTTYPE$ możesz wypowiedzieć wojnę tylko innym Koloniom oraz sąsiednim Plemionom Pierwotnym lub Niewiernym."
- subject_cant_fight: "$SUBJECTTYPES$ nie może walczyć w swoich wojnach."
+ subject_cant_fight: "$SUBJECTTYPES$ nie mogą prowadzić własnych wojen."
  subject_cant_rival: "$SUBJECTTYPES$ nie może wybierać Rywali."
  subject_cant_ally: "$SUBJECTTYPES$ nie może zawierać Sojuszy."
  subject_cant_marry: "$SUBJECTTYPES$ nie może zawierać Królewskich Mariaży."
