@@ -55,7 +55,7 @@
  relation_rival: "rywal"
  relation_ally: "sojusznik"
  relation_marry: "ma królewski mariaż z krajem"
- THEIR_SUBJECT_TYPE_NO_ALLOW: "Oni są $SUBJECTTYPE$."
+ THEIR_SUBJECT_TYPE_NO_ALLOW: "Oni to $SUBJECTTYPE$."
  tributary_state: "Stan zależny"
  tributary_state_title: "Stan zależny"
  tributary_state_title_plural: "Stany zależne"
