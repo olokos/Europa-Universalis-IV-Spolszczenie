@@ -846,7 +846,7 @@
  PEACEOFFER_REVOKE_CORE_SELECTED: "$NAME$ utraci status prowincji narodowej."
  PEACEOFFER_WILL_BECOME_SUBJECT: "$NAME$ stanie się poddanym."
  PEACEOFFER_CANNOT_COMBINE_CONCEDE_DEFEAT: "Nie można połączyć uznania porażki z innymi opcjami."
- PEACEOFFER_SUBJECT_FIGHTING_INDEPENDENCE: "§R$SUBJECT$ walczy o niepodległość przeciwko $OVERLORD$ i ponownie stanie się ich $SOBJECTTYPE$, jeśli przegra.§!"
+ PEACEOFFER_SUBJECT_FIGHTING_INDEPENDENCE: "§RKraj $SUBJECT$ walczy z państwem $OVERLORD$ o niepodległość. Jeśli przegra, ponownie stanie się jego poddanym jako $SUBJECTTYPE$.§!"
  PEACEOFFER_CANNOT_COMBINE_CANCEL_SUBJECT: "Nie można łączyć z Anulowaniem Poddanego."
  PEACEOFFER_WAR_REPARATIONS_SELECTED: "Nie można jednocześnie uczynić państwa $NAME$ poddanym i zażądać od niego reparacji wojennych."
  PEACEOFFER_CANNOT_COMBINE_WITH: "Ta opcja oraz $NAME$ nie mogą zostać połączone."
