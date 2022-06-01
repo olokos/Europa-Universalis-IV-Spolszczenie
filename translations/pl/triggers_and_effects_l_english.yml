@@ -537,7 +537,7 @@
  REFORM_CELESTIAL_EMPIRE_DESC: "Cesarstwo Chin zostaje zreformowane.\n"
  ADD_MANDATE_DESC: "$DIRECTION$ $MANDATECHANGE|Y$ mandat.\n"
  SET_MANDATE_DESC: "Ustaw mandat na $MANDATEVALUE|Y$.\n"
- IS_SUBJECT_TYPE: "Jest $SUBJECTTYPE$.\n"
+ IS_SUBJECT_TYPE: "To jest $SUBJECTTYPE$.\n"
  IS_NOT_SUBJECT_TYPE: "Nie jest $SUBJECTTYPE$.\n"
  HAVE_LESS_LEADERS_THAN: "Posiada mniej niż $VALUE|Y$ dowódców"
  HAVE_MORE_LEADERS_THAN: "Posiada co najmniej $VALUE|Y$ dowódców"
