@@ -53,7 +53,7 @@
  protectorate_no_overlord_dow: "Nie możesz wypowiedzieć wojny swoim protektoratom."
  relation_fight: "prowadzić wojny"
  relation_rival: "rywalizować"
- relation_ally: "sojusznik"
+ relation_ally: "sprzymierzyć się"
  relation_marry: "ma królewski mariaż z krajem"
  THEIR_SUBJECT_TYPE_NO_ALLOW: "Oni to $SUBJECTTYPE$."
  tributary_state: "Stan zależny"
