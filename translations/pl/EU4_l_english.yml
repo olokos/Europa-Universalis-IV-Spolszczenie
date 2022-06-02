@@ -1277,7 +1277,7 @@
  MONARCHY_WITH_UNION_NOT_CONVERT: "Jeśli jesteś w unii personalnej, nie możesz zmienić ustroju na niemonarchiczny."
  LACK_TECH_FOR_GOV: "Musisz odkryć '§Y$TECH$§!' z technologii administracyjnych aby móc zmienić na $GOV$."
  CAN_NOT_AFFORD_COST_GC_CHANGE: "Nie możesz zmienić wiary, gdyż kosztuje to §Y$COST$§! £adm£, a masz ich tylko §Y$CURR$§!."
- SUBJECT_NOT_NEIGHBOR_TO_PRIMITIVE: "$SUBJECTTYPE$ może $DOWHAT$ tylko tubylcom z którymi graniczy."
+ SUBJECT_NOT_NEIGHBOR_TO_PRIMITIVE: "$SUBJECTTYPE$ może tylko $DOWHAT$ z tubylcami, z którymi graniczy."
  SUBJECT_DIPLOMACY_NOT_COLONIAL_REGION: "$SUBJECTTYPE$ nie może $DOWHAT$ państwa $THEY$, ponieważ ich stolica nie znajduje się w regionie kolonialnym."
  SUBJECT_OVERLORDS_ALLY: "Nasi suwerenowie są ze sobą sprzymierzeni i nie będą tolerować wojny pomiędzy swymi poddanymi."
  SUBJECT_NOT_NEIGHBOR_OTHER_RELIGION: "$SUBJECTTYPE$ może $DOWHAT$ tylko narodowi należącemu do innej grupy wyznaniowej z którym graniczy."
