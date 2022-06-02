@@ -1281,7 +1281,7 @@
  SUBJECT_DIPLOMACY_NOT_COLONIAL_REGION: "$SUBJECTTYPE$ nie może $DOWHAT$ z państwem $THEY$, ponieważ ich stolica nie znajduje się w regionie kolonialnym."
  SUBJECT_OVERLORDS_ALLY: "Nasi suwerenowie są ze sobą sprzymierzeni i nie będą tolerować wojny pomiędzy swymi poddanymi."
  SUBJECT_NOT_NEIGHBOR_OTHER_RELIGION: "$SUBJECTTYPE$ może tylko $DOWHAT$ z krajem należącym do innej grupy wyznaniowej, z którym graniczy."
- SUBJECT_WITH_INDEPENDENT: "$SUBJECTTYPES$ nie może $DOWHAT$ niepodległych narodów."
+ SUBJECT_WITH_INDEPENDENT: "$SUBJECTTYPES$ nie mogą $DOWHAT$ z niepodległymi krajami."
  SUBJECT_COLONIAL_BROTHERS: "Bracia w kolonizacji nie mogą wypowiedzieć sobie wojny."
  SUBJECT_TO_LOW_LIBERTY: "Twoje dążenia niepodległościowe muszą wynosić co najmniej $LIMIT|0$, byś mógł wypowiedzieć wojnę swojemu suwerenowi, gdy wspólnie toczycie wojnę."
  NO_WAR_ON_FOREIGN_STATES: "Daimyo może wypowiedzieć wojnę tylko innemu daimyo, który jest pod tym samym seniorem lub swojemu seniorowi."
