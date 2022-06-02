@@ -173,7 +173,7 @@
  DIPLO_OVERLORD: "Państwo $WHO$ jest suwerenem:"
  DIPLO_WAR_NOT_ACTIVE: "Wojna nieaktywna:"
  DIPLO_ONLY_CALL_PRIMITIVES: "To nie jest odpowiednie dla $SUBJECTTYPE$: "
- DIPLO_COALITION_VS_SUBJECT: "Our $SUBJECTTYPE$ przeniósł na siebie tę koalicję: "
+ DIPLO_COALITION_VS_SUBJECT: "Nasz poddany ($SUBJECTTYPE$) sam ściągnął na siebie tę koalicję: "
  DIPLO_CURRENT_WARSCORE: "Aktualny wynik wojny:"
  DIPLO_WARSCORE_LESSER_THAN: "Wynik wojny mniejszy niż $VAL$: "
  DIPLO_WARSCORE_LARGER_THAN: "Wynik wojny większy niż $VAL$: "
