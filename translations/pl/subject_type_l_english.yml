@@ -54,7 +54,7 @@
  relation_fight: "prowadzić wojny"
  relation_rival: "rywalizować"
  relation_ally: "sprzymierzyć się"
- relation_marry: "ma królewski mariaż z krajem"
+ relation_marry: "zawrzeć królewski mariaż"
  THEIR_SUBJECT_TYPE_NO_ALLOW: "Oni to $SUBJECTTYPE$."
  tributary_state: "Stan zależny"
  tributary_state_title: "Stan zależny"
