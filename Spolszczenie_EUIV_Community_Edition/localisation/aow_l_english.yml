@@ -40,7 +40,7 @@
  COURTVIEW_PRIMARY:0 "Nasz¹ kultur¹ g³ówn¹ jest $NAME|Y$."
  COURTVIEW_CULTUREUNION:0 "$NAME|Y$ jest uni¹ kulturow¹."
  COURTVIEW_CULTURE:0 "$NAME$: $COL$$VAL$%§!"
- CS_IS_SUBJECT:0 "$SUBJECTTYPES$ nie mo¿e mie¾ swojego Paªstwa Zale¿nego."
+ CS_IS_SUBJECT:0 "$SUBJECTTYPES$ nie mog¹ tworzy¾ w³asnych paªstw zale¿nych."
  CS_TOO_SMALL:0 "Nie mo¿esz przekaza¾ paªstwu zale¿nemu swojej ostatniej prowincji."
  CS_CAPITAL:0 "Nie mo¿esz przekaza¾ paªstwu zale¿nemu swojej sto³ecznej prowincji."
  CS_TOO_MANY:0 "Nie mo¿esz mie¾ wi²cej ni¿ §Y$NUM$§! paªstw zale¿nych."

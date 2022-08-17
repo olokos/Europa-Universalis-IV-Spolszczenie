@@ -40,7 +40,7 @@
  COURTVIEW_PRIMARY: "Naszą kulturą główną jest $NAME|Y$."
  COURTVIEW_CULTUREUNION: "$NAME|Y$ jest unią kulturową."
  COURTVIEW_CULTURE: "$NAME$: $COL$$VAL$%§!"
- CS_IS_SUBJECT: "$SUBJECTTYPES$ nie może mieć swojego Państwa Zależnego."
+ CS_IS_SUBJECT: "$SUBJECTTYPES$ nie mogą tworzyć własnych państw zależnych."
  CS_TOO_SMALL: "Nie możesz przekazać państwu zależnemu swojej ostatniej prowincji."
  CS_CAPITAL: "Nie możesz przekazać państwu zależnemu swojej stołecznej prowincji."
  CS_TOO_MANY: "Nie możesz mieć więcej niż §Y$NUM$§! państw zależnych."

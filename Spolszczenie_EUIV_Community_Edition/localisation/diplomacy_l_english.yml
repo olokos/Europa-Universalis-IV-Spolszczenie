@@ -846,7 +846,7 @@
  PEACEOFFER_REVOKE_CORE_SELECTED:0 "$NAME$ utraci status prowincji narodowej."
  PEACEOFFER_WILL_BECOME_SUBJECT:0 "$NAME$ stanie si² poddanym."
  PEACEOFFER_CANNOT_COMBINE_CONCEDE_DEFEAT:0 "Nie mo¿na po³¹czy¾ uznania pora¿ki z innymi opcjami."
- PEACEOFFER_SUBJECT_FIGHTING_INDEPENDENCE:0 "§R$SUBJECT$ walczy o niepodleg³oœ¾ przeciwko $OVERLORD$ i ponownie stanie si² ich $SOBJECTTYPE$, jeœli przegra.§!"
+ PEACEOFFER_SUBJECT_FIGHTING_INDEPENDENCE:0 "§RKraj $SUBJECT$ walczy z paªstwem $OVERLORD$ o niepodleg³oœ¾. Jeœli przegra, ponownie stanie si² jego poddanym jako $SUBJECTTYPE$.§!"
  PEACEOFFER_CANNOT_COMBINE_CANCEL_SUBJECT:0 "Nie mo¿na ³¹czy¾ z Anulowaniem Poddanego."
  PEACEOFFER_WAR_REPARATIONS_SELECTED:0 "Nie mo¿na jednoczeœnie uczyni¾ paªstwa $NAME$ poddanym i za¿¹da¾ od niego reparacji wojennych."
  PEACEOFFER_CANNOT_COMBINE_WITH:0 "Ta opcja oraz $NAME$ nie mog¹ zosta¾ po³¹czone."

@@ -1447,7 +1447,7 @@
  EVTOPTA5088:0 "Eskalacja skarg."
  EVTOPTB5088:0 "Poszukaj dyplomatycznego rozwi¹zania."
  EVTNAME5089:0 "Petycja o napraw² krzywd"
- EVTDESC5089:0 "Cz³onek [Root.GetNobilityName_gen] w prowincji [Uppity_peasants_province.GetName] tak zn²ca³ si² nad swoimi poddanymi, ¿e delegacja ch³opów przyby³a do [Root.GetRulerTitleOrRegencyGen] by prosi¾ o zadoœ¾uczynienie. Zgoda na to by³aby popularna wœród ch³opów, ale by³aby postrzegana jako naruszenie w³adzy [Root.GetBrahminsName_gen]."
+ EVTDESC5089:0 "Cz³onek [Root.GetNobilityName_gen] w prowincji [uppity_peasants_province.GetName] tak zn²ca³ si² nad swoimi poddanymi, ¿e delegacja ch³opów przyby³a do [Root.GetRulerTitleOrRegencyGen] by prosi¾ o zadoœ¾uczynienie. Zgoda na to by³aby popularna wœród ch³opów, ale by³aby postrzegana jako naruszenie w³adzy [Root.GetBrahminsName_gen]."
  EVTOPTA5089:0 "Przyjmij petycj²."
  EVTOPTB5089:0 "Odrzu¾ petycj²."
  EVTNAME5090:0 "Arystokratyczna rodzina potrzebuje pomocy"

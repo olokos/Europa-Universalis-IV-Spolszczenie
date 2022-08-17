@@ -4949,7 +4949,7 @@
  WEDECLWAR_BTN2:0 "Rozumiem."
  WEDECLWAR_BTN3:0 "IdŸ do"
  WEDECLWAR_MAP:0 "WOJNA!"
- DECLWARCOLATT_TITLE:0 "Poddany Wypowiedzia³ wojn²!"
+ DECLWARCOLATT_TITLE:0 "Poddany wypowiedzia³ wojn²!"
  DECLWARCOLATT_SETUP:0 "Kiedy jeden z naszych poddanych wypowiada wojn²."
  DECLWARCOLATT_HEADER:0 "$WAR$"
  DECLWARCOLATT_1:0 "Nasz $SUBJECT$ $AGRESSOR$"

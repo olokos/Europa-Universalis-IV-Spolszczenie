@@ -98,7 +98,7 @@
  HOLY_ORDER_NOT_AVAILABLE:0 "§RNie mo¿esz ustanowi¾ tego zakonu:§!"
  ESTABLISH_COST:0 "Ustanowienie tego zakonu b²dzie ci² kosztowa¾ $COST|Y$$ICON$"
  CONFIRM_ESTABLISH_HOLY_ORDER:0 "Ustanów zakon œwi²ty"
- CONFIRM_ESTABLISH_HOLY_ORDER_DESC:0 "Czy na pewno chcesz, aby $ORDER|Y$ utworzyli zakon œwi²ty $ORDER|Y$ w obszarze $STATE|Y$? Raz ustanowionego zakonu nie mo¿na zmieni¾. Jego ustanowienie b²dzie mia³o nast²puj¹ce efekty:\n\n$EFFECTS$"
+ CONFIRM_ESTABLISH_HOLY_ORDER_DESC:0 "Czy na pewno chcesz za³o¿y¾ œwi²ty zakon $ORDER|Y$ na obszarze $STATE|Y$? Raz ustanowionego zakonu nie mo¿na zmieni¾. B²dzie to mia³o nast²puj¹ce efekty:\n\n$EFFECTS$"
  HOLY_ORDER_ESTABLISHED:0 "Zakon œwi²ty $ORDER|Y$ zosta³ ustanowiony w prowincji $STATE|Y$\n"
  HOLY_ORDER_CANNOT_AFFORD:0 "§RNie masz obecnie wystarczaj¹cych œrodków na ustanowienie tego zakonu.§!\n"
  HOLY_ORDER_NOT_ESTABLISHED:0 "Zakon œwi²ty $ORDER|Y$ nie zosta³ ustanowiony w prowincji $STATE|Y$\n"

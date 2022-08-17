@@ -131,7 +131,7 @@
  russian_tsardom_events.5.t:0 "Sobór w roku $YEAR$"
  russian_tsardom_events.5.d:0 "W czasach potrzeby w³adcy [Root.GetAdjective] byli w stanie wezwa¾ ludzi z miasta [Root.Capital.GetCapitalName] do udzielenia wsparcia w wa¿nych decyzjach dotycz¹cych dalszej przysz³oœci nasz[Root.GetGovGender_nasz] [Root.GetGovNameGen]. Udzia³ w takim zgromadzeniu, zwanym Soborem, jest obowi¹zkiem ka¿dego prawowitego poddanego [Root.GetRulerGen] i mo¿e wzmocni¾ determinacj² narodu w trudnych czasach.\nBy¾ mo¿e w tym niebezpiecznym wieku nadszed³ czas, aby zwo³a¾ Sobór, abyœmy mogli dzi²ki poparciu ludu ruszy¾ naprzód?"
  russian_tsardom_events.5.a:0 "Doskona³y pomys³."
- russian_tsardom_events.5.b:0 "[Root.Monarch.GetName] jest prawdziw[Root.Monarch.GetAYm] [Root.Monarch.GetTitle] i nie wymaga takiego wsparcia!"
+ russian_tsardom_events.5.b:0 "[Root.Monarch.GetName] to prawdziw[Root.Monarch.GetAY] [Root.Monarch.GetTitle] i nie wymaga takiego wsparcia!"
  russian_tsardom_events.6.t:0 "Rozrost biurokracji"
  russian_tsardom_events.6.d:0 "W miar² jak [Root.GovernmentName] si² rozrasta, roœnie te¿ zapotrzebowanie na wi²ksz¹ liczb² osób do zarz¹dzania. W przesz³oœci polegaliœmy na lokalnych wojewodach, ale z czasem potrzeba zwi²kszenia liczby osób w centralnym urz²dzie, czyli prikazy, staje si² coraz wi²ksza.\nJeœli szybko nie zwi²kszymy kadry, nie b²dziemy w stanie póŸniej sprosta¾ zapotrzebowaniu na bardziej doœwiadczonych urz²dników, poniewa¿ biurokracja wci¹¿ si² rozrasta."
  russian_tsardom_events.6.a:0 "Powo³ajmy wi²ksz¹ liczb² administratorów."
