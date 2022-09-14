@@ -41,6 +41,8 @@
  SYNTH_GOV: "Machine Intelligence"
  SYNTH_RULER: "Executor"
  SYNTH_RULER_fem: "Executor"
+ SYNTH_RULER_MAIN_CONDUIT: "Main Conduit"
+ SYNTH_RULER_MAIN_CONDUIT_fem: "Main Conduit"
  synthetic_remnants_enabled.tooltip: "Enables the §YSynthetic Remnants§! triggered modifier."
  synthetic_remnants: "Synthetic Remnants"
  desc_synthetic_remnants: "The defeat of the Synthetic menace left us with many questions unanswered. But the technology they left behind is driving new discoveries throughout the world."

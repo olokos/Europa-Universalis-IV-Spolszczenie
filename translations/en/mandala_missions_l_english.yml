@@ -137,7 +137,7 @@
  mnd_siam_japan_title: "Embassy to Japan"
  mnd_siam_japan_desc: "The rulers of Japan are notoriously difficult to befriend, distrustful as they are of foreign influence. But if we can establish a successful embassy we may be able to attract some of the dreaded Samurai to fight for us."
  japanese_mercs_flag: "The §YJapanese Volunteers§! mercenary company will become available for duty"
- merc_japanese_volunteers: "Japanese Volunteers"
+ merc_japanese_volunteers: "§JJapanese Volunteers§!"
  siam_mandala_modifier: "Great Mandala"
  desc_siam_mandala_modifier: "Using the mandala as the model for our government, we have created a truly harmonious nation where all know their place."
  siam_monument_modifier: "Monument Builders"

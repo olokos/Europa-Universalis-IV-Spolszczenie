@@ -8105,7 +8105,7 @@
  HAS_NOT_PASHA:0 "nie ma Paszy"
  RANDOM_LOGS_ENABLED:0 "Losowy rejestr jest w³¹czony"
  HARDOOS_ENABLED:0 "Hard OOS jest w³¹czony"
- EFFECT_ADD_TRIGGERED_MODIFIER:0 ""
+ EFFECT_ADD_TRIGGERED_MODIFIER:0 "§Y$PROV$§! gets the conditional modifier '§Y$MODIFIER$§!' giving the following effects:\n$VALUE$\n\n"
  alandalus_returns:0 "Qurtuba Odzyskana"
  desc_alandalus_returns:0 "Nieskazitelne miasto zosta³o ponownie wyrwane z r¹k niewiernych. Tak d³ugo, jak utrzymuje je jeden z naszych Wiernych, wszyscy, którzy pod¹¿aj¹ za Prorokiem, b²d¹ nam wdzi²czni."
  TOTAL_PIPS:0 "Suma punktów"

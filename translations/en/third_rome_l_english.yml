@@ -222,6 +222,8 @@
  custom_cav_to_inf_ratio_desc: "We shall take lessons from the greatest cavalry armies of history to ensure that our horses' hooves echo throughout the land."
  custom_artillery_bonus_vs_fort: "Massed Barrage"
  custom_artillery_bonus_vs_fort_desc: "With careful placement and accuracy, we can bring down enemy fortifications faster."
+ custom_artillery_levels_available_vs_fort: "Massed Barrage"
+ custom_artillery_levels_available_vs_fort_desc: "With careful placement and accuracy, we can bring down enemy fortifications faster."
  custom_monarch_military_power: "Legacy of Combat"
  custom_monarch_military_power_desc: "No member of our esteemed dynasty can be called an adult until they have proven their proficiency in combat. A strong military tradition keeps our family and our nation strong,"
  custom_backrow_artillery_damage: "Battlefield Support"
