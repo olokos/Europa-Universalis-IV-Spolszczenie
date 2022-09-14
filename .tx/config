@@ -827,3 +827,31 @@ source_file = translations/en/womeninhistory_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
+[o:europa-universalis-iv-community-translation:p:Community-edition:r:astu-1-34-l-english-yml]
+file_filter = translations/<lang>/astu_1_34_l_english.yml
+minimum_perc = 0
+source_file = translations/en/astu_1_34_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[o:europa-universalis-iv-community-translation:p:Community-edition:r:scandinavia-l-english-yml]
+file_filter = translations/<lang>/scandinavia_l_english.yml
+minimum_perc = 0
+source_file = translations/en/scandinavia_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[o:europa-universalis-iv-community-translation:p:Community-edition:r:hnn-l-english-yml]
+file_filter = translations/<lang>/hnn_l_english.yml
+minimum_perc = 0
+source_file = translations/en/hnn_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[o:europa-universalis-iv-community-translation:p:Community-edition:r:gecko-1-34-l-english-yml]
+file_filter = translations/<lang>/gecko_1_34_l_english.yml
+minimum_perc = 0
+source_file = translations/en/gecko_1_34_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
