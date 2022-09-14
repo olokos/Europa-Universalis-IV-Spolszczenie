@@ -6,18 +6,22 @@ Jak i steam:
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1869998815]Link[/url]
 
 [h2]Obsługiwana wersja gry i zakres tłumaczenia:[/h2]
-Spolszczenie do Europa Universalis 4 w najnowszej wersji 1.33.
+Spolszczenie do Europa Universalis 4 w najnowszej wersji 1.34.2.
 
-[h3]Stan w wersji 3.2.0 [22.03.2022]:[/h3]
-* 19 599 sprawdzonych wpisów (100 633 słowa)
-* 82 313 przetłumaczone wpisy (805 952 słowa)
-* 18 721 nieprzetłumaczonych wpisów (424 850 słów)
+[h3]Stan w wersji 3.3.1 [14.09.2022]:[/h3]
+* 19 569 sprawdzonych wpisów (99 370 słowa)
+* 82 061 przetłumaczone wpisy (715 864 słowa)
+* 23 866 nieprzetłumaczonych wpisów (515 859 słów)
 
-Jest to obecnie najpełniejsze, stworzone przez społeczność gry, spolszczenie, które posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie [b](81,03% całej gry)[/b]. Prace projektu obejmują 115 plików, z czego do przetłumaczenia pozostało 19.
+Jest to obecnie najpełniejsze, stworzone przez społeczność gry, spolszczenie, które posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie [b](77,47% całej gry)[/b]. Prace projektu obejmują 122 plików, z czego do przetłumaczenia pozostało 22.
+[i]Należy pamiętać, że gdy twórcy gry zaktualizują daną linijkę tekstu, wtedy uznajemy że cała linijka jest nieprzetłumaczona, aby mieć pewność, że nie ma żadnych rozbieżności, stąd po aktualizacjach postęp może się "cofać", co wynika z przyrostu nowych tekstów.[/i]
  
-[h3]Lista zmian:[/h3]
-- Przetłumaczono ponad 700 linijek tekstu
+[h3]Lista ostatnich zmian:[/h3]
+- Przetłumaczono ponad 700 linijek
 - Dodano nowe funkcje Custom Localisation
+- Przetłumaczono kolejne 800 linijek 
+- Zaktualizowano spolszczenie do najnowszej wersji gry z DLC Lions Of The North
+
 
 [h3]Postęp prac nad spolszczeniem (stan na 22.11.2021):[/h3]
 
