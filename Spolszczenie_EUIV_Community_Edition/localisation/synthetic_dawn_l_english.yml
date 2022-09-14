@@ -41,6 +41,8 @@
  SYNTH_GOV:0 "Sztuczna Inteligencja"
  SYNTH_RULER:0 "Egzekutor"
  SYNTH_RULER_fem:0 "Egzekutorka"
+ SYNTH_RULER_MAIN_CONDUIT:0 "Main Conduit"
+ SYNTH_RULER_MAIN_CONDUIT_fem:0 "Main Conduit"
  synthetic_remnants_enabled.tooltip:0 "Aktywuje modyfikator §YSyntetyczne pozosta³oœci§!."
  synthetic_remnants:0 "Syntetyczne pozosta³oœci"
  desc_synthetic_remnants:0 "Inwazja obcych zrodzi³a wi²cej pytaª ni¿ ich pokonanie da³o odpowiedzi. Niemniej technologia, któr¹ po sobie zostawili, pozwala na nowe odkrycia na ca³ym œwiecie."
