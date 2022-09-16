@@ -3236,7 +3236,7 @@
  EVTOPTB4110: "Reputacja [Root.Dip_Advisor.GetHerHisCap] sięga dalej niż nasze granice."
  EVTNAME4114: "$GRAND_CAPTAIN$"
  EVTDESC4114: "Wojsko tym lepiej walczy, im lepiej jest dowodzone. $GRAND_CAPTAIN$ jest prawdopodobnie najlepszym dowódcą, jakiego widział nasz kraj."
- EVTOPTA4114: "Starania [Root.Mil_Advisor.GetHerHisCap] będą podziwiane w całym państwie."
+ EVTOPTA4114: "Starania [Root.Mil_Advisor.GetHerHisCap] starania będą podziwiane w całym państwie."
  EVTOPTB4114: "Reputacja [Root.Mil_Advisor.GetHerHisCap] sięga dalej niż nasze granice."
  EVTNAME4115: "$ARMY_ORGANISER$"
  EVTDESC4115: "$ARMY_ORGANISER$ dokonuje cudów, organizując nasze wojska. Cieszy się sławą, która dotarła już do zakątków świata."
