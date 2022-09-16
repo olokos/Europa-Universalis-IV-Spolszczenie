@@ -114,7 +114,7 @@
  DIPLO_HIGH_DEMANDS: "Żądania przekraczają liczbę punktów wojennych:"
  DIPLO_WARGOAL_BESIEGED: "Wojenny Cel Oblężenia:"
  DIPLO_OCCUPYING_WARLEADER: "W pełni okupuje ziemie wrogiego przywódcy militarnego:"
- DIPLO_NON_BELLIGERENT: "$WHO$ nie jest współuczestnikiem"
+ DIPLO_NON_BELLIGERENT: "$WHO$ nie jest współuczestnikiem: "
  DIPLO_WAR_EXHAUSTION: "Wyczerpanie $WHO$ wojną:"
  DIPLO_CALL_FOR_PEACE: "Wezwanie do zawarcia pokoju:"
  DIPLO_WAR_DIRECTION: "$WHO$ czyni postępy:"
