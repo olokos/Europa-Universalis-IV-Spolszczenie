@@ -83,7 +83,7 @@
  NO_ANNEX_PROGRESS_WHILE_CAPITAL_TAKEN: "Kiedy nie kontrolują swojej stolicy, postęp aneksji zostanie wstrzymany."
  NO_ANNEX_PROGRESS_LIBERTY: "Aby aneksja postępowała, ich dążenia niepodległościowe muszą być mniejsze niż §Y$LIMIT$§!, a obecnie wynoszą §R$AMOUNT$§!.\n"
  ALL_CORES_AND_CLAIMS: "Wszystkie prowincje narodowe oraz będące przedmiotem roszczeń"
- ALL_CORES_AND_CLAIMS_AND_NEIGHBORS: "Wszystkie narodowe, roszczenia i sąsiednie prowincje"
+ ALL_CORES_AND_CLAIMS_AND_NEIGHBORS: "Wszystkie roszczenia, narodowe i sąsiednie prowincje"
  RIVAL_BENEFITS: "§Y$WHO$§! jest naszym rywalem, i mamy przeciwko nim następujące benefity:\n"
  RIVAL_DIPLO_ALLY: "- jest większa szansa na sojusz z ich wrogami;\n"
  RIVAL_BENEFITS_NONE: "Przeciwko rywalowi mamy następujące benefity:\n"
