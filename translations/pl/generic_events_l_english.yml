@@ -3233,7 +3233,7 @@
  EVTNAME4110: "$NAVIGATOR$"
  EVTDESC4110: "$NAVIGATOR$ według swojej reputacji nie ma sobie równych, nasi żeglarze mogą żeglować dalej niż inne porównywalne narody dzięki talentom $NAVIGATOR$."
  EVTOPTA4110: "[Root.Dip_Advisor.GetHerHisCap] starania będą podziwiane w całym państwie."
- EVTOPTB4110: "[Root.Mil_Advisor.GetHerHisCap] reputacja sięga dalej niż nasze granice."
+ EVTOPTB4110: "[Root.Dip_Advisor.GetHerHisCap] reputacja sięga dalej niż nasze granice."
  EVTNAME4114: "$GRAND_CAPTAIN$"
  EVTDESC4114: "Wojsko tym lepiej walczy, im lepiej jest dowodzone. $GRAND_CAPTAIN$ jest prawdopodobnie najlepszym dowódcą, jakiego widział nasz kraj."
  EVTOPTA4114: "[Root.Mil_Advisor.GetHerHisCap] starania będą podziwiane w całym państwie."
