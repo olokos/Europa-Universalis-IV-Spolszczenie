@@ -3261,7 +3261,7 @@
  EVTNAME4120: "$INQUISITOR$"
  EVTDESC4120: "$INQUISITOR$ wie, jakie pytania i komu należy zadać, by ochronić nasz kraj przed obcą infiltracją. Sama obecność tej postaci wystarcza, by misje obcych wywiadów paliły na panewce."
  EVTOPTA4120: "[Root.Adm_Advisor.GetHerHisCap] starania będą podziwiane w całym państwie."
- EVTOPTB4120: "[Root.Mil_Advisor.GetHerHisCap] reputacja sięga dalej niż nasze granice."
+ EVTOPTB4120: "[Root.Adm_Advisor.GetHerHisCap] reputacja sięga dalej niż nasze granice."
  EVTNAME9200: "Bogaci sąsiedzi"
  EVTDESC9200: "$MONARCHTITLE$ $MONARCH$ otrzymał informacje o bogactwach, znajdujących się poza granicami swego kraju. Niektóre frakcje wewnątrz państwa $COUNTRY$ twierdzą, że niektóre z tych miast prawnie należą się nam. W ostateczności można je też złupić..."
  EVTOPTA9200: "Czas wyciągnąć rękę"
