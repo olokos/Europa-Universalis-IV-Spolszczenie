@@ -1185,7 +1185,7 @@
  EVTOPTB4022: "[Root.Adm_Advisor.GetHerHisCap] reputacja sięgnie poza nasze granice"
  EVTNAME4023: "$ARMY_REFORMER$"
  EVTDESC4023: "Jeden z naszych doradców, $ARMY_REFORMER$ to autor prawdziwej rewolucji w sztuce oblężniczej i budowie fortyfikacji. Ma na koncie udział we wszystkich wojnach, które toczył za swoich rządów $MONARCH$, i dokonywał częstych inspekcji naszych granic, przebudowując i ulepszając liczne fortyfikacje."
- EVTOPTA4023: "[Root.Adm_Advisor.GetHerHisCap] wysiłki będą podziwiane w całym kraju"
+ EVTOPTA4023: "[Root.Mil_Advisor.GetHerHisCap]  wysiłki będą podziwiane w całym kraju"
  EVTOPTB4023: "[Root.Dip_Advisor.GetHerHisCap] sława sięgnie poza granice naszego kraju."
  EVTNAME4024: "$NAVAL_REFORMER$"
  EVTDESC4024: "$NAVAL_REFORMER$ na stanowisku doradcy wojskowego podkreśla znaczenie bardziej zorganizowanej floty oraz konieczność reformy. [Root.Dip_Advisor.GetHerHisCap] starania odniosły skutek i $MONARCH$ rozpocznie szeroko zakrojoną restrukturyzację marynarki. W celu jej wzmocnienia, powstaną pancerniki, galery i inne jednostki pływające."
