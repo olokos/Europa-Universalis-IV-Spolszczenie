@@ -4614,7 +4614,7 @@
  hre_event.14.t: "Od [From.GetName] uzurpował sobie prawo do naszego elektoratu!"
  hre_event.14.desc: "Naszemu zwierzchnikowi, [From.GetName], udało się przekazać nasz unikalny Elektorat! Nie jesteśmy już elektorami w ramach Świętego Cesarstwa Rzymskiego!"
  hre_event.14.a: "Co za koszmarny dzień..."
- flavor_gre.1.t: "Gracki separatyzm"
+ flavor_gre.1.t: "Grecki separatyzm"
  flavor_gre.1.d: "Kiedy Cesarstwo Bizantyjskie przeszło już do historii, Grecy przeszli pod władanie obcych władców. Niektórzy z nich całkowicie opuścili swoją ziemię ojczystą jako kupcy lub służąc na różnych dworach europejskich, podczas gdy większość pozostała w Grecji, prowadząc życie na wsi podobnej do tego sprzed upadku Cesarstwa. Inni nawet dobrze sobie radzą pod rządami nowych władców. Niezależna tożsamość grecka pozostała jednak silna i z czasem stanie się bardziej znana wśród niesfornych górskich Kleptów lub patriotycznych marzeń intelektualistów z obcych krajów.\n\nPodczas gdy odbudowa Cesarstwa Bizantyjskiego pozostaje nieosiągalnym marzeniem, wielu z nich zaczęło tęsknić za wolnością od rządów zagranicznych poborców podatkowych i mieć nadzieję na nowe państwo greckie skoncentrowane na starożytnej ojczyźnie ich narodu."
  flavor_gre.1.a: "Rozumiem."
  flavor_cri.1.t: "Sukcesja w chanacie krymskim"
