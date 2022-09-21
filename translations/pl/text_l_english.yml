@@ -1585,7 +1585,7 @@
  OURRELIGION: "Ludność tej prowincji już wyznaje prawdziwą wiarę."
  OUR_SECONDARY_RELIGION: "Ci ludzie wyznają już naszą religię poboczną."
  EXPENROUTE: "Ekspedycja jest w drodze."
- MISCOLONY: "Nie możesz wysłać Misjonarza do Kolonii. Jeśli jednak ta prowincja nie należy do Regionu Kompanii Handlowej, Kolonista nawróci mieszkańców na Prawdziwą Wiarę.\n "
+ MISCOLONY: "Nie możesz wysłać misjonarza do kolonii. Jeśli jednak ta prowincja nie przynależy do regionu kompanii handlowej, kolonista nawróci mieszkańców na prawdziwą wiarę."
  NOMISS: "Nie dysponujemy żadnym misjonarzem."
  MISSIONARY_RELIGIOUS_CENTER: "Religia prowincji jest już zmieniana przez pobliski ośrodek religijny."
  POLRESTRICTMAX: "Aktualna forma ustroju ogranicza ten suwak do wartości maksymalnej: $VALUE$. Możesz przekroczyć tę wartość, ale związane jest to z ogromnymi kosztami."
