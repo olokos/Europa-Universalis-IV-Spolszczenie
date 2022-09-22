@@ -336,7 +336,7 @@
  increase_autonomy_command_abs_impact: "Wzrost Autonomii: $VAL$ na $SCALE$ rozwoju.\n"
  debase_currency_abs_impact: "Dewaluacja waluty: $VAL$\n"
  execute_rebel_acceptance_command_abs_impact: "Przyjmij Żądania Rebeliantów: $VAL$\n"
- seat_in_parliament_abs_impact: "Przydziel Siedzibę Parlamentowi: $VAL$ na $SCALE$ rozwoju.\n"
+ seat_in_parliament_abs_impact: "Przydziel miejsce w parlamencie: $VAL$ na $SCALE$ rozwoju.\n"
  war_exhaustion_abs_impact: "Zmniejsz Wyczerpanie Wojną: $VAL$\n"
  strengthen_government_abs_impact: "Wzmocnij rząd: $VAL$\n"
  MERC_BASE: "Najemnik:"
