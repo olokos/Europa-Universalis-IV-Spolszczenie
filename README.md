@@ -2,24 +2,33 @@
 Polish translation of Europa Universalis IV.
 
 Spolszczenie jest również dostępne na Paradox Mods: [Link](https://mods.paradoxplaza.com/mods/31560/Any)
+Jak i steam:
+[Link](https://steamcommunity.com/sharedfiles/filedetails/?id=1869998815)
 
 ## Obsługiwana wersja gry i zakres tłumaczenia:
-Spolszczenie do najnowszej wersji Europa Universalis 1.33. Działa bezproblemowo z każdą wersją gry 1.33.
+Spolszczenie do Europa Universalis 4 w najnowszej wersji 1.34.3.
 
-###Stan w wersji 3.2.0 [29.04.2022]:
-* 19 599 sprawdzonych wpisów (99 724  słowa)
-* 82 334 przetłumaczonych wpisów (816 921 słowa)
-* 18 700 nieprzetłumaczonych wpisów (421 384 słów)
+### Stan w wersji 3.3.1 [14.09.2022]:
+* 19 569 sprawdzonych wpisów (99 370 słowa)
+* 82 061 przetłumaczone wpisy (715 864 słowa)
+* 23 866 nieprzetłumaczonych wpisów (515 859 słów)
 
-Jest to obecnie najpełniejsze, stworzone przez społeczność gry, spolszczenie, które posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie **(81,49% całej gry)**. Prace projektu obejmują 118 plików, z czego do przetłumaczenia pozostało 21.
+Jest to obecnie najpełniejsze, stworzone przez społeczność gry, spolszczenie, które posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie **(77,47% całej gry)**. Prace projektu obejmują 122 plików, z czego do przetłumaczenia pozostało 22.
+
+_Należy pamiętać, że gdy twórcy gry zaktualizują daną linijkę tekstu, wtedy uznajemy że cała linijka jest nieprzetłumaczona, aby mieć pewność, że nie ma żadnych rozbieżności, stąd po aktualizacjach postęp może się "cofać", co wynika z przyrostu nowych tekstów._
  
-### Lista zmian:
+### Lista ostatnich zmian:
 - Zaktualizowano wszystkie klucze tekstów do najnowszych z wersji 1.31.3 Majapahit
 - Przetłumaczono ponad 1000 linijek tekstu
 - Poprawiono wiele linijek tekstu
 - Dodano kolejne funkcje Customisable Localisation (CL) pozwalające dostosować grę do specyfiki języka polskiego
+- Przetłumaczono ponad 700 linijek
+- Dodano nowe funkcje Custom Localisation
+- Przetłumaczono kolejne 800 linijek 
+- Zaktualizowano spolszczenie do najnowszej wersji gry z DLC Lions Of The North
 
-### Postęp prac nad spolszczeniem (stan na 01.05.2021):
+
+### Postęp prac nad spolszczeniem (stan na 22.11.2021):
 
 **Wersja podstawowa EU4**: 
 * Główne pliki przetłumaczone w całości oprócz części wydarzeń i zintegrowanego z grą dodatku women in history, które są w trakcie tłumaczenia.
@@ -31,33 +40,34 @@ Jest to obecnie najpełniejsze, stworzone przez społeczność gry, spolszczenie
 * Conquest of Paradise
 * Wealth of Nations
 * Res Publica
-* El Dorado 
+* El Dorado
 * Mare Nostrum
+* Third Rome
 * Rule Britannia
 * Dharma
+* Golden Century
 
 **Tłumaczone dodatki:**
 (postęp określono dla głównych plików)
 
-* Art of War              - 54,28% (29 513)
-* Common Sense            - 29,99% (24 162)
-* The Cossacks            - 38,52% (17 773)
-* Rights of Man           - 31,26% (31 686)
-* Mandate of Heaven       - 20,63% (14 273)
-* Third Rome              - 17,44% (6 722)
-* Cradle of Civilization  - 32,37% (12 035)
-* Golden Century          - 69,11% (4 996)  
+* Art of War - 54,54% (29 402)
+* Common Sense - 30,41% (23 985)
+* The Cossacks - 39,32% (17 755)
+* Rights of Man - 31,44% (31 660)
+* Mandate of Heaven - 20,75% (14 271)
+* Cradle of Civilization - 33,06% (12 012)
 * Emperor
-- emperor content         - 27,02% (59 279)
-- emperor missions        - 50,71% (32 255)
-- emperor                 - 59,58% (4 473)
-- emperor estates         - 100% (0/17 120)
-- emperor revolutions     - 100% (0/6 118)
+- emperor content - 29,15% (58 831)
+- emperor missions - 62,12% (24 267)
+- emperor - 65,58% (4 022)
+- emperor estates - 100% (0/17 120)
+- emperor revolutions - 100% (0/6 118)
 * Leviathan
-- mandala missions        - 3,53% (10 984)
-- leviathan               - 6,12% (26 232)
-- 00 lanfang              - 8,83% (8 211) 
-- tmm                     - 22,26% (5 891)
+- leviathan - 13,86% (28 150)
+- mandala missions - 14,98% (10 592)
+- 00 lanfang - 25,21% (7 896)
+- tmm - 62,52% (4 760)
+* Origins - 5,23% (42 760)
 
 **Objaśnienia:**
  + procenty określają postęp tłumaczenia dodatku (w zakresie wpisów (linijek))
