@@ -249,7 +249,7 @@
  seven_cities_events.303.a: "Znowu wyślij po niego łowczego."
  seven_cities_events.303.b: "Zostaw go. Tym razem to on będzie musiał nas znaleźć."
  seven_cities_events.304.t: "Pieskie życie"
- seven_cities_events.304.d: "Duży, czarny pies o imieniu Marynarz towarzyszył wyprawie od samego początku i przeżył wiele przygód. Został tak dotkliwie ugryziony przez bobra, że lekarz ekspedycji musiał wykonać operację tylnej nogi.Gdy komary dokuczały ekspedycji, pies wył z powodu tortur jakich doświadczali. Tubylcy z prowincji $PROVINCENAME$ ukradli Marynarza, ale wkrótce go odzyskano. Nasz konkwistador polubił psa i byłby zdruzgotany, gdyby coś mu się stało."
+ seven_cities_events.304.d: "Duży, czarny pies o imieniu Seaman (Marynarz) towarzyszył wyprawie od samego początku i przeżył wiele przygód. Został tak dotkliwie ugryziony przez bobra, że lekarz ekspedycji musiał wykonać operację jego tylnej nogi. Gdy komary dokuczały ekspedycji, pies wył z powodu tortur, jakich doświadczali. Tubylcy z prowincji $PROVINCENAME$ ukradli Marynarza, ale wkrótce go odzyskano. Nasz konkwistador polubił psa i byłby zdruzgotany, gdyby coś mu się stało."
  seven_cities_events.304.a: "Plemiona w prowincji $PROVINCENAME$ poznają nasz gniew, jeśli cokolwiek stanie się z tym psem!"
  seven_cities_events.304.b: "To tylko pies."
  seven_cities_events.305.t: "Szybciej, ślamazary!"
