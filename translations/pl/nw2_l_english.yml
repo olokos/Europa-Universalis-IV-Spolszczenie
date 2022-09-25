@@ -103,7 +103,7 @@
  religious_events.EVTDESC9: "Wygląda na to, że nasza polityka tolerancji religijnej przyniosła niepożądane rezultaty. Część naszej ludności postanowiła przejść na sikhizm."
  religious_events.EVTDESC10: "Wygląda na to, że nasza polityka tolerancji religijnej przyniosła niepożądane rezultaty. Część naszej ludności postanowiła przejść na hinduizm."
  religious_events.15.t: "Odrodzenie neokonfucjanizmu"
- religious_events.15.d: "Filozoficzne teorie neokonfucjańskiego myśliciela Chu Hsi odnoszące się do wiedzy i działania z naciskiem na logiczne rozumowanie i koherencje, zostały przytoczone nam ponownie przez dzieła Wanga Yangminga."
+ religious_events.15.d: "Filozoficzne teorie neokonfucjańskiego myśliciela Zhu Xi odnoszące się do wiedzy i działania z naciskiem na logiczne rozumowanie i koherencje, zostały przytoczone nam ponownie przez dzieła Wanga Yangminga. Idee te czerpią więcej z taoizmu niż z tradycyjnej filozofii konfucjańskiej. Musimy zdecydować, którą drogę chcemy wybrać dla naszego państwa."
  religious_events.15.a: "Promocja Neokonfucjanizmu"
  religious_events.15.b: "Odrzucenie neokonfucjanizmu"
  religious_events.16.t: "Sprzeciw wobec działań, jakie prowadzi [Root.Monarch.GetName]"
