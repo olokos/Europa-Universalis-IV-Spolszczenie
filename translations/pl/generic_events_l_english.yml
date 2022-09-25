@@ -1805,7 +1805,7 @@
  china_events.28.a: "Pochwal generałów za ich pracę."
  china_events.28.b: "Nadszedł czas, abyśmy osłabili siły zbrojne."
  china_events.29.t: "Niepowodzenia systemu egzaminacyjnego"
- china_events.29.d: "Jak coroczne egzaminy są poprawiane po raz kolejny tylko kilka tysięcy z milionów, które uczestniczą zda. Ta elita doświadczonych konfucjańskich studentów dołączy do administracji, aby rządzić imperium Chin zgodnie z klasycznymi ideałami.\nWielu z tych, którym się nie powiedzie, musi jednak znaleźć pracę gdzie indziej. Dalecy od analfabetyzmu są oni jednak nosicielami klasycznych ideałów i wykształcenia, którego wymagają egzaminy. Są to lekarze, nauczyciele i skrybowie imperium. Niektórzy mogą powiedzieć, że są tak samo wartościowi jak nieliczni erudyci, którzy dołączają do kadr w mieście [Root.Capital.GetCapitalName]."
+ china_events.29.d: "Podczas gdy coroczne egzaminy są po raz kolejny poprawiane, ponownie okazuje się, że zdaje jedynie kilka tysięcy z milionów, które w nich uczestniczą. Ta elita doświadczonych konfucjańskich studentów dołączy do administracji, aby rządzić imperium Chin zgodnie z klasycznymi ideałami.\nWielu z tych, którym się nie powiedzie, musi jednak znaleźć pracę gdzie indziej. Dalecy od analfabetyzmu, są oni nosicielami klasycznych ideałów i wykształcenia, którego wymagają egzaminy. Są to lekarze, nauczyciele i skrybowie imperium. Niektórzy mogą powiedzieć, że są tak samo wartościowi jak nieliczni erudyci, którzy dołączają do kadr w mieście [Root.Capital.GetCapitalName]."
  china_events.29.a: "Wszystko ma w sobie piękno, ale nie każdy je dostrzega."
  china_events.29.b: "Niby wszystko dobrze, ale może powinniśmy zwiększyć kwotę na przyszły rok?"
  china_events.30.t: "Egzaminowanie egzaminatorów"
