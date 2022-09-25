@@ -104,7 +104,7 @@
  religious_events.EVTDESC10: "Wygląda na to, że nasza polityka tolerancji religijnej przyniosła niepożądane rezultaty. Część naszej ludności postanowiła przejść na hinduizm."
  religious_events.15.t: "Odrodzenie neokonfucjanizmu"
  religious_events.15.d: "Filozoficzne teorie neokonfucjańskiego myśliciela Zhu Xi odnoszące się do wiedzy i działania z naciskiem na logiczne rozumowanie i koherencje, zostały przytoczone nam ponownie przez dzieła Wanga Yangminga. Idee te czerpią więcej z taoizmu niż z tradycyjnej filozofii konfucjańskiej. Musimy zdecydować, którą drogę chcemy wybrać dla naszego państwa."
- religious_events.15.a: "Promocja Neokonfucjanizmu"
+ religious_events.15.a: "Promuj neokonfucjanizm"
  religious_events.15.b: "Odrzucenie neokonfucjanizmu"
  religious_events.16.t: "Sprzeciw wobec działań, jakie prowadzi [Root.Monarch.GetName]"
  religious_events.16.d: "[Root.Monarch.GetName] na tronie budzi sprzeciw pokaźnej muzułmańskiej społeczności z kraju [Root.GetName]. Nie jest to błahy problem, ponieważ stara muzułmańska arystokracja i duchowieństwo wciąż posiadają znaczne wpływy i kontrolują liczne państwowe stanowiska. Pojawiły się sugestie, że sytuacja się unormuje, jeśli [Root.Monarch.GetName] abdykuje na rzecz krewnego, który następnie przejdzie na islam. Dzięki temu [Root.Monarch.Dynasty.GetName] zachowaliby władzę, zaś ulemowie i arystokraci zostaliby udobruchani. Jeśli [Root.Monarch.GetName] będzie nadal sprawować władzę, może się okazać, że wspomniane siły spróbują umieścić na tronie własnego kandydata, bardziej przychylnego islamowi."
