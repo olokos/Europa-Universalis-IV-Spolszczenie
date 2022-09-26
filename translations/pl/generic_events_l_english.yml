@@ -840,7 +840,7 @@
  EVTNAME858: "Niekompetentny dyplomata!"
  EVTDESC858: "To niepojęte, jak kiepsko nasz monarcha $MONARCH$ radzi sobie z dyplomacją. Nie wiem, jak to robi, ale jednymi przeprosinami udało mu się pogorszyć naszą pozycję dyplomatyczną."
  EVTOPTA858: "Jak to możliwe?"
- EVTDESC9471: "Granice są tworami płynnymi, zmieniają się wraz z porami roku czy kaprysami przejeżdżającego akurat w pobliżu króla. Historycy zapewne powiedzą, że wydarzenia, które miały miejsce w prowincji $PROVINCENAME$ w roku $YEAR$, były nieuniknione. 'Pod łaskawymi rządami państwa $COUNTRY$ prowincja $PROVINCENAME$ kwitła. Wieśniacy z drugiej strony granicy stali się zazdrośni'. A może nie będą wobec nas tak uczciwi. Tak czy inaczej, tarcia na granicach prowincji $PROVINCENAME$ dały sąsiadowi casus belli przeciwko nam."
+ EVTDESC9471: "Granice są tworami płynnymi, zmieniają się wraz z porami roku czy kaprysami przejeżdżającego akurat w pobliżu króla. Historycy zapewne powiedzą, że wydarzenia, które miały miejsce w prowincji $PROVINCENAME$ w roku $YEAR$, były nieuniknione. 'Pod łaskawymi rządami państwa $COUNTRY$ prowincja $PROVINCENAME$ kwitła. Wieśniacy z drugiej strony granicy stali się zazdrośni'. A może nie będą wobec nas tak uczciwi. Tak czy inaczej, tarcia na granicach prowincji $PROVINCENAME$ dały sąsiadowi, krajowi o nazwie [neighbour_country.GetUsableName], casus belli przeciwko nam."
  EVTOPTC9472: "Czas najwyższy"
  EVTNAME841: "Reformator floty"
  EVTDESC841: "Stan naszej marynarki poprawił się znacznie, od kiedy została uprzywilejowana kosztem armii. Utalentowany admirał jest świetnym kandydatem do awansu."
