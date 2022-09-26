@@ -788,7 +788,7 @@
  muslim_piety.20.a: "Niech nasz nowy $MONARCHTITLE$ rządzi długo i w pomyślności!"
  muslim_dlc.22.t: "Piątkowe modlitwy?"
  muslim_dlc.22.d: "Cotygodniowa modlitwa kongregacyjna była sposobem dla władców islamu, by przez wieki podkreślać swą prawowitość. Jednak długoletnia dominacja sunnitów, którzy większość piątkowych kazań poświęcali sunnickim kalifom i doczesnym sułtanom sunnickiego świata, doprowadziła do tego, że status tych modlitw został bardzo podważony.\nWiększość spośród szyickich ulemów sprzeciwia się praktyce modlitw piątkowych, ale są też tacy, którzy widzą w nich sposób na zjednoczenie społeczeństwa, ulemów i władcy w powracającej, szyickiej wierze naszego kraju."
- muslim_dlc.22.a: "[Root.Monarch.GetName] poprowadzi Piątkowe nabożeństwa a nasz kraj będzie się modlił."
+ muslim_dlc.22.a: "[Root.Monarch.GetName] poprowadzi piątkowe nabożeństwa, a nasz kraj będzie się modlić."
  muslim_dlc.22.b: "Musimy uszanować tradycje naszego ludu."
  cultural_event.1.t: "Przedstawienia Commedia dell'Arte"
  cultural_event.1.d: "Słuchajcie, słuchajcie! Pantalone, Arlekin i inne postacie z klasycznej Commedia dell'Arte zostają wypuszczone na wolność, by zadziwić niczego nie spodziewający się lud, żądny zabawy. Dobra komedia pozwoli wszystkim zapomnieć na chwilę o codziennej szarzyźnie i ucisku tyranów. Do tego jest zabawna!"
