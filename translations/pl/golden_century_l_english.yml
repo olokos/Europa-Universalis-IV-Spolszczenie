@@ -321,7 +321,7 @@
  portuguese_marines: "Portugalska piechota morska"
  portuguese_marines_desc: "Aby stworzyć prawdziwie globalne imperium, musimy umieć atakować forty wroga z morza."
  CAN_ESTABLISH_ORDER: "Można ustanowić zakon święty w obszarze $LOCATION|Y$."
- CAN_NOT_ESTABLISH_ORDER: "Nie można ustanowić zakonu świętego w prowincji $LOCATION|Y$."
+ CAN_NOT_ESTABLISH_ORDER: "Nie można ustanowić zakonu religijnego w prowincji $LOCATION|Y$."
  MODIFIER_CENTER_OF_TRADE_UPGRADE_COST: "Koszt ulepszenia ośrodka handlowego"
  MODIFIER_MISSIONARY_MAINTENANCE_COST: "Koszt utrzymania misjonarza"
  MODIFIER_NAVAL_TRADITION_FROM_TRADE: "Tradycja morska z ochrony handlu"
