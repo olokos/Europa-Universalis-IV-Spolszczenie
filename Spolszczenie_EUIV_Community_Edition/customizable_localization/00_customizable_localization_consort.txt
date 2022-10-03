@@ -51,7 +51,13 @@ defined_text = {
 		trigger = {
 			has_female_consort = no
 			government_rank = 3
-			tag = YUA
+			OR = {
+				tag = YUA
+				AND = {
+					tag = OIR
+					has_reform = celestial_empire
+				}
+			}
 			government = monarchy
 		}
 	}
@@ -204,9 +210,14 @@ defined_text = {
 		trigger = {
 			has_female_consort = no
 			government_rank = 3
-			tag = DAN
-			government = monarchy
-			has_ruler = "Christopher III"
+			OR = {
+				AND = {
+					tag = DAN
+					government = monarchy
+					has_ruler = "Christopher III"
+				}
+				has_ruler_flag = has_proclaimed_archking_title
+			}
 		}
 	}
 	text={
@@ -881,6 +892,18 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_EMPEROR
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			government = monarchy
+			OR = {
+				religion = norse_pagan_reformed
+				culture = norse
+			}
+		}
+	}
+	text={
 		localisation_key = string_PRINCE_CONSORT
 		trigger = {
 			has_female_consort = no
@@ -899,7 +922,13 @@ defined_text = {
 		trigger = {
 			has_female_consort = no
 			government_rank = 2
-			tag = YUA
+			OR = {
+				tag = YUA
+				AND = {
+					tag = OIR
+					has_reform = celestial_empire
+				}
+			}
 			government = monarchy
 		}
 	}
@@ -1061,9 +1090,14 @@ defined_text = {
 		trigger = {
 			has_female_consort = no
 			government_rank = 2
-			tag = DAN
-			government = monarchy
-			has_ruler = "Christopher III"
+			OR = {
+				AND = {
+					tag = DAN
+					government = monarchy
+					has_ruler = "Christopher III"
+				}
+				has_ruler_flag = has_proclaimed_archking_title
+			}
 		}
 	}
 	text={
@@ -1617,10 +1651,28 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_KING
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			government = monarchy
+			OR = {
+				religion = norse_pagan_reformed
+				culture = norse
+			}
+		}
+	}
+	text={
 		localisation_key = string_BEILE
 		trigger = {
 			has_female_consort = no
-			tag = YUA
+			OR = {
+				tag = YUA
+				AND = {
+					tag = OIR
+					has_reform = celestial_empire
+				}
+			}
 			government = monarchy
 		}
 	}
@@ -1796,9 +1848,14 @@ defined_text = {
 		localisation_key = string_ARCHDUKE_CONSORT
 		trigger = {
 			has_female_consort = no
-			tag = DAN
-			government = monarchy
-			has_ruler = "Christopher III"
+			OR = {
+				AND = {
+					tag = DAN
+					government = monarchy
+					has_ruler = "Christopher III"
+				}
+				has_ruler_flag = has_proclaimed_archking_title
+			}
 		}
 	}
 	text={
@@ -2338,6 +2395,17 @@ defined_text = {
 	text={
 		localisation_key = string_CONSORT
 		trigger = {
+			has_female_consort = no
+			government = monarchy
+			OR = {
+				religion = norse_pagan_reformed
+				culture = norse
+			}
+		}
+	}
+	text={
+		localisation_key = string_CONSORT
+		trigger = {
 			has_reform = stateless_society
 		}
 	}
@@ -2381,7 +2449,13 @@ defined_text = {
 		localisation_key = string_YEKHE_KHANUM
 		trigger = {
 			government_rank = 3
-			tag = YUA
+			OR = {
+				tag = YUA
+				AND = {
+					tag = OIR
+					has_reform = celestial_empire
+				}
+			}
 			government = monarchy
 		}
 	}
@@ -2520,9 +2594,14 @@ defined_text = {
 		localisation_key = string_EMPRESS
 		trigger = {
 			government_rank = 3
-			tag = DAN
-			government = monarchy
-			has_ruler = "Christopher III"
+			OR = {
+				AND = {
+					tag = DAN
+					government = monarchy
+					has_ruler = "Christopher III"
+				}
+				has_ruler_flag = has_proclaimed_archking_title
+			}
 		}
 	}
 	text={
@@ -3106,6 +3185,17 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_EMPRESS
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			OR = {
+				religion = norse_pagan_reformed
+				culture = norse
+			}
+		}
+	}
+	text={
 		localisation_key = string_EMPRESS_CONSORT
 		trigger = {
 			government_rank = 3
@@ -3139,7 +3229,13 @@ defined_text = {
 		localisation_key = string_KHANUM
 		trigger = {
 			government_rank = 2
-			tag = YUA
+			OR = {
+				tag = YUA
+				AND = {
+					tag = OIR
+					has_reform = celestial_empire
+				}
+			}
 			government = monarchy
 		}
 	}
@@ -3291,12 +3387,17 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_QUEEN
+		localisation_key = string_ARCHQUEEN
 		trigger = {
 			government_rank = 2
-			tag = DAN
-			government = monarchy
-			has_ruler = "Christopher III"
+			OR = {
+				AND = {
+					tag = DAN
+					government = monarchy
+					has_ruler = "Christopher III"
+				}
+				has_ruler_flag = has_proclaimed_archking_title
+			}
 		}
 	}
 	text={
@@ -3877,6 +3978,17 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_QUEEN
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			OR = {
+				religion = norse_pagan_reformed
+				culture = norse
+			}
+		}
+	}
+	text={
 		localisation_key = string_QUEEN_CONSORT
 		trigger = {
 			government_rank = 2
@@ -3907,7 +4019,13 @@ defined_text = {
 	text={
 		localisation_key = string_GEGE
 		trigger = {
-			tag = YUA
+			OR = {
+				tag = YUA
+				AND = {
+					tag = OIR
+					has_reform = celestial_empire
+				}
+			}
 			government = monarchy
 		}
 	}
@@ -4072,9 +4190,14 @@ defined_text = {
 	text={
 		localisation_key = string_ARCHDUCHESS
 		trigger = {
-			tag = DAN
-			government = monarchy
-			has_ruler = "Christopher III"
+			OR = {
+				AND = {
+					tag = DAN
+					government = monarchy
+					has_ruler = "Christopher III"
+				}
+				has_ruler_flag = has_proclaimed_archking_title
+			}
 		}
 	}
 	text={
@@ -4625,6 +4748,16 @@ defined_text = {
 			is_part_of_hre = yes
 			NOT = {
 				total_development = 50
+			}
+		}
+	}
+	text={
+		localisation_key = string_CONSORT
+		trigger = {
+			government = monarchy
+			OR = {
+				religion = norse_pagan_reformed
+				culture = norse
 			}
 		}
 	}

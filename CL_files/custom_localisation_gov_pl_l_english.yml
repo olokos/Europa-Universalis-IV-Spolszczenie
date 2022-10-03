@@ -40,6 +40,10 @@
  string_COUNTY_ins: "Hrabstwie" #
  string_COUNTY_PALATINE: "Hrabstwa Palatynatu" #Hrabstwo Palatynatu N
  string_COUNTY_PALATINE_ins: "Hrabstwie Palatynatu" #
+ string_CRUSADER_EMPIRE: "Imperium Krzyżowego" #Imperium Krzyżowe
+ string_CRUSADER_EMPIRE_ins: "Imperium Krzyżowym" #
+ string_CRUSADER_ORDER: "Zakonu Krzyżowego" #Zakon Krzyżowy
+ string_CRUSADER_ORDER_ins: "Zakonie Krzyżowym" #
  string_DAIMYO: "Daimyo" #Daimyo M
  string_DAIMYO_ins: "Daimyo" #
  string_DESPOTATE: "Despotatu" #Despotat M
@@ -160,6 +164,8 @@
  string_INDEP_DAIMYO_ins: "Niezależnym Daimyo" #
  string_ISLAMIC_CALIPHATE: "Islamskiego Kalifatu" #Islamski Kalifat M
  string_ISLAMIC_CALIPHATE_ins: "Islamskim Kalifacie" #
+ string_JARLDOM: "Jarlostwa" #Jarlostwo
+ string_JARLDOM_ins: "Jarlostwie" #
  string_KAISERREICH: "Kaiserreichu" #Kaiserreich M
  string_KAISERREICH_ins: "Kaiserreichu" #
  string_KHAGANATE: "Kaganatu" #Kaganat M
@@ -297,6 +303,7 @@
  string_ARCHDUKE: "Arcyksięcia" #Arcyksiążę
  string_ARCHKING: "Arcykróla" #Arcykról
  string_ARCHPIRATE: "Arcypirata" #Arcypirat
+ string_ARCHQUEEN: "Arcykrólowej" #Arcykrólowa
  string_ARCH_TRAPPIST: "Arcytrapisty" #Arcytrapista
  string_ARCH_TRAPPISTINE: "Arcytrapistki" #Arcytrapistka
  string_ATABEG: "Atabega" #Atabeg
@@ -355,6 +362,8 @@
  string_COUNTESS: "Hrabiny" #Hrabina
  string_COUNTESS_PALATINE: "Hrabiny Palatynatu" #Hrabina Palatynatu
  string_COUNT_PALATINE: "Hrabiego Palatynatu" #Hrabia Palatynatu
+ string_CRUSADER: "Krzyżowca" #Krzyżowiec
+ string_CRUSADER_fem: "Krzyżowczyni" #Krzyżowczyni
  string_CUAUHTLAHTOANI: "Cuauhtlahtoaniego" #Cuauhtlahtoani
  string_DAI_female: "Dai" #Dai
  string_DAI_male: "Daia" #Dai
@@ -407,6 +416,8 @@
  string_GRAND_CONSUL_ELECTOR: "Wielkiego Konsula Elektora" #Wielki Konsul Elektor
  string_GRAND_COUNCILOR: "Wielkiego Radnego" #Wielki Radny
  string_GRAND_COUNCILOR_fem: "Wielkiej Radnej" #Wielka Radna
+ string_GRAND_CRUSADER: "Wielkiego Krzyżowieca" #Wielki Krzyżowiec
+ string_GRAND_CRUSADER_fem: "Wielkiej Krzyżowczyni" #Wielka Krzyżowczyni
  string_GRAND_DUCHESS: "Wielkiej Księżnej" #Wielka Księżna
  string_GRAND_DUKE: "Wielkiego Księcia" #Wielki Książę
  string_GRAND_JAM: "Wielkiego Dźamy" #Wielki Dźam
@@ -441,6 +452,7 @@
  string_GREAT_IMAM_fem: "Wielkiej Imamki" #Wielka Imamka
  string_GREAT_JAM: "Wielkiego Dźama" #Wielki Dźam
  string_GREAT_JAM_fem: "Wielkiej Dźamy" #Wielka Dźama
+ string_JARL: "Jarla" #Jarl
  string_GREAT_KABAKA: "Wielkiego Kabaki" #Wielki Kabaka
  string_GREAT_KHATUN: "Wielkiej Katun" #Wielka Katun
  string_GREAT_KHOJA: "Wielkiego Chodży" #Wielki Chodża
@@ -697,8 +709,8 @@
  string_SUPREME_VIZIER_fem: "Najwyższej Wezyr" #Najwyższa Wezyr
  string_SYNDIC: "Syndyka" #Syndyk
  string_SYNDIC_fem: "Syndyczki" #Syndyczka
- string_SYNTH_RULER: "Egzekutora" #Egzekutor
- string_SYNTH_RULER_fem: "Egzekutorki" #Egzekutorka
+ string_SYNTH_RULER_MAIN_CONDUIT: "Głównego Przewodnika" #Główny Przewodnik
+ string_SYNTH_RULER_MAIN_CONDUIT_fem: "Głównej Przewodniczki" #Główna Przewodniczka
  string_TATKISHO: "Tatkisho" #Tatkisho
  string_TATKISHO_FEM: "Tatkisho" #Tatkisho
  string_TATO: "Tato" #Tato
@@ -726,6 +738,7 @@
 ##Consort
  string_ARCHDUCHESS: "Arcyksiężnej" #Arcyksiężna
  string_ARCHDUKE_CONSORT: "Arcyksięcia Małżonka" #Arcyksiążę Małżonek
+ string_ARCHQUEEN: "Arcykrólowej" #Arcykrólowa
  string_AUTOKRATEIRA: "Autokratorki" #Autokratorka
  string_BASILISSA: "Bazylissy" #Bazylissa
  string_BEILE: "Beile'a" #Beile

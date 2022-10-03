@@ -231,9 +231,14 @@ defined_text = {
 		localisation_key = string_HEIR
 		trigger = {
 			has_female_heir = no
-			tag = DAN
-			government = monarchy
-			has_ruler = "Christopher III"
+			OR = {
+				AND = {
+					tag = DAN
+					government = monarchy
+					has_ruler = "Christopher III"
+				}
+				has_ruler_flag = has_proclaimed_archking_title
+			}
 		}
 	}
 	text={
@@ -818,6 +823,17 @@ defined_text = {
 		trigger = {
 			has_female_heir = no
 			OR = {
+				has_reform = holy_horde_reform
+				has_reform = crusading_kingdom_reform
+				has_reform = militarized_crusader_order_reform
+			}
+		}
+	}
+	text={
+		localisation_key = string_HEIR
+		trigger = {
+			has_female_heir = no
+			OR = {
 				government = native
 				has_reform = siberian_tribe
 				has_reform = native_basic_reform
@@ -1144,6 +1160,17 @@ defined_text = {
 		localisation_key = string_HEIR
 		trigger = {
 			has_female_heir = no
+			government = monarchy
+			OR = {
+				religion = norse_pagan_reformed
+				culture = norse
+			}
+		}
+	}
+	text={
+		localisation_key = string_HEIR
+		trigger = {
+			has_female_heir = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -1166,7 +1193,13 @@ defined_text = {
 		trigger = {
 			has_female_heir = no
 			government_rank = 2
-			tag = YUA
+			OR = {
+				tag = YUA
+				AND = {
+					tag = OIR
+					has_reform = celestial_empire
+				}
+			}
 			government = monarchy
 		}
 	}
@@ -1311,7 +1344,13 @@ defined_text = {
 		localisation_key = string_HEIR
 		trigger = {
 			has_female_heir = no
-			tag = YUA
+			OR = {
+				tag = YUA
+				AND = {
+					tag = OIR
+					has_reform = celestial_empire
+				}
+			}
 			government = monarchy
 		}
 	}
@@ -1560,7 +1599,13 @@ defined_text = {
 	text={
 		localisation_key = string_KHANUM
 		trigger = {
-			tag = YUA
+			OR = {
+				tag = YUA
+				AND = {
+					tag = OIR
+					has_reform = celestial_empire
+				}
+			}
 			government = monarchy
 		}
 	}
@@ -1730,9 +1775,14 @@ defined_text = {
 	text={
 		localisation_key = string_HEIR_fem
 		trigger = {
-			tag = DAN
-			government = monarchy
-			has_ruler = "Christopher III"
+			OR = {
+				AND = {
+					tag = DAN
+					government = monarchy
+					has_ruler = "Christopher III"
+				}
+				has_ruler_flag = has_proclaimed_archking_title
+			}
 		}
 	}
 	text={
@@ -2256,6 +2306,16 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_HEIR_fem
+		trigger = {
+			OR = {
+				has_reform = holy_horde_reform
+				has_reform = crusading_kingdom_reform
+				has_reform = militarized_crusader_order_reform
+			}
+		}
+	}
+	text={
 		localisation_key = string_KHANUM
 		trigger = {
 			has_reform = steppe_horde
@@ -2560,6 +2620,16 @@ defined_text = {
 			religion = catholic
 			has_reform = holy_state_reform
 			has_country_modifier = sisters_takeover
+		}
+	}
+	text={
+		localisation_key = string_HEIR_fem
+		trigger = {
+			government = monarchy
+			OR = {
+				religion = norse_pagan_reformed
+				culture = norse
+			}
 		}
 	}
 	text={

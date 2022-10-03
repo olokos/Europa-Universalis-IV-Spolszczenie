@@ -161,14 +161,17 @@ defined_text = {
 	text={
 		localisation_key = string_word_moze
 		trigger = {
-			has_reform = military_dictatorship_reform
+			OR = {
+				has_reform = military_dictatorship_reform
+				has_reform = military_rulership_reform
+			}
 		}
 	}
 	text={
 		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
-			has_reform = pirate_republic_reform
+			has_government_attribute = is_pirate_republic_reform
 			NOT = {
 				has_reform = pirate_king_reform
 			}
@@ -179,7 +182,7 @@ defined_text = {
 		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
-			has_reform = pirate_republic_reform
+			has_government_attribute = is_pirate_republic_reform
 			NOT = {
 				has_reform = pirate_king_reform
 			}
@@ -205,7 +208,13 @@ defined_text = {
 		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
-			tag = YUA
+			OR = {
+				tag = YUA
+				AND = {
+					tag = OIR
+					has_reform = celestial_empire
+				}
+			}
 			government = monarchy
 		}
 	}
@@ -433,9 +442,14 @@ defined_text = {
 		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
-			tag = DAN
-			government = monarchy
-			has_ruler = "Christopher III"
+			OR = {
+				AND = {
+					tag = DAN
+					government = monarchy
+					has_ruler = "Christopher III"
+				}
+				has_ruler_flag = has_proclaimed_archking_title
+			}
 		}
 	}
 	text={
@@ -1158,6 +1172,17 @@ defined_text = {
 		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
+			OR = {
+				has_reform = holy_horde_reform
+				has_reform = crusading_kingdom_reform
+				has_reform = militarized_crusader_order_reform
+			}
+		}
+	}
+	text={
+		localisation_key = string_word_moze
+		trigger = {
+			government_rank = 3
 			has_reform = steppe_horde
 			OR = {
 				culture_group = altaic
@@ -1572,6 +1597,17 @@ defined_text = {
 		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
+			government = monarchy
+			OR = {
+				religion = norse_pagan_reformed
+				culture = norse
+			}
+		}
+	}
+	text={
+		localisation_key = string_word_moze
+		trigger = {
+			government_rank = 3
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -1631,7 +1667,7 @@ defined_text = {
 		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
-			has_reform = pirate_republic_reform
+			has_government_attribute = is_pirate_republic_reform
 			NOT = {
 				has_reform = pirate_king_reform
 			}
@@ -1642,7 +1678,7 @@ defined_text = {
 		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
-			has_reform = pirate_republic_reform
+			has_government_attribute = is_pirate_republic_reform
 			NOT = {
 				has_reform = pirate_king_reform
 			}
@@ -1662,7 +1698,13 @@ defined_text = {
 		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
-			tag = YUA
+			OR = {
+				tag = YUA
+				AND = {
+					tag = OIR
+					has_reform = celestial_empire
+				}
+			}
 			government = monarchy
 		}
 	}
@@ -1869,9 +1911,14 @@ defined_text = {
 		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
-			tag = DAN
-			government = monarchy
-			has_ruler = "Christopher III"
+			OR = {
+				AND = {
+					tag = DAN
+					government = monarchy
+					has_ruler = "Christopher III"
+				}
+				has_ruler_flag = has_proclaimed_archking_title
+			}
 		}
 	}
 	text={
@@ -2978,6 +3025,17 @@ defined_text = {
 		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
+			government = monarchy
+			OR = {
+				religion = norse_pagan_reformed
+				culture = norse
+			}
+		}
+	}
+	text={
+		localisation_key = string_word_moze
+		trigger = {
+			government_rank = 2
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -3032,7 +3090,7 @@ defined_text = {
 	text={
 		localisation_key = string_word_moze
 		trigger = {
-			has_reform = pirate_republic_reform
+			has_government_attribute = is_pirate_republic_reform
 			NOT = {
 				has_reform = pirate_king_reform
 			}
@@ -3043,19 +3101,14 @@ defined_text = {
 		localisation_key = string_word_moze
 		trigger = {
 			tag = SOO
-			OR = {
-				has_reform = pirate_republic_reform
-				has_reform = pirate_king_reform
-				has_reform = war_against_the_world_doctrine_reform
-				has_reform = black_market_consortium_reform
-			}
+			has_government_attribute = is_pirate_republic_reform
 			is_subject_of_type = daimyo_vassal
 		}
 	}
 	text={
 		localisation_key = string_word_moze
 		trigger = {
-			has_reform = pirate_republic_reform
+			has_government_attribute = is_pirate_republic_reform
 			NOT = {
 				has_reform = pirate_king_reform
 			}
@@ -3073,7 +3126,13 @@ defined_text = {
 	text={
 		localisation_key = string_word_moze
 		trigger = {
-			tag = YUA
+			OR = {
+				tag = YUA
+				AND = {
+					tag = OIR
+					has_reform = celestial_empire
+				}
+			}
 			government = monarchy
 		}
 	}
@@ -3300,9 +3359,14 @@ defined_text = {
 	text={
 		localisation_key = string_word_moze
 		trigger = {
-			tag = DAN
-			government = monarchy
-			has_ruler = "Christopher III"
+			OR = {
+				AND = {
+					tag = DAN
+					government = monarchy
+					has_ruler = "Christopher III"
+				}
+				has_ruler_flag = has_proclaimed_archking_title
+			}
 		}
 	}
 	text={
@@ -4005,6 +4069,16 @@ defined_text = {
 	text={
 		localisation_key = string_word_moze
 		trigger = {
+			OR = {
+				has_reform = holy_horde_reform
+				has_reform = crusading_kingdom_reform
+				has_reform = militarized_crusader_order_reform
+			}
+		}
+	}
+	text={
+		localisation_key = string_word_moze
+		trigger = {
 			has_reform = steppe_horde
 			OR = {
 				culture_group = altaic
@@ -4392,6 +4466,16 @@ defined_text = {
 			religion = catholic
 			has_reform = holy_state_reform
 			has_country_modifier = sisters_takeover
+		}
+	}
+	text={
+		localisation_key = string_word_moze
+		trigger = {
+			government = monarchy
+			OR = {
+				religion = norse_pagan_reformed
+				culture = norse
+			}
 		}
 	}
 	text={

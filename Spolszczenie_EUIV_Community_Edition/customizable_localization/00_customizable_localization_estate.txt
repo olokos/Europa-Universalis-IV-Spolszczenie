@@ -204,6 +204,12 @@ defined_text = {
 	name = GetNobilityName_CL
 	random = no
 	text = {
+		localisation_key = string_imperial_nobility
+		trigger = {
+			has_reform = revolutionary_empire_reform
+		}
+	}
+	text = {
 		localisation_key = string_estate_oyo_mesi
 		trigger = {
 			tag = OYO
@@ -394,6 +400,12 @@ defined_text = {
 defined_text = {
 	name = GetBurghersName_CL
 	random = no
+	text = {
+		localisation_key = string_estate_quartersmasters
+		trigger = {
+			has_government_attribute = is_pirate_republic_reform
+		}
+	}
 	text = {
 		localisation_key = string_estate_bourgeoisie
 		trigger = {
@@ -685,6 +697,12 @@ defined_text = {
 	name = GetNobilityName_gen
 	random = no
 	text = {
+		localisation_key = string_gen_imperial_nobility
+		trigger = {
+			has_reform = revolutionary_empire_reform
+		}
+	}
+	text = {
 		localisation_key = string_gen_estate_oyo_mesi
 		trigger = {
 			tag = OYO
@@ -875,6 +893,12 @@ defined_text = {
 defined_text = {
 	name = GetBurghersName_gen
 	random = no
+	text = {
+		localisation_key = string_gen_estate_quartersmasters
+		trigger = {
+			has_government_attribute = is_pirate_republic_reform
+		}
+	}
 	text = {
 		localisation_key = string_gen_estate_bourgeoisie
 		trigger = {
@@ -1165,6 +1189,12 @@ defined_text = {
 	name = GetNobilityName_dat
 	random = no
 	text = {
+		localisation_key = string_dat_imperial_nobility
+		trigger = {
+			has_reform = revolutionary_empire_reform
+		}
+	}
+	text = {
 		localisation_key = string_dat_estate_oyo_mesi
 		trigger = {
 			tag = OYO
@@ -1355,6 +1385,12 @@ defined_text = {
 defined_text = {
 	name = GetBurghersName_dat
 	random = no
+	text = {
+		localisation_key = string_dat_estate_quartersmasters
+		trigger = {
+			has_government_attribute = is_pirate_republic_reform
+		}
+	}
 	text = {
 		localisation_key = string_dat_estate_bourgeoisie
 		trigger = {
@@ -1646,6 +1682,12 @@ defined_text = {
 	name = GetNobilityName_ins
 	random = no
 	text = {
+		localisation_key = string_ins_imperial_nobility
+		trigger = {
+			has_reform = revolutionary_empire_reform
+		}
+	}
+	text = {
 		localisation_key = string_ins_estate_oyo_mesi
 		trigger = {
 			tag = OYO
@@ -1836,6 +1878,12 @@ defined_text = {
 defined_text = {
 	name = GetBurghersName_ins
 	random = no
+	text = {
+		localisation_key = string_ins_estate_quartersmasters
+		trigger = {
+			has_government_attribute = is_pirate_republic_reform
+		}
+	}
 	text = {
 		localisation_key = string_ins_estate_bourgeoisie
 		trigger = {
@@ -2128,6 +2176,12 @@ defined_text = {
 	name = GetNobilityName_CL_Cap
 	random = no
 	text = {
+		localisation_key = string_imperial_nobility_Cap
+		trigger = {
+			has_reform = revolutionary_empire_reform
+		}
+	}
+	text = {
 		localisation_key = string_estate_oyo_mesi_Cap
 		trigger = {
 			tag = OYO
@@ -2318,6 +2372,12 @@ defined_text = {
 defined_text = {
 	name = GetBurghersName_CL_Cap
 	random = no
+	text = {
+		localisation_key = string_estate_quartersmasters_Cap
+		trigger = {
+			has_government_attribute = is_pirate_republic_reform
+		}
+	}
 	text = {
 		localisation_key = string_estate_bourgeoisie_Cap
 		trigger = {
@@ -2609,6 +2669,12 @@ defined_text = {
 	name = GetNobilityName_gen_Cap
 	random = no
 	text = {
+		localisation_key = string_gen_imperial_nobility_Cap
+		trigger = {
+			has_reform = revolutionary_empire_reform
+		}
+	}
+	text = {
 		localisation_key = string_gen_estate_oyo_mesi_Cap
 		trigger = {
 			tag = OYO
@@ -2799,6 +2865,12 @@ defined_text = {
 defined_text = {
 	name = GetBurghersName_gen_Cap
 	random = no
+	text = {
+		localisation_key = string_gen_estate_quartersmasters_Cap
+		trigger = {
+			has_government_attribute = is_pirate_republic_reform
+		}
+	}
 	text = {
 		localisation_key = string_gen_estate_bourgeoisie_Cap
 		trigger = {
@@ -3089,6 +3161,12 @@ defined_text = {
 	name = GetNobilityName_dat_Cap
 	random = no
 	text = {
+		localisation_key = string_dat_imperial_nobility_Cap
+		trigger = {
+			has_reform = revolutionary_empire_reform
+		}
+	}
+	text = {
 		localisation_key = string_dat_estate_oyo_mesi_Cap
 		trigger = {
 			tag = OYO
@@ -3279,6 +3357,12 @@ defined_text = {
 defined_text = {
 	name = GetBurghersName_dat_Cap
 	random = no
+	text = {
+		localisation_key = string_dat_estate_quartersmasters_Cap
+		trigger = {
+			has_government_attribute = is_pirate_republic_reform
+		}
+	}
 	text = {
 		localisation_key = string_dat_estate_bourgeoisie_Cap
 		trigger = {
@@ -3570,6 +3654,12 @@ defined_text = {
 	name = GetNobilityName_ins_Cap
 	random = no
 	text = {
+		localisation_key = string_ins_imperial_nobility_Cap
+		trigger = {
+			has_reform = revolutionary_empire_reform
+		}
+	}
+	text = {
 		localisation_key = string_ins_estate_oyo_mesi_Cap
 		trigger = {
 			tag = OYO
@@ -3760,6 +3850,12 @@ defined_text = {
 defined_text = {
 	name = GetBurghersName_ins_Cap
 	random = no
+	text = {
+		localisation_key = string_ins_estate_quartersmasters_Cap
+		trigger = {
+			has_government_attribute = is_pirate_republic_reform
+		}
+	}
 	text = {
 		localisation_key = string_ins_estate_bourgeoisie_Cap
 		trigger = {
@@ -3968,6 +4064,11 @@ defined_text = {
 	name = GetNobilityName_NounJa
 	random = no
 	text = {
+		localisation_key = string_end_empty
+		trigger = {
+			has_reform = revolutionary_empire_reform
+		}
+	text = {
 		localisation_key = string_end_japl
 		trigger = {
 			tag = OYO
@@ -4120,6 +4221,12 @@ defined_text = {
 defined_text = {
 	name = GetBurghersName_NounJa
 	random = no
+	text = {
+		localisation_key = string_end_japl
+		trigger = {
+			has_government_attribute = is_pirate_republic_reform
+		}
+	}
 	text = {
 		localisation_key = string_end_empty
 		trigger = {
@@ -4280,6 +4387,12 @@ defined_text = {
 	name = GetNobilityName_IA
 	random = no
 	text = {
+		localisation_key = string_end_i
+		trigger = {
+			has_reform = revolutionary_empire_reform
+		}
+	}
+	text = {
 		localisation_key = string_end_apl
 		trigger = {
 			tag = OYO
@@ -4432,6 +4545,12 @@ defined_text = {
 defined_text = {
 	name = GetBurghersName_IA
 	random = no
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			has_government_attribute = is_pirate_republic_reform
+		}
+	}
 	text = {
 		localisation_key = string_end_i
 		trigger = {
@@ -4592,6 +4711,12 @@ defined_text = {
 	name = GetNobilityName_Whose
 	random = no
 	text = {
+		localisation_key = string_end_jej
+		trigger = {
+			has_reform = revolutionary_empire_reform
+		}
+	}
+	text = {
 		localisation_key = string_end_ich
 		trigger = {
 			tag = OYO
@@ -4744,6 +4869,12 @@ defined_text = {
 defined_text = {
 	name = GetBurghersName_Whose
 	random = no
+	text = {
+		localisation_key = string_end_ich
+		trigger = {
+			has_government_attribute = is_pirate_republic_reform
+		}
+	}
 	text = {
 		localisation_key = string_end_jej
 		trigger = {
@@ -4904,6 +5035,12 @@ defined_text = {
 	name = GetNobilityName_Whose_Cap
 	random = no
 	text = {
+		localisation_key = string_end_jej_Cap
+		trigger = {
+			has_reform = revolutionary_empire_reform
+		}
+	}
+	text = {
 		localisation_key = string_end_ich_Cap
 		trigger = {
 			tag = OYO
@@ -5056,6 +5193,12 @@ defined_text = {
 defined_text = {
 	name = GetBurghersName_Whose_Cap
 	random = no
+	text = {
+		localisation_key = string_end_ich_Cap
+		trigger = {
+			has_government_attribute = is_pirate_republic_reform
+		}
+	}
 	text = {
 		localisation_key = string_end_jej_Cap
 		trigger = {
@@ -5216,6 +5359,12 @@ defined_text = {
 	name = GetNobilityName_IZa
 	random = no
 	text = {
+		localisation_key = string_end_i
+		trigger = {
+			has_reform = revolutionary_empire_reform
+		}
+	}
+	text = {
 		localisation_key = string_end_zapl
 		trigger = {
 			tag = OYO
@@ -5368,6 +5517,12 @@ defined_text = {
 defined_text = {
 	name = GetBurghersName_IZa
 	random = no
+	text = {
+		localisation_key = string_end_zapl
+		trigger = {
+			has_government_attribute = is_pirate_republic_reform
+		}
+	}
 	text = {
 		localisation_key = string_end_i
 		trigger = {
@@ -5528,6 +5683,12 @@ defined_text = {
 	name = GetNobilityName_EA
 	random = no
 	text = {
+		localisation_key = string_end_e
+		trigger = {
+			has_reform = revolutionary_empire_reform
+		}
+	}
+	text = {
 		localisation_key = string_end_apl
 		trigger = {
 			tag = OYO
@@ -5680,6 +5841,12 @@ defined_text = {
 defined_text = {
 	name = GetBurghersName_EA
 	random = no
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			has_government_attribute = is_pirate_republic_reform
+		}
+	}
 	text = {
 		localisation_key = string_end_e
 		trigger = {
@@ -5840,6 +6007,12 @@ defined_text = {
 	name = GetNobilityName_ZieA
 	random = no
 	text = {
+		localisation_key = string_end_zie
+		trigger = {
+			has_reform = revolutionary_empire_reform
+		}
+	}
+	text = {
 		localisation_key = string_end_apl
 		trigger = {
 			tag = OYO
@@ -5992,6 +6165,12 @@ defined_text = {
 defined_text = {
 	name = GetBurghersName_ZieA
 	random = no
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			has_government_attribute = is_pirate_republic_reform
+		}
+	}
 	text = {
 		localisation_key = string_end_zie
 		trigger = {
@@ -6152,6 +6331,12 @@ defined_text = {
 	name = GetNobilityName_Who
 	random = no
 	text = {
+		localisation_key = string_end_jej
+		trigger = {
+			has_reform = revolutionary_empire_reform
+		}
+	}
+	text = {
 		localisation_key = string_end_im
 		trigger = {
 			tag = OYO
@@ -6304,6 +6489,12 @@ defined_text = {
 defined_text = {
 	name = GetBurghersName_Who
 	random = no
+	text = {
+		localisation_key = string_end_im
+		trigger = {
+			has_government_attribute = is_pirate_republic_reform
+		}
+	}
 	text = {
 		localisation_key = string_end_jej
 		trigger = {
@@ -6464,6 +6655,12 @@ defined_text = {
 	name = GetNobilityName_NormEnd
 	random = no
 	text = {
+		localisation_key = string_end_na
+		trigger = {
+			has_reform = revolutionary_empire_reform
+		}
+	}
+	text = {
 		localisation_key = string_end_ne
 		trigger = {
 			tag = OYO
@@ -6616,6 +6813,12 @@ defined_text = {
 defined_text = {
 	name = GetBurghersName_NormEnd
 	random = no
+	text = {
+		localisation_key = string_end_ni
+		trigger = {
+			has_government_attribute = is_pirate_republic_reform
+		}
+	}
 	text = {
 		localisation_key = string_end_na
 		trigger = {
@@ -6776,6 +6979,12 @@ defined_text = {
 	name = GetNobilityName_BE
 	random = no
 	text = {
+		localisation_key = string_word_jest
+		trigger = {
+			has_reform = revolutionary_empire_reform
+		}
+	}
+	text = {
 		localisation_key = string_word_sa
 		trigger = {
 			tag = OYO
@@ -6928,6 +7137,12 @@ defined_text = {
 defined_text = {
 	name = GetBurghersName_BE
 	random = no
+	text = {
+		localisation_key = string_word_sa
+		trigger = {
+			has_government_attribute = is_pirate_republic_reform
+		}
+	}
 	text = {
 		localisation_key = string_word_jest
 		trigger = {
@@ -7088,6 +7303,12 @@ defined_text = {
 	name = GetNobilityName_AdjEndS
 	random = no
 	text = {
+		localisation_key = string_end_a
+		trigger = {
+			has_reform = revolutionary_empire_reform
+		}
+	}
+	text = {
 		localisation_key = string_end_e
 		trigger = {
 			tag = OYO
@@ -7240,6 +7461,12 @@ defined_text = {
 defined_text = {
 	name = GetBurghersName_AdjEndS
 	random = no
+	text = {
+		localisation_key = string_end_i
+		trigger = {
+			has_government_attribute = is_pirate_republic_reform
+		}
+	}
 	text = {
 		localisation_key = string_end_a
 		trigger = {
@@ -7400,6 +7627,12 @@ defined_text = {
 	name = GetNobilityName_NounA
 	random = no
 	text = {
+		localisation_key = string_end_empty
+		trigger = {
+			has_reform = revolutionary_empire_reform
+		}
+	}
+	text = {
 		localisation_key = string_end_apl
 		trigger = {
 			tag = OYO
@@ -7552,6 +7785,12 @@ defined_text = {
 defined_text = {
 	name = GetBurghersName_NounA
 	random = no
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			has_government_attribute = is_pirate_republic_reform
+		}
+	}
 	text = {
 		localisation_key = string_end_empty
 		trigger = {
@@ -7712,6 +7951,12 @@ defined_text = {
 	name = GetNobilityName_Conc
 	random = no
 	text = {
+		localisation_key = string_end_ona
+		trigger = {
+			has_reform = revolutionary_empire_reform
+		}
+	}
+	text = {
 		localisation_key = string_end_one
 		trigger = {
 			tag = OYO
@@ -7864,6 +8109,12 @@ defined_text = {
 defined_text = {
 	name = GetBurghersName_Conc
 	random = no
+	text = {
+		localisation_key = string_end_eni
+		trigger = {
+			has_government_attribute = is_pirate_republic_reform
+		}
+	}
 	text = {
 		localisation_key = string_end_ona
 		trigger = {
@@ -8024,6 +8275,12 @@ defined_text = {
 	name = GetNobilityName_AdjEnd
 	random = no
 	text = {
+		localisation_key = string_end_a
+		trigger = {
+			has_reform = revolutionary_empire_reform
+		}
+	}
+	text = {
 		localisation_key = string_end_e
 		trigger = {
 			tag = OYO
@@ -8176,6 +8433,12 @@ defined_text = {
 defined_text = {
 	name = GetBurghersName_AdjEnd
 	random = no
+	text = {
+		localisation_key = string_end_y
+		trigger = {
+			has_government_attribute = is_pirate_republic_reform
+		}
+	}
 	text = {
 		localisation_key = string_end_a
 		trigger = {
@@ -8336,6 +8599,12 @@ defined_text = {
 	name = GetNobilityName_PastEnd
 	random = no
 	text = {
+		localisation_key = string_end_alo
+		trigger = {
+			has_reform = revolutionary_empire_reform
+		}
+	}
+	text = {
 		localisation_key = string_end_aly
 		trigger = {
 			tag = OYO
@@ -8488,6 +8757,12 @@ defined_text = {
 defined_text = {
 	name = GetBurghersName_PastEnd
 	random = no
+	text = {
+		localisation_key = string_end_eli
+		trigger = {
+			has_government_attribute = is_pirate_republic_reform
+		}
+	}
 	text = {
 		localisation_key = string_end_alo
 		trigger = {

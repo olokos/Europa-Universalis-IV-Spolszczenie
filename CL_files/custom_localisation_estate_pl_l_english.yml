@@ -27,6 +27,7 @@
  string_estate_bete: "bete" #Bete MM
  string_estate_church: "duchowieństwo" #Duchowieństwo PN
  string_estate_maratha: "marathowie" #Marathowie MM
+ string_estate_imperial_nobility: "cesarska szlachta" #Cesarska szlachta PZ
  string_estate_oyo_mesi: "ojo mesi" #Ojo Mesi MZ
  string_estate_nakomse: "nakomse" #Nakomse MM
  string_estate_chieftains: "wodzowie" #Wodzowie MM
@@ -53,6 +54,7 @@
  string_estate_warriors: "wojownicy" #Wojownicy MM
  string_estate_mani: "mani" #Mani MM
  string_estate_nobles: "arystokracja" #Arystokracja PZ
+ string_estate_quartersmasters: "kwatermistrzowie" #Kwatermistrzowie MM
  string_estate_bourgeoisie: "burżuazja" #Burżuazja PZ
  string_estate_shangbang: "shangbang" #Shangbang PM
  string_estate_neoconfucian_reformers: "neokonfucjańscy reformatorzy" #Neokonfucjańscy reformatorzy MM
@@ -92,6 +94,7 @@
  string_estate_bete_Cap: "Bete" #Bete MM
  string_estate_church_Cap: "Duchowieństwo" #Duchowieństwo PN
  string_estate_maratha_Cap: "Marathowie" #Marathowie MM
+ string_estate_imperial_nobility_Cap: "Cesarska szlachta" #Cesarska szlachta PZ
  string_estate_oyo_mesi_Cap: "Ojo Mesi" #Ojo Mesi MZ
  string_estate_nakomse_Cap: "Nakomse" #Nakomse MM
  string_estate_chieftains_Cap: "Wodzowie" #Wodzowie MM
@@ -118,6 +121,7 @@
  string_estate_warriors_Cap: "Wojownicy" #Wojownicy MM
  string_estate_mani_Cap: "Mani" #Mani MM
  string_estate_nobles_Cap: "Arystokracja" #Arystokracja PZ
+ string_estate_quartersmasters_Cap: "Kwatermistrzowie" #Kwatermistrzowie MM
  string_estate_bourgeoisie_Cap: "Burżuazja" #Burżuazja PZ
  string_estate_shangbang_Cap: "Shangbang" #Shangbang PM
  string_estate_neoconfucian_reformers_Cap: "Neokonfucjańscy reformatorzy" #Neokonfucjańscy reformatorzy MM
@@ -158,6 +162,7 @@
  string_gen_estate_bete: "bete" #Bete MM
  string_gen_estate_church: "duchowieństwa" #Duchowieństwo
  string_gen_estate_maratha: "marathów" #Marathowie
+ string_gen_estate_imperial_nobility: "cesarskiej szlachty" #Cesarska szlachta
  string_gen_estate_oyo_mesi: "ojo mesi" #Ojo Mesi
  string_gen_estate_nakomse: "nakomse" #Nakomse
  string_gen_estate_chieftains: "wodzów" #Wodzowie
@@ -184,6 +189,7 @@
  string_gen_estate_warriors: "wojowników" #Wojownicy
  string_gen_estate_mani: "mani" #Mani
  string_gen_estate_nobles: "arystokracji" #Arystokracja
+ string_gen_estate_quartersmasters: "kwatermistrzów" #Kwatermistrzowie
  string_gen_estate_bourgeoisie: "burżuazji" #Burżuazja
  string_gen_estate_shangbang: "shangbangu" #Shangbang
  string_gen_estate_neoconfucian_reformers: "neokonfucjańskich reformatorów" #Neokonfucjańscy reformatorzy
@@ -223,6 +229,7 @@
  string_gen_estate_bete_Cap: "Bete" #Bete
  string_gen_estate_church_Cap: "Duchowieństwa" #Duchowieństwo
  string_gen_estate_maratha_Cap: "Marathów" #Marathowie
+ string_gen_estate_imperial_nobility_Cap: "Cesarskiej szlachty" #Cesarska szlachta
  string_gen_estate_oyo_mesi_Cap: "Ojo Mesi" #Ojo Mesi
  string_gen_estate_nakomse_Cap: "Nakomse" #Nakomse
  string_gen_estate_chieftains_Cap: "Wodzów" #Wodzowie
@@ -249,6 +256,7 @@
  string_gen_estate_warriors_Cap: "Wojowników" #Wojownicy
  string_gen_estate_mani_Cap: "Mani" #Mani
  string_gen_estate_nobles_Cap: "Arystokracji" #Arystokracja
+ string_gen_estate_quartersmasters_Cap: "Kwatermistrzów" #Kwatermistrzowie 
  string_gen_estate_bourgeoisie_Cap: "Burżuazji" #Burżuazja
  string_gen_estate_shangbang_Cap: "Shangbangu" #Shangbang
  string_gen_estate_neoconfucian_reformers_Cap: "Neokonfucjańskich reformatorów" #Neokonfucjańscy reformatorzy
@@ -289,6 +297,7 @@
  string_dat_estate_bete: "bete" #Bete
  string_dat_estate_church: "duchowieństwu" #Duchowieństwo
  string_dat_estate_maratha: "marathom" #Marathowie
+ string_dat_estate_imperial_nobility: "cesarskiej szlachcie" #Cesarska szlachta
  string_dat_estate_oyo_mesi: "ojo mesi" #Ojo Mesi
  string_dat_estate_nakomse: "nakomse" #Nakomse
  string_dat_estate_chieftains: "wodzom" #Wodzowie
@@ -316,6 +325,7 @@
  string_dat_estate_mani: "mani" #Mani
  string_dat_estate_nobles: "arystokracji" #Arystokracja
  string_dat_estate_bourgeoisie: "burżuazji" #Burżuazja
+ string_dat_estate_quartersmasters: "kwatermistrzom" #Kwatermistrzowie
  string_dat_estate_shangbang: "shangbangowi" #Shangbang
  string_dat_estate_neoconfucian_reformers: "neokonfucjańskim reformatorom" #Neokonfucjańscy reformatorzy
  string_dat_estate_pochteca: "pochtekom" #Pochtekowie
@@ -354,6 +364,7 @@
  string_dat_estate_bete_Cap: "Bete" #Bete
  string_dat_estate_church_Cap: "Duchowieństwu" #Duchowieństwo
  string_dat_estate_maratha_Cap: "Marathom" #Marathowie
+ string_dat_estate_imperial_nobility_Cap: "Cesarskiej szlachcie" #Cesarska szlachta
  string_dat_estate_oyo_mesi_Cap: "Ojo Mesi" #Ojo Mesi
  string_dat_estate_nakomse_Cap: "Nakomse" #Nakomse
  string_dat_estate_chieftains_Cap: "Wodzom" #Wodzowie
@@ -380,6 +391,7 @@
  string_dat_estate_warriors_Cap: "Wojowników" #Wojownicy
  string_dat_estate_mani_Cap: "Mani" #Mani
  string_dat_estate_nobles_Cap: "Arystokracji" #Arystokracja
+ string_dat_estate_quartersmasters_Cap: "Kwatermistrzom" #Kwatermistrzowie
  string_dat_estate_bourgeoisie_Cap: "Burżuazji" #Burżuazja
  string_dat_estate_shangbang_Cap: "Shangbangowi" #Shangbang
  string_dat_estate_neoconfucian_reformers_Cap: "Neokonfucjańskim reformatorom" #Neokonfucjańscy reformatorzy
@@ -420,6 +432,7 @@
  string_ins_estate_bete: "bete" #Bete
  string_ins_estate_church: "duchowieństwem" #Duchowieństwo
  string_ins_estate_maratha: "marathami" #Marathowie
+ string_ins_estate_imperial_nobility: "cesarską szlachtą" #Cesarska szlachta
  string_ins_estate_oyo_mesi: "ojo mesi" #Ojo Mesi
  string_ins_estate_nakomse: "nakomse" #Nakomse
  string_ins_estate_chieftains: "wodzami" #Wodzowie
@@ -446,6 +459,7 @@
  string_ins_estate_warriors: "wojownikami" #Wojownicy
  string_ins_estate_mani: "mani" #Mani
  string_ins_estate_nobles: "arystokracją" #Arystokracja
+ string_ins_estate_quartersmasters: "kwatermistrzami" #Kwatermistrzowie
  string_ins_estate_bourgeoisie: "burżuazją" #Burżuazja
  string_ins_estate_shangbang: "shangbangiem" #Shangbang
  string_ins_estate_neoconfucian_reformers: "neokonfucjańskimi reformatorami" #Neokonfucjańscy reformatorzy
@@ -485,6 +499,7 @@
  string_ins_estate_bete_Cap: "bete" #Bete
  string_ins_estate_church_Cap: "Duchowieństwem" #Duchowieństwo
  string_ins_estate_maratha_Cap: "Marathami" #Marathowie
+ string_ins_estate_imperial_nobility_Cap: "Cesarską szlachtą" #Cesarska szlachta
  string_ins_estate_oyo_mesi_Cap: "Ojo Mesi" #Ojo Mesi
  string_ins_estate_nakomse_Cap: "Nakomse" #Nakomse
  string_ins_estate_chieftains_Cap: "Wodzami" #Wodzowie
@@ -511,6 +526,7 @@
  string_ins_estate_warriors_Cap: "Wojownikami" #Wojownicy
  string_ins_estate_mani_Cap: "Mani" #Mani
  string_ins_estate_nobles_Cap: "Arystokracją" #Arystokracja
+ string_ins_estate_quartersmasters_Cap: "Kwatermistrzami" #Kwatermistrzowie
  string_ins_estate_bourgeoisie_Cap: "Burżuazją" #Burżuazja
  string_ins_estate_shangbang_Cap: "Shangbangiem" #Shangbang
  string_ins_estate_neoconfucian_reformers_Cap: "Neokonfucjańskimi reformatorami" #Neokonfucjańscy reformatorzy
