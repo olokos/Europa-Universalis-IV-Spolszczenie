@@ -98,7 +98,7 @@
  HOLY_ORDERS: "Zakony święte"
  HOLY_ORDER_NOT_AVAILABLE: "§RNie możesz ustanowić tego zakonu:§!"
  ESTABLISH_COST: "Ustanowienie tego zakonu będzie cię kosztować $COST|Y$$ICON$"
- CONFIRM_ESTABLISH_HOLY_ORDER: "Ustanów zakon święty"
+ CONFIRM_ESTABLISH_HOLY_ORDER: "Ustanów zakon religijny"
  CONFIRM_ESTABLISH_HOLY_ORDER_DESC: "Czy na pewno chcesz założyć zakon religijny $ORDER|Y$ na obszarze $STATE|Y$? Raz ustanowionego zakonu nie można zmienić. Będzie to miało następujące efekty:\n\n$EFFECTS$"
  HOLY_ORDER_ESTABLISHED: "Zakon religijny $ORDER|Y$ został ustanowiony w prowincji $STATE|Y$\n"
  HOLY_ORDER_CANNOT_AFFORD: "§RNie masz obecnie wystarczających środków na ustanowienie tego zakonu.§!\n"
