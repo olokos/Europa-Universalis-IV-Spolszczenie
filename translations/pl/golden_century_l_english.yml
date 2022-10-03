@@ -120,7 +120,7 @@
  tortoise.1.a: "Pyszne żółwie..."
  delicious_tortoises: "Hodowla żółwi"
  desc_delicious_tortoises: "Gigantyczne żółwie są tu hodowane na pożywienie. Wiadomo, że stanowią całkiem pyszną ucztę."
- has_holy_order_trigger_tooltip: "Prowincja jest częścią stanu przypisanego do Świętego Zakonu"
+ has_holy_order_trigger_tooltip: "Prowincja jest częścią stanu przypisanego do zakonu religijnego"
  EXPEL_MINORITY: "Wydal mniejszość: $NAME$"
  EXPEL_MINORITIES_FROM: "Wydal mniejszości z prowincji $PROVINCE$"
  EXPEL_MINORITIES_TOOLTIP: "Mniejszości z prowincji $PROVINCE|Y$ będą powoli wysyłane do $COLONY|Y$, pozostawiając tylko poddanych z naszą główną kulturą i wiarą."
