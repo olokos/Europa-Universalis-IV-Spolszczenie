@@ -105,7 +105,7 @@
  HOLY_ORDER_NOT_ESTABLISHED: "Zakon święty $ORDER|Y$ nie został ustanowiony w prowincji $STATE|Y$\n"
  ESTABLISH_HOLY_ORDER: "Zakon święty $ORDER|Y$ zostanie ustanowiony w prowincji $STATE|Y$"
  ESTABLISH_HOLY_ORDER_WRONG_OWNER: "§RAby móc ustanowić zakon święty, obszar musi być twoją własnością lub jednego z twoich poddanych.§!"
- ESTABLISH_HOLY_ORDER_NOT_OWNING_ALL: "§RWszystkie prowincje w stanie muszą być własnością twojego narodu lub poddanego, abyś mógł założyć Święty Zakon."
+ ESTABLISH_HOLY_ORDER_NOT_OWNING_ALL: "§RWszystkie prowincje w stanie muszą być własnością twojego narodu lub poddanego, abyś mógł założyć zakon religijny."
  removes_slaves_tooltip: "Nastąpi zamiana dobra handlowego we wszystkich prowincjach w stanie z §Yniewolników§! na inne dobra handlowe."
  EVERY_PROVINCE_IN_STATE: "która znajduje się w tym obszarze"
  HOLY_ORDER_DESC: "Możesz zakładać zakony święte w stanach, które w pełni należą do ciebie i są przez ciebie unarodowione. Zakony święte dadzą ci natychmiastowe efekty przy ich ustanawianiu i trwałe efekty we wszystkich prowincjach swojego stanu. Raz ustanowiony nie może być zmieniony. "
