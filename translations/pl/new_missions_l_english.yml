@@ -1543,7 +1543,7 @@
  mexico_holy_order_tooltip: "§Y5§! stanów należących do kraju §Y[Root.GetName]§! lub jego poddanego w regionie §YMeksyku§! ma przydzielony zakon zbrojny."
  mexico_holy_order_alternative_tooltip: "§Y25§! prowincji należących do kraju §Y[Root.GetName]§! lub jego poddanego w regionie §YMeksyku§! wyznaje religię §Y[Root.Religion.GetName]§!."
  cas_spice_islands_tooltip: "Kraj §Y[Root.GetName]§! odkrył wszystkie prowincje w regionie §YMoluki§!."
- native_reductions_tooltip: "§Y15§! stanów należących do kraju §Y[Root.GetName]§! lub jego poddanego w §YAmeryce Północnej§! i §YAmeryce Południowej§! ma przydzielony zakon zbrojny."
+ native_reductions_tooltip: "§Y15§! stanów należących do kraju §Y[Root.GetName]§! lub jego poddanego w §YAmeryce Północnej§! i §YAmeryce Południowej§! ma przydzielony zakon religijny"
  native_reductions_alternative_tooltip: "§Y75§! prowincji należących do kraju §Y[Root.GetName]§! lub jego poddanego w §YAmeryce Północnej§! i §YAmeryce Południowej§! wyznaje religię §Y[Root.Religion.GetName]§!."
  gc_cas_spa_potosi_title: "Srebro Potosi"
  gc_cas_spa_potosi_desc: "Odkryliśmy w Cerro Rico złoża srebra, których bogactwo przekracza wszystko, co kiedykolwiek widzieliśmy. Aby wydobyć jak najwięcej srebra, musimy nie tylko zmusić do pracy tubylców, ale także sprowadzić tysiące afrykańskich niewolników. Wartość tego srebra jest szacowana na olbrzymią, że zdecydowanie przewyższa koszty zakupu nowych niewolników, więc nie powinniśmy się wahać przed zamęczeniem ich na śmierć."
