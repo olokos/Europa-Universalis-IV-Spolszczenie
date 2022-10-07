@@ -448,7 +448,7 @@
  aissawa_order: "Aissawa"
  aissawa_order_desc: "Młodszy odłam sufizmu, którego dziedzictwo psalmów i modlitw przekształciło się w rytuały z udziałem muzyki i tańca."
  order_piety_tooltip: "Przeniesie nas o §Y2§! w stronę mistycyzmu dla §Ykażdej prowincji w stanie.§!"
- CONFIRM_ABANDON_HOLY_ORDER: "$NAME|Y$, zakon religijny, opuści ten stan:\n$EFFECT$"
+ CONFIRM_ABANDON_HOLY_ORDER: "Zakon religijny $NAME|Y$ opuści ten stan:\n$EFFECT$"
  HOLY_ORDER_ALREADY_ESTABLISHED: "§RW tym stanie zakon religijny został już ustanowiony.§!"
  privateering: "Korsarstwo"
  flagship_events.1.t: "Statek flagowy przejęty przez państwo [From.GetName]!"
