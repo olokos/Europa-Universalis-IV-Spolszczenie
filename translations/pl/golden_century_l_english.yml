@@ -109,7 +109,7 @@
  removes_slaves_tooltip: "Nastąpi zamiana dobra handlowego we wszystkich prowincjach w stanie z §Yniewolników§! na inne dobra handlowe."
  EVERY_PROVINCE_IN_STATE: "która znajduje się w tym obszarze"
  HOLY_ORDER_DESC: "Możesz zakładać zakony religijne w stanach, które w pełni należą do ciebie i są przez ciebie unarodowione. Zakony dadzą ci natychmiastowe efekty przy ich ustanawianiu i trwałe efekty we wszystkich prowincjach swojego stanu. Raz ustanowiony nie może być zmieniony. "
- HOLY_ORDER_DISABLED_NOT_OWNING_ALL: "§RTen zakon religijny nie jest obecnie w stanie realizować swojej misji, ponieważ wszystkie prowincje w stanie nie są własnością $COUNTRY$.§!"
+ HOLY_ORDER_DISABLED_NOT_OWNING_ALL: "§RTen zakon religijny nie jest obecnie w stanie realizować swojej misji, ponieważ wszystkie prowincje w stanie nie są własnością $COUNTRY_ADJ$.§!"
  HOLY_ORDER_ESTABLISHED_BY: "Ustanowiony przez:\n$COUNTRY$"
  MACRO_CLICK_TO_BUILD_FLAGSHIP: "Kliknij, aby zbudować okręt flagowy w prowincji $PROVINCE$"
  MACRO_BUILD_FLAGSHIP: "Buduj okręt flagowy"
