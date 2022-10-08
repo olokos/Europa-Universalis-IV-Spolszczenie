@@ -1,7 +1,7 @@
 ﻿l_english:
  personality_options.710.a:0 "Strike down any who would oppose our [Root.GetLowLevelOfficialForCountry]."
  personality_options.711.a:0 "Musimy nauczy¾ si² ¿y¾ i pozwoli¾ ¿y¾."
- personality_options.712.a:0 "We must reform the currency."
+ personality_options.712.a:0 "Musimy zreformowa¾ walut²."
  personality_options.714.a:0 "Attempt to combine the best aspects of both schools."
  personality_options.714.b:0 "[Root.Monarch.GetTitle] preferuje ofensywe."
  personality_options.714.c:0 "[Root.Monarch.GetTitle] preferuje defensywe."
@@ -21,7 +21,7 @@
  personality_options.734.a:0 "Convince them in the need for our policies."
  personality_options.734.b:0 "Offer the leaders something to drop their demands."
  personality_options.734.c:0 "Threaten to expose their secrets unless they back down."
- personality_options.735.a:0 "A life in the army will harden them again!"
+ personality_options.735.a:0 "¯ycie w wojsku znów ich zahartuje!"
  personality_options.736.a:0 "Wiem jedynie, kto powinen otrzyma¾ nasz patronat."
  personality_options.736.b:0 "Wiem jedynie, kto powinen otrzyma¾ nasz patronat."
  personality_options.737.b:0 "To b²dzie dla niego œwietna okazja."

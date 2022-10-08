@@ -1,6 +1,6 @@
 ﻿l_english:
  flavor_ter.1.t:0 "Przyprawy musz¹ p³yn¹¾"
- flavor_ter.1.desc:0 "[Root.GetName] has great ambitions for expansion, and it begins with the surrounding islands. We must choose a site to establish the next [Root.GetAdjective] colony."
+ flavor_ter.1.desc:0 "[Root.GetName] ma wielkie ambicje ekspansji, która zaczyna si² od okolicznych wysp. Musimy wybra¾ miejsce na za³o¿enie kolejnej kolonii [Root.GetAdjective]."
  flavor_ter.1.a:0 "[648.GetName]."
  flavor_ter.1.b:0 "[644.GetName]."
  flavor_ter.1.c:0 "[647.GetName]."
@@ -11,8 +11,8 @@
  flavor_ter.1.h:0 "Przyprawy p³yn¹."
  flavor_ter.2.a:0 "[2693.GetName]."
  flavor_ter.2.b:0 "[632.GetName]."
- spice_defeat_rival_title:0 "Defeat our Rival"
- spice_defeat_rival_desc:0 "If we wish to establish an empire in the Moluccas, we must move quickly to eliminate rival kingdoms."
+ spice_defeat_rival_title:0 "Pokonaj naszego rywala"
+ spice_defeat_rival_desc:0 "Jeœli chcemy za³o¿y¾ imperium na Molukach, musimy dzia³a¾ szybko, by wyeliminowa¾ rywalizuj¹ce ze sob¹ królestwa."
  spice_colony_1_title:0 "Kolonia [Root.GetAdjective]"
  spice_colony_1_desc:0 "Our first colony underway, the first of many that will make up our future empire. We must protect it."
  spice_colony_2_title:0 "Ekspansja [Root.GetAdjective]"

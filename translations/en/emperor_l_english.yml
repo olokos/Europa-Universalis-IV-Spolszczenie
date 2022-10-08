@@ -121,7 +121,7 @@
  YEARLY_TAX_INCOME: "Yearly Tax Income"
  MODIFIER_RELIGIOUS_CONVERSION_RESISTANCE_DRO: "This is how good your nation can resist the spread of religion from reformation centers. This reduces the chances of your provinces being picked by the Centers of Reformation."
  MODIFIER_LEGITIMATE_SUBJECT_ELECTOR: "Legitimate Subject Elector"
- MODIFIER_ACCEPT_VASSALIZATION_REASONS: "Vassalizatation Acceptance"
+ MODIFIER_ACCEPT_VASSALIZATION_REASONS: "Vassalization Acceptance"
  MODIFIER_TRANSFER_TRADE_POWER_REASONS: "Transfer Trade Acceptance"
  MODIFIER_LOCAL_WARSCORE_COST_MODIFIER: "War Score Cost"
  MODIFIER_MERCANTILISM_COST: "Cost to Promote Mercantilism"

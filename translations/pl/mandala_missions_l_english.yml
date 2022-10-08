@@ -1,6 +1,6 @@
 ﻿l_english:
  flavor_ter.1.t: "Przyprawy muszą płynąć"
- flavor_ter.1.desc: ""
+ flavor_ter.1.desc: "[Root.GetName] ma wielkie ambicje ekspansji, która zaczyna się od okolicznych wysp. Musimy wybrać miejsce na założenie kolejnej kolonii [Root.GetAdjective]."
  flavor_ter.1.a: "[648.GetName]."
  flavor_ter.1.b: "[644.GetName]."
  flavor_ter.1.c: "[647.GetName]."
@@ -11,8 +11,8 @@
  flavor_ter.1.h: "Przyprawy płyną."
  flavor_ter.2.a: "[2693.GetName]."
  flavor_ter.2.b: "[632.GetName]."
- spice_defeat_rival_title: ""
- spice_defeat_rival_desc: ""
+ spice_defeat_rival_title: "Pokonaj naszego rywala"
+ spice_defeat_rival_desc: "Jeśli chcemy założyć imperium na Molukach, musimy działać szybko, by wyeliminować rywalizujące ze sobą królestwa."
  spice_colony_1_title: "Kolonia [Root.GetAdjective]"
  spice_colony_1_desc: ""
  spice_colony_2_title: "Ekspansja [Root.GetAdjective]"
