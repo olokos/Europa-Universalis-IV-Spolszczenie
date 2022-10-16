@@ -909,7 +909,7 @@
  subject_interaction_events.3.a: "[From.Monarch.GetName] of [From.Country.GetName] sent us gold and soldiers!"
  subject_interaction_events.3.b: "[From.Monarch.GetName] refused to send us help!"
  subject_interaction_events.4.t: "Incompetent Cousin"
- subject_interaction_events.4.d: "Our dearly beloved cousin that rules over one of our subject states has proven to be an incompetent buffoon, one that cannot and should not rule over any country."
+ subject_interaction_events.4.d: "Our dearly beloved cousin that rules over [incompetent_cousin_country.GetName], our subject state, has proven to be an incompetent buffoon, one that cannot and should not rule over any country."
  subject_interaction_events.4.a: "Try to find a better one to rule my subject state."
  subject_interaction_events.4.b: "This can only bring disorder to the country. Leave it be."
  subject_interaction_events.5.t: "Competent Cousin"

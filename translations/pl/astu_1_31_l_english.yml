@@ -1,6 +1,6 @@
 ﻿l_english:
  centralize_state: "Centralizacja obszaru"
- CENTRALIZE_STATE_DESC: "§YCentralizacja obszaru§!\nWydaj $COST|Y$ postępu reformy rządowej i $POWER_COST|Y$£adm£, aby scentralizować $STATE|Y$ w najbardziej rozwiniętej prowincji, co da obszarowi bonusy:\nLokalny koszt zarządzania obszarem: §G-25.0%§!\nUtrzymanie obszaru: §G-20.0%§!\nWzrost lokalnego dobrobytu: §G+0.10§!\n\nZajmie to $YEARS|0Y$ lat."
+ CENTRALIZE_STATE_DESC: ""
  CENTRALIZE_STATE_COST: "Nie masz wystarczającego postępu reformy rządowej."
  CENTRALIZE_STATE_TERRITORY: "Możesz centralizować stany, a nie terytoria."
  CENTRALIZE_STATE_DEV: "Koszt zarządzania obszarem $STATE$ musi wynosić co najmniej $STATE_DEV|0$ rozwoju."
@@ -8,7 +8,7 @@
  CENTRALIZE_STATE_DONE: "Ten obszar już został scentralizowany"
  CENTRALIZE_STATE_PROGRESS: "Proces jest już w toku. Zostanie ukończony dnia $DATE$"
  CONFIRM_CENTRALIZE_STATE: "Centralizacja obszaru $STATE$"
- CONFIRM_CENTRALIZE_STATE_TEXT: "Czy na pewno chcesz wydać $COST|0Y$ postępu reformy rządowej i $POWER_COST|Y$£adm£ na centralizację obszaru $STATE|Y$ w prowincji $PROVINCE|Y$?\nObszar $STATE|Y$ otrzyma bonusy:\nKoszt zarządzania obszarem: §G-25.0%§!\nUtrzymanie obszaru: §G-20.0%§!\nWzrost lokalnego dobrobytu: §G+0.10§!\n\nZajmie to $YEARS|0Y$ lat."
+ CONFIRM_CENTRALIZE_STATE_TEXT: ""
  CENTRALIZE_STATE_CONSTRUCTION_TITLE: "Scentralizowano obszar"
  CENTRALIZE_STATE_CONSTRUCTION_SETUP: "Kiedy obszar zostanie scentralizowany."
  CENTRALIZE_STATE_CONSTRUCTION_1: "Zakończono centralizację obszaru"

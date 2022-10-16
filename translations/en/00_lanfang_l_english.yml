@@ -234,6 +234,7 @@
  estate_church_karma_temples: "Monastic Temples"
  estate_church_karma_temples_desc: "We should entrust the care of sacred Buddhist temples to monks."
  estate_church_karma_temples_tt: "§Y+3 Karma§! is added upon construction of §YTemple§! buildings.\n§Y-3 Karma§! is added upon destruction of §YTemple§! buildings."
+ estate_church_karma_temples_ct: "§Y+5 Karma§! is added upon construction of §YTemple§! buildings.\n§Y-5 Karma§! is added upon destruction of §YTemple§! buildings."
  estate_church_influence_temples: "Church Sanctuaries"
  estate_church_influence_temples_desc: "We should give the people a place of worship and the Pope a place to see how much devotion our nation has."
  estate_church_influence_temples_tt: "§Y+3 Papal Influence§! is added upon construction of §YChurch§! buildings.\n§Y-3 Papal Influence§! is added upon destruction of §YChurch§! buildings."

@@ -5138,7 +5138,7 @@
  HAVE_LESS_LAND_FORCELIMIT: "Have a land force limit of less than"
  HAVE_MORE_LAND_FORCELIMIT: "Have a land force limit of at least"
  HAVE_LESS_NAVAL_FORCELIMIT: "Have a Naval Force Limit of less than"
- HAVE_MORE_NAVAL_FORCELIMIT: "Have a Naval Force Limit of at LEAST"
+ HAVE_MORE_NAVAL_FORCELIMIT: "Have a Naval Force Limit of at least"
  large_tribe_bad_adm: "Incapable Ruler"
  desc_large_tribe_bad_adm: "Ruler can't handle the Administrative details of our Tribe"
  large_tribe_bad_dip: "Incapable Ruler"
