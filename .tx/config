@@ -1,5 +1,5 @@
 [main]
-host = https://www.transifex.com
+host = https://app.transifex.com
 
 [o:europa-universalis-iv-community-translation:p:Community-edition:r:00-lanfang-l-english-yml]
 file_filter = translations/<lang>/00_lanfang_l_english.yml
