@@ -161,7 +161,7 @@
  estate_land_seized:0 "Odbierz Ziemie Koronne"
  ESTATES_SALE_OF_TITLES_DESC:0 "Sprzedaj §Y10% Ziem Koronnych§! §YKlasom Spo³ecznym§!."
  ESTATES_SEIZE_LAND_DESC:0 "Odbierz §Y5% ziem posiadanych przez klasy§! i przy³¹cz j¹ do §YKorony§!."
- ESTATES_SEIZE_LAND_EXCEPTION_DESC:0 "Stany, które s¹ §YWy³¹czone z odebrania ziemi§! nie strac¹ lojalnoœci."
+ ESTATES_SEIZE_LAND_EXCEPTION_DESC:0 "Stany, które s¹ §Ywy³¹czone z odbierania ziemi§! nie strac¹ lojalnoœci."
  ESTATES_SEIZE_LAND_UNREST_DESC:0 "Udzia³ klasy w rozwoju otrzyma §R+5§! §Yniepokojów§!, a najbardziej wp³ywowa klasa chwyci ci² za broª."
  IS_NOT_MOST_POWERFUL_ESTATE:0 "Klasa spo³eczna $ESTATE$ nie jest najsilniejsz¹ w paªstwie. "
  IS_MOST_POWERFUL_ESTATE:0 "Klasa spo³eczna $ESTATE$ jest najsilniejsz¹ w paªstwie."

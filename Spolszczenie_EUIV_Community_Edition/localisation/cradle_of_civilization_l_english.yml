@@ -685,7 +685,7 @@
  pasha_removed_modifier:0 "Pasha Removed"
  desc_pasha_removed_modifier:0 "The Pasha has been removed"
  PASHA_MODIFIER:0 "Pasza w stanie"
- CONFORM_TO_TEMPLATE:0 "§YConform to Template§!"
+ CONFORM_TO_TEMPLATE:0 "§YDostosuj do szablonu§!"
  CONFORM_TO_TEMPLATE_ARMY_DESC:0 "Wybierz szablon armii, aby dostosowa¾ t² armi² do tego szablonu.\nPu³ki niezgodne z szablonem zostan¹ od³¹czone do nowej armii, a brakuj¹ce pu³ki zostan¹ zbudowane, przeniesione i po³¹czone z t¹ armi¹."
  CONFORM_TO_TEMPLATE_NAVY_DESC:0 "Wybierz szablon marynarki, aby dostosowa¾ t² flot² do tego szablonu.\nOkr²ty niezgodne z szablonem zostan¹ od³¹czone do nowej floty, a brakuj¹ce okr²ty zostan¹ zbudowane, przeniesione i po³¹czone z t¹ flot¹."
  NO_CONFORM_TO_TEMPLATE_CONDOTTIERI:0 "§RObecnie ta armia nie mo¿e by¾ dostosowana do ¿adnego szablonu.§!\nArmia jest obecnie wynajmowana jako kondotierzy."

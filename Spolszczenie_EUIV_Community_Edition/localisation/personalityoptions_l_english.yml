@@ -1,7 +1,7 @@
 ﻿l_english:
  personality_options.710.a:0 "Strike down any who would oppose our [Root.GetLowLevelOfficialForCountry]."
  personality_options.711.a:0 "Musimy nauczy¾ si² ¿y¾ i pozwoli¾ ¿y¾."
- personality_options.712.a:0 "Musimy zreformowa¾ walut²."
+ personality_options.712.a:0 "We must reform the currency."
  personality_options.714.a:0 "Attempt to combine the best aspects of both schools."
  personality_options.714.b:0 "[Root.Monarch.GetTitle] preferuje ofensywe."
  personality_options.714.c:0 "[Root.Monarch.GetTitle] preferuje defensywe."

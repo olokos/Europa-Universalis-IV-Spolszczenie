@@ -41,7 +41,7 @@
  SYNTH_GOV:0 "Sztuczna Inteligencja"
  SYNTH_RULER:0 "Egzekutor"
  SYNTH_RULER_fem:0 "Egzekutorka"
- SYNTH_RULER_MAIN_CONDUIT:0 "G³ówny Przewodnik"
+ SYNTH_RULER_MAIN_CONDUIT:0 "G³ówny przewodnik"
  SYNTH_RULER_MAIN_CONDUIT_fem:0 "G³ówna Przewodniczka"
  synthetic_remnants_enabled.tooltip:0 "Aktywuje modyfikator §YSyntetyczne pozosta³oœci§!."
  synthetic_remnants:0 "Syntetyczne pozosta³oœci"
