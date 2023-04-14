@@ -3,7 +3,7 @@
 set charset="polish"
 set parser_version="0.1.12"
 
-rd /s /q translations_temp
+rd /s /q translations_temp 2>nul
 md translations_temp
 
 echo Ten skrypt kopiuje pliki jezykowe z ".../EUIV/localisation/" oraz konwertuje je na format YAML. Przekonwertowane pliki zostana przeniesione do "translations/en/".
