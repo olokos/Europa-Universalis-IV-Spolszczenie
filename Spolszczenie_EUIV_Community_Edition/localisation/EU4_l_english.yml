@@ -1073,7 +1073,7 @@
  MIL_SCORE_DISCIPLINE:0 "Dyscyplina: $VAL$\n"
  MIL_SCORE_QUALITY:0 "Jakoœ¾ wojska: $VAL$\n"
  MIL_SCORE_MEN:0 "¯o³nierze: $VAL$\n"
- MIL_SCORE_MORALE:0 "Morale wojsk l¹dowych: §G+$VAL$§!\n"
+ MIL_SCORE_MORALE:0 "Morale armii l¹dowej: §G+$VAL$§!\n"
  MIL_SCORE_IDEAGROUPS:0 "Idee wojskowe: $VAL$\n"
  NO_MORALE_HIT:0 "Nie ma kary wp³ywaj¹cej na morale, gdy utrzymanie ma maksymalny poziom."
  MIN_ATTRITION_IN_SIEGE:0 "Ze wzgl²du na obl²¿enie: $VAL$\n"
