@@ -4,7 +4,7 @@
  MODIFIER_WARSCORE_COST_VS_OTHER_RELIGION: "Koszt wyniku wojny wobec innych religii"
  MODIFIER_MERCENARY_DISCIPLINE: "Dyscyplina najemników"
  MODIFIER_ARTILLERY_BONUS_VS_FORT: "Premia artylerii wobec fortu"
- MODIFIER_ARTILLERY_LEVELS_AVAILABLE_VS_FORT: ""
+ MODIFIER_ARTILLERY_LEVELS_AVAILABLE_VS_FORT: "Dostępne poziomy artylerii wobec fortu"
  MODIFIER_DIPLOMATIC_UPKEEP: "Stosunki dyplomatyczne"
  MONTHLY_SPLENDOR: "Miesięczny splendor"
  MODIFIER_CLAIM_DURATION: "Długotrwałość roszczenia"

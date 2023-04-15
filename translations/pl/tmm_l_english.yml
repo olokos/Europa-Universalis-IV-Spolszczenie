@@ -910,7 +910,7 @@
  REDUCE_OPINION_CANNOT_TRADE_LEAGUE: ""
  CONFIRM_STOP_DRILLING_TITLE: "Potwierdź zaprzestanie musztry."
  CONFIRM_STOP_DRILLING_TEXT: ""
- FROM_INSUFFICIENT_SUPPORT: "Z powodu niewystarczającego wsparcia: §R$VALUE$§W"
+ FROM_INSUFFICIENT_SUPPORT: "Z powodu niedostatecznego wsparcia: §R$VALUE$§W"
  gave_away_province: "Oddaliśmy naszą prowincję"
  SUPPORT_REBELS_POWER_PROJECTION: ""
  LONG_EU3_DATE_STRING: "$DD$ $MONTH$ $YYYY$"
