@@ -910,7 +910,7 @@
  REDUCE_OPINION_CANNOT_TRADE_LEAGUE:0 "We are in the same Trade League as $WHOM$."
  CONFIRM_STOP_DRILLING_TITLE:0 "PotwierdŸ zaprzestanie musztry."
  CONFIRM_STOP_DRILLING_TEXT:0 "Are you sure you wish to stop drilling and attach to $ARMY$?"
- FROM_INSUFFICIENT_SUPPORT:0 "Z powodu niewystarczaj¹cego wsparcia: §R$VALUE$§W"
+ FROM_INSUFFICIENT_SUPPORT:0 "Z powodu niedostatecznego wsparcia: §R$VALUE$§W"
  gave_away_province:0 "Oddaliœmy nasz¹ prowincj²"
  SUPPORT_REBELS_POWER_PROJECTION:0 "Because $WHO|Y$ are our rivals, you will gain $VALUE|Y$ Power Projection."
  LONG_EU3_DATE_STRING:0 "$DD$ $MONTH$ $YYYY$"

@@ -118,7 +118,7 @@
  FRONTEND_COUNTRY_FORTS_DESC:0 "Ca³kowity poziom wszystkich fortyfikacji w §Y$COUNTRY$§!. Im wy¿szy poziom fortyfikacji, tym trudniejsza b²dzie inwazja na paªstwo."
  WARSCORE_COST_VAL:0 "Koszt prowincji w punktach wojennych: §Y$VALUE$%§!"
  WARSCORE_COST_DESC:0 "W trakcie negocjowania losów prowincji podczas wojny, koszt mo¿e si² zmieni¾ w zale¿noœci od celu wojennego."
- WARSCORE_COST_DEMAND_PROVINCE_FACTOR:0 "This is further modified by $PERCENT|%=-0$ for the cost of taking a province."
+ WARSCORE_COST_DEMAND_PROVINCE_FACTOR:0 "Jest to dodatkowo modyfikowane o wartoœ¾ $PERCENT|%=-0$ do kosztu zaj²cia prowincji."
  WARSCORE_COST_BASE:0 "Podstawa: $VALUE$\n"
  WARSCORE_COST_DEV:0 "Z rozwoju: $VALUE$\n"
  WARSCORE_COST_CAPITAL:0 "Kapita³: $VALUE$\n"

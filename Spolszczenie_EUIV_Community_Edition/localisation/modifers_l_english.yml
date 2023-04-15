@@ -4,7 +4,7 @@
  MODIFIER_WARSCORE_COST_VS_OTHER_RELIGION:0 "Koszt wyniku wojny wobec innych religii"
  MODIFIER_MERCENARY_DISCIPLINE:0 "Dyscyplina najemników"
  MODIFIER_ARTILLERY_BONUS_VS_FORT:0 "Premia artylerii wobec fortu"
- MODIFIER_ARTILLERY_LEVELS_AVAILABLE_VS_FORT:0 "Artillery Levels Available vs Fort"
+ MODIFIER_ARTILLERY_LEVELS_AVAILABLE_VS_FORT:0 "Dost²pne poziomy artylerii wobec fortu"
  MODIFIER_DIPLOMATIC_UPKEEP:0 "Stosunki dyplomatyczne"
  MONTHLY_SPLENDOR:0 "Miesi²czny splendor"
  MODIFIER_CLAIM_DURATION:0 "D³ugotrwa³oœ¾ roszczenia"
