@@ -1,0 +1,13 @@
+﻿l_english:
+ add_or_upgrade_trade_building_tt: ""
+ add_or_upgrade_tax_building_tt: ""
+ add_or_upgrade_production_building_tt: ""
+ add_or_upgrade_dock_building_tt: ""
+ add_or_upgrade_shipyard_building_tt: ""
+ add_or_upgrade_manpower_building_tt: ""
+ add_or_upgrade_forcelimit_building_tt: ""
+ add_or_upgrade_university_building_tt: ""
+ add_or_upgrade_courthouse_building_tt: ""
+ add_or_upgrade_fort_building_tt: ""
+ ME_yes: ""
+ ME_no: ""

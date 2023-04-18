@@ -11,7 +11,7 @@
  achievement_lion_of_the_north_tooltip: "Jako lider Ligi Protestanckiej wygrano wojnę związkową przeciwko Cesarzowi."
  achievement_even_better_than_piet_heyn_tooltip: "Zdobyto ponad 100 złota, łupiąc flotę skarbów."
  achievement_on_the_edge_of_madness_tooltip_95_doom: "Osiągnij 95 punktów Zagłady na 20 lat, nie docierając do 100."
- achievement_magellans_voyage_tooltip: "Opłynięto świat jako pierwszy kraj."
+ achievement_magellans_voyage_tooltip: ""
  voting_streak: "Udało się przeprowadzić ustawy przez parlament."
  achievement_the_continuation_of_diplomacy_tooltip: "Pozyskano prowincję na drodze ultimatum."
  achievement_time_bandit_tooltip: "Wykradziono innemu państwu mapy."
@@ -61,3 +61,4 @@
  achievement_purify_the_temple_tooltip: "Użyto §Ynajazdu na kościół heretyków§! przeciwko państwu §Y[118.Owner.GetName]§! i najechał na kościół w prowincji §Y[118.GetName]§!."
  has_celebrated_festival_tooltip: "Obchodzono festiwal."
  achievement_the_freest_man_in_the_world_tooltip: "Żadna skolonizowana prowincja na świecie nie produkuje §Yniewolników§!."
+ achievement_mehmet_ambition_tooltip: ""

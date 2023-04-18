@@ -92,7 +92,7 @@
  dutch_republic.13.b: "Sceduj część władzy, by zapewnić stabilne więzy."
  dutch_republic.14.t: "Szlacheckie Więzi w Armii"
  dutch_republic.14.da: "Rządzącym etatystom udało się zwiększyć przedstawicielski charakter instytucji państwa [Root.GetName], lecz jeden organ kraju opiera się wprowadzanym zmianom. To armia. Pewien generał, należący do arystokratycznej rodziny silnie związanej z dynastią orańską, podkopuje nasze próby usunięcia orańskich lojalistów z wysokich pozycji wojskowych.\n\nOstatnio posunął się jeszcze dalej, żądając, by jego krewny - również oranżysta - został zatrudniony jako doradca stadthoudera. Choć ów młodzieniec wydaje się uzdolnionym komendantem, wzbraniamy się przed powierzeniem mu takich wpływów."
- dutch_republic.14.db: "Rządzącym etatystom udało się zwiększyć przedstawicielski charakter instytucji państwa [Root.GetName], lecz jeden organ kraju opiera się wprowadzanym zmianom. To armia. Pewien generał z arystokratycznej rodziny, z którą [Root.Monarch.Dynasty.GetName] utrzymują silne związki, podkopuje nasze próby usunięcia lojalistów z wysokich pozycji wojskowych.\n\nOstatnio posunął się jeszcze dalej, żądając, by [Root.Monarch.GetTitle] zatrudnił w roli doradcy jego krewnego - również monarchistę. Choć ów młodzieniec wydaje się uzdolnionym dowódcą, wzbraniamy się przed powierzeniem mu takich wpływów."
+ dutch_republic.14.db: ""
  dutch_republic.14.a: "Posłać tego generała gdzieś, skąd już nie wróci."
  dutch_republic.14.b: "Niech ów komendant nas odwiedzi, a przekonamy się, ile jest wart."
  dutch_republic.15.t: "Szlachta skłania się ku księciu kraju [Root.GetName]"

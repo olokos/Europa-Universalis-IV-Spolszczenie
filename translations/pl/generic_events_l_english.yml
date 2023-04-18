@@ -3306,6 +3306,8 @@
  EVTNAME9075: "Renovatio Imperii Romanorum"
  EVTDESC9075: "Cesarskie sztandary znów łopocą na wietrze. Mamy rok Pański [GetYear], w którym najjaśniejszy Augustus [Emperor.Monarch.GetName], Imperator Romanorum, koronowany przez Boga Wszechmogącego, włada posiadłościami Świętego Cesarstwa Rzymskiego. Cesarskiemu sejmowi przedstawiona została ustawa, dotycząca ponownej koronacji [Emperor.GetRulerGen]."
  EVTOPTA9075: "Pretensje do korony!"
+ hre_core_tt: ""
+ hre_inheritance_tt: ""
  EVTNAME9076: "Renovatio Imperii Romanorum"
  EVTDESC9076: "Reforma przeszła i nasz czas jako niepodległe państwo dobiegł końca. Jedynym naszym wyborem jest oddać hołd Cesarzowi, bądź postawić się mu, doprowadzając do wojny."
  EVTOPTA9076: "Ave Caesar!"

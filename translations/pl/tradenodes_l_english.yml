@@ -35,7 +35,7 @@
  TRADE_NODE_LOCATION_NOT_YET_DISCOVERED: "Położenie węzła handlowego nie zostało jeszcze odkryte."
  TRADE_MULTI_EXPLA: "Mnożnik §Y$MUL$§! z tytułu modyfikatora siły handlowej o wartości $VAL$ w tym węźle."
  TRADE_POWER_CAPITAL: "Główne miasto handlowe w okolicy: $VAL$"
- TRADE_POWER_TAKE: "Kupcy z §Y$COUNTRY$§W pobierają §Y$VAL$§W¤ z tego węzła handlowego."
+ TRADE_POWER_TAKE: ""
  TRADE_POWER_PIRATES_TAKE: "§Y$COUNTRY$§W pobiera §Y$VAL$§W¤ z tego węzła handlowego."
  TRADE_POWER_TAKE_STATE: "Udaje im się z tego wytworzyć dla państwa przychód w wysokości §Y$VALOTHER$§W¤."
  TRADE_POWER_PUSH: "§Y$COUNTRY$§W korzysta ze swojej siły handlowej, by skierować §Y$VAL$§W¤ dalej."
