@@ -155,6 +155,27 @@ source_file = translations/en/diplomatic_action_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
+[o:europa-universalis-iv-community-translation:p:Community-edition:r:domination-additional-content-l-english]
+file_filter = translations/<lang>/domination_additional_content_l_english.yml
+minimum_perc = 0
+source_file = translations/en/domination_additional_content_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[o:europa-universalis-iv-community-translation:p:Community-edition:r:domination-l-english]
+file_filter = translations/<lang>/domination_l_english.yml
+minimum_perc = 0
+source_file = translations/en/domination_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[o:europa-universalis-iv-community-translation:p:Community-edition:r:dominationmusic-l-english]
+file_filter = translations/<lang>/dominationmusic_l_english.yml
+minimum_perc = 0
+source_file = translations/en/dominationmusic_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
 [o:europa-universalis-iv-community-translation:p:Community-edition:r:eldorado-l-english-yml]
 file_filter = translations/<lang>/eldorado_l_english.yml
 minimum_perc = 0
@@ -208,6 +229,13 @@ type = YAML_GENERIC
 file_filter = translations/<lang>/emperor_revolutions_l_english.yml
 minimum_perc = 0
 source_file = translations/en/emperor_revolutions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[o:europa-universalis-iv-community-translation:p:Community-edition:r:estate-actions-l-english]
+file_filter = translations/<lang>/estate_actions_l_english.yml
+minimum_perc = 0
+source_file = translations/en/estate_actions_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
@@ -274,6 +302,13 @@ source_file = translations/en/gecko_1_34_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
+[o:europa-universalis-iv-community-translation:p:Community-edition:r:gecko-1-35-l-english-yml]
+file_filter = translations/<lang>/gecko_1_35_l_english.yml
+minimum_perc = 0
+source_file = translations/en/gecko_1_35_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
 [o:europa-universalis-iv-community-translation:p:Community-edition:r:generic-events-l-english-yml]
 file_filter = translations/<lang>/generic_events_l_english.yml
 minimum_perc = 0
@@ -285,6 +320,13 @@ type = YAML_GENERIC
 file_filter = translations/<lang>/golden_century_l_english.yml
 minimum_perc = 0
 source_file = translations/en/golden_century_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[o:europa-universalis-iv-community-translation:p:Community-edition:r:gecko-1-35-l-english]
+file_filter = translations/<lang>/gecko_1_35_l_english.yml
+minimum_perc = 0
+source_file = translations/en/gecko_1_35_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
@@ -544,6 +586,13 @@ type = YAML_GENERIC
 file_filter = translations/<lang>/origins_l_english.yml
 minimum_perc = 0
 source_file = translations/en/origins_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[o:europa-universalis-iv-community-translation:p:Community-edition:r:other-scripted-effect-l-english]
+file_filter = translations/<lang>/other_scripted_effect_l_english.yml
+minimum_perc = 0
+source_file = translations/en/other_scripted_effect_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
