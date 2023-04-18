@@ -1,7 +1,7 @@
 @echo off
 :: SCRIPT SETTINGS
 set charset="polish"
-set parser_version="0.1.12"
+set parser_version="0.1.13"
 
 rd /s /q translations_temp 2>nul
 md translations_temp

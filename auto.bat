@@ -2,7 +2,7 @@
 set language="pl"
 set charset="polish"
 set project_folder="Spolszczenie_EUIV_Community_Edition"
-set parser_version="0.1.12"
+set parser_version="0.1.13"
 
 :: LOGIC
 echo "Starting conversion of translated files from Transifex into the EU4 format for workshop delivery and automated mod building."
