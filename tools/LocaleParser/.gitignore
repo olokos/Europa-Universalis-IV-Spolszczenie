@@ -3,7 +3,7 @@
 
 ### Eclipse ###
 .metadata
-bin/
+# bin/ # we actually use this bin directory for release binaries for EUIV
 tmp/
 *.tmp
 *.bak
