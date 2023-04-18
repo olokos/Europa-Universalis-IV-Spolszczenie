@@ -3306,6 +3306,8 @@
  EVTNAME9075:0 "Renovatio Imperii Romanorum"
  EVTDESC9075:0 "Cesarskie sztandary znów ³opoc¹ na wietrze. Mamy rok Paªski [GetYear], w którym najjaœniejszy Augustus [Emperor.Monarch.GetName], Imperator Romanorum, koronowany przez Boga Wszechmog¹cego, w³ada posiad³oœciami Œwi²tego Cesarstwa Rzymskiego. Cesarskiemu sejmowi przedstawiona zosta³a ustawa, dotycz¹ca ponownej koronacji [Emperor.GetRulerGen]."
  EVTOPTA9075:0 "Pretensje do korony!"
+ hre_core_tt:0 "§Y[Root.GetName]§! gains a core on every province of the Empire, which is NOT owned by a member of the Empire."
+ hre_inheritance_tt:0 "Every member of the §YHoly Roman Empire§! will be asked to join §Y[Root.GetName]§!."
  EVTNAME9076:0 "Renovatio Imperii Romanorum"
  EVTDESC9076:0 "Reforma przesz³a i nasz czas jako niepodleg³e paªstwo dobieg³ koªca. Jedynym naszym wyborem jest odda¾ ho³d Cesarzowi, b¹dŸ postawi¾ si² mu, doprowadzaj¹c do wojny."
  EVTOPTA9076:0 "Ave Caesar!"

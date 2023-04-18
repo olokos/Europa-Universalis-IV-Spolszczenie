@@ -94,7 +94,7 @@
  BENEFIT_FOR_EMPEROR:0 "Cesarz otrzymuje:\n$MODIFIER$"
  BENEFIT_FOR_EMPEROR_PER_PRINCE:0 "Cesarz otrzymuje (zale¿nie od iloœci ksi¹¿¹t):\n$MODIFIER$"
  BENEFIT_FOR_ELECTOR_PER_PRINCE:0 "Elektorzy otrzymuj¹ (zale¿nie od iloœci ksi¹¿¹t):\n$MODIFIER$"
- BENEFIT_FOR_MEMBER:0 "Ksi¹¿²ta i wolne miasta otrzymuj¹:\n$MODIFIER$"
+ BENEFIT_FOR_MEMBER:0 "All members except the Emperor get:\n$MODIFIER$"
  BENEFIT_FOR_EVERYONE:0 "Wszyscy w imperium otrzymuj¹:\n$MODIFIER$"
  DIPIRO_SUPPORTING_INDEPENDENCE:0 "Wspiera niepodleg³oœ¾ kraju §Y$NAME$§!."
  DIPIRO_INDEPENDENCE_SUPPORTED:0 "Kraj §Y$NAME$§! wspiera nasz¹ niepodleg³oœ¾."

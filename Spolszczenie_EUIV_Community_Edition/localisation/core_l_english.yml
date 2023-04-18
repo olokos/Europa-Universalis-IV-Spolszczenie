@@ -144,7 +144,7 @@
  GALLEY:0 "Galera"
  TRANSPORT:0 "Transportowiec"
  CONVREL_PAPACY:0 "Paªstwo Koœcielne nie mo¿e nawróci¾ si² na inn¹ religi²."
- AND_MONTHLY_THE_FOLLOWING:0 "I zmienia si² co miesi¹c o $VAL|Y1$ z powodu nast²puj¹cych czynników:\n$DESC$"
+ AND_MONTHLY_THE_FOLLOWING:0 "And changes by $VAL|Y1$ each month due to:\n$DESC$"
  PIETY_DESCRIPTION:0 "Pobo¿noœ¾ odzwierciedla rodzaj zaanga¿owania religijnego, jakie twój w³adca promuje w paªstwie. Waha si² ono pomi²dzy wartoœciami -100 (§YMistycyzm§!) a 100 (§YLegalizm§!).\nNa pobo¿noœ¾ twojego w³adcy maj¹ wp³yw rozmaite dzia³ania. Mo¿e si² ona zmieni¾ w wyniku wydarzenia, roœnie w przypadku wydania wojny niewiernym, a maleje, jeœli wypowiemy wojn² wspó³braciom w wierze."
  PIETY_DESCRIPTION_ESTATES:0 "\nPobo¿noœ¾ w³adcy wp³ywa na lojalnoœ¾ twoich stanów."
  KARMA_DESC2:0 "Karma odzwierciedla szlachetnoœ¾ twoich czynów w oczach Buddy. B²dzie rosn¹¾ lub spada¾, w zale¿noœci od moralnoœci twojego post²powania. W³adca, którego karma osi¹gnie kraªcow¹ wartoœ¾, utraci kontakt z rzeczywistoœci¹; zbyt wysoka karma oznacza utrat² zaufania ¿o³nierzy, a zbyt niska - nieskutecznoœ¾ na arenie dyplomatycznej. Paªstwa, których dotyczy karma, nie p³ac¹ punktów dyplomatycznych za zwracanie prowincji narodowych oraz wyzwalanie paªstw i wasali w ramach traktatów pokojowych."
