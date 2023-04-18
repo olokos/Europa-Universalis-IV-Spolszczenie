@@ -23,7 +23,7 @@ object CreateShortCommand : Command {
             return false
         }
 
-        val format = args[2].toLowerCase()
+        val format = args[2].lowercase()
         if (format != "eu4" && format != "euiv" && format != "yaml" && format != "yml") {
             logger.error("Incorrect format type \"$format\". Should be one of the two: \"eu4\", \"yaml\".")
             return false
