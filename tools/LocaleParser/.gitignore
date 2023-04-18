@@ -16,3 +16,4 @@ log/
 target/
 
 LocaleParser.iml
+!.idea/LocaleParser.iml
