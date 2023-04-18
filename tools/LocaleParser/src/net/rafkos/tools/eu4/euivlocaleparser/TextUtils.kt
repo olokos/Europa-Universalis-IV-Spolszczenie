@@ -47,13 +47,29 @@ object TextUtils {
 
     /**
      * Due to inconsistent yaml format in Paradox games the comments are supported at the beginning of the text only.
+     *
+     * Example url comment:
+     *  "De Architectura" #https://en.wikipedia.org/wiki/French_Renaissance_architecture#Religious_architecture
+     *
+     * Example category comment:
+     * "Have at least $VALUE|Y$ $CATEGORY$ $TYPE$.\n" #category = musketeer, tercio, streltsy etc; type = infantry, cavalry etc
+     *
      */
     private fun removeCommentsInEU4Format(text: String): String {
         val trimmed = text.trim()
-        if (trimmed.length == 0) return ""
-        return when (trimmed[0]) {
+
+        // Remove url comment
+        val patternUrlComment = Regex(" #https://\\S+")
+        val withoutUrlComment = trimmed.replace(patternUrlComment, "")
+
+        // Remove category comment
+        val patternCategoryComment = Regex(" #category = .+")
+        val withoutCategoryComment = withoutUrlComment.replace(patternCategoryComment, "")
+
+        if (withoutCategoryComment.isEmpty()) return ""
+        return when (withoutCategoryComment[0]) {
             '#' -> ""
-            else -> text
+            else -> withoutCategoryComment
         }
     }
 }
