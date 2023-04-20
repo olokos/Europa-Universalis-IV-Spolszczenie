@@ -2074,7 +2074,7 @@ guiTypes = {
 			Orientation = "UPPER_LEFT"
 		}
 	}
-	
+
 	windowType = {
 		name = "countrytechnologyview_requiredinstitution"
 		backGround =""
