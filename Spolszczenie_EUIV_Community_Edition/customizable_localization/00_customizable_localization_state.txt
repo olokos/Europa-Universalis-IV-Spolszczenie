@@ -24,6 +24,12 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_govtname_ins
+		trigger = {
+			NOT = {
+				government = monarchy
+				government = republic
+			}
+		}
 	}
 }
 
@@ -53,6 +59,12 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_govtname_gen
+		trigger = {
+			NOT = {
+				government = monarchy
+				government = republic
+			}
+		}
 	}
 }
 
@@ -63,12 +75,14 @@ defined_text = {
 	text = {
 		localisation_key = string_meritocracy_acc
 		trigger = {
-			has_reform = celestial_empire
-			has_dlc = "Mandate of Heaven"
+			uses_meritocracy = yes
 		}
 	}
 	
 	text = {
+		trigger = {
+			uses_meritocracy = no
+		}
 		localisation_key = string_legitimacy_acc
 	}
 }
@@ -168,8 +182,8 @@ defined_text = {
 		}
 	}
 	text = {
-        localisation_key = string_official_acc
-        trigger = {
+		localisation_key = string_official_acc
+		trigger = {
 			NOT = { religion_group = muslim }
 			NOT = {
 				culture_group = east_asian
@@ -180,10 +194,11 @@ defined_text = {
 				culture_group = central_indic
 				culture_group = south_slavic
 				culture_group = british
+				culture = anglois
 				culture_group = french
 				culture_group = germanic
 			}
-        }
+        	}
 	}
 }
 

@@ -63,6 +63,7 @@ defined_text = {
 					culture_group = east_slavic
 					culture_group = south_slavic
 					culture_group = west_slavic
+					culture_group = slavic
 				}
 			}
 		}
@@ -241,6 +242,9 @@ defined_text = {
 				culture_group = east_slavic
 				primary_culture = bulgarian
 				primary_culture = romanian
+				culture_group = slavic
+			}
+			NOT = { primary_culture = polish_new }
 			}
 		}
 	}
@@ -249,6 +253,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				primary_culture = polish
+				primary_culture = polish_new
 				primary_culture = lithuanian
 			}
 		}
@@ -286,7 +291,10 @@ defined_text = {
 	text = {
 		localisation_key = string_estate_mansabdars
 		trigger = {
-			tag = MUG
+			OR = {
+				tag = MUG
+				has_government_attribute = enable_mansabdar_privileges
+			}
 		}
 	}
 	text = {
@@ -332,6 +340,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				has_reform = prussian_republic_reform
+				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
 				tag = GER
 			}
@@ -419,13 +428,6 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_estate_neoconfucian_reformers
-		trigger = {
-			tag = KOR
-			religion = confucianism
-		}
-	}
-	text = {
 		localisation_key = string_estate_pochteca
 		trigger = {
 			religion = nahuatl
@@ -434,7 +436,14 @@ defined_text = {
 	text = {
 		localisation_key = string_estate_merchant_guilds
 		trigger = {
-			NOT = { religion_group = christian }
+			OR = {
+				religion_group = muslim
+				religion_group = eastern
+				religion_group = dharmic
+				religion_group = pagan
+				religion_group = jewish_group
+				religion_group = zoroastrian_group
+			}
 		}
 	}
 	text = {
@@ -556,6 +565,7 @@ defined_text = {
 					culture_group = east_slavic
 					culture_group = south_slavic
 					culture_group = west_slavic
+					culture_group = slavic
 				}
 			}
 		}
@@ -734,6 +744,9 @@ defined_text = {
 				culture_group = east_slavic
 				primary_culture = bulgarian
 				primary_culture = romanian
+				culture_group = slavic
+			}
+			NOT = { primary_culture = polish_new }
 			}
 		}
 	}
@@ -742,6 +755,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				primary_culture = polish
+				primary_culture = polish_new
 				primary_culture = lithuanian
 			}
 		}
@@ -779,7 +793,10 @@ defined_text = {
 	text = {
 		localisation_key = string_gen_estate_mansabdars
 		trigger = {
-			tag = MUG
+			OR = {
+				tag = MUG
+				has_government_attribute = enable_mansabdar_privileges
+			}
 		}
 	}
 	text = {
@@ -825,6 +842,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				has_reform = prussian_republic_reform
+				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
 				tag = GER
 			}
@@ -912,13 +930,6 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_gen_estate_neoconfucian_reformers
-		trigger = {
-			tag = KOR
-			religion = confucianism
-		}
-	}
-	text = {
 		localisation_key = string_gen_estate_pochteca
 		trigger = {
 			religion = nahuatl
@@ -927,7 +938,14 @@ defined_text = {
 	text = {
 		localisation_key = string_gen_estate_merchant_guilds
 		trigger = {
-			NOT = { religion_group = christian }
+			OR = {
+				religion_group = muslim
+				religion_group = eastern
+				religion_group = dharmic
+				religion_group = pagan
+				religion_group = jewish_group
+				religion_group = zoroastrian_group
+			}
 		}
 	}
 	text = {
@@ -1048,6 +1066,7 @@ defined_text = {
 					culture_group = east_slavic
 					culture_group = south_slavic
 					culture_group = west_slavic
+					culture_group = slavic
 				}
 			}
 		}
@@ -1226,6 +1245,9 @@ defined_text = {
 				culture_group = east_slavic
 				primary_culture = bulgarian
 				primary_culture = romanian
+				culture_group = slavic
+			}
+			NOT = { primary_culture = polish_new }
 			}
 		}
 	}
@@ -1234,6 +1256,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				primary_culture = polish
+				primary_culture = polish_new
 				primary_culture = lithuanian
 			}
 		}
@@ -1271,7 +1294,10 @@ defined_text = {
 	text = {
 		localisation_key = string_dat_estate_mansabdars
 		trigger = {
-			tag = MUG
+			OR = {
+				tag = MUG
+				has_government_attribute = enable_mansabdar_privileges
+			}
 		}
 	}
 	text = {
@@ -1317,6 +1343,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				has_reform = prussian_republic_reform
+				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
 				tag = GER
 			}
@@ -1404,13 +1431,6 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_dat_estate_neoconfucian_reformers
-		trigger = {
-			tag = KOR
-			religion = confucianism
-		}
-	}
-	text = {
 		localisation_key = string_dat_estate_pochteca
 		trigger = {
 			religion = nahuatl
@@ -1419,7 +1439,14 @@ defined_text = {
 	text = {
 		localisation_key = string_dat_estate_merchant_guilds
 		trigger = {
-			NOT = { religion_group = christian }
+			OR = {
+				religion_group = muslim
+				religion_group = eastern
+				religion_group = dharmic
+				religion_group = pagan
+				religion_group = jewish_group
+				religion_group = zoroastrian_group
+			}
 		}
 	}
 	text = {
@@ -1541,6 +1568,7 @@ defined_text = {
 					culture_group = east_slavic
 					culture_group = south_slavic
 					culture_group = west_slavic
+					culture_group = slavic
 				}
 			}
 		}
@@ -1719,6 +1747,9 @@ defined_text = {
 				culture_group = east_slavic
 				primary_culture = bulgarian
 				primary_culture = romanian
+				culture_group = slavic
+			}
+			NOT = { primary_culture = polish_new }
 			}
 		}
 	}
@@ -1727,6 +1758,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				primary_culture = polish
+				primary_culture = polish_new
 				primary_culture = lithuanian
 			}
 		}
@@ -1764,7 +1796,10 @@ defined_text = {
 	text = {
 		localisation_key = string_ins_estate_mansabdars
 		trigger = {
-			tag = MUG
+			OR = {
+				tag = MUG
+				has_government_attribute = enable_mansabdar_privileges
+			}
 		}
 	}
 	text = {
@@ -1810,6 +1845,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				has_reform = prussian_republic_reform
+				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
 				tag = GER
 			}
@@ -1897,13 +1933,6 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_ins_estate_neoconfucian_reformers
-		trigger = {
-			tag = KOR
-			religion = confucianism
-		}
-	}
-	text = {
 		localisation_key = string_ins_estate_pochteca
 		trigger = {
 			religion = nahuatl
@@ -1912,7 +1941,14 @@ defined_text = {
 	text = {
 		localisation_key = string_ins_estate_merchant_guilds
 		trigger = {
-			NOT = { religion_group = christian }
+			OR = {
+				religion_group = muslim
+				religion_group = eastern
+				religion_group = dharmic
+				religion_group = pagan
+				religion_group = jewish_group
+				religion_group = zoroastrian_group
+			}
 		}
 	}
 	text = {
@@ -2035,6 +2071,7 @@ defined_text = {
 					culture_group = east_slavic
 					culture_group = south_slavic
 					culture_group = west_slavic
+					culture_group = slavic
 				}
 			}
 		}
@@ -2213,6 +2250,9 @@ defined_text = {
 				culture_group = east_slavic
 				primary_culture = bulgarian
 				primary_culture = romanian
+				culture_group = slavic
+			}
+			NOT = { primary_culture = polish_new }
 			}
 		}
 	}
@@ -2221,6 +2261,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				primary_culture = polish
+				primary_culture = polish_new
 				primary_culture = lithuanian
 			}
 		}
@@ -2258,7 +2299,10 @@ defined_text = {
 	text = {
 		localisation_key = string_estate_mansabdars_Cap
 		trigger = {
-			tag = MUG
+			OR = {
+				tag = MUG
+				has_government_attribute = enable_mansabdar_privileges
+			}
 		}
 	}
 	text = {
@@ -2304,6 +2348,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				has_reform = prussian_republic_reform
+				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
 				tag = GER
 			}
@@ -2391,13 +2436,6 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_estate_neoconfucian_reformers_Cap
-		trigger = {
-			tag = KOR
-			religion = confucianism
-		}
-	}
-	text = {
 		localisation_key = string_estate_pochteca_Cap
 		trigger = {
 			religion = nahuatl
@@ -2406,7 +2444,14 @@ defined_text = {
 	text = {
 		localisation_key = string_estate_merchant_guilds_Cap
 		trigger = {
-			NOT = { religion_group = christian }
+			OR = {
+				religion_group = muslim
+				religion_group = eastern
+				religion_group = dharmic
+				religion_group = pagan
+				religion_group = jewish_group
+				religion_group = zoroastrian_group
+			}
 		}
 	}
 	text = {
@@ -2528,6 +2573,7 @@ defined_text = {
 					culture_group = east_slavic
 					culture_group = south_slavic
 					culture_group = west_slavic
+					culture_group = slavic
 				}
 			}
 		}
@@ -2706,6 +2752,9 @@ defined_text = {
 				culture_group = east_slavic
 				primary_culture = bulgarian
 				primary_culture = romanian
+				culture_group = slavic
+			}
+			NOT = { primary_culture = polish_new }
 			}
 		}
 	}
@@ -2714,6 +2763,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				primary_culture = polish
+				primary_culture = polish_new
 				primary_culture = lithuanian
 			}
 		}
@@ -2751,7 +2801,10 @@ defined_text = {
 	text = {
 		localisation_key = string_gen_estate_mansabdars_Cap
 		trigger = {
-			tag = MUG
+			OR = {
+				tag = MUG
+				has_government_attribute = enable_mansabdar_privileges
+			}
 		}
 	}
 	text = {
@@ -2797,6 +2850,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				has_reform = prussian_republic_reform
+				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
 				tag = GER
 			}
@@ -2890,16 +2944,16 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_gen_estate_neoconfucian_reformers_Cap
-		trigger = {
-			tag = KOR
-			religion = confucianism
-		}
-	}
-	text = {
 		localisation_key = string_gen_estate_merchant_guilds_Cap
 		trigger = {
-			NOT = { religion_group = christian }
+			OR = {
+				religion_group = muslim
+				religion_group = eastern
+				religion_group = dharmic
+				religion_group = pagan
+				religion_group = jewish_group
+				religion_group = zoroastrian_group
+			}
 		}
 	}
 	text = {
@@ -3020,6 +3074,7 @@ defined_text = {
 					culture_group = east_slavic
 					culture_group = south_slavic
 					culture_group = west_slavic
+					culture_group = slavic
 				}
 			}
 		}
@@ -3198,6 +3253,9 @@ defined_text = {
 				culture_group = east_slavic
 				primary_culture = bulgarian
 				primary_culture = romanian
+				culture_group = slavic
+			}
+			NOT = { primary_culture = polish_new }
 			}
 		}
 	}
@@ -3206,6 +3264,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				primary_culture = polish
+				primary_culture = polish_new
 				primary_culture = lithuanian
 			}
 		}
@@ -3243,7 +3302,10 @@ defined_text = {
 	text = {
 		localisation_key = string_dat_estate_mansabdars_Cap
 		trigger = {
-			tag = MUG
+			OR = {
+				tag = MUG
+				has_government_attribute = enable_mansabdar_privileges
+			}
 		}
 	}
 	text = {
@@ -3289,6 +3351,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				has_reform = prussian_republic_reform
+				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
 				tag = GER
 			}
@@ -3376,13 +3439,6 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_dat_estate_neoconfucian_reformers_Cap
-		trigger = {
-			tag = KOR
-			religion = confucianism
-		}
-	}
-	text = {
 		localisation_key = string_dat_estate_pochteca_Cap
 		trigger = {
 			religion = nahuatl
@@ -3391,7 +3447,14 @@ defined_text = {
 	text = {
 		localisation_key = string_dat_estate_merchant_guilds_Cap
 		trigger = {
-			NOT = { religion_group = christian }
+			OR = {
+				religion_group = muslim
+				religion_group = eastern
+				religion_group = dharmic
+				religion_group = pagan
+				religion_group = jewish_group
+				religion_group = zoroastrian_group
+			}
 		}
 	}
 	text = {
@@ -3513,6 +3576,7 @@ defined_text = {
 					culture_group = east_slavic
 					culture_group = south_slavic
 					culture_group = west_slavic
+					culture_group = slavic
 				}
 			}
 		}
@@ -3691,6 +3755,9 @@ defined_text = {
 				culture_group = east_slavic
 				primary_culture = bulgarian
 				primary_culture = romanian
+				culture_group = slavic
+			}
+			NOT = { primary_culture = polish_new }
 			}
 		}
 	}
@@ -3699,6 +3766,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				primary_culture = polish
+				primary_culture = polish_new
 				primary_culture = lithuanian
 			}
 		}
@@ -3736,7 +3804,10 @@ defined_text = {
 	text = {
 		localisation_key = string_ins_estate_mansabdars_Cap
 		trigger = {
-			tag = MUG
+			OR = {
+				tag = MUG
+				has_government_attribute = enable_mansabdar_privileges
+			}
 		}
 	}
 	text = {
@@ -3782,6 +3853,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				has_reform = prussian_republic_reform
+				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
 				tag = GER
 			}
@@ -3869,13 +3941,6 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_ins_estate_neoconfucian_reformers_Cap
-		trigger = {
-			tag = KOR
-			religion = confucianism
-		}
-	}
-	text = {
 		localisation_key = string_ins_estate_pochteca_Cap
 		trigger = {
 			religion = nahuatl
@@ -3884,7 +3949,14 @@ defined_text = {
 	text = {
 		localisation_key = string_ins_estate_merchant_guilds_Cap
 		trigger = {
-			NOT = { religion_group = christian }
+			OR = {
+				religion_group = muslim
+				religion_group = eastern
+				religion_group = dharmic
+				religion_group = pagan
+				religion_group = jewish_group
+				religion_group = zoroastrian_group
+			}
 		}
 	}
 	text = {
@@ -3987,6 +4059,7 @@ defined_text = {
 						culture_group = east_slavic
 						culture_group = south_slavic
 						culture_group = west_slavic
+						culture_group = slavic
 					}
 				}
 				religion = tengri_pagan_reformed
@@ -4100,6 +4173,9 @@ defined_text = {
 				culture_group = east_slavic
 				primary_culture = bulgarian
 				primary_culture = romanian
+				culture_group = slavic
+			}
+			NOT = { primary_culture = polish_new }
 			}
 		}
 	}
@@ -4108,6 +4184,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				primary_culture = polish
+				primary_culture = polish_new
 				primary_culture = lithuanian
 			}
 		}
@@ -4137,7 +4214,10 @@ defined_text = {
 	text = {
 		localisation_key = string_end_japl
 		trigger = {
-			tag = MUG
+			OR = {
+				tag = MUG
+				has_government_attribute = enable_mansabdar_privileges
+			}
 		}
 	}
 	text = {
@@ -4155,6 +4235,7 @@ defined_text = {
 			OR = {
 				culture_group = japanese_g
 				has_reform = prussian_republic_reform
+				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
 				tag = GER
 				tag = USA
@@ -4242,20 +4323,20 @@ defined_text = {
 	text = {
 		localisation_key = string_end_japl
 		trigger = {
-			tag = KOR
-			religion = confucianism
-		}
-	}
-	text = {
-		localisation_key = string_end_japl
-		trigger = {
 			religion = nahuatl
 		}
 	}
 	text = {
 		localisation_key = string_end_japl
 		trigger = {
-			NOT = { religion_group = christian }
+			OR = {
+				religion_group = muslim
+				religion_group = eastern
+				religion_group = dharmic
+				religion_group = pagan
+				religion_group = jewish_group
+				religion_group = zoroastrian_group
+			}
 		}
 	}
 	text = {
@@ -4310,6 +4391,7 @@ defined_text = {
 						culture_group = east_slavic
 						culture_group = south_slavic
 						culture_group = west_slavic
+						culture_group = slavic
 					}
 				}
 				religion = tengri_pagan_reformed
@@ -4424,6 +4506,9 @@ defined_text = {
 				culture_group = east_slavic
 				primary_culture = bulgarian
 				primary_culture = romanian
+				culture_group = slavic
+			}
+			NOT = { primary_culture = polish_new }
 			}
 		}
 	}
@@ -4432,6 +4517,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				primary_culture = polish
+				primary_culture = polish_new
 				primary_culture = lithuanian
 			}
 		}
@@ -4461,7 +4547,10 @@ defined_text = {
 	text = {
 		localisation_key = string_end_apl
 		trigger = {
-			tag = MUG
+			OR = {
+				tag = MUG
+				has_government_attribute = enable_mansabdar_privileges
+			}
 		}
 	}
 	text = {
@@ -4479,6 +4568,7 @@ defined_text = {
 			OR = {
 				culture_group = japanese_g
 				has_reform = prussian_republic_reform
+				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
 				tag = GER
 				tag = USA
@@ -4566,20 +4656,20 @@ defined_text = {
 	text = {
 		localisation_key = string_end_apl
 		trigger = {
-			tag = KOR
-			religion = confucianism
-		}
-	}
-	text = {
-		localisation_key = string_end_apl
-		trigger = {
 			religion = nahuatl
 		}
 	}
 	text = {
 		localisation_key = string_end_apl
 		trigger = {
-			NOT = { religion_group = christian }
+			OR = {
+				religion_group = muslim
+				religion_group = eastern
+				religion_group = dharmic
+				religion_group = pagan
+				religion_group = jewish_group
+				religion_group = zoroastrian_group
+			}
 		}
 	}
 	text = {
@@ -4634,6 +4724,7 @@ defined_text = {
 						culture_group = east_slavic
 						culture_group = south_slavic
 						culture_group = west_slavic
+						culture_group = slavic
 					}
 				}
 				religion = tengri_pagan_reformed
@@ -4748,6 +4839,9 @@ defined_text = {
 				culture_group = east_slavic
 				primary_culture = bulgarian
 				primary_culture = romanian
+				culture_group = slavic
+			}
+			NOT = { primary_culture = polish_new }
 			}
 		}
 	}
@@ -4756,6 +4850,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				primary_culture = polish
+				primary_culture = polish_new
 				primary_culture = lithuanian
 			}
 		}
@@ -4785,7 +4880,10 @@ defined_text = {
 	text = {
 		localisation_key = string_end_ich
 		trigger = {
-			tag = MUG
+			OR = {
+				tag = MUG
+				has_government_attribute = enable_mansabdar_privileges
+			}
 		}
 	}
 	text = {
@@ -4803,6 +4901,7 @@ defined_text = {
 			OR = {
 				culture_group = japanese_g
 				has_reform = prussian_republic_reform
+				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
 				tag = GER
 				tag = USA
@@ -4890,20 +4989,20 @@ defined_text = {
 	text = {
 		localisation_key = string_end_ich
 		trigger = {
-			tag = KOR
-			religion = confucianism
-		}
-	}
-	text = {
-		localisation_key = string_end_ich
-		trigger = {
 			religion = nahuatl
 		}
 	}
 	text = {
 		localisation_key = string_end_ich
 		trigger = {
-			NOT = { religion_group = christian }
+			OR = {
+				religion_group = muslim
+				religion_group = eastern
+				religion_group = dharmic
+				religion_group = pagan
+				religion_group = jewish_group
+				religion_group = zoroastrian_group
+			}
 		}
 	}
 	text = {
@@ -4958,6 +5057,7 @@ defined_text = {
 						culture_group = east_slavic
 						culture_group = south_slavic
 						culture_group = west_slavic
+						culture_group = slavic
 					}
 				}
 				religion = tengri_pagan_reformed
@@ -5072,6 +5172,9 @@ defined_text = {
 				culture_group = east_slavic
 				primary_culture = bulgarian
 				primary_culture = romanian
+				culture_group = slavic
+			}
+			NOT = { primary_culture = polish_new }
 			}
 		}
 	}
@@ -5080,6 +5183,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				primary_culture = polish
+				primary_culture = polish_new
 				primary_culture = lithuanian
 			}
 		}
@@ -5109,7 +5213,10 @@ defined_text = {
 	text = {
 		localisation_key = string_end_ich_Cap
 		trigger = {
-			tag = MUG
+			OR = {
+				tag = MUG
+				has_government_attribute = enable_mansabdar_privileges
+			}
 		}
 	}
 	text = {
@@ -5127,6 +5234,7 @@ defined_text = {
 			OR = {
 				culture_group = japanese_g
 				has_reform = prussian_republic_reform
+				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
 				tag = GER
 				tag = USA
@@ -5214,20 +5322,20 @@ defined_text = {
 	text = {
 		localisation_key = string_end_ich_Cap
 		trigger = {
-			tag = KOR
-			religion = confucianism
-		}
-	}
-	text = {
-		localisation_key = string_end_ich_Cap
-		trigger = {
 			religion = nahuatl
 		}
 	}
 	text = {
 		localisation_key = string_end_ich_Cap
 		trigger = {
-			NOT = { religion_group = christian }
+			OR = {
+				religion_group = muslim
+				religion_group = eastern
+				religion_group = dharmic
+				religion_group = pagan
+				religion_group = jewish_group
+				religion_group = zoroastrian_group
+			}
 		}
 	}
 	text = {
@@ -5282,6 +5390,7 @@ defined_text = {
 						culture_group = east_slavic
 						culture_group = south_slavic
 						culture_group = west_slavic
+						culture_group = slavic
 					}
 				}
 				religion = tengri_pagan_reformed
@@ -5396,6 +5505,9 @@ defined_text = {
 				culture_group = east_slavic
 				primary_culture = bulgarian
 				primary_culture = romanian
+				culture_group = slavic
+			}
+			NOT = { primary_culture = polish_new }
 			}
 		}
 	}
@@ -5404,6 +5516,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				primary_culture = polish
+				primary_culture = polish_new
 				primary_culture = lithuanian
 			}
 		}
@@ -5433,7 +5546,10 @@ defined_text = {
 	text = {
 		localisation_key = string_end_zapl
 		trigger = {
-			tag = MUG
+			OR = {
+				tag = MUG
+				has_government_attribute = enable_mansabdar_privileges
+			}
 		}
 	}
 	text = {
@@ -5451,6 +5567,7 @@ defined_text = {
 			OR = {
 				culture_group = japanese_g
 				has_reform = prussian_republic_reform
+				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
 				tag = GER
 				tag = USA
@@ -5538,20 +5655,20 @@ defined_text = {
 	text = {
 		localisation_key = string_end_zapl
 		trigger = {
-			tag = KOR
-			religion = confucianism
-		}
-	}
-	text = {
-		localisation_key = string_end_zapl
-		trigger = {
 			religion = nahuatl
 		}
 	}
 	text = {
 		localisation_key = string_end_zapl
 		trigger = {
-			NOT = { religion_group = christian }
+			OR = {
+				religion_group = muslim
+				religion_group = eastern
+				religion_group = dharmic
+				religion_group = pagan
+				religion_group = jewish_group
+				religion_group = zoroastrian_group
+			}
 		}
 	}
 	text = {
@@ -5606,6 +5723,7 @@ defined_text = {
 						culture_group = east_slavic
 						culture_group = south_slavic
 						culture_group = west_slavic
+						culture_group = slavic
 					}
 				}
 				religion = tengri_pagan_reformed
@@ -5720,6 +5838,9 @@ defined_text = {
 				culture_group = east_slavic
 				primary_culture = bulgarian
 				primary_culture = romanian
+				culture_group = slavic
+			}
+			NOT = { primary_culture = polish_new }
 			}
 		}
 	}
@@ -5728,6 +5849,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				primary_culture = polish
+				primary_culture = polish_new
 				primary_culture = lithuanian
 			}
 		}
@@ -5757,7 +5879,10 @@ defined_text = {
 	text = {
 		localisation_key = string_end_apl
 		trigger = {
-			tag = MUG
+			OR = {
+				tag = MUG
+				has_government_attribute = enable_mansabdar_privileges
+			}
 		}
 	}
 	text = {
@@ -5775,6 +5900,7 @@ defined_text = {
 			OR = {
 				culture_group = japanese_g
 				has_reform = prussian_republic_reform
+				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
 				tag = GER
 				tag = USA
@@ -5862,20 +5988,20 @@ defined_text = {
 	text = {
 		localisation_key = string_end_apl
 		trigger = {
-			tag = KOR
-			religion = confucianism
-		}
-	}
-	text = {
-		localisation_key = string_end_apl
-		trigger = {
 			religion = nahuatl
 		}
 	}
 	text = {
 		localisation_key = string_end_apl
 		trigger = {
-			NOT = { religion_group = christian }
+			OR = {
+				religion_group = muslim
+				religion_group = eastern
+				religion_group = dharmic
+				religion_group = pagan
+				religion_group = jewish_group
+				religion_group = zoroastrian_group
+			}
 		}
 	}
 	text = {
@@ -5930,6 +6056,7 @@ defined_text = {
 						culture_group = east_slavic
 						culture_group = south_slavic
 						culture_group = west_slavic
+						culture_group = slavic
 					}
 				}
 				religion = tengri_pagan_reformed
@@ -6044,6 +6171,9 @@ defined_text = {
 				culture_group = east_slavic
 				primary_culture = bulgarian
 				primary_culture = romanian
+				culture_group = slavic
+			}
+			NOT = { primary_culture = polish_new }
 			}
 		}
 	}
@@ -6052,6 +6182,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				primary_culture = polish
+				primary_culture = polish_new
 				primary_culture = lithuanian
 			}
 		}
@@ -6081,7 +6212,10 @@ defined_text = {
 	text = {
 		localisation_key = string_end_apl
 		trigger = {
-			tag = MUG
+			OR = {
+				tag = MUG
+				has_government_attribute = enable_mansabdar_privileges
+			}
 		}
 	}
 	text = {
@@ -6099,6 +6233,7 @@ defined_text = {
 			OR = {
 				culture_group = japanese_g
 				has_reform = prussian_republic_reform
+				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
 				tag = GER
 				tag = USA
@@ -6186,20 +6321,20 @@ defined_text = {
 	text = {
 		localisation_key = string_end_apl
 		trigger = {
-			tag = KOR
-			religion = confucianism
-		}
-	}
-	text = {
-		localisation_key = string_end_apl
-		trigger = {
 			religion = nahuatl
 		}
 	}
 	text = {
 		localisation_key = string_end_apl
 		trigger = {
-			NOT = { religion_group = christian }
+			OR = {
+				religion_group = muslim
+				religion_group = eastern
+				religion_group = dharmic
+				religion_group = pagan
+				religion_group = jewish_group
+				religion_group = zoroastrian_group
+			}
 		}
 	}
 	text = {
@@ -6254,6 +6389,7 @@ defined_text = {
 						culture_group = east_slavic
 						culture_group = south_slavic
 						culture_group = west_slavic
+						culture_group = slavic
 					}
 				}
 				religion = tengri_pagan_reformed
@@ -6368,6 +6504,9 @@ defined_text = {
 				culture_group = east_slavic
 				primary_culture = bulgarian
 				primary_culture = romanian
+				culture_group = slavic
+			}
+			NOT = { primary_culture = polish_new }
 			}
 		}
 	}
@@ -6376,6 +6515,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				primary_culture = polish
+				primary_culture = polish_new
 				primary_culture = lithuanian
 			}
 		}
@@ -6405,7 +6545,10 @@ defined_text = {
 	text = {
 		localisation_key = string_end_im
 		trigger = {
-			tag = MUG
+			OR = {
+				tag = MUG
+				has_government_attribute = enable_mansabdar_privileges
+			}
 		}
 	}
 	text = {
@@ -6423,6 +6566,7 @@ defined_text = {
 			OR = {
 				culture_group = japanese_g
 				has_reform = prussian_republic_reform
+				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
 				tag = GER
 				tag = USA
@@ -6510,20 +6654,20 @@ defined_text = {
 	text = {
 		localisation_key = string_end_im
 		trigger = {
-			tag = KOR
-			religion = confucianism
-		}
-	}
-	text = {
-		localisation_key = string_end_im
-		trigger = {
 			religion = nahuatl
 		}
 	}
 	text = {
 		localisation_key = string_end_im
 		trigger = {
-			NOT = { religion_group = christian }
+			OR = {
+				religion_group = muslim
+				religion_group = eastern
+				religion_group = dharmic
+				religion_group = pagan
+				religion_group = jewish_group
+				religion_group = zoroastrian_group
+			}
 		}
 	}
 	text = {
@@ -6578,6 +6722,7 @@ defined_text = {
 						culture_group = east_slavic
 						culture_group = south_slavic
 						culture_group = west_slavic
+						culture_group = slavic
 					}
 				}
 				religion = tengri_pagan_reformed
@@ -6692,6 +6837,9 @@ defined_text = {
 				culture_group = east_slavic
 				primary_culture = bulgarian
 				primary_culture = romanian
+				culture_group = slavic
+			}
+			NOT = { primary_culture = polish_new }
 			}
 		}
 	}
@@ -6700,6 +6848,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				primary_culture = polish
+				primary_culture = polish_new
 				primary_culture = lithuanian
 			}
 		}
@@ -6729,7 +6878,10 @@ defined_text = {
 	text = {
 		localisation_key = string_end_ni
 		trigger = {
-			tag = MUG
+			OR = {
+				tag = MUG
+				has_government_attribute = enable_mansabdar_privileges
+			}
 		}
 	}
 	text = {
@@ -6747,6 +6899,7 @@ defined_text = {
 			OR = {
 				culture_group = japanese_g
 				has_reform = prussian_republic_reform
+				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
 				tag = GER
 				tag = USA
@@ -6834,20 +6987,20 @@ defined_text = {
 	text = {
 		localisation_key = string_end_ni
 		trigger = {
-			tag = KOR
-			religion = confucianism
-		}
-	}
-	text = {
-		localisation_key = string_end_ni
-		trigger = {
 			religion = nahuatl
 		}
 	}
 	text = {
 		localisation_key = string_end_ne
 		trigger = {
-			NOT = { religion_group = christian }
+			OR = {
+				religion_group = muslim
+				religion_group = eastern
+				religion_group = dharmic
+				religion_group = pagan
+				religion_group = jewish_group
+				religion_group = zoroastrian_group
+			}
 		}
 	}
 	text = {
@@ -6902,6 +7055,7 @@ defined_text = {
 						culture_group = east_slavic
 						culture_group = south_slavic
 						culture_group = west_slavic
+						culture_group = slavic
 					}
 				}
 				religion = tengri_pagan_reformed
@@ -7016,6 +7170,9 @@ defined_text = {
 				culture_group = east_slavic
 				primary_culture = bulgarian
 				primary_culture = romanian
+				culture_group = slavic
+			}
+			NOT = { primary_culture = polish_new }
 			}
 		}
 	}
@@ -7024,6 +7181,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				primary_culture = polish
+				primary_culture = polish_new
 				primary_culture = lithuanian
 			}
 		}
@@ -7053,7 +7211,10 @@ defined_text = {
 	text = {
 		localisation_key = string_word_sa
 		trigger = {
-			tag = MUG
+			OR = {
+				tag = MUG
+				has_government_attribute = enable_mansabdar_privileges
+			}
 		}
 	}
 	text = {
@@ -7071,6 +7232,7 @@ defined_text = {
 			OR = {
 				culture_group = japanese_g
 				has_reform = prussian_republic_reform
+				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
 				tag = GER
 				tag = USA
@@ -7158,20 +7320,20 @@ defined_text = {
 	text = {
 		localisation_key = string_word_sa
 		trigger = {
-			tag = KOR
-			religion = confucianism
-		}
-	}
-	text = {
-		localisation_key = string_word_sa
-		trigger = {
 			religion = nahuatl
 		}
 	}
 	text = {
 		localisation_key = string_word_sa
 		trigger = {
-			NOT = { religion_group = christian }
+			OR = {
+				religion_group = muslim
+				religion_group = eastern
+				religion_group = dharmic
+				religion_group = pagan
+				religion_group = jewish_group
+				religion_group = zoroastrian_group
+			}
 		}
 	}
 	text = {
@@ -7226,6 +7388,7 @@ defined_text = {
 						culture_group = east_slavic
 						culture_group = south_slavic
 						culture_group = west_slavic
+						culture_group = slavic
 					}
 				}
 				religion = tengri_pagan_reformed
@@ -7340,6 +7503,9 @@ defined_text = {
 				culture_group = east_slavic
 				primary_culture = bulgarian
 				primary_culture = romanian
+				culture_group = slavic
+			}
+			NOT = { primary_culture = polish_new }
 			}
 		}
 	}
@@ -7348,6 +7514,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				primary_culture = polish
+				primary_culture = polish_new
 				primary_culture = lithuanian
 			}
 		}
@@ -7377,7 +7544,10 @@ defined_text = {
 	text = {
 		localisation_key = string_end_i
 		trigger = {
-			tag = MUG
+			OR = {
+				tag = MUG
+				has_government_attribute = enable_mansabdar_privileges
+			}
 		}
 	}
 	text = {
@@ -7395,6 +7565,7 @@ defined_text = {
 			OR = {
 				culture_group = japanese_g
 				has_reform = prussian_republic_reform
+				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
 				tag = GER
 				tag = USA
@@ -7482,20 +7653,20 @@ defined_text = {
 	text = {
 		localisation_key = string_end_i
 		trigger = {
-			tag = KOR
-			religion = confucianism
-		}
-	}
-	text = {
-		localisation_key = string_end_i
-		trigger = {
 			religion = nahuatl
 		}
 	}
 	text = {
 		localisation_key = string_end_e
 		trigger = {
-			NOT = { religion_group = christian }
+			OR = {
+				religion_group = muslim
+				religion_group = eastern
+				religion_group = dharmic
+				religion_group = pagan
+				religion_group = jewish_group
+				religion_group = zoroastrian_group
+			}
 		}
 	}
 	text = {
@@ -7550,6 +7721,7 @@ defined_text = {
 						culture_group = east_slavic
 						culture_group = south_slavic
 						culture_group = west_slavic
+						culture_group = slavic
 					}
 				}
 				religion = tengri_pagan_reformed
@@ -7664,6 +7836,9 @@ defined_text = {
 				culture_group = east_slavic
 				primary_culture = bulgarian
 				primary_culture = romanian
+				culture_group = slavic
+			}
+			NOT = { primary_culture = polish_new }
 			}
 		}
 	}
@@ -7672,6 +7847,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				primary_culture = polish
+				primary_culture = polish_new
 				primary_culture = lithuanian
 			}
 		}
@@ -7701,7 +7877,10 @@ defined_text = {
 	text = {
 		localisation_key = string_end_apl
 		trigger = {
-			tag = MUG
+			OR = {
+				tag = MUG
+				has_government_attribute = enable_mansabdar_privileges
+			}
 		}
 	}
 	text = {
@@ -7719,6 +7898,7 @@ defined_text = {
 			OR = {
 				culture_group = japanese_g
 				has_reform = prussian_republic_reform
+				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
 				tag = GER
 				tag = USA
@@ -7806,20 +7986,20 @@ defined_text = {
 	text = {
 		localisation_key = string_end_apl
 		trigger = {
-			tag = KOR
-			religion = confucianism
-		}
-	}
-	text = {
-		localisation_key = string_end_apl
-		trigger = {
 			religion = nahuatl
 		}
 	}
 	text = {
 		localisation_key = string_end_apl
 		trigger = {
-			NOT = { religion_group = christian }
+			OR = {
+				religion_group = muslim
+				religion_group = eastern
+				religion_group = dharmic
+				religion_group = pagan
+				religion_group = jewish_group
+				religion_group = zoroastrian_group
+			}
 		}
 	}
 	text = {
@@ -7874,6 +8054,7 @@ defined_text = {
 						culture_group = east_slavic
 						culture_group = south_slavic
 						culture_group = west_slavic
+						culture_group = slavic
 					}
 				}
 				religion = tengri_pagan_reformed
@@ -7988,6 +8169,9 @@ defined_text = {
 				culture_group = east_slavic
 				primary_culture = bulgarian
 				primary_culture = romanian
+				culture_group = slavic
+			}
+			NOT = { primary_culture = polish_new }
 			}
 		}
 	}
@@ -7996,6 +8180,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				primary_culture = polish
+				primary_culture = polish_new
 				primary_culture = lithuanian
 			}
 		}
@@ -8025,7 +8210,10 @@ defined_text = {
 	text = {
 		localisation_key = string_end_eni
 		trigger = {
-			tag = MUG
+			OR = {
+				tag = MUG
+				has_government_attribute = enable_mansabdar_privileges
+			}
 		}
 	}
 	text = {
@@ -8043,6 +8231,7 @@ defined_text = {
 			OR = {
 				culture_group = japanese_g
 				has_reform = prussian_republic_reform
+				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
 				tag = GER
 				tag = USA
@@ -8130,20 +8319,20 @@ defined_text = {
 	text = {
 		localisation_key = string_end_eni
 		trigger = {
-			tag = KOR
-			religion = confucianism
-		}
-	}
-	text = {
-		localisation_key = string_end_eni
-		trigger = {
 			religion = nahuatl
 		}
 	}
 	text = {
 		localisation_key = string_end_one
 		trigger = {
-			NOT = { religion_group = christian }
+			OR = {
+				religion_group = muslim
+				religion_group = eastern
+				religion_group = dharmic
+				religion_group = pagan
+				religion_group = jewish_group
+				religion_group = zoroastrian_group
+			}
 		}
 	}
 	text = {
@@ -8198,6 +8387,7 @@ defined_text = {
 						culture_group = east_slavic
 						culture_group = south_slavic
 						culture_group = west_slavic
+						culture_group = slavic
 					}
 				}
 				religion = tengri_pagan_reformed
@@ -8312,6 +8502,9 @@ defined_text = {
 				culture_group = east_slavic
 				primary_culture = bulgarian
 				primary_culture = romanian
+				culture_group = slavic
+			}
+			NOT = { primary_culture = polish_new }
 			}
 		}
 	}
@@ -8320,6 +8513,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				primary_culture = polish
+				primary_culture = polish_new
 				primary_culture = lithuanian
 			}
 		}
@@ -8349,7 +8543,10 @@ defined_text = {
 	text = {
 		localisation_key = string_end_y
 		trigger = {
-			tag = MUG
+			OR = {
+				tag = MUG
+				has_government_attribute = enable_mansabdar_privileges
+			}
 		}
 	}
 	text = {
@@ -8367,6 +8564,7 @@ defined_text = {
 			OR = {
 				culture_group = japanese_g
 				has_reform = prussian_republic_reform
+				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
 				tag = GER
 				tag = USA
@@ -8454,20 +8652,20 @@ defined_text = {
 	text = {
 		localisation_key = string_end_y
 		trigger = {
-			tag = KOR
-			religion = confucianism
-		}
-	}
-	text = {
-		localisation_key = string_end_y
-		trigger = {
 			religion = nahuatl
 		}
 	}
 	text = {
 		localisation_key = string_end_e
 		trigger = {
-			NOT = { religion_group = christian }
+			OR = {
+				religion_group = muslim
+				religion_group = eastern
+				religion_group = dharmic
+				religion_group = pagan
+				religion_group = jewish_group
+				religion_group = zoroastrian_group
+			}
 		}
 	}
 	text = {
@@ -8522,6 +8720,7 @@ defined_text = {
 						culture_group = east_slavic
 						culture_group = south_slavic
 						culture_group = west_slavic
+						culture_group = slavic
 					}
 				}
 				religion = tengri_pagan_reformed
@@ -8636,6 +8835,9 @@ defined_text = {
 				culture_group = east_slavic
 				primary_culture = bulgarian
 				primary_culture = romanian
+				culture_group = slavic
+			}
+			NOT = { primary_culture = polish_new }
 			}
 		}
 	}
@@ -8644,6 +8846,7 @@ defined_text = {
 		trigger = {
 			OR = {
 				primary_culture = polish
+				primary_culture = polish_new
 				primary_culture = lithuanian
 			}
 		}
@@ -8673,7 +8876,10 @@ defined_text = {
 	text = {
 		localisation_key = string_end_eli
 		trigger = {
-			tag = MUG
+			OR = {
+				tag = MUG
+				has_government_attribute = enable_mansabdar_privileges
+			}
 		}
 	}
 	text = {
@@ -8691,6 +8897,7 @@ defined_text = {
 			OR = {
 				culture_group = japanese_g
 				has_reform = prussian_republic_reform
+				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
 				tag = GER
 				tag = USA
@@ -8778,20 +8985,20 @@ defined_text = {
 	text = {
 		localisation_key = string_end_eli
 		trigger = {
-			tag = KOR
-			religion = confucianism
-		}
-	}
-	text = {
-		localisation_key = string_end_eli
-		trigger = {
 			religion = nahuatl
 		}
 	}
 	text = {
 		localisation_key = string_end_aly
 		trigger = {
-			NOT = { religion_group = christian }
+			OR = {
+				religion_group = muslim
+				religion_group = eastern
+				religion_group = dharmic
+				religion_group = pagan
+				religion_group = jewish_group
+				religion_group = zoroastrian_group
+			}
 		}
 	}
 	text = {

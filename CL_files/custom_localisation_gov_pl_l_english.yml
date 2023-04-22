@@ -6,6 +6,8 @@
  string_ALTEPETL_ins: "Altepetlu" #
  string_ALTEPETL_FEDERATION: "Federacji Altepetli" #Federacja Altepetli Ż
  string_ALTEPETL_FEDERATION_ins: "Federacji Altepetli" #
+ string_APPANAGE: "Apanaży" #Apanaże
+ string_APPANAGE_ins: "Apanażu" #
  string_ARCHBISHOPRIC: "Arcybiskupstwa" #Arcybiskupstwo N
  string_ARCHBISHOPRIC_ins: "Arcybiskupstwie" #
  string_ARCHDUCHY: "Arcyksięstwa" #Arcyksięstwo N
@@ -52,6 +54,12 @@
  string_DESPOTISM_ins: "Despotyzmie" #
  string_DICTATORSHIP: "Dyktatury" #Dyktatura Ż
  string_DICTATORSHIP_ins: "Dyktaturze" #
+ string_DIVINE_DUCHY: "Boskiego Księstwa" #Boskie Księstwo
+ string_DIVINE_DUCHY_ins: "Boskim Księstwie" #
+ string_DIVINE_EMPIRE: "Boskiego Cesarstwa" #Boskie Cesartwo
+ string_DIVINE_EMPIRE_ins: "Boskim Cesarstwie" #
+ string_DIVINE_KINGDOM: "Boskiego Królestwa" #Boskie Królestwo
+ string_DIVINE_KINGDOM_ins: "Boskim Królestwie" #
  string_DIVINE_PROTECTORS: "Boskiego Protektoratu" #Boski Protektorat M
  string_DIVINE_PROTECTORS_ins: "Boskim Protektoracie" #
  string_DUCHY: "Księstwa" #Księstwo N
@@ -68,6 +76,8 @@
  string_ELECTORATE_DUCHY_ins: "Elektoracie" #
  string_EMIRATE: "Emiratu" #Emirat M
  string_EMIRATE_ins: "Emiracie" #
+ string_EYALET: "Ejaletu" #Ejalet
+ string_EYALET_ins: "Ejalecie" #
  string_EMPIRE: "Cesarstwa" #Cesarstwo N
  string_EMPIRE_ins: "Cesarstwie" #
  string_FEDERAL_EMPIRE: "Imperium Federalnego" #Imperium Federalne N
@@ -234,6 +244,8 @@
  string_PRINCIPALITY_ins: "Księstwie" #
  string_REPUBLIC: "Republiki" #Republika Ż
  string_REPUBLIC_ins: "Republice" #
+ string_RES_PUBLICA: "Res Publica" #Res Publica
+ string_RES_PUBLICA_ins: "Res Publica" #
  string_REVOLUTIONARY_DANISH_REPUBLIC: "Sikkerhedtingetu" #Sikkerhedtinget M
  string_REVOLUTIONARY_DANISH_REPUBLIC_ins: "Sikkerhedtingetrze" #
  string_REVOLUTIONARY_PEASANT_REPUBLIC: "Chłopskiej Junty" #Chłopska Junta Ż
@@ -272,6 +284,8 @@
  string_SUPREME_ADMIRALTY_ins: "Najwyższej Admiralicji" #
  string_SYNTH_GOV: "Sztucznej Inteligencji" #Sztuczna Inteligencja Ż
  string_SYNTH_GOV_ins: "Sztucznej Inteligencji" #
+ string_TRADE_COMPANY: "Kompanii Handlowej" #Kompania Handlowa
+ string_TRADE_COMPANY_ins: "Kompanii Handlowej" #
  string_TRAPPIST_STATE: "Zakonu Trapistów" #Zakon Trapistów M
  string_TRAPPIST_STATE_ins: "Zakonie Trapistów" #
  string_TRIBAL_EMPIRE: "Imperium Plemiennego" #Imperium Plemienne N
@@ -323,6 +337,7 @@
  string_BASILISSA: "Bazylissy" #Bazylissa
  string_BEILE: "Beile'a" #Beile
  string_BEY: "Beja" #Bej
+ string_BEYLERBEY: "Bejlerbeja" #Bejlerbej
  string_BISHOP: "Biskupa" #Biskup
  string_BISHOP_ELECTOR: "Biskupa Elektora" #Biskup Elektor
  string_BISHOP_ELECTOR_fem: "Biskupki Elektorki" #Biskupka Elektorka
@@ -373,6 +388,7 @@
  string_DESPOTISSA: "Despotki" #Despotka
  string_DEUTSCHMEISTER: "Magistra Germaniæ" #Magister Germaniæ
  string_DEUTSCHMEISTER_fem: "Magistry Germaniæ" #Magistra Germaniæ
+ string_DEY: "Deja" #Dej
  string_DIRECTOR: "Dyrektora" #Dyrektor
  string_DIRECTORESS: "Dyrektorki" #Dyrektorka
  string_DOGARESSA: "Dożaressy" #Dożaressa
@@ -400,10 +416,14 @@
  string_FIRST_RANGER_fem: "Lady Strażniczki" #Lady Strażniczka
  string_GEGE: "Gege" #Gege
  string_GERAD: "Gerada" #Gerad
+ string_GODDESS_EMPRESS: "Josei-Tenno" #Josei-Tenno
+ string_GOD_EMPEROR: "Tenno" #Tenno
  string_GONFALONIERE: "Gonfaloniera" #Gonfalonier
  string_GONFALONIERE_fem: "Gonfaloniere'y" #Gonfaloniere
  string_GOVERNESS: "Gubernatorki" #Gubernatorka
+ string_GOVERNESS_GENERAL: "Gubernatorki Generalnej" #Gubernatorka Generalna
  string_GOVERNOR: "Gubernatora" #Gubernator
+ string_GOVERNOR_GENERAL: "Gubernatora Generalnego" #Gubernator Generalny
  string_GRANDVIZIER: "Wielkiego Wezyra" #Wielki Wezyr
  string_GRANDVIZIER_fem: "Wielkiej Wezyr" #Wielka Wezyr
  string_GRAND_ADMIRAL: "Wielkiego Admirała" #Wielki Admirał
@@ -563,6 +583,8 @@
  string_LANDSBONDE_fem: "Landsbonde'y" #Landsbonde
  string_LE_ELT: "Le'elt" #Le'el
  string_LORD: "Lorda" #Lord
+ string_LORD_ADMIRAL: "Lorda Admirała" #Lord Admirał
+ string_LORD_ADMIRAL_fem: "Lady Admirał" #Lady Admirał
  string_LORD_COMMANDER: "Lorda Dowódcy" #Lord Dowódca
  string_LORD_HIGH_ADMIRAL: "Lorda Wysokiego Admirała" #Lord Wysoki Admirał
  string_LORD_HIGH_ADMIRAL_fem: "Lady Wysokiej Admirał" #Lady Wysoka Admirał
@@ -794,6 +816,8 @@
  string_KING_CONSORT: "Króla Małżonka" #Król Małżonek
  string_KNIAGINIA: "Kniahini" #Kniahini
  string_KNIAZ: "Kniazia" #Kniaź
+ string_KOGO: "Kogo" #Kogo
+ string_KOSEI: "Kosei" #Kosei
  string_KRALJ: "Kralja" #Kralj
  string_KRALJICA: "Kraljicy" #Kraljica
  string_LADY: "Lady" #Lady
@@ -870,6 +894,8 @@
  string_NAWAB_BEGUM: "Nawab Begum" #Nawab Begum
  string_NIZAMZADA: "Nizamzada" #Nizamzada
  string_NIZAM_BEGUM: "Nizam Begum" #Nizam Begum
+ string_OUJI: "Oji" #
+ string_OUJO: "Ojo" #
  string_PADISHAH_BEGUM: "Padyszach Begum" #Padyszach Begum
  string_PASHAZADE: "Paszazade" #Paszazade
  string_PRINCE: "Księcia" #Książę

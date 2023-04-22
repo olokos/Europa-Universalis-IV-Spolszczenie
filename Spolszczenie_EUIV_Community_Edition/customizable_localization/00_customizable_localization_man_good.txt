@@ -140,189 +140,127 @@ defined_text = {
 	random = no
 	text = {
 		localisation_key = string_naval_supplies_gen
-		trigger = {
-			trade_goods = naval_supplies
-		}
+		trigger = {	trade_goods = naval_supplies  }
 	}
 	text = {
 		localisation_key = string_fish_gen
-		trigger = {
-			trade_goods = fish
-		}
+		trigger = {	trade_goods = fish }
 	}	
 	text = {
 		localisation_key = string_salt_gen
-		trigger = {
-			trade_goods = salt
-		}
+		trigger = {	trade_goods = salt }
 	}	
 	text = {
 		localisation_key = string_copper_gen
-		trigger = {
-			trade_goods = copper
-		}
+		trigger = {	trade_goods = copper }
 	}	
 	text = {
 		localisation_key = string_iron_gen
-		trigger = {
-			trade_goods = iron
-		}
+		trigger = {	trade_goods = iron }
 	}	
 	text = {
 		localisation_key = string_wool_gen
-		trigger = {
-			trade_goods = wool
-		}
+		trigger = {	trade_goods = wool }
 	}		
 	text = {
 		localisation_key = string_cloth_gen
-		trigger = {
-			trade_goods = cloth
-		}
+		trigger = {	trade_goods = cloth }
 	}		
 	text = {
 		localisation_key = string_silk_gen
-		trigger = {
-			trade_goods = silk
-		}
+		trigger = {	trade_goods = silk n}
 	}		
 	text = {
 		localisation_key = string_dyes_gen
-		trigger = {
-			trade_goods = dyes
-		}
+		trigger = {	trade_goods = dyes }
 	}		
 	text = {
 		localisation_key = string_coffee_gen
-		trigger = {
-			trade_goods = coffee
-		}
+		trigger = {	trade_goods = coffee }
 	}		
 	text = {
 		localisation_key = string_cotton_gen
-		trigger = {
-			trade_goods = cotton
-		}
+		trigger = {	trade_goods = cotton }
 	}		
 	text = {
 		localisation_key = string_sugar_gen
-		trigger = {
-			trade_goods = sugar
-		}
+		trigger = {	trade_goods = sugar }
 	}
 	text = {
 		localisation_key = string_tobacco_gen
-		trigger = {
-			trade_goods = tobacco
-		}
+		trigger = {	trade_goods = tobacco }
 	}		
 	text = {
 		localisation_key = string_tea_gen
-		trigger = {
-			trade_goods = tea
-		}
+		trigger = {	trade_goods = tea	}
 	}		
 	text = {
 		localisation_key = string_cocoa_gen
-		trigger = {
-			trade_goods = cocoa
-		}
+		trigger = {	trade_goods = cocoa }
 	}
 	text = {
 		localisation_key = string_gold_gen
-		trigger = {
-			trade_goods = gold
-		}
+		trigger = {	trade_goods = gold }
 	}
 	text = {
 		localisation_key = string_ivory_gen
-		trigger = {
-			trade_goods = ivory
-		}
+		trigger = {	trade_goods = ivory }
 	}			
 	text = {
 		localisation_key = string_slaves_gen
-		trigger = {
-			trade_goods = slaves
-		}
+		trigger = {	trade_goods = slaves }
 	}			
 	text = {
 		localisation_key = string_spices_gen
-		trigger = {
-			trade_goods = spices
-		}
+		trigger = {	trade_goods = spices }
 	}			
 	text = {
 		localisation_key = string_fur_gen
-		trigger = {
-			trade_goods = fur
-		}
+		trigger = {	trade_goods = fur	}
 	}			
 	text = {
 		localisation_key = string_incense_gen
-		trigger = {
-			trade_goods = incense
-		}
+		trigger = {	trade_goods = incense }
 	}			
 	text = {
 		localisation_key = string_grain_gen
-		trigger = {
-			trade_goods = grain
-		}
+		trigger = {	trade_goods = grain }
 	}			
 	text = {
 		localisation_key = string_livestock_gen
-		trigger = {
-			trade_goods = livestock
-		}
+		trigger = {	trade_goods = livestock }
 	}			
 	text = {
 		localisation_key = string_wine_gen
-		trigger = {
-			trade_goods = wine
-		}
+		trigger = {	trade_goods = wine }
 	}
 	text = {
 		localisation_key = string_paper_gen
-		trigger = {
-			trade_goods = paper
-		}
+		trigger = {	trade_goods = paper }
 	}	
 	text = {
 		localisation_key = string_gems_gen
-		trigger = {
-			trade_goods = gems
-		}
+		trigger = {	trade_goods = gems }
 	}	
 	text = {
 		localisation_key = string_tropical_wood_gen
-		trigger = {
-			trade_goods = tropical_wood
-		}
+		trigger = {	trade_goods = tropical_wood }
 	}	
 	text = {
 		localisation_key = string_glass_gen
-		trigger = {
-			trade_goods = glass
-		}
+		trigger = {	trade_goods = glass }
 	}	
 	text = {
 		localisation_key = string_chinaware_gen
-		trigger = {
-			trade_goods = chinaware
-		}
+		trigger = {	trade_goods = chinaware	}
 	}	
 	text = {
 		localisation_key = string_coal_gen
-		trigger = {
-			trade_goods = coal
-		}
+		trigger = {	trade_goods = coal }
 	}
 	text = {
 		localisation_key = string_cloves_gen
-		trigger = {
-			trade_goods = cloves
-		}
+		trigger = {	trade_goods = cloves }
 	}
 }
 
@@ -331,189 +269,127 @@ defined_text = {
 	random = no
 	text = {
 		localisation_key = string_naval_supplies_gen_Cap
-		trigger = {
-			trade_goods = naval_supplies
-		}
+		trigger = { trade_goods = naval_supplies }
 	}
 	text = {
 		localisation_key = string_fish_gen_Cap
-		trigger = {
-			trade_goods = fish
-		}
+		trigger = { trade_goods = fish }
 	}	
 	text = {
 		localisation_key = string_salt_gen_Cap
-		trigger = {
-			trade_goods = salt
-		}
+		trigger = { trade_goods = salt }
 	}	
 	text = {
 		localisation_key = string_copper_gen_Cap
-		trigger = {
-			trade_goods = copper
-		}
+		trigger = { trade_goods = copper }
 	}	
 	text = {
 		localisation_key = string_iron_gen_Cap
-		trigger = {
-			trade_goods = iron
-		}
+		trigger = { trade_goods = iron }
 	}	
 	text = {
 		localisation_key = string_wool_gen_Cap
-		trigger = {
-			trade_goods = wool
-		}
+		trigger = { trade_goods = wool }
 	}		
 	text = {
 		localisation_key = string_cloth_gen_Cap
-		trigger = {
-			trade_goods = cloth
-		}
+		trigger = { trade_goods = cloth }
 	}		
 	text = {
 		localisation_key = string_silk_gen_Cap
-		trigger = {
-			trade_goods = silk
-		}
+		trigger = { trade_goods = silk }
 	}		
 	text = {
 		localisation_key = string_dyes_gen_Cap
-		trigger = {
-			trade_goods = dyes
-		}
+		trigger = { trade_goods = dyes }
 	}		
 	text = {
 		localisation_key = string_coffee_gen_Cap
-		trigger = {
-			trade_goods = coffee
-		}
+		trigger = { trade_goods = coffee }
 	}		
 	text = {
 		localisation_key = string_cotton_gen_Cap
-		trigger = {
-			trade_goods = cotton
-		}
+		trigger = { trade_goods = cotton }
 	}		
 	text = {
 		localisation_key = string_sugar_gen_Cap
-		trigger = {
-			trade_goods = sugar
-		}
+		trigger = { trade_goods = sugar }
 	}
 	text = {
 		localisation_key = string_tobacco_gen_Cap
-		trigger = {
-			trade_goods = tobacco
-		}
+		trigger = { trade_goods = tobacco }
 	}		
 	text = {
 		localisation_key = string_tea_gen_Cap
-		trigger = {
-			trade_goods = tea
-		}
+		trigger = { trade_goods = tea }
 	}		
 	text = {
 		localisation_key = string_cocoa_gen_Cap
-		trigger = {
-			trade_goods = cocoa
-		}
+		trigger = { trade_goods = cocoa }
 	}
 	text = {
 		localisation_key = string_gold_gen_Cap
-		trigger = {
-			trade_goods = gold
-		}
+		trigger = { trade_goods = gold }
 	}
 	text = {
 		localisation_key = string_ivory_gen_Cap
-		trigger = {
-			trade_goods = ivory
-		}
+		trigger = { trade_goods = ivory }
 	}			
 	text = {
 		localisation_key = string_slaves_gen_Cap
-		trigger = {
-			trade_goods = slaves
-		}
+		trigger = { trade_goods = slaves }
 	}			
 	text = {
 		localisation_key = string_spices_gen_Cap
-		trigger = {
-			trade_goods = spices
-		}
+		trigger = { trade_goods = spices }
 	}			
 	text = {
 		localisation_key = string_fur_gen_Cap
-		trigger = {
-			trade_goods = fur
-		}
+		trigger = { trade_goods = fur }
 	}			
 	text = {
 		localisation_key = string_incense_gen_Cap
-		trigger = {
-			trade_goods = incense
-		}
+		trigger = { trade_goods = incense }
 	}			
 	text = {
 		localisation_key = string_grain_gen_Cap
-		trigger = {
-			trade_goods = grain
-		}
+		trigger = { trade_goods = grain }
 	}			
 	text = {
 		localisation_key = string_livestock_gen_Cap
-		trigger = {
-			trade_goods = livestock
-		}
+		trigger = { trade_goods = livestock }
 	}			
 	text = {
 		localisation_key = string_wine_gen_Cap
-		trigger = {
-			trade_goods = wine
-		}
+		trigger = { trade_goods = wine }
 	}
 	text = {
 		localisation_key = string_paper_gen_Cap
-		trigger = {
-			trade_goods = paper
-		}
+		trigger = { trade_goods = paper }
 	}	
 	text = {
 		localisation_key = string_gems_gen_Cap
-		trigger = {
-			trade_goods = gems
-		}
+		trigger = { trade_goods = gems }
 	}	
 	text = {
 		localisation_key = string_tropical_wood_gen_Cap
-		trigger = {
-			trade_goods = tropical_wood
-		}
+		trigger = { trade_goods = tropical_wood }
 	}	
 	text = {
 		localisation_key = string_glass_gen_Cap
-		trigger = {
-			trade_goods = glass
-		}
+		trigger = { trade_goods = glass }
 	}	
 	text = {
 		localisation_key = string_chinaware_gen_Cap
-		trigger = {
-			trade_goods = chinaware
-		}
+		trigger = { trade_goods = chinaware }
 	}	
 	text = {
 		localisation_key = string_coal_gen_Cap
-		trigger = {
-			trade_goods = coal
-		}
+		trigger = { trade_goods = coal }
 	}
 	text = {
 		localisation_key = string_cloves_gen_Cap
-		trigger = {
-			trade_goods = cloves
-		}
+		trigger = { trade_goods = cloves }
 	}
 }
 
@@ -522,188 +398,126 @@ defined_text = {
 	random = no
 	text = {
 		localisation_key = string_naval_supplies
-		trigger = {
-			trade_goods = naval_supplies
-		}
+		trigger = { trade_goods = naval_supplies }
 	}
 	text = {
 		localisation_key = string_fish
-		trigger = {
-			trade_goods = fish
-		}
+		trigger = { trade_goods = fish }
 	}	
 	text = {
 		localisation_key = string_salt
-		trigger = {
-			trade_goods = salt
-		}
+		trigger = { trade_goods = salt }
 	}	
 	text = {
 		localisation_key = string_copper
-		trigger = {
-			trade_goods = copper
-		}
+		trigger = { trade_goods = copper }
 	}	
 	text = {
 		localisation_key = string_iron
-		trigger = {
-			trade_goods = iron
-		}
+		trigger = { trade_goods = iron }
 	}	
 	text = {
 		localisation_key = string_wool
-		trigger = {
-			trade_goods = wool
-		}
+		trigger = { trade_goods = wool }
 	}		
 	text = {
 		localisation_key = string_cloth
-		trigger = {
-			trade_goods = cloth
-		}
+		trigger = { trade_goods = cloth }
 	}		
 	text = {
 		localisation_key = string_silk
-		trigger = {
-			trade_goods = silk
-		}
+		trigger = { trade_goods = silk }
 	}		
 	text = {
 		localisation_key = string_dyes
-		trigger = {
-			trade_goods = dyes
-		}
+		trigger = { trade_goods = dyes }
 	}		
 	text = {
 		localisation_key = string_coffee
-		trigger = {
-			trade_goods = coffee
-		}
+		trigger = { trade_goods = coffee }
 	}		
 	text = {
 		localisation_key = string_cotton
-		trigger = {
-			trade_goods = cotton
-		}
+		trigger = { trade_goods = cotton }
 	}		
 	text = {
 		localisation_key = string_sugar
-		trigger = {
-			trade_goods = sugar
-		}
+		trigger = { trade_goods = sugar }
 	}
 	text = {
 		localisation_key = string_tobacco
-		trigger = {
-			trade_goods = tobacco
-		}
+		trigger = { trade_goods = tobacco }
 	}		
 	text = {
 		localisation_key = string_tea
-		trigger = {
-			trade_goods = tea
-		}
+		trigger = { trade_goods = tea }
 	}		
 	text = {
 		localisation_key = string_cocoa
-		trigger = {
-			trade_goods = cocoa
-		}
+		trigger = { trade_goods = cocoa }
 	}
 	text = {
 		localisation_key = string_gold
-		trigger = {
-			trade_goods = gold
-		}
+		trigger = { trade_goods = gold }
 	}
 	text = {
 		localisation_key = string_ivory
-		trigger = {
-			trade_goods = ivory
-		}
+		trigger = { trade_goods = ivory }
 	}			
 	text = {
 		localisation_key = string_slaves
-		trigger = {
-			trade_goods = slaves
-		}
+		trigger = { trade_goods = slaves }
 	}			
 	text = {
 		localisation_key = string_spices
-		trigger = {
-			trade_goods = spices
-		}
+		trigger = { trade_goods = spices }
 	}			
 	text = {
 		localisation_key = string_fur
-		trigger = {
-			trade_goods = fur
-		}
+		trigger = { trade_goods = fur }
 	}			
 	text = {
 		localisation_key = string_incense
-		trigger = {
-			trade_goods = incense
-		}
+		trigger = { trade_goods = incense }
 	}			
 	text = {
 		localisation_key = string_grain
-		trigger = {
-			trade_goods = grain
-		}
+		trigger = { trade_goods = grain }
 	}			
 	text = {
 		localisation_key = string_livestock
-		trigger = {
-			trade_goods = livestock
-		}
+		trigger = { trade_goods = livestock }
 	}			
 	text = {
 		localisation_key = string_wine
-		trigger = {
-			trade_goods = wine
-		}
+		trigger = { trade_goods = wine }
 	}
 	text = {
 		localisation_key = string_paper
-		trigger = {
-			trade_goods = paper
-		}
+		trigger = { trade_goods = paper }
 	}	
 	text = {
 		localisation_key = string_gems
-		trigger = {
-			trade_goods = gems
-		}
+		trigger = { trade_goods = gems }
 	}	
 	text = {
 		localisation_key = string_tropical_wood
-		trigger = {
-			trade_goods = tropical_wood
-		}
+		trigger = { trade_goods = tropical_wood }
 	}	
 	text = {
 		localisation_key = string_glass
-		trigger = {
-			trade_goods = glass
-		}
+		trigger = { trade_goods = glass }
 	}	
 	text = {
 		localisation_key = string_chinaware
-		trigger = {
-			trade_goods = chinaware
-		}
+		trigger = { trade_goods = chinaware }
 	}	
 	text = {
 		localisation_key = string_coal
-		trigger = {
-			trade_goods = coal
-		}
+		trigger = { trade_goods = coal }
 	}
 	text = {
 		localisation_key = string_cloves
-		trigger = {
-			trade_goods = cloves
-		}
+		trigger = { trade_goods = cloves }
 	}
 }

@@ -71,6 +71,28 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_BEY
+		trigger = {
+			has_female_consort = no
+			OR = {
+				is_subject_of_type = eyalet
+				is_subject_of_type = core_eyalet
+				has_reform = eyalet_government
+			}
+		}
+	}
+	text={
+		localisation_key = string_BEY
+		trigger = {
+			has_female_consort = no
+			OR = {
+				is_subject_of_type = eyalet
+				is_subject_of_type = core_eyalet
+				has_reform = barbary_eyalet_government
+			}
+		}
+	}
+	text={
 		localisation_key = string_EMPEROR_CONSORT
 		trigger = {
 			has_female_consort = no
@@ -261,7 +283,10 @@ defined_text = {
 		trigger = {
 			has_female_consort = no
 			government = monarchy
-			primary_culture = croatian
+			OR = {
+				primary_culture = croatian
+				primary_culture = croatian_new
+			}
 		}
 	}
 	text={
@@ -311,7 +336,12 @@ defined_text = {
 				has_reform = feudalism_reform
 				has_reform = autocracy_reform
 			}
-			primary_culture = serbian
+			OR = {
+				has_reform = feudalism_reform
+				has_reform = autocracy_reform
+				primary_culture = serbian
+				primary_culture = serbian_new
+			}
 			religion = orthodox
 		}
 	}
@@ -320,7 +350,10 @@ defined_text = {
 		trigger = {
 			has_female_consort = no
 			government = monarchy
-			primary_culture = serbian
+			OR = {
+				primary_culture = serbian
+				primary_culture = serbian_new
+			}
 		}
 	}
 	text={
@@ -655,7 +688,14 @@ defined_text = {
 			has_female_consort = no
 			government_rank = 3
 			government = monarchy
-			culture_group = south_slavic
+			OR = {
+				primary_culture = croatian_new
+				primary_culture = serbian_new
+				primary_culture = slovene_new
+				primary_culture = bosnian_new
+				primary_culture = bulgarian_new
+				culture_group = south_slavic
+			}
 			NOT = {
 				tag = CLI
 			}
@@ -714,6 +754,7 @@ defined_text = {
 			OR = {
 				has_reform = principality
 				has_reform = tsardom
+				has_reform = ruthenian_tsardom
 			}
 		}
 	}
@@ -725,7 +766,29 @@ defined_text = {
 			government = monarchy
 			OR = {
 				culture_group = east_slavic
+				culture_group = slavic
 				tag = PRM
+			}
+			NOT = {
+				primary_culture = polish_new
+			}
+			NOT = {
+				primary_culture = serbian_new
+			}
+			NOT = {
+				primary_culture = croatian_new
+			}
+			NOT = {
+				primary_culture = serbian_new
+			}
+			NOT = {
+				primary_culture = slovene_new
+			}
+			NOT = {
+				primary_culture = bosnian_new
+			}
+			NOT = {
+				primary_culture = bulgarian_new
 			}
 		}
 	}
@@ -785,6 +848,13 @@ defined_text = {
 				religion = vajrayana
 				religion = mahayana
 			}
+		}
+	}
+	text={
+		localisation_key = string_KOSEI
+		trigger = {
+			has_female_consort = no
+			has_reform = japanese_divine_empire
 		}
 	}
 	text={
@@ -997,6 +1067,7 @@ defined_text = {
 				tag = HED
 				tag = MDA
 				tag = MFL
+				has_reform = sharifate_reform
 			}
 		}
 	}
@@ -1484,7 +1555,14 @@ defined_text = {
 			has_female_consort = no
 			government_rank = 2
 			government = monarchy
-			culture_group = south_slavic
+			OR = {
+				primary_culture = croatian_new
+				primary_culture = serbian_new
+				primary_culture = slovene_new
+				primary_culture = bosnian_new
+				primary_culture = bulgarian_new
+				culture_group = south_slavic
+			}
 			NOT = {
 				tag = CLI
 			}
@@ -1531,6 +1609,7 @@ defined_text = {
 			OR = {
 				has_reform = principality
 				has_reform = tsardom
+				has_reform = ruthenian_tsardom
 			}
 		}
 	}
@@ -1542,7 +1621,29 @@ defined_text = {
 			government = monarchy
 			OR = {
 				culture_group = east_slavic
+				culture_group = slavic
 				tag = PRM
+			}
+			NOT = {
+				primary_culture = polish_new
+			}
+			NOT = {
+				primary_culture = serbian_new
+			}
+			NOT = {
+				primary_culture = croatian_new
+			}
+			NOT = {
+				primary_culture = serbian_new
+			}
+			NOT = {
+				primary_culture = slovene_new
+			}
+			NOT = {
+				primary_culture = bosnian_new
+			}
+			NOT = {
+				primary_culture = bulgarian_new
 			}
 		}
 	}
@@ -1702,6 +1803,16 @@ defined_text = {
 			NOT = {
 				is_march = yes
 			}
+			is_subject_of_type = vassal
+			NOT = {
+				is_march = yes
+				has_reform = eyalet_government
+			}
+			NOT = {
+				is_march = yes
+				has_reform = eyalet_government
+				has_reform = barbary_eyalet_government
+			}
 			overlord = { primary_culture = turkish }
 		}
 	}
@@ -1765,6 +1876,7 @@ defined_text = {
 				tag = HED
 				tag = MDA
 				tag = MFL
+				has_reform = sharifate_reform
 			}
 		}
 	}
@@ -2213,7 +2325,14 @@ defined_text = {
 		trigger = {
 			has_female_consort = no
 			government = monarchy
-			culture_group = south_slavic
+			OR = {
+				primary_culture = croatian_new
+				primary_culture = serbian_new
+				primary_culture = slovene_new
+				primary_culture = bosnian_new
+				primary_culture = bulgarian_new
+				culture_group = south_slavic
+			}
 			NOT = {
 				tag = CLI
 			}
@@ -2267,6 +2386,7 @@ defined_text = {
 			OR = {
 				has_reform = principality
 				has_reform = tsardom
+				has_reform = ruthenian_tsardom
 			}
 		}
 	}
@@ -2277,7 +2397,29 @@ defined_text = {
 			government = monarchy
 			OR = {
 				culture_group = east_slavic
+				culture_group = slavic
 				tag = PRM
+			}
+			NOT = {
+				primary_culture = polish_new
+			}
+			NOT = {
+				primary_culture = serbian_new
+			}
+			NOT = {
+				primary_culture = croatian_new
+			}
+			NOT = {
+				primary_culture = serbian_new
+			}
+			NOT = {
+				primary_culture = slovene_new
+			}
+			NOT = {
+				primary_culture = bosnian_new
+			}
+			NOT = {
+				primary_culture = bulgarian_new
 			}
 		}
 	}
@@ -2386,6 +2528,13 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_DUKE
+		trigger = {
+			has_female_consort = no
+			has_reform = appanage_reform
+		}
+	}
+	text={
 		localisation_key = string_CONSORT
 		trigger = {
 			has_female_consort = no
@@ -2465,6 +2614,26 @@ defined_text = {
 			government_rank = 3
 			has_reform = celestial_empire
 			has_reform = parliamentary_reform
+		}
+	}
+	text={
+		localisation_key = string_HATUN
+		trigger = {
+			OR = {
+				is_subject_of_type = eyalet
+				is_subject_of_type = core_eyalet
+				has_reform = eyalet_government
+			}
+		}
+	}
+	text={
+		localisation_key = string_HATUN
+		trigger = {
+			OR = {
+				is_subject_of_type = eyalet
+				is_subject_of_type = core_eyalet
+				has_reform = barbary_eyalet_government
+			}
 		}
 	}
 	text={
@@ -2634,7 +2803,10 @@ defined_text = {
 		trigger = {
 			government_rank = 3
 			government = monarchy
-			primary_culture = croatian
+			OR = {
+				primary_culture = croatian
+				primary_culture = croatian_new
+			}
 		}
 	}
 	text={
@@ -2680,7 +2852,10 @@ defined_text = {
 				has_reform = feudalism_reform
 				has_reform = autocracy_reform
 			}
-			primary_culture = serbian
+			OR = {
+				primary_culture = serbian
+				primary_culture = serbian_new
+			}
 			religion = orthodox
 		}
 	}
@@ -2689,7 +2864,10 @@ defined_text = {
 		trigger = {
 			government_rank = 3
 			government = monarchy
-			primary_culture = serbian
+			OR = {
+				primary_culture = serbian
+				primary_culture = serbian_new
+			}
 		}
 	}
 	text={
@@ -2979,7 +3157,14 @@ defined_text = {
 		trigger = {
 			government_rank = 3
 			government = monarchy
-			culture_group = south_slavic
+			OR = {
+				primary_culture = croatian_new
+				primary_culture = serbian_new
+				primary_culture = slovene_new
+				primary_culture = bosnian_new
+				primary_culture = bulgarian_new
+				culture_group = south_slavic
+			}
 			NOT = {
 				tag = CLI
 			}
@@ -3033,6 +3218,7 @@ defined_text = {
 			OR = {
 				has_reform = principality
 				has_reform = tsardom
+				has_reform = ruthenian_tsardom
 			}
 		}
 	}
@@ -3043,7 +3229,29 @@ defined_text = {
 			government = monarchy
 			OR = {
 				culture_group = east_slavic
+				culture_group = slavic
 				tag = PRM
+			}
+			NOT = {
+				primary_culture = polish_new
+			}
+			NOT = {
+				primary_culture = serbian_new
+			}
+			NOT = {
+				primary_culture = croatian_new
+			}
+			NOT = {
+				primary_culture = serbian_new
+			}
+			NOT = {
+				primary_culture = slovene_new
+			}
+			NOT = {
+				primary_culture = bosnian_new
+			}
+			NOT = {
+				primary_culture = bulgarian_new
 			}
 		}
 	}
@@ -3098,6 +3306,12 @@ defined_text = {
 				religion = vajrayana
 				religion = mahayana
 			}
+		}
+	}
+	text={
+		localisation_key = string_KOGO
+		trigger = {
+			has_reform = japanese_divine_empire
 		}
 	}
 	text={
@@ -3307,6 +3521,7 @@ defined_text = {
 				tag = HED
 				tag = MDA
 				tag = MFL
+				has_reform = sharifate_reform
 			}
 		}
 	}
@@ -3438,7 +3653,10 @@ defined_text = {
 		trigger = {
 			government_rank = 2
 			government = monarchy
-			primary_culture = croatian
+			OR = {
+				primary_culture = croatian
+				primary_culture = croatian_new
+			}
 		}
 	}
 	text={
@@ -3484,7 +3702,10 @@ defined_text = {
 				has_reform = feudalism_reform
 				has_reform = autocracy_reform
 			}
-			primary_culture = serbian
+			OR = {
+				primary_culture = serbian
+				primary_culture = serbian_new
+			}
 			religion = orthodox
 		}
 	}
@@ -3493,7 +3714,10 @@ defined_text = {
 		trigger = {
 			government_rank = 2
 			government = monarchy
-			primary_culture = serbian
+			OR = {
+				primary_culture = serbian
+				primary_culture = serbian_new
+			}
 		}
 	}
 	text={
@@ -3814,7 +4038,14 @@ defined_text = {
 		trigger = {
 			government_rank = 2
 			government = monarchy
-			culture_group = south_slavic
+			OR = {
+				primary_culture = croatian_new
+				primary_culture = serbian_new
+				primary_culture = slovene_new
+				primary_culture = bosnian_new
+				primary_culture = bulgarian_new
+				culture_group = south_slavic
+			}
 			NOT = {
 				tag = CLI
 			}
@@ -3857,6 +4088,7 @@ defined_text = {
 			OR = {
 				has_reform = principality
 				has_reform = tsardom
+				has_reform = ruthenian_tsardom
 			}
 		}
 	}
@@ -3867,7 +4099,29 @@ defined_text = {
 			government = monarchy
 			OR = {
 				culture_group = east_slavic
+				culture_group = slavic
 				tag = PRM
+			}
+			NOT = {
+				primary_culture = polish_new
+			}
+			NOT = {
+				primary_culture = serbian_new
+			}
+			NOT = {
+				primary_culture = croatian_new
+			}
+			NOT = {
+				primary_culture = serbian_new
+			}
+			NOT = {
+				primary_culture = slovene_new
+			}
+			NOT = {
+				primary_culture = bosnian_new
+			}
+			NOT = {
+				primary_culture = bulgarian_new
 			}
 		}
 	}
@@ -4052,6 +4306,16 @@ defined_text = {
 			NOT = {
 				is_march = yes
 			}
+			is_subject_of_type = vassal
+			NOT = {
+				is_march = yes
+				has_reform = eyalet_government
+			}
+			NOT = {
+				is_march = yes
+				has_reform = eyalet_government
+				has_reform = barbary_eyalet_government
+			}
 			overlord = { primary_culture = turkish }
 		}
 	}
@@ -4117,6 +4381,7 @@ defined_text = {
 				tag = HED
 				tag = MDA
 				tag = MFL
+				has_reform = sharifate_reform
 			}
 		}
 	}
@@ -4233,7 +4498,10 @@ defined_text = {
 		localisation_key = string_PRINCESS
 		trigger = {
 			government = monarchy
-			primary_culture = croatian
+			OR = {
+				primary_culture = croatian
+				primary_culture = croatian_new
+			}
 		}
 	}
 	text={
@@ -4274,7 +4542,10 @@ defined_text = {
 				has_reform = feudalism_reform
 				has_reform = autocracy_reform
 			}
-			primary_culture = serbian
+			OR = {
+				primary_culture = serbian
+				primary_culture = serbian_new
+			}
 			religion = orthodox
 		}
 	}
@@ -4282,7 +4553,10 @@ defined_text = {
 		localisation_key = string_VOJVODKINJA
 		trigger = {
 			government = monarchy
-			primary_culture = serbian
+			OR = {
+				primary_culture = serbian
+				primary_culture = serbian_new
+			}
 		}
 	}
 	text={
@@ -4578,7 +4852,14 @@ defined_text = {
 		localisation_key = string_VOJVODKINJA
 		trigger = {
 			government = monarchy
-			culture_group = south_slavic
+			OR = {
+				primary_culture = croatian_new
+				primary_culture = serbian_new
+				primary_culture = slovene_new
+				primary_culture = bosnian_new
+				primary_culture = bulgarian_new
+				culture_group = south_slavic
+			}
 			NOT = {
 				tag = CLI
 			}
@@ -4627,6 +4908,7 @@ defined_text = {
 			OR = {
 				has_reform = principality
 				has_reform = tsardom
+				has_reform = ruthenian_tsardom
 			}
 		}
 	}
@@ -4636,7 +4918,29 @@ defined_text = {
 			government = monarchy
 			OR = {
 				culture_group = east_slavic
+				culture_group = slavic
 				tag = PRM
+			}
+			NOT = {
+				primary_culture = polish_new
+			}
+			NOT = {
+				primary_culture = serbian_new
+			}
+			NOT = {
+				primary_culture = croatian_new
+			}
+			NOT = {
+				primary_culture = serbian_new
+			}
+			NOT = {
+				primary_culture = slovene_new
+			}
+			NOT = {
+				primary_culture = bosnian_new
+			}
+			NOT = {
+				primary_culture = bulgarian_new
 			}
 		}
 	}
@@ -4733,6 +5037,12 @@ defined_text = {
 		localisation_key = string_LADY
 		trigger = {
 			has_reform = daimyo
+		}
+	}
+	text={
+		localisation_key = string_DUCHESS
+		trigger = {
+			has_reform = appanage_reform
 		}
 	}
 	text={
