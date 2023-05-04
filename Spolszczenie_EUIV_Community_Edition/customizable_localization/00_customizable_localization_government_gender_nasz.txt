@@ -336,6 +336,9 @@ defined_text = {
 			NOT = {
 				has_reform = shogunate
 			}
+			NOT = {
+				has_reform = japanese_divine_empire
+			}
 		}
 	}
 	text={
@@ -1917,6 +1920,9 @@ defined_text = {
 			NOT = {
 				has_reform = shogunate
 			}
+			NOT = {
+				has_reform = japanese_divine_empire
+			}
 		}
 	}
 	text={
@@ -3472,6 +3478,9 @@ defined_text = {
 			government = monarchy
 			NOT = {
 				has_reform = shogunate
+			}
+			NOT = {
+				has_reform = japanese_divine_empire
 			}
 		}
 	}
