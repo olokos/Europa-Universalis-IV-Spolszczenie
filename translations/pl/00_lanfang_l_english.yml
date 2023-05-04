@@ -158,7 +158,7 @@
  clovesDESC: "Goździki są bardzo wartościową przyprawą, naturalnie występującą na wyspach Indonezji. Stanowiły przyczynę wielu wojen, które miały na celu kontrolę ich produkcji. Goździki to aromatyczne pąki kwiatowe, które są zbierane wtedy, gdy te pąki zmieniają swój odcień z pierwotnego wyblakłego na jasnoczerwony. Goździki wykorzystywane są w kuchniach wielu regionów, od Azji do Morza Śródziemnego, a także w kolonialnej Ameryce."
  khmer.1.t: "Mroczny wiek Kambodży"
  khmer.1.d: "Potężne niegdyś Imperium Khmerów upadło. Angkor, serce khmerskiej cywilizacji, leży zrujnowane i opuszczone po tym, jak zostało zniszczone przez tajskich najeźdźców. W całej Kambodży świątynie i miasta niszczeją, gdy król [Root.Monarch.GetName] walczy o utrzymanie [Root.Monarch.GetHerHis] władzy poza nową stolicą w [Root.Capital.GetCapitalName]. To mroczny czas dla Khmerów."
- khmer.1.a: ""
+ khmer.1.a: "Powstaniemy ponownie."
  khmer_dark_age_tt: "§YWszystkie koszty w punktach monarchy§! zostaną zwiększone o §R25%§!."
  khmer.2.t: "Odrodzenie Khmerów"
  khmer.2.d: ""

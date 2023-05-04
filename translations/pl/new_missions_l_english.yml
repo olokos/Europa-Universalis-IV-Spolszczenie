@@ -1498,6 +1498,8 @@
  gc_cas_spa_incans_two_desc: "Skarb, który czeka w górach Peru sprawia, że cały przelana krew wydaje się warta zachodu. Powinniśmy naciskać dalej i zdobyć dalszą chwałę dla [Root.GetName]."
  gc_cas_spa_army_ready_title: "Przygotowania do rekonkwisty"
  gc_cas_spa_army_ready_desc: "Zbyt długo zaniedbywaliśmy nasz obowiązek troski o ludy Iberii. Powinniśmy przygotować się do zjednoczenia ich pod jednym sztandarem."
+ gc_cas_spa_army_ready2_title: "Przygotowania do rekonkwisty"
+ gc_cas_spa_army_ready2_desc: "Zbyt długo zaniedbywaliśmy nasz obowiązek troski o ludy Iberii. Powinniśmy przygotować się do zjednoczenia ich pod jednym sztandarem."
  gc_cas_spa_reconquista_one_title: "Odzyskaj Andaluzję"
  gc_cas_spa_reconquista_one_desc: "Maurowie cieszą się naszą cierpliwością od setek lat. Zlikwidujmy ich i odzyskajmy Andaluzję dla korony [Root.GetAdjective]."
  gc_cas_spa_reconquista_one_ct: "§Y[Root.GetName]§! zyskuje Casus Belli §YOdtworzenie uni§! na §Y[POR.GetName]§! jeśli misja '§YUjarzmij Nawarrę§!' została wcześniej ukończona."

@@ -4,7 +4,7 @@
  POPS_dynamodb-failure:0 "Nie uda³o si² po³¹czy¾"
  POPS_ua:0 "Nie nadaje si²"
  POPS_not-authorized:0 "Email i has³o które poda³eœ nie s¹ zgodne"
- POPS_UNEXPECTED_ERROR:0 "Failed to sign in. Please check your internet connection and try again."
+ POPS_UNEXPECTED_ERROR:0 "Nie mo¿na si² zalogowa¾ sprawdŸ po³¹czenie internetowe i spróbuj ponownie."
  POPS_bad-password-length:0 "Has³o jest za krótkie"
  POPS_missing-required-account-details-keys:0 "Brakuje wymaganych informacji"
  POPS_invalid-country-code:0 "Kod kraju jest nieprawid³owy"

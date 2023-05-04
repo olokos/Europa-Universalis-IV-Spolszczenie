@@ -5,7 +5,7 @@
  desc_changbai_mountain: "Góra Pektu-san to miejsce o ogromnym znaczeniu duchowym zarówno dla Dżurdżenów, jak i Koreańczyków. W tradycyjnych legendach obu narodów góra ta jest miejscem o niezwykłej urodzie."
  sinicize_culture_title: "Sinicyzacja naszej kultury"
  sinicize_culture_desc: "Nasza kultura jest naszą największą dumą. Nasz język jest jedyny w swoim rodzaju, nasze tradycje i nasze dziedzictwo są filarami naszego społeczeństwa.\nNiemniej jednak nie możemy zaprzeczyć wpływowi, jaki język i kultura chińska wywierały na nas przez dziesięciolecia - teraz bardziej niż kiedykolwiek. Chociaż nie wszyscy zgodzą się z tą decyzją, może warto rozważyć sinicyzację naszej kultury, aby stworzyć większą harmonię między [Root.Culture.GetName] a Chińczykami na naszej ziemi."
- sinicize_culture_tt: ""
+ sinicize_culture_tt: "Wszystkie prowincje położone poza terytorium Nowego Świata lub Oceanii, których kultura to §Y[Root.Culture.GetName]§!, są posiadane przez państwo [Root.GetName] lub jego poddanych."
  sinicize_culture_at: ""
  chinese_culture_group_dominates_in_country: "Jedna z kultur chińskich jest §Ykulturą dominującą§! w państwie [Root.GetName]."
  sinicize_culture_ct: "Wszystkie prowincje, których kultura to §Y[Root.Culture.GetName]§!, zostaną zasymilowane w ramach §Ychińskiej§! grupy kulturowej."

@@ -35,7 +35,7 @@
  TRADE_NODE_LOCATION_NOT_YET_DISCOVERED:0 "Po³o¿enie w²z³a handlowego nie zosta³o jeszcze odkryte."
  TRADE_MULTI_EXPLA:0 "Mno¿nik §Y$MUL$§! z tytu³u modyfikatora si³y handlowej o wartoœci $VAL$ w tym w²Ÿle."
  TRADE_POWER_CAPITAL:0 "G³ówne miasto handlowe w okolicy: $VAL$"
- TRADE_POWER_TAKE:0 "The merchants of §Y$COUNTRY$§W collect §Y$VAL$§W¤ from this Trade Node."
+ TRADE_POWER_TAKE:0 "Kupcy z §Y$COUNTRY$§W pobieraj¹ §Y$VAL$§W¤ z tego w²z³a handlowego."
  TRADE_POWER_PIRATES_TAKE:0 "§Y$COUNTRY$§W pobiera §Y$VAL$§W¤ z tego w²z³a handlowego."
  TRADE_POWER_TAKE_STATE:0 "Udaje im si² z tego wytworzy¾ dla paªstwa przychód w wysokoœci §Y$VALOTHER$§W¤."
  TRADE_POWER_PUSH:0 "§Y$COUNTRY$§W korzysta ze swojej si³y handlowej, by skierowa¾ §Y$VAL$§W¤ dalej."

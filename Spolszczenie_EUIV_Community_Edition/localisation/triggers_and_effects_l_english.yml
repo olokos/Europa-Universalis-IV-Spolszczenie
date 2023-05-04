@@ -590,7 +590,7 @@
  ADD_ARMYPROF_EFFECT:0 "$DIRECTION$ $PERC|2$ profesjonalizmu armii\n"
  SET_ARMYPROF_EFFECT:0 "Ustaw profesjonalizm armii na $PERC|Y$\n"
  GOVERNMENT_POWER_EFFECT:0 "$DIRECTION$ $VALUE$ $NAME$.\n"
- ADD_GOVERNMENT_POWER_SCALED_TO_SEATS:0 "$DIRECTION$ $VALUE|G$ $NAME$ from Parliament Seats."
+ ADD_GOVERNMENT_POWER_SCALED_TO_SEATS:0 "$DIRECTION$ $VALUE|G$ $NAME$ z miejsc w Parlamencie."
  TRIG_NOT_USES_RELIGIOUS_SCHOOLS:0 "$RELIGION$ nie ma szkó³ religijnych.\n"
  TRIG_USES_RELIGIOUS_SCHOOLS:0 "$RELIGION$ ma szko³y religijne.\n"
  TRIG_NOT_HAS_RELIGIOUS_SCHOOL:0 "W kraju $COUNTRY$ nie ma szko³y religijnej. \n"
