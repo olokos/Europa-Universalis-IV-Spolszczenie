@@ -1498,6 +1498,8 @@
  gc_cas_spa_incans_two_desc: "The treasure that awaits in the mountains of Peru makes all the bloodshed seem worthwhile. We should press on and claim further glory for [Root.GetName]."
  gc_cas_spa_army_ready_title: "Prepare Reconquista"
  gc_cas_spa_army_ready_desc: "For too long have we failed in our duty of care to the peoples of Iberia. We should prepare to unite them under one banner."
+ gc_cas_spa_army_ready2_title: "Prepare Reconquista"
+ gc_cas_spa_army_ready2_desc: "For too long have we failed in our duty of care to the peoples of Iberia. We should prepare to unite them under one banner."
  gc_cas_spa_reconquista_one_title: "Reclaim Andalucia"
  gc_cas_spa_reconquista_one_desc: "The Moors have enjoyed our patience for hundreds of years. Remove them and reclaim Andalucia for the [Root.GetAdjective] Crown."
  gc_cas_spa_reconquista_one_ct: "§Y[Root.GetName]§! gains §YRestoration of Union§! Casus Belli on §Y[POR.GetName]§! if the mission '§YSubjugate Navarra§!' has been completed before."

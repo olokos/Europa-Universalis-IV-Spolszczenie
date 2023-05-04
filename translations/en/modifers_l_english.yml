@@ -69,6 +69,7 @@
  MODIFIER_LIBERTY_DESIRE_FROM_SUBJECT_DEVELOPMENT: "Liberty Desire from Subjects Development"
  MODIFIER_BACKROW_ARTILLERY_DAMAGE: "Artillery Damage from Back Row"
  monthly_militarized_society: "Militarization of State"
+ militarized_society_gain_modifier: "Militarization Gain Modifier"
  MODIFIER_REINFORCE_COST: "Reinforce Cost"
  MODIFIER_ENFORCE_RELIGION_COST: "Cost of enforcing religion through war"
  MODIFIER_AMOUNT_OF_BANNERS: "Possible Manchu Banners"

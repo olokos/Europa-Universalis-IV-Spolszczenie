@@ -4393,6 +4393,7 @@
  drill_exercises: "Drill Exercises"
  appease_the_estates: "Appease the Estates"
  estates_fund_industrialization: "Fund an Industrial Project"
+ estates_fund_industrialization_tt: "One random owned province with §Y10§! development gains a §YManufactory§!."
  pol_5_crownland_tt: "The cost of this project is §Y5%§! Crown Land"
  legendary_pirate_personality: "Legendary Pirate"
  desc_legendary_pirate_personality: "This ruler has made a name as a legendary pirate of the Seven Seas. Your ruler has outmaneuvered countless fleets and knows the blow of any of the great oceans' winds. While your ruler is in charge there is little reason to worry about the quality of the navy.\n§YLegendary Pirates will not cost Republican Tradition to re-elect.§!"
