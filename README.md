@@ -6,12 +6,12 @@ Jak i steam:
 [Link](https://steamcommunity.com/sharedfiles/filedetails/?id=1869998815)
 
 ## Obsługiwana wersja gry i zakres tłumaczenia:
-Spolszczenie do Europa Universalis 4 w najnowszej wersji 1.34.5.
+Spolszczenie do Europa Universalis 4 w najnowszej wersji 1.35.3 Ottomans.
 
-### Stan w wersji 3.3.1 [14.09.2022]:
-* 19 569 sprawdzonych wpisów (99 370 słowa)
-* 82 061 przetłumaczone wpisy (715 864 słowa)
-* 23 866 nieprzetłumaczonych wpisów (515 859 słów)
+### Stan w wersji 3.4.1 [14.05.2023]::
+* 19 524 sprawdzonych wpisów
+* 85 041 przetłumaczone wpisy (875 tys. słów)
+* 29 584 nieprzetłumaczonych wpisów (582 tys. słów)
 
 Jest to obecnie najpełniejsze, stworzone przez społeczność gry, spolszczenie, które posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie **(77,47% całej gry)**. Prace projektu obejmują 122 plików, z czego do przetłumaczenia pozostało 22.
 
