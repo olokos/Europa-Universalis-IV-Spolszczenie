@@ -438,6 +438,6 @@
  TRANSFER_TRADE_POWER_THEY_NOT_ADVANCED:0 "Nie s¹ oni wystarczaj¹co zaawansowani by przekaza¾ nam moc handlow¹."
  OWNED_BY_OR_VASSALS:0 "W posiadaniu kraju §Y$COUNTRY$§! lub ich poddanych."
  NOT_OWNED_BY_OR_VASSALS:0 "Nie jest w posiadaniu kraju §Y$COUNTRY$§!, ani ich poddanych."
- OWNED_BY_OR_NON_SOVEREIGN_SUBJECTS:0 "W posiadaniu kraju §Y$COUNTRY$§! lub ich niezale¿nych poddanych."
- NOT_OWNED_BY_OR_NON_SOVEREIGN_SUBJECTS:0 "Nie jest w posiadaniu kraju §Y$COUNTRY$§!, ani ich niezale¿nych poddanych."
+ OWNED_BY_OR_NON_SOVEREIGN_SUBJECTS:0 "W posiadaniu kraju §Y$COUNTRY$§! lub ich trybutariuszy."
+ NOT_OWNED_BY_OR_NON_SOVEREIGN_SUBJECTS:0 "Nie jest w posiadaniu kraju §Y$COUNTRY$§!, ani ich trybutariuszy."
  FE_USE_DYNAMIC_PROVINCE_NAMES:0 "Dynamiczne nazwy prowinicji"

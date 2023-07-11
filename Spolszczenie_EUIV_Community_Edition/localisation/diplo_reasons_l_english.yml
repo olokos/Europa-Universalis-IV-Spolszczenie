@@ -370,7 +370,7 @@
  DIPLO_NO_ACCESS_TO_CAPITAL:0 "Brak dost²pu l¹dem do stolicy:"
  DIPLO_CONDOTTIERI_MALUS:0 "Nie ufa, ¿e weŸmiesz udzia³:"
  DIPLO_VASSAL_WAR:0 "Ustrój polityczny umo¿liwia wojn² wasali:"
- DIPLO_TRIBUTARIES:0 "Liczba stanów zale¿nych: "
+ DIPLO_TRIBUTARIES:0 "Liczba trybutariuszy: "
  DIPLO_IS_CELESTIAL_EMPEROR:0 "$WHO$ jest Niebiaªskim Cesarzem: "
  DIPLO_IS_HORDE_EMPIRE:0 "$WHO$ to Imperium Ordy: "
  DIPLO_ESCALATED_COLONIAL_WAR:0 "Nie chce bra¾ udzia³u w eskalacji wojny kolonialnej:"

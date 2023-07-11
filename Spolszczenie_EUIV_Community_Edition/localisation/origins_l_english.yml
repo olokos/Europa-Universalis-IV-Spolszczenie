@@ -2103,7 +2103,7 @@
  msi_gather_the_troops_ct:0 "Paªstwo §Y[Root.GetName]§! uzyskuje sta³e roszczenia do wszystkich prowincji §YMossi§! w regionie §YNigru§!."
  west_africa_shamans_ct:0 "Ka¿da posiadana prowincja §Ypogaªska§! zyskuje modyfikator prowincji '§YPrawa fetyszystów§!' na §Y25 lat§!, co daje nast²puj¹ce efekty:\nLokalne niepokoje: §G-2.00§!\nMiesi²czna zmiana lokalnej autonomii: §G-0.05§!"
  west_africa_marabouts_ct:0 "Ka¿da posiadana prowincja §Ymuzu³maªska§! zyskuje na §Y25 lat§! modyfikator prowincji '§YLokalny marabut§!', daj¹cy nast²puj¹ce efekty:\nLokalne niepokoje: §G-2.00§!\nMiesi²czna zmiana lokalnej autonomii: §G-0,05§!"
- oyo_trade_with_the_muslims_at:0 "Posiada §Yoœrodek handlowy§! w w²Ÿle handlowym §YTimbuktu§!."
+ oyo_trade_with_the_muslims_at:0 "Posiada §Ycentrum handlowe§! w w²Ÿle handlowym §YTimbuktu§!."
  oyo_trade_with_the_muslims_bt:0 "Any owner of a §YCenter of Trade§! in the §YTimbuktu§! Trade Node has at least §Y90§! opinion of [Root.GetName] or is a subject of [Root.GetName]."
  oyo_chaaargee_ct:0 "The capital of a §YRival§!, an §YEnemy§!, a §YGreat Power§! or a country with more total development than §Y[Root.GetName]§! is under our control while a cavalry unit is located in said capital."
  oyo_chaaargee_tt:0 "The mercenary company §YOyo Cavalry§! no longer reduces §YArmy Professionalism§! when recruited."

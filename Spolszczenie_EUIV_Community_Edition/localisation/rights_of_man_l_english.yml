@@ -236,7 +236,7 @@
  DEMAND_ARTIFACTS_DESCRIPTION:0 "Poka¿ paªstwu $SUBJECT|Y$, gdzie ich miejsce, ¿¹daj¹c od nich najwy¿szej jakoœci przedmiotów. Dzi²ki temu nasz presti¿ zwi²kszy si² ich kosztem o $PRESTIGE|Y$, ale równie¿ ich d¹¿enia niepodleg³oœciowe wzrosn¹ o §R$LD$%§!."
  OVERLORD_DEMANDED_ARTIFACTS:0 "zmusili nas do oddania naszych najcenniejszych artefaktów, co kosztowa³o nas $PRESTIGE|R$ presti¿u. Nie mogliœmy nic zrobi¾."
  DEMAND_ADDITIONAL_TRIBUTE_TITLE:0 "Za¿¹daj dodatkowego trybutu"
- DEMAND_ADDITIONAL_TRIBUTE_DESCRIPTION:0 "Za¿¹daj od poddanego paªstwa $SUBJECT|Y$ dodatkowych $TRIBUTE|Y$¤ jako symbol dobrej woli. W koªcu s¹ naszym §Ystanem zale¿nym§!. To jednak zwi²kszy³oby ich d¹¿enia niepodleg³oœciowe o §R$LD$%§!."
+ DEMAND_ADDITIONAL_TRIBUTE_DESCRIPTION:0 "Za¿¹daj od poddanego paªstwa $SUBJECT|Y$ dodatkowych $TRIBUTE|Y$¤ jako symbol dobrej woli. W koªcu s¹ naszym §Ytrybutariuszem§!. To jednak zwi²kszy³oby ich d¹¿enia niepodleg³oœciowe o §R$LD$%§!."
  DEMAND_ADDITIONAL_TRIBUTE_BROKE:0 "Nie maj¹ wymaganych $TRIBUTE|Y$¤."
  OVERLORD_DEMANDED_ADDITIONAL_TRIBUTE:0 "wyœlemy im dodatkowy trybut w wysokoœci $TRIBUTE|Y$¤. Kiedy b²d¹ z tego zadowoleni?"
  FORCE_SEPPUKU_TITLE:0 "Wymuœ seppuku"

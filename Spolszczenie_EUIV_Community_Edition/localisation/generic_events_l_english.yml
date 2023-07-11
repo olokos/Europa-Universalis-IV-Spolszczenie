@@ -783,7 +783,7 @@
  muslim_piety.17.t:0 "Fiasko ograniczeª budowlanych"
  muslim_piety.17.d:0 "Poniewa¿ nasze paªstwo traci zapa³ do legalistycznego islamu, coraz trudniej jest nam znaleŸ¾ i wyznaczy¾ kadich gotowych w pe³ni wdro¿y¾ nasze oficjalne ograniczenia stawiania budynków przez 'Zimmi'. W tym momencie prawo to sta³o si² po prostu niewykonalne."
  muslim_piety.17.a:0 "Niech b²dzie."
- muslim_piety.20.t:0 "Nowy [Root.Monarch.GetTitle]"
+ muslim_piety.20.t:0 "Now[Root.Monarch.GetAY] [Root.Monarch.GetTitle]"
  muslim_piety.20.d:0 "[Root.Heir.GetName] jest nieœmia³ym dzieckiem, Ÿle przygotowanym do stawienia czo³a niebezpieczeªstwom tego œwiata. Naszemu narodowi bardzo brakuje rz¹dów silnej r²ki. Na szcz²œcie dla nas wszystkich kilku z [Root.Heir.GetHerHis] wujków i zaufanych doradców postanowi³o dzia³a¾. Dziecko jest teraz bezpiecznie zamkni²te w miejscu, z którego nie wyrz¹dzi wi²cej szkód. Doradca zosta³ og³oszony naszym nowym w³adc¹ i przysi¹g³ zapewni¾ naszemu narodowi silne przywództwo, którego tak bardzo potrzebuje."
  muslim_piety.20.a:0 "Niech nasz nowy $MONARCHTITLE$ rz¹dzi d³ugo i w pomyœlnoœci!"
  muslim_dlc.22.t:0 "Pi¹tkowe modlitwy?"

@@ -135,7 +135,7 @@
  TRADE_SHIPS_SORT:0 "Sortuj wed³ug si³y handlu z lekkich statków i kupców"
  TRADE_SHIPS_SORT_DELAYED:0 "Posiadanie kupców w w²Ÿle i/lub posiadanie patroluj¹cych statków zwi²ksza twoj¹ si³² handlow¹."
  TRADE_PROVINCES_SORT:0 "Sortuj wed³ug si³y handlowej prowincji"
- TRADE_PROVINCES_DELAYED:0 "Posiadanie prowincji zwi²kszy twoj¹ si³² handlu. Niektóre prowincje s¹ na pocz¹tku bardziej op³acalne, w zale¿noœci takich czynników jak bycie wa¿nym oœrodkiem handlowym lub po³o¿enie w ujœciu rzeki. Si³a handlowa prowincji mo¿e zosta¾ zwi²kszona poprzez wznoszenie budynków."
+ TRADE_PROVINCES_DELAYED:0 "Posiadanie prowincji zwi²kszy twoj¹ si³² handlu. Niektóre prowincje s¹ na pocz¹tku bardziej op³acalne, w zale¿noœci takich czynników jak bycie wa¿nym centrum handlowym lub po³o¿enie w ujœciu rzeki. Si³a handlowa prowincji mo¿e zosta¾ zwi²kszona poprzez wznoszenie budynków."
  TRADE_MAX_POWER_MOD_SORT:0 "Sortuj wed³ug modyfikatora si³y handlu"
  TRADE_MAX_POWER_MOD_DELAYED:0 "Posiadanie prowincji zwi²kszy twoj¹ si³² handlu. Niektóre prowincje s¹ bardziej op³acalne na pocz¹tku, inne zaœ mo¿na rozbudowywa¾."
  TRADE_ADDED_VALUE_COUNTRY:0 "§Y$WHO$§W zwi²ksza wartoœ¾ eksportow¹ o §Y$VAL$§W%"

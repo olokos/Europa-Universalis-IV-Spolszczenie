@@ -142,7 +142,7 @@
  disable_rebels_from_seize_land_for_estate_janissaries:0 "§YJanissaries§! will no longer raise any rebels when their land gets seized if their loyalty drops below §Y30§!."
  disable_rebels_from_seize_land_for_estate_eunuchs:0 "§YEunuchs§! will no longer raise any rebels when their land gets seized if their loyalty drops below §Y30§!."
  disable_rebels_from_seize_land_for_all:0 "§YWszystkie klasy spo³eczne§! nie b²d¹ ju¿ wznieca¾ buntów po zaj²ciu ich ziem w przypadku spadku ich lojalnoœci poni¿ej §Y30%§!."
- will_upgrade_center_of_trade_to_level_2_tt:0 "Centrum handlu w prowincji §Y[This.GetName]§! zostanie ulepszone o 1 poziom, ale nie wy¿ej ni¿ na poziom 2."
+ will_upgrade_center_of_trade_to_level_2_tt:0 "Centrum handlowe w prowincji §Y[This.GetName]§! zostanie ulepszone o 1 poziom, ale nie wy¿ej ni¿ na poziom 2."
  ME_ADD_PRESTIGE_OR_MONARCHPOWER:0 "Ca³y nadmiar Presti¿u zostanie zamieniony na ka¿dy rodzaj §Ypunktów monarchy§!!!"
  ADD_STAT_OR_POWER_adm:0 "Excess Points over §Y6§! £adm£ will be converted into §G100§! Administrative Power."
  ADD_STAT_OR_POWER_dip:0 "Excess Points over §Y6§! £dip£ will be converted into §G100§! Diplomatic Power."
