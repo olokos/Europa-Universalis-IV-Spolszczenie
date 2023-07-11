@@ -142,7 +142,7 @@
  disable_rebels_from_seize_land_for_estate_janissaries: ""
  disable_rebels_from_seize_land_for_estate_eunuchs: ""
  disable_rebels_from_seize_land_for_all: "§YWszystkie klasy społeczne§! nie będą już wzniecać buntów po zajęciu ich ziem w przypadku spadku ich lojalności poniżej §Y30%§!."
- will_upgrade_center_of_trade_to_level_2_tt: "Centrum handlu w prowincji §Y[This.GetName]§! zostanie ulepszone o 1 poziom, ale nie wyżej niż na poziom 2."
+ will_upgrade_center_of_trade_to_level_2_tt: "Centrum handlowe w prowincji §Y[This.GetName]§! zostanie ulepszone o 1 poziom, ale nie wyżej niż na poziom 2."
  ME_ADD_PRESTIGE_OR_MONARCHPOWER: "Cały nadmiar Prestiżu zostanie zamieniony na każdy rodzaj §Ypunktów monarchy§!!!"
  ADD_STAT_OR_POWER_adm: ""
  ADD_STAT_OR_POWER_dip: ""

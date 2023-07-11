@@ -2103,7 +2103,7 @@
  msi_gather_the_troops_ct: "Państwo §Y[Root.GetName]§! uzyskuje stałe roszczenia do wszystkich prowincji §YMossi§! w regionie §YNigru§!."
  west_africa_shamans_ct: "Każda posiadana prowincja §Ypogańska§! zyskuje modyfikator prowincji '§YPrawa fetyszystów§!' na §Y25 lat§!, co daje następujące efekty:\nLokalne niepokoje: §G-2.00§!\nMiesięczna zmiana lokalnej autonomii: §G-0.05§!"
  west_africa_marabouts_ct: "Każda posiadana prowincja §Ymuzułmańska§! zyskuje na §Y25 lat§! modyfikator prowincji '§YLokalny marabut§!', dający następujące efekty:\nLokalne niepokoje: §G-2.00§!\nMiesięczna zmiana lokalnej autonomii: §G-0,05§!"
- oyo_trade_with_the_muslims_at: "Posiada §Yośrodek handlowy§! w węźle handlowym §YTimbuktu§!."
+ oyo_trade_with_the_muslims_at: "Posiada §Ycentrum handlowe§! w węźle handlowym §YTimbuktu§!."
  oyo_trade_with_the_muslims_bt: ""
  oyo_chaaargee_ct: ""
  oyo_chaaargee_tt: ""

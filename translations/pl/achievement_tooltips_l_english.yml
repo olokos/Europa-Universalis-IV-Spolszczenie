@@ -59,6 +59,6 @@
  achievement_assemble_instructions_needed_tootlip: "Uchwalono reformę §Ycofnięcia przywilejów§! Świętego Cesarstwa Rzymskiego."
  released_in_1444_tooltip: "Rozpoczęto w roku §Y1444§!."
  achievement_purify_the_temple_tooltip: "Użyto §Ynajazdu na kościół heretyków§! przeciwko państwu §Y[118.Owner.GetName]§! i najechał na kościół w prowincji §Y[118.GetName]§!."
- has_celebrated_festival_tooltip: "Obchodzono festiwal."
+ has_celebrated_festival_tooltip: "Zorganizowano festiwal."
  achievement_the_freest_man_in_the_world_tooltip: "Żadna skolonizowana prowincja na świecie nie produkuje §Yniewolników§!."
  achievement_mehmet_ambition_tooltip: "Należy do państwa §Y[Root.GetName]§! lub §Ynarodowych eljalet§! jego wasali."

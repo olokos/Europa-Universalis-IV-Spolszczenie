@@ -135,7 +135,7 @@
  TRADE_SHIPS_SORT: "Sortuj według siły handlu z lekkich statków i kupców"
  TRADE_SHIPS_SORT_DELAYED: "Posiadanie kupców w węźle i/lub posiadanie patrolujących statków zwiększa twoją siłę handlową."
  TRADE_PROVINCES_SORT: "Sortuj według siły handlowej prowincji"
- TRADE_PROVINCES_DELAYED: "Posiadanie prowincji zwiększy twoją siłę handlu. Niektóre prowincje są na początku bardziej opłacalne, w zależności takich czynników jak bycie ważnym ośrodkiem handlowym lub położenie w ujściu rzeki. Siła handlowa prowincji może zostać zwiększona poprzez wznoszenie budynków."
+ TRADE_PROVINCES_DELAYED: "Posiadanie prowincji zwiększy twoją siłę handlu. Niektóre prowincje są na początku bardziej opłacalne, w zależności takich czynników jak bycie ważnym centrum handlowym lub położenie w ujściu rzeki. Siła handlowa prowincji może zostać zwiększona poprzez wznoszenie budynków."
  TRADE_MAX_POWER_MOD_SORT: "Sortuj według modyfikatora siły handlu"
  TRADE_MAX_POWER_MOD_DELAYED: "Posiadanie prowincji zwiększy twoją siłę handlu. Niektóre prowincje są bardziej opłacalne na początku, inne zaś można rozbudowywać."
  TRADE_ADDED_VALUE_COUNTRY: "§Y$WHO$§W zwiększa wartość eksportową o §Y$VAL$§W%"

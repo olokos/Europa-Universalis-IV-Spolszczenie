@@ -236,7 +236,7 @@
  DEMAND_ARTIFACTS_DESCRIPTION: "Pokaż państwu $SUBJECT|Y$, gdzie ich miejsce, żądając od nich najwyższej jakości przedmiotów. Dzięki temu nasz prestiż zwiększy się ich kosztem o $PRESTIGE|Y$, ale również ich dążenia niepodległościowe wzrosną o §R$LD$%§!."
  OVERLORD_DEMANDED_ARTIFACTS: "zmusili nas do oddania naszych najcenniejszych artefaktów, co kosztowało nas $PRESTIGE|R$ prestiżu. Nie mogliśmy nic zrobić."
  DEMAND_ADDITIONAL_TRIBUTE_TITLE: "Zażądaj dodatkowego trybutu"
- DEMAND_ADDITIONAL_TRIBUTE_DESCRIPTION: "Zażądaj od poddanego państwa $SUBJECT|Y$ dodatkowych $TRIBUTE|Y$¤ jako symbol dobrej woli. W końcu są naszym §Ystanem zależnym§!. To jednak zwiększyłoby ich dążenia niepodległościowe o §R$LD$%§!."
+ DEMAND_ADDITIONAL_TRIBUTE_DESCRIPTION: "Zażądaj od poddanego państwa $SUBJECT|Y$ dodatkowych $TRIBUTE|Y$¤ jako symbol dobrej woli. W końcu są naszym §Ytrybutariuszem§!. To jednak zwiększyłoby ich dążenia niepodległościowe o §R$LD$%§!."
  DEMAND_ADDITIONAL_TRIBUTE_BROKE: "Nie mają wymaganych $TRIBUTE|Y$¤."
  OVERLORD_DEMANDED_ADDITIONAL_TRIBUTE: "wyślemy im dodatkowy trybut w wysokości $TRIBUTE|Y$¤. Kiedy będą z tego zadowoleni?"
  FORCE_SEPPUKU_TITLE: "Wymuś seppuku"

@@ -101,7 +101,7 @@
  LEDGER_ARMY_REGIMENTS: "Pułki"
  LEDGER_GUNS: "Działa"
  LEDGER_SPEED: "Prędkość"
- LEDGER_HULLSIZE: "Pojemność kadłuba"
+ LEDGER_HULLSIZE: "Rozmiar kadłuba"
  LEDGER_SHIPS: "Okręty"
  LEDGER_INFLATION: "Inflacja"
  LEDGER_TE: "Wyd. handlu"

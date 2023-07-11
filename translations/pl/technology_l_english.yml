@@ -27,7 +27,7 @@
  CAV_SHO_INCREASE: "Uderzenie kawalerii: §G+$VALUE$§W\n"
  ART_SHO_INCREASE: "Uderzenie artylerii: §G+$VALUE$§W\n"
  TECH_SETUP: "Kiedy osiągasz kolejny poziom technologiczny."
- WESTERN_NAVAL_TECH: "Jednostki floty"
+ WESTERN_NAVAL_TECH: "Jednostki morskie"
  TECH_HEADER: "$MESSENGER$"
  TECH_1: "$TYPE$ się rozwija!"
  TECH_2: "Panie, nasza $TYPE$ osiągnęła poziom"
