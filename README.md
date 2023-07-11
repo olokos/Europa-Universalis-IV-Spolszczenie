@@ -107,6 +107,7 @@ W razie jakichkolwiek problemów/zastrzeżeń/propozycji zachęcamy do kontaktu 
 - DrSzuriad - tłumaczenie, tworzenie CL
 - Ereno - organizacja
 - Izabella - pomoc
+- krzemcis - tłumaczenie
 - Masahara - korekta, pomoc w organizacji
 - Mazurczyk - tłumaczenie
 - NereXus - pomoc graficzna (poprawki interfejsu)
@@ -118,6 +119,7 @@ W razie jakichkolwiek problemów/zastrzeżeń/propozycji zachęcamy do kontaktu 
 - tdomek - tłumaczenie
 - Shick - tłumaczenie
 - Witcher - korekta, testy, tłumaczenie
+- WuEm94 - tłumaczenie
 
 - Autorzy [spolszczenia Grajpopolsku.pl](https://steamcommunity.com/sharedfiles/filedetails/?id=537685335) :
 * Asenath - korekta
