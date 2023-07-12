@@ -467,7 +467,7 @@
  HAS_ESTATE_LOANS:0 "Posiada po¿yczki zaci¹gni²te od klas spo³ecznych."
  HAS_NO_ESTATE_LOANS:0 "Nie posiada po¿yczek zaci¹gni²tych od klas spo³ecznych."
  GRANT_PRIVILEGE:0 "$PRIVILEGE|Y$ will be granted to $ESTATE|Y$ which does the following:\n$EFFECT$\n$MODIFIERS$"
- REVOKE_PRIVILEGE:0 "$PRIVILEGE|Y$ will be revoked from $ESTATE|Y$ which has the following Effect:\n$EFFECT$"
+ REVOKE_PRIVILEGE:0 "$PRIVILEGE|Y$ will be revoked from $ESTATE|Y$ which does the following:\n$EFFECT$\n$MODIFIERS$"
  PROVOKE_REVOLT:0 "Sprowokuj bunt"
  PROVOKE_REVOLT_INSTANT:0 "Sprowokuj buntowników do natychmiastowego wszcz²cia rebelii. B²d¹ oni o $EXTRA$ silniejsi ni¿ zazwyczaj, z sum¹ $SIZE|Y$ pu³ków."
  PROVOKE_REVOLT_DELAYED:0 "Bunty to doœ¾ nieprzewidywalna sprawa, ale podejmuj¹c drastyczne œrodki, mo¿emy teraz zmusi¾ rebeliantów do buntu. Mo¿e to jednak zach²ci¾ wi²cej osób do do³¹czenia do ich szeregów."

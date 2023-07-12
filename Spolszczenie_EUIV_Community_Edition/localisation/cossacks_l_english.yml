@@ -639,7 +639,7 @@
  GRANT_CLAIM:0 "Nadaj roszczenia"
  GRANT_PROVINCE_NO_ELIGBLE:0 "Nie posiadamy ¿adnych s¹siaduj¹cych z nimi prowincji (lub dost²pnych drog¹ morsk¹), które mo¿emy im przyzna¾."
  GRANT_CORE_CLAIM_NO_ELIGBLE:0 "Nie mamy ¿adnych s¹siaduj¹cych z nimi (lub dost²pnych drog¹ morsk¹) prowincji narodowych czy roszczeª, które mo¿emy im przyzna¾."
- THEY_WOULD_BE_OVEREXTENDED:0 "This would cause them to become overextended."
+ THEY_WOULD_BE_OVEREXTENDED:0 "This would cause them to become overextended. Their current overextension is $VAL|1%$ and the province would add $ADD|1$%."
  GRANT_PROVINCE_DESC:0 "Przyznaje im jedn¹ z naszych w³asnych prowincji. To by ich bardzo ucieszy³o."
  GRANT_CORE_PROVINCE_DESC:0 "Przyznajemy im prowincj² $PROV|Y$, która stanie si² ich prowincj¹ narodow¹. Ich d¹¿enia niepodleg³oœciowe zmniejsz¹ si² o $LD$ i wynios¹ $LD_TOTAL$."
  GRANT_NONCORE_PROVINCE_DESC:0 "Przyznajemy im prowincj² $PROV|Y$, która stanie si² ich prowincj¹ narodow¹. Ich d¹¿enia niepodleg³oœciowe zmniejsz¹ si² o $LD$ i wynios¹ $LD_TOTAL$. Ich przerost wzroœnie do $OVEREXT$."
