@@ -102,7 +102,7 @@
  DIPLO_THEY_WON_WAR: "$WHO$ won war: "
  DIPLO_WAR_STALLED: "War is stalled: "
  DIPLO_RIVAL_COLONIST: "$WHO$ is a colonial power: "
- DIPLO_WAR_UNOCCUPIED_FORTS: "Demanding $PROV$ without occupying any forts in the area: "
+ DIPLO_WAR_UNOCCUPIED_FORTS: "Demanding $PROV$ without occupying any of the forts connected to it via land: "
  DIPLO_WAR_INCONCLUSIVE: "Need at least $VAL$ war score to make demands: "
  DIPLO_UNREASONABLE_DEMANDS: "Unreasonable demands: "
  DIPLO_UNDESIRABLE_PEACE: "Undesirable terms: "

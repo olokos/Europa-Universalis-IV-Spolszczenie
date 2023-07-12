@@ -639,7 +639,7 @@
  GRANT_CLAIM: "Grant Claim"
  GRANT_PROVINCE_NO_ELIGBLE: "We don't own any provinces adjacent to them (or that are accessible by sea) that we can grant them."
  GRANT_CORE_CLAIM_NO_ELIGBLE: "We don't have any cores or claims adjacent to them (or that are accessible by sea) that we can grant them."
- THEY_WOULD_BE_OVEREXTENDED: "This would cause them to become overextended."
+ THEY_WOULD_BE_OVEREXTENDED: "This would cause them to become overextended. Their current overextension is $VAL|1%$ and the province would add $ADD|1$%."
  GRANT_PROVINCE_DESC: "Grants them one of our own provinces. This would please them greatly."
  GRANT_CORE_PROVINCE_DESC: "We grant them $PROV|Y$ and our core on it. Their Liberty Desire will decrease by $LD$ and become $LD_TOTAL$."
  GRANT_NONCORE_PROVINCE_DESC: "We grant them $PROV|Y$. Their Liberty Desire will decrease by $LD$ and become $LD_TOTAL$. Their overextension will increase to $OVEREXT$."

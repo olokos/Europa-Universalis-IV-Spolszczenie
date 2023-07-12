@@ -155,7 +155,7 @@
  SEND_COLONIST_TOOLTIP: "Send a colonist to $PROVINCE|Y$.\nHe will create a colony of our primary culture and religion if certain criteria are met."
  SEND_COLONIST_LABEL_TOOLTIP: "We can send a colonist to $PROVINCE|Y$.\nHe will create a colony of our primary culture and religion if certain criteria are met."
  SEND_COLONIST_TOOLTIP_EXTRA: "This province is also eligible for minority expulsion should we have any minorities we wish to get rid of."
- EXPEL_MINORITY_TOOLTIP: "We can expel a minority to $PROVINCE|Y$.\nThe culture and religion of the home province will be transplanted to the new colony, leaving the home province with our primary culture and religion."
+ EXPEL_MINORITY_TOOLTIP: "We can expel a minority to $PROVINCE|Y$.\nThe culture and religion of the home province will be transplanted to the new colony."
  SELECT_MINORITY_TOOLTIP: "Expelling $MINORITY|Y$ minorities to $PROVINCE|Y$ will slowly replace them by subjects of our culture and religion."
  SELECT_MINORITY_TOOLTIP_EXTRA_ACCEPTED: "This minority is §Yaccepted§!, and we own $NUM|Y$ eligible provinces for this."
  SELECT_MINORITY_TOOLTIP_EXTRA_NOT_ACCEPTED: "This minority is §Rnot accepted§!, and we own $NUM|Y$ eligible provinces for this."

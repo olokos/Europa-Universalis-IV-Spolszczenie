@@ -4502,7 +4502,7 @@
  CORE_SAME_CULTURE: "This province is the same culture group, so it cannot be lost as a core."
  TOLERANCE_SLIDER: "This will affect $RELIGION$ provinces with"
  NO_SUCC_SEPARATE: "The target of a succession war cannot sign a separate peace."
- HRE_DISMANTLE_EMPEROR: "You must control the capital of the current Emperor's homeland in $COUNTRY$, which is $PROV$."
+ HRE_DISMANTLE_EMPEROR: "You must control the capital of the current Emperor's homeland in $COUNTRY|Y$, which is $PROV$."
  HRE_DISMANTLE_ELECTORS: "The elector $COUNTRY$ is not controlled by you or one of your dependents."
  NOOPENMARKET: "This Market is currently closed to our merchants. we can either use war or diplomacy to open it."
  REVOLTRISK_EFFECT: "$DIRECTION$ $VALUE$ unrest in $WHERE|Y$ (Current: $CURRENT|R$).\n"

@@ -467,7 +467,7 @@
  HAS_ESTATE_LOANS: "Has loans from Estates"
  HAS_NO_ESTATE_LOANS: "Has no loans from Estates"
  GRANT_PRIVILEGE: "$PRIVILEGE|Y$ will be granted to $ESTATE|Y$ which does the following:\n$EFFECT$\n$MODIFIERS$"
- REVOKE_PRIVILEGE: "$PRIVILEGE|Y$ will be revoked from $ESTATE|Y$ which has the following Effect:\n$EFFECT$"
+ REVOKE_PRIVILEGE: "$PRIVILEGE|Y$ will be revoked from $ESTATE|Y$ which does the following:\n$EFFECT$\n$MODIFIERS$"
  PROVOKE_REVOLT: "Provoke Revolt"
  PROVOKE_REVOLT_INSTANT: "Provoke the rebels to revolt immediately. They will be $EXTRA$ stronger than usual, for a total of $SIZE|Y$ regiments."
  PROVOKE_REVOLT_DELAYED: "Revolts are a quite unpredictable business, but by taking some drastic measures we can push the rebels to revolt now. This might however encourage more people to join their ranks."
