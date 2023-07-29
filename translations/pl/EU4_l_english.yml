@@ -3275,7 +3275,7 @@
  ALLOW_COOP_MP: "Pozwól graczom grać tym samym krajem"
  MILVIEW_SHOW_OUTDATED_UNITS: "Pokaż przestarzałe jednostki"
  CD_GIVES_FLEET_ACCESS: "Pozwala na kotwiczenie flot krajów: $LIST$."
- CD_HAS_FLEET_ACCESS: "Ma dostęp do portó w $LIST$."
+ CD_HAS_FLEET_ACCESS: "Ma dostęp do portów w $LIST$."
  CV_GOVREBELS_CHANGEGOV_STABILITY: "Zmiana będzie kosztować §Y$COST$§! punktów z zasobu $TYPE$."
  LOAN_INTEREST_DESCRIPTION: "Aktualny poziom odsetek jest oparty o:"
  MINIMUM: "Minimum"
