@@ -3275,7 +3275,7 @@
  ALLOW_COOP_MP:0 "Pozwól graczom gra¾ tym samym krajem"
  MILVIEW_SHOW_OUTDATED_UNITS:0 "Poka¿ przestarza³e jednostki"
  CD_GIVES_FLEET_ACCESS:0 "Pozwala na kotwiczenie flot krajów: $LIST$."
- CD_HAS_FLEET_ACCESS:0 "Ma dost²p do portó w $LIST$."
+ CD_HAS_FLEET_ACCESS:0 "Ma dost²p do portów w $LIST$."
  CV_GOVREBELS_CHANGEGOV_STABILITY:0 "Zmiana b²dzie kosztowa¾ §Y$COST$§! punktów z zasobu $TYPE$."
  LOAN_INTEREST_DESCRIPTION:0 "Aktualny poziom odsetek jest oparty o:"
  MINIMUM:0 "Minimum"
