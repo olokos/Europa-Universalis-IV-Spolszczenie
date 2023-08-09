@@ -3,9 +3,11 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
+
+    <!-- The Basics -->
     <groupId>net.rafkos.tools.eu4</groupId>
     <artifactId>LocaleParser</artifactId>
-    <version>0.1.15-SNAPSHOT</version>
+    <version>0.1.16</version>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <kotlin.version>1.8.20-RC</kotlin.version>
@@ -14,7 +16,10 @@
         <commons-io.version>2.11.0</commons-io.version>
         <log4j-core.version>2.20.0</log4j-core.version>
         <log4j-api.version>2.20.0</log4j-api.version>
+        <maven-assembly-plugin.version>2.2-beta-5</maven-assembly-plugin.version>
     </properties>
+
+    <!-- Build Settings -->
     <build>
         <plugins>
             <plugin>
@@ -48,6 +53,7 @@
             </plugin>
             <plugin>
                 <artifactId>maven-assembly-plugin</artifactId>
+                <version>${maven-assembly-plugin.version}</version>
                 <executions>
                     <execution>
                         <phase>package</phase>
@@ -69,6 +75,8 @@
             </plugin>
         </plugins>
     </build>
+
+    <!-- Dependencies -->
     <dependencies>
         <dependency>
             <groupId>org.jetbrains.kotlin</groupId>
