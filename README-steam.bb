@@ -8,7 +8,7 @@ Jak i steam:
 [h2]Obsługiwana wersja gry i zakres tłumaczenia:[/h2]
 Spolszczenie do Europa Universalis 4 w najnowszej wersji 1.35.6.0 Ottomans.
 
-[h3]Stan w wersji 3.4.1 [14.05.2023]:[/h3]
+[h3]Stan w wersji 3.4.2 [09.08.2023]:[/h3]
 [i]
 * 19 526 sprawdzonych wpisów
 * 85 242 przetłumaczone wpisy (879 tys. słów)
