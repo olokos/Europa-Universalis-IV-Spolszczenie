@@ -7,7 +7,22 @@
     <!-- The Basics -->
     <groupId>net.rafkos.tools.eu4</groupId>
     <artifactId>LocaleParser</artifactId>
-    <version>0.1.16</version>
+    <version>0.1.16-SNAPSHOT</version>
+    <packaging>jar</packaging>
+
+    <name>Locale Parser</name>
+    <description>Paradox .yml locale parser designed mainly for EU IV, but with support for other games.
+        Meant to make translating easier, for languages that were never in the game - like Polish,
+        which is using special characters for diacritic chars.</description>
+    <developers>
+        <developer>
+            <name>Rafkos (TheBadOgre)</name>
+        </developer>
+        <developer>
+            <name>olokos</name>
+        </developer>
+    </developers>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <kotlin.version>1.8.20-RC</kotlin.version>
