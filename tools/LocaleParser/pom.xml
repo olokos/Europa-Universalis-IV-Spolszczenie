@@ -9,8 +9,8 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <kotlin.version>1.8.20-RC</kotlin.version>
-        <maven.compiler.source>8</maven.compiler.source>
-        <maven.compiler.target>1.8</maven.compiler.target>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
         <commons-io.version>2.11.0</commons-io.version>
         <log4j-core.version>2.20.0</log4j-core.version>
         <log4j-api.version>2.20.0</log4j-api.version>
@@ -30,7 +30,7 @@
                         </goals>
                         <configuration>
                             <sourceDirs>
-                                <source>src</source>
+                                <source>src/net/rafkos/tools/eu4/euivlocaleparser</source>
                             </sourceDirs>
                         </configuration>
                     </execution>
@@ -43,7 +43,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <jvmTarget>1.8</jvmTarget>
+                    <jvmTarget>17</jvmTarget>
                 </configuration>
             </plugin>
             <plugin>
