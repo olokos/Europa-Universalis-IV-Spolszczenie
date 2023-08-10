@@ -25,13 +25,12 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <kotlin.version>1.8.20-RC</kotlin.version>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
-        <commons-io.version>2.11.0</commons-io.version>
-        <log4j-core.version>2.20.0</log4j-core.version>
-        <log4j-api.version>2.20.0</log4j-api.version>
-        <maven-assembly-plugin.version>2.2-beta-5</maven-assembly-plugin.version>
+        <kotlin.version>1.9.0</kotlin.version>
+        <maven.compiler.release>17</maven.compiler.release>
+        <commons-io.version>2.13.0</commons-io.version>
+        <log4j.version>3.0.0-alpha1</log4j.version>
+        <maven-assembly-plugin.version>3.6.0</maven-assembly-plugin.version>
+        <maven-enforcer-plugin.version>3.3.0</maven-enforcer-plugin.version>
     </properties>
 
     <!-- Build Settings -->
@@ -88,6 +87,27 @@
                     </descriptorRefs>
                 </configuration>
             </plugin>
+            <!-- enforcer needed to silence warning that plugins require 3.2.5, so require latest Idea Bundled maven-->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-enforcer-plugin</artifactId>
+                <version>${maven-enforcer-plugin.version}</version>
+                <executions>
+                    <execution>
+                        <id>enforce-maven</id>
+                        <goals>
+                            <goal>enforce</goal>
+                        </goals>
+                        <configuration>
+                            <rules>
+                                <requireMavenVersion>
+                                    <version>3.9.2</version>
+                                </requireMavenVersion>
+                            </rules>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
         </plugins>
     </build>
 
@@ -108,12 +128,12 @@
         <dependency>
             <groupId>org.apache.logging.log4j</groupId>
             <artifactId>log4j-api</artifactId>
-            <version>${log4j-api.version}</version>
+            <version>${log4j.version}</version>
         </dependency>
         <dependency>
             <groupId>org.apache.logging.log4j</groupId>
             <artifactId>log4j-core</artifactId>
-            <version>${log4j-core.version}</version>
+            <version>${log4j.version}</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
         <dependency>
