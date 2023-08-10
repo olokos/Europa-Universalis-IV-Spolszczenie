@@ -31,6 +31,7 @@
         <log4j.version>3.0.0-alpha1</log4j.version>
         <maven-assembly-plugin.version>3.6.0</maven-assembly-plugin.version>
         <maven-enforcer-plugin.version>3.3.0</maven-enforcer-plugin.version>
+        <required-maven.version>3.9.4</required-maven.version>
     </properties>
 
     <!-- Build Settings -->
@@ -101,7 +102,7 @@
                         <configuration>
                             <rules>
                                 <requireMavenVersion>
-                                    <version>3.9.2</version>
+                                    <version>${required-maven.version}</version>
                                 </requireMavenVersion>
                             </rules>
                         </configuration>
