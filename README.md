@@ -32,7 +32,7 @@ _Należy pamiętać, że gdy twórcy gry zaktualizują daną linijkę tekstu, wt
 - Zaktualizowano spolszczenie do najnowszej wersji gry z DLC Lions Of The North
 
 
-### Postęp prac nad spolszczeniem (stan na 22.11.2021):
+### Postęp prac nad spolszczeniem (stan na 09.08.2023):
 
 **Wersja podstawowa EU4**: 
 * Główne pliki przetłumaczone w całości oprócz części wydarzeń i zintegrowanego z grą dodatku women in history, które są w trakcie tłumaczenia.
@@ -54,24 +54,26 @@ _Należy pamiętać, że gdy twórcy gry zaktualizują daną linijkę tekstu, wt
 **Tłumaczone dodatki:**
 (postęp określono dla głównych plików)
 
-* Art of War - 54,54% (29 402)
-* Common Sense - 30,41% (23 985)
-* The Cossacks - 39,32% (17 755)
-* Rights of Man - 31,44% (31 660)
-* Mandate of Heaven - 20,75% (14 271)
-* Cradle of Civilization - 33,06% (12 012)
+* Art of War - 54,72%
+* Common Sense - 30,99%
+* The Cossacks - 42,02%
+* Rights of Man - 34,37%
+* Mandate of Heaven - 21,77%
+* Cradle of Civilization - 33,91%
 * Emperor
-- emperor content - 29,15% (58 831)
-- emperor missions - 62,12% (24 267)
-- emperor - 65,58% (4 022)
-- emperor estates - 100% (0/17 120)
-- emperor revolutions - 100% (0/6 118)
+- emperor content - 30,65%
+- emperor missions - 63,21%
+- emperor - 69,50%
+- emperor estates - 100%
+- emperor revolutions - 100%
 * Leviathan
-- leviathan - 13,86% (28 150)
-- mandala missions - 14,98% (10 592)
-- 00 lanfang - 25,21% (7 896)
-- tmm - 62,52% (4 760)
-* Origins - 5,23% (42 760)
+- leviathan - 14,82%
+- mandala missions - 15,42%
+- 00 lanfang - 44,40%
+- tmm - 55,96%
+* Origins - 17,66%
+* Lions of the North - 10,52%
+* Domination - 0,99%
 
 **Objaśnienia:**
  + procenty określają postęp tłumaczenia dodatku (w zakresie wpisów (linijek))
