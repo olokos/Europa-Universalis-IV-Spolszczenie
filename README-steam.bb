@@ -105,10 +105,12 @@ Serdecznie zapraszamy do pomocy w tłumaczeniu!
 W razie jakichkolwiek problemów/zastrzeżeń/propozycji zachęcamy do kontaktu poprzez serwer discord [url=https://discord.gg/bTW7G7zJGX] Dostępny Tutaj[/url]
 
 [h2]Twórcy:[/h2]
+- 200e200w - tłumaczenie
 - Batziy - polskie czcionki
 - blizzer92 - tłumaczenie
 - DrSzuriad - tłumaczenie, tworzenie CL
 - Ereno - organizacja
+- Impatiens - tłumaczenie
 - Izabella - pomoc
 - krzemcis - tłumaczenie
 - Masahara - korekta, pomoc w organizacji
@@ -119,8 +121,9 @@ W razie jakichkolwiek problemów/zastrzeżeń/propozycji zachęcamy do kontaktu 
 - Rafkos - twórca narzędzi do konwertowania plików, korekta, nowe polskie czcionki, zautomatyzowany proces aktualizacji angielskich stringów z gry i aktualizacji spolszczenia na steam workshop
 - Robinus - tłumaczenie
 - Sano2 - organizacja, tłumaczenie
-- tdomek - tłumaczenie
+- Santroy - tłumaczenie
 - Shick - tłumaczenie
+- tdomek - tłumaczenie
 - Witcher - korekta, testy, tłumaczenie
 - WuEm94 - tłumaczenie
 
