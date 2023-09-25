@@ -245,7 +245,6 @@ defined_text = {
 				culture_group = slavic
 			}
 			NOT = { primary_culture = polish_new }
-			}
 		}
 	}
 	text = {
@@ -747,7 +746,6 @@ defined_text = {
 				culture_group = slavic
 			}
 			NOT = { primary_culture = polish_new }
-			}
 		}
 	}
 	text = {
@@ -1248,7 +1246,6 @@ defined_text = {
 				culture_group = slavic
 			}
 			NOT = { primary_culture = polish_new }
-			}
 		}
 	}
 	text = {
@@ -1750,7 +1747,6 @@ defined_text = {
 				culture_group = slavic
 			}
 			NOT = { primary_culture = polish_new }
-			}
 		}
 	}
 	text = {
@@ -2253,7 +2249,6 @@ defined_text = {
 				culture_group = slavic
 			}
 			NOT = { primary_culture = polish_new }
-			}
 		}
 	}
 	text = {
@@ -2755,7 +2750,6 @@ defined_text = {
 				culture_group = slavic
 			}
 			NOT = { primary_culture = polish_new }
-			}
 		}
 	}
 	text = {
@@ -3256,7 +3250,6 @@ defined_text = {
 				culture_group = slavic
 			}
 			NOT = { primary_culture = polish_new }
-			}
 		}
 	}
 	text = {
@@ -3758,7 +3751,6 @@ defined_text = {
 				culture_group = slavic
 			}
 			NOT = { primary_culture = polish_new }
-			}
 		}
 	}
 	text = {
@@ -4141,6 +4133,7 @@ defined_text = {
 		trigger = {
 			has_reform = revolutionary_empire_reform
 		}
+	}
 	text = {
 		localisation_key = string_end_japl
 		trigger = {
@@ -4176,7 +4169,6 @@ defined_text = {
 				culture_group = slavic
 			}
 			NOT = { primary_culture = polish_new }
-			}
 		}
 	}
 	text = {
@@ -4509,7 +4501,6 @@ defined_text = {
 				culture_group = slavic
 			}
 			NOT = { primary_culture = polish_new }
-			}
 		}
 	}
 	text = {
@@ -4842,7 +4833,6 @@ defined_text = {
 				culture_group = slavic
 			}
 			NOT = { primary_culture = polish_new }
-			}
 		}
 	}
 	text = {
@@ -5175,7 +5165,6 @@ defined_text = {
 				culture_group = slavic
 			}
 			NOT = { primary_culture = polish_new }
-			}
 		}
 	}
 	text = {
@@ -5508,7 +5497,6 @@ defined_text = {
 				culture_group = slavic
 			}
 			NOT = { primary_culture = polish_new }
-			}
 		}
 	}
 	text = {
@@ -5841,7 +5829,6 @@ defined_text = {
 				culture_group = slavic
 			}
 			NOT = { primary_culture = polish_new }
-			}
 		}
 	}
 	text = {
@@ -6174,7 +6161,6 @@ defined_text = {
 				culture_group = slavic
 			}
 			NOT = { primary_culture = polish_new }
-			}
 		}
 	}
 	text = {
@@ -6507,7 +6493,6 @@ defined_text = {
 				culture_group = slavic
 			}
 			NOT = { primary_culture = polish_new }
-			}
 		}
 	}
 	text = {
@@ -6840,7 +6825,6 @@ defined_text = {
 				culture_group = slavic
 			}
 			NOT = { primary_culture = polish_new }
-			}
 		}
 	}
 	text = {
@@ -7173,7 +7157,6 @@ defined_text = {
 				culture_group = slavic
 			}
 			NOT = { primary_culture = polish_new }
-			}
 		}
 	}
 	text = {
@@ -7506,7 +7489,6 @@ defined_text = {
 				culture_group = slavic
 			}
 			NOT = { primary_culture = polish_new }
-			}
 		}
 	}
 	text = {
@@ -7839,7 +7821,6 @@ defined_text = {
 				culture_group = slavic
 			}
 			NOT = { primary_culture = polish_new }
-			}
 		}
 	}
 	text = {
@@ -8172,7 +8153,6 @@ defined_text = {
 				culture_group = slavic
 			}
 			NOT = { primary_culture = polish_new }
-			}
 		}
 	}
 	text = {
@@ -8505,7 +8485,6 @@ defined_text = {
 				culture_group = slavic
 			}
 			NOT = { primary_culture = polish_new }
-			}
 		}
 	}
 	text = {
@@ -8838,7 +8817,6 @@ defined_text = {
 				culture_group = slavic
 			}
 			NOT = { primary_culture = polish_new }
-			}
 		}
 	}
 	text = {
