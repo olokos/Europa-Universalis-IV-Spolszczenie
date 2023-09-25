@@ -239,6 +239,21 @@ defined_text = {
 	}
 }
 
+## ą/zynią
+defined_text = {
+	name = GetAI
+	random = no
+	text = {
+		localisation_key = string_end_zynia
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_end_ą
+	}
+}
+
 defined_text = {
 	name = GetAdv_Adm_ANoun
 	random = no
@@ -743,6 +758,23 @@ defined_text = {
 		localisation_key = string_end_empty
 		trigger = {
 			employed_advisor = { category = DIP is_male = yes }
+		}
+	}
+}
+
+defined_text = {
+	name = GetAdv_Mil_KaNoun
+	random = no
+	text = {
+		localisation_key = string_end_ka
+		trigger = {
+			employed_advisor = { category = MIL is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_end_empty
+		trigger = {
+			employed_advisor = { category = MIL is_male = yes }
 		}
 	}
 }
