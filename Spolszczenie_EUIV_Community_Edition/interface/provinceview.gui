@@ -2825,7 +2825,14 @@ guiTypes = {
 				name = "stateviews_listbox"
 				backGround = ""
 				position = { x = 12 y = 414 }
-				size = { x = 458 y = 246 }
+				if_resolution = {
+					max_height = 899
+					size = { x = 458 y = 155 }
+				}
+				if_resolution = {
+					min_height = 900
+					size = { x = 458 y = 246 }
+				}	
 				Orientation = "UPPER_LEFT"
 				horizontal = 0
 				scrollbartype = "standardlistbox_slider"
