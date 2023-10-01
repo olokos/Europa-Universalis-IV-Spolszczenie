@@ -155,7 +155,7 @@
  SEND_COLONIST_TOOLTIP: "Wyślij kolonistę do prowincji $PROVINCE|Y$.\nStworzy kolonię z naszą kulturą podstawową i religią, o ile zostaną spełnione kryteria."
  SEND_COLONIST_LABEL_TOOLTIP: "Możemy wysłać kolonistę do prowincji $PROVINCE|Y$.\nStworzy kolonię z naszą kulturą podstawową i religią, o ile zostaną spełnione kryteria."
  SEND_COLONIST_TOOLTIP_EXTRA: "Ta prowincja kwalifikuje się również do wydalenia mniejszości, jeśli mamy jakieś mniejszości, których chcielibyśmy się pozbyć."
- EXPEL_MINORITY_TOOLTIP: ""
+ EXPEL_MINORITY_TOOLTIP: "Możemy wypędzić mniejszość do $PROVINCE|Y$.\nKultura i religia macierzystej prowincji zostaną przeniesione do nowej kolonii."
  SELECT_MINORITY_TOOLTIP: "Wydalenie mniejszości $MINORITY|Y$ do prowincji $PROVINCE|Y$ powoli zastąpi ją poddanymi o naszej kulturze i religii."
  SELECT_MINORITY_TOOLTIP_EXTRA_ACCEPTED: "Ta mniejszość jest §Yakceptowana§! i posiadamy $NUM|Y$ prowincji nadających się do tego."
  SELECT_MINORITY_TOOLTIP_EXTRA_NOT_ACCEPTED: "Ta mniejszość jest §Rnieakceptowana§! i posiadamy $NUM|Y$ prowincji nadających się do tego."

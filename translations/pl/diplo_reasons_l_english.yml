@@ -102,7 +102,7 @@
  DIPLO_THEY_WON_WAR: "Państwo $WHO$ wygrało wojnę: "
  DIPLO_WAR_STALLED: "Wojna w martwym punkcie:"
  DIPLO_RIVAL_COLONIST: "Państwo $WHO$ jest potęgą kolonialną:"
- DIPLO_WAR_UNOCCUPIED_FORTS: ""
+ DIPLO_WAR_UNOCCUPIED_FORTS: "Żądanie prowincji $PROV$ bez okupowania żadnych fortów stycznych do niej poprzez ląd:"
  DIPLO_WAR_INCONCLUSIVE: "Potrzebujesz co najmniej $VAL$ wyniku wojny, aby stawiać żądania:"
  DIPLO_UNREASONABLE_DEMANDS: "Niedorzeczne żądania: "
  DIPLO_UNDESIRABLE_PEACE: "Niepożądane warunki:"
