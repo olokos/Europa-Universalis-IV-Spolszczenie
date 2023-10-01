@@ -102,7 +102,7 @@
  DIPLO_THEY_WON_WAR:0 "Paªstwo $WHO$ wygra³o wojn²: "
  DIPLO_WAR_STALLED:0 "Wojna w martwym punkcie:"
  DIPLO_RIVAL_COLONIST:0 "Paªstwo $WHO$ jest pot²g¹ kolonialn¹:"
- DIPLO_WAR_UNOCCUPIED_FORTS:0 "Demanding $PROV$ without occupying any of the forts connected to it via land: "
+ DIPLO_WAR_UNOCCUPIED_FORTS:0 "¯¹danie prowincji $PROV$ bez okupowania ¿adnych fortów stycznych do niej poprzez l¹d:"
  DIPLO_WAR_INCONCLUSIVE:0 "Potrzebujesz co najmniej $VAL$ wyniku wojny, aby stawia¾ ¿¹dania:"
  DIPLO_UNREASONABLE_DEMANDS:0 "Niedorzeczne ¿¹dania: "
  DIPLO_UNDESIRABLE_PEACE:0 "Niepo¿¹dane warunki:"
