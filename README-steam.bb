@@ -8,15 +8,15 @@ Jak i steam:
 [h2]Obsługiwana wersja gry i zakres tłumaczenia:[/h2]
 Spolszczenie do Europa Universalis 4 w najnowszej wersji 1.35.6.0 Ottomans.
 
-[h3]Stan w wersji 3.4.2 [09.08.2023]:[/h3]
+[h3]Stan w wersji 3.4.3 [01.10.2023]:[/h3]
 [i]
-* 19 526 sprawdzonych wpisów
-* 85 242 przetłumaczone wpisy (879 tys. słów)
-* 29 792 nieprzetłumaczonych wpisów (584 tys. słów)
+* 19,527 sprawdzonych wpisów
+* 85,859 przetłumaczone wpisy (886 tys. słów)
+* 29,175 nieprzetłumaczonych wpisów (576 tys. słów)
 
 * 16.97% Zatwierdzone
-* 74.1% Przetłumaczone
-* 25.9% Nieprzetłumaczone
+* 74.64% Przetłumaczone
+* 25.36% Nieprzetłumaczone
 [/i]
 
 Jest to obecnie najpełniejsze, stworzone przez społeczność gry, spolszczenie, które posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie [b](77,47% całej gry)[/b]. Prace projektu obejmują 122 plików, z czego do przetłumaczenia pozostało 22.
@@ -29,7 +29,7 @@ Jest to obecnie najpełniejsze, stworzone przez społeczność gry, spolszczenie
 - Zaktualizowano spolszczenie do najnowszej wersji gry z DLC Lions Of The North
 
 
-[h3]Postęp prac nad spolszczeniem (stan na 09.08.2023):[/h3]
+[h3]Postęp prac nad spolszczeniem (dane z dnia 09.08.2023):[/h3]
 
 [b]Wersja podstawowa EU4[/b]: 
 * Główne pliki przetłumaczone w całości oprócz części wydarzeń i zintegrowanego z grą dodatku women in history, które są w trakcie tłumaczenia.
