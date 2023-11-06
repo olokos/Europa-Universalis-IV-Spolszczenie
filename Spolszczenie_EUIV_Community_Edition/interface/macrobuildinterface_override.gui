@@ -1040,6 +1040,17 @@ guiTypes = {
 #				buttonText = "unrest"
 #				buttonFont = "vic_18"
 			}
+
+			guiButtonType = {
+				name = "can_increase_button"
+				position = { x= 312 y = 9 }
+				quadTextureSprite ="GFX_sort_actions_small"
+			}
+			guiButtonType = {
+				name = "can_decrease_button"
+				position = { x= 348 y = 9 }
+				quadTextureSprite ="GFX_sort_actions_small"
+			}
 			
 #			instantTextBoxType={
 #				name = "autonomy_header_unrest"
