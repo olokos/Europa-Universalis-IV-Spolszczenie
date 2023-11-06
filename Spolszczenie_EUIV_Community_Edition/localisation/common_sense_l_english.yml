@@ -1065,7 +1065,7 @@
  SUBJECT_MUST_BE_REGENCY:0 "U poddanego musi by¾ sprawowana regencja."
  YOU_CANT_HAVE_REGENCY:0 "Nie mo¿esz tego zrobi¾ podczas regencji."
  SAME_DYNASTY_ALREADY:0 "$DYNASTY$ w³adaj¹ ju¿ paªstwem $COUNTRY$."
- NEED_POSITIVE_PRESTIGE:0 "Presti¿ musi by¾ dodatni."
+ NEED_POSITIVE_PRESTIGE:0 "§R- Must have positive prestige.§!"
  THEY_ARE_IN_DEBT:0 "S¹ zad³u¿eni."
  NEED_POSITIVE_OPINION_OF_US:0 "Ich opinia na nasz temat musi by¾ pozytywna."
  MUST_HAVE_LESS_LIBERTY_DESIRE:0 "D¹¿enia niepodleg³oœciowe mog¹ wynosi¾ maksymalnie §Y$VAL$§!."

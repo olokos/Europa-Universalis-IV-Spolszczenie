@@ -42,7 +42,7 @@
  TRADE_VALUE_RETAINED:0 "§Y$VAL$§W% wartoœci handlu zachowane."
  TRADE_BASE_VALUE:0 "Podstawa: §Y$VAL$§W"
  TRADE_RETENTION_RESULT:0 "Saldo si³y handlowej: $VAL$"
- MERCHANT_MAX_POWER_BONUS:0 "Obecnoœ¾ kupca: $VAL|1+$"
+ MERCHANT_MAX_POWER_BONUS:0 "Merchant Present: $VAL|=+1$"
  MERCHANT_MAX_POWER_INLAND:0 "Obecnoœ¾ kupca w w²Ÿle œródl¹dowym: $VAL|+1$"
  MERCHANT_MAX_POWER_STEERS_TO_INLAND:0 "Kupiec zmierza w stron² w²z³a œródl¹dowego: $VAL|+1$"
  MERCHANT_DAILY_POWER:0 "Obecnoœ¾ kupca: §G$VAL$§W/Dzieª."

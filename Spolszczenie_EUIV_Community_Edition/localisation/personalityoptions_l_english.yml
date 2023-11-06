@@ -725,5 +725,5 @@
  desc_immortal_personality:0 "Ten w³adca znalaz³ sposób, by oszuka¾ œmier¾ i potencjalnie ¿y¾ wiecznie. Chocia¿ s¹ odporni na choroby i staroœ¾, nadal mog¹ umrze¾ z powodu przemocy fizycznej."
  immortal_personality_die_desc:0 "Oczywiœcie doniesienia o ich nieœmiertelnoœci by³y mocno przesadzone."
  great_explorer_personality:0 "Great Explorer"
- great_explorer_personality_desc:0 "A legendary explorer, ready to charter unknown seas and bring prestige and splendor to our name!"
+ desc_great_explorer_personality:0 "A legendary explorer, ready to charter unknown seas and bring prestige and splendor to our name!"
  great_explorer_personality_die_desc:0 "Alas, a great catastrophe! Magellan, our most highly esteemed and legendary navigator has embraced the afterlife. A grey and sorrowful day is upon us..."

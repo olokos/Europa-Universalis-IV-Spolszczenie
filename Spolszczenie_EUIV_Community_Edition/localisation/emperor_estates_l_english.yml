@@ -1263,3 +1263,5 @@
  CROWNLAND:0 "Ziemie Koronne"
  seize_land_rebels_tt:0 "Mo¿e wybuchn¹¾ bunt jeœli lojalnoœ¾ dowolnej klasy spadnie poni¿ej §R30§!."
  no_other_mil_privilege:0 "Nie posiadasz innego przywileju klasy, który daje §Ymiesi²czne punkty militarne§!"
+ no_other_dip_privilege:0 "Has no other Estate Privilege that grants §YMonthly Diplomatic Power§!"
+ no_other_adm_privilege:0 "Has no other Estate Privilege that grants §YMonthly Administrative Power§!"

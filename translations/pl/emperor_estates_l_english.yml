@@ -1263,3 +1263,5 @@
  CROWNLAND: "Ziemie Koronne"
  seize_land_rebels_tt: "Może wybuchnąć bunt jeśli lojalność dowolnej klasy spadnie poniżej §R30§!."
  no_other_mil_privilege: "Nie posiadasz innego przywileju klasy, który daje §Ymiesięczne punkty militarne§!"
+ no_other_dip_privilege: ""
+ no_other_adm_privilege: ""

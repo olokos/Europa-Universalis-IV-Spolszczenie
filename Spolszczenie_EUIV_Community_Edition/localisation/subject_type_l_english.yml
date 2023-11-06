@@ -50,6 +50,7 @@
  subject_only_marry_other_overlord:0 "Jako $MYSUBJECTTYPE$ mo¿emy poœlubi¾ w³adc² $THEIRSUBJECTTYPES$ tylko, gdy mamy ró¿nych zwierzchników."
  personal_union_no_overlord_dow:0 "Nie mo¿esz wypowiedzie¾ wojny paªstwu, z którym jesteœ w unii."
  colony_no_overlord_dow:0 "Nie mo¿esz wypowiada¾ wojny swoim koloniom."
+ crown_colony_no_overlord_dow:0 "You can't declare war on your crown colonies."
  protectorate_no_overlord_dow:0 "Nie mo¿esz wypowiedzie¾ wojny swoim protektoratom."
  relation_fight:0 "prowadzi¾ wojny"
  relation_rival:0 "rywalizowa¾"

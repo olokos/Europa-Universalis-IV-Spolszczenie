@@ -42,7 +42,7 @@
  TRADE_VALUE_RETAINED: "§Y$VAL$§W% wartości handlu zachowane."
  TRADE_BASE_VALUE: "Podstawa: §Y$VAL$§W"
  TRADE_RETENTION_RESULT: "Saldo siły handlowej: $VAL$"
- MERCHANT_MAX_POWER_BONUS: "Obecność kupca: $VAL|1+$"
+ MERCHANT_MAX_POWER_BONUS: ""
  MERCHANT_MAX_POWER_INLAND: "Obecność kupca w węźle śródlądowym: $VAL|+1$"
  MERCHANT_MAX_POWER_STEERS_TO_INLAND: "Kupiec zmierza w stronę węzła śródlądowego: $VAL|+1$"
  MERCHANT_DAILY_POWER: "Obecność kupca: §G$VAL$§W/Dzień."

@@ -46,3 +46,7 @@
  LESSON_ENTRY_TOOLTIP_DATE:0 "Zmienia dat² na $DATE|Y$"
  LESSON_ENTRY_TOOLTIP_TAG:0 "Wybierz $TAG|Y$"
  LESSON_ENTRY_TOOLTIP_FOOTER:0 "§GKliknij, aby zagra¾§!"
+ CHANNEL_music_caucasianmusic:0 "Caucasian Music"
+ CHANNEL_music_egyptianmusic:0 "Egyptian Music"
+ CHANNEL_music_persianmusic:0 "Persian Music"
+ CHANNEL_music_utopiahre:0 "Holy Roman Empire Music"

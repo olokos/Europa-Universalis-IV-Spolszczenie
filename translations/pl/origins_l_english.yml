@@ -813,7 +813,7 @@
  jafari_school_bonus_tt: ""
  zaidi_school_bonus_tt: ""
  ZERO: ""
- NUM_OF_CONVERTED_PROVINCES_COUNTER: "[Root.num_converted_religion.GetValue]"
+ NUM_OF_CONVERTED_PROVINCES_COUNTER: ""
  JEWISH_ASPECTS_LONG: ""
  JEWISH_ASPECTS_SHORT: ""
  JUDAISM_HAS_ADM_ASPECT: ""
