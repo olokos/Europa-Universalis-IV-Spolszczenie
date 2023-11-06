@@ -725,5 +725,5 @@
  desc_immortal_personality: "This ruler has found a way to cheat death and potentially live forever. While immune to disease and old age, they may still die from physical violence."
  immortal_personality_die_desc: "Obviously, reports of their immortality were greatly exaggerated."
  great_explorer_personality: "Great Explorer"
- great_explorer_personality_desc: "A legendary explorer, ready to charter unknown seas and bring prestige and splendor to our name!"
+ desc_great_explorer_personality: "A legendary explorer, ready to charter unknown seas and bring prestige and splendor to our name!"
  great_explorer_personality_die_desc: "Alas, a great catastrophe! Magellan, our most highly esteemed and legendary navigator has embraced the afterlife. A grey and sorrowful day is upon us..."

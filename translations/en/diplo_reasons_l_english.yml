@@ -119,6 +119,7 @@
  DIPLO_CALL_FOR_PEACE: "Call for Peace: "
  DIPLO_WAR_DIRECTION: "$WHO$ is making gains: "
  DIPLO_WAR_FORCE_BALANCE: "Relative strength of alliances: "
+ DIPLO_WAR_PANIC: "Fear of new entrant into the war: "
  DIPLO_WAR_COALITION_BALANCE: "Relative strength of coalition: "
  DIPLO_CONTROLLING_DESIRED_PROVINCES: "Controlling desired provinces in $WHO$'s territory: "
  DIPLO_DESIRE_YOUR_PROVINCES: "Desires provinces in $WHO$'s territory: "

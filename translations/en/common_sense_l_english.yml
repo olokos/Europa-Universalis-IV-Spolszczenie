@@ -1065,7 +1065,7 @@
  SUBJECT_MUST_BE_REGENCY: "Subject must have a regency."
  YOU_CANT_HAVE_REGENCY: "You can't do this while in a regency."
  SAME_DYNASTY_ALREADY: "$DYNASTY$ already rules $COUNTRY$."
- NEED_POSITIVE_PRESTIGE: "Must have positive prestige."
+ NEED_POSITIVE_PRESTIGE: "§R- Must have positive prestige.§!"
  THEY_ARE_IN_DEBT: "They are in debt."
  NEED_POSITIVE_OPINION_OF_US: "Their opinion of us must be positive."
  MUST_HAVE_LESS_LIBERTY_DESIRE: "Can have at most §Y$VAL$§! Liberty Desire."

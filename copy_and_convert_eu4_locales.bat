@@ -16,7 +16,7 @@ for %%A in ("%source%\%pattern%") do copy "%%A" "translations_temp\\"
 for %%A in ("translations_temp\\*") do (
 	echo %%A
 	for %%F in (%%A) do (
-	call jrepl "#[a-zA-Z0-9_,:;.'() ]*$"^
+	call jrepl "#[a-zA-Z0-9_,:;.'() ?]*$"^
              "" /m /x /t "|" /f "%%F" /o -
 	)
 )

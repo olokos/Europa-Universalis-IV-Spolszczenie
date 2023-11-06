@@ -309,6 +309,13 @@ source_file = translations/en/gecko_1_35_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
+[o:europa-universalis-iv-community-translation:p:Community-edition:r:gecko-1-36-l-english-yml]
+file_filter = translations/<lang>/gecko_1_36_l_english.yml
+minimum_perc = 0
+source_file = translations/en/gecko_1_36_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
 [o:europa-universalis-iv-community-translation:p:Community-edition:r:generic-events-l-english-yml]
 file_filter = translations/<lang>/generic_events_l_english.yml
 minimum_perc = 0
@@ -327,6 +334,13 @@ type = YAML_GENERIC
 file_filter = translations/<lang>/goose_1_35_l_english.yml
 minimum_perc = 0
 source_file = translations/en/goose_1_35_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[o:europa-universalis-iv-community-translation:p:Community-edition:r:goose-1-36-l-english]
+file_filter = translations/<lang>/goose_1_36_l_english.yml
+minimum_perc = 0
+source_file = translations/en/goose_1_36_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
@@ -400,6 +414,20 @@ source_file = translations/en/kairismusicp2_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
+[o:europa-universalis-iv-community-translation:p:Community-edition:r:king-of-kings-l-english]
+file_filter = translations/<lang>/king_of_kings_l_english.yml
+minimum_perc = 0
+source_file = translations/en/king_of_kings_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[o:europa-universalis-iv-community-translation:p:Community-edition:r:king-of-kings-music-l-english]
+file_filter = translations/<lang>/king_of_kings_music_l_english.yml
+minimum_perc = 0
+source_file = translations/en/king_of_kings_music_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
 [o:europa-universalis-iv-community-translation:p:Community-edition:r:languages-yml]
 file_filter = translations/<lang>/languages.yml
 minimum_perc = 0
@@ -460,6 +488,13 @@ type = YAML_GENERIC
 file_filter = translations/<lang>/mare_nostrum_l_english.yml
 minimum_perc = 0
 source_file = translations/en/mare_nostrum_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[o:europa-universalis-iv-community-translation:p:Community-edition:r:ME-scripted-effect-l-english]
+file_filter = translations/<lang>/ME_scripted_effect_l_english.yml
+minimum_perc = 0
+source_file = translations/en/ME_scripted_effect_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
@@ -890,10 +925,24 @@ source_file = translations/en/USA_dlc_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
+[o:europa-universalis-iv-community-translation:p:Community-edition:r:watersnake-1-36-l-english]
+file_filter = translations/<lang>/watersnake_1_36_l_english.yml
+minimum_perc = 0
+source_file = translations/en/watersnake_1_36_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
 [o:europa-universalis-iv-community-translation:p:Community-edition:r:womeninhistory-l-english-yml]
 file_filter = translations/<lang>/womeninhistory_l_english.yml
 minimum_perc = 0
 source_file = translations/en/womeninhistory_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[o:europa-universalis-iv-community-translation:p:Community-edition:r:yama-1-36-l-english]
+file_filter = translations/<lang>/yama_1_36_l_english.yml
+minimum_perc = 0
+source_file = translations/en/yama_1_36_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 

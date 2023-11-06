@@ -42,7 +42,7 @@
  TRADE_VALUE_RETAINED: "§Y$VAL$§W% of the Trade Value retained."
  TRADE_BASE_VALUE: "Base: §Y$VAL$§W"
  TRADE_RETENTION_RESULT: "Trade Power balance: $VAL$"
- MERCHANT_MAX_POWER_BONUS: "Merchant Present: $VAL|1+$"
+ MERCHANT_MAX_POWER_BONUS: "Merchant Present: $VAL|=+1$"
  MERCHANT_MAX_POWER_INLAND: "Merchant Present in inland node: $VAL|+1$"
  MERCHANT_MAX_POWER_STEERS_TO_INLAND: "Merchant steers towards inland node: $VAL|+1$"
  MERCHANT_DAILY_POWER: "Merchant Present: §G$VAL$§W/Day."
