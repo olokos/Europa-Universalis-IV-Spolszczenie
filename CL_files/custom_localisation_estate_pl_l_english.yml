@@ -2,6 +2,7 @@
 ##Klasy społeczne
 #mała
  string_estate_brahmins: "bramini" #Bramini MM
+ string_estate_klirikoi: "klirikoi" #Klirikoi MM
  string_estate_ogboni: "ogboni" #Ogboni MZ
  string_estate_tengbiise: "tengbiise" #Tengbiise MM
  string_estate_monasteries: "zakony" #Zakony MM
@@ -27,8 +28,10 @@
  string_estate_bete: "bete" #Bete MM
  string_estate_church: "duchowieństwo" #Duchowieństwo PN
  string_estate_maratha: "marathowie" #Marathowie MM
+ string_estate_mamluks: "mamelucy" #Mamelucy MM
  string_estate_imperial_nobility: "cesarska szlachta" #Cesarska szlachta PZ
  string_estate_oyo_mesi: "ojo mesi" #Ojo Mesi MZ
+ string_estate_eugeneis: "eugeneis" #Eugeneis MM
  string_estate_nakomse: "nakomse" #Nakomse MM
  string_estate_chieftains: "wodzowie" #Wodzowie MM
  string_estate_beys: "ümera" #Ümera PM
@@ -54,6 +57,7 @@
  string_estate_warriors: "wojownicy" #Wojownicy MM
  string_estate_mani: "mani" #Mani MM
  string_estate_nobles: "arystokracja" #Arystokracja PZ
+ string_estate_emporoi: "emporoi" #Emporoi MM
  string_estate_quartersmasters: "kwatermistrzowie" #Kwatermistrzowie MM
  string_estate_bourgeoisie: "burżuazja" #Burżuazja PZ
  string_estate_shangbang: "shangbang" #Shangbang PM
@@ -67,8 +71,13 @@
  string_estate_dhimmi: "zimmi" #Zimmi MM
  string_estate_jains: "dźiniści" #Dźiniści MM
  string_estate_rajput: "radźputowie" #Radźputowie MM
+ string_estate_janissaries: "janczarzy" #Janczarzy MM
+ string_estate_eunuchs: "eunuchowie" #Eunuchowie MM
+ string_estate_qizilbash: "kyzyłbasze" #Kyzyłbasze MM
+ string_estate_ghulams: "ghilman" #Ghilman MM
 #duża
  string_estate_brahmins_Cap: "Bramini" #Bramini MM
+ string_estate_klirikoi_Cap: "Klirikoi" #Klirikoi MM
  string_estate_ogboni_Cap: "Ogboni" #Ogboni MZ
  string_estate_tengbiise_Cap: "Tengbiise" #Tengbiise MM
  string_estate_monasteries_Cap: "Zakony" #Zakony MM
@@ -94,8 +103,10 @@
  string_estate_bete_Cap: "Bete" #Bete MM
  string_estate_church_Cap: "Duchowieństwo" #Duchowieństwo PN
  string_estate_maratha_Cap: "Marathowie" #Marathowie MM
+ string_estate_mamluks_Cap: "Mamelucy" #Mamelucy MM
  string_estate_imperial_nobility_Cap: "Cesarska szlachta" #Cesarska szlachta PZ
  string_estate_oyo_mesi_Cap: "Ojo Mesi" #Ojo Mesi MZ
+ string_estate_eugeneis_Cap: "Eugeneis" #Eugeneis MM
  string_estate_nakomse_Cap: "Nakomse" #Nakomse MM
  string_estate_chieftains_Cap: "Wodzowie" #Wodzowie MM
  string_estate_beys_Cap: "Ümera" #Ümera PM
@@ -121,6 +132,7 @@
  string_estate_warriors_Cap: "Wojownicy" #Wojownicy MM
  string_estate_mani_Cap: "Mani" #Mani MM
  string_estate_nobles_Cap: "Arystokracja" #Arystokracja PZ
+ string_estate_emporoi_Cap: "Emporoi" #Emporoi MM
  string_estate_quartersmasters_Cap: "Kwatermistrzowie" #Kwatermistrzowie MM
  string_estate_bourgeoisie_Cap: "Burżuazja" #Burżuazja PZ
  string_estate_shangbang_Cap: "Shangbang" #Shangbang PM
@@ -134,9 +146,14 @@
  string_estate_dhimmi_Cap: "Zimmi" #Zimmi MM
  string_estate_jains_Cap: "Dźiniści" #Dźiniści MM
  string_estate_rajput_Cap: "Radźputowie" #Radźputowie MM
+ string_estate_janissaries_Cap: "Janczarzy" #Janczarzy MM
+ string_estate_eunuchs_Cap: "Eunuchowie" #Eunuchowie MM
+ string_estate_qizilbash_Cap: "Kyzyłbasze" #Kyzyłbasze MM
+ string_estate_ghulams_Cap: "Ghilman" #Ghilman MM
 ## Dopełniacz klas społecznych
 ##mała
  string_gen_estate_brahmins: "braminów" #Bramini
+ string_gen_estate_klirikoi: "klirikoi" #Klirikoi
  string_gen_estate_ogboni: "ogboni" #Ogboni
  string_gen_estate_tengbiise: "tengbiise" #Tengbiise
  string_gen_estate_monasteries: "zakonów" #Zakony
@@ -162,8 +179,10 @@
  string_gen_estate_bete: "bete" #Bete MM
  string_gen_estate_church: "duchowieństwa" #Duchowieństwo
  string_gen_estate_maratha: "marathów" #Marathowie
+ string_gen_estate_mamluks: "mameluków" #Mamelucy
  string_gen_estate_imperial_nobility: "cesarskiej szlachty" #Cesarska szlachta
  string_gen_estate_oyo_mesi: "ojo mesi" #Ojo Mesi
+ string_gen_estate_eugeneis: "eugeneis" #Eugeneis
  string_gen_estate_nakomse: "nakomse" #Nakomse
  string_gen_estate_chieftains: "wodzów" #Wodzowie
  string_gen_estate_beys: "ümery" #Ümera
@@ -189,6 +208,7 @@
  string_gen_estate_warriors: "wojowników" #Wojownicy
  string_gen_estate_mani: "mani" #Mani
  string_gen_estate_nobles: "arystokracji" #Arystokracja
+ string_gen_estate_emporoi: "emporoi" #Emporoi
  string_gen_estate_quartersmasters: "kwatermistrzów" #Kwatermistrzowie
  string_gen_estate_bourgeoisie: "burżuazji" #Burżuazja
  string_gen_estate_shangbang: "shangbangu" #Shangbang
@@ -202,8 +222,13 @@
  string_gen_estate_dhimmi: "zimmów" #Zimmi
  string_gen_estate_jains: "dźinistów" #Dźiniści
  string_gen_estate_rajput: "radźputów" #Radźputowie
+ string_gen_estate_janissaries: "janczarów" #Janczarzy
+ string_gen_estate_eunuchs: "eunuchów" #Eunuchowie
+ string_gen_estate_qizilbash: "kyzyłbaszów" #Kyzyłbasze
+ string_gen_estate_ghulams: "ghilmanów" #Ghilman
 ## duża
  string_gen_estate_brahmins_Cap: "Braminów" #Bramini
+ string_gen_estate_klirikoi_Cap: "Klirikoi" #Klirikoi
  string_gen_estate_ogboni_Cap: "Ogboni" #Ogboni
  string_gen_estate_tengbiise_Cap: "Tengbiise" #Tengbiise
  string_gen_estate_monasteries_Cap: "Zakonów" #Zakony
@@ -229,8 +254,10 @@
  string_gen_estate_bete_Cap: "Bete" #Bete
  string_gen_estate_church_Cap: "Duchowieństwa" #Duchowieństwo
  string_gen_estate_maratha_Cap: "Marathów" #Marathowie
+ string_gen_estate_mamluks_Cap: "Mameluków" #Mamelucy
  string_gen_estate_imperial_nobility_Cap: "Cesarskiej szlachty" #Cesarska szlachta
  string_gen_estate_oyo_mesi_Cap: "Ojo Mesi" #Ojo Mesi
+ string_gen_estate_eugeneis_Cap: "Eugeneis" #Eugeneis
  string_gen_estate_nakomse_Cap: "Nakomse" #Nakomse
  string_gen_estate_chieftains_Cap: "Wodzów" #Wodzowie
  string_gen_estate_beys_Cap: "Ümery" #Ümera
@@ -256,6 +283,7 @@
  string_gen_estate_warriors_Cap: "Wojowników" #Wojownicy
  string_gen_estate_mani_Cap: "Mani" #Mani
  string_gen_estate_nobles_Cap: "Arystokracji" #Arystokracja
+ string_gen_estate_emporoi_Cap: "Emporoi" #Emporoi
  string_gen_estate_quartersmasters_Cap: "Kwatermistrzów" #Kwatermistrzowie 
  string_gen_estate_bourgeoisie_Cap: "Burżuazji" #Burżuazja
  string_gen_estate_shangbang_Cap: "Shangbangu" #Shangbang
@@ -269,9 +297,14 @@
  string_gen_estate_dhimmi_Cap: "Zimmów" #Zimmi
  string_gen_estate_jains_Cap: "Dźinistów" #Dźiniści
  string_gen_estate_rajput_Cap: "Radźputów" #Radźputowie
+ string_gen_estate_janissaries_Cap: "Janczarów" #Janczarzy
+ string_gen_estate_eunuchs_Cap: "Eunuchów" #Eunuchowie
+ string_gen_estate_qizilbash_Cap: "Kyzyłbaszów" #Kyzyłbasze
+ string_gen_estate_ghulams_Cap: "Ghilmanów" #Ghilman
 ## Celownik klas społecznych komu czemu szlachcie
 #mała
  string_dat_estate_brahmins: "braminom" #Bramini
+ string_dat_estate_klirikoi: "klirikoi" #Klirikoi
  string_dat_estate_ogboni: "ogboni" #Ogboni
  string_dat_estate_tengbiise: "tengbiise" #Tengbiise
  string_dat_estate_monasteries: "zakonom" #Zakony
@@ -297,8 +330,10 @@
  string_dat_estate_bete: "bete" #Bete
  string_dat_estate_church: "duchowieństwu" #Duchowieństwo
  string_dat_estate_maratha: "marathom" #Marathowie
+ string_dat_estate_mamluks: "mamelukom" #Mamelucy
  string_dat_estate_imperial_nobility: "cesarskiej szlachcie" #Cesarska szlachta
  string_dat_estate_oyo_mesi: "ojo mesi" #Ojo Mesi
+ string_dat_estate_eugeneis: "eugeneis" #Eugeneis
  string_dat_estate_nakomse: "nakomse" #Nakomse
  string_dat_estate_chieftains: "wodzom" #Wodzowie
  string_dat_estate_beys: "ümerze" #Ümera
@@ -324,8 +359,9 @@
  string_dat_estate_warriors: "wojownikom" #Wojownicy
  string_dat_estate_mani: "mani" #Mani
  string_dat_estate_nobles: "arystokracji" #Arystokracja
- string_dat_estate_bourgeoisie: "burżuazji" #Burżuazja
+ string_dat_estate_emporoi: "emporoi" #Emporoi
  string_dat_estate_quartersmasters: "kwatermistrzom" #Kwatermistrzowie
+ string_dat_estate_bourgeoisie: "burżuazji" #Burżuazja
  string_dat_estate_shangbang: "shangbangowi" #Shangbang
  string_dat_estate_neoconfucian_reformers: "neokonfucjańskim reformatorom" #Neokonfucjańscy reformatorzy
  string_dat_estate_pochteca: "pochtekom" #Pochtekowie
@@ -337,8 +373,13 @@
  string_dat_estate_dhimmi: "zimmom" #Zimmi
  string_dat_estate_jains: "dźinistom" #Dźiniści
  string_dat_estate_rajput: "radźputom" #Radźputowie
+ string_dat_estate_janissaries: "janczarom" #Janczarzy
+ string_dat_estate_eunuchs: "eunuchom" #Eunuchowie
+ string_dat_estate_qizilbash: "kyzyłbaszom" #Kyzyłbasze
+ string_dat_estate_ghulams: "ghilmanom" #Ghilman
 #duża
  string_dat_estate_brahmins_Cap: "Braminom" #Bramini
+ string_dat_estate_klirikoi_Cap: "Klirikoi" #Klirikoi
  string_dat_estate_ogboni_Cap: "Ogboni" #Ogboni
  string_dat_estate_tengbiise_Cap: "Tengbiise" #Tengbiise
  string_dat_estate_monasteries_Cap: "Zakonom" #Zakony
@@ -364,8 +405,10 @@
  string_dat_estate_bete_Cap: "Bete" #Bete
  string_dat_estate_church_Cap: "Duchowieństwu" #Duchowieństwo
  string_dat_estate_maratha_Cap: "Marathom" #Marathowie
+ string_dat_estate_mamluks_Cap: "Mamelukom" #Mamelucy
  string_dat_estate_imperial_nobility_Cap: "Cesarskiej szlachcie" #Cesarska szlachta
  string_dat_estate_oyo_mesi_Cap: "Ojo Mesi" #Ojo Mesi
+ string_dat_estate_eugeneis_Cap: "Eugeneis" #Eugeneis
  string_dat_estate_nakomse_Cap: "Nakomse" #Nakomse
  string_dat_estate_chieftains_Cap: "Wodzom" #Wodzowie
  string_dat_estate_beys_Cap: "Ümerze" #Ümera
@@ -391,6 +434,7 @@
  string_dat_estate_warriors_Cap: "Wojowników" #Wojownicy
  string_dat_estate_mani_Cap: "Mani" #Mani
  string_dat_estate_nobles_Cap: "Arystokracji" #Arystokracja
+ string_dat_estate_emporoi_Cap: "Emporoi" #Emporoi
  string_dat_estate_quartersmasters_Cap: "Kwatermistrzom" #Kwatermistrzowie
  string_dat_estate_bourgeoisie_Cap: "Burżuazji" #Burżuazja
  string_dat_estate_shangbang_Cap: "Shangbangowi" #Shangbang
@@ -404,9 +448,14 @@
  string_dat_estate_dhimmi_Cap: "Zimmom" #Zimmi
  string_dat_estate_jains_Cap: "Dźinistom" #Dźiniści
  string_dat_estate_rajput_Cap: "Radźputom" #Radźputowie
+ string_dat_estate_janissaries_Cap: "Janczarom" #Janczarzy
+ string_dat_estate_eunuchs_Cap: "Eunuchom" #Eunuchowie
+ string_dat_estate_qizilbash_Cap: "Kyzyłbaszom" #Kyzyłbasze
+ string_dat_estate_ghulams_Cap: "Ghilmanom" #Ghilman
  #Narzędnik klas społecznych kim czym szlachtą
  #mała
  string_ins_estate_brahmins: "braminami" #Bramini
+ string_ins_estate_klirikoi: "klirikoi" #Klirikoi
  string_ins_estate_ogboni: "ogboni" #Ogboni
  string_ins_estate_tengbiise: "tengbiise" #Tengbiise
  string_ins_estate_monasteries: "zakonami" #Zakony
@@ -432,8 +481,10 @@
  string_ins_estate_bete: "bete" #Bete
  string_ins_estate_church: "duchowieństwem" #Duchowieństwo
  string_ins_estate_maratha: "marathami" #Marathowie
+ string_ins_estate_mamluks: "mamelukami" #Mamelucy
  string_ins_estate_imperial_nobility: "cesarską szlachtą" #Cesarska szlachta
  string_ins_estate_oyo_mesi: "ojo mesi" #Ojo Mesi
+ string_ins_estate_eugeneis: "eugeneis" #Eugeneis
  string_ins_estate_nakomse: "nakomse" #Nakomse
  string_ins_estate_chieftains: "wodzami" #Wodzowie
  string_ins_estate_beys: "ümerą" #Ümera
@@ -459,6 +510,7 @@
  string_ins_estate_warriors: "wojownikami" #Wojownicy
  string_ins_estate_mani: "mani" #Mani
  string_ins_estate_nobles: "arystokracją" #Arystokracja
+ string_ins_estate_emporoi: "emporoi" #Emporoi
  string_ins_estate_quartersmasters: "kwatermistrzami" #Kwatermistrzowie
  string_ins_estate_bourgeoisie: "burżuazją" #Burżuazja
  string_ins_estate_shangbang: "shangbangiem" #Shangbang
@@ -472,8 +524,13 @@
  string_ins_estate_dhimmi: "zimmami" #Zimmi
  string_ins_estate_jains: "dźinistami" #Dźiniści
  string_ins_estate_rajput: "radźputami" #Radźputowie
+ string_ins_estate_janissaries: "janczarami" #Janczarzy
+ string_ins_estate_eunuchs: "eunuchami" #Eunuchowie
+ string_ins_estate_qizilbash: "kyzyłbaszami" #Kyzyłbasze
+ string_ins_estate_ghulams: "ghilmanami" #Ghilman
  #duża
  string_ins_estate_brahmins_Cap: "Braminami" #Bramini
+ string_ins_estate_klirikoi_Cap: "Klirikoi"
  string_ins_estate_ogboni_Cap: "Ogboni" #Ogboni
  string_ins_estate_tengbiise_Cap: "Tengbiise" #Tengbiise
  string_ins_estate_monasteries_Cap: "Zakonami" #Zakony
@@ -499,8 +556,10 @@
  string_ins_estate_bete_Cap: "bete" #Bete
  string_ins_estate_church_Cap: "Duchowieństwem" #Duchowieństwo
  string_ins_estate_maratha_Cap: "Marathami" #Marathowie
+ string_ins_estate_mamluks_Cap: "Mamelukami" #Mamelucy
  string_ins_estate_imperial_nobility_Cap: "Cesarską szlachtą" #Cesarska szlachta
  string_ins_estate_oyo_mesi_Cap: "Ojo Mesi" #Ojo Mesi
+ string_ins_estate_eugeneis_Cap: "Eugeneis" #Eugeneis
  string_ins_estate_nakomse_Cap: "Nakomse" #Nakomse
  string_ins_estate_chieftains_Cap: "Wodzami" #Wodzowie
  string_ins_estate_beys_Cap: "Ümerą" #Ümera
@@ -526,6 +585,7 @@
  string_ins_estate_warriors_Cap: "Wojownikami" #Wojownicy
  string_ins_estate_mani_Cap: "Mani" #Mani
  string_ins_estate_nobles_Cap: "Arystokracją" #Arystokracja
+ string_ins_estate_emporoi_Cap: "Emporoi" #Emporoi
  string_ins_estate_quartersmasters_Cap: "Kwatermistrzami" #Kwatermistrzowie
  string_ins_estate_bourgeoisie_Cap: "Burżuazją" #Burżuazja
  string_ins_estate_shangbang_Cap: "Shangbangiem" #Shangbang
@@ -539,3 +599,7 @@
  string_ins_estate_dhimmi_Cap: "Zimmami" #Zimmi
  string_ins_estate_jains_Cap: "Dźinistami" #Dźiniści
  string_ins_estate_rajput_Cap: "Radźputami" #Radźputowie
+ string_ins_estate_janissaries_Cap: "Janczarami" #Janczarzy
+ string_ins_estate_eunuchs_Cap: "Eunuchami" #Eunuchowie
+ string_ins_estate_qizilbash_Cap: "Kyzyłbaszami" #Kyzyłbasze
+ string_ins_estate_ghulams_Cap: "Ghilmanami" #Ghilman

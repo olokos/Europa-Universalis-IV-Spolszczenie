@@ -11,6 +11,13 @@ defined_text = {
 	name = GetClergyName_CL
 	random = no
 	text = {
+		localisation_key = string_estate_klirikoi
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
+	text = {
 		localisation_key = string_estate_ogboni
 		trigger = {
 			tag = OYO
@@ -205,7 +212,13 @@ defined_text = {
 	name = GetNobilityName_CL
 	random = no
 	text = {
-		localisation_key = string_imperial_nobility
+		localisation_key = string_estate_mamluks
+		trigger = {
+			tag = MAM
+		}
+	}
+	text = {
+		localisation_key = string_estate_imperial_nobility
 		trigger = {
 			has_reform = revolutionary_empire_reform
 		}
@@ -214,6 +227,13 @@ defined_text = {
 		localisation_key = string_estate_oyo_mesi
 		trigger = {
 			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_estate_eugeneis
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
 		}
 	}
 	text = {
@@ -409,6 +429,13 @@ defined_text = {
 	name = GetBurghersName_CL
 	random = no
 	text = {
+		localisation_key = string_estate_emporoi
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
+	text = {
 		localisation_key = string_estate_quartersmasters
 		trigger = {
 			has_government_attribute = is_pirate_republic_reform
@@ -498,6 +525,38 @@ defined_text = {
 	}
 }
 
+defined_text = {
+	name = GetJanissariesName_CL
+	random = no
+	text = {
+		localisation_key = string_estate_janissaries
+	}
+}
+
+defined_text = {
+	name = GetEunuchsName_CL
+	random = no
+	text = {
+		localisation_key = string_estate_eunuchs
+	}
+}
+
+defined_text = {
+	name = GetQizilbashName_CL
+	random = no
+	text = {
+		localisation_key = string_estate_qizilbash
+	}
+}
+
+defined_text = {
+	name = GetGhulamsName_CL
+	random = no
+	text = {
+		localisation_key = string_estate_ghulams
+	}
+}
+
 ##Genitiv
 
 defined_text = {
@@ -511,6 +570,13 @@ defined_text = {
 defined_text = {
 	name = GetClergyName_gen
 	random = no
+	text = {
+		localisation_key = string_gen_estate_klirikoi
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
 	text = {
 		localisation_key = string_gen_estate_ogboni
 		trigger = {
@@ -706,7 +772,13 @@ defined_text = {
 	name = GetNobilityName_gen
 	random = no
 	text = {
-		localisation_key = string_gen_imperial_nobility
+		localisation_key = string_gen_estate_mamluks
+		trigger = {
+			tag = MAM
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_imperial_nobility
 		trigger = {
 			has_reform = revolutionary_empire_reform
 		}
@@ -715,6 +787,13 @@ defined_text = {
 		localisation_key = string_gen_estate_oyo_mesi
 		trigger = {
 			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_eugeneis
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
 		}
 	}
 	text = {
@@ -910,6 +989,13 @@ defined_text = {
 	name = GetBurghersName_gen
 	random = no
 	text = {
+		localisation_key = string_gen_estate_emporoi
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
+	text = {
 		localisation_key = string_gen_estate_quartersmasters
 		trigger = {
 			has_government_attribute = is_pirate_republic_reform
@@ -999,6 +1085,38 @@ defined_text = {
 	}
 }
 
+defined_text = {
+	name = GetJanissariesName_gen
+	random = no
+	text = {
+		localisation_key = string_gen_estate_janissaries
+	}
+}
+
+defined_text = {
+	name = GetEunuchsName_gen
+	random = no
+	text = {
+		localisation_key = string_gen_estate_eunuchs
+	}
+}
+
+defined_text = {
+	name = GetQizilbashName_gen
+	random = no
+	text = {
+		localisation_key = string_gen_estate_qizilbash
+	}
+}
+
+defined_text = {
+	name = GetGhulamsName_gen
+	random = no
+	text = {
+		localisation_key = string_gen_estate_ghulams
+	}
+}
+
 ##Dativ
 defined_text = {
 	name = GetBrahminsName_dat
@@ -1011,6 +1129,13 @@ defined_text = {
 defined_text = {
 	name = GetClergyName_dat
 	random = no
+	text = {
+		localisation_key = string_dat_estate_klirikoi
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
 	text = {
 		localisation_key = string_dat_estate_ogboni
 		trigger = {
@@ -1206,7 +1331,13 @@ defined_text = {
 	name = GetNobilityName_dat
 	random = no
 	text = {
-		localisation_key = string_dat_imperial_nobility
+		localisation_key = string_dat_estate_mamluks
+		trigger = {
+			tag = MAM
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_imperial_nobility
 		trigger = {
 			has_reform = revolutionary_empire_reform
 		}
@@ -1215,6 +1346,13 @@ defined_text = {
 		localisation_key = string_dat_estate_oyo_mesi
 		trigger = {
 			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_eugeneis
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
 		}
 	}
 	text = {
@@ -1410,6 +1548,13 @@ defined_text = {
 	name = GetBurghersName_dat
 	random = no
 	text = {
+		localisation_key = string_dat_estate_emporoi
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
+	text = {
 		localisation_key = string_dat_estate_quartersmasters
 		trigger = {
 			has_government_attribute = is_pirate_republic_reform
@@ -1499,6 +1644,38 @@ defined_text = {
 	}
 }
 
+defined_text = {
+	name = GetJanissariesName_dat
+	random = no
+	text = {
+		localisation_key = string_dat_estate_janissaries
+	}
+}
+
+defined_text = {
+	name = GetEunuchsName_dat
+	random = no
+	text = {
+		localisation_key = string_dat_estate_eunuchs
+	}
+}
+
+defined_text = {
+	name = GetQizilbashName_dat
+	random = no
+	text = {
+		localisation_key = string_dat_estate_qizilbash
+	}
+}
+
+defined_text = {
+	name = GetGhulamsName_dat
+	random = no
+	text = {
+		localisation_key = string_dat_estate_ghulams
+	}
+}
+
 
 ##Instrumental
 defined_text = {
@@ -1512,6 +1689,13 @@ defined_text = {
 defined_text = {
 	name = GetClergyName_ins
 	random = no
+	text = {
+		localisation_key = string_ins_estate_klirikoi
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
 	text = {
 		localisation_key = string_ins_estate_ogboni
 		trigger = {
@@ -1707,7 +1891,13 @@ defined_text = {
 	name = GetNobilityName_ins
 	random = no
 	text = {
-		localisation_key = string_ins_imperial_nobility
+		localisation_key = string_ins_estate_mamluks
+		trigger = {
+			tag = MAM
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_imperial_nobility
 		trigger = {
 			has_reform = revolutionary_empire_reform
 		}
@@ -1716,6 +1906,13 @@ defined_text = {
 		localisation_key = string_ins_estate_oyo_mesi
 		trigger = {
 			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_eugeneis
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
 		}
 	}
 	text = {
@@ -1911,6 +2108,13 @@ defined_text = {
 	name = GetBurghersName_ins
 	random = no
 	text = {
+		localisation_key = string_ins_estate_emporoi
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
+	text = {
 		localisation_key = string_ins_estate_quartersmasters
 		trigger = {
 			has_government_attribute = is_pirate_republic_reform
@@ -2000,6 +2204,38 @@ defined_text = {
 	}
 }
 
+defined_text = {
+	name = GetJanissariesName_ins
+	random = no
+	text = {
+		localisation_key = string_ins_estate_janissaries
+	}
+}
+
+defined_text = {
+	name = GetEunuchsName_ins
+	random = no
+	text = {
+		localisation_key = string_ins_estate_eunuchs
+	}
+}
+
+defined_text = {
+	name = GetQizilbashName_ins
+	random = no
+	text = {
+		localisation_key = string_ins_estate_qizilbash
+	}
+}
+
+defined_text = {
+	name = GetGhulamsName_ins
+	random = no
+	text = {
+		localisation_key = string_ins_estate_ghulams
+	}
+}
+
 ##Wielka litera
 
 
@@ -2014,6 +2250,13 @@ defined_text = {
 defined_text = {
 	name = GetClergyName_CL_Cap
 	random = no
+	text = {
+		localisation_key = string_estate_klirikoi_Cap
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
 	text = {
 		localisation_key = string_estate_ogboni_Cap
 		trigger = {
@@ -2209,7 +2452,13 @@ defined_text = {
 	name = GetNobilityName_CL_Cap
 	random = no
 	text = {
-		localisation_key = string_imperial_nobility_Cap
+		localisation_key = string_estate_mamluks_Cap
+		trigger = {
+			tag = MAM
+		}
+	}
+	text = {
+		localisation_key = string_estate_imperial_nobility_Cap
 		trigger = {
 			has_reform = revolutionary_empire_reform
 		}
@@ -2218,6 +2467,13 @@ defined_text = {
 		localisation_key = string_estate_oyo_mesi_Cap
 		trigger = {
 			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_estate_eugeneis_Cap
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
 		}
 	}
 	text = {
@@ -2413,6 +2669,13 @@ defined_text = {
 	name = GetBurghersName_CL_Cap
 	random = no
 	text = {
+		localisation_key = string_estate_emporoi_Cap
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
+	text = {
 		localisation_key = string_estate_quartersmasters_Cap
 		trigger = {
 			has_government_attribute = is_pirate_republic_reform
@@ -2502,6 +2765,38 @@ defined_text = {
 	}
 }
 
+defined_text = {
+	name = GetJanissariesName_CL_Cap
+	random = no
+	text = {
+		localisation_key = string_estate_janissaries_Cap
+	}
+}
+
+defined_text = {
+	name = GetEunuchsName_CL_Cap
+	random = no
+	text = {
+		localisation_key = string_estate_eunuchs_Cap
+	}
+}
+
+defined_text = {
+	name = GetQizilbashName_CL_Cap
+	random = no
+	text = {
+		localisation_key = string_estate_qizilbash_Cap
+	}
+}
+
+defined_text = {
+	name = GetGhulamsName_CL_Cap
+	random = no
+	text = {
+		localisation_key = string_estate_ghulams_Cap
+	}
+}
+
 ##Genitiv
 
 defined_text = {
@@ -2515,6 +2810,13 @@ defined_text = {
 defined_text = {
 	name = GetClergyName_gen_Cap
 	random = no
+	text = {
+		localisation_key = string_gen_estate_klirikoi_Cap
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
 	text = {
 		localisation_key = string_gen_estate_ogboni_Cap
 		trigger = {
@@ -2710,7 +3012,13 @@ defined_text = {
 	name = GetNobilityName_gen_Cap
 	random = no
 	text = {
-		localisation_key = string_gen_imperial_nobility_Cap
+		localisation_key = string_gen_estate_mamluks_Cap
+		trigger = {
+			tag = MAM
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_imperial_nobility_Cap
 		trigger = {
 			has_reform = revolutionary_empire_reform
 		}
@@ -2719,6 +3027,13 @@ defined_text = {
 		localisation_key = string_gen_estate_oyo_mesi_Cap
 		trigger = {
 			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_eugeneis_Cap
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
 		}
 	}
 	text = {
@@ -2914,6 +3229,13 @@ defined_text = {
 	name = GetBurghersName_gen_Cap
 	random = no
 	text = {
+		localisation_key = string_gen_estate_emporoi_Cap
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
+	text = {
 		localisation_key = string_gen_estate_quartersmasters_Cap
 		trigger = {
 			has_government_attribute = is_pirate_republic_reform
@@ -3003,6 +3325,38 @@ defined_text = {
 	}
 }
 
+defined_text = {
+	name = GetJanissariesName_gen_Cap
+	random = no
+	text = {
+		localisation_key = string_gen_estate_janissaries_Cap
+	}
+}
+
+defined_text = {
+	name = GetEunuchsName_gen_Cap
+	random = no
+	text = {
+		localisation_key = string_gen_estate_eunuchs_Cap
+	}
+}
+
+defined_text = {
+	name = GetQizilbashName_gen_Cap
+	random = no
+	text = {
+		localisation_key = string_gen_estate_qizilbash_Cap
+	}
+}
+
+defined_text = {
+	name = GetGhulamsName_gen_Cap
+	random = no
+	text = {
+		localisation_key = string_gen_estate_ghulams_Cap
+	}
+}
+
 ##Dativ
 defined_text = {
 	name = GetBrahminsName_dat_Cap
@@ -3015,6 +3369,13 @@ defined_text = {
 defined_text = {
 	name = GetClergyName_dat_Cap
 	random = no
+	text = {
+		localisation_key = string_dat_estate_klirikoi_Cap
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
 	text = {
 		localisation_key = string_dat_estate_ogboni_Cap
 		trigger = {
@@ -3210,7 +3571,13 @@ defined_text = {
 	name = GetNobilityName_dat_Cap
 	random = no
 	text = {
-		localisation_key = string_dat_imperial_nobility_Cap
+		localisation_key = string_dat_estate_mamluks_Cap
+		trigger = {
+			tag = MAM
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_imperial_nobility_Cap
 		trigger = {
 			has_reform = revolutionary_empire_reform
 		}
@@ -3219,6 +3586,13 @@ defined_text = {
 		localisation_key = string_dat_estate_oyo_mesi_Cap
 		trigger = {
 			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_eugeneis_Cap
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
 		}
 	}
 	text = {
@@ -3414,6 +3788,13 @@ defined_text = {
 	name = GetBurghersName_dat_Cap
 	random = no
 	text = {
+		localisation_key = string_dat_estate_emporoi_Cap
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
+	text = {
 		localisation_key = string_dat_estate_quartersmasters_Cap
 		trigger = {
 			has_government_attribute = is_pirate_republic_reform
@@ -3503,6 +3884,38 @@ defined_text = {
 	}
 }
 
+defined_text = {
+	name = GetJanissariesName_dat_Cap
+	random = no
+	text = {
+		localisation_key = string_dat_estate_janissaries_Cap
+	}
+}
+
+defined_text = {
+	name = GetEunuchsName_dat_Cap
+	random = no
+	text = {
+		localisation_key = string_dat_estate_eunuchs_Cap
+	}
+}
+
+defined_text = {
+	name = GetQizilbashName_dat_Cap
+	random = no
+	text = {
+		localisation_key = string_dat_estate_qizilbash_Cap
+	}
+}
+
+defined_text = {
+	name = GetGhulamsName_dat_Cap
+	random = no
+	text = {
+		localisation_key = string_dat_estate_ghulams_Cap
+	}
+}
+
 
 ##Instrumental
 defined_text = {
@@ -3516,6 +3929,13 @@ defined_text = {
 defined_text = {
 	name = GetClergyName_ins_Cap
 	random = no
+	text = {
+		localisation_key = string_ins_estate_klirikoi_Cap
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
 	text = {
 		localisation_key = string_ins_estate_ogboni_Cap
 		trigger = {
@@ -3711,7 +4131,13 @@ defined_text = {
 	name = GetNobilityName_ins_Cap
 	random = no
 	text = {
-		localisation_key = string_ins_imperial_nobility_Cap
+		localisation_key = string_ins_estate_mamluks_Cap
+		trigger = {
+			tag = MAM
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_imperial_nobility_Cap
 		trigger = {
 			has_reform = revolutionary_empire_reform
 		}
@@ -3720,6 +4146,13 @@ defined_text = {
 		localisation_key = string_ins_estate_oyo_mesi_Cap
 		trigger = {
 			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_eugeneis_Cap
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
 		}
 	}
 	text = {
@@ -3915,6 +4348,13 @@ defined_text = {
 	name = GetBurghersName_ins_Cap
 	random = no
 	text = {
+		localisation_key = string_ins_estate_emporoi_Cap
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
+	text = {
 		localisation_key = string_ins_estate_quartersmasters_Cap
 		trigger = {
 			has_government_attribute = is_pirate_republic_reform
@@ -4004,11 +4444,50 @@ defined_text = {
 	}
 }
 
+defined_text = {
+	name = GetJanissariesName_ins_Cap
+	random = no
+	text = {
+		localisation_key = string_ins_estate_janissaries_Cap
+	}
+}
+
+defined_text = {
+	name = GetEunuchsName_ins_Cap
+	random = no
+	text = {
+		localisation_key = string_ins_estate_eunuchs_Cap
+	}
+}
+
+defined_text = {
+	name = GetQizilbashName_ins_Cap
+	random = no
+	text = {
+		localisation_key = string_ins_estate_qizilbash_Cap
+	}
+}
+
+defined_text = {
+	name = GetGhulamsName_ins_Cap
+	random = no
+	text = {
+		localisation_key = string_ins_estate_ghulams_Cap
+	}
+}
+
 ##Liczba NounJa
 
 defined_text = {
 	name = GetClergyName_NounJa
 	random = no
+	text = {
+		localisation_key = string_end_japl
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
 	text = {
 		localisation_key = string_end_japl
 		trigger = {
@@ -4129,6 +4608,12 @@ defined_text = {
 	name = GetNobilityName_NounJa
 	random = no
 	text = {
+		localisation_key = string_end_japl
+		trigger = {
+			tag = MAM
+		}
+	}
+	text = {
 		localisation_key = string_end_empty
 		trigger = {
 			has_reform = revolutionary_empire_reform
@@ -4138,6 +4623,13 @@ defined_text = {
 		localisation_key = string_end_japl
 		trigger = {
 			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_japl
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
 		}
 	}
 	text = {
@@ -4297,6 +4789,13 @@ defined_text = {
 	text = {
 		localisation_key = string_end_japl
 		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
+	text = {
+		localisation_key = string_end_japl
+		trigger = {
 			has_government_attribute = is_pirate_republic_reform
 		}
 	}
@@ -4341,6 +4840,13 @@ defined_text = {
 defined_text = {
 	name = GetClergyName_IA
 	random = no
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
 	text = {
 		localisation_key = string_end_apl
 		trigger = {
@@ -4461,6 +4967,12 @@ defined_text = {
 	name = GetNobilityName_IA
 	random = no
 	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			tag = MAM
+		}
+	}
+	text = {
 		localisation_key = string_end_i
 		trigger = {
 			has_reform = revolutionary_empire_reform
@@ -4470,6 +4982,13 @@ defined_text = {
 		localisation_key = string_end_apl
 		trigger = {
 			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
 		}
 	}
 	text = {
@@ -4629,6 +5148,13 @@ defined_text = {
 	text = {
 		localisation_key = string_end_apl
 		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
 			has_government_attribute = is_pirate_republic_reform
 		}
 	}
@@ -4673,6 +5199,13 @@ defined_text = {
 defined_text = {
 	name = GetClergyName_Whose
 	random = no
+	text = {
+		localisation_key = string_end_ich
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
 	text = {
 		localisation_key = string_end_ich
 		trigger = {
@@ -4793,6 +5326,12 @@ defined_text = {
 	name = GetNobilityName_Whose
 	random = no
 	text = {
+		localisation_key = string_end_ich
+		trigger = {
+			tag = MAM
+		}
+	}
+	text = {
 		localisation_key = string_end_jej
 		trigger = {
 			has_reform = revolutionary_empire_reform
@@ -4802,6 +5341,13 @@ defined_text = {
 		localisation_key = string_end_ich
 		trigger = {
 			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_ich
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
 		}
 	}
 	text = {
@@ -4961,6 +5507,13 @@ defined_text = {
 	text = {
 		localisation_key = string_end_ich
 		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
+	text = {
+		localisation_key = string_end_ich
+		trigger = {
 			has_government_attribute = is_pirate_republic_reform
 		}
 	}
@@ -5005,6 +5558,13 @@ defined_text = {
 defined_text = {
 	name = GetClergyName_Whose_Cap
 	random = no
+	text = {
+		localisation_key = string_end_ich_Cap
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
 	text = {
 		localisation_key = string_end_ich_Cap
 		trigger = {
@@ -5125,6 +5685,12 @@ defined_text = {
 	name = GetNobilityName_Whose_Cap
 	random = no
 	text = {
+		localisation_key = string_end_ich_Cap
+		trigger = {
+			tag = MAM
+		}
+	}
+	text = {
 		localisation_key = string_end_jej_Cap
 		trigger = {
 			has_reform = revolutionary_empire_reform
@@ -5134,6 +5700,13 @@ defined_text = {
 		localisation_key = string_end_ich_Cap
 		trigger = {
 			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_ich_Cap
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
 		}
 	}
 	text = {
@@ -5293,6 +5866,13 @@ defined_text = {
 	text = {
 		localisation_key = string_end_ich_Cap
 		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
+	text = {
+		localisation_key = string_end_ich_Cap
+		trigger = {
 			has_government_attribute = is_pirate_republic_reform
 		}
 	}
@@ -5337,6 +5917,13 @@ defined_text = {
 defined_text = {
 	name = GetClergyName_IZa
 	random = no
+	text = {
+		localisation_key = string_end_zapl
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
 	text = {
 		localisation_key = string_end_zapl
 		trigger = {
@@ -5457,6 +6044,12 @@ defined_text = {
 	name = GetNobilityName_IZa
 	random = no
 	text = {
+		localisation_key = string_end_zapl
+		trigger = {
+			tag = MAM
+		}
+	}
+	text = {
 		localisation_key = string_end_i
 		trigger = {
 			has_reform = revolutionary_empire_reform
@@ -5466,6 +6059,13 @@ defined_text = {
 		localisation_key = string_end_zapl
 		trigger = {
 			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_zapl
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
 		}
 	}
 	text = {
@@ -5625,6 +6225,13 @@ defined_text = {
 	text = {
 		localisation_key = string_end_zapl
 		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
+	text = {
+		localisation_key = string_end_zapl
+		trigger = {
 			has_government_attribute = is_pirate_republic_reform
 		}
 	}
@@ -5669,6 +6276,13 @@ defined_text = {
 defined_text = {
 	name = GetClergyName_EA
 	random = no
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
 	text = {
 		localisation_key = string_end_apl
 		trigger = {
@@ -5789,6 +6403,12 @@ defined_text = {
 	name = GetNobilityName_EA
 	random = no
 	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			tag = MAM
+		}
+	}
+	text = {
 		localisation_key = string_end_e
 		trigger = {
 			has_reform = revolutionary_empire_reform
@@ -5798,6 +6418,13 @@ defined_text = {
 		localisation_key = string_end_apl
 		trigger = {
 			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
 		}
 	}
 	text = {
@@ -5957,6 +6584,13 @@ defined_text = {
 	text = {
 		localisation_key = string_end_apl
 		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
 			has_government_attribute = is_pirate_republic_reform
 		}
 	}
@@ -6001,6 +6635,13 @@ defined_text = {
 defined_text = {
 	name = GetClergyName_ZieA
 	random = no
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
 	text = {
 		localisation_key = string_end_apl
 		trigger = {
@@ -6121,6 +6762,12 @@ defined_text = {
 	name = GetNobilityName_ZieA
 	random = no
 	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			tag = MAM
+		}
+	}
+	text = {
 		localisation_key = string_end_zie
 		trigger = {
 			has_reform = revolutionary_empire_reform
@@ -6130,6 +6777,13 @@ defined_text = {
 		localisation_key = string_end_apl
 		trigger = {
 			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
 		}
 	}
 	text = {
@@ -6289,6 +6943,13 @@ defined_text = {
 	text = {
 		localisation_key = string_end_apl
 		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
 			has_government_attribute = is_pirate_republic_reform
 		}
 	}
@@ -6333,6 +6994,13 @@ defined_text = {
 defined_text = {
 	name = GetClergyName_Who
 	random = no
+	text = {
+		localisation_key = string_end_im
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
 	text = {
 		localisation_key = string_end_im
 		trigger = {
@@ -6453,6 +7121,12 @@ defined_text = {
 	name = GetNobilityName_Who
 	random = no
 	text = {
+		localisation_key = string_end_im
+		trigger = {
+			tag = MAM
+		}
+	}
+	text = {
 		localisation_key = string_end_jej
 		trigger = {
 			has_reform = revolutionary_empire_reform
@@ -6462,6 +7136,13 @@ defined_text = {
 		localisation_key = string_end_im
 		trigger = {
 			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_im
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
 		}
 	}
 	text = {
@@ -6621,6 +7302,13 @@ defined_text = {
 	text = {
 		localisation_key = string_end_im
 		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
+	text = {
+		localisation_key = string_end_im
+		trigger = {
 			has_government_attribute = is_pirate_republic_reform
 		}
 	}
@@ -6665,6 +7353,13 @@ defined_text = {
 defined_text = {
 	name = GetClergyName_NormEnd
 	random = no
+	text = {
+		localisation_key = string_end_ni
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
 	text = {
 		localisation_key = string_end_ne
 		trigger = {
@@ -6785,6 +7480,12 @@ defined_text = {
 	name = GetNobilityName_NormEnd
 	random = no
 	text = {
+		localisation_key = string_end_ni
+		trigger = {
+			tag = MAM
+		}
+	}
+	text = {
 		localisation_key = string_end_na
 		trigger = {
 			has_reform = revolutionary_empire_reform
@@ -6794,6 +7495,13 @@ defined_text = {
 		localisation_key = string_end_ne
 		trigger = {
 			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_ni
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
 		}
 	}
 	text = {
@@ -6953,6 +7661,13 @@ defined_text = {
 	text = {
 		localisation_key = string_end_ni
 		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
+	text = {
+		localisation_key = string_end_ni
+		trigger = {
 			has_government_attribute = is_pirate_republic_reform
 		}
 	}
@@ -6997,6 +7712,13 @@ defined_text = {
 defined_text = {
 	name = GetClergyName_BE
 	random = no
+	text = {
+		localisation_key = string_word_sa
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
 	text = {
 		localisation_key = string_word_sa
 		trigger = {
@@ -7117,6 +7839,12 @@ defined_text = {
 	name = GetNobilityName_BE
 	random = no
 	text = {
+		localisation_key = string_word_sa
+		trigger = {
+			tag = MAM
+		}
+	}
+	text = {
 		localisation_key = string_word_jest
 		trigger = {
 			has_reform = revolutionary_empire_reform
@@ -7126,6 +7854,13 @@ defined_text = {
 		localisation_key = string_word_sa
 		trigger = {
 			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_word_sa
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
 		}
 	}
 	text = {
@@ -7285,6 +8020,13 @@ defined_text = {
 	text = {
 		localisation_key = string_word_sa
 		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
+	text = {
+		localisation_key = string_word_sa
+		trigger = {
 			has_government_attribute = is_pirate_republic_reform
 		}
 	}
@@ -7329,6 +8071,13 @@ defined_text = {
 defined_text = {
 	name = GetClergyName_AdjEndS
 	random = no
+	text = {
+		localisation_key = string_end_i
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
 	text = {
 		localisation_key = string_end_e
 		trigger = {
@@ -7449,6 +8198,12 @@ defined_text = {
 	name = GetNobilityName_AdjEndS
 	random = no
 	text = {
+		localisation_key = string_end_i
+		trigger = {
+			tag = MAM
+		}
+	}
+	text = {
 		localisation_key = string_end_a
 		trigger = {
 			has_reform = revolutionary_empire_reform
@@ -7458,6 +8213,13 @@ defined_text = {
 		localisation_key = string_end_e
 		trigger = {
 			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_i
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
 		}
 	}
 	text = {
@@ -7615,9 +8377,10 @@ defined_text = {
 	name = GetBurghersName_AdjEndS
 	random = no
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_end_a
 		trigger = {
-			has_government_attribute = is_pirate_republic_reform
+			tag = BYZ
+			culture_group = byzantine
 		}
 	}
 	text = {
@@ -7661,6 +8424,13 @@ defined_text = {
 defined_text = {
 	name = GetClergyName_NounA
 	random = no
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
 	text = {
 		localisation_key = string_end_apl
 		trigger = {
@@ -7781,6 +8551,12 @@ defined_text = {
 	name = GetNobilityName_NounA
 	random = no
 	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			tag = MAM
+		}
+	}
+	text = {
 		localisation_key = string_end_empty
 		trigger = {
 			has_reform = revolutionary_empire_reform
@@ -7790,6 +8566,13 @@ defined_text = {
 		localisation_key = string_end_apl
 		trigger = {
 			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
 		}
 	}
 	text = {
@@ -7949,6 +8732,13 @@ defined_text = {
 	text = {
 		localisation_key = string_end_apl
 		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
 			has_government_attribute = is_pirate_republic_reform
 		}
 	}
@@ -7993,6 +8783,13 @@ defined_text = {
 defined_text = {
 	name = GetClergyName_Conc
 	random = no
+	text = {
+		localisation_key = string_end_eni
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
 	text = {
 		localisation_key = string_end_one
 		trigger = {
@@ -8113,6 +8910,12 @@ defined_text = {
 	name = GetNobilityName_Conc
 	random = no
 	text = {
+		localisation_key = string_end_eni
+		trigger = {
+			tag = MAM
+		}
+	}
+	text = {
 		localisation_key = string_end_ona
 		trigger = {
 			has_reform = revolutionary_empire_reform
@@ -8122,6 +8925,13 @@ defined_text = {
 		localisation_key = string_end_one
 		trigger = {
 			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_eni
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
 		}
 	}
 	text = {
@@ -8281,6 +9091,13 @@ defined_text = {
 	text = {
 		localisation_key = string_end_eni
 		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
+	text = {
+		localisation_key = string_end_eni
+		trigger = {
 			has_government_attribute = is_pirate_republic_reform
 		}
 	}
@@ -8325,6 +9142,13 @@ defined_text = {
 defined_text = {
 	name = GetClergyName_AdjEnd
 	random = no
+	text = {
+		localisation_key = string_end_y
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
 	text = {
 		localisation_key = string_end_e
 		trigger = {
@@ -8445,6 +9269,12 @@ defined_text = {
 	name = GetNobilityName_AdjEnd
 	random = no
 	text = {
+		localisation_key = string_end_y
+		trigger = {
+			tag = MAM
+		}
+	}
+	text = {
 		localisation_key = string_end_a
 		trigger = {
 			has_reform = revolutionary_empire_reform
@@ -8454,6 +9284,13 @@ defined_text = {
 		localisation_key = string_end_e
 		trigger = {
 			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_y
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
 		}
 	}
 	text = {
@@ -8613,6 +9450,13 @@ defined_text = {
 	text = {
 		localisation_key = string_end_y
 		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
+	text = {
+		localisation_key = string_end_y
+		trigger = {
 			has_government_attribute = is_pirate_republic_reform
 		}
 	}
@@ -8657,6 +9501,13 @@ defined_text = {
 defined_text = {
 	name = GetClergyName_PastEnd
 	random = no
+	text = {
+		localisation_key = string_end_eli
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
 	text = {
 		localisation_key = string_end_aly
 		trigger = {
@@ -8777,6 +9628,12 @@ defined_text = {
 	name = GetNobilityName_PastEnd
 	random = no
 	text = {
+		localisation_key = string_end_eli
+		trigger = {
+			tag = MAM
+		}
+	}
+	text = {
 		localisation_key = string_end_alo
 		trigger = {
 			has_reform = revolutionary_empire_reform
@@ -8786,6 +9643,13 @@ defined_text = {
 		localisation_key = string_end_aly
 		trigger = {
 			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_eli
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
 		}
 	}
 	text = {
@@ -8942,6 +9806,13 @@ defined_text = {
 defined_text = {
 	name = GetBurghersName_PastEnd
 	random = no
+	text = {
+		localisation_key = string_end_eli
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
 	text = {
 		localisation_key = string_end_eli
 		trigger = {
