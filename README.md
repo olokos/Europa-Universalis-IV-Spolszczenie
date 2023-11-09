@@ -6,7 +6,7 @@ Jak i steam:
 [Link](https://steamcommunity.com/sharedfiles/filedetails/?id=1869998815)
 
 ## Obsługiwana wersja gry i zakres tłumaczenia:
-Spolszczenie do Europa Universalis 4 w najnowszej wersji 1.35.6.0 Ottomans.
+Spolszczenie do Europa Universalis 4 w najnowszej wersji 1.36.0.0 Byzantium.
 
 ### Stan w wersji 3.4.3 [01.10.2023]:
 * 19,527 sprawdzonych wpisów
