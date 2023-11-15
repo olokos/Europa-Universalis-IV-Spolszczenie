@@ -74,7 +74,7 @@
  string_estate_janissaries: "janczarzy" #Janczarzy MM
  string_estate_eunuchs: "eunuchowie" #Eunuchowie MM
  string_estate_qizilbash: "kyzyłbasze" #Kyzyłbasze MM
- string_estate_ghulams: "ghilman" #Ghilman MM
+ string_estate_ghulams: "ghulamowie" #Ghulamowie MM
 #duża
  string_estate_brahmins_Cap: "Bramini" #Bramini MM
  string_estate_klirikoi_Cap: "Klirikoi" #Klirikoi MM
@@ -149,7 +149,7 @@
  string_estate_janissaries_Cap: "Janczarzy" #Janczarzy MM
  string_estate_eunuchs_Cap: "Eunuchowie" #Eunuchowie MM
  string_estate_qizilbash_Cap: "Kyzyłbasze" #Kyzyłbasze MM
- string_estate_ghulams_Cap: "Ghilman" #Ghilman MM
+ string_estate_ghulams_Cap: "Ghulamowie" #Ghulamowie MM
 ## Dopełniacz klas społecznych
 ##mała
  string_gen_estate_brahmins: "braminów" #Bramini
@@ -225,7 +225,7 @@
  string_gen_estate_janissaries: "janczarów" #Janczarzy
  string_gen_estate_eunuchs: "eunuchów" #Eunuchowie
  string_gen_estate_qizilbash: "kyzyłbaszów" #Kyzyłbasze
- string_gen_estate_ghulams: "ghilmanów" #Ghilman
+ string_gen_estate_ghulams: "ghulamów" #Ghulamowie
 ## duża
  string_gen_estate_brahmins_Cap: "Braminów" #Bramini
  string_gen_estate_klirikoi_Cap: "Klirikoi" #Klirikoi
@@ -300,7 +300,7 @@
  string_gen_estate_janissaries_Cap: "Janczarów" #Janczarzy
  string_gen_estate_eunuchs_Cap: "Eunuchów" #Eunuchowie
  string_gen_estate_qizilbash_Cap: "Kyzyłbaszów" #Kyzyłbasze
- string_gen_estate_ghulams_Cap: "Ghilmanów" #Ghilman
+ string_gen_estate_ghulams_Cap: "Ghulamów" #Ghulamowie
 ## Celownik klas społecznych komu czemu szlachcie
 #mała
  string_dat_estate_brahmins: "braminom" #Bramini
@@ -376,7 +376,7 @@
  string_dat_estate_janissaries: "janczarom" #Janczarzy
  string_dat_estate_eunuchs: "eunuchom" #Eunuchowie
  string_dat_estate_qizilbash: "kyzyłbaszom" #Kyzyłbasze
- string_dat_estate_ghulams: "ghilmanom" #Ghilman
+ string_dat_estate_ghulams: "ghulamom" #Ghulamowie
 #duża
  string_dat_estate_brahmins_Cap: "Braminom" #Bramini
  string_dat_estate_klirikoi_Cap: "Klirikoi" #Klirikoi
@@ -451,7 +451,7 @@
  string_dat_estate_janissaries_Cap: "Janczarom" #Janczarzy
  string_dat_estate_eunuchs_Cap: "Eunuchom" #Eunuchowie
  string_dat_estate_qizilbash_Cap: "Kyzyłbaszom" #Kyzyłbasze
- string_dat_estate_ghulams_Cap: "Ghilmanom" #Ghilman
+ string_dat_estate_ghulams_Cap: "Ghulamom" #Ghulamowie
  #Narzędnik klas społecznych kim czym szlachtą
  #mała
  string_ins_estate_brahmins: "braminami" #Bramini
@@ -527,7 +527,7 @@
  string_ins_estate_janissaries: "janczarami" #Janczarzy
  string_ins_estate_eunuchs: "eunuchami" #Eunuchowie
  string_ins_estate_qizilbash: "kyzyłbaszami" #Kyzyłbasze
- string_ins_estate_ghulams: "ghilmanami" #Ghilman
+ string_ins_estate_ghulams: "ghulamami" #Ghulamowie
  #duża
  string_ins_estate_brahmins_Cap: "Braminami" #Bramini
  string_ins_estate_klirikoi_Cap: "Klirikoi"
@@ -602,4 +602,4 @@
  string_ins_estate_janissaries_Cap: "Janczarami" #Janczarzy
  string_ins_estate_eunuchs_Cap: "Eunuchami" #Eunuchowie
  string_ins_estate_qizilbash_Cap: "Kyzyłbaszami" #Kyzyłbasze
- string_ins_estate_ghulams_Cap: "Ghilmanami" #Ghilman
+ string_ins_estate_ghulams_Cap: "Ghulamami" #Ghulamowie
