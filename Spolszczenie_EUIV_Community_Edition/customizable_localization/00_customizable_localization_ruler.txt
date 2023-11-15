@@ -2,6 +2,21 @@ defined_text = {
 	name = GetRulerGen
 	random = no
 	text={
+		localisation_key = string_IMPERATORI
+		trigger = {
+			is_female = no
+			government_rank = 3
+			OR = {
+				primary_culture = georgian
+				primary_culture = georgian_new
+			}
+			NOT = {
+				tag = SME
+			}
+			government = monarchy
+		}
+	}
+	text={
 		localisation_key = string_TRIBAL_LEADER
 		trigger = {
 			is_female = no
@@ -423,15 +438,6 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_EMPEROR
-		trigger = {
-			is_female = no
-			government_rank = 3
-			government = monarchy
-			primary_culture = georgian
-		}
-	}
-	text={
 		localisation_key = string_PADISHAH
 		trigger = {
 			is_female = no
@@ -490,6 +496,14 @@ defined_text = {
 			government_rank = 3
 			government = monarchy
 			tag = SIS
+		}
+	}
+	text={
+		localisation_key = string_SHAHANSHAH
+		trigger = {
+			is_female = no
+			government_rank = 3
+			has_country_flag = turkoman_adopt_shahanshah_title
 		}
 	}
 	text={
@@ -1833,9 +1847,13 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3
-			religion = catholic
-			has_reform = holy_state_reform
-			has_country_modifier = sisters_takeover
+			OR = {
+				AND = {
+					has_reform = holy_state_reform
+					has_country_modifier = sisters_takeover
+				}
+				has_reform = sisterhood_of_jeanne_darc_reform
+			}
 		}
 	}
 	text={
@@ -1880,6 +1898,21 @@ defined_text = {
 			is_female = no
 			government_rank = 3
 			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_MEPE
+		trigger = {
+			is_female = no
+			government_rank = 2
+			OR = {
+				primary_culture = georgian
+				primary_culture = georgian_new
+			}
+			NOT = {
+				tag = SME
+			}
+			government = monarchy
 		}
 	}
 	text={
@@ -2131,15 +2164,6 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_KING
-		trigger = {
-			is_female = no
-			government_rank = 2
-			government = monarchy
-			primary_culture = georgian
-		}
-	}
-	text={
 		localisation_key = string_SULTAN
 		trigger = {
 			is_female = no
@@ -2198,6 +2222,14 @@ defined_text = {
 			government_rank = 2
 			government = monarchy
 			tag = SIS
+		}
+	}
+	text={
+		localisation_key = string_SHAH
+		trigger = {
+			is_female = no
+			government_rank = 2
+			has_country_flag = turkoman_adopt_shahanshah_title
 		}
 	}
 	text={
@@ -3563,6 +3595,20 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_MTAVARI
+		trigger = {
+			is_female = no
+			OR = {
+				primary_culture = georgian
+				primary_culture = georgian_new
+			}
+			NOT = {
+				tag = SME
+			}
+			government = monarchy
+		}
+	}
+	text={
 		localisation_key = string_CHIEF
 		trigger = {
 			is_female = no
@@ -3847,14 +3893,6 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_ATABEG
-		trigger = {
-			is_female = no
-			government = monarchy
-			primary_culture = georgian
-		}
-	}
-	text={
 		localisation_key = string_DAI_male
 		trigger = {
 			is_female = no
@@ -3907,6 +3945,13 @@ defined_text = {
 			is_female = no
 			government = monarchy
 			tag = SIS
+		}
+	}
+	text={
+		localisation_key = string_SHEIKH
+		trigger = {
+			is_female = no
+			has_country_flag = turkoman_adopt_shahanshah_title
 		}
 	}
 	text={
@@ -5230,9 +5275,13 @@ defined_text = {
 		localisation_key = string_GRAND_MASTER
 		trigger = {
 			is_female = no
-			religion = catholic
-			has_reform = holy_state_reform
-			has_country_modifier = sisters_takeover
+			OR = {
+				AND = {
+					has_reform = holy_state_reform
+					has_country_modifier = sisters_takeover
+				}
+				has_reform = sisterhood_of_jeanne_darc_reform
+			}
 		}
 	}
 	text={
@@ -5272,6 +5321,20 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_IMPERATRITSA
+		trigger = {
+			government_rank = 3
+			OR = {
+				primary_culture = georgian
+				primary_culture = georgian_new
+			}
+			NOT = {
+				tag = SME
+			}
+			government = monarchy
 		}
 	}
 	text={
@@ -5659,14 +5722,6 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_EMPRESS
-		trigger = {
-			government_rank = 3
-			government = monarchy
-			primary_culture = georgian
-		}
-	}
-	text={
 		localisation_key = string_PADISHAH
 		trigger = {
 			government_rank = 3
@@ -5719,6 +5774,13 @@ defined_text = {
 			government_rank = 3
 			government = monarchy
 			tag = SIS
+		}
+	}
+	text={
+		localisation_key = string_SHAHANSHAH
+		trigger = {
+			government_rank = 3
+			has_country_flag = turkoman_adopt_shahanshah_title
 		}
 	}
 	text={
@@ -6948,9 +7010,13 @@ defined_text = {
 		localisation_key = string_GRAND_MISTRESS
 		trigger = {
 			government_rank = 3
-			religion = catholic
-			has_reform = holy_state_reform
-			has_country_modifier = sisters_takeover
+			OR = {
+				AND = {
+					has_reform = holy_state_reform
+					has_country_modifier = sisters_takeover
+				}
+				has_reform = sisterhood_of_jeanne_darc_reform
+			}
 		}
 	}
 	text={
@@ -6990,6 +7056,20 @@ defined_text = {
 		trigger = {
 			government_rank = 3
 			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_MEPE
+		trigger = {
+			government_rank = 2
+			OR = {
+				primary_culture = georgian
+				primary_culture = georgian_new
+			}
+			NOT = {
+				tag = SME
+			}
+			government = monarchy
 		}
 	}
 	text={
@@ -7228,14 +7308,6 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_QUEEN
-		trigger = {
-			government_rank = 2
-			government = monarchy
-			primary_culture = georgian
-		}
-	}
-	text={
 		localisation_key = string_SULTANA
 		trigger = {
 			government_rank = 2
@@ -7288,6 +7360,13 @@ defined_text = {
 			government_rank = 2
 			government = monarchy
 			tag = SIS
+		}
+	}
+	text={
+		localisation_key = string_SHAH
+		trigger = {
+			government_rank = 2
+			has_country_flag = turkoman_adopt_shahanshah_title
 		}
 	}
 	text={
@@ -8498,9 +8577,13 @@ defined_text = {
 		localisation_key = string_MOTHER_SUPERIOR
 		trigger = {
 			government_rank = 2
-			religion = catholic
-			has_reform = holy_state_reform
-			has_country_modifier = sisters_takeover
+			OR = {
+				AND = {
+					has_reform = holy_state_reform
+					has_country_modifier = sisters_takeover
+				}
+				has_reform = sisterhood_of_jeanne_darc_reform
+			}
 		}
 	}
 	text={
@@ -8540,6 +8623,19 @@ defined_text = {
 		trigger = {
 			government_rank = 2
 			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_MTAVARI
+		trigger = {
+			OR = {
+				primary_culture = georgian
+				primary_culture = georgian_new
+			}
+			NOT = {
+				tag = SME
+			}
+			government = monarchy
 		}
 	}
 	text={
@@ -8801,13 +8897,6 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_ATABEG_fem
-		trigger = {
-			government = monarchy
-			primary_culture = georgian
-		}
-	}
-	text={
 		localisation_key = string_DAI_female
 		trigger = {
 			religion_group = muslim
@@ -8854,6 +8943,12 @@ defined_text = {
 		trigger = {
 			government = monarchy
 			tag = SIS
+		}
+	}
+	text={
+		localisation_key = string_SHEIKHA
+		trigger = {
+			has_country_flag = turkoman_adopt_shahanshah_title
 		}
 	}
 	text={
@@ -10046,9 +10141,13 @@ defined_text = {
 	text={
 		localisation_key = string_ABBESS
 		trigger = {
-			religion = catholic
-			has_reform = holy_state_reform
-			has_country_modifier = sisters_takeover
+			OR = {
+				AND = {
+					has_reform = holy_state_reform
+					has_country_modifier = sisters_takeover
+				}
+				has_reform = sisterhood_of_jeanne_darc_reform
+			}
 		}
 	}
 	text={

@@ -2,6 +2,21 @@ defined_text = {
 	name = GetConsortGen
 	random = no
 	text={
+		localisation_key = string_IMPERATORI
+		trigger = {
+			has_female_consort = no
+			government_rank = 3
+			OR = {
+				primary_culture = georgian
+				primary_culture = georgian_new
+			}
+			NOT = {
+				tag = SME
+			}
+			government = monarchy
+		}
+	}
+	text={
 		localisation_key = string_CONSORT
 		trigger = {
 			has_female_consort = no
@@ -174,15 +189,6 @@ defined_text = {
 			government_rank = 3
 			tag = AVR
 			government = monarchy
-		}
-	}
-	text={
-		localisation_key = string_EMPEROR
-		trigger = {
-			has_female_consort = no
-			government_rank = 3
-			government = monarchy
-			primary_culture = georgian
 		}
 	}
 	text={
@@ -992,6 +998,21 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_MEPE
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			OR = {
+				primary_culture = georgian
+				primary_culture = georgian_new
+			}
+			NOT = {
+				tag = SME
+			}
+			government = monarchy
+		}
+	}
+	text={
 		localisation_key = string_KHAN
 		trigger = {
 			has_female_consort = no
@@ -1085,15 +1106,6 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_KING
-		trigger = {
-			has_female_consort = no
-			government_rank = 2
-			government = monarchy
-			primary_culture = georgian
-		}
-	}
-	text={
 		localisation_key = string_SULTAN_CONSORT
 		trigger = {
 			has_female_consort = no
@@ -1140,6 +1152,14 @@ defined_text = {
 			government_rank = 2
 			government = monarchy
 			tag = SIS
+		}
+	}
+	text={
+		localisation_key = string_SHAH_CONSORT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2
+			has_country_flag = turkoman_adopt_shahanshah_title
 		}
 	}
 	text={
@@ -1768,6 +1788,20 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_MTAVARI
+		trigger = {
+			has_female_consort = no
+			OR = {
+				primary_culture = georgian
+				primary_culture = georgian_new
+			}
+			NOT = {
+				tag = SME
+			}
+			government = monarchy
+		}
+	}
+	text={
 		localisation_key = string_BEILE
 		trigger = {
 			has_female_consort = no
@@ -1893,14 +1927,6 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_PRINCE
-		trigger = {
-			has_female_consort = no
-			government = monarchy
-			primary_culture = georgian
-		}
-	}
-	text={
 		localisation_key = string_EMIR_CONSORT
 		trigger = {
 			has_female_consort = no
@@ -1942,6 +1968,13 @@ defined_text = {
 			has_female_consort = no
 			government = monarchy
 			tag = SIS
+		}
+	}
+	text={
+		localisation_key = string_MIRZA
+		trigger = {
+			has_female_consort = no
+			has_country_flag = turkoman_adopt_shahanshah_title
 		}
 	}
 	text={
@@ -2557,6 +2590,20 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_IMPERATRITSA
+		trigger = {
+			government_rank = 3
+			OR = {
+				primary_culture = georgian
+				primary_culture = georgian_new
+			}
+			NOT = {
+				tag = SME
+			}
+			government = monarchy
+		}
+	}
+	text={
 		localisation_key = string_CONSORT
 		trigger = {
 			has_reform = stateless_society
@@ -2716,14 +2763,6 @@ defined_text = {
 			government_rank = 3
 			tag = AVR
 			government = monarchy
-		}
-	}
-	text={
-		localisation_key = string_EMPRESS
-		trigger = {
-			government_rank = 3
-			government = monarchy
-			primary_culture = georgian
 		}
 	}
 	text={
@@ -3432,6 +3471,20 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_DEDOPALI
+		trigger = {
+			government_rank = 2
+			OR = {
+				primary_culture = georgian
+				primary_culture = georgian_new
+			}
+			NOT = {
+				tag = SME
+			}
+			government = monarchy
+		}
+	}
+	text={
 		localisation_key = string_QUEEN_CONSORT
 		trigger = {
 			government_rank = 2
@@ -3542,14 +3595,6 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_QUEEN
-		trigger = {
-			government_rank = 2
-			government = monarchy
-			primary_culture = georgian
-		}
-	}
-	text={
 		localisation_key = string_SULTANA
 		trigger = {
 			government_rank = 2
@@ -3595,6 +3640,13 @@ defined_text = {
 	}
 	text={
 		localisation_key = string_KHANUM
+		trigger = {
+			government_rank = 2
+			has_country_flag = turkoman_adopt_shahanshah_title
+		}
+	}
+	text={
+		localisation_key = string_SHAHBANU
 		trigger = {
 			government_rank = 2
 			government = monarchy
@@ -4265,6 +4317,19 @@ defined_text = {
 		}
 	}
 	text={
+		localisation_key = string_MTAVARI
+		trigger = {
+			OR = {
+				primary_culture = georgian
+				primary_culture = georgian_new
+			}
+			NOT = {
+				tag = SME
+			}
+			government = monarchy
+		}
+	}
+	text={
 		localisation_key = string_CONSORT
 		trigger = {
 			tag = KON
@@ -4401,13 +4466,6 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_PRINCESS
-		trigger = {
-			government = monarchy
-			primary_culture = georgian
-		}
-	}
-	text={
 		localisation_key = string_EMIRA
 		trigger = {
 			religion_group = muslim
@@ -4444,6 +4502,12 @@ defined_text = {
 		trigger = {
 			government = monarchy
 			tag = SIS
+		}
+	}
+	text={
+		localisation_key = string_SHEIKHA
+		trigger = {
+			has_country_flag = turkoman_adopt_shahanshah_title
 		}
 	}
 	text={

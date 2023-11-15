@@ -4,6 +4,20 @@ defined_text = {
 	text={
 		localisation_key = string_word_moze
 		trigger = {
+			government_rank = 3
+			OR = {
+				primary_culture = georgian
+				primary_culture = georgian_new
+			}
+			NOT = {
+				tag = SME
+			}
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_word_moze
+		trigger = {
 			has_reform = stateless_society
 		}
 	}
@@ -405,14 +419,6 @@ defined_text = {
 		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
-			government = monarchy
-			primary_culture = georgian
-		}
-	}
-	text={
-		localisation_key = string_word_moze
-		trigger = {
-			government_rank = 3
 			religion_group = muslim
 			tag = NJR
 		}
@@ -462,6 +468,13 @@ defined_text = {
 			government_rank = 3
 			government = monarchy
 			tag = SIS
+		}
+	}
+	text={
+		localisation_key = string_word_moze
+		trigger = {
+			government_rank = 3
+			has_country_flag = turkoman_adopt_shahanshah_title
 		}
 	}
 	text={
@@ -1721,9 +1734,13 @@ defined_text = {
 		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 3
-			religion = catholic
-			has_reform = holy_state_reform
-			has_country_modifier = sisters_takeover
+			OR = {
+				AND = {
+					has_reform = holy_state_reform
+					has_country_modifier = sisters_takeover
+				}
+				has_reform = sisterhood_of_jeanne_darc_reform
+			}
 		}
 	}
 	text={
@@ -1763,6 +1780,20 @@ defined_text = {
 		trigger = {
 			government_rank = 3
 			government = tribal
+		}
+	}
+	text={
+		localisation_key = string_word_moze
+		trigger = {
+			government_rank = 2
+			OR = {
+				primary_culture = georgian
+				primary_culture = georgian_new
+			}
+			NOT = {
+				tag = SME
+			}
+			government = monarchy
 		}
 	}
 	text={
@@ -1981,14 +2012,6 @@ defined_text = {
 		localisation_key = string_word_moze
 		trigger = {
 			government_rank = 2
-			government = monarchy
-			primary_culture = georgian
-		}
-	}
-	text={
-		localisation_key = string_word_moze
-		trigger = {
-			government_rank = 2
 			religion_group = muslim
 			tag = NJR
 		}
@@ -2038,6 +2061,13 @@ defined_text = {
 			government_rank = 2
 			government = monarchy
 			tag = SIS
+		}
+	}
+	text={
+		localisation_key = string_word_moze
+		trigger = {
+			government_rank = 2
+			has_country_flag = turkoman_adopt_shahanshah_title
 		}
 	}
 	text={
@@ -3290,6 +3320,19 @@ defined_text = {
 	text={
 		localisation_key = string_word_moze
 		trigger = {
+			OR = {
+				primary_culture = georgian
+				primary_culture = georgian_new
+			}
+			NOT = {
+				tag = SME
+			}
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_word_moze
+		trigger = {
 			tag = KON
 			government = tribal
 		}
@@ -3542,13 +3585,6 @@ defined_text = {
 	text={
 		localisation_key = string_word_moze
 		trigger = {
-			government = monarchy
-			primary_culture = georgian
-		}
-	}
-	text={
-		localisation_key = string_word_moze
-		trigger = {
 			religion_group = muslim
 			tag = NJR
 		}
@@ -3593,6 +3629,12 @@ defined_text = {
 		trigger = {
 			government = monarchy
 			tag = SIS
+		}
+	}
+	text={
+		localisation_key = string_word_moze
+		trigger = {
+			has_country_flag = turkoman_adopt_shahanshah_title
 		}
 	}
 	text={
@@ -4798,9 +4840,13 @@ defined_text = {
 	text={
 		localisation_key = string_word_moze
 		trigger = {
-			religion = catholic
-			has_reform = holy_state_reform
-			has_country_modifier = sisters_takeover
+			OR = {
+				AND = {
+					has_reform = holy_state_reform
+					has_country_modifier = sisters_takeover
+				}
+				has_reform = sisterhood_of_jeanne_darc_reform
+			}
 		}
 	}
 	text={
