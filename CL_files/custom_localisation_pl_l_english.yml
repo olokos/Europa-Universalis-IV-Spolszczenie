@@ -520,3 +520,5 @@
  string_families_gen: "Wpływowych rodzin" #Wpływowe Rodziny
  ## GetNobilityOrFallbackName_gen
  string_country_estate_nobles_name_gen: "[This.GetNobilityName_gen]"
+ ## GetChurchOrFallbackName_dat
+ string_country_estate_church_name_dat: "[This.GetClergyName_dat]"

@@ -10051,3 +10051,22 @@ defined_text = {
 		}
 	}
 }
+
+defined_text = {
+	name = GetChurchOrFallbackName_dat
+	random = no
+	
+	text = {
+		localisation_key = string_country_estate_church_name_dat
+		trigger = {
+			has_estate = estate_church
+		}
+	}
+	
+	text = {
+		localisation_key = string_dat_estate_church
+		trigger = {
+			NOT = { has_estate = estate_church }
+		}
+	}
+}
