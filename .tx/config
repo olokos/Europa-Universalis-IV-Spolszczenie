@@ -946,3 +946,10 @@ source_file = translations/en/yama_1_36_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
+[o:europa-universalis-iv-community-translation:p:Community-edition:r:branching-mission-system-l-english-yml]
+file_filter = translations/<lang>/branching_mission_system_l_english.yml
+minimum_perc = 0
+source_file = translations/en/branching_mission_system_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
