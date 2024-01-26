@@ -145,3 +145,4 @@
  CULT_REMOVED_EFFECT: "Removing this cult will have the following effect:\n$EFFECT$"
  HEGEMONY_GAINED_EFFECT: "Gaining this Hegemony will have the following effect:\n$EFFECT$"
  HEGEMONY_LOST_EFFECT: "Losing this Hegemony will have the following effect:\n$EFFECT$"
+ ADVISOR_MORE_EXPENSIVE: "This advisor is $AMT$ more expensive for your country to employ."

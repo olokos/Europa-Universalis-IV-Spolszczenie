@@ -2012,6 +2012,8 @@
  ahmudan_system_reform_desc: "The ahmudan system (\"crown service\") is a form of conscription where local governors provide the army with a supply of predetermined quota of men. The affected governors and their provinces are exempt from most of the taxes in exchange for their military servitude."
  mechanic_ahmudan_system_yes: "Gain §G-10.0%§! Global Regiment Cost and §G+20.0%§! Manpower Recovery Speed during war.\nGain additional §G+7.5%§! Morale of Armies, §G+15.0%§! Fort Defense and §G+10.0%§! Manpower Recovery Speed during a defensive war."
  ability_ahmudan_mechanic: "Ahmudan System Interactions"
+ ahmudan_system_attacker: "Ahmudan System: Attacker"
+ ahmudan_system_defender: "Ahmudan System: Defender"
  ghazi_reform: "Ghazi Warriors"
  ghazi_reform_desc: "The ghazi are raiders who secure the vanguard for our troops. Fighting for their ruler against the non-believers, the ghazi corps attract those who seek glory, wealth and salvation on the battlefield."
  the_cawa_regiments_reform: "Grant Privileges to the Cawa"

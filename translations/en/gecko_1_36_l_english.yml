@@ -2,3 +2,8 @@
  CALLDESC_ALREADY_INVITED: "Call to arms already pending"
  SET_PAPACY_ACTIVE_EFFECT_YES: "Enable the $RELIGION$ Papacy"
  SET_PAPACY_ACTIVE_EFFECT_NO: "Disable the $RELIGION$ Papacy"
+ CHAT_KICK_FROM_CHANNEL: "Kick player from channel"
+ CHAT_ERROR_KICK_YOURSELF: "Cannot kick yourself"
+ CHAT_ERROR_KICK_GENERAL_CHAT: "Cannot kick from general chat"
+ MONTHLY_TRADE_INCOME_TRIGGER: "Monthly trade income at least "
+ MONTHLY_TRADE_INCOME_TRIGGER_NOT: "Monthly trade income less than "
