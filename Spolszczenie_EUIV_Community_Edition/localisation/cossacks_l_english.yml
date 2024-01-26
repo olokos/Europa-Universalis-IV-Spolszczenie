@@ -218,7 +218,7 @@
  NEUTRAL_ATTITUDE_DESC:0 "Ustawiaj¹c swoje nastawienie na §Yneutralne§! pokazujesz, ¿e nie uwa¿asz kraju §Y$COUNTRY$§! jako istotnego dla twoich interesów. Generalnie b²d¹ unika¾ kontaktów dyplomatycznych z tob¹, a twoi sojusznicy b²d¹ postrzega¾ to jako znak, ¿e jesteœ wobec nich oboj²tny. "
  FRIENDLY_ATTITUDE_DESC:0 "Ustawiaj¹c swoje nastawienie na §Yprzyjazne§! pokazujesz, ¿e chcesz sprzymierzy¾ si² z krajem §Y$COUNTRY$§!. Twoi sojusznicy b²d¹ postrzega¾ to jako znak, ¿e jesteœ niech²tny do atakowania ich."
  FRIENDLY_ATTITUDE_CANNOT_SET_OPINION:0 "§RNie mo¿esz ustawi¾ swojego nastawienia na §Yprzyjazne§! poniewa¿ kraj §Y$COUNTRY$§! nie ma opinii co najmniej na poziomie §Y$OPINION$§! o kraju §Y$PLAYER$§!.§!"
- THREATENED_ATTITUDE_CANNOT_SET_POWER:0 "§R$COUNTRY|Y$ is not at least §Y33%§! more powerful than $PLAYER|Y$.§!"
+ THREATENED_ATTITUDE_CANNOT_SET_POWER:0 "Kraj §R$COUNTRY|Y$ nie jest co najmniej §Y33%§! pot²¿niejszy ni¿ kraj $PLAYER|Y$.§!"
  THREATENED_ATTITUDE_CANNOT_SET_DISTANCE:0 "§RNie mo¿esz ustawi¾ swojego nastawienia na §YbojaŸliwe§! poniewa¿ kraj §Y$COUNTRY$§! nie jest w stanie zagrozi¾ krajowi §Y$PLAYER$§!.§!"
  THREATENED_ATTITUDE_DESC:0 "Ustawiaj¹c swoje nastawienie na §YbojaŸliwe§! pokazujesz, ¿e boisz si² kraju §Y$COUNTRY$§!. B²d¹ postrzega¾ to jako znak, ¿e chcesz sprzymierzy¾ si² z nimi dla bezpieczeªstwa, ale tak¿e, ¿e szukasz innych pot²¿nych sojuszników, którzy ochroni¹ ci² przed nimi."
  TRUST_DESC:0 "§YZaufanie§! jest miar¹ si³y ka¿dego sojuszu jaki mamy z krajem §Y$COUNTRY$§!. Zmniejsza si², jeœli ³amiemy obietnice lub w inny sposób post²pujemy wobec nich niehonorowo. Mo¿na go zwi²kszy¾, wykorzystuj¹c przys³ugi. Zaufanie b²dzie równie¿ ros³o z czasem, o ile jesteœ sprzymierzony lub jedno jest poddanym drugiego."

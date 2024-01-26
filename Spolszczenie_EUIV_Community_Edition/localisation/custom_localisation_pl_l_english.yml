@@ -473,3 +473,4 @@
  string_nobility_gen:0 "Szlachty"
  string_families_gen:0 "Wp³ywowych rodzin"
  string_country_estate_nobles_name_gen:0 "[This.GetNobilityName_gen]"
+ string_country_estate_church_name_dat:0 "[This.GetClergyName_dat]"

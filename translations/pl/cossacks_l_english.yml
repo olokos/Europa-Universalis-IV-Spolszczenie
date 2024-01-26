@@ -218,7 +218,7 @@
  NEUTRAL_ATTITUDE_DESC: "Ustawiając swoje nastawienie na §Yneutralne§! pokazujesz, że nie uważasz kraju §Y$COUNTRY$§! jako istotnego dla twoich interesów. Generalnie będą unikać kontaktów dyplomatycznych z tobą, a twoi sojusznicy będą postrzegać to jako znak, że jesteś wobec nich obojętny. "
  FRIENDLY_ATTITUDE_DESC: "Ustawiając swoje nastawienie na §Yprzyjazne§! pokazujesz, że chcesz sprzymierzyć się z krajem §Y$COUNTRY$§!. Twoi sojusznicy będą postrzegać to jako znak, że jesteś niechętny do atakowania ich."
  FRIENDLY_ATTITUDE_CANNOT_SET_OPINION: "§RNie możesz ustawić swojego nastawienia na §Yprzyjazne§! ponieważ kraj §Y$COUNTRY$§! nie ma opinii co najmniej na poziomie §Y$OPINION$§! o kraju §Y$PLAYER$§!.§!"
- THREATENED_ATTITUDE_CANNOT_SET_POWER: ""
+ THREATENED_ATTITUDE_CANNOT_SET_POWER: "Kraj §R$COUNTRY|Y$ nie jest co najmniej §Y33%§! potężniejszy niż kraj $PLAYER|Y$.§!"
  THREATENED_ATTITUDE_CANNOT_SET_DISTANCE: "§RNie możesz ustawić swojego nastawienia na §Ybojaźliwe§! ponieważ kraj §Y$COUNTRY$§! nie jest w stanie zagrozić krajowi §Y$PLAYER$§!.§!"
  THREATENED_ATTITUDE_DESC: "Ustawiając swoje nastawienie na §Ybojaźliwe§! pokazujesz, że boisz się kraju §Y$COUNTRY$§!. Będą postrzegać to jako znak, że chcesz sprzymierzyć się z nimi dla bezpieczeństwa, ale także, że szukasz innych potężnych sojuszników, którzy ochronią cię przed nimi."
  TRUST_DESC: "§YZaufanie§! jest miarą siły każdego sojuszu jaki mamy z krajem §Y$COUNTRY$§!. Zmniejsza się, jeśli łamiemy obietnice lub w inny sposób postępujemy wobec nich niehonorowo. Można go zwiększyć, wykorzystując przysługi. Zaufanie będzie również rosło z czasem, o ile jesteś sprzymierzony lub jedno jest poddanym drugiego."

@@ -81,7 +81,7 @@
  NO_INTEGREATION_PROGRESS_AT_WAR:0 "Aby integracja post²powa³a, w obu krajach musi panowa¾ pokój."
  NO_ANNEX_PROGRESS_AT_WAR:0 "Aby aneksja post²powa³a, w obu krajach musi panowa¾ pokój."
  NO_ANNEX_PROGRESS_WHILE_CAPITAL_TAKEN:0 "Kiedy nie kontroluj¹ swojej stolicy, post²p aneksji zostanie wstrzymany."
- NO_ANNEX_PROGRESS_LIBERTY:0 "They must have less than §Y$LIMIT$§! Liberty desire for annexation to progress, but currently have their liberty desire is §R$AMOUNT$§!."
+ NO_ANNEX_PROGRESS_LIBERTY:0 "Aby aneksja post²powa³a, ich d¹¿enia niepodleg³oœciowe musz¹ by¾ mniejsze ni¿ §Y$LIMIT$§!, a obecnie wynosz¹ §R$AMOUNT$§!."
  ALL_CORES_AND_CLAIMS:0 "Wszystkie prowincje narodowe oraz b²d¹ce przedmiotem roszczeª"
  ALL_CORES_AND_CLAIMS_AND_NEIGHBORS:0 "Wszystkie prowincje narodowe, b²d¹ce przedmiotem roszczeª oraz s¹siednie"
  RIVAL_BENEFITS:0 "§Y$WHO$§! jest naszym rywalem, i mamy przeciwko nim nast²puj¹ce benefity:\n"
