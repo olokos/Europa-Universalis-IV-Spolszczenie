@@ -10070,3 +10070,30 @@ defined_text = {
 		}
 	}
 }
+
+defined_text = {
+	name = GetTempleName_ins
+	text = {
+		localisation_key = building_temple_christian_ins
+		trigger = { religion_group = christian }
+	}
+	text = {
+		localisation_key = building_temple_muslim_ins
+		trigger = { religion_group = muslim }
+	}
+	text = {
+		localisation_key = building_temple_shinto_ins
+		trigger = { religion = shinto }
+	}
+	text = {
+		localisation_key = building_temple_zoroastrian_ins
+		trigger = { religion = zoroastrian }
+	}
+	text = {
+		localisation_key = building_temple_jewish_ins
+		trigger = { religion = jewish }
+	}
+	text = {
+		localisation_key = building_temple_ins
+	}
+}

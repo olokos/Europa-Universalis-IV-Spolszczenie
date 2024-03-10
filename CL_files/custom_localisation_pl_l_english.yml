@@ -522,3 +522,10 @@
  string_country_estate_nobles_name_gen: "[This.GetNobilityName_gen]"
  ## GetChurchOrFallbackName_dat
  string_country_estate_church_name_dat: "[This.GetClergyName_dat]"
+ ## GetTempleName_ins
+ building_temple_christian_ins: "kościółem"
+ building_temple_muslim_ins: "meczetem"
+ building_temple_shinto_ins: "świątynią"
+ building_temple_zoroastrian_ins: "świątynią ognia"
+ building_temple_jewish_ins: "synagogą"
+ building_temple_ins: "świątynią"
