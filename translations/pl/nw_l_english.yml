@@ -112,7 +112,7 @@
  REQUEST_TO_JOIN_FEDERATIONREQDESC: "$ACTOR$ prosi o dołączenie do naszej federacji. Mamy zaakceptować tę prośbę?"
  INVITE_TO_FEDERATIONTITLE: "Zaproszenie do federacji."
  INVITE_TO_FEDERATIONDESC: "Czy chcesz zapytać kraj $ACTOR$ o chęć dołączenia do naszej federacji?"
- INVITE_TO_FEDERATIONREQDESC: "$ACTOR$ pyta, czy chcemy dołączyć do ich federacji \"$FEDERATIONNAME$\". Wyrażamy taką chęć?"
+ INVITE_TO_FEDERATIONREQDESC: "$ACTOR$ pyta, czy chcemy dołączyć do ich federacji '$FEDERATIONNAME$'. Wyrażamy taką chęć?"
  JOIN_FEDERATION: "Dołącz do federacji"
  JOIN_FEDERATION_REQ_DESC: "Czy chcesz dołączyć do federacji państwa $LEADER$?"
  JOIN_FEDERATION_DESC: "Dołącz do federacji."

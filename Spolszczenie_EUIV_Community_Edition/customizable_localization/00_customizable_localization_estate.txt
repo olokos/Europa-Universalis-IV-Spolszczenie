@@ -10034,6 +10034,25 @@ defined_text = {
 }
 
 defined_text = {
+	name = GetNobilityOrFallbackName_ins
+	random = no
+	
+	text = {
+		localisation_key = string_country_estate_nobles_name_ins
+		trigger = {
+			has_estate = estate_nobles
+		}
+	}
+	
+	text = {
+		localisation_key = string_ins_estate_nobles
+		trigger = {
+			NOT = { has_estate = estate_nobles }
+		}
+	}
+}
+
+defined_text = {
 	name = GetNobilityOrFallbackName_gen
 	random = no
 	

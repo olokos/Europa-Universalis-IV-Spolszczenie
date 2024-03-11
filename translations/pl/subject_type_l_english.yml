@@ -50,7 +50,7 @@
  subject_only_marry_other_overlord: "Jako $MYSUBJECTTYPE$ możemy poślubić władcę $THEIRSUBJECTTYPES$ tylko, gdy mamy różnych zwierzchników."
  personal_union_no_overlord_dow: "Nie możesz wypowiedzieć wojny państwu, z którym jesteś w unii."
  colony_no_overlord_dow: "Nie możesz wypowiadać wojny swoim koloniom."
- crown_colony_no_overlord_dow: ""
+ crown_colony_no_overlord_dow: "Nie możesz wypowiadać wojny swoim koloniom koronnym."
  protectorate_no_overlord_dow: "Nie możesz wypowiedzieć wojny swoim protektoratom."
  relation_fight: "prowadzić wojny"
  relation_rival: "rywalizować"

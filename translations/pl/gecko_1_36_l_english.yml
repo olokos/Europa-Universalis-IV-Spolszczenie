@@ -1,4 +1,4 @@
 ﻿l_english:
- CALLDESC_ALREADY_INVITED: ""
- SET_PAPACY_ACTIVE_EFFECT_YES: ""
- SET_PAPACY_ACTIVE_EFFECT_NO: ""
+ CALLDESC_ALREADY_INVITED: "Wezwanie do broni już w toku"
+ SET_PAPACY_ACTIVE_EFFECT_YES: "Włączone papiestwo dla religii $RELIGION$"
+ SET_PAPACY_ACTIVE_EFFECT_NO: "Wyłączone papiestwo dla religii $RELIGION$"

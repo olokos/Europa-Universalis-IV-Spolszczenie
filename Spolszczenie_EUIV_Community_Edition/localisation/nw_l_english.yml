@@ -112,7 +112,7 @@
  REQUEST_TO_JOIN_FEDERATIONREQDESC:0 "$ACTOR$ prosi o do³¹czenie do naszej federacji. Mamy zaakceptowa¾ t² proœb²?"
  INVITE_TO_FEDERATIONTITLE:0 "Zaproszenie do federacji."
  INVITE_TO_FEDERATIONDESC:0 "Czy chcesz zapyta¾ kraj $ACTOR$ o ch²¾ do³¹czenia do naszej federacji?"
- INVITE_TO_FEDERATIONREQDESC:0 "$ACTOR$ pyta, czy chcemy do³¹czy¾ do ich federacji "$FEDERATIONNAME$". Wyra¿amy tak¹ ch²¾?"
+ INVITE_TO_FEDERATIONREQDESC:0 "$ACTOR$ pyta, czy chcemy do³¹czy¾ do ich federacji '$FEDERATIONNAME$'. Wyra¿amy tak¹ ch²¾?"
  JOIN_FEDERATION:0 "Do³¹cz do federacji"
  JOIN_FEDERATION_REQ_DESC:0 "Czy chcesz do³¹czy¾ do federacji paªstwa $LEADER$?"
  JOIN_FEDERATION_DESC:0 "Do³¹cz do federacji."

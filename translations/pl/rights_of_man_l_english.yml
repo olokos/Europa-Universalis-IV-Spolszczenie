@@ -30,7 +30,7 @@
  RESULT_NAVAL_STALEMATE: "Morski pat"
  RESULT_INSIGNIFICANT_VICTORY: "Nieznaczne zwycięstwo"
  RESULT_INSIGNIFICANT_DEFEAT: "Nieznaczna porażka"
- AI_RULER_PERSONALITY_REGULAR: "\n  Ta cecha osobowości nie wpływa na SI.\n"
+ AI_RULER_PERSONALITY_REGULAR: "\n Ta cecha osobowości nie wpływa na SI.\n"
  AI_RULER_PERSONALITY_HEADER: "Władca SI z cechą osobowości: $PERSONALITY$, może:\n"
  AI_RULER_ACTUAL_PERSONALITY_HEADER: "Dzięki cesze $PERSONALITY$, władca SI będzie:\n"
  AI_RULER_PICK_IDEA_GROUPS: "Chętniej wybierać określone grupy idei."

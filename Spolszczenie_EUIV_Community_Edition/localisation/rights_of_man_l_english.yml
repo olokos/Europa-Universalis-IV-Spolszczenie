@@ -30,7 +30,7 @@
  RESULT_NAVAL_STALEMATE:0 "Morski pat"
  RESULT_INSIGNIFICANT_VICTORY:0 "Nieznaczne zwyci²stwo"
  RESULT_INSIGNIFICANT_DEFEAT:0 "Nieznaczna pora¿ka"
- AI_RULER_PERSONALITY_REGULAR:0 "\n  Ta cecha osobowoœci nie wp³ywa na SI.\n"
+ AI_RULER_PERSONALITY_REGULAR:0 "\n Ta cecha osobowoœci nie wp³ywa na SI.\n"
  AI_RULER_PERSONALITY_HEADER:0 "W³adca SI z cech¹ osobowoœci: $PERSONALITY$, mo¿e:\n"
  AI_RULER_ACTUAL_PERSONALITY_HEADER:0 "Dzi²ki cesze $PERSONALITY$, w³adca SI b²dzie:\n"
  AI_RULER_PICK_IDEA_GROUPS:0 "Ch²tniej wybiera¾ okreœlone grupy idei."

@@ -119,7 +119,7 @@
  DIPLO_CALL_FOR_PEACE: "Wezwanie do zawarcia pokoju:"
  DIPLO_WAR_DIRECTION: "$WHO$ czyni postępy:"
  DIPLO_WAR_FORCE_BALANCE: "Względna siła sojuszy:"
- DIPLO_WAR_PANIC: ""
+ DIPLO_WAR_PANIC: "Strach przed nowym uczestnikiem wojny: "
  DIPLO_WAR_COALITION_BALANCE: "Względna siła koalicji:"
  DIPLO_CONTROLLING_DESIRED_PROVINCES: "Kontroluje pożądane prowincje na terytorium kraju $WHO$:"
  DIPLO_DESIRE_YOUR_PROVINCES: "Żąda prowincji z terytorium kraju $WHO$:"

@@ -187,6 +187,14 @@
  string_pagan_adj_Cap: "Pogański" #Pogaństwo
  string_jewish_group_adj_Cap: "Żydowski" #Judaizm
  string_zoroastrian_group_adj_Cap: "Zaratusztriański" #Zaratusztrianizm
+ ## przymiotnik dla grupy religijnej - rodzaj żeński
+ string_christian_adj_fem: "chrześcijańska" #Chrześcijaństwo
+ string_muslim_adj_fem: "muzułmańska" #Islam
+ string_eastern_adj_fem: "wschodna" #Wschodnia
+ string_dharmic_adj_fem: "dharmiczna" #Dharmizm
+ string_pagan_adj_fem: "pogańska" #Pogaństwo
+ string_jewish_group_adj_fem: "żydowska" #Judaizm
+ string_zoroastrian_group_adj_fem: "zaratusztriańska" #Zaratusztrianizm
 ## dopełniacz przymiotnika dla grupy religijnej
  string_christian_adj_gen: "chrześcijańskiej" #Chrześcijaństwo
  string_muslim_adj_gen: "muzułmańskiej" #Islam
@@ -520,6 +528,8 @@
  string_families_gen: "Wpływowych rodzin" #Wpływowe Rodziny
  ## GetNobilityOrFallbackName_gen
  string_country_estate_nobles_name_gen: "[This.GetNobilityName_gen]"
+ ## GetNobilityOrFallbackName_ins
+ string_country_estate_nobles_name_ins: "[This.GetNobilityName_ins]"
  ## GetChurchOrFallbackName_dat
  string_country_estate_church_name_dat: "[This.GetClergyName_dat]"
  ## GetTempleName_ins

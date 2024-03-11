@@ -1081,6 +1081,38 @@ defined_text = {
 }
 
 defined_text = {
+	name = GetReligionGroup_adj_fem
+	text = {
+		localisation_key = string_christian_adj_fem
+		trigger = { religion_group = christian }
+	}
+	text = {
+		localisation_key = string_muslim_adj_fem
+		trigger = { religion_group = muslim }
+	}
+	text = {
+		localisation_key = string_eastern_adj_fem
+		trigger = { religion_group = eastern }
+	}
+	text = {
+		localisation_key = string_dharmic_adj_fem
+		trigger = { religion_group = dharmic }
+	}
+	text = {
+		localisation_key = string_pagan_adj_fem
+		trigger = { religion_group = pagan }
+	}
+	text = {
+		localisation_key = string_jewish_group_adj_fem
+		trigger = { religion_group = jewish_group }
+	}
+	text = {
+		localisation_key = string_zoroastrian_group_adj_fem
+		trigger = { religion_group = zoroastrian_group }
+	}
+}
+
+defined_text = {
 	name = GetReligionGroup_adj_Cap
 	text = {
 		localisation_key = string_christian_adj_Cap

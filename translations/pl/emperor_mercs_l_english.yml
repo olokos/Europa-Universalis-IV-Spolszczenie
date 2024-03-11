@@ -6,7 +6,7 @@
  MERC_NOT_IN_RANGE_FOR_US_TO_HIRE_IN: "\n§Jest to poza naszym zasięgiem najmowania najemników.§!"
  DISBAND_MERC_DRO: "Po rozwiązaniu kompanii najemników nie będzie można ich zatrudnić, dopóki nie odzyskają zasobów ludzkich. Potrwa to do $DATE|Y$."
  MACRO_HIRE_MERCENARY_COMPANY: "Kompanie najemników"
- MACRO_HIRE_MERCENARY_COMPANY_INFO: "- Wy, Francuzi, walczycie o pieniądze, my Brytyjczycy o honor.\n-Sir, człowiek walczy o to, czego najbardziej mu brakuje\n  -- Robert Surcouf"
+ MACRO_HIRE_MERCENARY_COMPANY_INFO: "- Wy, Francuzi, walczycie o pieniądze, my Brytyjczycy o honor.\n-Sir, człowiek walczy o to, czego najbardziej mu brakuje\n-- Robert Surcouf"
  MERCENARY_COMPANY_NOT_AVAILABLE_ANYMORE: "Wybrana kompania najemników nie jest już dostępna."
  MERCENARY_COMPANY_ALREADY_HIRED: "$COMPANY|Y$ jest już przez nas zatrudniona!"
  MERCENARY_COMPANY_NOT_AVAILABLE_UNTIL: "$COMPANY|Y$ obecnie odzyskuje zasoby ludzkie i nie będzie ponownie dostępna przed $DATE|Y$."
