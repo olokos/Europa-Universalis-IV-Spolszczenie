@@ -792,7 +792,7 @@
  alert_too_many_leaders_navy_delayed:0 "Ka¿dy admira³ powy¿ej limitu\nb²dzie ci² kosztowa¾ 1 £dip£ miesi²cznie.\nObecny miesi²czny koszt wynosi $AMT$ £dip£."
  alert_can_vote_for_cardinal_instant:0 "§YMo¿esz zainwestowa¾ w kardyna³a!§W"
  alert_can_vote_for_cardinal_delayed:0 "Dysponujesz dostatecznie wysokim wp³ywem papieskim, by zainwestowa¾ w przysz³ego kardyna³a."
- alert_can_convert_province_instant:0 "§YMo¿esz nawróci¾ prowincj² na religi² $RELIGION$!§W"
+ alert_can_convert_province_instant:0 "§YMo¿esz nawróci¾ prowincj² na $RELIGION$!§W"
  alert_can_convert_province_delayed:0 "W sk³ad twojego paªstwa wchodz¹ prowincje, które przy pomocy misjonarzy mo¿na nawróci¾ na religi² paªstwow¹."
  alert_can_core_province_instant:0 "§YNiektóre z twoich prowincji nie maj¹ charakteru narodowych!§W"
  alert_can_core_province_delayed:0 "Nast²puj¹ce prowincje nie maj¹ charakteru narodowych, ani nie s¹ w trakcie przekszta³cania:\n"

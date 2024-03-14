@@ -455,7 +455,7 @@
  desc_korea_in_balance:0 "Wraz z zabezpieczeniem politycznej, gospodarczej i militarnej niezale¿noœci Korei, paªstwo wesz³o w now¹ er² harmonii i równowagi."
  kor_end_factional_strife_title:0 "Zakoªcz konflikt frakcji"
  kor_end_factional_strife_desc:0 "Po pierwszym wspania³ym stuleciu Królestwa Joseon, wszechobecne walki frakcyjne sprawi³y, ¿e nasz kraj jest s³aby i podzielony. [Root.Monarch.GetTitle] nie by³[Root.Monarch.GetANoun] w stanie rozstrzygn¹¾ ró¿nic mi²dzy frakcjami, co prowadzi³o do okresowych walk na œmier¾ i ¿ycie. Niestety, za ka¿dym razem, gdy jedna ze stron zdaje si² zyskiwa¾ przewag², dochodzi do roz³amu, a podfrakcje ponownie zwracaj¹ si² przeciwko sobie. Musimy ograniczy¾ ten frakcjonalizm i przywróci¾ jednoœ¾ paªstwa koreaªskiego!"
- KOR_has_factional_upheaval_tooltip:0 "Mia³ wydarzenie §YPowstanie neokonfucjanistów§!."
+ KOR_has_factional_upheaval_tooltip:0 "Odby³o si² wydarzenie §Ypowstanie neokonfucjanistów§!."
  kor_end_factional_strife_tt:0 "Zakoªcz¹ si² walki frakcyjne, które n²ka³y paªstwo §Y[Root.GetName]§!"
  kor_develop_capital_title:0 "Rozbuduj [Root.Capital.GetCapitalName]"
  kor_develop_capital_desc:0 "Korea jest krajem w du¿ej mierze wiejskim z niewielk¹ liczb¹ du¿ych miast. W porównaniu z wielkimi miastami s¹siednich Chin nawet najwi²ksze koreaªskie miasto wydaje si² zaledwie prowincjonaln¹ mieœcin¹. Jeœli mamy by¾ powa¿nie traktowani jako wschodz¹ce mocarstwo, musimy zmieni¾ ten stan rzeczy."

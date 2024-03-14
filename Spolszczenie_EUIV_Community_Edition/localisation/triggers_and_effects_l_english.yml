@@ -123,7 +123,7 @@
  HAVE_MORE_PROVINCES_IN_TERRITORIES_THAN:0 "Liczba prowincji w terytoriach wynosi co najmniej $VALUE|Y$"
  EXCOMMUNICATE_EFFECT:0 "Naka¿ ekskomunik² $TARGET|Y$.\n"
  LIFT_EXCOMMUNICATE_EFFECT:0 "Cofnij ekskomunik² $TARGET|Y$\n"
- ADD_HISTORICAL_FRIEND_EFFECT:0 "Uznaj kraj $TARGET|Y$ za historycznego przyjaciela.\n"
+ ADD_HISTORICAL_FRIEND_EFFECT:0 "Uznanie paªstwa $TARGET|Y$ historycznym przyjacielem.\n"
  REMOVE_HISTORICAL_FRIEND_EFFECT:0 "Cofnij krajowi $TARGET|Y$ status historycznego przyjaciela.\n"
  ADD_HISTORICAL_RIVAL_EFFECT:0 "Uznaj kraj $TARGET|Y$ za historycznego rywala.\n"
  REMOVE_HISTORICAL_RIVAL_EFFECT:0 "Cofnij krajowi $TARGET|Y$ status historycznego rywala.\n"

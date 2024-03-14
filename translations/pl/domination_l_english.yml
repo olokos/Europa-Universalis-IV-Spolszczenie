@@ -710,7 +710,7 @@
  mng_if_completed_via_diplomacy_tt: "Jeśli zakończymy misję drogą dyplomatyczną:"
  mng_if_completed_via_conquest_tt: "\nAlternatywnie, jeśli ukończymy ją poprzez podbój:"
  mng_enable_tribes_estate_tt: "Dodaj klasę §Yplemiona§!"
- mng_relations_gift_reward_tt: "Jeśli wykonamy misję przez §Ydyplomatyczne relacje§!:"
+ mng_relations_gift_reward_tt: "Jeśli zakończymy misję za pomocą §Ystosunków dyplomatycznych§!:"
  mng_else_if_tributary_tt: "\nAlternatywnie, jeśli właściciel prowincji [677.GetName] jest już naszym trybutariuszem:"
  as_long_as_we_or_subject_owns_this_province_desc: "tak długo, jak my lub nasz poddany jesteśmy właścicielami tej prowincji"
  mng_inward_perfection_reward_tt: "Wybór ukończenia tej misji za pomocą przywileju klasy 'doskonałość wewnętrzna' dodatkowo wzmocni go, przyznając mu następujące dodatkowe modyfikatory:\nRównowaga lojalności dla wszystkich klas: §G+5%§!\nUmiejętności administracyjne monarchy: §G+1§!\nLiczba dozwolonych budynków: §G+1§!\nKoszt ulepszenia wielkich projektów §G-10%§!"

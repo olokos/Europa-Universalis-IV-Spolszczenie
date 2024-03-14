@@ -1274,7 +1274,7 @@
  MODIFIER_GLOBAL_PROPSPERITY_GROWTH:0 "Wzrost œwiatowego dobrobytu"
  MODIFIER_LOCAL_PROPSPERITY_GROWTH:0 "Wzrost lokalnego dobrobytu"
  MODIFIER_MONTHLY_FAVOR_MODIFIER:0 "Monthly Favor Growth Modifier"
- ADD_FAVORS_EFFECT:0 "$WHOWITH|Y$ owes $AMOUNT|Y$ more favors to $WHOFOR|Y$"
+ ADD_FAVORS_EFFECT:0 "Paªstwo $WHOWITH|Y$ zawdzi²cza $AMOUNT|Y$ przys³ugi paªstwu $WHOFOR|Y$"
  ADD_FAVORS_EFFECT_NEG:0 "$WHOWITH|Y$ owes $AMOUNT|Y$ less favors to $WHOFOR|Y$"
  WAR_LOSSES_TRIGGER:0 "$COUNTRY|Y$ $UNITTYPE$war losses $CAUSE$are at least $AMOUNT|Y$"
  WAR_LOSSES_TRIGGER_NEG:0 "$COUNTRY|Y$ $UNITTYPE$war losses $CAUSE$are less than $AMOUNT|Y$"

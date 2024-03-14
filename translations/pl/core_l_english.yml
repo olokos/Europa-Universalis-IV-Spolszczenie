@@ -792,7 +792,7 @@
  alert_too_many_leaders_navy_delayed: "Każdy admirał powyżej limitu\nbędzie cię kosztować 1 £dip£ miesięcznie.\nObecny miesięczny koszt wynosi $AMT$ £dip£."
  alert_can_vote_for_cardinal_instant: "§YMożesz zainwestować w kardynała!§W"
  alert_can_vote_for_cardinal_delayed: "Dysponujesz dostatecznie wysokim wpływem papieskim, by zainwestować w przyszłego kardynała."
- alert_can_convert_province_instant: "§YMożesz nawrócić prowincję na religię $RELIGION$!§W"
+ alert_can_convert_province_instant: "§YMożesz nawrócić prowincję na $RELIGION$!§W"
  alert_can_convert_province_delayed: "W skład twojego państwa wchodzą prowincje, które przy pomocy misjonarzy można nawrócić na religię państwową."
  alert_can_core_province_instant: "§YNiektóre z twoich prowincji nie mają charakteru narodowych!§W"
  alert_can_core_province_delayed: "Następujące prowincje nie mają charakteru narodowych, ani nie są w trakcie przekształcania:\n"

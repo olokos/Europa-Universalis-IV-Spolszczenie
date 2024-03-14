@@ -179,18 +179,63 @@ defined_text = {
 	}
 }
 
-## na/ien
+## córki/syna
 defined_text = {
 	name = GetDaughterSon_gen
 	random = no
 	text = {
-		localisation_key = string_word_corki
+		localisation_key = string_word_dauthter_gen
 		trigger = {
 			is_female = yes
 		}
 	}
 	text = {
-		localisation_key = string_word_syna
+		localisation_key = string_word_son
+	}
+}
+
+## córką/synem
+defined_text = {
+	name = GetDaughterSon_ins
+	random = no
+	text = {
+		localisation_key = string_word_dauthter_ins
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_word_son_ins
+	}
+}
+
+## męża/żonę
+defined_text = {
+	name = GetWifeHusband_acc
+	random = no
+	text = {
+		localisation_key = string_word_wife_acc
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_word_husband_acc
+	}
+}
+
+## męża/żony
+defined_text = {
+	name = GetWifeHusband_gen
+	random = no
+	text = {
+		localisation_key = string_word_wife_gen
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_word_husband_gen
 	}
 }
 

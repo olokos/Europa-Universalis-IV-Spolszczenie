@@ -455,7 +455,7 @@
  desc_korea_in_balance: "Wraz z zabezpieczeniem politycznej, gospodarczej i militarnej niezależności Korei, państwo weszło w nową erę harmonii i równowagi."
  kor_end_factional_strife_title: "Zakończ konflikt frakcji"
  kor_end_factional_strife_desc: "Po pierwszym wspaniałym stuleciu Królestwa Joseon, wszechobecne walki frakcyjne sprawiły, że nasz kraj jest słaby i podzielony. [Root.Monarch.GetTitle] nie był[Root.Monarch.GetANoun] w stanie rozstrzygnąć różnic między frakcjami, co prowadziło do okresowych walk na śmierć i życie. Niestety, za każdym razem, gdy jedna ze stron zdaje się zyskiwać przewagę, dochodzi do rozłamu, a podfrakcje ponownie zwracają się przeciwko sobie. Musimy ograniczyć ten frakcjonalizm i przywrócić jedność państwa koreańskiego!"
- KOR_has_factional_upheaval_tooltip: "Miał wydarzenie §YPowstanie neokonfucjanistów§!."
+ KOR_has_factional_upheaval_tooltip: "Odbyło się wydarzenie §Ypowstanie neokonfucjanistów§!."
  kor_end_factional_strife_tt: "Zakończą się walki frakcyjne, które nękały państwo §Y[Root.GetName]§!"
  kor_develop_capital_title: "Rozbuduj [Root.Capital.GetCapitalName]"
  kor_develop_capital_desc: "Korea jest krajem w dużej mierze wiejskim z niewielką liczbą dużych miast. W porównaniu z wielkimi miastami sąsiednich Chin nawet największe koreańskie miasto wydaje się zaledwie prowincjonalną mieściną. Jeśli mamy być poważnie traktowani jako wschodzące mocarstwo, musimy zmienić ten stan rzeczy."

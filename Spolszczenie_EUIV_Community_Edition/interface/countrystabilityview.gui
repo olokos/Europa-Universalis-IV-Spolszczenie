@@ -1199,14 +1199,15 @@ guiTypes = {
 
 		instantTextBoxType = {
 			name = "name"
-			position = { x = 42 y = 8 }
+			position = { x = 40 y = 8 } #x = 48 y = 8
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 4 y = 4}
 			text = "Gotlandish Nationalists"
-			maxWidth = 220
+			maxWidth = 223 #220
 			maxHeight = 22
 			format = left
+			fixedsize = yes #add
 		}
 
 

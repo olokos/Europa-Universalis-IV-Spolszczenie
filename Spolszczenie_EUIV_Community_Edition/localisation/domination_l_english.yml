@@ -710,7 +710,7 @@
  mng_if_completed_via_diplomacy_tt:0 "Jeœli zakoªczymy misj² drog¹ dyplomatyczn¹:"
  mng_if_completed_via_conquest_tt:0 "\nAlternatywnie, jeœli ukoªczymy j¹ poprzez podbój:"
  mng_enable_tribes_estate_tt:0 "Dodaj klas² §Yplemiona§!"
- mng_relations_gift_reward_tt:0 "Jeœli wykonamy misj² przez §Ydyplomatyczne relacje§!:"
+ mng_relations_gift_reward_tt:0 "Jeœli zakoªczymy misj² za pomoc¹ §Ystosunków dyplomatycznych§!:"
  mng_else_if_tributary_tt:0 "\nAlternatywnie, jeœli w³aœciciel prowincji [677.GetName] jest ju¿ naszym trybutariuszem:"
  as_long_as_we_or_subject_owns_this_province_desc:0 "tak d³ugo, jak my lub nasz poddany jesteœmy w³aœcicielami tej prowincji"
  mng_inward_perfection_reward_tt:0 "Wybór ukoªczenia tej misji za pomoc¹ przywileju klasy 'doskona³oœ¾ wewn²trzna' dodatkowo wzmocni go, przyznaj¹c mu nast²puj¹ce dodatkowe modyfikatory:\nRównowaga lojalnoœci dla wszystkich klas: §G+5%§!\nUmiej²tnoœci administracyjne monarchy: §G+1§!\nLiczba dozwolonych budynków: §G+1§!\nKoszt ulepszenia wielkich projektów §G-10%§!"
