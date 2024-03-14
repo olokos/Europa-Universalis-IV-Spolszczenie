@@ -34,7 +34,7 @@
  achievement_sakoku_law_tooltip: "Uzyskaj 100% Izolacjonizmu w co najmniej sześciu wydarzeniach."
  achievement_live_long_and_prosper_tooltip: "Co najmniej 30 prowincji musi być zamożnych."
  general_with_steam_name_won_battle_tt: "Generał o nazwie gracza Steam wygrał bitwę."
- propagated_in_five_moluccan_provinces: "[Root.GetName] Religia propagowana w 5 prowincjach w węźle handlowym §YMollucas§!."
+ propagated_in_five_moluccan_provinces: "Religia państwa [Root.GetName] propagowana w 5 prowincjach w węźle handlowym §YMoluki§!."
  achievement_david_the_builder_tooltip: "[Root.GetName] nie ma wolnych miejsc na budynki w żadnej z tych prowincji."
  all_coffee_owned_by_you: "Nie ma surowca §YKawa§! w prowincjach w Azji, Europie, Afryce lub Oceanii, które są własnością krajów europejskich."
  chop_chop.tooltip: "Niech jeden twój Monarcha poślubi §Y6§! różnych małżonków."

@@ -40,7 +40,7 @@
  CONFIRM_SEND_TRIBUTE_DESC: "Nasz suweren §Y$OVERLORD$§! żąda, abyśmy wysłali mu tegoroczny trybut w postaci: §Y$AMOUNT$§! $TYPE$\nZaakceptowanie żądania zwiększy zaufanie między naszymi narodami o §Y$POS_TRUST$§!.\nNatomiast jego odrzucenie spowoduje pogorszenie się naszych relacji i zmniejszy ich zaufanie do nas o §Y$NEG_TRUST$§!."
  TRIBUTE_CANT_REFUSE_WHEN_TRUCE: "Nie możemy odmówić wysłania trybutu zwierzchnikowi, dopóki mamy z nimi rozejm."
  REFUSE: "Odmów!"
- CREATE_SUBJECT: "Uczyń państwo §Y$WHO$§! $TYPE$.\n"
+ CREATE_SUBJECT: "Państwo §Y$WHO$§! staje się $TYPE$.\n"
  REFUSED_CALL_FROM_TRIBUTARY_PENALTY: "Jeśli odmówimy, stracimy $MANDATE|R$ mandatu."
  tributary_state_behind_overlord_tech_adm: "Trybutariusz z całkowitym poziomem technologii administracyjnej mniejszym niż posiadany przez suwerena"
  tributary_state_behind_overlord_tech_dip: "Trybutariusz z całkowitym poziomem technologii dyplomatycznej mniejszym niż posiadany przez suwerena"

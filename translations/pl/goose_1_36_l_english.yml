@@ -34,7 +34,7 @@
  cossacks_regiment: ""
  rajput_regiment: ""
  PERMANENTLY_LEFT_HRE: ""
- PI_GRANTS_SCALED: ""
+ PI_GRANTS_SCALED: "I przez następne $DURATION|Y$ lat skalowane z §Ywpływem klasy $ESTATE$§!:\n$MOD$"
  PI_GRANTS_ENACTED: ""
  PI_GRANTS_SCALED_ENACTED: ""
  TRANSFER_POPE_DESC: ""
@@ -145,3 +145,4 @@
  CULT_REMOVED_EFFECT: ""
  HEGEMONY_GAINED_EFFECT: ""
  HEGEMONY_LOST_EFFECT: ""
+ ADVISOR_MORE_EXPENSIVE: ""

@@ -34,7 +34,7 @@
  cossacks_regiment:0 "Cossacks Regiment"
  rajput_regiment:0 "Rajput Regiment"
  PERMANENTLY_LEFT_HRE:0 "§R-Permanently left the Holy Roman Empire§!"
- PI_GRANTS_SCALED:0 "And for the next $DURATION|Y$ years scaled with §Y$ESTATE$ Influence§!:\n$MOD$"
+ PI_GRANTS_SCALED:0 "I przez nast²pne $DURATION|Y$ lat skalowane z §Ywp³ywem klasy $ESTATE$§!:\n$MOD$"
  PI_GRANTS_ENACTED:0 "Until $DATE|Y$, $COUNTRY|Y$ gets:\n$MOD$"
  PI_GRANTS_SCALED_ENACTED:0 "Until $DATE|Y$, $COUNTRY|Y$ gets, scaled with §Y$ESTATE$ Influence§!:\n$MOD$"
  TRANSFER_POPE_DESC:0 "Current Pope will change his allegiance to $COUNTRYNAME|Y$."
@@ -145,3 +145,4 @@
  CULT_REMOVED_EFFECT:0 "Removing this cult will have the following effect:\n$EFFECT$"
  HEGEMONY_GAINED_EFFECT:0 "Gaining this Hegemony will have the following effect:\n$EFFECT$"
  HEGEMONY_LOST_EFFECT:0 "Losing this Hegemony will have the following effect:\n$EFFECT$"
+ ADVISOR_MORE_EXPENSIVE:0 "This advisor is $AMT$ more expensive for your country to employ."
