@@ -151,7 +151,7 @@
  tooltip_about_timurid_empire:0 "To stworzy nam mo¿liwoœ¾ utworzenia Imperium Timurydów."
  adopt_mamluk_government_title:0 "WprowadŸ mamelucki system rz¹dów"
  adopt_mamluk_government_desc:0 "Mamelucy nadal s¹ wa¿nym graczem w regionie. Moglibyœmy otrzyma¾ ich wsparcie zapraszaj¹c tych zaprawionych, niewolniczych wojowników do uczestniczenia w sprawowaniu u nas w³adzy."
- conversion_of_convenience_title:0 "Czy to ju¿ czas, aby [Root.Monarch.GetTitle] zmieni³[Root.Monarch.GetANoun] wiar² na [Root.Religion.GetName]?"
+ conversion_of_convenience_title:0 "Czy to czas, aby [Root.Monarch.GetTitle] zmieni³[Root.Monarch.GetANoun] wiar² na [Root.Religion.GetName]?"
  conversion_of_convenience_desc:0 "Fakt, i¿ [Root.Monarch.GetName] [Root.Monarch.GetHerselfHimself] nie czci paªstwowej religii, jest strza³em w serce dla tych, którzy walczyli za dusze i umys³y ludu [Root.GetAdjective]. By¾ mo¿e nadszed³ czas, aby [Root.Monarch.GetName] pozwoli³[Root.Monarch.GetANoun], by dobro [Root.Monarch.GetHerHis] ludzi stan²³o przed osobistymi sprawami wiary?"
  reform_into_iqta_title:0 "WprowadŸ islamski System Rz¹dów"
  reform_into_iqta_desc:0 "Panowanie i zarz¹dzanie mog¹ by¾ wieloma rzeczami, a tradycje, na których polegamy, znajduj¹ si² poza g³ównym nurtem œwiata islamskiego. Przyjmuj¹c system Ikta, mo¿emy bezpoœrednio egzekwowa¾ nasz¹ w³adz² nad ziemiami, a prawa do dochodów przyznawane s¹ wy³¹cznie zaufanym Emirom."

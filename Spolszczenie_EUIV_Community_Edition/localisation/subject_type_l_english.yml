@@ -54,7 +54,7 @@
  protectorate_no_overlord_dow:0 "Nie mo¿esz wypowiedzie¾ wojny swoim protektoratom."
  relation_fight:0 "prowadzi¾ wojny"
  relation_rival:0 "rywalizowa¾"
- relation_ally:0 "sprzymierzy¾ si²"
+ relation_ally:0 "sojusznik"
  relation_marry:0 "zawrze¾ królewski maria¿"
  THEIR_SUBJECT_TYPE_NO_ALLOW:0 "Oni to $SUBJECTTYPE$."
  tributary_state:0 "Trybutariusz"

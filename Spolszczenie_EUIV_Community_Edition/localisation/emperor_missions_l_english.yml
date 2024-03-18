@@ -2415,7 +2415,7 @@
  CV_MILITARY_DETACH_LEADER_DIALOG_TITLE:0 "PotwierdŸ, ¿e chcesz od³¹czy¾ $NAME$"
  CV_MILITARY_DETACH_LEADER_DIALOG_DESC:0 "Spowoduje to od³¹czenie $NAME$ od $ARMY|Y$ w prowincji $LOCATION|Y$.\n$DESC$"
  CV_MILITARY_DETACH_LEADER_NOATTACHED:0 "Ten dowódca nie dowodzi ¿adn¹ jednostk¹!"
- CALL_COALITION:0 "$COUNTRY|Y$ is in a coalition against you. If called co-belligerant all the members of the coalition will be called in the war."
+ CALL_COALITION:0 "Paªstwo $COUNTRY|Y$ jest w koalicji przeciwko tobie. Jeœli koalicjant zostanie w³¹czony do wojny to wszyscy jej cz³onkowie te¿ do niej do³¹cz¹."
  CALL_COALITION_ALLY:0 "$COUNTRY|Y$ is in a coalition against $ALLY$. If called co-belligerant all the members of the coalition will be called in the war."
  FLAGSHIP_COST:0 "Koszt okr²tu flagowego"
  REBELSIZE:0 "Armia $SIZE|Y$ buntowników b²dzie walczy¾ przeciwko nam."

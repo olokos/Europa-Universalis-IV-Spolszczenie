@@ -196,7 +196,7 @@
  HAVE_LESS_THAN_SPLENDOR: "Posiada mniej splendoru niż"
  HAVE_MORE_THAN_SPLENDOR: "Więcej splendoru niż"
  HAVE_LESS_THAN_ABSOLUTISM: "Posiada mniej absolutyzmu niż"
- HAVE_MORE_THAN_ABSOLUTISM: "Więcej absolutyzmu niż"
+ HAVE_MORE_THAN_ABSOLUTISM: "Więcej absolutyzmu niż "
  HAVE_LESS_THAN_ACCEPTED_CULTURES: "Posiada mniej promowany kultur niż"
  HAVE_MORE_THAN_ACCEPTED_CULTURES: "Ma co najmniej $VAL|Y$ promowanych kultur\n"
  OWN_CONTROL_LESS_INSTITUTIONS: "Posiada i kontroluje mniej niż $TXT$ prowincji, w których narodziły się nurty.\n"

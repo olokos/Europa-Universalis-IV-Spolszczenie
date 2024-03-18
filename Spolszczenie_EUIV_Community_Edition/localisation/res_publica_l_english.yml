@@ -342,7 +342,7 @@
  elective_monarchy.7.t:0 "Podejrzany wypadek"
  elective_monarchy.7.d:0 "Nasz kandydat do tronu paªstwa $FROM$ poniós³ œmier¾ w wyniku - jak si² wydaje - wypadku na polowaniu. Cho¾ podejrzewamy, ¿e tak naprawd² by³ to zamach przeprowadzony przez stronników innego kandydata, nie mamy na to dowodów. Ci²¿ka praca, jak¹ w³o¿yliœmy w umieszczenie przedstawiciela naszej dynastii na tronie paªstwa $FROM$ posz³a na marne."
  elective_monarchy.7.a:0 "To okropne!"
- elective_monarchy.8.t:0 "[Root.Monarch.Dynasty.GetName] jednocz¹"
+ elective_monarchy.8.t:0 "Zjednoczona dynastia [Root.Monarch.Dynasty.GetName]"
  elective_monarchy.8.d:0 "Cho¾ zewn²trzne wp³ywy na polityk² naszego kraju prowadz¹ niekiedy do jego os³abienia, wybór monarchy z innego paªstwa zaowocowa³ wzajemnym zaufaniem, a tak¿e otworzy³ przed nami wyj¹tkowe dyplomatyczne mo¿liwoœci. [Root.Monarch.GetName] doskonale wykorzystuje zagraniczne wp³ywy swego rodu, wzmacniaj¹c wi²zy z miejscem, które by³o niegdyœ dlaª domem."
  elective_monarchy.8.a:0 "Miejmy nadziej², ¿e tak pozostanie."
  elective_monarchy.9.t:0 "[Root.Monarch.GetName] dziedziczy tytu³"

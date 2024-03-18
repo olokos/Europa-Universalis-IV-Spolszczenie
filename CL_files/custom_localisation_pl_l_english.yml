@@ -539,3 +539,6 @@
  building_temple_zoroastrian_ins: "świątynią ognia"
  building_temple_jewish_ins: "synagogą"
  building_temple_ins: "świątynią"
+ ## GetRoyalOrState_gen
+ string_royal_gen: "rojalistów" #Rojaliści
+ string_state_gen: "strefy rządowej" #Sfera rządowa

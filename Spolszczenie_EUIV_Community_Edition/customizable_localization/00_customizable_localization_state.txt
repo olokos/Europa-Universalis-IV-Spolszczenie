@@ -338,3 +338,20 @@ defined_text = {
 		}
 	}
 }
+
+defined_text = {
+	name = GetRoyalOrState_gen
+
+	text = {
+		localisation_key = string_royal_gen
+		trigger = {
+			NOT = { government = republic }
+		}
+	}
+	text = {
+		localisation_key = string_state_gen
+		trigger = {
+			government = republic
+		}
+	}
+}

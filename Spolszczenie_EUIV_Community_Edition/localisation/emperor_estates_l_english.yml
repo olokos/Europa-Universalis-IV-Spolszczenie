@@ -723,7 +723,7 @@
  no_penalties_annexing_tt:0 "Kraj §Y[Root.GetName]§! nie otrzyma kary do reputacji dyplomatycznej za aneksj² paªstwa §Y[agenda_country.GetName]§!."
  sending_condottieri_to_them:0 "§Y[Root.GetName]§! wynajmuje kondotierów paªstwu §YCountry§!."
  is_root_religion:0 "Wyznaje religi² §Y[Root.Religion.GetName]§!."
- pay_crown_land:0 "Umo¿liwia wykorzystanie królewszczyzn"
+ pay_crown_land:0 "Rozdaj królewszczyzn²"
  estate_church_propagate_religion_trigger_tooltip:0 "Wszystkie zamieszka³e prowincje w w²Ÿle handlowym §Y[agenda_trade_node.GetTradeNodeName]§! wyznaj¹ §Y[Root.Religion.GetName]§!, Katolicyzm, Islam lub Judaizm."
  agenda_automatically_completed_explain_dhimmi:0 "Prowincja §Y[agenda_province.GetName]§!. otrzyma §R25%§! lokalnej autonomii."
  estate_nobles_protect_our_culture_effect_tooltip:0 "Po podbiciu, prowincja §Y[agenda_province.GetName]§! straci §G5§! lat separatyzmu."

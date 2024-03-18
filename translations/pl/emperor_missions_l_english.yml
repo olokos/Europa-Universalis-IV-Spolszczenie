@@ -2415,7 +2415,7 @@
  CV_MILITARY_DETACH_LEADER_DIALOG_TITLE: "Potwierdź, że chcesz odłączyć $NAME$"
  CV_MILITARY_DETACH_LEADER_DIALOG_DESC: "Spowoduje to odłączenie $NAME$ od $ARMY|Y$ w prowincji $LOCATION|Y$.\n$DESC$"
  CV_MILITARY_DETACH_LEADER_NOATTACHED: "Ten dowódca nie dowodzi żadną jednostką!"
- CALL_COALITION: ""
+ CALL_COALITION: "Państwo $COUNTRY|Y$ jest w koalicji przeciwko tobie. Jeśli koalicjant zostanie włączony do wojny to wszyscy jej członkowie też do niej dołączą."
  CALL_COALITION_ALLY: ""
  FLAGSHIP_COST: "Koszt okrętu flagowego"
  REBELSIZE: "Armia $SIZE|Y$ buntowników będzie walczyć przeciwko nam."
