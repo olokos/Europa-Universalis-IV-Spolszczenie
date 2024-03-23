@@ -1,7 +1,7 @@
 ﻿l_english:
  GOVERNMENT_REFORM_PROGRESS_IS_LESS_THAN: "Postęp reformy rządowej jest mniejszy niż $PROGRESS|Y$.\n"
  GOVERNMENT_REFORM_PROGRESS_IS_AT_LEAST: "Postęp reformy rządowej wynosi co najmniej $PROGRESS|Y$.\n"
- CHANGE_GOVERNMENT_REFORM_PROGRESS: "$DIRECTION$ $VALUE$ Postęp Reformy Rządowej.\n"
+ CHANGE_GOVERNMENT_REFORM_PROGRESS: "$DIRECTION$ $VALUE$ postęp reformy rządowej.\n"
  SCORNFUL_DESC: "Pogardliwa zniewaga dwukrotnie pogorszy naszą opinię, ale także uczyni ich wrogów podobnymi do nas. To kosztuje §Y5§! prestiżu."
  SCORNFUL_ENEMIES_DESC: "§YWróg państwa $COUNTRY$§!"
  SCORNFUL: "Pogardliwa zniewaga"

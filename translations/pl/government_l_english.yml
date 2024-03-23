@@ -232,7 +232,7 @@
  mechanic_has_unify_china_cb_yes: "Ma dostęp do casus belli '§YZjednocz Chiny§!'"
  mechanic_papacy_yes: "Jest §Ypapieżem§!."
  mechanic_papacy_no: "Nie jest papieżem."
- mechanic_fixed_rank: "Ustanowiony do rangi §Y$RANK$§!."
+ mechanic_fixed_rank: "Ranga rządu to §Y$RANK$§!."
  mechanic_monastic_yes: "Jedność religijna wpływa na religijność podczas zmiany religii."
  mechanic_monastic_no: "Jedność religijna nie wpływa na religijność podczas zmiany religii."
  mechanic_rulers_can_be_generals_yes: "Władcy mogą być generałami."

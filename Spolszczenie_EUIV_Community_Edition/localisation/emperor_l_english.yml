@@ -473,7 +473,7 @@
  PROVOKE_REVOLT_INSTANT:0 "Sprowokuj buntowników do natychmiastowego wszcz²cia rebelii. B²d¹ oni o $EXTRA$ silniejsi ni¿ zazwyczaj, z sum¹ $SIZE|Y$ pu³ków."
  PROVOKE_REVOLT_DELAYED:0 "Bunty to doœ¾ nieprzewidywalna sprawa, ale podejmuj¹c drastyczne œrodki, mo¿emy teraz zmusi¾ rebeliantów do buntu. Mo¿e to jednak zach²ci¾ wi²cej osób do do³¹czenia do ich szeregów."
  PROVOKE_REVOLT_ALREADY_IN_REVOLT:0 "W naszym paªstwie ju¿ trwa inny bunt. Musimy go zd³awi¾ w pierwszej kolejnoœci."
- PROVOKE_REVOLT_NO_RISK:0 "The support for their cause is waning, the problem should resolve itself in a few months."
+ PROVOKE_REVOLT_NO_RISK:0 "Poparcie dla ich sprawy s³abnie, problem powinien rozwi¹za¾ si² sam w ci¹gu kilku miesi²cy."
  PROVOKE_REVOLT_CONFIRM:0 "Czy na pewno chcesz sprowokowa¾ bunt frakcji $NAME$?\n\nDo buntu do³¹czy dodatkowych $BONUS$ ¿o³nierzy, a ³¹czna wielkoœ¾ buntu wyniesie $SIZE|Y$ pu³ków."
  PROVOKE_REVOLT_AT_WAR:0 "Nie mo¿emy prowokowa¾ buntów, b²d¹c w stanie wojny."
  PROVOKE_REVOLT_SIEGED_OR_OCCUPIED:0 "Nie mo¿emy prowokowa¾ buntów, je¿eli buntuj¹ce si² prowincje s¹ pod okupacj¹ lub w trakcie obl²¿enia."
