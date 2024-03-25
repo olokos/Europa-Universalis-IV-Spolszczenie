@@ -89,18 +89,18 @@ defined_text = {
 	}
 }
 
-## Odczedł/Odeszła
+## eszła/szedł
 defined_text = {
-	name = GetGone
+	name = GetEszlaSzedl
 	random = no
 	text = {
-		localisation_key = string_word_odeszla
+		localisation_key = string_end_eszla
 		trigger = {
 			is_female = yes
 		}
 	}
 	text = {
-		localisation_key = string_word_odszedl
+		localisation_key = string_end_szedl
 	}
 }
 
@@ -239,7 +239,37 @@ defined_text = {
 	}
 }
 
+## mężem/żoną
+defined_text = {
+	name = GetWifeHusband_ins
+	random = no
+	text = {
+		localisation_key = string_word_wife_ins
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_word_husband_ins
+	}
+}
+
 ## kobietą/mężczyzną
+defined_text = {
+	name = GetWomanMan_ins
+	random = no
+	text = {
+		localisation_key = string_word_woman_ins
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_word_man_ins
+	}
+}
+
+## kobiecie/mężczyźnie
 defined_text = {
 	name = GetWomanMan_dat
 	random = no
@@ -284,9 +314,24 @@ defined_text = {
 	}
 }
 
+## ej/emu
+defined_text = {
+	name = GetEjEmu
+	random = no
+	text = {
+		localisation_key = string_end_ej
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_end_emu
+	}
+}
+
 ## ą/zynią
 defined_text = {
-	name = GetAI
+	name = GetZyniaA
 	random = no
 	text = {
 		localisation_key = string_end_zynia
@@ -295,7 +340,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_ą
+		localisation_key = string_end_apl
 	}
 }
 

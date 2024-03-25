@@ -1175,3 +1175,177 @@ defined_text = {
 		trigger = { religion_group = zoroastrian_group }
 	}
 }
+
+## Dopełniacz dla nazwy drugiej religii
+defined_text = {
+	name = SecondaryReligion_gen
+	random = no
+	text = {
+		localisation_key = string_catholicism_gen
+		trigger = {
+			secondary_religion = catholic
+		}
+	}
+	text = {
+		localisation_key = string_anglicanism_gen
+		trigger = {
+			secondary_religion = anglican
+		}
+	}
+	text = {
+		localisation_key = string_hussite_gen
+		trigger = {
+			secondary_religion = hussite
+		}
+	}
+	text = {
+		localisation_key = string_protestantism_gen
+		trigger = {
+			secondary_religion = protestant
+		}
+	}
+	text = {
+		localisation_key = string_reformed_gen
+		trigger = {
+			secondary_religion = reformed
+		}
+	}
+	text = {
+		localisation_key = string_orthodox_gen
+		trigger = {
+			secondary_religion = orthodox
+		}
+	}
+	text = {
+		localisation_key = string_coptic_gen
+		trigger = {
+			secondary_religion = coptic
+		}
+	}
+	text = {
+		localisation_key = string_sunni_gen
+		trigger = {
+			secondary_religion = sunni
+		}
+	}
+	text = {
+		localisation_key = string_shia_gen
+		trigger = {
+			secondary_religion = shiite
+		}
+	}
+	text = {
+		localisation_key = string_ibadism_gen
+		trigger = {
+			secondary_religion = ibadi
+		}
+	}
+	text = {
+		localisation_key = string_theravada_gen
+		trigger = {
+			secondary_religion = buddhism
+		}
+	}
+	text = {
+		localisation_key = string_vajrayana_gen
+		trigger = {
+			secondary_religion = vajrayana
+		}
+	}
+	text = {
+		localisation_key = string_mahayana_gen
+		trigger = {
+			secondary_religion = mahayana
+		}
+	}
+	text = {
+		localisation_key = string_confucianism_gen
+		trigger = {
+			secondary_religion = confucianism
+		}
+	}
+	text = {
+		localisation_key = string_shintoism_gen
+		trigger = {
+			secondary_religion = shinto
+		}
+	}
+	text = {
+		localisation_key = string_hinduism_gen
+		trigger = {
+			secondary_religion = hinduism
+		}
+	}
+	text = {
+		localisation_key = string_sikhism_gen
+		trigger = {
+			secondary_religion = sikhism
+		}
+	}
+	text = {
+		localisation_key = string_animism_gen
+		trigger = {
+			secondary_religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_fetishism_gen
+		trigger = {
+			secondary_religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_totemism_gen
+		trigger = {
+			secondary_religion = totemism
+		}
+	}
+	text = {
+		localisation_key = string_inti_gen
+		trigger = {
+			secondary_religion = inti
+		}
+	}
+	text = {
+		localisation_key = string_nahuatl_gen
+		trigger = {
+			secondary_religion = nahuatl
+		}
+	}
+	text = {
+		localisation_key = string_mayan_gen
+		trigger = {
+			secondary_religion = mesoamerican_religion
+		}
+	}
+	text = {
+		localisation_key = string_norse_gen
+		trigger = {
+			secondary_religion = norse_pagan_reformed
+		}
+	}
+	text = {
+		localisation_key = string_tengrianism_gen
+		trigger = {
+			secondary_religion = tengri_pagan_reformed
+		}
+	}
+	text = {
+		localisation_key = string_dreamtime_gen
+		trigger = {
+			secondary_religion = dreamtime
+		}
+	}
+	text = {
+		localisation_key = string_judaism_gen
+		trigger = {
+			secondary_religion = jewish
+		}
+	}
+	text = {
+		localisation_key = string_zoroastrianism_gen
+		trigger = {
+			secondary_religion = zoroastrian
+		}
+	}
+}
