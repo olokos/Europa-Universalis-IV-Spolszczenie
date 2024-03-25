@@ -3637,7 +3637,7 @@
  MACRO_TOO_FEW_MERCS: "Nie można zatrudnić dość pułków najemników, by użyć tego szablonu."
  MACRO_NO_MONEY: "§RPotrzeba $NEEDED|0$¤ by wybudować.§!"
  MACRO_IN_COMBAT: "W prowincji $PROVINCE$ obecnie toczy się bitwa."
- MACRO_OPEN_INTERFACE_TOOLTIP: "§YInterfejs Produkcji§!\nKliknij tutaj, aby zwerbować jednostkę lub wybudować budynek."
+ MACRO_OPEN_INTERFACE_TOOLTIP: "§YInterfejs produkcji§!\nKliknij tutaj, aby zwerbować jednostkę lub wybudować budynek."
  MACRO_RULES: "Niezgodne z zasadami."
  MACRO_WRONG_MANUFACTORY: "Manufaktura nie jest właściwa dla towarów produkowanych w prowincji $PROVINCE$."
  MACRO_MANUFACTORY_IN_GOLD_PROVINCES: "Nie można zbudować manufaktury w prowincjach ze złotem."
