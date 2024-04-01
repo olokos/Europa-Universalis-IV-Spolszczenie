@@ -526,10 +526,22 @@
  ## GetNoblesReplacementForOtherGovernments_gen
  string_nobility_gen: "Szlachty" #Szlachta
  string_families_gen: "Wpływowych rodzin" #Wpływowe Rodziny
+ ## GetNobilityOrFallbackName_CL
+ string_country_estate_nobles_name_CL: "[This.GetNobilityName_CL]"
+ ## GetNobilityOrFallbackName_CL_Cap
+ string_country_estate_nobles_name_CL_Cap: "[This.GetNobilityName_CL_Cap]"
  ## GetNobilityOrFallbackName_gen
  string_country_estate_nobles_name_gen: "[This.GetNobilityName_gen]"
  ## GetNobilityOrFallbackName_ins
  string_country_estate_nobles_name_ins: "[This.GetNobilityName_ins]"
+ ##GetNobilityOrFallbackName_BE
+ string_country_estate_nobles_name_BE: "[This.GetNobilityName_BE]"
+ ## GetNobilityOrFallbackName_AdjEndS
+ string_country_estate_nobles_name_AdjEndS: "[This.GetClergyName_AdjEndS]"
+ ## GetNobilityOrFallbackName_EA
+ string_country_estate_nobles_name_EA: "[This.GetClergyName_EA]"
+ ## GetNobilityOrFallbackName_NounJa
+ string_country_estate_nobles_name_NounJa: "[This.GetClergyName_NounJa]"
  ## GetChurchOrFallbackName_dat
  string_country_estate_church_name_dat: "[This.GetClergyName_dat]"
  ## GetTempleName_ins
@@ -542,3 +554,15 @@
  ## GetRoyalOrState_gen
  string_royal_gen: "rojalistów" #Rojaliści
  string_state_gen: "strefy rządowej" #Sfera rządowa
+ ## GetBurghersOrFallbackName_CL
+ string_country_estate_burghers_name_CL: "[This.GetBurghersName_CL]"
+ ## GetBurghersOrFallbackName_CL_Cap
+ string_country_estate_burghers_name_CL_Cap: "[This.GetBurghersName_CL_Cap]"
+ ## GetBurghersOrFallbackName_gen
+ string_country_estate_burghers_name_gen: "[This.GetBurghersName_gen]"
+ ## GetBurghersOrFallbackName_EA
+ string_country_estate_burghers_name_EA: "[This.GetBurghersName_EA]"
+ ## GetBurghersOrFallbackName_IA
+ string_country_estate_burghers_name_IA: "[This.GetBurghersName_IA]"
+ ## GetNobilityOrFallbackName_NounJa
+ string_country_estate_burghers_name_NounJa: "[This.GetBurghersName]"

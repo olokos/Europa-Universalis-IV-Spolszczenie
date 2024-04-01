@@ -1,4 +1,4 @@
-
+﻿
 defined_text = {
 	name = GetBrahminsName_CL
 	random = no
@@ -9855,8 +9855,6 @@ defined_text = {
 	}
 }
 
-
-
 defined_text = {
 	name = GetMarathasOrRajputsOrNoblesName_gen
 	random = no
@@ -10053,6 +10051,44 @@ defined_text = {
 }
 
 defined_text = {
+	name = GetNobilityOrFallbackName_CL
+	random = no
+	
+	text = {
+		localisation_key = string_country_estate_nobles_name_CL
+		trigger = {
+			has_estate = estate_nobles
+		}
+	}
+	
+	text = {
+		localisation_key = string_estate_nobles
+		trigger = {
+			NOT = { has_estate = estate_nobles }
+		}
+	}
+}
+
+defined_text = {
+	name = GetNobilityOrFallbackName_CL_Cap
+	random = no
+	
+	text = {
+		localisation_key = string_country_estate_nobles_name_CL_Cap
+		trigger = {
+			has_estate = estate_nobles
+		}
+	}
+	
+	text = {
+		localisation_key = string_estate_nobles_Cap
+		trigger = {
+			NOT = { has_estate = estate_nobles }
+		}
+	}
+}
+
+defined_text = {
 	name = GetNobilityOrFallbackName_gen
 	random = no
 	
@@ -10065,6 +10101,82 @@ defined_text = {
 	
 	text = {
 		localisation_key = string_gen_estate_nobles
+		trigger = {
+			NOT = { has_estate = estate_nobles }
+		}
+	}
+}
+
+defined_text = {
+	name = GetNobilityOrFallbackName_BE
+	random = no
+	
+	text = {
+		localisation_key = string_country_estate_nobles_name_BE
+		trigger = {
+			has_estate = estate_nobles
+		}
+	}
+	
+	text = {
+		localisation_key = string_word_jest
+		trigger = {
+			NOT = { has_estate = estate_nobles }
+		}
+	}
+}
+
+defined_text = {
+	name = GetNobilityOrFallbackName_AdjEndS
+	random = no
+	
+	text = {
+		localisation_key = string_country_estate_nobles_name_AdjEndS
+		trigger = {
+			has_estate = estate_nobles
+		}
+	}
+	
+	text = {
+		localisation_key = string_end_a
+		trigger = {
+			NOT = { has_estate = estate_nobles }
+		}
+	}
+}
+
+defined_text = {
+	name = GetNobilityOrFallbackName_EA
+	random = no
+	
+	text = {
+		localisation_key = string_country_estate_nobles_name_EA
+		trigger = {
+			has_estate = estate_nobles
+		}
+	}
+	
+	text = {
+		localisation_key = string_end_e
+		trigger = {
+			NOT = { has_estate = estate_nobles }
+		}
+	}
+}
+
+defined_text = {
+	name = GetNobilityOrFallbackName_NounJa
+	random = no
+	
+	text = {
+		localisation_key = string_country_estate_nobles_name_NounJa
+		trigger = {
+			has_estate = estate_nobles
+		}
+	}
+	
+	text = {
+		localisation_key = string_end_empty
 		trigger = {
 			NOT = { has_estate = estate_nobles }
 		}
@@ -10114,5 +10226,119 @@ defined_text = {
 	}
 	text = {
 		localisation_key = building_temple_ins
+	}
+}
+
+defined_text = {
+	name = GetBurghersOrFallbackName_CL
+	random = no
+	
+	text = {
+		localisation_key = string_country_estate_burghers_name_CL
+		trigger = {
+			has_estate = estate_burghers
+		}
+	}
+	
+	text = {
+		localisation_key = string_estate_burghers
+		trigger = {
+			NOT = { has_estate = estate_burghers }
+		}
+	}
+}
+
+defined_text = {
+	name = GetBurghersOrFallbackName_CL_Cap
+	random = no
+	
+	text = {
+		localisation_key = string_country_estate_burghers_name_CL_Cap
+		trigger = {
+			has_estate = estate_burghers
+		}
+	}
+	
+	text = {
+		localisation_key = string_estate_burghers_Cap
+		trigger = {
+			NOT = { has_estate = estate_burghers }
+		}
+	}
+}
+
+defined_text = {
+	name = GetBurghersOrFallbackName_gen
+	random = no
+	
+	text = {
+		localisation_key = string_country_estate_burghers_name_gen
+		trigger = {
+			has_estate = estate_burghers
+		}
+	}
+	
+	text = {
+		localisation_key = string_gen_estate_burghers
+		trigger = {
+			NOT = { has_estate = estate_burghers }
+		}
+	}
+}
+
+defined_text = {
+	name = GetBurghersOrFallbackName_EA
+	random = no
+	
+	text = {
+		localisation_key = string_country_estate_burghers_name_EA
+		trigger = {
+			has_estate = estate_burghers
+		}
+	}
+	
+	text = {
+		localisation_key = string_end_e
+		trigger = {
+			NOT = { has_estate = estate_burghers }
+		}
+	}
+}
+
+defined_text = {
+	name = GetBurghersOrFallbackName_IA
+	random = no
+	
+	text = {
+		localisation_key = string_country_estate_burghers_name_IA
+		trigger = {
+			has_estate = estate_burghers
+		}
+	}
+	
+	text = {
+		localisation_key = string_end_i
+		trigger = {
+			NOT = { has_estate = estate_burghers }
+		}
+	}
+}
+
+defined_text = {
+	name = GetBurghersOrFallbackName_NounJa
+	random = no
+	
+	text = {
+		localisation_key = string_country_estate_burghers_name_NounJa
+		trigger = {
+			has_estate = estate_burghers
+		}
+	}
+	
+	text = {
+		localisation_key = string_end_empty
+		trigger = {
+			NOT = { has_estate = estate_burghers }
+		}
 	}
 }

@@ -43,7 +43,7 @@
  rajput_regiments.tooltip:0 "Do §Y10§! §YradŸpuckich pu³ków§! zostanie zrekrutowanych w zale¿noœci od liczby prowincji które §YradŸputowie§! kontroluj¹ oraz od tego jaki maj¹ wp³yw.\nLiczba §YradŸpuckich pu³ków§! nie mo¿e przekroczy¾ iloœci prowincji kontrolowanych przez klas² §YradŸputów§!."
  EST_VAL_RECRUITED_RAJPUTS:0 "Rekrutuj pu³ki radŸputów: §Y$VAL$%§!"
  EST_VAL_DIVINE_FAITH:0 "Boska wiara"
- RECRUIT_MARATHI_TROOPS:0 "Rekrutuj z Marathów"
+ RECRUIT_MARATHI_TROOPS:0 "Rekrutuj z marathów"
  DEMAND_SUPPORT_MARATHAS:0 "Za¿¹daj militarnego wsparcia"
  DEMAND_SUPPORT_RAJPUTS:0 "Za¿¹daj militarnego wsparcia"
  PROMOTE_RAJPUT_NOBILITY:0 "Promuj radŸpuck¹ szlacht²"
