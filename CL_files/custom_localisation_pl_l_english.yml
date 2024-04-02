@@ -566,3 +566,101 @@
  string_country_estate_burghers_name_IA: "[This.GetBurghersName_IA]"
  ## GetNobilityOrFallbackName_NounJa
  string_country_estate_burghers_name_NounJa: "[This.GetBurghersName]"
+ ## GetFancyTradeGood_acc
+ string_mother_of_pearl_acc: "masę perłową" #masa perłowa
+ string_cowries_acc: "kauri" #kauri
+ string_sapphires_acc: "szafiry" #szafiry
+ string_turquoise_acc: "turkus" #turkus
+ string_rubies_acc: "rubiny" #rubiny
+ string_jade_acc: "jadeit" #jadeit
+ string_amber_acc: "bursztyn" #bursztyn
+ string_pearls_acc: "perły" #perły
+ string_diamonds_acc: "diamenty" #diamenty
+ string_imperial_eggs_acc: "jajka cesarskie" #jajka cesarskie
+ string_miniatures_acc: "miniatury" #miniatury
+ string_republics_acc: "republiki" #republiki
+ string_calligraphy_acc: "kaligrafie" #kaligrafia
+ string_book_of_hours_acc: "modlitewniki" #modlitewniki
+ string_fustians_acc: "barchany" #barchany
+ string_carpets_acc: "dywany" #dywany
+ string_draperies_acc: "draperie" #draperie
+ string_chintz_acc: "perkal" #perkal
+ string_taffeta_acc: "taftę" #tafta
+ string_frankincense_acc: "kadzidło" #kadzidło
+ string_cardamom_acc: "kardamon" #kardamon
+ string_saffron_acc: "szafran" #szafran
+ string_cinnamon_acc: "cynamon" #cynamon
+ string_vanilla_acc: "wanilię" #wanilia
+ string_dates_acc: "daktyle" #daktyle
+ string_opium_acc: "opium" #opium
+ string_long_pepper_acc: "pieprz długi" #pieprz długi
+ string_nutmeg_acc: "gałkę muszkatołową" #gałka muszkatołowa
+ string_perfume_acc: "perfumy" #perfumy
+ string_pepper_acc: "pieprz" #pieprz
+ string_satin_acc: "satynę" #satyna
+ string_embroidery_acc: "haft" #haft
+ string_ivory_figurines_acc: "rzeźby z kości słoniowej" #rzeźby z kości słoniowej
+ string_lacquerware_acc: "wyroby lakiernicze" #wyroby lakiernicze
+ string_jewellery_acc: "biżuterię" #biżuteria
+ string_books_acc: "księgi" #księgi
+ string_crystal_acc: "kryształ" #kryształ
+ string_ceramics_acc: "ceramikę" #ceramika
+ string_slave_acc: "niewolników" #niewolnicy
+ string_tobacco_acc: "tytoń" #tytoń
+ string_wine_acc: "wino" #wino
+ string_salt_acc: "sól" #sól
+ string_cotton_acc: "bawełnę" #bawełna
+ string_tea_acc: "herbatę" #herbata
+ string_natural_dyes_acc: "#naturalne barwniki" #naturalne barwniki
+ string_cocoa_acc: "kakao" #kakao
+ string_coffee_acc: "kawę" #kawa
+ string_sugar_acc: "cukier" #cukier
+ ## GetFancyTradeGood_gen
+ string_mother_of_pearl_gen: "masy perłowej" #masa perłowa
+ string_cowries_gen: "kauri" #kauri
+ string_sapphires_gen: "szafirów" #szafiry
+ string_turquoise_gen: "turkusu" #turkus
+ string_rubies_gen: "rubinów" #rubiny
+ string_jade_gen: "jadeitu" #jadeit
+ string_amber_gen: "bursztynu" #bursztyn
+ string_pearls_gen: "pereł" #perły
+ string_diamonds_gen: "diamentów" #diamenty
+ string_imperial_eggs_gen: "jajek cesarskich" #jajka cesarskie
+ string_miniatures_gen: "miniatur" #miniatury
+ string_republics_gen: "republiki" #republiki
+ string_calligraphy_gen: "kaligrafii" #kaligrafia
+ string_book_of_hours_gen: "modlitewników" #modlitewniki
+ string_fustians_gen: "barchanów" #barchany
+ string_carpets_gen: "dywanów" #dywany
+ string_draperies_gen: "draperii" #draperie
+ string_chintz_gen: "perkalu" #perkal
+ string_taffeta_gen: "tafty" #tafta
+ string_frankincense_gen: "kadzidła" #kadzidło
+ string_cardamom_gen: "kardamonu" #kardamon
+ string_saffron_gen: "szafranu" #szafran
+ string_cinnamon_gen: "cynamonu" #cynamon
+ string_vanilla_gen: "wanilii" #wanilia
+ string_dates_gen: "daktylów" #daktyle
+ string_opium_gen: "opium" #opium
+ string_long_pepper_gen: "pieprzu długiego" #pieprz długi
+ string_nutmeg_gen: "gałki muszkatołowej" #gałka muszkatołowa
+ string_perfume_gen: "perfum" #perfumy
+ string_pepper_gen: "pieprzu" #pieprz
+ string_satin_gen: "satyny" #satyna
+ string_embroidery_gen: "haftu" #haft
+ string_ivory_figurines_gen: "rzeźb z kości słoniowej" #rzeźby z kości słoniowej
+ string_lacquerware_gen: "wyrobów lakierniczych" #wyroby lakiernicze
+ string_jewellery_gen: "biżuterii" #biżuteria
+ string_books_gen: "ksiąg" #księgi
+ string_crystal_gen: "kryształów" #kryształ
+ string_ceramics_gen: "ceramiki" #ceramika
+ string_slave_gen: "niewolników" #niewolnicy
+ string_tobacco_gen: "tytoniu" #tytoń
+ string_wine_gen: "wina" #wino
+ string_salt_gen: "soli" #sól
+ string_cotton_gen: "bawełny" #bawełna
+ string_tea_gen: "herbaty" #herbata
+ string_natural_dyes_gen: "#naturalncyh barwników" #naturalne barwniki
+ string_cocoa_gen: "kakao" #kakao
+ string_coffee_gen: "kawy" #kawa
+ string_sugar_gen: "cukru" #cukier

@@ -7718,7 +7718,7 @@
  keep_rival_out_of_italy_title: "Utrzymać kraj z dala od Italii!"
  keep_rival_out_of_italy_desc: "Nie możemy pozwolić, by kraj $COUNTRY$ działał w Italii. Jest on naszym rywalem, a Italia leży w naszej strefie wpływów i powinna być naszą dziedziną"
  HAVE_LESS_MEN_THAN: "Ma wojsko mniejsze niż "
- HAVE_MORE_MEN_THAN: "Ma wojsko równe bądź większe niż"
+ HAVE_MORE_MEN_THAN: "Ma wojsko równe bądź większe niż "
  HAVE_LESS_SHIP_THAN: "Ma flotę mniejszą niż "
  HAVE_MORE_SHIP_THAN: "Ma flotę równą lub większą od "
  RIVAL_COUNTRY_STARTS: "Rywal"

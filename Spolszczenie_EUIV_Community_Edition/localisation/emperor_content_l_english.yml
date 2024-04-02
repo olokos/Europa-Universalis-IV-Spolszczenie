@@ -1638,7 +1638,7 @@
  desc_shortage_of_officers:0 "Our army is suffering from a lack of well-trained officers able to carry out the orders and will of the realm."
  opinion_heretical_philosopher:0 "Sheltering Heretical Philosopher"
  event.736.desc:0 "One of the greatest and richest men in [Root.GetUsableName], [Root.trader_name.GetName], has died without an heir. A well-respected trader who built his fortune from the [trade_province.GetFancyTradeGood_LOW] trade, he was a well known patron of religion and the arts. Now, in death, he has bequeathed all his wealth to the state."
- string_l_slave:0 "niewolnik"
+ string_l_slave:0 "niewolnicy"
  string_l_tobacco:0 "tytoª"
  string_l_wine:0 "wino"
  string_l_salt:0 "sól"

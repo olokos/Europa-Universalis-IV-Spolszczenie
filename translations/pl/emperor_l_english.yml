@@ -1003,7 +1003,7 @@
  PICK_GOLDEN_BULL_TOOLTIP: "§YWybierz złotą bullę§!\n"
  GOLDEN_BULL_COST: "$COST|Y2$"
  alert_expiring_agenda_instant: "§YZbliża się wygaśnięcie programu§!"
- alert_expiring_agenda_delayed: ""
+ alert_expiring_agenda_delayed: "Agenda, którą uzgodniliśmy z naszymi klasami społecznymi w takcie ostatniego zgromadzenia, wkrótce wygaśnie. Masz czas do $DATE|Y$, aby ją zakończyć."
  alert_imperial_incident_instant: ""
  alert_imperial_incident_delayed: ""
  MERCENARY_COMPANY_OVER_FL: "\n§RWynajęcie tej kompanii najemników sprawi, że przekroczymy limit sił naszego kraju!§!"

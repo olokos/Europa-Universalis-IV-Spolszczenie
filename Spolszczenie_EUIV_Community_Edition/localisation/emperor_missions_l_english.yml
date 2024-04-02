@@ -2410,7 +2410,7 @@
  GOLDEN_BULL_PICKED_BTN1:0 "OK"
  GOLDEN_BULL_PICKED_BTN2:0 "OK"
  GOLDEN_BULL_PICKED_BTN3:0 "IdŸ do"
- DEFENDER_OF_FAITH_NEXT_TIER:0 "The next Tier of Defender of the Faith will be reached when $COUNTRIES|Y$ nations follow the True Faith"
+ DEFENDER_OF_FAITH_NEXT_TIER:0 "Nast²pny poziom obroªcy wiary zostanie osi¹gni²ty, gdy $COUNTRIES|Y$ paªstw b²dzie pod¹¿a¾ za prawdziw¹ wiar¹."
  CV_MILITARY_DETACH:0 "Od³¹cz dowódc² od $ARMY|Y$ w $LOCATION|Y$."
  CV_MILITARY_DETACH_LEADER_DIALOG_TITLE:0 "PotwierdŸ, ¿e chcesz od³¹czy¾ $NAME$"
  CV_MILITARY_DETACH_LEADER_DIALOG_DESC:0 "Spowoduje to od³¹czenie $NAME$ od $ARMY|Y$ w prowincji $LOCATION|Y$.\n$DESC$"

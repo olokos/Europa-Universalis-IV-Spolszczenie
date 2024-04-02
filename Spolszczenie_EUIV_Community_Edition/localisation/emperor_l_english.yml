@@ -1003,7 +1003,7 @@
  PICK_GOLDEN_BULL_TOOLTIP:0 "§YWybierz z³ot¹ bull²§!\n"
  GOLDEN_BULL_COST:0 "$COST|Y2$"
  alert_expiring_agenda_instant:0 "§YZbli¿a si² wygaœni²cie programu§!"
- alert_expiring_agenda_delayed:0 "The Agenda that we agreed upon with our Estates in the latest Diet is about to expire. You have until $DATE|Y$ to finish it."
+ alert_expiring_agenda_delayed:0 "Agenda, któr¹ uzgodniliœmy z naszymi klasami spo³ecznymi w takcie ostatniego zgromadzenia, wkrótce wygaœnie. Masz czas do $DATE|Y$, aby j¹ zakoªczy¾."
  alert_imperial_incident_instant:0 "§YOngoing Imperial Incident§!"
  alert_imperial_incident_delayed:0 "You can vote in a currently on going Imperial Incident in the Holy Roman Empire. You have until $DATE|Y$ to cast your vote."
  MERCENARY_COMPANY_OVER_FL:0 "\n§RWynaj²cie tej kompanii najemników sprawi, ¿e przekroczymy limit si³ naszego kraju!§!"

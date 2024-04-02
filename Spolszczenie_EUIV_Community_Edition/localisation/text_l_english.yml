@@ -7718,7 +7718,7 @@
  keep_rival_out_of_italy_title:0 "Utrzyma¾ kraj z dala od Italii!"
  keep_rival_out_of_italy_desc:0 "Nie mo¿emy pozwoli¾, by kraj $COUNTRY$ dzia³a³ w Italii. Jest on naszym rywalem, a Italia le¿y w naszej strefie wp³ywów i powinna by¾ nasz¹ dziedzin¹"
  HAVE_LESS_MEN_THAN:0 "Ma wojsko mniejsze ni¿ "
- HAVE_MORE_MEN_THAN:0 "Ma wojsko równe b¹dŸ wi²ksze ni¿"
+ HAVE_MORE_MEN_THAN:0 "Ma wojsko równe b¹dŸ wi²ksze ni¿ "
  HAVE_LESS_SHIP_THAN:0 "Ma flot² mniejsz¹ ni¿ "
  HAVE_MORE_SHIP_THAN:0 "Ma flot² równ¹ lub wi²ksz¹ od "
  RIVAL_COUNTRY_STARTS:0 "Rywal"

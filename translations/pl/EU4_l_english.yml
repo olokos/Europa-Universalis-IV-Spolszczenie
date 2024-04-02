@@ -2432,7 +2432,7 @@
  cb_shogun_annex_desc: "Oni zagrażają naszej władzy nad Japonią!"
  cb_change_government: "Wojna o formę rządów"
  cb_change_government_desc: "Powinniśmy zmusić ich do zmiany rządu na ten sam rodzaj jak nasz!"
- claiming_the_shogunate_tooltip: "[new_shogunate.GetName] będzie liderem nowego Szogunatu.\nWszyscy lojalni wobec Szogunatu Daimyo zostaną przeniesieni do [new_shogunate.GetName]."
+ claiming_the_shogunate_tooltip: "[new_shogunate.GetName] będzie liderem nowego Szogunatu.\nWszyscy lojalni wobec Szogunatu Daimyo zostaną wasalami  [new_shogunate.GetAdjective]."
  INDEPENDENCE_WAR_NAME: "$ORDER$Wojna $FIRST$ o niepodległość"
  DEFENDER_DESC: "Obrońca wiary zyskuje Casus Belli w celu uzyskania jedności religijnej. Będzie to kosztować §Y$VALUE$§W¤. Po §Y$MONTHS$§W miesiącach kraje o wyższym prestiżu niż obecny obrońca mogą ubiegać się o tytuł.\nUtracisz tytuł również wtedy gdy, odrzucisz wezwanie do wojny z kraju twojej wiary, który został zaatakowany przez niewiernych lub przegrasz wojnę z niewiernymi."
  CARDINAL_NEW: "§YAktywny kardynał§!\nKontrolujemy aktywnego kardynała z prowincji $HOME|Y$. Każdy aktywny kardynał zwiększa corocznie nasz wpływ papieski o $BENEFIT$."

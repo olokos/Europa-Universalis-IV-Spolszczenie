@@ -2410,7 +2410,7 @@
  GOLDEN_BULL_PICKED_BTN1: "OK"
  GOLDEN_BULL_PICKED_BTN2: "OK"
  GOLDEN_BULL_PICKED_BTN3: "Idź do"
- DEFENDER_OF_FAITH_NEXT_TIER: ""
+ DEFENDER_OF_FAITH_NEXT_TIER: "Następny poziom obrońcy wiary zostanie osiągnięty, gdy $COUNTRIES|Y$ państw będzie podążać za prawdziwą wiarą."
  CV_MILITARY_DETACH: "Odłącz dowódcę od $ARMY|Y$ w $LOCATION|Y$."
  CV_MILITARY_DETACH_LEADER_DIALOG_TITLE: "Potwierdź, że chcesz odłączyć $NAME$"
  CV_MILITARY_DETACH_LEADER_DIALOG_DESC: "Spowoduje to odłączenie $NAME$ od $ARMY|Y$ w prowincji $LOCATION|Y$.\n$DESC$"

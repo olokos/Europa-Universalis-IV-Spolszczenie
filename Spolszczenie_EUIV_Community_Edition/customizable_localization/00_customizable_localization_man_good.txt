@@ -168,7 +168,7 @@ defined_text = {
 	}		
 	text = {
 		localisation_key = string_silk_gen
-		trigger = {	trade_goods = silk n}
+		trigger = {	trade_goods = silk }
 	}		
 	text = {
 		localisation_key = string_dyes_gen
@@ -519,5 +519,781 @@ defined_text = {
 	text = {
 		localisation_key = string_cloves
 		trigger = { trade_goods = cloves }
+	}
+}
+
+defined_text = {
+	name = GetFancyTradeGood_acc
+	random = no
+
+	#Gems
+	text = {
+		localisation_key = string_mother_of_pearl_acc
+		trigger = { #Province Scope
+			trade_goods = gems
+			province_id = 400
+		}
+	}
+	text = {
+		localisation_key = string_cowries_acc
+		trigger = { #Province Scope
+			trade_goods = gems
+			province_id = 1248
+		}
+	}
+	text = {
+		localisation_key = string_sapphires_acc
+		trigger = { #Province Scope
+			trade_goods = gems
+			region = colombia_region
+			has_port = no
+		}
+	}
+	text = {
+		localisation_key = string_turquoise_acc
+		trigger = { #province scope
+			trade_goods = gems
+			province_id = 2216
+		}
+	}
+	text = {
+		localisation_key = string_rubies_acc
+		trigger = { #province scope
+			trade_goods = gems
+			OR = {
+				region = indo_china_region
+				region = burma_region
+				province_id = 451
+				province_id = 452
+			}
+		}
+	}
+	text = {
+		localisation_key = string_jade_acc
+		trigger = { #province scope
+			trade_goods = gems
+			OR = {
+				superregion = china_superregion
+				region = mongolia_region
+			}
+		}
+	}
+	text = {
+		localisation_key = string_amber_acc
+		trigger = { #province scope
+			trade_goods = gems
+			OR = {
+				continent = europe
+				region = west_siberia_region
+				region = east_siberia_region
+			}
+		}
+	}
+	text = {
+		localisation_key = string_pearls_acc
+		trigger = { #Province Scope
+			trade_goods = gems
+			OR = {
+				region = arabia_region
+				region = australia_region
+				region = moluccas_region
+				region = malaya_region
+				continent = south_america
+				continent = oceania
+				area = lanka_area
+				area = madura_area
+			}
+		}
+	}
+	text = {
+		localisation_key = string_diamonds_acc
+		trigger = {
+			trade_goods = gems
+			superregion = india_superregion
+		}
+	}
+	
+	#Gold
+	text = {
+		localisation_key = string_imperial_eggs_acc
+		trigger = {
+			trade_goods = gold
+			is_year = 1700
+			OR = {
+				region = russia_region
+				region = ural_region
+			}
+		}
+	}
+
+	#Paper
+	text = {
+		localisation_key = string_miniatures_acc
+		trigger = {
+			trade_goods = paper
+			OR = {
+				superregion = india_superregion
+				superregion = persia_superregion
+				superregion = near_east_superregion
+				religion_group = muslim
+			}
+		}
+	}
+	text = {
+		localisation_key = string_republics_acc
+		trigger = {
+			trade_goods = paper
+			region = low_countries_region
+		}
+	}
+	text = {
+		localisation_key = string_calligraphy_acc
+		trigger = {
+			trade_goods = paper
+			OR = {
+				region = korea_region
+				region = japan_region
+				superregion = china_superregion
+				religion_group = eastern
+			}
+		}
+	}
+	text = {
+		localisation_key = string_book_of_hours_acc
+		trigger = {
+			trade_goods = paper
+			continent = europe
+			religion_group = christian
+			NOT = { is_year = 1500 }
+		}
+	}
+	
+	#Cloth
+	text = {
+		localisation_key = string_fustians_acc
+		trigger = {
+			OR = {
+				region = egypt_region
+				region = arabia_region
+			}
+			trade_goods = cloth
+		}
+	}
+	text = {
+		localisation_key = string_carpets_acc
+		trigger = {
+			superregion = persia_superregion
+			trade_goods = cloth
+		}
+	}
+	text = {
+		localisation_key = string_draperies_acc
+		trigger = {
+			continent = europe
+			trade_goods = cloth
+		}
+	}
+	text = {
+		localisation_key = string_chintz_acc
+		trigger = {
+			superregion = india_superregion
+			trade_goods = cloth
+		}
+	}
+	
+	#Silk
+	text = {
+		localisation_key = string_taffeta_acc
+		trigger = {
+			superregion = india_superregion
+			trade_goods = silk
+		}
+	}
+	
+	#Incense
+	text = {
+		localisation_key = string_frankincense_acc
+		trigger = {
+			region = arabia_region
+			trade_goods = incense
+		}
+	}
+	
+	#Spices
+	text = {
+		localisation_key = string_cardamom_acc
+		trigger = {
+			trade_goods = spices
+			province_id = 534
+		}
+	}
+	text = {
+		localisation_key = string_saffron_acc
+		trigger = {
+			trade_goods = spices
+			superregion = persia_superregion
+		}
+	}
+	text = {
+		localisation_key = string_cinnamon_acc
+		trigger = {
+			trade_goods = spices
+			area = lanka_area
+		}
+	}
+	text = {
+		localisation_key = string_vanilla_acc
+		trigger = {
+			trade_goods = spices
+			region = central_america_region
+		}
+	}
+	text = {
+		localisation_key = string_dates_acc
+		trigger = {
+			trade_goods = spices
+			OR = {
+				region = arabia_region
+				region = mashriq_region
+				continent = africa
+			}
+		}
+	}
+	text = {
+		localisation_key = string_opium_acc
+		trigger = {
+			trade_goods = spices
+			OR = {
+				area = malwa_area
+				region = bengal_region
+			}
+		}
+	}
+	text = {
+		localisation_key = string_long_pepper_acc
+		trigger = {
+			trade_goods = spices
+			superregion = india_superregion
+		}
+	}
+	text = {
+		localisation_key = string_nutmeg_acc
+		trigger = {
+			trade_goods = spices
+			area = spice_islands_area
+		}
+	}
+	
+	text = {
+		localisation_key = string_perfume_acc
+		trigger = {
+			trade_goods = incense
+		}
+	}
+	text = {
+		localisation_key = string_pepper_acc
+		trigger = {
+			trade_goods = spices
+		}
+	}
+	text = {
+		localisation_key = string_satin_acc
+		trigger = {
+			trade_goods = silk
+		}
+	}
+	text = {
+		localisation_key = string_embroidery_acc
+		trigger = {
+			trade_goods = cloth
+		}
+	}
+	text = {
+		localisation_key = string_ivory_figurines_acc
+		trigger = {
+			trade_goods = ivory
+		}
+	}
+	text = {
+		localisation_key = string_lacquerware_acc
+		trigger = {
+			trade_goods = tropical_wood
+		}
+	}
+	
+	text = {
+		localisation_key = string_jewellery_acc
+		trigger = { #province scope
+			OR = {
+				trade_goods = gems
+				trade_goods = gold
+			}
+		}
+	}
+	text = {
+		localisation_key = string_books_acc
+		trigger = {
+			trade_goods = paper
+		}
+	}
+	text = {
+		localisation_key = string_crystal_acc
+		trigger = {
+			trade_goods = glass
+		}
+	}
+	text = {
+		localisation_key = string_ceramics_acc
+		trigger = {
+			trade_goods = chinaware
+		}
+	}
+	text = {
+		localisation_key = string_slave_acc
+		trigger = {
+			trade_goods = slaves
+		}
+	}
+	text = {
+		localisation_key = string_tobacco_acc
+		trigger = {
+			trade_goods = tobacco
+		}
+	}
+	text = {
+		localisation_key = string_wine_acc
+		trigger = {
+			trade_goods = wine
+		}
+	}
+	text = {
+		localisation_key = string_salt_acc
+		trigger = {
+			trade_goods = salt
+		}
+	}
+	text = {
+		localisation_key = string_cotton_acc
+		trigger = {
+			trade_goods = cotton
+		}
+	}
+	text = {
+		localisation_key = string_tea_acc
+		trigger = {
+			trade_goods = tea
+		}
+	}
+	text = {
+		localisation_key = string_natural_dyes_acc
+		trigger = {
+			trade_goods = dyes
+		}
+	}
+	text = {
+		localisation_key = string_cocoa_acc
+		trigger = {
+			trade_goods = cocoa
+		}
+	}
+	text = {
+		localisation_key = string_coffee_acc
+		trigger = {
+			trade_goods = coffee
+		}
+	}
+	text = {
+		localisation_key = string_sugar_acc
+		trigger = {
+			trade_goods = sugar
+		}
+	}
+}
+
+defined_text = {
+	name = GetFancyTradeGood_gen
+	random = no
+
+	#Gems
+	text = {
+		localisation_key = string_mother_of_pearl_gen
+		trigger = { #Province Scope
+			trade_goods = gems
+			province_id = 400
+		}
+	}
+	text = {
+		localisation_key = string_cowries_gen
+		trigger = { #Province Scope
+			trade_goods = gems
+			province_id = 1248
+		}
+	}
+	text = {
+		localisation_key = string_sapphires_gen
+		trigger = { #Province Scope
+			trade_goods = gems
+			region = colombia_region
+			has_port = no
+		}
+	}
+	text = {
+		localisation_key = string_turquoise_gen
+		trigger = { #province scope
+			trade_goods = gems
+			province_id = 2216
+		}
+	}
+	text = {
+		localisation_key = string_rubies_gen
+		trigger = { #province scope
+			trade_goods = gems
+			OR = {
+				region = indo_china_region
+				region = burma_region
+				province_id = 451
+				province_id = 452
+			}
+		}
+	}
+	text = {
+		localisation_key = string_jade_gen
+		trigger = { #province scope
+			trade_goods = gems
+			OR = {
+				superregion = china_superregion
+				region = mongolia_region
+			}
+		}
+	}
+	text = {
+		localisation_key = string_amber_gen
+		trigger = { #province scope
+			trade_goods = gems
+			OR = {
+				continent = europe
+				region = west_siberia_region
+				region = east_siberia_region
+			}
+		}
+	}
+	text = {
+		localisation_key = string_pearls_gen
+		trigger = { #Province Scope
+			trade_goods = gems
+			OR = {
+				region = arabia_region
+				region = australia_region
+				region = moluccas_region
+				region = malaya_region
+				continent = south_america
+				continent = oceania
+				area = lanka_area
+				area = madura_area
+			}
+		}
+	}
+	text = {
+		localisation_key = string_diamonds_gen
+		trigger = {
+			trade_goods = gems
+			superregion = india_superregion
+		}
+	}
+	
+	#Gold
+	text = {
+		localisation_key = string_imperial_eggs_gen
+		trigger = {
+			trade_goods = gold
+			is_year = 1700
+			OR = {
+				region = russia_region
+				region = ural_region
+			}
+		}
+	}
+
+	#Paper
+	text = {
+		localisation_key = string_miniatures_gen
+		trigger = {
+			trade_goods = paper
+			OR = {
+				superregion = india_superregion
+				superregion = persia_superregion
+				superregion = near_east_superregion
+				religion_group = muslim
+			}
+		}
+	}
+	text = {
+		localisation_key = string_republics_gen
+		trigger = {
+			trade_goods = paper
+			region = low_countries_region
+		}
+	}
+	text = {
+		localisation_key = string_calligraphy_gen
+		trigger = {
+			trade_goods = paper
+			OR = {
+				region = korea_region
+				region = japan_region
+				superregion = china_superregion
+				religion_group = eastern
+			}
+		}
+	}
+	text = {
+		localisation_key = string_book_of_hours_gen
+		trigger = {
+			trade_goods = paper
+			continent = europe
+			religion_group = christian
+			NOT = { is_year = 1500 }
+		}
+	}
+	
+	#Cloth
+	text = {
+		localisation_key = string_fustians_gen
+		trigger = {
+			OR = {
+				region = egypt_region
+				region = arabia_region
+			}
+			trade_goods = cloth
+		}
+	}
+	text = {
+		localisation_key = string_carpets_gen
+		trigger = {
+			superregion = persia_superregion
+			trade_goods = cloth
+		}
+	}
+	text = {
+		localisation_key = string_draperies_gen
+		trigger = {
+			continent = europe
+			trade_goods = cloth
+		}
+	}
+	text = {
+		localisation_key = string_chintz_gen
+		trigger = {
+			superregion = india_superregion
+			trade_goods = cloth
+		}
+	}
+	
+	#Silk
+	text = {
+		localisation_key = string_taffeta_gen
+		trigger = {
+			superregion = india_superregion
+			trade_goods = silk
+		}
+	}
+	
+	#Incense
+	text = {
+		localisation_key = string_frankincense_gen
+		trigger = {
+			region = arabia_region
+			trade_goods = incense
+		}
+	}
+	
+	#Spices
+	text = {
+		localisation_key = string_cardamom_gen
+		trigger = {
+			trade_goods = spices
+			province_id = 534
+		}
+	}
+	text = {
+		localisation_key = string_saffron_gen
+		trigger = {
+			trade_goods = spices
+			superregion = persia_superregion
+		}
+	}
+	text = {
+		localisation_key = string_cinnamon_gen
+		trigger = {
+			trade_goods = spices
+			area = lanka_area
+		}
+	}
+	text = {
+		localisation_key = string_vanilla_gen
+		trigger = {
+			trade_goods = spices
+			region = central_america_region
+		}
+	}
+	text = {
+		localisation_key = string_dates_gen
+		trigger = {
+			trade_goods = spices
+			OR = {
+				region = arabia_region
+				region = mashriq_region
+				continent = africa
+			}
+		}
+	}
+	text = {
+		localisation_key = string_opium_gen
+		trigger = {
+			trade_goods = spices
+			OR = {
+				area = malwa_area
+				region = bengal_region
+			}
+		}
+	}
+	text = {
+		localisation_key = string_long_pepper_gen
+		trigger = {
+			trade_goods = spices
+			superregion = india_superregion
+		}
+	}
+	text = {
+		localisation_key = string_nutmeg_gen
+		trigger = {
+			trade_goods = spices
+			area = spice_islands_area
+		}
+	}
+	
+	text = {
+		localisation_key = string_perfume_gen
+		trigger = {
+			trade_goods = incense
+		}
+	}
+	text = {
+		localisation_key = string_pepper_gen
+		trigger = {
+			trade_goods = spices
+		}
+	}
+	text = {
+		localisation_key = string_satin_gen
+		trigger = {
+			trade_goods = silk
+		}
+	}
+	text = {
+		localisation_key = string_embroidery_gen
+		trigger = {
+			trade_goods = cloth
+		}
+	}
+	text = {
+		localisation_key = string_ivory_figurines_gen
+		trigger = {
+			trade_goods = ivory
+		}
+	}
+	text = {
+		localisation_key = string_lacquerware_gen
+		trigger = {
+			trade_goods = tropical_wood
+		}
+	}
+	
+	text = {
+		localisation_key = string_jewellery_gen
+		trigger = { #province scope
+			OR = {
+				trade_goods = gems
+				trade_goods = gold
+			}
+		}
+	}
+	text = {
+		localisation_key = string_books_gen
+		trigger = {
+			trade_goods = paper
+		}
+	}
+	text = {
+		localisation_key = string_crystal_gen
+		trigger = {
+			trade_goods = glass
+		}
+	}
+	text = {
+		localisation_key = string_ceramics_gen
+		trigger = {
+			trade_goods = chinaware
+		}
+	}
+	text = {
+		localisation_key = string_slave_gen
+		trigger = {
+			trade_goods = slaves
+		}
+	}
+	text = {
+		localisation_key = string_tobacco_gen
+		trigger = {
+			trade_goods = tobacco
+		}
+	}
+	text = {
+		localisation_key = string_wine_gen
+		trigger = {
+			trade_goods = wine
+		}
+	}
+	text = {
+		localisation_key = string_salt_gen
+		trigger = {
+			trade_goods = salt
+		}
+	}
+	text = {
+		localisation_key = string_cotton_gen
+		trigger = {
+			trade_goods = cotton
+		}
+	}
+	text = {
+		localisation_key = string_tea_gen
+		trigger = {
+			trade_goods = tea
+		}
+	}
+	text = {
+		localisation_key = string_natural_dyes_gen
+		trigger = {
+			trade_goods = dyes
+		}
+	}
+	text = {
+		localisation_key = string_cocoa_gen
+		trigger = {
+			trade_goods = cocoa
+		}
+	}
+	text = {
+		localisation_key = string_coffee_gen
+		trigger = {
+			trade_goods = coffee
+		}
+	}
+	text = {
+		localisation_key = string_sugar_gen
+		trigger = {
+			trade_goods = sugar
+		}
 	}
 }
