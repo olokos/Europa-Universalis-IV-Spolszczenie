@@ -146,7 +146,7 @@
  BETTER_TIER_DESCRIPTION: "Jeśli ulepszysz $TYPE$ aby stał się $TIERDESCRIPTION$, możesz zyskać:"
  WORSE_TIER_DESCRIPTION: "Twój $TYPE$ jest przerósł poziom $TIERDESCRIPTION$."
  DOESNT_EXIST_TIER_DESCRIPTION: "Gdyby $TYPE$ byłby $TIERDESCRIPTION$ dawałby następujące korzyści:"
- ON_UPGRADED_EVENT_DESC: "§YKiedy ulepszone§!:\n$EFFECT$\n"
+ ON_UPGRADED_EVENT_DESC: "§YKiedy zostanie rozbudowany§!:\n$EFFECT$\n"
  EXPENSEGREATPROJECTS: "Wielkie projekty"
  EXPENSEGREATPROJECTMAINTENANCE: "Utrzymanie wielkich projektów"
  CANNOT_BOOST_PROGRESS_FINISHED: "Budowa już się zakończyła."

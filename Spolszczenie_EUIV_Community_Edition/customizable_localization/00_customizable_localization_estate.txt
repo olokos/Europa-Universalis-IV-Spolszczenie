@@ -9634,7 +9634,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_alo
+		localisation_key = string_end_ala
 		trigger = {
 			has_reform = revolutionary_empire_reform
 		}
@@ -9684,7 +9684,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_alo
+		localisation_key = string_end_ala
 		trigger = {
 			OR = {
 				primary_culture = polish
@@ -9799,7 +9799,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_alo
+		localisation_key = string_end_ala
 	}
 }
 
@@ -9820,7 +9820,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_alo
+		localisation_key = string_end_ala
 		trigger = {
 			culture_group = french
 		}
@@ -9994,7 +9994,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_lo
+		localisation_key = string_end_la
 		trigger = {
 			has_reform = revolutionary_empire_reform
 		}
@@ -10044,7 +10044,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_lo
+		localisation_key = string_end_la
 		trigger = {
 			OR = {
 				primary_culture = polish
@@ -10159,7 +10159,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_lo
+		localisation_key = string_end_la
 	}
 }
 
@@ -10180,7 +10180,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_lo
+		localisation_key = string_end_la
 		trigger = {
 			culture_group = french
 		}
@@ -10559,7 +10559,26 @@ defined_text = {
 	}
 	
 	text = {
-		localisation_key = string_end_ich
+		localisation_key = string_end_jej
+		trigger = {
+			NOT = { has_estate = estate_nobles }
+		}
+	}
+}
+
+defined_text = {
+	name = GetNobilityOrFallbackName_PastEnd2
+	random = no
+	
+	text = {
+		localisation_key = string_estate_nobles_name_PastEnd2
+		trigger = {
+			has_estate = estate_nobles
+		}
+	}
+	
+	text = {
+		localisation_key = string_end_la
 		trigger = {
 			NOT = { has_estate = estate_nobles }
 		}
@@ -10579,6 +10598,63 @@ defined_text = {
 	
 	text = {
 		localisation_key = string_dat_estate_church
+		trigger = {
+			NOT = { has_estate = estate_church }
+		}
+	}
+}
+
+defined_text = {
+	name = GetChurchOrFallbackName_gen
+	random = no
+	
+	text = {
+		localisation_key = string_estate_church_name_gen
+		trigger = {
+			has_estate = estate_church
+		}
+	}
+	
+	text = {
+		localisation_key = string_gen_estate_church
+		trigger = {
+			NOT = { has_estate = estate_church }
+		}
+	}
+}
+
+defined_text = {
+	name = GetChurchOrFallbackName_Whose
+	random = no
+	
+	text = {
+		localisation_key = string_estate_church_name_Whose
+		trigger = {
+			has_estate = estate_church
+		}
+	}
+	
+	text = {
+		localisation_key = string_end_jego
+		trigger = {
+			NOT = { has_estate = estate_church }
+		}
+	}
+}
+
+defined_text = {
+	name = GetChurchOrFallbackName_PastEnd2
+	random = no
+	
+	text = {
+		localisation_key = string_estate_church_name_PastEnd2
+		trigger = {
+			has_estate = estate_church
+		}
+	}
+	
+	text = {
+		localisation_key = string_end_lo
 		trigger = {
 			NOT = { has_estate = estate_church }
 		}
@@ -10722,6 +10798,44 @@ defined_text = {
 		localisation_key = string_end_empty
 		trigger = {
 			NOT = { has_estate = estate_burghers }
+		}
+	}
+}
+
+defined_text = {
+	name = GetTribesOrFallbackName_gen
+	random = no
+	
+	text = {
+		localisation_key = string_estate_nomadic_tribes_name_gen
+		trigger = {
+			has_estate = estate_nomadic_tribes
+		}
+	}
+	
+	text = {
+		localisation_key = string_gen_estate_nomadic_tribes
+		trigger = {
+			NOT = { has_estate = estate_nomadic_tribes }
+		}
+	}
+}
+
+defined_text = {
+	name = GetTribesOrFallbackName_CL
+	random = no
+	
+	text = {
+		localisation_key = string_estate_nomadic_tribes_name_CL
+		trigger = {
+			has_estate = estate_nomadic_tribes
+		}
+	}
+	
+	text = {
+		localisation_key = string_estate_nomadic_tribes
+		trigger = {
+			NOT = { has_estate = estate_nomadic_tribes }
 		}
 	}
 }

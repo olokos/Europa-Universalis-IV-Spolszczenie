@@ -202,7 +202,7 @@
  OWN_CONTROL_LESS_INSTITUTIONS: "Posiada i kontroluje mniej niż $TXT$ prowincji, w których narodziły się nurty.\n"
  OWN_CONTROL_AT_LEAST_INSTITUTIONS: "Posiada i kontroluje co najmniej $TXT$ prowincji, w których narodziły się nurty.\n"
  HASNT_3_STAR_TR: "Nie ma trzy gwiazdkowego dowódcy"
- HAS_3_STAR_TR: "Miej trzy gwiazdkowego generała lub admirała"
+ HAS_3_STAR_TR: "Posiada trzy gwiazdkowego generała lub admirała"
  HAS_UNIFIED_CUL: "Posiada wszystkie $WHICH|Y$ prowincje"
  HASNT_UNIFIED_CULTUREGR: "Ma nie zjednoczoną grupę kulturową"
  IS_VARIABLE_EQUAL: "$VAR|Y$ wynosi $VALUE|Y$"

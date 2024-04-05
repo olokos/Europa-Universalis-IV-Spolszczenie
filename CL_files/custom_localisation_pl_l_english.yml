@@ -540,6 +540,7 @@
  string_estate_nobles_name_NounJa: "[This.GetNobilityName_NounJa]"
  string_estate_nobles_name_PastEnd2: "[This.GetNobilityName_PastEnd2]"
  string_estate_church_name_dat: "[This.GetClergyName_dat]"
+ string_estate_church_name_gen: "[This.GetClergyName_gen]"
  string_estate_burghers_name_CL: "[This.GetBurghersName_CL]"
  string_estate_burghers_name_CL_Cap: "[This.GetBurghersName_CL_Cap]"
  string_estate_burghers_name_gen: "[This.GetBurghersName_gen]"
@@ -552,6 +553,8 @@
  string_estate_rajputs_name_CL: "[This.GetRajputsName_CL]"
  string_estate_rajputs_name_gen: "[This.GetRajputsName_gen]"
  string_estate_rajputs_name_dat: "[This.GetRajputsName_dat]"
+ string_estate_nomadic_tribes_name_gen: "[This.GetTribesName_gen]"
+ string_estate_nomadic_tribes_name_CL: "[This.GetTribesName_CL]"
  ## GetTempleName_ins
  building_temple_christian_ins: "kościółem"
  building_temple_muslim_ins: "meczetem"

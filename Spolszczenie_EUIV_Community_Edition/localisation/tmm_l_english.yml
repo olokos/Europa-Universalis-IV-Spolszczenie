@@ -146,7 +146,7 @@
  BETTER_TIER_DESCRIPTION:0 "Jeœli ulepszysz $TYPE$ aby sta³ si² $TIERDESCRIPTION$, mo¿esz zyska¾:"
  WORSE_TIER_DESCRIPTION:0 "Twój $TYPE$ jest przerós³ poziom $TIERDESCRIPTION$."
  DOESNT_EXIST_TIER_DESCRIPTION:0 "Gdyby $TYPE$ by³by $TIERDESCRIPTION$ dawa³by nast²puj¹ce korzyœci:"
- ON_UPGRADED_EVENT_DESC:0 "§YKiedy ulepszone§!:\n$EFFECT$\n"
+ ON_UPGRADED_EVENT_DESC:0 "§YKiedy zostanie rozbudowany§!:\n$EFFECT$\n"
  EXPENSEGREATPROJECTS:0 "Wielkie projekty"
  EXPENSEGREATPROJECTMAINTENANCE:0 "Utrzymanie wielkich projektów"
  CANNOT_BOOST_PROGRESS_FINISHED:0 "Budowa ju¿ si² zakoªczy³a."

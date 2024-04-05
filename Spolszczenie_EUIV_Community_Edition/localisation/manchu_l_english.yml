@@ -375,7 +375,7 @@
  string_regency_council_2:0 "Rada regencyjna"
  string_ruler_title_and_name:0 "[This.Monarch.GetTitle] [This.Monarch.GetName]"
  string_regency_council_no_cap:0 "Rada regencyjna"
- has_manufactory_trigger_tooltip:0 "Posiadasz jakiekolwiek §Ymanufaktury§!"
+ has_manufactory_trigger_tooltip:0 "Posiada jakiekolwiek §Ymanufaktury§!"
  pretty_colonial_borders.3.name:0 "Spory mi²dzykolonialne"
  pretty_colonial_borders.3.desc:0 "[colonial_country_1.GetName] i [colonial_country_2.GetName] uwik³a³y si² w gorzki spór o prowincj² [pretty_colonial_province.GetName]. Podczas gdy paªstwo [colonial_country_1.GetName] jest obecnie w posiadaniu prowincji, [colonial_country_2.GetName] powo³uje si² na swoj¹ kart² kolonialn¹, która wydaje si² okreœla¾ ich prawa do tych terytoriów. Ostatnio dosz³o do kilku incydentów granicznych z udzia³em lokalnych si³ milicyjnych, które gromadzi³y si² w pobli¿u granicy. Chc¹c unikn¹¾ wybuchu wrogoœci, kolonialni administratorzy z obu krajów odwo³ali si² do paªstwa [Root.GetName], by rozwi¹za¾ spór."
  pretty_colonial_borders.3.A:0 "Opowiedz si² po stronie: [colonial_country_1.GetName]."

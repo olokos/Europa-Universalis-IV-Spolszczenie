@@ -74,7 +74,7 @@
  MODIFIER_BLOCK_INTRODUCE_NEW_HEIR: "Blokuje przedstawienie nowego następcy"
  SELLSHIP_INDEBT: "Nie można sprzedawać okrętów z powodu $REASON$."
  PROVINCE_HAS_LESS_THAN_BUILDINGS: "Państwo $NAME|Y$ ma mniej niż $VAL|Y$ budynków.\n"
- PROVINCE_HAS_AT_LEAST_BUILDINGS: "Państwo $NAME|Y$ ma co najmniej $VAL|Y$ budynków.\n"
+ PROVINCE_HAS_AT_LEAST_BUILDINGS: "Prowincja $NAME|Y$ ma co najmniej $VAL|Y$ budynków.\n"
  HAS_LESS_MONTHLY_POWER_THAN: "$NAME|Y$ zyskuje mniej niż $VAL|Y$ $TYPE$ miesięcznie.\n"
  HAS_AT_LEAST_MONTHLY_POWER: "$NAME|Y$ zyskuje co najmniej $VAL|Y$ $TYPE$ miesięcznie.\n"
  HAS_LESS_POWER_PROJECTION_THAN: "Prognozowana potęga państwa $NAME|Y$ jest niższa niż $VAL|Y$.\n"

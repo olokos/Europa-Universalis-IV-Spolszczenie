@@ -277,7 +277,7 @@
  EST_VAL_RAJPUT_CONNECTIONS:0 "RadŸpuckie wsparcie dyplomatyczne: §Y$VAL$%§!"
  EST_VAL_RAJPUTS_CURTAILED:0 "Zmniejszenie iloœci radŸputów na dworze: §Y$VAL$%§!"
  EST_VAL_RAJPUT_CONCESSIONS:0 "Przywileje nadane rad¿puckiej szlachcie: §Y$VAL$%§!"
- jains_estate_events.1.t:0 "DŸinijski bunt w [Root.GetName]"
+ jains_estate_events.1.t:0 "Bunt dŸinistów w prowincji [Root.GetName]"
  jains_estate_events.1.d:0 "Pomimo pacyfistycznych zasad, lokalna populacja dŸinistów w prowincji [Root.GetName] podnios³a broª przeciwko nam z powodu cofni²cia ich przywilejów!"
  jains_estate_events.1.a:0 "Rozumiem."
  EST_VAL_JAINS_ADVANCE:0 "Rozwój spo³eczeªstwa dŸinistów: §Y$VAL$%§!"

@@ -74,7 +74,7 @@
  MODIFIER_BLOCK_INTRODUCE_NEW_HEIR:0 "Blokuje przedstawienie nowego nast²pcy"
  SELLSHIP_INDEBT:0 "Nie mo¿na sprzedawa¾ okr²tów z powodu $REASON$."
  PROVINCE_HAS_LESS_THAN_BUILDINGS:0 "Paªstwo $NAME|Y$ ma mniej ni¿ $VAL|Y$ budynków.\n"
- PROVINCE_HAS_AT_LEAST_BUILDINGS:0 "Paªstwo $NAME|Y$ ma co najmniej $VAL|Y$ budynków.\n"
+ PROVINCE_HAS_AT_LEAST_BUILDINGS:0 "Prowincja $NAME|Y$ ma co najmniej $VAL|Y$ budynków.\n"
  HAS_LESS_MONTHLY_POWER_THAN:0 "$NAME|Y$ zyskuje mniej ni¿ $VAL|Y$ $TYPE$ miesi²cznie.\n"
  HAS_AT_LEAST_MONTHLY_POWER:0 "$NAME|Y$ zyskuje co najmniej $VAL|Y$ $TYPE$ miesi²cznie.\n"
  HAS_LESS_POWER_PROJECTION_THAN:0 "Prognozowana pot²ga paªstwa $NAME|Y$ jest ni¿sza ni¿ $VAL|Y$.\n"
