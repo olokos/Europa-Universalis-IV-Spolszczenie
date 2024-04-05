@@ -344,6 +344,21 @@ defined_text = {
 	}
 }
 
+## ką/em
+defined_text = {
+	name = GetKaEm
+	random = no
+	text = {
+		localisation_key = string_end_kapl
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_end_em
+	}
+}
+
 defined_text = {
 	name = GetAdv_Adm_ANoun
 	random = no

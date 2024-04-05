@@ -1565,7 +1565,7 @@
  IN_ENEMY_TERRITORY: ""
  CONDOTTIERI_ALREADY_HAS_LEADER: ""
  NO_TARGETS_TO_ATTACH_TO: "Brak jednostek do dołączenia."
- UPGRADE_SHIPS_DESC: ""
+ UPGRADE_SHIPS_DESC: "Ulepsz swoje statki do najnowszej wersji.\nSiła ulepszonych statków zostanie zredukowana do 1% wytrzymałości, a ich marynarze powrócą do puli marynarzy."
  TOOLTIP_TOGGLE_GO_HOME_WAR_NAME: ""
  CANNOT_CONSOLIDATE_FULL_STRENGTH: "Wszystkie armie są w pełni sił."
  REORGANIZE_WRONG_NUMBER_OF_UNITS: ""

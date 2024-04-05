@@ -128,6 +128,8 @@
  string_GREAT_HETMANATE_ins: "Wielkim Hetmanacie" #
  string_GREAT_IMAMATE: "Wielkiego Imamatu" #Wielki Imamat M
  string_GREAT_IMAMATE_ins: "Wielkim Imamacie" #
+ string_IMPERIA: "Imperii" #Imperia
+ string_IMPERIA_ins: "Imperii" #
  string_GREAT_INDEP_DAIMYO: "Wielkiego Daimyo" #Wielki Daimyo M
  string_GREAT_INDEP_DAIMYO_ins: "Wielkim Daimyo" #
  string_GREAT_LEAGUE: "Wielkiej Ligii" #Wielka Liga Ż
@@ -254,6 +256,10 @@
  string_REVOLUTIONARY_SPANISH_REPUBLIC_ins: "Najwyższej Juncie" #
  string_REVOLUTIONARY_SWEDISH_REPUBLIC: "Säkerhetstingetu" #Säkerhetstinget M
  string_REVOLUTIONARY_SWEDISH_REPUBLIC_ins: "Säkerhetstingetrze" #
+ string_SAMEPO: "Samepo" #Samepo
+ string_SAMEPO_ins: "Samepo" #
+ string_SAMTAVRO: "Samtawro" #Samtawro
+ string_SAMTAVRO_ins: "Samtawro" #
  string_SAVANAROLA_GOVERNMENT: "Rządu Savonaroli" #Rząd Savonaroli M
  string_SAVANAROLA_GOVERNMENT_ins: "Rządzie Savonaroli" #
  string_SERENE_REPUBLIC: "Najjaśniejszej Republiki" #Najjaśniejsza Republika Ż
@@ -320,8 +326,6 @@
  string_ARCHQUEEN: "Arcykrólowej" #Arcykrólowa
  string_ARCH_TRAPPIST: "Arcytrapisty" #Arcytrapista
  string_ARCH_TRAPPISTINE: "Arcytrapistki" #Arcytrapistka
- string_ATABEG: "Atabega" #Atabeg
- string_ATABEG_fem: "Atabegum" #Atabegum
  string_ATAMAN: "Atamana" #Ataman
  string_ATAMAN_fem: "Atamanki" #Atamanka
  string_ATIO: "Atioego" #Atio
@@ -546,6 +550,8 @@
  string_IMAM_fem: "Imamki" #Imamka
  string_IMPERATOR: "Imperatora" #Imperator
  string_IMPERATRIX: "Imperatorki" #Imperatorka
+ string_IMPERATORI: "Imperatoriego" #Imperatori
+ string_IMPERATRITSA: "Imperatricy" #Imperatrica
  string_JAM: "Dźama" #Dźam
  string_JAM_fem: "Dźamy" #Dźama
  string_JATHEDAR: "Dźathedara" #Dźathedar
@@ -607,6 +613,8 @@
  string_MAYOR: "Burmistrza" #Burmistrz
  string_MAYORESS: "Burmistrzyni" #Burmistrzyni
  string_MBRET: "Mbreta" #Mbret
+ string_MEPE: "Mepego" #Mepe
+ string_MEPE_fem: "Mepe" #Mepe
  string_MICHOQ: "Michoqa" #Michoq
  string_MISLDAR: "Misldara" #Misldar
  string_MOABADAN_MOABAD: "Mobeda Mobedów" #Mobed Mobedów
@@ -617,6 +625,8 @@
  string_MOST_SERNE_MARSHAL_fem: "Najjaśniejszej Marszałkini" #Najjaśniejsza Marszałkini
  string_MOTHER_SUPERIOR: "Matki Przełożonej" #Matka Przełożona
  string_MPANJAKE_BE: "Mpanjake-be" #Mpanjake-be
+ string_MTAVARI: "Mtawariego" #Mtawari
+ string_MTAVARI_fem: "Mtawari" #Mtawari
  string_MUGABE: "Mugabego" #Mugabe
  string_MUGO: "Mugo" #Mugo
  string_MULOPWE: "Mulopwe" #Mulopwe
@@ -774,6 +784,7 @@
  string_CHIEFTESS: "Przywódczyni" #Przywódczyni
  string_CONSORT: "Małżonka" #Małżonek
  string_COUNTESS: "Hrabiny" #Hrabina
+ string_DEDOPALI: "Dedopali" #Dedopali
  string_DESPOTISSA: "Despotki" #Despotka
  string_DUCHESS: "Księżnej" #Księżna
  string_DUKE: "Księcia" #Książę
@@ -804,6 +815,8 @@
  string_HIGH_QUEEN: "Wielkiej Królowej" #Wielka Królowa
  string_IMPERATOR: "Imperatora" #Imperator
  string_IMPERATRIX: "Imperatorki" #Imperatorka
+ string_IMPERATORI: "Imperatoriego" #Imperatori
+ string_IMPERATRITSA: "Imperatricy" #Imperatrica
  string_ITEGE: "Ytiegie" #Ytiegie
  string_JANHOY: "Janhoya" #Janhoy
  string_KAISER: "Kaisera" #Kaiser
@@ -829,7 +842,10 @@
  string_MALIKAH: "Maliki" #Malika
  string_MARGRAVE_CONSORT: "Margrabiego Małżonka" #Margrabia Małżonek
  string_MARGRAVINE: "Margrabiny" #Margrabin
+ string_MEPE: "Mepego" #Mepe
  string_MIRZA: "Mirzy" #Mirza
+ string_MTAVARI: "Mtawariego" #Mtawari
+ string_MTAVARI_fem: "Mtawari" #Mtawari
  string_MUGABE: "Mugabego" #Mugabe
  string_MUGO: "Mugo" #Mugo
  string_NAWAB: "Nawaba" #Nawab
@@ -853,6 +869,7 @@
  string_RANI: "Rani" #Rani
  string_REGINA: "Reginy" #Regina
  string_REX: "Rexa" #Rex
+ string_SHAHBANU: "Szachbanu" #Szachbanu
  string_SHAH_CONSORT: "Szacha Małżonka" #Szach Małżonek
  string_SHEIKHA: "Szejkini" #Szejkini
  string_SULTANA: "Sułtanki" #Sułtanka
@@ -900,6 +917,8 @@
  string_PASHAZADE: "Paszazade" #Paszazade
  string_PRINCE: "Księcia" #Książę
  string_PRINCESS: "Księżnej" #Księżna
+ string_PRINTSESA: "Princesy" #Princesa
+ string_PRINTSI: "Princiego" #Princi
  string_RAJKUMAR: "Radźkumar" #Radźkumar
  string_RAJKUMARI: "Radźkumari" #Radźkumari
  string_SHAHDOKHT: "Szachdocht" #Szachdocht

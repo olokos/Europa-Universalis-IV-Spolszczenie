@@ -9855,24 +9855,409 @@ defined_text = {
 	}
 }
 
+
+##Liczba PastEnd2
+
 defined_text = {
-	name = GetMarathasOrRajputsOrNoblesName_gen
+	name = GetClergyName_PastEnd2
 	random = no
 	text = {
-		localisation_key = string_gen_estate_nobles
+		localisation_key = string_end_li
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
+	text = {
+		localisation_key = string_end_ly
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_li
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_end_li
+		trigger = {
+			OR = {
+				religion = buddhism
+				religion = mahayana
+				religion = vajrayana
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_ly
+		trigger = {
+			tag = MAS
+		}
+	}
+	text = {
+		localisation_key = string_end_li
+		trigger = {
+			OR = {
+				religion = hinduism			
+				religion = protestant
+				religion = reformed			
+				AND = {
+					religion = orthodox
+					OR = {
+						culture_group = east_slavic
+						culture_group = south_slavic
+						culture_group = west_slavic
+						culture_group = slavic
+					}
+				}
+				religion = tengri_pagan_reformed
+				religion = sikhism
+				religion = totemism
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_li
+		trigger = {
+			OR = {
+				religion = norse_pagan_reformed
+				religion = jewish
+				religion = zoroastrian
+				religion = shinto
+				religion = inti
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_l
+		trigger = {
+			OR = {
+				has_reform = celestial_empire
+				culture_group = east_asian
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_li
+		trigger = {
+			religion_group = muslim
+		}
+	}
+	text = {
+		localisation_key = string_end_l
+		trigger = {
+			religion = nahuatl
+		}
+	}
+	text = {
+		localisation_key = string_end_li
+		trigger = {
+			tag = KOR
+			religion = confucianism
+		}
+	}
+	text = {
+		localisation_key = string_end_li
+		trigger = {
+			OR = {
+				primary_culture = maori
+				tag = SAM
+				tag = TOG
+				tag = LAI
+				tag = VIL
+				tag = VNL
+				AND = {
+					capital_scope = {
+						area = northern_polynesia_area
+					}
+					primary_culture = polynesian
+				}
+			}
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_end_lo
+	}
+}
+
+defined_text = {
+	name = GetNobilityName_PastEnd2
+	random = no
+	text = {
+		localisation_key = string_end_li
+		trigger = {
+			tag = MAM
+		}
+	}
+	text = {
+		localisation_key = string_end_lo
+		trigger = {
+			has_reform = revolutionary_empire_reform
+		}
+	}
+	text = {
+		localisation_key = string_end_ly
+		trigger = {
+			tag = OYO
+		}
+	}
+	text = {
+		localisation_key = string_end_li
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
+	text = {
+		localisation_key = string_end_li
+		trigger = {
+			primary_culture = mossi
+			religion = shamanism
+		}
+	}
+	text = {
+		localisation_key = string_end_li
+		trigger = {
+			has_reform = tribal_confederacy
+		}
+	}
+	text = {
+		localisation_key = string_end_l
+		trigger = {
+			technology_group = ottoman
+		}
+	}
+	text = {
+		localisation_key = string_end_li
+		trigger = {
+			OR = {
+				culture_group = east_slavic
+				primary_culture = bulgarian
+				primary_culture = romanian
+				culture_group = slavic
+			}
+			NOT = { primary_culture = polish_new }
+		}
+	}
+	text = {
+		localisation_key = string_end_lo
+		trigger = {
+			OR = {
+				primary_culture = polish
+				primary_culture = polish_new
+				primary_culture = lithuanian
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_l
+		trigger = {
+			tag = MAS
+		}
+	}
+	text = {
+		localisation_key = string_end_li
+		trigger = {
+			OR = {
+				religion = hinduism
+				tag = ORI
+				tag = VIJ
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_l
+		trigger = {
+			has_reform = celestial_empire
+		}
+	}
+	text = {
+		localisation_key = string_end_li
+		trigger = {
+			OR = {
+				tag = MUG
+				has_government_attribute = enable_mansabdar_privileges
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_l
+		trigger = {
+			OR = {
+				religion = nahuatl
+				tag = MIR
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_li
+		trigger = {
+			OR = {
+				culture_group = japanese_g
+				has_reform = prussian_republic_reform
+				has_reform = prussian_monarchy_base
+				has_reform = prussian_monarchy
+				tag = GER
+				tag = USA
+				AND = {
+					religion_group = muslim
+					NOT = { technology_group = ottoman }
+				}
+				AND = {
+					tag = KOR
+					religion = confucianism
+				}
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_l
+		trigger = {
+			primary_culture = maori
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_end_li
+		trigger = {
+			OR = {
+				AND = {
+					OR = {
+						capital_scope = {
+							area = northern_polynesia_area
+						}
+						tag = SAM
+						tag = TOG
+					}
+					primary_culture = polynesian
+				}
+				tag = LAI
+				tag = VIL
+				tag = VNL
+			}
+			religion = animism
+		}
+	}
+	text = {
+		localisation_key = string_end_li
+		trigger = {
+			OR = {
+				government = native
+				has_reform = siberian_tribe
+				has_reform = native_basic_reform
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_li
+		trigger = {
+			tag = KON
+		}
+	}
+	text = {
+		localisation_key = string_end_lo
+	}
+}
+
+defined_text = {
+	name = GetBurghersName_PastEnd2
+	random = no
+	text = {
+		localisation_key = string_end_li
+		trigger = {
+			tag = BYZ
+			culture_group = byzantine
+		}
+	}
+	text = {
+		localisation_key = string_end_li
+		trigger = {
+			has_government_attribute = is_pirate_republic_reform
+		}
+	}
+	text = {
+		localisation_key = string_end_lo
+		trigger = {
+			culture_group = french
+		}
+	}
+	text = {
+		localisation_key = string_end_l
+		trigger = {
+			culture_group = east_asian
+		}
+	}
+	text = {
+		localisation_key = string_end_li
+		trigger = {
+			religion = nahuatl
+		}
+	}
+	text = {
+		localisation_key = string_end_ly
+		trigger = {
+			OR = {
+				religion_group = muslim
+				religion_group = eastern
+				religion_group = dharmic
+				religion_group = pagan
+				religion_group = jewish_group
+				religion_group = zoroastrian_group
+			}
+		}
+	}
+	text = {
+		localisation_key = string_end_lo
+	}
+}
+
+defined_text = {
+	name = GetMarathasOrRajputsOrNoblesName_CL
+	random = no
+	text = {
+		localisation_key = string_estate_nobles_name_CL
 		trigger = {
 			has_estate = estate_nobles
 		}
 	}
 	text = {
-		localisation_key = string_gen_estate_rajput
+		localisation_key = string_estate_rajputs_name_CL
 		trigger = {
 			has_estate = estate_rajput
 			NOT = { has_estate = estate_nobles }
 		}
 	}
 	text = {
-		localisation_key = string_gen_estate_maratha
+		localisation_key = string_estate_marathas_name_CL
+		trigger = {
+			has_estate = estate_maratha
+			NOT = { has_estate = estate_nobles }
+		}
+	}
+}
+
+defined_text = {
+	name = GetMarathasOrRajputsOrNoblesName_gen
+	random = no
+	text = {
+		localisation_key = string_estate_nobles_name_gen
+		trigger = {
+			has_estate = estate_nobles
+		}
+	}
+	text = {
+		localisation_key = string_estate_rajputs_name_gen
+		trigger = {
+			has_estate = estate_rajput
+			NOT = { has_estate = estate_nobles }
+		}
+	}
+	text = {
+		localisation_key = string_estate_marathas_name_gen
 		trigger = {
 			has_estate = estate_maratha
 			NOT = { has_estate = estate_nobles }
@@ -9884,20 +10269,20 @@ defined_text = {
 	name = GetMarathasOrRajputsOrNoblesName_dat
 	random = no
 	text = {
-		localisation_key = string_dat_estate_nobles
+		localisation_key = string_estate_nobles_name_dat
 		trigger = {
 			has_estate = estate_nobles
 		}
 	}
 	text = {
-		localisation_key = string_dat_estate_rajput
+		localisation_key = string_estate_rajputs_name_dat
 		trigger = {
 			has_estate = estate_rajput
 			NOT = { has_estate = estate_nobles }
 		}
 	}
 	text = {
-		localisation_key = string_dat_estate_maratha
+		localisation_key = string_estate_marathas_name_dat
 		trigger = {
 			has_estate = estate_maratha
 			NOT = { has_estate = estate_nobles }
@@ -9906,16 +10291,16 @@ defined_text = {
 }
 
 defined_text = {
-	name = GetMarathasOrRajputsOrNoblesName_EjYm
+	name = GetMarathasOrRajputsOrNoblesName_AdjEndS
 	random = no
 	text = {
-		localisation_key = string_end_ej
+		localisation_key = string_estate_nobles_name_AdjEndS
 		trigger = {
 			has_estate = estate_nobles
 		}
 	}
 	text = {
-		localisation_key = string_end_alm
+		localisation_key = string_end_i
 		trigger = {
 			OR = {
 				has_estate = estate_maratha
@@ -9930,7 +10315,7 @@ defined_text = {
 	name = GetMarathasOrRajputsOrNoblesName_NounJa
 	random = no
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_estate_nobles_name_NounJa
 		trigger = {
 			has_estate = estate_nobles
 		}
@@ -9951,7 +10336,7 @@ defined_text = {
 	name = GetMarathasOrRajputsOrNoblesName_Whose
 	random = no
 	text = {
-		localisation_key = string_end_jej
+		localisation_key = string_estate_nobles_name_Whose
 		trigger = {
 			has_estate = estate_nobles
 		}
@@ -9969,16 +10354,16 @@ defined_text = {
 }
 
 defined_text = {
-	name = GetMarathasOrRajputsOrNoblesName_AI
+	name = GetMarathasOrRajputsOrNoblesName_IA
 	random = no
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_estate_nobles_name_IA
 		trigger = {
 			has_estate = estate_nobles
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_end_apl
 		trigger = {
 			OR = {
 				has_estate = estate_maratha
@@ -9990,37 +10375,16 @@ defined_text = {
 }
 
 defined_text = {
-	name = GetMarathasOrRajputsOrNoblesName_JejIm
+	name = GetMarathasOrRajputsOrNoblesName_PastEnd2
 	random = no
 	text = {
-		localisation_key = string_end_jej
+		localisation_key = string_estate_nobles_name_PastEnd2
 		trigger = {
 			has_estate = estate_nobles
 		}
 	}
 	text = {
-		localisation_key = string_end_im
-		trigger = {
-			OR = {
-				has_estate = estate_maratha
-				has_estate = estate_rajput
-			}
-			NOT = { has_estate = estate_nobles }
-		}
-	}
-}
-
-defined_text = {
-	name = GetMarathasOrRajputsOrNoblesName_JaIch
-	random = no
-	text = {
-		localisation_key = string_end_japl
-		trigger = {
-			has_estate = estate_nobles
-		}
-	}
-	text = {
-		localisation_key = string_end_ich
+		localisation_key = string_end_li
 		trigger = {
 			OR = {
 				has_estate = estate_maratha
@@ -10036,7 +10400,7 @@ defined_text = {
 	random = no
 	
 	text = {
-		localisation_key = string_country_estate_nobles_name_ins
+		localisation_key = string_estate_nobles_name_ins
 		trigger = {
 			has_estate = estate_nobles
 		}
@@ -10055,7 +10419,7 @@ defined_text = {
 	random = no
 	
 	text = {
-		localisation_key = string_country_estate_nobles_name_CL
+		localisation_key = string_estate_nobles_name_CL
 		trigger = {
 			has_estate = estate_nobles
 		}
@@ -10074,7 +10438,7 @@ defined_text = {
 	random = no
 	
 	text = {
-		localisation_key = string_country_estate_nobles_name_CL_Cap
+		localisation_key = string_estate_nobles_name_CL_Cap
 		trigger = {
 			has_estate = estate_nobles
 		}
@@ -10093,7 +10457,7 @@ defined_text = {
 	random = no
 	
 	text = {
-		localisation_key = string_country_estate_nobles_name_gen
+		localisation_key = string_estate_nobles_name_gen
 		trigger = {
 			has_estate = estate_nobles
 		}
@@ -10112,7 +10476,7 @@ defined_text = {
 	random = no
 	
 	text = {
-		localisation_key = string_country_estate_nobles_name_BE
+		localisation_key = string_estate_nobles_name_BE
 		trigger = {
 			has_estate = estate_nobles
 		}
@@ -10131,7 +10495,7 @@ defined_text = {
 	random = no
 	
 	text = {
-		localisation_key = string_country_estate_nobles_name_AdjEndS
+		localisation_key = string_estate_nobles_name_AdjEndS
 		trigger = {
 			has_estate = estate_nobles
 		}
@@ -10150,7 +10514,7 @@ defined_text = {
 	random = no
 	
 	text = {
-		localisation_key = string_country_estate_nobles_name_EA
+		localisation_key = string_estate_nobles_name_EA
 		trigger = {
 			has_estate = estate_nobles
 		}
@@ -10169,7 +10533,7 @@ defined_text = {
 	random = no
 	
 	text = {
-		localisation_key = string_country_estate_nobles_name_NounJa
+		localisation_key = string_estate_nobles_name_NounJa
 		trigger = {
 			has_estate = estate_nobles
 		}
@@ -10184,11 +10548,30 @@ defined_text = {
 }
 
 defined_text = {
+	name = GetNobilityOrFallbackName_Whose
+	random = no
+	
+	text = {
+		localisation_key = string_estate_nobles_name_Whose
+		trigger = {
+			has_estate = estate_nobles
+		}
+	}
+	
+	text = {
+		localisation_key = string_end_ich
+		trigger = {
+			NOT = { has_estate = estate_nobles }
+		}
+	}
+}
+
+defined_text = {
 	name = GetChurchOrFallbackName_dat
 	random = no
 	
 	text = {
-		localisation_key = string_country_estate_church_name_dat
+		localisation_key = string_estate_church_name_dat
 		trigger = {
 			has_estate = estate_church
 		}
@@ -10234,7 +10617,7 @@ defined_text = {
 	random = no
 	
 	text = {
-		localisation_key = string_country_estate_burghers_name_CL
+		localisation_key = string_estate_burghers_name_CL
 		trigger = {
 			has_estate = estate_burghers
 		}
@@ -10253,7 +10636,7 @@ defined_text = {
 	random = no
 	
 	text = {
-		localisation_key = string_country_estate_burghers_name_CL_Cap
+		localisation_key = string_estate_burghers_name_CL_Cap
 		trigger = {
 			has_estate = estate_burghers
 		}
@@ -10272,7 +10655,7 @@ defined_text = {
 	random = no
 	
 	text = {
-		localisation_key = string_country_estate_burghers_name_gen
+		localisation_key = string_estate_burghers_name_gen
 		trigger = {
 			has_estate = estate_burghers
 		}
@@ -10291,7 +10674,7 @@ defined_text = {
 	random = no
 	
 	text = {
-		localisation_key = string_country_estate_burghers_name_EA
+		localisation_key = string_estate_burghers_name_EA
 		trigger = {
 			has_estate = estate_burghers
 		}
@@ -10310,7 +10693,7 @@ defined_text = {
 	random = no
 	
 	text = {
-		localisation_key = string_country_estate_burghers_name_IA
+		localisation_key = string_estate_burghers_name_IA
 		trigger = {
 			has_estate = estate_burghers
 		}
@@ -10329,7 +10712,7 @@ defined_text = {
 	random = no
 	
 	text = {
-		localisation_key = string_country_estate_burghers_name_NounJa
+		localisation_key = string_estate_burghers_name_NounJa
 		trigger = {
 			has_estate = estate_burghers
 		}

@@ -7059,7 +7059,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_MEPE
+		localisation_key = string_MEPE_fem
 		trigger = {
 			government_rank = 2
 			OR = {
@@ -8626,7 +8626,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_MTAVARI
+		localisation_key = string_MTAVARI_fem
 		trigger = {
 			OR = {
 				primary_culture = georgian

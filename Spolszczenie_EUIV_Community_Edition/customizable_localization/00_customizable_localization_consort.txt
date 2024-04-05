@@ -4317,7 +4317,7 @@ defined_text = {
 		}
 	}
 	text={
-		localisation_key = string_MTAVARI
+		localisation_key = string_MTAVARI_fem
 		trigger = {
 			OR = {
 				primary_culture = georgian

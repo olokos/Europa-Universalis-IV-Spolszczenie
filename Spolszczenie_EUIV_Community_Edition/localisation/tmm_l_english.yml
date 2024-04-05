@@ -1565,7 +1565,7 @@
  IN_ENEMY_TERRITORY:0 "The unit is in enemy territory."
  CONDOTTIERI_ALREADY_HAS_LEADER:0 "The Condottieri unit already has a leader."
  NO_TARGETS_TO_ATTACH_TO:0 "Brak jednostek do do³¹czenia."
- UPGRADE_SHIPS_DESC:0 "Upgrade your ships to the latest designs.\nUpgraded ships will be reduced to 1% strength and their sailors returned to your sailor pool."
+ UPGRADE_SHIPS_DESC:0 "Ulepsz swoje statki do najnowszej wersji.\nSi³a ulepszonych statków zostanie zredukowana do 1% wytrzyma³oœci, a ich marynarze powróc¹ do puli marynarzy."
  TOOLTIP_TOGGLE_GO_HOME_WAR_NAME:0 "§YGo to port during war§!"
  CANNOT_CONSOLIDATE_FULL_STRENGTH:0 "Wszystkie armie s¹ w pe³ni si³."
  REORGANIZE_WRONG_NUMBER_OF_UNITS:0 "You need to select two armies."
