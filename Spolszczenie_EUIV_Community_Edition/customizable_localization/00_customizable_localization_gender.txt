@@ -461,6 +461,57 @@ defined_text = {
 	}
 }
 
+defined_text = {
+	name = GetAdv_Adm_AI
+	random = no
+	text = {
+		localisation_key = string_end_a
+		trigger = {
+			employed_advisor = { category = ADM is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_end_i
+		trigger = {
+			employed_advisor = { category = ADM is_male = yes }
+		}
+	}
+}
+
+defined_text = {
+	name = GetAdv_Dip_AI
+	random = no
+	text = {
+		localisation_key = string_end_a
+		trigger = {
+			employed_advisor = { category = DIP is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_end_i
+		trigger = {
+			employed_advisor = { category = DIP is_male = yes }
+		}
+	}
+}
+
+defined_text = {
+	name = GetAdv_Mil_AI
+	random = no
+	text = {
+		localisation_key = string_end_a
+		trigger = {
+			employed_advisor = { category = MIL is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_end_i
+		trigger = {
+			employed_advisor = { category = MIL is_male = yes }
+		}
+	}
+}
+
 #jemu/jej
 
 defined_text = {
