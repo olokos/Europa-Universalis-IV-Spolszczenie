@@ -13,7 +13,7 @@
  papacy_events.4.d: "Z uwagi na wybitność szwajcarskich najemników i duże zapotrzebowanie ze strony innych państw, Szwajcaria odrzuciła naszą umowę i odmówiła wysłania nam jednostek do obrony."
  papacy_events.4.a: "Ale... potrzebujemy ich!"
  papacy_events.5.t: "Passetto di Borgo"
- papacy_events.5.d: "Rzym jest stracony! Wróg zbliża się, aby aresztować [Root.GetRulerGen]. [Root.Monarch.GetName] może uciec z pomocą Passetto di Borgo, przejścia, które łączy Pałac Apostolski z Zamkiem Świętego Anioła. Wielu papieży używało tego przejścia jako drogi ucieczki i teraz [Root.Monarch.GetName] musi rozważyć, czy uciec z miasta."
+ papacy_events.5.d: "Rzym jest stracony! Wróg zbliża się, aby aresztować [Root.Monarch.GetRulerGen]. [Root.Monarch.GetName] może uciec z pomocą Passetto di Borgo, przejścia, które łączy Pałac Apostolski z Zamkiem Świętego Anioła. Wielu papieży używało tego przejścia jako drogi ucieczki i teraz [Root.Monarch.GetName] musi rozważyć, czy uciec z miasta."
  papacy_events.5.a: "Ucieknij przez przejście!"
  papacy_events.5.b: "Papież nie opuści Rzymu."
  papacy_events.6.t: "Kardynał-nepot"

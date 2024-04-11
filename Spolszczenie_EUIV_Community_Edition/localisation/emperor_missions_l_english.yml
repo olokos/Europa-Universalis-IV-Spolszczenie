@@ -712,7 +712,7 @@
  BUR_HRE_nostring:0 ""
  new_flavour_bur.4.A:0 "We shall take up Lothair's Mantle."
  new_flavour_bur.4.B:0 "We must forge our own destiny."
- new_flavour_bur.5.name:0 "Dwór [Root.GetRulerGen]"
+ new_flavour_bur.5.name:0 "Dwór [Root.Monarch.GetRulerGen]"
  new_flavour_bur.5.desc:0 "All gaze on in wonder at the splendor of [Root.Monarch.GetTitle] [Root.Monarch.GetName]'s court, which is widely seen as the most lavish in Europe - the European capital of good taste, fashion and chivalry. [Root.Monarch.GetName] has patronized all the fine arts, commissioning tapestries, playing host to the Burgundian School of composers, collecting a considerable number of manuscripts, and hosting many talented painters. [Root.Monarch.GetHerHisCap] court is also host to the Order of the Golden Fleece, and many a jousting tournament has been held in [Root.Monarch.GetHerHis] lands."
  new_flavour_bur.5.A:0 "Long may it continue!"
  new_flavour_bur.6.name:0 "Liga Dobra Publicznego"

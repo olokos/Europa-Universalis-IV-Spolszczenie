@@ -13,7 +13,7 @@
  papacy_events.4.d:0 "Z uwagi na wybitnoœ¾ szwajcarskich najemników i du¿e zapotrzebowanie ze strony innych paªstw, Szwajcaria odrzuci³a nasz¹ umow² i odmówi³a wys³ania nam jednostek do obrony."
  papacy_events.4.a:0 "Ale... potrzebujemy ich!"
  papacy_events.5.t:0 "Passetto di Borgo"
- papacy_events.5.d:0 "Rzym jest stracony! Wróg zbli¿a si², aby aresztowa¾ [Root.GetRulerGen]. [Root.Monarch.GetName] mo¿e uciec z pomoc¹ Passetto di Borgo, przejœcia, które ³¹czy Pa³ac Apostolski z Zamkiem Œwi²tego Anio³a. Wielu papie¿y u¿ywa³o tego przejœcia jako drogi ucieczki i teraz [Root.Monarch.GetName] musi rozwa¿y¾, czy uciec z miasta."
+ papacy_events.5.d:0 "Rzym jest stracony! Wróg zbli¿a si², aby aresztowa¾ [Root.Monarch.GetRulerGen]. [Root.Monarch.GetName] mo¿e uciec z pomoc¹ Passetto di Borgo, przejœcia, które ³¹czy Pa³ac Apostolski z Zamkiem Œwi²tego Anio³a. Wielu papie¿y u¿ywa³o tego przejœcia jako drogi ucieczki i teraz [Root.Monarch.GetName] musi rozwa¿y¾, czy uciec z miasta."
  papacy_events.5.a:0 "Ucieknij przez przejœcie!"
  papacy_events.5.b:0 "Papie¿ nie opuœci Rzymu."
  papacy_events.6.t:0 "Kardyna³-nepot"

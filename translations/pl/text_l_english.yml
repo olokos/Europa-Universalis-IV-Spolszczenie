@@ -4150,7 +4150,7 @@
  HAVE_ARMY_TRADITION_UNDER: "Posiada tradycję wojskową poniżej "
  HAVE_ARMY_TRADITION_OVER: "Posiada tradycję wojskową wynoszącą co najmniej "
  HAVE_NAVAL_TRADITION_UNDER: "Posiada Tradycję Morską poniżej"
- HAVE_NAVAL_TRADITION_OVER: "Posiada Tradycję Morską wynoszącą co najmniej"
+ HAVE_NAVAL_TRADITION_OVER: "Posiada Tradycję Morską wynoszącą co najmniej "
  HAVE_TRADE_EFFICIENCY_UNDER: "Posiada Wydajność handlu poniżej"
  HAVE_TRADE_EFFICIENCY_OVER: "Posiada Wydajność handlu powyżej"
  HAVE_PRODUCTION_EFFICIENCY_UNDER: "Posiada Wydajność produkcji poniżej"

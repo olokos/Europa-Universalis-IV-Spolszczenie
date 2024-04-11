@@ -1594,7 +1594,7 @@
  monument_events.1.d: "Budowa naszego monumentu w prowincji [monument_province.GetName] została wreszcie ukończona! Ludzie z całego kraju gromadzą się przed jego imponującą sylwetką jak zaciekawione dzieci. Zdumieni tym cudem, cieszą się z przynależności do [Root.GetAdjective]."
  monument_events.1.a: "Dziś jest dzień do świętowania."
  monument_events.2.t: "Pomocna dłoń"
- monument_events.2.d: "Jeden z naszych najbardziej znanych i szanowanych kamieniarzy zwrócił się dziś rano do [Root.GetRulerGen], wyrażając swoje zaniepokojenie stanem pomnika w mieście [monument_province_2.GetName]. 'Serce mi pęka, gdy widzę tak piękną konstrukcję beztrosko porzuconą, pozostawioną samą sobie w obliczu niebezpieczeństw czasu i pogody. Błagam cię, pozwól mi pomóc w jej odbudowie'."
+ monument_events.2.d: "Jeden z naszych najbardziej znanych i szanowanych kamieniarzy zwrócił się dziś rano do [Root.Monarch.GetRulerGen], wyrażając swoje zaniepokojenie stanem pomnika w mieście [monument_province_2.GetName]. 'Serce mi pęka, gdy widzę tak piękną konstrukcję beztrosko porzuconą, pozostawioną samą sobie w obliczu niebezpieczeństw czasu i pogody. Błagam cię, pozwól mi pomóc w jej odbudowie'."
  monument_events.2.a: "Powinniśmy go natychmiast zatrudnić."
  monument_events.2.b: "Nie mamy na to czasu."
  monumental_pride: "Monumentalna duma"
