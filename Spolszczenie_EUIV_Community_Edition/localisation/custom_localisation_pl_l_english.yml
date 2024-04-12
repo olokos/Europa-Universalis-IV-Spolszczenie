@@ -603,3 +603,7 @@
  string_ceramics_gen:0 "ceramiki"
  string_slave_gen:0 "niewolników"
  string_natural_dyes_gen:0 "#naturalncyh barwników"
+ string_personality_events_48_fem:0 "swoj¹ ulubion¹ kochank², znan¹ oszustk²"
+ string_personality_events_48:0 "swojego ulubionego kochanka, znanego oszusta"
+ string_personality_events_48_tooltip_fem:0 "kochank²"
+ string_personality_events_48_tooltip:0 "kochanka"
