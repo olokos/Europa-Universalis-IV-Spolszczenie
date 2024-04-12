@@ -44,7 +44,7 @@ defined_text = {
 	}
 }
 
-## jej/jemu
+## jej/mu
 defined_text = {
 	name = GetHerHim_dat
 	random = no
@@ -55,7 +55,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_jemu
+		localisation_key = string_end_mu
 	}
 }
 
@@ -284,6 +284,21 @@ defined_text = {
 	}
 }
 
+## kobiety/mężczyzny
+defined_text = {
+	name = GetWomanMan_gen
+	random = no
+	text = {
+		localisation_key = string_word_woman_gen
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_word_man_gen
+	}
+}
+
 ## ej/ego
 defined_text = {
 	name = GetEjEgo
@@ -346,16 +361,46 @@ defined_text = {
 
 ## ką/em
 defined_text = {
-	name = GetKaEm
+	name = GetKaNoun
 	random = no
 	text = {
-		localisation_key = string_end_kapl
+		localisation_key = string_end_ka
 		trigger = {
 			is_female = yes
 		}
 	}
 	text = {
-		localisation_key = string_end_em
+		localisation_key = string_end_empty
+	}
+}
+
+## ki/a
+defined_text = {
+	name = GetKaNoun
+	random = no
+	text = {
+		localisation_key = string_end_ki
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_end_a
+	}
+}
+
+## cz/-
+defined_text = {
+	name = GetKaNoun
+	random = no
+	text = {
+		localisation_key = string_end_cz
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_end_empty
 	}
 }
 
@@ -524,7 +569,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_jemu
+		localisation_key = string_end_mu
 		trigger = {
 			employed_advisor = { category = ADM is_male = yes }
 		}
@@ -541,7 +586,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_jemu
+		localisation_key = string_end_mu
 		trigger = {
 			employed_advisor = { category = DIP is_male = yes }
 		}
@@ -558,7 +603,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_jemu
+		localisation_key = string_end_mu
 		trigger = {
 			employed_advisor = { category = MIL is_male = yes }
 		}
@@ -973,15 +1018,85 @@ defined_text = {
 	name = GetAdv_Mil_ZyniA
 	random = no
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_end_zyni
 		trigger = {
 			employed_advisor = { category = MIL is_female = yes }
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_end_a
 		trigger = {
 			employed_advisor = { category = MIL is_male = yes }
+		}
+	}
+}
+
+defined_text = {
+	name = GetPersonalityEvents48
+	random = no
+	text = {
+		localisation_key = string_personality_events_48_fem
+		trigger = {
+			OR = {
+				AND = { 
+					is_female = no
+					NOT = { has_country_flag = homosexual_ruler }
+				}
+				AND = {
+					is_female = yes
+					has_country_flag = homosexual_ruler
+				} 
+			}
+		}
+	}
+	text = {
+		localisation_key = string_personality_events_48
+		trigger = { 
+			OR = {
+				AND = { 
+					is_female = yes
+					NOT = { has_country_flag = homosexual_ruler }
+				}
+				AND = {
+					is_female = no
+					has_country_flag = homosexual_ruler
+				} 
+			}
+		}
+	}
+}
+
+defined_text = {
+	name = GetPersonalityEvents48_tooltip
+	random = no
+	text = {
+		localisation_key = string_personality_events_48_tooltip_fem
+		trigger = {
+			OR = {
+				AND = { 
+					is_female = no
+					NOT = { has_country_flag = homosexual_ruler }
+				}
+				AND = {
+					is_female = yes
+					has_country_flag = homosexual_ruler
+				} 
+			}
+		}
+	}
+	text = {
+		localisation_key = string_personality_events_tooltip_48
+		trigger = { 
+			OR = {
+				AND = { 
+					is_female = yes
+					NOT = { has_country_flag = homosexual_ruler }
+				}
+				AND = {
+					is_female = no
+					has_country_flag = homosexual_ruler
+				} 
+			}
 		}
 	}
 }

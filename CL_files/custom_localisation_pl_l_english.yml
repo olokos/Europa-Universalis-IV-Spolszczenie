@@ -663,3 +663,9 @@
  string_cocoa_gen: "kakao" #kakao
  string_coffee_gen: "kawy" #kawa
  string_sugar_gen: "cukru" #cukier
+ ## dla tekstu personality_events.48
+ string_personality_events_48_fem: "swoją ulubioną kochankę, znaną oszustkę"
+ string_personality_events_48: "swojego ulubionego kochanka, znanego oszusta"
+ ## dla tekstu personality_events.48.tooltip
+ string_personality_events_48_tooltip_fem: "kochankę"
+ string_personality_events_48_tooltip: "kochanka"
