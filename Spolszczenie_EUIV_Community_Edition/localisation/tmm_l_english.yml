@@ -1710,7 +1710,7 @@
  HRE_DESIRE_GENERAL_INERTIA:0 "Base: "
  HRE_DESIRE_NEED_PROTECTION:0 "Need protecting from $COUNTRY$: "
  HRE_DESIRE_DOESNT_NEED_THE_PROTECTION:0 "Doesn't need protecting from their main threat ($COUNTRY$): "
- MODIFIER_ALL_ESTATE_INFLUENCE_MODIFIER:0 "All Estates Influence Modifier"
+ MODIFIER_ALL_ESTATE_INFLUENCE_MODIFIER:0 "Modyfikator wp³ywu dla wszystkich klas"
  MODIFIER_MAX_HOSTILE_ATTRITION:0 "Max Hostile Attrition"
  MODIFIER_MORALE_DAMAGE:0 "Obra¿enia morale"
  MODIFIER_DEVELOPMENT_COST_MODIFIER:0 "Modyfikator kosztu rozwoju"

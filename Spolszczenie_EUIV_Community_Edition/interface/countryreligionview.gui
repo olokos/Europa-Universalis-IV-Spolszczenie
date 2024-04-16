@@ -2623,7 +2623,7 @@ guiTypes = {
 				name ="aspect_listbox"
 				position = { x=56 y = -53}
 				backGround=""
-				size = { x=398 y =280}
+				size = { x=418 y =280} # x=398 y =280
 				Orientation = "UPPER_LEFT"
 				horizontal = 0
 				spacing = 1
@@ -2974,28 +2974,29 @@ guiTypes = {
 		{
 			name ="aspect_icon"
 			spriteType = "GFX_hindu_deities_strip"
-			position = { x= 45 y = -14 }
+			position = { x= 27 y = -10 } # x= 45 y = -14
+			scale = 0.90 # nic
 		}
 		
 		instantTextBoxType = {
 			name = "aspect_name"
-			position = { x= -42 y = 6 }
+			position = { x = -42 y = 6 } # x= -42 y = 6
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
 			text = "AspectName"	
-			maxWidth = 102
+			maxWidth = 82 # 102
 			maxHeight = 24
-			Orientation = "UPPER_LEFT"
+			Orientation = "UPPER_LEFT" #UPPER_LEFT
 			format = left
 		}
 		
 		instantTextBoxType = {
 			name = "aspect_effect"
-			position = { x = 98 y = -2 }
+			position = { x = 77 y = -2 } # x = 98 y = -2
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
 			text = "AspectEffect"	
-			maxWidth = 206
+			maxWidth = 255 # 206
 			maxHeight = 24
 			Orientation = "UPPER_LEFT"
 			format = left
@@ -3003,7 +3004,7 @@ guiTypes = {
 		
 		guiButtonType = {
 			name = "pick_aspect"
-			position = { x=301 y = 1}
+			position = { x=331 y = 1} # x=301 y = 1
 			quadTextureSprite ="GFX_standard_button_71"
 			buttonText = "SELECT"
 			buttonFont = "vic_18"

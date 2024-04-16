@@ -150,7 +150,7 @@
  anglican_reformation_diplomacy: "Dyplomacja anglikańska"
  icons_of_the_church_aspect: "§YZmilitaryzuj ikony religijne§!"
  desc_icons_of_the_church_aspect: "Religia nie tylko odgrywa dużą rolę w naszym społeczeństwie, ale także w naszym wojsku. Morale naszej armii może wzrosnąć, jeśli pozwoli się jej używać ikon Kościoła podczas kampanii."
- icons_of_the_church_aspect_tt: "Zwiększa morale armii lądowej o §G10.0%§! i zmniejsza obrażenia otrzymane od natarcia o §G-10.0%§! przez §Y15 lat."
+ icons_of_the_church_aspect_tt: "Zwiększa morale armii lądowej o §G10.0%§! i zmniejsza obrażenia otrzymywane od natarcia o §G-10.0%§! przez §Y15 lat."
  anglican_militarized_church_aspect: "Ikony religijne dla armii"
  desc_anglican_militarized_church_aspect: "Nasze armie wykorzystują podczas kampanii religijne, anglikańskie ikony, podnosząc swoje morale i jak niektórzy zakładają, szczęście."
  anglican_events.1.t: "Pokazanie Królewskiej Armii"
