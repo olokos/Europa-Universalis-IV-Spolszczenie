@@ -376,7 +376,7 @@ defined_text = {
 
 ## ki/a
 defined_text = {
-	name = GetKaNoun
+	name = GetKiA
 	random = no
 	text = {
 		localisation_key = string_end_ki
@@ -391,7 +391,7 @@ defined_text = {
 
 ## cz/-
 defined_text = {
-	name = GetKaNoun
+	name = GetCzNoun
 	random = no
 	text = {
 		localisation_key = string_end_cz
@@ -401,6 +401,36 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_end_empty
+	}
+}
+
+## k/-
+defined_text = {
+	name = GetKNoun
+	random = no
+	text = {
+		localisation_key = string_end_k
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_end_empty
+	}
+}
+
+## ę/a
+defined_text = {
+	name = GetEA
+	random = no
+	text = {
+		localisation_key = string_end_epl
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_end_a
 	}
 }
 

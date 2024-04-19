@@ -506,8 +506,11 @@
  string_gold_gen_Cap: "złota" #Złoto
  string_cloves_gen_Cap: "goździków" #Goździki
  ## GetRulerTitleOrRegencyGen
- string_rule_title_gen: "[This.GetRulerGen]"
+ string_rule_title_gen: "[This.Monarch.GetRulerGen]"
  string_regency_council_gen: "Rady regencyjnej" #Rada regencyjna
+ ## GetRulerTitleOrRegency_EndPast
+ string_rule_title_EndPast: "[This.Monarch.GetEndPast]"
+ string_regency_council_EndPast: "ęła" #Rada regencyjna
  ## GetLowLevelOfficialForCountry_acc
  string_mandarin_acc: "Mandaryna" # Mandaryn
  string_zamindar_acc: "Zamindara" # Zamindar
@@ -526,6 +529,9 @@
  ## GetNoblesReplacementForOtherGovernments_gen
  string_nobility_gen: "Szlachty" #Szlachta
  string_families_gen: "Wpływowych rodzin" #Wpływowe Rodziny
+ ## GetNoblesReplacementForOtherGovernments_ins
+ string_nobility_ins: "szlachcie" #Szlachta
+ string_families_ins: "wpływowym rodzinom" #Wpływowe Rodziny
  ## dla klas społecznych
  string_estate_nobles_name_CL: "[This.GetNobilityName_CL]"
  string_estate_nobles_name_CL_Cap: "[This.GetNobilityName_CL_Cap]"

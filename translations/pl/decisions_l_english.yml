@@ -151,7 +151,7 @@
  tooltip_about_timurid_empire: "To stworzy nam możliwość utworzenia Imperium Timurydów."
  adopt_mamluk_government_title: "Wprowadź mamelucki system rządów"
  adopt_mamluk_government_desc: "Mamelucy nadal są ważnym graczem w regionie. Moglibyśmy otrzymać ich wsparcie zapraszając tych zaprawionych, niewolniczych wojowników do uczestniczenia w sprawowaniu u nas władzy."
- conversion_of_convenience_title: "Czy to czas, aby [Root.Monarch.GetTitle] zmienił[Root.Monarch.GetANoun] wiarę na [Root.Religion.GetName]?"
+ conversion_of_convenience_title: "Czas, aby [Root.Monarch.GetTitle] zmienił[Root.Monarch.GetANoun] wiarę na [Root.Religion.GetName]?"
  conversion_of_convenience_desc: "Fakt, iż [Root.Monarch.GetName] [Root.Monarch.GetHerselfHimself] nie czci państwowej religii, jest strzałem w serce dla tych, którzy walczyli za dusze i umysły ludu [Root.GetAdjective]. Być może nadszedł czas, aby [Root.Monarch.GetName] pozwolił[Root.Monarch.GetANoun], by dobro [Root.Monarch.GetHerHis] ludzi stanęło przed osobistymi sprawami wiary?"
  reform_into_iqta_title: "Wprowadź islamski System Rządów"
  reform_into_iqta_desc: "Panowanie i zarządzanie mogą być wieloma rzeczami, a tradycje, na których polegamy, znajdują się poza głównym nurtem świata islamskiego. Przyjmując system Ikta, możemy bezpośrednio egzekwować naszą władzę nad ziemiami, a prawa do dochodów przyznawane są wyłącznie zaufanym Emirom."

@@ -3036,7 +3036,7 @@
  EVTNAME9522:0 "Kakao"
  EVTDESC9522:0 "Nasi koloniœci informuj¹, ¿e prowincja $PROVINCENAME$ doskonale nadaje si² do uprawy kakao. Jak nigdzie indziej, klimat i ¿yzne ziemie sprzyjaj¹ tego rodzaju uprawom."
  EVTOPTA9522:0 "To dobra wiadomoœ¾"
- EVTNAME610:0 "Integracja ziem kraju $FROMCOUNTRY$"
+ EVTNAME610:0 "Integracja [From.GetAdjective]"
  EVTDESC610:0 "Gdy ma³y kraj rezygnuje z niezale¿noœci i przy³¹cza si² do wi²kszego paªstwa, potrzeba wiele wysi³ku, by doprowadzi¾ do pe³nego zjednoczenia. Szczególn¹ uwag² trzeba poœwi²ci¾ rozbudowie administracji, by swoj¹ kontrol¹ obj²³a nowe terytoria."
  EVTOPTB610A:0 "Integracja to powolny proces."
  EVTNAME9550:0 "Priorytet dla handlu"

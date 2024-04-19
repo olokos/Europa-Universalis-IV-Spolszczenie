@@ -636,7 +636,7 @@
  NO_CARPET_SIEGE_MOVING: "§RPodczas ruchu nie można zmieniać autonomicznego oblężenia§!\n"
  CURRENT_REFORM: "§YTo jest wybrana przez ciebie reforma na tym poziomie.§!"
  REFORM_LEVEL_TITLE: "Poziom $LEVEL$: $NAME|Y$"
- GOVERNMENT_ABILITIES: "Włącza $ABILITY$ umiejętność."
+ GOVERNMENT_ABILITIES: "Włącza umiejętność $ABILITY$."
  CHARTER_TRUST: "Zaufanie:"
  CHARTER_THREAT: "Wrażenie zagrożenia:"
  CHARTER_MONEY: "Oferowane pieniądze:"

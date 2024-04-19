@@ -98,7 +98,25 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_regency_council_2
+		localisation_key = string_regency_council_gen
+		trigger = {
+			has_regency = yes
+		}
+	}
+}
+
+defined_text = {
+	name = GetRulerTitleOrRegency_EndPast
+	random = no
+
+	text = {
+		localisation_key = string_rule_title_EndPast
+		trigger = {
+			has_regency = no
+		}
+	}
+	text = {
+		localisation_key = string_regency_council_EndPast
 		trigger = {
 			has_regency = yes
 		}
@@ -281,6 +299,23 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_families_gen
+		trigger = {
+			government = republic
+		}
+	}
+}
+
+defined_text = {
+	name = GetNoblesReplacementForOtherGovernments_ins
+
+	text = {
+		localisation_key = string_nobility_ins
+		trigger = {
+			NOT = { government = republic }
+		}
+	}
+	text = {
+		localisation_key = string_families_ins
 		trigger = {
 			government = republic
 		}
