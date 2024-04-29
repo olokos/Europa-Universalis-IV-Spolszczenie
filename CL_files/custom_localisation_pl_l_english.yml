@@ -675,3 +675,14 @@
  ## dla tekstu personality_events.48.tooltip
  string_personality_events_48_tooltip_fem: "kochankę"
  string_personality_events_48_tooltip: "kochanka"
+ ## GetManufactoriesRuleBritannia_gen
+ only_manufactories_gen: "manufaktur" #manufaktury
+ manufactories_and_industrialization_gen: "manufaktur§! i §Yuprzemysłowienia" #manufaktury§! i §Yuprzemysłowienie
+ ## GetOldEra_adj
+ string_song_era_adj: "songijskich" #Songijski
+ string_goguryeo_era_adj: "goguryeoskich" #Goguryeoski
+ string_middle_ages_adj: "średniowiecznych" #Średniowieczny
+ string_classical_adj: "klasycznych" #Klasyczny
+ string_pre_islamic_adj: "przedislamskich" #Przedislamski
+ string_vedic_adj: "wedyjskich" #Wedyjski
+ string_ancient_era_adj: "starożytnych" #Starożytny

@@ -420,7 +420,7 @@
  TRADE_POWER_EFFICIENCY: "Wydajność siły handlu"
  OUTLINER_DIPLOMAT_DELAYED: "§GKliknij PPM, by odwołać dyplomatę.§!"
  OUTLINER_AUTODIPLOMAT_CHECKDATES: "Ostatnio sprawdzone pod kątem celów $LASTDATE|Y$. Kolejne sprawdzenie będzie miało miejsce $NEXTDATE|Y$."
- OUTLINER_AUTODIPLOMAT_INSTANT: "Ten dyplomata automatycznie poprawia stosunki z władcą $RULENAME|Y$."
+ OUTLINER_AUTODIPLOMAT_INSTANT: "Ten dyplomata automatycznie poprawia stosunki z władcami $RULENAME|Y$."
  OUTLINER_AUTODIPLOMAT_DELAYED: "§GPPM§! aby anulować automatyzację tego dyplomaty."
  OUTLINER_CANCEL: "\n§GKliknij PPM, by anulować.§!"
  COUNTRYRIGHTCLICK_INTERESTING_MARK: "Oznacz jako interesujące cię państwo."

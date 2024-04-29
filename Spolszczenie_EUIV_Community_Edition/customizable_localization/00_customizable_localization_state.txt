@@ -390,3 +390,89 @@ defined_text = {
 		}
 	}
 }
+
+defined_text = {
+	name = GetManufactoriesRuleBritannia_gen
+	text = {
+		localisation_key = only_manufactories_gen
+		trigger = {
+			has_dlc = "Rule Britannia"
+		}
+	}
+	text = {
+		localisation_key = manufactories_and_industrialization_gen
+		trigger = {
+			NOT = {
+				has_dlc = "Rule Britannia"
+			}
+		}
+	}
+	text = {
+		localisation_key = manufactories_and_industrialization_gen
+	}
+}
+
+defined_text = {
+    name = GetOldEra_adj
+
+    text = {
+        localisation_key = string_song_era_adj
+        trigger = {
+			capital_scope = {
+				superregion = china_superregion
+			}
+        }
+    }
+	text = {
+        localisation_key = string_goguryeo_era_adj
+        trigger = {
+			capital_scope = {
+				region = korea_region
+			}
+        }
+    }
+    text = {
+        localisation_key = string_middle_ages_adj
+        trigger = {
+			capital_scope = {
+				continent = europe
+			}
+        }
+    }
+	text = {
+        localisation_key = string_classical_adj
+        trigger = {
+			capital_scope = {
+				continent = europe
+			}
+        }
+    }
+	text = {
+        localisation_key = string_pre_islamic_adj
+        trigger = {
+			capital_scope = {
+				religion_group = muslim
+			}
+        }
+	}
+	text = {
+        localisation_key = string_vedic_adj
+        trigger = {
+			capital_scope = {
+				religion_group = dharmic
+			}
+        }
+	}
+	text = {
+        localisation_key = string_ancient_era_adj
+        trigger = {
+				capital_scope = {
+					NOT = { continent = europe }
+					NOT = { superregion = china_superregion }
+					NOT = { region = korea_region }
+					NOT = { religion_group = muslim }
+					NOT = { religion_group = dharmic }
+				}
+        }
+	}
+}

@@ -515,7 +515,7 @@
  gen_eur_defender_faith_desc: "Herezji nie wolno tolerować. [Root.Religion.GetName] potrzebuje pobożnego wzoru do naśladowania."
  gen_hre_electors_title: "Cesarska ambicja"
  gen_hre_electors_desc: "Jak wszyscy książęta Świętego Cesarstwa Rzymskiego, mamy oko na tron. Powinniśmy zyskać poparcie elektorów."
- gen_hre_electors.tooltip: "Elektorzy popierający państwo §Y[Root.GetName]§! do zostania Cesarzem."
+ gen_hre_electors.tooltip: " Elektorzy popierający państwo §Y[Root.GetName]§! do zostania Cesarzem."
  gen_hre_emperor_title: "Dziedzictwo Karola Wlk."
  gen_hre_emperor_desc: "W niepamiętnych czasach królowie karolińscy władali wspaniałym Świętym Cesarstwem Rzymskim. Ich dziedzictwo nie zostało zapomniane, podobnie jak ich ambicje. Musimy zostać koronowani na cesarza."
  gen_hre_imperial_ban_title: "Chroń cesarstwo"

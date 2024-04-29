@@ -195,7 +195,7 @@
  HAVE_MORE_THAN_MIL_POWER:0 "Punkty militarne wynosz¹ co najmniej "
  HAVE_LESS_THAN_SPLENDOR:0 "Posiada mniej splendoru ni¿"
  HAVE_MORE_THAN_SPLENDOR:0 "Wi²cej splendoru ni¿"
- HAVE_LESS_THAN_ABSOLUTISM:0 "Posiada mniej absolutyzmu ni¿"
+ HAVE_LESS_THAN_ABSOLUTISM:0 "Posiada mniej absolutyzmu ni¿ "
  HAVE_MORE_THAN_ABSOLUTISM:0 "Wi²cej absolutyzmu ni¿ "
  HAVE_LESS_THAN_ACCEPTED_CULTURES:0 "Posiada mniej promowany kultur ni¿"
  HAVE_MORE_THAN_ACCEPTED_CULTURES:0 "Ma co najmniej $VAL|Y$ promowanych kultur\n"

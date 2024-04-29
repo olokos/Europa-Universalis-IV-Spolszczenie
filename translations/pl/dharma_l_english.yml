@@ -609,7 +609,7 @@
  WILL_LOSE_INVESTMENTS_WARNING: "§RUtracisz następujące inwestycje w kompanii handlowej!§!\n"
  UPGRADES_TO: "Ulepsz do: $NAME|Y$\n"
  UPGRADES_FROM: "Zamień na: $NAME|Y$\n"
- POSSIBLE_POLICIES_TITLE: "§Y$TYPE$ - polityki§!\nW tym samym czasie możemy mieć $AMOUNT|G$ aktywnych polityk, których domeną jest $TYPE$.\n\n$MODIFIERS$"
+ POSSIBLE_POLICIES_TITLE: "§Y$TYPE$ - polityki§!\nW tym samym czasie możemy mieć $AMOUNT|G$ aktywnych polityk, których podstawą są idee $TYPE$.\n\n$MODIFIERS$"
  SCORNFUL_INSULT: "Wyślij pogardliwą zniewagę."
  scornfully_insulted: "Pogardliwie znieważony"
  scornfully_insulted_rival: "Pogardliwie znieważony rywal"

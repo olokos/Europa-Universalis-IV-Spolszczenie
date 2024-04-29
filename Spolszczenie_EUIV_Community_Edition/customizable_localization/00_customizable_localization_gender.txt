@@ -104,6 +104,21 @@ defined_text = {
 	}
 }
 
+## ła/edł
+defined_text = {
+	name = GetLaEdl
+	random = no
+	text = {
+		localisation_key = string_end_la
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_end_edl
+	}
+}
+
 ## władczyni/a
 defined_text = {
 	name = GetZyniA
@@ -431,6 +446,21 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_end_a
+	}
+}
+
+## ą/im
+defined_text = {
+	name = GetAIm
+	random = no
+	text = {
+		localisation_key = string_end_apl
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_end_im
 	}
 }
 
@@ -1055,6 +1085,57 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_end_a
+		trigger = {
+			employed_advisor = { category = MIL is_male = yes }
+		}
+	}
+}
+
+defined_text = {
+	name = GetAdv_Adm_ZyniY
+	random = no
+	text = {
+		localisation_key = string_end_zyni
+		trigger = {
+			employed_advisor = { category = ADM is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_end_y
+		trigger = {
+			employed_advisor = { category = ADM is_male = yes }
+		}
+	}
+}
+
+defined_text = {
+	name = GetAdv_Dip_ZyniY
+	random = no
+	text = {
+		localisation_key = string_end_zyni
+		trigger = {
+			employed_advisor = { category = DIP is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_end_y
+		trigger = {
+			employed_advisor = { category = DIP is_male = yes }
+		}
+	}
+}
+
+defined_text = {
+	name = GetAdv_Mil_ZyniY
+	random = no
+	text = {
+		localisation_key = string_end_zyni
+		trigger = {
+			employed_advisor = { category = MIL is_female = yes }
+		}
+	}
+	text = {
+		localisation_key = string_end_y
 		trigger = {
 			employed_advisor = { category = MIL is_male = yes }
 		}

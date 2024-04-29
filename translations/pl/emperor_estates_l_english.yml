@@ -16,7 +16,7 @@
  estate_burghers_admirals: "[Country.GetBurghersName_CL_Cap] w admiralicji"
  estate_burghers_commercial_board_of_advice: "Handlowa rada doradcza"
  estate_burghers_new_world_charter: "Przywileje w Nowym Świecie"
- estate_burghers_indebted_to_burghers: "Zadłużony wobec [Country.GetBurghersName_gen]"
+ estate_burghers_indebted_to_burghers: "Zadłużenie u [Country.GetBurghersName_gen]"
  estate_burghers_indebted_to_burghers_effect_tooltip: "Weź §Y5§! pożyczek na okres 5 lat z oprocentowaniem §Y1.0%§!. Przywilej zostanie usunięty po spłaceniu długu."
  estate_burghers_free_enterprise: "Wolna Przedsiębiorczość"
  estate_cossacks_exploration_expedition: "Kozackie wyprawy odkrywcze"

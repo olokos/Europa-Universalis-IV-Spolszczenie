@@ -515,7 +515,7 @@
  gen_eur_defender_faith_desc:0 "Herezji nie wolno tolerowa¾. [Root.Religion.GetName] potrzebuje pobo¿nego wzoru do naœladowania."
  gen_hre_electors_title:0 "Cesarska ambicja"
  gen_hre_electors_desc:0 "Jak wszyscy ksi¹¿²ta Œwi²tego Cesarstwa Rzymskiego, mamy oko na tron. Powinniœmy zyska¾ poparcie elektorów."
- gen_hre_electors.tooltip:0 "Elektorzy popieraj¹cy paªstwo §Y[Root.GetName]§! do zostania Cesarzem."
+ gen_hre_electors.tooltip:0 " Elektorzy popieraj¹cy paªstwo §Y[Root.GetName]§! do zostania Cesarzem."
  gen_hre_emperor_title:0 "Dziedzictwo Karola Wlk."
  gen_hre_emperor_desc:0 "W niepami²tnych czasach królowie karoliªscy w³adali wspania³ym Œwi²tym Cesarstwem Rzymskim. Ich dziedzictwo nie zosta³o zapomniane, podobnie jak ich ambicje. Musimy zosta¾ koronowani na cesarza."
  gen_hre_imperial_ban_title:0 "Chroª cesarstwo"

@@ -420,7 +420,7 @@
  TRADE_POWER_EFFICIENCY:0 "Wydajnoœ¾ si³y handlu"
  OUTLINER_DIPLOMAT_DELAYED:0 "§GKliknij PPM, by odwo³a¾ dyplomat².§!"
  OUTLINER_AUTODIPLOMAT_CHECKDATES:0 "Ostatnio sprawdzone pod k¹tem celów $LASTDATE|Y$. Kolejne sprawdzenie b²dzie mia³o miejsce $NEXTDATE|Y$."
- OUTLINER_AUTODIPLOMAT_INSTANT:0 "Ten dyplomata automatycznie poprawia stosunki z w³adc¹ $RULENAME|Y$."
+ OUTLINER_AUTODIPLOMAT_INSTANT:0 "Ten dyplomata automatycznie poprawia stosunki z w³adcami $RULENAME|Y$."
  OUTLINER_AUTODIPLOMAT_DELAYED:0 "§GPPM§! aby anulowa¾ automatyzacj² tego dyplomaty."
  OUTLINER_CANCEL:0 "\n§GKliknij PPM, by anulowa¾.§!"
  COUNTRYRIGHTCLICK_INTERESTING_MARK:0 "Oznacz jako interesuj¹ce ci² paªstwo."

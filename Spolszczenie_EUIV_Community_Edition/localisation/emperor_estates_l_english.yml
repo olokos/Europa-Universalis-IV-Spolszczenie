@@ -16,7 +16,7 @@
  estate_burghers_admirals:0 "[Country.GetBurghersName_CL_Cap] w admiralicji"
  estate_burghers_commercial_board_of_advice:0 "Handlowa rada doradcza"
  estate_burghers_new_world_charter:0 "Przywileje w Nowym Œwiecie"
- estate_burghers_indebted_to_burghers:0 "Zad³u¿ony wobec [Country.GetBurghersName_gen]"
+ estate_burghers_indebted_to_burghers:0 "Zad³u¿enie u [Country.GetBurghersName_gen]"
  estate_burghers_indebted_to_burghers_effect_tooltip:0 "WeŸ §Y5§! po¿yczek na okres 5 lat z oprocentowaniem §Y1.0%§!. Przywilej zostanie usuni²ty po sp³aceniu d³ugu."
  estate_burghers_free_enterprise:0 "Wolna Przedsi²biorczoœ¾"
  estate_cossacks_exploration_expedition:0 "Kozackie wyprawy odkrywcze"

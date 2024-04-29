@@ -260,7 +260,7 @@
  AGITATEFORLIBERTYALREADYPRESENTDESC: "Ktoś już nawołuje ich do niepodległości."
  CANCEL_SOWDISCONTENTTITLE: "Przestań siać niezadowolenie"
  IS_SOWDISCONTENT: "Sieje niezadowolenie."
- BUILDSPYNETWORK_NO_SUBJECTS: "Nie można zbudować sieci szpiegowskiej w tym stanie zależnym. Zamiast tego szpieguj ich władcę ($OVERLORD|Y$)."
+ BUILDSPYNETWORK_NO_SUBJECTS: "Nie można zbudować sieci szpiegowskiej w tym państwie zależnym. Zamiast tego szpieguj ich suwerena ($OVERLORD|Y$)."
  IS_NOT_SOWDISCONTENT: "NIE sieje niezadowolenia."
  IS_STUDYTECHNOLOGY: "Bada technologię."
  IS_NOT_STUDYTECHNOLOGY: "NIE bada technologii."
