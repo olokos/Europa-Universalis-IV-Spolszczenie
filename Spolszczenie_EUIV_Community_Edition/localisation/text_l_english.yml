@@ -135,7 +135,7 @@
  GOODS_CHANGE:0 "W prowincji $WHERE|Y$ rozpocz²to produkcj² $NAME|Y$.\n"
  PCULTURE_CHANGE:0 "Kultur¹ podstawow¹ w prowincji $WHERE|Y$ stanie si² kultura $NAME|Y$.\n"
  SECEDE_PROVINCE:0 "Zrzeknij si² prowincji $WHERE|Y$ na rzecz kraju $WHO|Y$.\n"
- INHERIT:0 "Odziedzicz kraj $WHO|Y$.\n"
+ INHERIT:0 "Odziedziczy paªstwo $WHO|Y$.\n"
  RELEASE:0 "Przyznaj niepodleg³oœ¾ paªstwu $WHO|Y$.\n"
  admiralty:0 "Admiralicja"
  artisan_workshop:0 "Warsztat rzemieœlniczy"

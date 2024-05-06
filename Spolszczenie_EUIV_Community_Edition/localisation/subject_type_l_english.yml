@@ -30,7 +30,7 @@
  march_is_our:0 "Kraj $NAME|Y$ jest nasz¹ marchi¹."
  client_vassal_is_our:0 "$NAME|Y$ jest naszym Paªstwem Zale¿nym."
  client_march_is_our:0 "$NAME|Y$ jest nasz¹ Marchi¹ Zale¿n¹."
- personal_union_is_our:0 "$NAME|Y$ jest rz¹dzony przez nas w ramach Unii Personalnej."
+ personal_union_is_our:0 "Paªstwo $NAME|Y$ jest rz¹dzone przez nas w ramach Unii Personalnej."
  protectorate_is_our:0 "Kraj $NAME|Y$ jest naszym protektoratem."
  colony_is_our:0 "Kraj $NAME|Y$ jest nasz¹ koloni¹."
  daimyo_vassal_is_our:0 "$NAME|Y$ jest naszym Wasalem Daimyo."

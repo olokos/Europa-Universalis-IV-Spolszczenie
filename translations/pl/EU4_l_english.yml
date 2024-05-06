@@ -1147,7 +1147,7 @@
  NOT_VOTING_FOR_IMP_REF: "§Y$REFORM$§! budzi obecnie twój sprzeciw."
  VOTING_FOR_IMP_REF: "§Y$REFORM$§! cieszy się obecnie twoim poparciem."
  VOTE_FOR_IMP_REF_DELAYED: "Klinij, by zmienić swoje poparcie w kwestii reformy."
- IMPREF_SIZE: "$WHO$ siła ekonomiczna: $VAL$\n"
+ IMPREF_SIZE: "Siła ekonomiczna państwa $WHO$: $VAL$\n"
  IMPREF_RELIGIOUS: "Teokracja: $VAL$\n"
  IMPREF_MONARCHY: "Monarchia: $VAL$\n"
  IMPREF_ALLIANCE: "Sojusz z cesarzem: $VAL$\n"

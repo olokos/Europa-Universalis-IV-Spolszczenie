@@ -1387,7 +1387,7 @@
  EVTOPTA5065: "Niech rozwiążą to między sobą."
  EVTOPTB5065: "Przejmij kontrolę nad sytuacją."
  EVTNAME5066: "Przejęcie ziem należących do duchowieństwa"
- EVTDESC5066: "Kilku członków [Root.GetBrahminsName_gen] przybyło przed oblicze [Root.GetRulerTitleOrRegencyGen] z propozycją. Zdesperowani w poszukiwaniu większej ilości ziem i tytułów, patrzą z zazdrością na bogactwo [Root.GetBrahminsName_gen]. Proszą, abyśmy przekazali im ziemię kościelną w zamian za duży wkład pieniężny w wysiłki [Root.GetStateForm_gen]. Oczywiście, w dłuższej perspektywie stracilibyśmy wpływy z podatków od ziemi kościelnej w zamian za krótkoterminowy wzrost dochodów."
+ EVTDESC5066: "Kilku członków [Root.GetNobilityName_gen] przybyło przed oblicze [Root.GetRulerTitleOrRegencyGen] z propozycją. Zdesperowani w poszukiwaniu większej ilości ziem i tytułów, patrzą z zazdrością na bogactwo [Root.GetNobilityName_gen]. Proszą, abyśmy przekazali im ziemię kościelną w zamian za duży wkład pieniężny w wysiłki [Root.GetStateForm_gen]. Oczywiście, w dłuższej perspektywie stracilibyśmy wpływy z podatków od ziemi kościelnej w zamian za krótkoterminowy wzrost dochodów."
  EVTOPTA5066: "Zgoda."
  EVTOPTB5066: "Odmowa."
  EVTNAME5068: "Sprzedaż urzędów"

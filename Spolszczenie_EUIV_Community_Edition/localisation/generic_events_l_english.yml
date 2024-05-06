@@ -1387,7 +1387,7 @@
  EVTOPTA5065:0 "Niech rozwi¹¿¹ to mi²dzy sob¹."
  EVTOPTB5065:0 "Przejmij kontrol² nad sytuacj¹."
  EVTNAME5066:0 "Przej²cie ziem nale¿¹cych do duchowieªstwa"
- EVTDESC5066:0 "Kilku cz³onków [Root.GetBrahminsName_gen] przyby³o przed oblicze [Root.GetRulerTitleOrRegencyGen] z propozycj¹. Zdesperowani w poszukiwaniu wi²kszej iloœci ziem i tytu³ów, patrz¹ z zazdroœci¹ na bogactwo [Root.GetBrahminsName_gen]. Prosz¹, abyœmy przekazali im ziemi² koœcieln¹ w zamian za du¿y wk³ad pieni²¿ny w wysi³ki [Root.GetStateForm_gen]. Oczywiœcie, w d³u¿szej perspektywie stracilibyœmy wp³ywy z podatków od ziemi koœcielnej w zamian za krótkoterminowy wzrost dochodów."
+ EVTDESC5066:0 "Kilku cz³onków [Root.GetNobilityName_gen] przyby³o przed oblicze [Root.GetRulerTitleOrRegencyGen] z propozycj¹. Zdesperowani w poszukiwaniu wi²kszej iloœci ziem i tytu³ów, patrz¹ z zazdroœci¹ na bogactwo [Root.GetNobilityName_gen]. Prosz¹, abyœmy przekazali im ziemi² koœcieln¹ w zamian za du¿y wk³ad pieni²¿ny w wysi³ki [Root.GetStateForm_gen]. Oczywiœcie, w d³u¿szej perspektywie stracilibyœmy wp³ywy z podatków od ziemi koœcielnej w zamian za krótkoterminowy wzrost dochodów."
  EVTOPTA5066:0 "Zgoda."
  EVTOPTB5066:0 "Odmowa."
  EVTNAME5068:0 "Sprzeda¿ urz²dów"

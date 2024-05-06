@@ -669,7 +669,7 @@
  IS_NOT_REBEL_TYPE_TRIGGER: "Nie są buntownikami $TYPE|Y$.\n"
  EFFECT_GAIN_POWER_PROJECTION: "$TAG|Y$ zyska $AMOUNT|G$ prognozowanej potęgi."
  EFFECT_LOSE_POWER_PROJECTION: "$TAG|Y$ straci $AMOUNT|G$ prognozowanej potęgi."
- EFFECT_SUPPORT_INDEPENDENCE: "$TAG|Y$ będzie wspierać niepodległość państwa §Y$NAME$§!."
+ EFFECT_SUPPORT_INDEPENDENCE: "$TAG|Y$ będzie wspierać niepodległość państwa $TARGET|Y$."
  TRIGGER_WAS_HUMILIATED_BY: "Państwo $TAG|Y$ zostało ostatnio upokorzone przez $BY|Y$."
  TRIGGER_WAS_NOT_HUMILIATED_BY: "Państwo $TAG|Y$ nie zostało ostatnio upokorzone przez $BY|Y$."
  TRIGGER_IS_HIRING_CONDOTTIERE_FROM: "Państwo $TAG|Y$ wynajmuje kondotierów od państwa $FROM|Y$."
