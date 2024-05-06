@@ -4552,7 +4552,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			OR = {
 				has_reform = celestial_empire
@@ -4567,7 +4567,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			religion = nahuatl
 		}
@@ -4600,7 +4600,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 	}
 }
 
@@ -4614,7 +4614,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			has_reform = revolutionary_empire_reform
 		}
@@ -4646,7 +4646,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			technology_group = ottoman
 		}
@@ -4664,7 +4664,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			OR = {
 				primary_culture = polish
@@ -4674,7 +4674,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			tag = MAS
 		}
@@ -4690,7 +4690,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			has_reform = celestial_empire
 		}
@@ -4705,7 +4705,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			OR = {
 				religion = nahuatl
@@ -4735,7 +4735,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			primary_culture = maori
 			religion = animism
@@ -4779,7 +4779,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 	}
 }
 
@@ -4800,13 +4800,13 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			culture_group = french
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			culture_group = east_asian
 		}
@@ -4831,7 +4831,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 	}
 }
 
@@ -4841,27 +4841,27 @@ defined_text = {
 	name = GetClergyName_IA
 	random = no
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = BYZ
 			culture_group = byzantine
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = OYO
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			primary_culture = mossi
 			religion = shamanism
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				religion = buddhism
@@ -4871,13 +4871,13 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = MAS
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				religion = hinduism			
@@ -4899,7 +4899,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				religion = norse_pagan_reformed
@@ -4911,7 +4911,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			OR = {
 				has_reform = celestial_empire
@@ -4920,26 +4920,26 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			religion_group = muslim
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			religion = nahuatl
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = KOR
 			religion = confucianism
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				primary_culture = maori
@@ -4959,7 +4959,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 	}
 }
 
@@ -4967,51 +4967,51 @@ defined_text = {
 	name = GetNobilityName_IA
 	random = no
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = MAM
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			has_reform = revolutionary_empire_reform
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = OYO
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = BYZ
 			culture_group = byzantine
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			primary_culture = mossi
 			religion = shamanism
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			has_reform = tribal_confederacy
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			technology_group = ottoman
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				culture_group = east_slavic
@@ -5023,7 +5023,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			OR = {
 				primary_culture = polish
@@ -5033,13 +5033,13 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			tag = MAS
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				religion = hinduism
@@ -5049,13 +5049,13 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			has_reform = celestial_empire
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				tag = MUG
@@ -5064,7 +5064,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			OR = {
 				religion = nahuatl
@@ -5073,7 +5073,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				culture_group = japanese_g
@@ -5094,14 +5094,14 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			primary_culture = maori
 			religion = animism
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				AND = {
@@ -5122,7 +5122,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				government = native
@@ -5132,13 +5132,13 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = KON
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 	}
 }
 
@@ -5146,38 +5146,38 @@ defined_text = {
 	name = GetBurghersName_IA
 	random = no
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = BYZ
 			culture_group = byzantine
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			has_government_attribute = is_pirate_republic_reform
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			culture_group = french
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			culture_group = east_asian
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			religion = nahuatl
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				religion_group = muslim
@@ -5190,7 +5190,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 	}
 }
 
@@ -5988,7 +5988,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			OR = {
 				has_reform = celestial_empire
@@ -6003,7 +6003,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			religion = nahuatl
 		}
@@ -6036,7 +6036,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 	}
 }
 
@@ -6050,7 +6050,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			has_reform = revolutionary_empire_reform
 		}
@@ -6082,7 +6082,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			technology_group = ottoman
 		}
@@ -6100,7 +6100,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			OR = {
 				primary_culture = polish
@@ -6110,7 +6110,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			tag = MAS
 		}
@@ -6126,7 +6126,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			has_reform = celestial_empire
 		}
@@ -6141,7 +6141,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			OR = {
 				religion = nahuatl
@@ -6171,7 +6171,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			primary_culture = maori
 			religion = animism
@@ -6215,7 +6215,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 	}
 }
 
@@ -6236,13 +6236,13 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			culture_group = french
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			culture_group = east_asian
 		}
@@ -6267,7 +6267,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 	}
 }
 
@@ -6277,27 +6277,27 @@ defined_text = {
 	name = GetClergyName_EA
 	random = no
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = BYZ
 			culture_group = byzantine
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = OYO
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			primary_culture = mossi
 			religion = shamanism
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				religion = buddhism
@@ -6307,13 +6307,13 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = MAS
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				religion = hinduism			
@@ -6335,7 +6335,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				religion = norse_pagan_reformed
@@ -6347,7 +6347,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_e
+		localisation_key = string_char_e
 		trigger = {
 			OR = {
 				has_reform = celestial_empire
@@ -6356,26 +6356,26 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			religion_group = muslim
 		}
 	}
 	text = {
-		localisation_key = string_end_e
+		localisation_key = string_char_e
 		trigger = {
 			religion = nahuatl
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = KOR
 			religion = confucianism
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				primary_culture = maori
@@ -6395,7 +6395,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_e
+		localisation_key = string_char_e
 	}
 }
 
@@ -6403,51 +6403,51 @@ defined_text = {
 	name = GetNobilityName_EA
 	random = no
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = MAM
 		}
 	}
 	text = {
-		localisation_key = string_end_e
+		localisation_key = string_char_e
 		trigger = {
 			has_reform = revolutionary_empire_reform
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = OYO
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = BYZ
 			culture_group = byzantine
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			primary_culture = mossi
 			religion = shamanism
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			has_reform = tribal_confederacy
 		}
 	}
 	text = {
-		localisation_key = string_end_e
+		localisation_key = string_char_e
 		trigger = {
 			technology_group = ottoman
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				culture_group = east_slavic
@@ -6459,7 +6459,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_e
+		localisation_key = string_char_e
 		trigger = {
 			OR = {
 				primary_culture = polish
@@ -6469,13 +6469,13 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_e
+		localisation_key = string_char_e
 		trigger = {
 			tag = MAS
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				religion = hinduism
@@ -6485,13 +6485,13 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_e
+		localisation_key = string_char_e
 		trigger = {
 			has_reform = celestial_empire
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				tag = MUG
@@ -6500,7 +6500,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_e
+		localisation_key = string_char_e
 		trigger = {
 			OR = {
 				religion = nahuatl
@@ -6509,7 +6509,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				culture_group = japanese_g
@@ -6530,14 +6530,14 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_e
+		localisation_key = string_char_e
 		trigger = {
 			primary_culture = maori
 			religion = animism
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				AND = {
@@ -6558,7 +6558,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				government = native
@@ -6568,13 +6568,13 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = KON
 		}
 	}
 	text = {
-		localisation_key = string_end_e
+		localisation_key = string_char_e
 	}
 }
 
@@ -6582,38 +6582,38 @@ defined_text = {
 	name = GetBurghersName_EA
 	random = no
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = BYZ
 			culture_group = byzantine
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			has_government_attribute = is_pirate_republic_reform
 		}
 	}
 	text = {
-		localisation_key = string_end_e
+		localisation_key = string_char_e
 		trigger = {
 			culture_group = french
 		}
 	}
 	text = {
-		localisation_key = string_end_e
+		localisation_key = string_char_e
 		trigger = {
 			culture_group = east_asian
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			religion = nahuatl
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				religion_group = muslim
@@ -6626,7 +6626,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_e
+		localisation_key = string_char_e
 	}
 }
 
@@ -6636,27 +6636,27 @@ defined_text = {
 	name = GetClergyName_ZieA
 	random = no
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = BYZ
 			culture_group = byzantine
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = OYO
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			primary_culture = mossi
 			religion = shamanism
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				religion = buddhism
@@ -6666,13 +6666,13 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = MAS
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				religion = hinduism			
@@ -6694,7 +6694,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				religion = norse_pagan_reformed
@@ -6715,7 +6715,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			religion_group = muslim
 		}
@@ -6727,14 +6727,14 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = KOR
 			religion = confucianism
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				primary_culture = maori
@@ -6762,7 +6762,7 @@ defined_text = {
 	name = GetNobilityName_ZieA
 	random = no
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = MAM
 		}
@@ -6774,27 +6774,27 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = OYO
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = BYZ
 			culture_group = byzantine
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			primary_culture = mossi
 			religion = shamanism
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			has_reform = tribal_confederacy
 		}
@@ -6806,7 +6806,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				culture_group = east_slavic
@@ -6834,7 +6834,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				religion = hinduism
@@ -6850,7 +6850,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				tag = MUG
@@ -6868,7 +6868,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				culture_group = japanese_g
@@ -6896,7 +6896,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				AND = {
@@ -6917,7 +6917,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				government = native
@@ -6927,7 +6927,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = KON
 		}
@@ -6941,14 +6941,14 @@ defined_text = {
 	name = GetBurghersName_ZieA
 	random = no
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = BYZ
 			culture_group = byzantine
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			has_government_attribute = is_pirate_republic_reform
 		}
@@ -6966,13 +6966,13 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			religion = nahuatl
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				religion_group = muslim
@@ -8072,27 +8072,27 @@ defined_text = {
 	name = GetClergyName_AdjEndS
 	random = no
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			tag = BYZ
 			culture_group = byzantine
 		}
 	}
 	text = {
-		localisation_key = string_end_e
+		localisation_key = string_char_e
 		trigger = {
 			tag = OYO
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			primary_culture = mossi
 			religion = shamanism
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			OR = {
 				religion = buddhism
@@ -8102,13 +8102,13 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_e
+		localisation_key = string_char_e
 		trigger = {
 			tag = MAS
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			OR = {
 				religion = hinduism			
@@ -8130,7 +8130,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			OR = {
 				religion = norse_pagan_reformed
@@ -8142,7 +8142,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			OR = {
 				has_reform = celestial_empire
@@ -8151,26 +8151,26 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			religion_group = muslim
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			religion = nahuatl
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			tag = KOR
 			religion = confucianism
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			OR = {
 				primary_culture = maori
@@ -8190,7 +8190,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_e
+		localisation_key = string_char_e
 	}
 }
 
@@ -8198,51 +8198,51 @@ defined_text = {
 	name = GetNobilityName_AdjEndS
 	random = no
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			tag = MAM
 		}
 	}
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 		trigger = {
 			has_reform = revolutionary_empire_reform
 		}
 	}
 	text = {
-		localisation_key = string_end_e
+		localisation_key = string_char_e
 		trigger = {
 			tag = OYO
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			tag = BYZ
 			culture_group = byzantine
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			primary_culture = mossi
 			religion = shamanism
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			has_reform = tribal_confederacy
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			technology_group = ottoman
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			OR = {
 				culture_group = east_slavic
@@ -8254,7 +8254,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 		trigger = {
 			OR = {
 				primary_culture = polish
@@ -8264,13 +8264,13 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			tag = MAS
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			OR = {
 				religion = hinduism
@@ -8280,13 +8280,13 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			has_reform = celestial_empire
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			OR = {
 				tag = MUG
@@ -8295,7 +8295,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			OR = {
 				religion = nahuatl
@@ -8304,7 +8304,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			OR = {
 				culture_group = japanese_g
@@ -8325,14 +8325,14 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			primary_culture = maori
 			religion = animism
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			OR = {
 				AND = {
@@ -8353,7 +8353,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			OR = {
 				government = native
@@ -8363,13 +8363,13 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			tag = KON
 		}
 	}
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 	}
 }
 
@@ -8377,32 +8377,32 @@ defined_text = {
 	name = GetBurghersName_AdjEndS
 	random = no
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 		trigger = {
 			tag = BYZ
 			culture_group = byzantine
 		}
 	}
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 		trigger = {
 			culture_group = french
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			culture_group = east_asian
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			religion = nahuatl
 		}
 	}
 	text = {
-		localisation_key = string_end_e
+		localisation_key = string_char_e
 		trigger = {
 			OR = {
 				religion_group = muslim
@@ -8415,7 +8415,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_e
+		localisation_key = string_char_e
 	}
 }
 
@@ -8425,27 +8425,27 @@ defined_text = {
 	name = GetClergyName_NounA
 	random = no
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = BYZ
 			culture_group = byzantine
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = OYO
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			primary_culture = mossi
 			religion = shamanism
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				religion = buddhism
@@ -8455,13 +8455,13 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = MAS
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				religion = hinduism			
@@ -8483,7 +8483,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				religion = norse_pagan_reformed
@@ -8495,7 +8495,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			OR = {
 				has_reform = celestial_empire
@@ -8504,26 +8504,26 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			religion_group = muslim
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			religion = nahuatl
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = KOR
 			religion = confucianism
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				primary_culture = maori
@@ -8543,7 +8543,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 	}
 }
 
@@ -8551,51 +8551,51 @@ defined_text = {
 	name = GetNobilityName_NounA
 	random = no
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = MAM
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			has_reform = revolutionary_empire_reform
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = OYO
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = BYZ
 			culture_group = byzantine
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			primary_culture = mossi
 			religion = shamanism
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			has_reform = tribal_confederacy
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			technology_group = ottoman
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				culture_group = east_slavic
@@ -8607,7 +8607,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			OR = {
 				primary_culture = polish
@@ -8617,13 +8617,13 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			tag = MAS
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				religion = hinduism
@@ -8633,13 +8633,13 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			has_reform = celestial_empire
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				tag = MUG
@@ -8648,7 +8648,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			OR = {
 				religion = nahuatl
@@ -8657,7 +8657,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				culture_group = japanese_g
@@ -8678,14 +8678,14 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			primary_culture = maori
 			religion = animism
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				AND = {
@@ -8706,7 +8706,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				government = native
@@ -8716,13 +8716,13 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = KON
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 	}
 }
 
@@ -8730,38 +8730,38 @@ defined_text = {
 	name = GetBurghersName_NounA
 	random = no
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			tag = BYZ
 			culture_group = byzantine
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			has_government_attribute = is_pirate_republic_reform
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			culture_group = french
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			culture_group = east_asian
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			religion = nahuatl
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				religion_group = muslim
@@ -8774,7 +8774,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 	}
 }
 
@@ -9143,27 +9143,27 @@ defined_text = {
 	name = GetClergyName_AdjEnd
 	random = no
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			tag = BYZ
 			culture_group = byzantine
 		}
 	}
 	text = {
-		localisation_key = string_end_e
+		localisation_key = string_char_e
 		trigger = {
 			tag = OYO
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			primary_culture = mossi
 			religion = shamanism
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			OR = {
 				religion = buddhism
@@ -9173,13 +9173,13 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_e
+		localisation_key = string_char_e
 		trigger = {
 			tag = MAS
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			OR = {
 				religion = hinduism			
@@ -9201,7 +9201,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			OR = {
 				religion = norse_pagan_reformed
@@ -9213,7 +9213,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			OR = {
 				has_reform = celestial_empire
@@ -9222,26 +9222,26 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			religion_group = muslim
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			religion = nahuatl
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			tag = KOR
 			religion = confucianism
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			OR = {
 				primary_culture = maori
@@ -9261,7 +9261,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_e
+		localisation_key = string_char_e
 	}
 }
 
@@ -9269,51 +9269,51 @@ defined_text = {
 	name = GetNobilityName_AdjEnd
 	random = no
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			tag = MAM
 		}
 	}
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 		trigger = {
 			has_reform = revolutionary_empire_reform
 		}
 	}
 	text = {
-		localisation_key = string_end_e
+		localisation_key = string_char_e
 		trigger = {
 			tag = OYO
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			tag = BYZ
 			culture_group = byzantine
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			primary_culture = mossi
 			religion = shamanism
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			has_reform = tribal_confederacy
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			technology_group = ottoman
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			OR = {
 				culture_group = east_slavic
@@ -9325,7 +9325,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 		trigger = {
 			OR = {
 				primary_culture = polish
@@ -9335,13 +9335,13 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			tag = MAS
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			OR = {
 				religion = hinduism
@@ -9351,13 +9351,13 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			has_reform = celestial_empire
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			OR = {
 				tag = MUG
@@ -9366,7 +9366,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			OR = {
 				religion = nahuatl
@@ -9375,7 +9375,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			OR = {
 				culture_group = japanese_g
@@ -9396,14 +9396,14 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			primary_culture = maori
 			religion = animism
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			OR = {
 				AND = {
@@ -9424,7 +9424,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			OR = {
 				government = native
@@ -9434,13 +9434,13 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			tag = KON
 		}
 	}
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 	}
 }
 
@@ -9448,38 +9448,38 @@ defined_text = {
 	name = GetBurghersName_AdjEnd
 	random = no
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			tag = BYZ
 			culture_group = byzantine
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			has_government_attribute = is_pirate_republic_reform
 		}
 	}
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 		trigger = {
 			culture_group = french
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			culture_group = east_asian
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			religion = nahuatl
 		}
 	}
 	text = {
-		localisation_key = string_end_e
+		localisation_key = string_char_e
 		trigger = {
 			OR = {
 				religion_group = muslim
@@ -9492,7 +9492,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_e
+		localisation_key = string_char_e
 	}
 }
 
@@ -9932,7 +9932,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_l
+		localisation_key = string_char_lpl
 		trigger = {
 			OR = {
 				has_reform = celestial_empire
@@ -9947,7 +9947,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_l
+		localisation_key = string_char_lpl
 		trigger = {
 			religion = nahuatl
 		}
@@ -10026,7 +10026,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_l
+		localisation_key = string_char_lpl
 		trigger = {
 			technology_group = ottoman
 		}
@@ -10054,7 +10054,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_l
+		localisation_key = string_char_lpl
 		trigger = {
 			tag = MAS
 		}
@@ -10070,7 +10070,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_l
+		localisation_key = string_char_lpl
 		trigger = {
 			has_reform = celestial_empire
 		}
@@ -10085,7 +10085,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_l
+		localisation_key = string_char_lpl
 		trigger = {
 			OR = {
 				religion = nahuatl
@@ -10115,7 +10115,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_l
+		localisation_key = string_char_lpl
 		trigger = {
 			primary_culture = maori
 			religion = animism
@@ -10186,7 +10186,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_l
+		localisation_key = string_char_lpl
 		trigger = {
 			culture_group = east_asian
 		}
@@ -10300,7 +10300,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			OR = {
 				has_estate = estate_maratha
@@ -10363,7 +10363,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			OR = {
 				has_estate = estate_maratha
@@ -10502,7 +10502,7 @@ defined_text = {
 	}
 	
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 		trigger = {
 			NOT = { has_estate = estate_nobles }
 		}
@@ -10521,7 +10521,7 @@ defined_text = {
 	}
 	
 	text = {
-		localisation_key = string_end_e
+		localisation_key = string_char_e
 		trigger = {
 			NOT = { has_estate = estate_nobles }
 		}
@@ -10540,7 +10540,7 @@ defined_text = {
 	}
 	
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			NOT = { has_estate = estate_nobles }
 		}
@@ -10757,7 +10757,7 @@ defined_text = {
 	}
 	
 	text = {
-		localisation_key = string_end_e
+		localisation_key = string_char_e
 		trigger = {
 			NOT = { has_estate = estate_burghers }
 		}
@@ -10776,7 +10776,7 @@ defined_text = {
 	}
 	
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			NOT = { has_estate = estate_burghers }
 		}
@@ -10795,7 +10795,7 @@ defined_text = {
 	}
 	
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			NOT = { has_estate = estate_burghers }
 		}

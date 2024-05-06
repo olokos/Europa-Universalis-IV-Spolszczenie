@@ -224,13 +224,13 @@ defined_text = {
 	name = GetNoblesReplacementForOtherGovernments_AE
 
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 		trigger = {
 			NOT = { government = republic }
 		}
 	}
 	text = {
-		localisation_key = string_end_e
+		localisation_key = string_char_e
 		trigger = {
 			government = republic
 		}
@@ -275,13 +275,13 @@ defined_text = {
 	name = GetNoblesReplacementForOtherGovernments_AY
 
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 		trigger = {
 			NOT = { government = republic }
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			government = republic
 		}
@@ -474,5 +474,95 @@ defined_text = {
 					NOT = { religion_group = dharmic }
 				}
         }
+	}
+}
+
+defined_text = {
+	name = GetNoblemenPoliticians_ins
+
+	text = {
+		localisation_key = string_noblemen_ins
+		trigger = {
+			NOT = { government = republic }
+			NOT = { government = theocracy }
+			NOT = {
+				has_parliament = yes
+			}
+		}
+	}
+	text = {
+		localisation_key = string_politicians_ins
+		trigger = {
+			OR = {
+				has_parliament = yes
+				government = republic
+			}
+		}
+	}
+	text = {
+		 localisation_key = string_clergymen_ins
+		trigger = {
+			government = theocracy
+			NOT = {
+				has_parliament = yes
+			}
+		}
+	}
+}
+
+defined_text = {
+	name = GetNoblemenPoliticians_gen
+
+	text = {
+		localisation_key = string_noblemen_gen
+		trigger = {
+			NOT = { government = republic }
+			NOT = { government = theocracy }
+			NOT = {
+				has_parliament = yes
+			}
+		}
+	}
+	text = {
+		localisation_key = string_politicians_gen
+		trigger = {
+			OR = {
+				has_parliament = yes
+				government = republic
+			}
+		}
+	}
+	text = {
+		 localisation_key = string_clergymen_gen
+		trigger = {
+			government = theocracy
+			NOT = {
+				has_parliament = yes
+			}
+		}
+	}
+}
+
+defined_text = {
+	name = GetRulerAdjAndTitle_gen
+
+	text = {
+		localisation_key = string_ruler_adj_and_title_gen
+		trigger = {
+			NOT = { tag = PAP }
+			has_regency = no
+		}
+	}
+	text = {
+		localisation_key = string_ruler_title_gen
+		trigger = {
+			tag = PAP
+		}
+	}
+	text = {
+		localisation_key = string_adj_and_regency_council_gen
+		trigger = {
+			has_regency = yes
+		}
 	}
 }

@@ -4,13 +4,13 @@ defined_text = {
 	name = GetANoun
 	random = no
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 		trigger = {
 			is_female = yes
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 	}
 }
 
@@ -19,13 +19,13 @@ defined_text = {
 	name = GetAY
 	random = no
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 		trigger = {
 			is_female = yes
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 	}
 }
 
@@ -34,7 +34,7 @@ defined_text = {
 	name = GetAYm
 	random = no
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			is_female = yes
 		}
@@ -130,7 +130,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 	}
 }
 
@@ -145,7 +145,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_epl
+		localisation_key = string_char_epl
 	}
 }
 
@@ -169,7 +169,7 @@ defined_text = {
 	name = GetAEgo
 	random = no
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			is_female = yes
 		}
@@ -334,13 +334,13 @@ defined_text = {
 	name = GetAI
 	random = no
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 		trigger = {
 			is_female = yes
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 	}
 }
 
@@ -370,7 +370,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 	}
 }
 
@@ -385,7 +385,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 	}
 }
 
@@ -400,7 +400,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 	}
 }
 
@@ -415,7 +415,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 	}
 }
 
@@ -424,13 +424,13 @@ defined_text = {
 	name = GetKNoun
 	random = no
 	text = {
-		localisation_key = string_end_k
+		localisation_key = string_char_k
 		trigger = {
 			is_female = yes
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 	}
 }
 
@@ -439,13 +439,13 @@ defined_text = {
 	name = GetEA
 	random = no
 	text = {
-		localisation_key = string_end_epl
+		localisation_key = string_char_epl
 		trigger = {
 			is_female = yes
 		}
 	}
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 	}
 }
 
@@ -454,7 +454,7 @@ defined_text = {
 	name = GetAIm
 	random = no
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			is_female = yes
 		}
@@ -468,13 +468,13 @@ defined_text = {
 	name = GetAdv_Adm_ANoun
 	random = no
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 		trigger = {
 			employed_advisor = { category = ADM is_female = yes }
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			employed_advisor = { category = ADM is_male = yes }
 		}
@@ -485,13 +485,13 @@ defined_text = {
 	name = GetAdv_Dip_ANoun
 	random = no
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 		trigger = {
 			employed_advisor = { category = DIP is_female = yes }
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			employed_advisor = { category = DIP is_male = yes }
 		}
@@ -502,13 +502,13 @@ defined_text = {
 	name = GetAdv_Mil_ANoun
 	random = no
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 		trigger = {
 			employed_advisor = { category = MIL is_female = yes }
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			employed_advisor = { category = MIL is_male = yes }
 		}
@@ -519,13 +519,13 @@ defined_text = {
 	name = GetAdv_Adm_AY
 	random = no
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 		trigger = {
 			employed_advisor = { category = ADM is_female = yes }
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			employed_advisor = { category = ADM is_male = yes }
 		}
@@ -536,13 +536,13 @@ defined_text = {
 	name = GetAdv_Dip_AY
 	random = no
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 		trigger = {
 			employed_advisor = { category = DIP is_female = yes }
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			employed_advisor = { category = DIP is_male = yes }
 		}
@@ -553,13 +553,13 @@ defined_text = {
 	name = GetAdv_Mil_AY
 	random = no
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 		trigger = {
 			employed_advisor = { category = MIL is_female = yes }
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			employed_advisor = { category = MIL is_male = yes }
 		}
@@ -570,13 +570,13 @@ defined_text = {
 	name = GetAdv_Adm_AI
 	random = no
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 		trigger = {
 			employed_advisor = { category = ADM is_female = yes }
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			employed_advisor = { category = ADM is_male = yes }
 		}
@@ -587,13 +587,13 @@ defined_text = {
 	name = GetAdv_Dip_AI
 	random = no
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 		trigger = {
 			employed_advisor = { category = DIP is_female = yes }
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			employed_advisor = { category = DIP is_male = yes }
 		}
@@ -604,13 +604,13 @@ defined_text = {
 	name = GetAdv_Mil_AI
 	random = no
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 		trigger = {
 			employed_advisor = { category = MIL is_female = yes }
 		}
 	}
 	text = {
-		localisation_key = string_end_i
+		localisation_key = string_char_i
 		trigger = {
 			employed_advisor = { category = MIL is_male = yes }
 		}
@@ -682,7 +682,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			employed_advisor = { category = ADM is_male = yes }
 		}
@@ -699,7 +699,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			employed_advisor = { category = DIP is_male = yes }
 		}
@@ -716,7 +716,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			employed_advisor = { category = MIL is_male = yes }
 		}
@@ -729,7 +729,7 @@ defined_text = {
 	name = GetAdv_Adm_AIem
 	random = no
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			employed_advisor = { category = ADM is_female = yes }
 		}
@@ -746,7 +746,7 @@ defined_text = {
 	name = GetAdv_Dip_AIem
 	random = no
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			employed_advisor = { category = DIP is_female = yes }
 		}
@@ -763,7 +763,7 @@ defined_text = {
 	name = GetAdv_Mil_AIem
 	random = no
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			employed_advisor = { category = MIL is_female = yes }
 		}
@@ -782,7 +782,7 @@ defined_text = {
 	name = GetAdv_Adm_AEgo
 	random = no
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			employed_advisor = { category = ADM is_female = yes }
 		}
@@ -799,7 +799,7 @@ defined_text = {
 	name = GetAdv_Dip_AEgo
 	random = no
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			employed_advisor = { category = DIP is_female = yes }
 		}
@@ -816,7 +816,7 @@ defined_text = {
 	name = GetAdv_Mil_AEgo
 	random = no
 	text = {
-		localisation_key = string_end_apl
+		localisation_key = string_char_apl
 		trigger = {
 			employed_advisor = { category = MIL is_female = yes }
 		}
@@ -835,13 +835,13 @@ defined_text = {
 	name = GetAdv_Adm_KNoun
 	random = no
 	text = {
-		localisation_key = string_end_k
+		localisation_key = string_char_k
 		trigger = {
 			employed_advisor = { category = ADM is_female = yes }
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			employed_advisor = { category = ADM is_male = yes }
 		}
@@ -852,13 +852,13 @@ defined_text = {
 	name = GetAdv_Dip_KNoun
 	random = no
 	text = {
-		localisation_key = string_end_k
+		localisation_key = string_char_k
 		trigger = {
 			employed_advisor = { category = DIP is_female = yes }
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			employed_advisor = { category = DIP is_male = yes }
 		}
@@ -869,13 +869,13 @@ defined_text = {
 	name = GetAdv_Mil_KNoun
 	random = no
 	text = {
-		localisation_key = string_end_k
+		localisation_key = string_char_k
 		trigger = {
 			employed_advisor = { category = MIL is_female = yes }
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			employed_advisor = { category = MIL is_male = yes }
 		}
@@ -941,7 +941,7 @@ defined_text = {
 	name = GetAdv_Adm_JGo
 	random = no
 	text = {
-		localisation_key = string_end_j
+		localisation_key = string_char_j
 		trigger = {
 			employed_advisor = { category = ADM is_female = yes }
 		}
@@ -958,7 +958,7 @@ defined_text = {
 	name = GetAdv_Dip_JGo
 	random = no
 	text = {
-		localisation_key = string_end_j
+		localisation_key = string_char_j
 		trigger = {
 			employed_advisor = { category = DIP is_female = yes }
 		}
@@ -975,7 +975,7 @@ defined_text = {
 	name = GetAdv_Mil_JGo
 	random = no
 	text = {
-		localisation_key = string_end_j
+		localisation_key = string_char_j
 		trigger = {
 			employed_advisor = { category = MIL is_female = yes }
 		}
@@ -999,7 +999,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			employed_advisor = { category = ADM is_male = yes }
 		}
@@ -1016,7 +1016,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			employed_advisor = { category = DIP is_male = yes }
 		}
@@ -1033,7 +1033,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_empty
+		localisation_key = string_char_empty
 		trigger = {
 			employed_advisor = { category = MIL is_male = yes }
 		}
@@ -1050,7 +1050,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 		trigger = {
 			employed_advisor = { category = ADM is_male = yes }
 		}
@@ -1067,7 +1067,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 		trigger = {
 			employed_advisor = { category = DIP is_male = yes }
 		}
@@ -1084,7 +1084,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_a
+		localisation_key = string_char_a
 		trigger = {
 			employed_advisor = { category = MIL is_male = yes }
 		}
@@ -1101,7 +1101,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			employed_advisor = { category = ADM is_male = yes }
 		}
@@ -1118,7 +1118,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			employed_advisor = { category = DIP is_male = yes }
 		}
@@ -1135,7 +1135,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = string_end_y
+		localisation_key = string_char_y
 		trigger = {
 			employed_advisor = { category = MIL is_male = yes }
 		}
@@ -1209,5 +1209,874 @@ defined_text = {
 				} 
 			}
 		}
+	}
+}
+
+
+defined_text = {
+	name = FemA
+	random = no
+	text = {
+		localisation_key = string_char_a
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemApl
+	random = no
+	text = {
+		localisation_key = string_char_apl
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemB
+	random = no
+	text = {
+		localisation_key = string_char_b
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemC
+	random = no
+	text = {
+		localisation_key = string_char_c
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemCpl
+	random = no
+	text = {
+		localisation_key = string_char_cpl
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemD
+	random = no
+	text = {
+		localisation_key = string_char_d
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemE
+	random = no
+	text = {
+		localisation_key = string_char_e
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemEpl
+	random = no
+	text = {
+		localisation_key = string_char_epl
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemF
+	random = no
+	text = {
+		localisation_key = string_char_f
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemG
+	random = no
+	text = {
+		localisation_key = string_char_g
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemH
+	random = no
+	text = {
+		localisation_key = string_char_H
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemI
+	random = no
+	text = {
+		localisation_key = string_char_i
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemJ
+	random = no
+	text = {
+		localisation_key = string_char_j
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemK
+	random = no
+	text = {
+		localisation_key = string_char_k
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemL
+	random = no
+	text = {
+		localisation_key = string_char_l
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemLpl
+	random = no
+	text = {
+		localisation_key = string_char_lpl
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemM
+	random = no
+	text = {
+		localisation_key = string_char_m
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemN
+	random = no
+	text = {
+		localisation_key = string_char_n
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemNpl
+	random = no
+	text = {
+		localisation_key = string_char_npl
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemO
+	random = no
+	text = {
+		localisation_key = string_char_o
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemOpl
+	random = no
+	text = {
+		localisation_key = string_char_opl
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemP
+	random = no
+	text = {
+		localisation_key = string_char_p
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemR
+	random = no
+	text = {
+		localisation_key = string_char_r
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemS
+	random = no
+	text = {
+		localisation_key = string_char_s
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemSpl
+	random = no
+	text = {
+		localisation_key = string_char_spl
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemT
+	random = no
+	text = {
+		localisation_key = string_char_t
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemU
+	random = no
+	text = {
+		localisation_key = string_char_u
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemW
+	random = no
+	text = {
+		localisation_key = string_char_w
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemY
+	random = no
+	text = {
+		localisation_key = string_char_y
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemZ
+	random = no
+	text = {
+		localisation_key = string_char_z
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemZpl
+	random = no
+	text = {
+		localisation_key = string_char_zpl
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = FemXpl
+	random = no
+	text = {
+		localisation_key = string_char_xpl
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_empty
+	}
+}
+
+defined_text = {
+	name = MenA
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_a
+	}
+}
+
+defined_text = {
+	name = MenApl
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_apl
+	}
+}
+
+defined_text = {
+	name = MenB
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_b
+	}
+}
+
+defined_text = {
+	name = MenC
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_c
+	}
+}
+
+defined_text = {
+	name = MenCpl
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_cpl
+	}
+}
+
+defined_text = {
+	name = MenD
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_d
+	}
+}
+
+defined_text = {
+	name = MenE
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_e
+	}
+}
+
+defined_text = {
+	name = MenEpl
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_epl
+	}
+}
+
+defined_text = {
+	name = MenF
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_f
+	}
+}
+
+defined_text = {
+	name = MenG
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_g
+	}
+}
+
+defined_text = {
+	name = MenH
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_h
+	}
+}
+
+defined_text = {
+	name = MenI
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_i
+	}
+}
+
+defined_text = {
+	name = MenJ
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_j
+	}
+}
+
+defined_text = {
+	name = MenK
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_k
+	}
+}
+
+defined_text = {
+	name = MenL
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_l
+	}
+}
+
+defined_text = {
+	name = MenLpl
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_lpl
+	}
+}
+
+defined_text = {
+	name = MenM
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_m
+	}
+}
+
+defined_text = {
+	name = MenN
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_n
+	}
+}
+
+defined_text = {
+	name = MenNpl
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_npl
+	}
+}
+
+defined_text = {
+	name = MenP
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_p
+	}
+}
+
+defined_text = {
+	name = MenR
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_r
+	}
+}
+
+defined_text = {
+	name = MenS
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_s
+	}
+}
+
+defined_text = {
+	name = MenSpl
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_spl
+	}
+}
+
+defined_text = {
+	name = MenT
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_t
+	}
+}
+
+defined_text = {
+	name = MenU
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_u
+	}
+}
+
+defined_text = {
+	name = MenW
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_w
+	}
+}
+
+defined_text = {
+	name = MenY
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_y
+	}
+}
+
+defined_text = {
+	name = MenZ
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_z
+	}
+}
+
+defined_text = {
+	name = MenZpl
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_zpl
+	}
+}
+
+defined_text = {
+	name = MenXpl
+	random = no
+	text = {
+		localisation_key = string_char_empty
+		trigger = {
+			is_female = yes
+		}
+	}
+	text = {
+		localisation_key = string_char_xpl
 	}
 }
