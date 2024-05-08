@@ -1,4 +1,4 @@
-guiTypes = {
+﻿guiTypes = {
 
 	windowType = {
 		name = "countrycourtview"

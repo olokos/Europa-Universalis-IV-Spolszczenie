@@ -1,4 +1,4 @@
-name="Spolszczenie EUIV Community Edition"
+﻿name="Spolszczenie EUIV Community Edition"
 picture="thumbnail.png"
 version="3.5.2"
 tags={

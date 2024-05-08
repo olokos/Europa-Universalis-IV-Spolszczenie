@@ -1,4 +1,4 @@
-guiTypes = {
+ï»¿guiTypes = {
 	
 	#/////////////////////////////// LAND COMAT//////////////////////////////////////
 	
@@ -164,7 +164,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_22"
 				borderSize = {x = 0 y = 0}
-				text = "Battle of Skåne"	
+				text = "Battle of Skï¿½ne"	
 				maxWidth = 350
 				maxHeight = 24	
 				fixedsize = yes
@@ -832,7 +832,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_22"
 				borderSize = {x = 0 y = 0}
-				text = "Battle of Skåne"	
+				text = "Battle of Skï¿½ne"	
 				maxWidth = 350
 				maxHeight = 24	
 				fixedsize = yes
@@ -1089,7 +1089,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_22"
 				borderSize = {x = 0 y = 0}
-				text = "Battle of Skåne"	
+				text = "Battle of Skï¿½ne"	
 				maxWidth = 350
 				maxHeight = 24	
 				fixedsize = yes
