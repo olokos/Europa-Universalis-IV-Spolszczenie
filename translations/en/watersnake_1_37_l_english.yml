@@ -1,0 +1,7 @@
+﻿l_english:
+ GREAT_PROJECT_OUTLINER: "Great Projects"
+ OL_GREATPROJECT_CONSTRUCTION: "Constructing $BUILDING$ in $PROV$, expecting to be finished at date $DATE$."
+ EDICT_ALREADY_SELECTED: "This edict is already active."
+ EDICT_EFFECT_REMOVED: "§RWhen $EDICT$ is removed:§! $EFFECT$"
+ FREE_CULTURES_DESC: "Cultures promoted for free: "
+ FREELY_ACCEPTED_CULTURE_DESC: "This culture gives an aditional promoted culture slot if it is accepted."

@@ -1,0 +1,12 @@
+﻿l_english:
+ NO_ANNEX_PROGRESS_WHILE_PROVINCES_OCCUPIED: "Annexation will not progress while they don't control their provinces."
+ mechanic_heir: "Heirs"
+ MOVE_WITH_TRANSPORT_LOCKED: "It's possible to move here with help from transport ships, but some of the land units are currently movement locked."
+ MODIFIER_REVERSE_RELATION_WITH_HERETIC_RELIGION: "Opinion of Country from others of heretic Religions"
+ MODIFIER_REVERSE_RELATION_WITH_HEATHEN_RELIGION: "Opinion of Country from others of heathen Religions"
+ ROUND_VARIABLE: "Round $VAR|Y$."
+ CEILING_VARIABLE: "Round up $VAR|Y$."
+ FLOOR_VARIABLE: "Round down $VAR|Y$."
+ SQRT_VARIABLE: "Get a square root of $VAR|Y$."
+ RANDOM_VARIABLE: "Sets $VAR|Y$ to random between 0 and $VALUE|Y$"
+ MODULO_VARIABLE: "Modulo $VAR|Y$ with $VALUE|Y$"

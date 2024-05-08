@@ -225,7 +225,7 @@
  TRADING_POLICY_MOD: "$NAME|Y$ Trading Policy: $VAL$"
  MODIFIER_YEARLY_TRIBAL_ALLEGIANCE: "Yearly Tribal Allegiance"
  MODIFIER_SAME_CULTURE_ADVISOR_COST: "Cost of Advisors with Ruler's Culture"
- MODIFIER_PROMOTE_CULTURE_COST: "Promote Culture cost"
+ MODIFIER_PROMOTE_CULTURE_COST: "Promote Culture Cost"
  country_development: "Total Development"
  embrace_wahabism_title: ""
  embrace_wahabism_desc: ""

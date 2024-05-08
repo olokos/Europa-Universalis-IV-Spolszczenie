@@ -511,7 +511,7 @@
  alert_can_embrace_revolution_instant: "§YWe can embrace the Revolution§!"
  alert_can_embrace_revolution_delayed: "Revolutionary ideas have spread enough in our country that our citizens are ready to take up arms against kings and tyrants. We can embrace the Revolution now!"
  SPREAD_REVOLUTION_TREATY_NAME: "Spread the Revolution"
- SPREAD_REVOLUTION_TREATY_DESC: "Revolutionary ideas will spread to all $GIVER_ADJECTIVE|Y$ provinces in $CONTINENT|Y$. $TAKER|Y$ will gain $POWER|G$ of each monarch power and $GIVER|Y$ will lose $POWER|R$ of each monarch power."
+ SPREAD_REVOLUTION_TREATY_DESC: "Revolutionary ideas will spread to all $GIVER_ADJECTIVE|Y$ provinces. $TAKER|Y$ will gain $POWER|G$ of each monarch power and $GIVER|Y$ will lose $POWER|R$ of each monarch power."
  PEACE_OPTION_ONLY_REV_TARGET: "Only The Home of the Revolution, the Revolutionary Target can demand this peace option. Only they can spread the true revolution!"
  PEACE_OPTION_REQUIRES_PROVINCES_TO_SPREAD: "There is no province left to which the Revolution can be spread to."
  spread_revolution_to_enemy: "Spread the revolution to $TARGET$"

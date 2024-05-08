@@ -165,7 +165,7 @@
  FLAGSHIP_BUILD: "Build"
  HAS_FLAGSHIP: "Country has a Flagship"
  HAS_NOT_FLAGSHIP: "Country does not have a Flagship"
- MODIFIER_TRADE_COMPANY_INVESTMENT_COST: "Trade Company Investment cost"
+ MODIFIER_TRADE_COMPANY_INVESTMENT_COST: "Trade Company Investment Cost"
  RECENT_TREASURE_SHIP_PASSAGE: "Treasure ship recently passed through Trade Node."
  NO_RECENT_TREASURE_SHIP_PASSAGE: "No treasure ship recently passed through Trade Node."
  ANY_NATIVE_POLICY_SET: "Any Native Policy has been set."
