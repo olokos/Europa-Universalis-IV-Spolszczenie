@@ -1,0 +1,4 @@
+*.yml	text eol=lf
+*.gui	text eol=lf
+*.mod	text eol=lf
+*.bat 	text eol=crlf
