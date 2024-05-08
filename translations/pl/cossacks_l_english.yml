@@ -205,7 +205,7 @@
  BLOCK_OFFENSIVE_WARS_ENABLE_DESC: "Powiedzieliśmy krajowi §Y$COUNTRY$§!, że nie dołączymy do żadnej z ich wojen napastniczych. Przeszkodzi to również w gromadzeniu jakichkolwiek przysług i mogą zakończyć sojusz, jeśli uznają, że poradzą sobie bez ciebie. Kliknij, aby powiedzieć im, że ponownie dołączysz do wojen napastniczych."
  BLOCK_OFFENSIVE_WARS_DESC: "Kliknięcie tego pola uniemożliwi krajowi §Y$COUNTRY$§! wzywania cię do którejkolwiek z ich wojen napastniczych. Jednak zrobienie tego przeszkodzi również w gromadzeniu jakichkolwiek przysług i może zakończyć sojusz, jeśli uznają, że poradzą sobie bez ciebie."
  INCREASE_TRUST_CANNOT_COST: "§RPotrzebujesz przynajmniej §Y$COST$§! przysług, aby zwiększyć zaufanie §Y$COUNTRY_ADJ$§! do: §Y$PLAYER$§!!§!"
- INCREASE_TRUST_CANNOT_NOT_ALLY: "§RMusisz być sojusznikiem państwa §Y$COUNTRY$§!, aby zwiększyć zaufanie §Y$COUNTRY_ADJ$§! do: §Y$PLAYER$§!!§!"
+ INCREASE_TRUST_CANNOT_NOT_ALLY: "§RMusisz być sojusznikiem państwa §Y$COUNTRY_ADJ$§!, aby zwiększyć zaufanie §Y$COUNTRY_ADJ$§! do: §Y$PLAYER$§!!§!"
  INCREASE_TRUST_TOO_TRUSTY: "Kraj §R$COUNTRY|Y$ osiągnął już największe możliwe zaufanie do: $PLAYER|Y$.§!"
  INCREASE_TRUST_DESC: "Wykorzystaj §Y$COST$§! przysług, aby zwiększyć zaufanie §Y$COUNTRY_ADJ$§! do: §Y$PLAYER$§! o §Y$AMT$§!."
  PREPARE_WAR_CANNOT_COST: "§RPotrzebujesz przynajmniej §Y$COST$§! przysług u państwa §Y$COUNTRY$§!, aby poprosić ich o przygotowanie się do wojny.§!"

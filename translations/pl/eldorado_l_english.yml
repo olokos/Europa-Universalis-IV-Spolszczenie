@@ -798,7 +798,7 @@
  nahuatl_events.17.a: "Przestrzegajmy zaleceń i miejmy nadzieję że to pomoże"
  nahuatl_events.17.b: "Musimy złożyć duże ofiary, aby udobruchać bogów."
  nahuatl_events.18.t: "Ollamalitzli"
- nahuatl_events.18.d: "W swojej młodości [Root.Heir.GetName] stał się całkiem biegły w tradycyjnej grze w piłkę Ollamalitzli, ale jako dorosły musiał porzucić ten nawyk. Rozgrywki toczą się w różnych dzielnicach stolicy, jednak [Root.Heir.GetSheHe] często jest obecny jako widz na różnych dworach w pobliżu świątyń lub rynków. Ten zwyczaj musi również obejmować udział w dzikich zakładach, które są często kojarzone z grą, ponieważ [Root.Heir.GetName] przyszedł do ciebie dzisiaj z prośbą o pomoc w spłacie [Root.Heir.GetHerHis] długów."
+ nahuatl_events.18.d: "W swojej młodości [Root.Heir.GetName] stał[Root.Heir.GetANoun] się całkiem biegł[Root.Heir.GetAY] w tradycyjnej grze w piłkę Ollamalitzli, ale jako dorosł[Root.Heir.GetAY] musiał[Root.Heir.GetANoun] porzucić ten nawyk. Rozgrywki toczą się w różnych dzielnicach stolicy, jednak [Root.Heir.GetSheHe] często jest obecn[Root.Heir.GetAY] jako widz na różnych dworach w pobliżu świątyń lub rynków. Ten zwyczaj musi również obejmować udział w dzikich zakładach, które są często kojarzone z grą, ponieważ [Root.Heir.GetName] przysz[Root.Heir.GetLaEdl] do ciebie dzisiaj z prośbą o pomoc w spłacie [Root.Heir.GetHerHis] długów."
  nahuatl_events.18.a: "Pomóż [Root.Heir.GetHerHim]"
  nahuatl_events.18.b: "Zabroń [Root.Heir.GetHerHim] udziały w zakładach"
  nahuatl_events.19.t: "Kradzież więźnia"

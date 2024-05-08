@@ -1,0 +1,12 @@
+﻿l_english:
+ NO_ANNEX_PROGRESS_WHILE_PROVINCES_OCCUPIED: "Kiedy nie kontrolują swoich prowincji, postęp aneksji zostanie wstrzymany."
+ mechanic_heir: "Następcy"
+ MOVE_WITH_TRANSPORT_LOCKED: "Ruch tutaj możliwy jest z pomocą statków transportowych, ale niektóre jednostki lądowe są obecnie zablokowane."
+ MODIFIER_REVERSE_RELATION_WITH_HERETIC_RELIGION: "Opinia państwa przez inne heretyckie religie"
+ MODIFIER_REVERSE_RELATION_WITH_HEATHEN_RELIGION: "Opinia państwa przez inne pogańskie religie"
+ ROUND_VARIABLE: "Zaokrąglenie $VAR|Y$."
+ CEILING_VARIABLE: "Zaokrąglenie w górę $VAR|Y$."
+ FLOOR_VARIABLE: "Zaokrąglenie w dół $VAR|Y$."
+ SQRT_VARIABLE: "Uzyskanie pierwiastka kwadratowego z $VAR|Y$."
+ RANDOM_VARIABLE: "Ustawia $VAR|Y$ na wartość losową pomiędzy 0 a $VALUE|Y$"
+ MODULO_VARIABLE: "Modulo $VAR|Y$ z $VALUE|Y$"

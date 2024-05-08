@@ -474,6 +474,7 @@
  NO_TRUCE_COALITION: "Nie możesz utworzyć koalicji przeciwko państwu, z którym zawarłeś rozejm."
  ADJ_C_SPEED: "Związane z centrum reformacji: $VAL$\n"
  C_SP_MISSIONARY_ZEAL: "Siła heretyckich misjonarzy z państwa $WHO$: $VAL$\n"
+ C_SP_MISSIONARY_ZEAL_HEATHEN: ""
  C_SP_DEVELOPMENT: "Poziom rozwoju prowincji $PROVINCE$: $VAL$\n"
  C_SP_HER_TOLERANCE: "Tolerancja względem heretyków: $VAL$\n"
  CLIENT_SINCE: "Państwo uzależnione od kraju §Y$OTHER$§W od §Y$SINCE$§W"

@@ -835,7 +835,7 @@
  EVTNAME6140: "Biznes rozkwita"
  EVTDESC6140: "Nasze zmyślne praktyki handlowe przyciągają do nas kupców. Wydajność naszego handlu wzrasta."
  EVTNAME857: "Kompetentna dyplomacja!"
- EVTDESC857: "Praca, którą udało się wykonać naszemu monarsze, którym jest $MONARCHTITLE$ $MONARCH$ przynosi efekty. Nasza niesława znacznie się zmniejszyła dzięki jego gładkim mowom."
+ EVTDESC857: "Praca, którą udało się wykonać naszemu monarsze, którym jest $MONARCHTITLE$ $MONARCH$ przynosi efekty. Nasza niesława znacznie się zmniejszyła dzięki $RULER_ADJ$ gładkim mowom."
  EVTOPTA857: "$MONARCH$ - zawsze można mu ufać..."
  EVTNAME858: "Niekompetentny dyplomata!"
  EVTDESC858: "To niepojęte, jak kiepsko nasz monarcha $MONARCH$ radzi sobie z dyplomacją. Nie wiem, jak to robi, ale jednymi przeprosinami udało mu się pogorszyć naszą pozycję dyplomatyczną."
