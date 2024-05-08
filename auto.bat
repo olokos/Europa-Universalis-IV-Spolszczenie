@@ -1,4 +1,4 @@
-:: BUILDER SETTINGS
+﻿:: BUILDER SETTINGS
 set language="pl"
 set charset="polish"
 set project_folder="Spolszczenie_EUIV_Community_Edition"

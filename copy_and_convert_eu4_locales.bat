@@ -1,4 +1,4 @@
-@echo off
+﻿@echo off
 :: SCRIPT SETTINGS
 set charset="polish"
 set parser_version="0.1.16"
