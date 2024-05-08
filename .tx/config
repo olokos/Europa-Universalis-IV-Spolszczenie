@@ -7,6 +7,23 @@ minimum_perc = 0
 source_file = translations/en/00_lanfang_l_english.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = 00_lanfang
+
+[o:europa-universalis-iv-community-translation:p:Community-edition:r:125]
+file_filter = translations/<lang>/125_l_english.yml
+minimum_perc = 0
+source_file = translations/en/125_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = 125
+
+[o:europa-universalis-iv-community-translation:p:Community-edition:r:126]
+file_filter = translations/<lang>/126_l_english.yml
+minimum_perc = 0
+source_file = translations/en/126_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = 126
 
 [o:europa-universalis-iv-community-translation:p:Community-edition:r:1283-l-english-yml]
 file_filter = translations/<lang>/1283_l_english.yml
@@ -54,6 +71,13 @@ type = YAML_GENERIC
 file_filter = translations/<lang>/astu_1_34_l_english.yml
 minimum_perc = 0
 source_file = translations/en/astu_1_34_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[o:europa-universalis-iv-community-translation:p:Community-edition:r:branching-mission-system-l-english-yml]
+file_filter = translations/<lang>/branching_mission_system_l_english.yml
+minimum_perc = 0
+source_file = translations/en/branching_mission_system_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
@@ -315,6 +339,15 @@ minimum_perc = 0
 source_file = translations/en/gecko_1_36_l_english.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = gecko_1_36
+
+[o:europa-universalis-iv-community-translation:p:Community-edition:r:gecko-1-37]
+file_filter = translations/<lang>/gecko_1_37_l_english.yml
+minimum_perc = 0
+source_file = translations/en/gecko_1_37_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = gecko_1_37
 
 [o:europa-universalis-iv-community-translation:p:Community-edition:r:generic-events-l-english-yml]
 file_filter = translations/<lang>/generic_events_l_english.yml
@@ -343,6 +376,14 @@ minimum_perc = 0
 source_file = translations/en/goose_1_36_l_english.yml
 source_lang = en
 type = YAML_GENERIC
+
+[o:europa-universalis-iv-community-translation:p:Community-edition:r:goose-1-37]
+file_filter = translations/<lang>/goose_1_37_l_english.yml
+minimum_perc = 0
+source_file = translations/en/goose_1_37_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = goose_1_37
 
 [o:europa-universalis-iv-community-translation:p:Community-edition:r:government-l-english-yml]
 file_filter = translations/<lang>/government_l_english.yml
@@ -399,6 +440,14 @@ minimum_perc = 0
 source_file = translations/en/insults_l_english.yml
 source_lang = en
 type = YAML_GENERIC
+
+[o:europa-universalis-iv-community-translation:p:Community-edition:r:kairis-soundtrack-part-3]
+file_filter = translations/<lang>/kairis_soundtrack_part_3_l_english.yml
+minimum_perc = 0
+source_file = translations/en/kairis_soundtrack_part_3_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = kairis_soundtrack_part_3
 
 [o:europa-universalis-iv-community-translation:p:Community-edition:r:kairismusic-l-english-yml]
 file_filter = translations/<lang>/kairismusic_l_english.yml
@@ -932,6 +981,30 @@ source_file = translations/en/watersnake_1_36_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
+[o:europa-universalis-iv-community-translation:p:Community-edition:r:watersnake-1-37]
+file_filter = translations/<lang>/watersnake_1_37_l_english.yml
+minimum_perc = 0
+source_file = translations/en/watersnake_1_37_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = watersnake_1_37
+
+[o:europa-universalis-iv-community-translation:p:Community-edition:r:winds-of-change]
+file_filter = translations/<lang>/winds_of_change_l_english.yml
+minimum_perc = 0
+source_file = translations/en/winds_of_change_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = winds_of_change
+
+[o:europa-universalis-iv-community-translation:p:Community-edition:r:winds-of-change-music]
+file_filter = translations/<lang>/winds_of_change_music_l_english.yml
+minimum_perc = 0
+source_file = translations/en/winds_of_change_music_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = winds_of_change_music
+
 [o:europa-universalis-iv-community-translation:p:Community-edition:r:womeninhistory-l-english-yml]
 file_filter = translations/<lang>/womeninhistory_l_english.yml
 minimum_perc = 0
@@ -946,10 +1019,11 @@ source_file = translations/en/yama_1_36_l_english.yml
 source_lang = en
 type = YAML_GENERIC
 
-[o:europa-universalis-iv-community-translation:p:Community-edition:r:branching-mission-system-l-english-yml]
-file_filter = translations/<lang>/branching_mission_system_l_english.yml
+[o:europa-universalis-iv-community-translation:p:Community-edition:r:yama-1-37]
+file_filter = translations/<lang>/yama_1_37_l_english.yml
 minimum_perc = 0
-source_file = translations/en/branching_mission_system_l_english.yml
+source_file = translations/en/yama_1_37_l_english.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = yama_1_37
 
