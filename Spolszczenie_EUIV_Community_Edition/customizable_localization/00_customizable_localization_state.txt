@@ -1,4 +1,4 @@
-defined_text = {
+﻿defined_text = {
 	name = GetStateForm_ins
 	random = no
 

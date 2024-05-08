@@ -1,4 +1,4 @@
-defined_text = {
+﻿defined_text = {
 	name = GetRulerGen
 	random = no
 	text={

@@ -1,4 +1,4 @@
-
+﻿
 defined_text = {
 	name = GetBrahminsName_CL
 	random = no
