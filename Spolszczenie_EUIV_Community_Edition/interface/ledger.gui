@@ -1,4 +1,4 @@
-﻿guiTypes = {
+guiTypes = {
 	windowType = {
 		name = "ledger_piechart_entry"
 		backGround =""

@@ -1,4 +1,4 @@
-﻿guiTypes = {
+guiTypes = {
 	positionType = {
 		name = "number_of_reforms_per_row"
 		position = { x=4 y=0 }

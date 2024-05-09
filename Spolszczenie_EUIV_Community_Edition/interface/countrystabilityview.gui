@@ -1,4 +1,4 @@
-﻿guiTypes = {
+guiTypes = {
 
 	#x is minimum resolution height for this country view to increase to large size
 	#y is the size increase for lists and distance to move for buttons at the bottom of the country view

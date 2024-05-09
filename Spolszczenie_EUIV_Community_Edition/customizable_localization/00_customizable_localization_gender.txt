@@ -1,4 +1,4 @@
-﻿
+
 ## Dodanie żeńskiej końcówki -a lub męskiej -null
 defined_text = {
 	name = GetANoun
