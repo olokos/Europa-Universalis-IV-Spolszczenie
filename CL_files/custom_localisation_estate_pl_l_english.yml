@@ -10,6 +10,7 @@
  string_estate_pastors: "pastorzy" #Pastorzy MM
  string_estate_popes: "patriarchowie" #Patriarchowie MM
  string_estate_shamans: "szamani" #Szamani MM
+ string_estate_horde_shamans: "szamani" #Szamani MM
  string_estate_gurus: "guru" #Guru MM
  string_estate_medicine_men: "uzdrawiacze" #Uzdrawiacze MM
  string_estate_godar: "goðar" #Goðar MM
@@ -43,6 +44,8 @@
  string_estate_kshatriyas: "kszatrijowie" #Kszatrijowie MM
  string_estate_qinwang: "qinwang" #Qinwang PM
  string_estate_mansabdars: "mansabdarowie" #Mansabdarowie MM
+ string_estate_pakoyoq: "" # MM
+ string_estate_almahen: "" # MM
  string_estate_tetecuhtin: "tetecuhtin" #Tetecuhtin PM
  string_estate_andriana: "andriana" #Andriana PM
  string_estate_amirs: "emirowie" #Emirowie MM
@@ -62,6 +65,7 @@
  string_estate_bourgeoisie: "burżuazja" #Burżuazja PZ
  string_estate_shangbang: "shangbang" #Shangbang PM
  string_estate_neoconfucian_reformers: "neokonfucjańscy reformatorzy" #Neokonfucjańscy reformatorzy MM
+ string_estate_ppolom: "" # MM
  string_estate_pochteca: "pochtekowie" #Pochtekowie MM
  string_estate_merchant_guilds: "gildie kupieckie" #Gildie kupieckie MZ
  string_estate_burghers: "mieszczaństwo" #Mieszczaństwo PN
@@ -85,6 +89,7 @@
  string_estate_pastors_Cap: "Pastorzy" #Pastorzy MM
  string_estate_popes_Cap: "Patriarchowie" #Patriarchowie MM
  string_estate_shamans_Cap: "Szamani" #Szamani MM
+ string_estate_horde_shamans_Cap: "Szamani" #Szamani MM
  string_estate_gurus_Cap: "Guru" #Guru MM
  string_estate_medicine_men_Cap: "Uzdrawiacze" #Uzdrawiacze MM
  string_estate_godar_Cap: "Goðar" #Goðar MM
@@ -118,6 +123,8 @@
  string_estate_kshatriyas_Cap: "Kszatrijowie" #Kszatrijowie MM
  string_estate_qinwang_Cap: "Qinwang" #Qinwang PM
  string_estate_mansabdars_Cap: "Mansabdarowie" #Mansabdarowie MM
+ string_estate_pakoyoq_Cap: "" # MM
+ string_estate_almahen_Cap: "" # MM
  string_estate_tetecuhtin_Cap: "Tetecuhtin" #Tetecuhtin PM
  string_estate_andriana_Cap: "Andriana" #Andriana PM
  string_estate_amirs_Cap: "Emirowie" #Emirowie MM
@@ -137,6 +144,7 @@
  string_estate_bourgeoisie_Cap: "Burżuazja" #Burżuazja PZ
  string_estate_shangbang_Cap: "Shangbang" #Shangbang PM
  string_estate_neoconfucian_reformers_Cap: "Neokonfucjańscy reformatorzy" #Neokonfucjańscy reformatorzy MM
+ string_estate_ppolom_Cap: "" # MM
  string_estate_pochteca_Cap: "Pochtekowie" #Pochtekowie MM
  string_estate_merchant_guilds_Cap: "Gildie kupieckie" #Gildie kupieckie MZ
  string_estate_burghers_Cap: "Mieszczaństwo" #Mieszczaństwo PN
@@ -161,6 +169,7 @@
  string_gen_estate_pastors: "pastorów" #Pastorzy
  string_gen_estate_popes: "patriarchów" #Patriarchowie
  string_gen_estate_shamans: "szamanów" #Szamani
+ string_gen_estate_horde_shamans: "szamanów" #Szamani
  string_gen_estate_gurus: "guru" #Guru
  string_gen_estate_medicine_men: "uzdrawiaczy" #Uzdrawiacze
  string_gen_estate_godar: "goðar" #Goðar
@@ -194,6 +203,8 @@
  string_gen_estate_kshatriyas: "kszatrijów" #Kszatrijowie
  string_gen_estate_qinwang: "qinwangu" #Qinwang
  string_gen_estate_mansabdars: "mansabdarów" #Mansabdarowie
+ string_gen_estate_pakoyoq: "" #
+ string_gen_estate_almahen: "" #
  string_gen_estate_tetecuhtin: "tetecuhtin" #Tetecuhtin
  string_gen_estate_andriana: "andriany" #Andriana
  string_gen_estate_amirs: "emirów" #Emirowie
@@ -213,6 +224,7 @@
  string_gen_estate_bourgeoisie: "burżuazji" #Burżuazja
  string_gen_estate_shangbang: "shangbangu" #Shangbang
  string_gen_estate_neoconfucian_reformers: "neokonfucjańskich reformatorów" #Neokonfucjańscy reformatorzy
+ string_gen_estate_ppolom: "" #
  string_gen_estate_pochteca: "pochteków" #Pochtekowie
  string_gen_estate_merchant_guilds: "gildii kupieckich" #Gildie kupieckie
  string_gen_estate_burghers: "mieszczaństwa" #Mieszczaństwo
@@ -236,6 +248,7 @@
  string_gen_estate_pastors_Cap: "Pastorów" #Pastorzy
  string_gen_estate_popes_Cap: "Patriarchów" #Patriarchowie
  string_gen_estate_shamans_Cap: "Szamanów" #Szamani
+ string_gen_estate_horde_shamans_Cap: "Szamanów" #Szamani
  string_gen_estate_gurus_Cap: "Guru" #Guru
  string_gen_estate_medicine_men_Cap: "Uzdrawiaczy" #Uzdrawiacze
  string_gen_estate_godar_Cap: "Goðar" #Goðar
@@ -269,6 +282,8 @@
  string_gen_estate_kshatriyas_Cap: "Kszatrijów" #Kszatrijowie
  string_gen_estate_qinwang_Cap: "Qinwangu" #Qinwang
  string_gen_estate_mansabdars_Cap: "Mansabdarów" #Mansabdarowie
+ string_gen_estate_pakoyoq_Cap: "" #
+ string_gen_estate_almahen_Cap: "" #
  string_gen_estate_tetecuhtin_Cap: "Tetecuhtin" #Tetecuhtin
  string_gen_estate_andriana_Cap: "Andriany" #Andriana
  string_gen_estate_amirs_Cap: "Emirów" #Emirowie
@@ -288,6 +303,7 @@
  string_gen_estate_bourgeoisie_Cap: "Burżuazji" #Burżuazja
  string_gen_estate_shangbang_Cap: "Shangbangu" #Shangbang
  string_gen_estate_neoconfucian_reformers_Cap: "Neokonfucjańskich reformatorów" #Neokonfucjańscy reformatorzy
+ string_gen_estate_ppolom_Cap: "" #
  string_gen_estate_pochteca_Cap: "Pochteków" #Pochtekowie
  string_gen_estate_merchant_guilds_Cap: "Gildii kupieckich" #Gildie kupieckie
  string_gen_estate_burghers_Cap: "Mieszczaństwa" #Mieszczaństwo
@@ -312,6 +328,7 @@
  string_dat_estate_pastors: "pastorom" #Pastorzy
  string_dat_estate_popes: "patriarchom" #Patriarchowie
  string_dat_estate_shamans: "szamanom" #Szamani
+ string_dat_estate_horde_shamans: "szamanom" #Szamani
  string_dat_estate_gurus: "guru" #Guru
  string_dat_estate_medicine_men: "uzdrawiaczom" #Uzdrawiacze
  string_dat_estate_godar: "goðar" #Goðar
@@ -345,6 +362,8 @@
  string_dat_estate_kshatriyas: "kszatrijom" #Kszatrijowie
  string_dat_estate_qinwang: "qinwangowi" #Qinwang
  string_dat_estate_mansabdars: "mansabdarom" #Mansabdarowie
+ string_dat_estate_pakoyoq: "" #
+ string_dat_estate_almahen: "" #
  string_dat_estate_tetecuhtin: "tetecuhtin" #Tetecuhtin
  string_dat_estate_andriana: "andrianie" #Andriana
  string_dat_estate_amirs: "emirom" #Emirowie
@@ -364,6 +383,7 @@
  string_dat_estate_bourgeoisie: "burżuazji" #Burżuazja
  string_dat_estate_shangbang: "shangbangowi" #Shangbang
  string_dat_estate_neoconfucian_reformers: "neokonfucjańskim reformatorom" #Neokonfucjańscy reformatorzy
+ string_dat_estate_ppolom: "" #
  string_dat_estate_pochteca: "pochtekom" #Pochtekowie
  string_dat_estate_merchant_guilds: "gildiom kupieckim" #Gildie kupieckie
  string_dat_estate_burghers: "mieszczaństwu" #Mieszczaństwo
@@ -387,6 +407,7 @@
  string_dat_estate_pastors_Cap: "Pastorom" #Pastorzy
  string_dat_estate_popes_Cap: "Patriarchom" #Patriarchowie
  string_dat_estate_shamans_Cap: "Szamanom" #Szamani
+ string_dat_estate_horde_shamans_Cap: "Szamanom" #Szamani
  string_dat_estate_gurus_Cap: "Guru" #Guru
  string_dat_estate_medicine_men_Cap: "Uzdrawiaczom" #Uzdrawiacze
  string_dat_estate_godar_Cap: "Goðar" #Goðar
@@ -420,6 +441,8 @@
  string_dat_estate_kshatriyas_Cap: "Kszatrijom" #Kszatrijowie
  string_dat_estate_qinwang_Cap: "Qinwangowi" #Qinwang
  string_dat_estate_mansabdars_Cap: "Mansabdarom" #Mansabdarowie
+ string_dat_estate_pakoyoq_Cap: "" #
+ string_dat_estate_almahen_Cap: "" #
  string_dat_estate_tetecuhtin_Cap: "Tetecuhtin" #Tetecuhtin
  string_dat_estate_andriana_Cap: "Andrianie" #Andriana
  string_dat_estate_amirs_Cap: "Emirom" #Emirowie
@@ -439,6 +462,7 @@
  string_dat_estate_bourgeoisie_Cap: "Burżuazji" #Burżuazja
  string_dat_estate_shangbang_Cap: "Shangbangowi" #Shangbang
  string_dat_estate_neoconfucian_reformers_Cap: "Neokonfucjańskim reformatorom" #Neokonfucjańscy reformatorzy
+ string_dat_estate_ppolom_Cap: "" #
  string_dat_estate_pochteca_Cap: "Pochtekom" #Pochtekowie
  string_dat_estate_merchant_guilds_Cap: "Gildiom kupieckim" #Gildie kupieckie
  string_dat_estate_burghers_Cap: "Mieszczaństwu" #Mieszczaństwo
@@ -463,6 +487,7 @@
  string_ins_estate_pastors: "pastorami" #Pastorzy
  string_ins_estate_popes: "patriarchami" #Patriarchowie
  string_ins_estate_shamans: "szamanami" #Szamani
+ string_ins_estate_horde_shamans: "szamanami" #Szamani
  string_ins_estate_gurus: "guru" #Guru
  string_ins_estate_medicine_men: "uzdrawiaczami" #Uzdrawiacze
  string_ins_estate_godar: "goðar" #Goðar
@@ -496,6 +521,8 @@
  string_ins_estate_kshatriyas: "kszatrijami" #Kszatrijowie
  string_ins_estate_qinwang: "qinwangiem" #Qinwang
  string_ins_estate_mansabdars: "mansabdarami" #Mansabdarowie
+ string_ins_estate_pakoyoq: "" #
+ string_ins_estate_almahen: "" #
  string_ins_estate_tetecuhtin: "tetecuhtin" #Tetecuhtin
  string_ins_estate_andriana: "andrianą" #Andriana
  string_ins_estate_amirs: "emirami" #Emirowie
@@ -515,6 +542,7 @@
  string_ins_estate_bourgeoisie: "burżuazją" #Burżuazja
  string_ins_estate_shangbang: "shangbangiem" #Shangbang
  string_ins_estate_neoconfucian_reformers: "neokonfucjańskimi reformatorami" #Neokonfucjańscy reformatorzy
+ string_ins_estate_ppolom: "" #
  string_ins_estate_pochteca: "pochtekami" #Pochtekowie
  string_ins_estate_merchant_guilds: "gildiami kupieckimi" #Gildie kupieckie
  string_ins_estate_burghers: "mieszczaństwem" #Mieszczaństwo
@@ -538,6 +566,7 @@
  string_ins_estate_pastors_Cap: "Pastorami" #Pastorzy
  string_ins_estate_popes_Cap: "Patriarchami" #Patriarchowie
  string_ins_estate_shamans_Cap: "Szamanami" #Szamani
+ string_ins_estate_horde_shamans_Cap: "Szamanami" #Szamani
  string_ins_estate_gurus_Cap: "Guru" #Guru
  string_ins_estate_medicine_men_Cap: "Uzdrawiaczami" #Uzdrawiacze
  string_ins_estate_godar_Cap: "Goðar" #Goðar
@@ -571,6 +600,8 @@
  string_ins_estate_kshatriyas_Cap: "Kszatrijami" #Kszatrijowie
  string_ins_estate_qinwang_Cap: "Qinwangiem" #Qinwang
  string_ins_estate_mansabdars_Cap: "Mansabdarami" #Mansabdarowie
+ string_ins_estate_pakoyoq_Cap: "" #
+ string_ins_estate_almahen_Cap: "" #
  string_ins_estate_tetecuhtin_Cap: "Tetecuhtin" #Tetecuhtin
  string_ins_estate_andriana_Cap: "Andrianą" #Andriana
  string_ins_estate_amirs_Cap: "Emirami" #Emirowie
@@ -590,6 +621,7 @@
  string_ins_estate_bourgeoisie_Cap: "Burżuazją" #Burżuazja
  string_ins_estate_shangbang_Cap: "Shangbangiem" #Shangbang
  string_ins_estate_neoconfucian_reformers_Cap: "Neokonfucjańskimi reformatorami" #Neokonfucjańscy reformatorzy
+ string_ins_estate_ppolom_Cap: "" #
  string_ins_estate_pochteca_Cap: "Pochtekami" #Pochtekowie
  string_ins_estate_merchant_guilds_Cap: "Gildiami kupieckimi" #Gildie kupieckie
  string_ins_estate_burghers_Cap: "Mieszczaństwem" #Mieszczaństwo

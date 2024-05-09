@@ -1,4 +1,4 @@
-﻿
+
 defined_text = {
 	name = GetBrahminsName_CL
 	random = no
@@ -81,6 +81,13 @@ defined_text = {
 			OR = {
 				religion = tengri_pagan_reformed
 			}
+		}
+	}
+	text = {
+		localisation_key = string_estate_horde_shamans
+		trigger = {
+			has_country_flag = hordes_devout_tengri_completion_flag
+			religion = tengri_pagan_reformed
 		}
 	}
 	text = {
@@ -313,7 +320,21 @@ defined_text = {
 			OR = {
 				tag = MUG
 				has_government_attribute = enable_mansabdar_privileges
+				primary_culture = inca
+				is_mayan_society_trigger = yes
 			}
+		}
+	}
+	text = {
+		localisation_key = string_estate_pakoyoq
+		trigger = {
+			primary_culture = inca
+		}
+	}
+	text = {
+		localisation_key = string_estate_almahen
+		trigger = {
+			is_mayan_society_trigger = yes
 		}
 	}
 	text = {
@@ -361,7 +382,10 @@ defined_text = {
 				has_reform = prussian_republic_reform
 				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
-				tag = GER
+				AND = {
+					primary_culture = prussian 
+					tag = GER
+				}
 			}
 		}
 	}
@@ -451,6 +475,12 @@ defined_text = {
 		localisation_key = string_estate_shangbang
 		trigger = {
 			culture_group = east_asian
+		}
+	}
+	text = {
+		localisation_key = string_estate_ppolom
+		trigger = {
+			is_mayan_society_trigger = yes
 		}
 	}
 	text = {
@@ -641,6 +671,13 @@ defined_text = {
 			OR = {
 				religion = tengri_pagan_reformed
 			}
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_horde_shamans
+		trigger = {
+			has_country_flag = hordes_devout_tengri_completion_flag
+			religion = tengri_pagan_reformed
 		}
 	}
 	text = {
@@ -873,7 +910,21 @@ defined_text = {
 			OR = {
 				tag = MUG
 				has_government_attribute = enable_mansabdar_privileges
+				primary_culture = inca
+				is_mayan_society_trigger = yes
 			}
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_pakoyoq
+		trigger = {
+			primary_culture = inca
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_almahen
+		trigger = {
+			is_mayan_society_trigger = yes
 		}
 	}
 	text = {
@@ -921,7 +972,10 @@ defined_text = {
 				has_reform = prussian_republic_reform
 				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
-				tag = GER
+				AND = {
+					primary_culture = prussian 
+					tag = GER
+				}
 			}
 		}
 	}
@@ -1011,6 +1065,12 @@ defined_text = {
 		localisation_key = string_gen_estate_shangbang
 		trigger = {
 			culture_group = east_asian
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_ppolom
+		trigger = {
+			is_mayan_society_trigger = yes
 		}
 	}
 	text = {
@@ -1200,6 +1260,13 @@ defined_text = {
 			OR = {
 				religion = tengri_pagan_reformed
 			}
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_horde_shamans
+		trigger = {
+			has_country_flag = hordes_devout_tengri_completion_flag
+			religion = tengri_pagan_reformed
 		}
 	}
 	text = {
@@ -1432,7 +1499,21 @@ defined_text = {
 			OR = {
 				tag = MUG
 				has_government_attribute = enable_mansabdar_privileges
+				primary_culture = inca
+				is_mayan_society_trigger = yes
 			}
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_pakoyoq
+		trigger = {
+			primary_culture = inca
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_almahen
+		trigger = {
+			is_mayan_society_trigger = yes
 		}
 	}
 	text = {
@@ -1480,7 +1561,10 @@ defined_text = {
 				has_reform = prussian_republic_reform
 				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
-				tag = GER
+				AND = {
+					primary_culture = prussian 
+					tag = GER
+				}
 			}
 		}
 	}
@@ -1570,6 +1654,12 @@ defined_text = {
 		localisation_key = string_dat_estate_shangbang
 		trigger = {
 			culture_group = east_asian
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_ppolom
+		trigger = {
+			is_mayan_society_trigger = yes
 		}
 	}
 	text = {
@@ -1760,6 +1850,13 @@ defined_text = {
 			OR = {
 				religion = tengri_pagan_reformed
 			}
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_horde_shamans
+		trigger = {
+			has_country_flag = hordes_devout_tengri_completion_flag
+			religion = tengri_pagan_reformed
 		}
 	}
 	text = {
@@ -1992,7 +2089,21 @@ defined_text = {
 			OR = {
 				tag = MUG
 				has_government_attribute = enable_mansabdar_privileges
+				primary_culture = inca
+				is_mayan_society_trigger = yes
 			}
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_pakoyoq
+		trigger = {
+			primary_culture = inca
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_almahen
+		trigger = {
+			is_mayan_society_trigger = yes
 		}
 	}
 	text = {
@@ -2040,7 +2151,10 @@ defined_text = {
 				has_reform = prussian_republic_reform
 				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
-				tag = GER
+				AND = {
+					primary_culture = prussian 
+					tag = GER
+				}
 			}
 		}
 	}
@@ -2130,6 +2244,12 @@ defined_text = {
 		localisation_key = string_ins_estate_shangbang
 		trigger = {
 			culture_group = east_asian
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_ppolom
+		trigger = {
+			is_mayan_society_trigger = yes
 		}
 	}
 	text = {
@@ -2321,6 +2441,13 @@ defined_text = {
 			OR = {
 				religion = tengri_pagan_reformed
 			}
+		}
+	}
+	text = {
+		localisation_key = string_estate_horde_shamans_Cap
+		trigger = {
+			has_country_flag = hordes_devout_tengri_completion_flag
+			religion = tengri_pagan_reformed
 		}
 	}
 	text = {
@@ -2553,7 +2680,21 @@ defined_text = {
 			OR = {
 				tag = MUG
 				has_government_attribute = enable_mansabdar_privileges
+				primary_culture = inca
+				is_mayan_society_trigger = yes
 			}
+		}
+	}
+	text = {
+		localisation_key = string_estate_pakoyoq_Cap
+		trigger = {
+			primary_culture = inca
+		}
+	}
+	text = {
+		localisation_key = string_estate_almahen_Cap
+		trigger = {
+			is_mayan_society_trigger = yes
 		}
 	}
 	text = {
@@ -2601,7 +2742,10 @@ defined_text = {
 				has_reform = prussian_republic_reform
 				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
-				tag = GER
+				AND = {
+					primary_culture = prussian 
+					tag = GER
+				}
 			}
 		}
 	}
@@ -2691,6 +2835,12 @@ defined_text = {
 		localisation_key = string_estate_shangbang_Cap
 		trigger = {
 			culture_group = east_asian
+		}
+	}
+	text = {
+		localisation_key = string_estate_ppolom_Cap
+		trigger = {
+			is_mayan_society_trigger = yes
 		}
 	}
 	text = {
@@ -2881,6 +3031,13 @@ defined_text = {
 			OR = {
 				religion = tengri_pagan_reformed
 			}
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_horde_shamans_Cap
+		trigger = {
+			has_country_flag = hordes_devout_tengri_completion_flag
+			religion = tengri_pagan_reformed
 		}
 	}
 	text = {
@@ -3113,7 +3270,21 @@ defined_text = {
 			OR = {
 				tag = MUG
 				has_government_attribute = enable_mansabdar_privileges
+				primary_culture = inca
+				is_mayan_society_trigger = yes
 			}
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_pakoyoq_Cap
+		trigger = {
+			primary_culture = inca
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_almahen_Cap
+		trigger = {
+			is_mayan_society_trigger = yes
 		}
 	}
 	text = {
@@ -3161,7 +3332,10 @@ defined_text = {
 				has_reform = prussian_republic_reform
 				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
-				tag = GER
+				AND = {
+					primary_culture = prussian 
+					tag = GER
+				}
 			}
 		}
 	}
@@ -3251,6 +3425,12 @@ defined_text = {
 		localisation_key = string_gen_estate_shangbang_Cap
 		trigger = {
 			culture_group = east_asian
+		}
+	}
+	text = {
+		localisation_key = string_gen_estate_ppolom_Cap
+		trigger = {
+			is_mayan_society_trigger = yes
 		}
 	}
 	text = {
@@ -3440,6 +3620,13 @@ defined_text = {
 			OR = {
 				religion = tengri_pagan_reformed
 			}
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_horde_shamans_Cap
+		trigger = {
+			has_country_flag = hordes_devout_tengri_completion_flag
+			religion = tengri_pagan_reformed
 		}
 	}
 	text = {
@@ -3672,7 +3859,21 @@ defined_text = {
 			OR = {
 				tag = MUG
 				has_government_attribute = enable_mansabdar_privileges
+				primary_culture = inca
+				is_mayan_society_trigger = yes
 			}
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_pakoyoq_Cap
+		trigger = {
+			primary_culture = inca
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_almahen_Cap
+		trigger = {
+			is_mayan_society_trigger = yes
 		}
 	}
 	text = {
@@ -3720,7 +3921,10 @@ defined_text = {
 				has_reform = prussian_republic_reform
 				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
-				tag = GER
+				AND = {
+					primary_culture = prussian 
+					tag = GER
+				}
 			}
 		}
 	}
@@ -3810,6 +4014,12 @@ defined_text = {
 		localisation_key = string_dat_estate_shangbang_Cap
 		trigger = {
 			culture_group = east_asian
+		}
+	}
+	text = {
+		localisation_key = string_dat_estate_ppolom_Cap
+		trigger = {
+			is_mayan_society_trigger = yes
 		}
 	}
 	text = {
@@ -4000,6 +4210,13 @@ defined_text = {
 			OR = {
 				religion = tengri_pagan_reformed
 			}
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_horde_shamans_Cap
+		trigger = {
+			has_country_flag = hordes_devout_tengri_completion_flag
+			religion = tengri_pagan_reformed
 		}
 	}
 	text = {
@@ -4232,7 +4449,21 @@ defined_text = {
 			OR = {
 				tag = MUG
 				has_government_attribute = enable_mansabdar_privileges
+				primary_culture = inca
+				is_mayan_society_trigger = yes
 			}
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_pakoyoq_Cap
+		trigger = {
+			primary_culture = inca
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_almahen_Cap
+		trigger = {
+			is_mayan_society_trigger = yes
 		}
 	}
 	text = {
@@ -4280,7 +4511,10 @@ defined_text = {
 				has_reform = prussian_republic_reform
 				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
-				tag = GER
+				AND = {
+					primary_culture = prussian 
+					tag = GER
+				}
 			}
 		}
 	}
@@ -4370,6 +4604,12 @@ defined_text = {
 		localisation_key = string_ins_estate_shangbang_Cap
 		trigger = {
 			culture_group = east_asian
+		}
+	}
+	text = {
+		localisation_key = string_ins_estate_ppolom_Cap
+		trigger = {
+			is_mayan_society_trigger = yes
 		}
 	}
 	text = {
@@ -4534,6 +4774,10 @@ defined_text = {
 					}
 				}
 				religion = tengri_pagan_reformed
+				AND = {
+					has_country_flag = hordes_devout_tengri_completion_flag
+					religion = tengri_pagan_reformed
+				}
 				religion = sikhism
 				religion = totemism
 			}
@@ -4701,6 +4945,8 @@ defined_text = {
 			OR = {
 				tag = MUG
 				has_government_attribute = enable_mansabdar_privileges
+				primary_culture = inca
+				is_mayan_society_trigger = yes
 			}
 		}
 	}
@@ -4721,7 +4967,10 @@ defined_text = {
 				has_reform = prussian_republic_reform
 				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
-				tag = GER
+				AND = {
+					primary_culture = prussian 
+					tag = GER
+				}
 				tag = USA
 				AND = {
 					religion_group = muslim
@@ -4814,7 +5063,10 @@ defined_text = {
 	text = {
 		localisation_key = string_end_japl
 		trigger = {
-			religion = nahuatl
+			OR = {
+				religion = nahuatl
+				is_mayan_society_trigger = yes
+			}
 		}
 	}
 	text = {
@@ -4893,6 +5145,10 @@ defined_text = {
 					}
 				}
 				religion = tengri_pagan_reformed
+				AND = {
+					has_country_flag = hordes_devout_tengri_completion_flag
+					religion = tengri_pagan_reformed
+				}
 				religion = sikhism
 				religion = totemism
 			}
@@ -5060,6 +5316,8 @@ defined_text = {
 			OR = {
 				tag = MUG
 				has_government_attribute = enable_mansabdar_privileges
+				primary_culture = inca
+				is_mayan_society_trigger = yes
 			}
 		}
 	}
@@ -5080,7 +5338,10 @@ defined_text = {
 				has_reform = prussian_republic_reform
 				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
-				tag = GER
+				AND = {
+					primary_culture = prussian 
+					tag = GER
+				}
 				tag = USA
 				AND = {
 					religion_group = muslim
@@ -5173,7 +5434,10 @@ defined_text = {
 	text = {
 		localisation_key = string_char_apl
 		trigger = {
-			religion = nahuatl
+			OR = {
+				religion = nahuatl
+				is_mayan_society_trigger = yes
+			}
 		}
 	}
 	text = {
@@ -5252,6 +5516,10 @@ defined_text = {
 					}
 				}
 				religion = tengri_pagan_reformed
+				AND = {
+					has_country_flag = hordes_devout_tengri_completion_flag
+					religion = tengri_pagan_reformed
+				}
 				religion = sikhism
 				religion = totemism
 			}
@@ -5419,6 +5687,8 @@ defined_text = {
 			OR = {
 				tag = MUG
 				has_government_attribute = enable_mansabdar_privileges
+				primary_culture = inca
+				is_mayan_society_trigger = yes
 			}
 		}
 	}
@@ -5439,7 +5709,10 @@ defined_text = {
 				has_reform = prussian_republic_reform
 				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
-				tag = GER
+				AND = {
+					primary_culture = prussian 
+					tag = GER
+				}
 				tag = USA
 				AND = {
 					religion_group = muslim
@@ -5532,7 +5805,10 @@ defined_text = {
 	text = {
 		localisation_key = string_end_ich
 		trigger = {
-			religion = nahuatl
+			OR = {
+				religion = nahuatl
+				is_mayan_society_trigger = yes
+			}
 		}
 	}
 	text = {
@@ -5611,6 +5887,10 @@ defined_text = {
 					}
 				}
 				religion = tengri_pagan_reformed
+				AND = {
+					has_country_flag = hordes_devout_tengri_completion_flag
+					religion = tengri_pagan_reformed
+				}
 				religion = sikhism
 				religion = totemism
 			}
@@ -5778,6 +6058,8 @@ defined_text = {
 			OR = {
 				tag = MUG
 				has_government_attribute = enable_mansabdar_privileges
+				primary_culture = inca
+				is_mayan_society_trigger = yes
 			}
 		}
 	}
@@ -5798,7 +6080,10 @@ defined_text = {
 				has_reform = prussian_republic_reform
 				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
-				tag = GER
+				AND = {
+					primary_culture = prussian 
+					tag = GER
+				}
 				tag = USA
 				AND = {
 					religion_group = muslim
@@ -5891,7 +6176,10 @@ defined_text = {
 	text = {
 		localisation_key = string_end_ich_Cap
 		trigger = {
-			religion = nahuatl
+			OR = {
+				religion = nahuatl
+				is_mayan_society_trigger = yes
+			}
 		}
 	}
 	text = {
@@ -5970,6 +6258,10 @@ defined_text = {
 					}
 				}
 				religion = tengri_pagan_reformed
+				AND = {
+					has_country_flag = hordes_devout_tengri_completion_flag
+					religion = tengri_pagan_reformed
+				}
 				religion = sikhism
 				religion = totemism
 			}
@@ -6137,6 +6429,8 @@ defined_text = {
 			OR = {
 				tag = MUG
 				has_government_attribute = enable_mansabdar_privileges
+				primary_culture = inca
+				is_mayan_society_trigger = yes
 			}
 		}
 	}
@@ -6157,7 +6451,10 @@ defined_text = {
 				has_reform = prussian_republic_reform
 				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
-				tag = GER
+				AND = {
+					primary_culture = prussian 
+					tag = GER
+				}
 				tag = USA
 				AND = {
 					religion_group = muslim
@@ -6250,7 +6547,10 @@ defined_text = {
 	text = {
 		localisation_key = string_end_zapl
 		trigger = {
-			religion = nahuatl
+			OR = {
+				religion = nahuatl
+				is_mayan_society_trigger = yes
+			}
 		}
 	}
 	text = {
@@ -6329,6 +6629,10 @@ defined_text = {
 					}
 				}
 				religion = tengri_pagan_reformed
+				AND = {
+					has_country_flag = hordes_devout_tengri_completion_flag
+					religion = tengri_pagan_reformed
+				}
 				religion = sikhism
 				religion = totemism
 			}
@@ -6496,6 +6800,8 @@ defined_text = {
 			OR = {
 				tag = MUG
 				has_government_attribute = enable_mansabdar_privileges
+				primary_culture = inca
+				is_mayan_society_trigger = yes
 			}
 		}
 	}
@@ -6516,7 +6822,10 @@ defined_text = {
 				has_reform = prussian_republic_reform
 				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
-				tag = GER
+				AND = {
+					primary_culture = prussian 
+					tag = GER
+				}
 				tag = USA
 				AND = {
 					religion_group = muslim
@@ -6609,7 +6918,10 @@ defined_text = {
 	text = {
 		localisation_key = string_char_apl
 		trigger = {
-			religion = nahuatl
+			OR = {
+				religion = nahuatl
+				is_mayan_society_trigger = yes
+			}
 		}
 	}
 	text = {
@@ -6688,6 +7000,10 @@ defined_text = {
 					}
 				}
 				religion = tengri_pagan_reformed
+				AND = {
+					has_country_flag = hordes_devout_tengri_completion_flag
+					religion = tengri_pagan_reformed
+				}
 				religion = sikhism
 				religion = totemism
 			}
@@ -6855,6 +7171,8 @@ defined_text = {
 			OR = {
 				tag = MUG
 				has_government_attribute = enable_mansabdar_privileges
+				primary_culture = inca
+				is_mayan_society_trigger = yes
 			}
 		}
 	}
@@ -6875,7 +7193,10 @@ defined_text = {
 				has_reform = prussian_republic_reform
 				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
-				tag = GER
+				AND = {
+					primary_culture = prussian 
+					tag = GER
+				}
 				tag = USA
 				AND = {
 					religion_group = muslim
@@ -6968,7 +7289,10 @@ defined_text = {
 	text = {
 		localisation_key = string_char_apl
 		trigger = {
-			religion = nahuatl
+			OR = {
+				religion = nahuatl
+				is_mayan_society_trigger = yes
+			}
 		}
 	}
 	text = {
@@ -7047,6 +7371,10 @@ defined_text = {
 					}
 				}
 				religion = tengri_pagan_reformed
+				AND = {
+					has_country_flag = hordes_devout_tengri_completion_flag
+					religion = tengri_pagan_reformed
+				}
 				religion = sikhism
 				religion = totemism
 			}
@@ -7214,6 +7542,8 @@ defined_text = {
 			OR = {
 				tag = MUG
 				has_government_attribute = enable_mansabdar_privileges
+				primary_culture = inca
+				is_mayan_society_trigger = yes
 			}
 		}
 	}
@@ -7234,7 +7564,10 @@ defined_text = {
 				has_reform = prussian_republic_reform
 				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
-				tag = GER
+				AND = {
+					primary_culture = prussian 
+					tag = GER
+				}
 				tag = USA
 				AND = {
 					religion_group = muslim
@@ -7327,7 +7660,10 @@ defined_text = {
 	text = {
 		localisation_key = string_end_im
 		trigger = {
-			religion = nahuatl
+			OR = {
+				religion = nahuatl
+				is_mayan_society_trigger = yes
+			}
 		}
 	}
 	text = {
@@ -7406,6 +7742,10 @@ defined_text = {
 					}
 				}
 				religion = tengri_pagan_reformed
+				AND = {
+					has_country_flag = hordes_devout_tengri_completion_flag
+					religion = tengri_pagan_reformed
+				}
 				religion = sikhism
 				religion = totemism
 			}
@@ -7573,6 +7913,8 @@ defined_text = {
 			OR = {
 				tag = MUG
 				has_government_attribute = enable_mansabdar_privileges
+				primary_culture = inca
+				is_mayan_society_trigger = yes
 			}
 		}
 	}
@@ -7593,7 +7935,10 @@ defined_text = {
 				has_reform = prussian_republic_reform
 				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
-				tag = GER
+				AND = {
+					primary_culture = prussian 
+					tag = GER
+				}
 				tag = USA
 				AND = {
 					religion_group = muslim
@@ -7686,7 +8031,10 @@ defined_text = {
 	text = {
 		localisation_key = string_end_ni
 		trigger = {
-			religion = nahuatl
+			OR = {
+				religion = nahuatl
+				is_mayan_society_trigger = yes
+			}
 		}
 	}
 	text = {
@@ -7765,6 +8113,10 @@ defined_text = {
 					}
 				}
 				religion = tengri_pagan_reformed
+				AND = {
+					has_country_flag = hordes_devout_tengri_completion_flag
+					religion = tengri_pagan_reformed
+				}
 				religion = sikhism
 				religion = totemism
 			}
@@ -7932,6 +8284,8 @@ defined_text = {
 			OR = {
 				tag = MUG
 				has_government_attribute = enable_mansabdar_privileges
+				primary_culture = inca
+				is_mayan_society_trigger = yes
 			}
 		}
 	}
@@ -7952,7 +8306,10 @@ defined_text = {
 				has_reform = prussian_republic_reform
 				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
-				tag = GER
+				AND = {
+					primary_culture = prussian 
+					tag = GER
+				}
 				tag = USA
 				AND = {
 					religion_group = muslim
@@ -8045,7 +8402,10 @@ defined_text = {
 	text = {
 		localisation_key = string_word_sa
 		trigger = {
-			religion = nahuatl
+			OR = {
+				religion = nahuatl
+				is_mayan_society_trigger = yes
+			}
 		}
 	}
 	text = {
@@ -8124,6 +8484,10 @@ defined_text = {
 					}
 				}
 				religion = tengri_pagan_reformed
+				AND = {
+					has_country_flag = hordes_devout_tengri_completion_flag
+					religion = tengri_pagan_reformed
+				}
 				religion = sikhism
 				religion = totemism
 			}
@@ -8291,6 +8655,8 @@ defined_text = {
 			OR = {
 				tag = MUG
 				has_government_attribute = enable_mansabdar_privileges
+				primary_culture = inca
+				is_mayan_society_trigger = yes
 			}
 		}
 	}
@@ -8311,7 +8677,10 @@ defined_text = {
 				has_reform = prussian_republic_reform
 				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
-				tag = GER
+				AND = {
+					primary_culture = prussian 
+					tag = GER
+				}
 				tag = USA
 				AND = {
 					religion_group = muslim
@@ -8398,7 +8767,10 @@ defined_text = {
 	text = {
 		localisation_key = string_char_i
 		trigger = {
-			religion = nahuatl
+			OR = {
+				religion = nahuatl
+				is_mayan_society_trigger = yes
+			}
 		}
 	}
 	text = {
@@ -8477,6 +8849,10 @@ defined_text = {
 					}
 				}
 				religion = tengri_pagan_reformed
+				AND = {
+					has_country_flag = hordes_devout_tengri_completion_flag
+					religion = tengri_pagan_reformed
+				}
 				religion = sikhism
 				religion = totemism
 			}
@@ -8644,6 +9020,8 @@ defined_text = {
 			OR = {
 				tag = MUG
 				has_government_attribute = enable_mansabdar_privileges
+				primary_culture = inca
+				is_mayan_society_trigger = yes
 			}
 		}
 	}
@@ -8664,7 +9042,10 @@ defined_text = {
 				has_reform = prussian_republic_reform
 				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
-				tag = GER
+				AND = {
+					primary_culture = prussian 
+					tag = GER
+				}
 				tag = USA
 				AND = {
 					religion_group = muslim
@@ -8757,7 +9138,10 @@ defined_text = {
 	text = {
 		localisation_key = string_char_apl
 		trigger = {
-			religion = nahuatl
+			OR = {
+				religion = nahuatl
+				is_mayan_society_trigger = yes
+			}
 		}
 	}
 	text = {
@@ -8836,6 +9220,10 @@ defined_text = {
 					}
 				}
 				religion = tengri_pagan_reformed
+				AND = {
+					has_country_flag = hordes_devout_tengri_completion_flag
+					religion = tengri_pagan_reformed
+				}
 				religion = sikhism
 				religion = totemism
 			}
@@ -9003,6 +9391,8 @@ defined_text = {
 			OR = {
 				tag = MUG
 				has_government_attribute = enable_mansabdar_privileges
+				primary_culture = inca
+				is_mayan_society_trigger = yes
 			}
 		}
 	}
@@ -9023,7 +9413,10 @@ defined_text = {
 				has_reform = prussian_republic_reform
 				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
-				tag = GER
+				AND = {
+					primary_culture = prussian 
+					tag = GER
+				}
 				tag = USA
 				AND = {
 					religion_group = muslim
@@ -9116,7 +9509,10 @@ defined_text = {
 	text = {
 		localisation_key = string_end_eni
 		trigger = {
-			religion = nahuatl
+			OR = {
+				religion = nahuatl
+				is_mayan_society_trigger = yes
+			}
 		}
 	}
 	text = {
@@ -9195,6 +9591,10 @@ defined_text = {
 					}
 				}
 				religion = tengri_pagan_reformed
+				AND = {
+					has_country_flag = hordes_devout_tengri_completion_flag
+					religion = tengri_pagan_reformed
+				}
 				religion = sikhism
 				religion = totemism
 			}
@@ -9362,6 +9762,8 @@ defined_text = {
 			OR = {
 				tag = MUG
 				has_government_attribute = enable_mansabdar_privileges
+				primary_culture = inca
+				is_mayan_society_trigger = yes
 			}
 		}
 	}
@@ -9382,7 +9784,10 @@ defined_text = {
 				has_reform = prussian_republic_reform
 				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
-				tag = GER
+				AND = {
+					primary_culture = prussian 
+					tag = GER
+				}
 				tag = USA
 				AND = {
 					religion_group = muslim
@@ -9475,7 +9880,10 @@ defined_text = {
 	text = {
 		localisation_key = string_char_y
 		trigger = {
-			religion = nahuatl
+			OR = {
+				religion = nahuatl
+				is_mayan_society_trigger = yes
+			}
 		}
 	}
 	text = {
@@ -9554,6 +9962,10 @@ defined_text = {
 					}
 				}
 				religion = tengri_pagan_reformed
+				AND = {
+					has_country_flag = hordes_devout_tengri_completion_flag
+					religion = tengri_pagan_reformed
+				}
 				religion = sikhism
 				religion = totemism
 			}
@@ -9721,6 +10133,8 @@ defined_text = {
 			OR = {
 				tag = MUG
 				has_government_attribute = enable_mansabdar_privileges
+				primary_culture = inca
+				is_mayan_society_trigger = yes
 			}
 		}
 	}
@@ -9741,7 +10155,10 @@ defined_text = {
 				has_reform = prussian_republic_reform
 				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
-				tag = GER
+				AND = {
+					primary_culture = prussian 
+					tag = GER
+				}
 				tag = USA
 				AND = {
 					religion_group = muslim
@@ -9834,7 +10251,10 @@ defined_text = {
 	text = {
 		localisation_key = string_end_eli
 		trigger = {
-			religion = nahuatl
+			OR = {
+				religion = nahuatl
+				is_mayan_society_trigger = yes
+			}
 		}
 	}
 	text = {
@@ -9914,6 +10334,10 @@ defined_text = {
 					}
 				}
 				religion = tengri_pagan_reformed
+				AND = {
+					has_country_flag = hordes_devout_tengri_completion_flag
+					religion = tengri_pagan_reformed
+				}
 				religion = sikhism
 				religion = totemism
 			}
@@ -10081,6 +10505,8 @@ defined_text = {
 			OR = {
 				tag = MUG
 				has_government_attribute = enable_mansabdar_privileges
+				primary_culture = inca
+				is_mayan_society_trigger = yes
 			}
 		}
 	}
@@ -10101,7 +10527,10 @@ defined_text = {
 				has_reform = prussian_republic_reform
 				has_reform = prussian_monarchy_base
 				has_reform = prussian_monarchy
-				tag = GER
+				AND = {
+					primary_culture = prussian 
+					tag = GER
+				}
 				tag = USA
 				AND = {
 					religion_group = muslim
@@ -10194,7 +10623,10 @@ defined_text = {
 	text = {
 		localisation_key = string_end_li
 		trigger = {
-			religion = nahuatl
+			OR = {
+				religion = nahuatl
+				is_mayan_society_trigger = yes
+			}
 		}
 	}
 	text = {

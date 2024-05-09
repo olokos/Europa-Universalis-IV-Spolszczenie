@@ -1,6 +1,30 @@
-﻿defined_text = {
+defined_text = {
 	name = GetRulerGen
 	random = no
+	text={
+		localisation_key = string_CISAR
+		trigger = {
+			is_female = no
+			government_rank = 3
+			government = monarchy
+			OR = {
+				primary_culture = czech
+				tag = BOH
+			}
+		}
+	}
+	text={
+		localisation_key = string_CISAR_SK
+		trigger = {
+			is_female = no
+			government_rank = 3
+			government = monarchy
+			OR = {
+				primary_culture = slovak
+				tag = SLO
+			}
+		}
+	}
 	text={
 		localisation_key = string_IMPERATORI
 		trigger = {
@@ -46,7 +70,10 @@
 		trigger = {
 			is_female = no
 			government_rank = 3
-			has_country_modifier = unified_islam
+			OR = {
+				has_country_modifier = unified_islam
+				has_country_modifier = hsn_ayyubid_caliphate
+			}
 		}
 	}
 	text={
@@ -794,6 +821,7 @@
 					religion = animism
 				}
 				primary_culture = roman
+				has_country_flag = ITA_stylize_flag
 			}
 		}
 	}
@@ -809,6 +837,7 @@
 					religion = animism
 				}
 				primary_culture = roman
+				has_country_flag = ITA_stylize_flag
 			}
 		}
 	}
@@ -1426,6 +1455,15 @@
 		}
 	}
 	text={
+		localisation_key = string_CSASZAR
+		trigger = {
+			is_female = no
+			government_rank = 3
+			primary_culture = hungarian
+			government = monarchy
+		}
+	}
+	text={
 		localisation_key = string_KHAGAN
 		trigger = {
 			is_female = no
@@ -1901,6 +1939,30 @@
 		}
 	}
 	text={
+		localisation_key = string_KRAL
+		trigger = {
+			is_female = no
+			government_rank = 2
+			government = monarchy
+			OR = {
+				primary_culture = czech
+				tag = BOH
+			}
+		}
+	}
+	text={
+		localisation_key = string_KRAL
+		trigger = {
+			is_female = no
+			government_rank = 2
+			government = monarchy
+			OR = {
+				primary_culture = slovak
+				tag = SLO
+			}
+		}
+	}
+	text={
 		localisation_key = string_MEPE
 		trigger = {
 			is_female = no
@@ -1931,6 +1993,17 @@
 			government_rank = 2
 			tag = KON
 			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_SULTAN
+		trigger = {
+			is_female = no
+			government_rank = 2
+			OR = {
+				has_country_modifier = unified_islam
+				has_country_modifier = hsn_ayyubid_caliphate
+			}
 		}
 	}
 	text={
@@ -2520,6 +2593,7 @@
 					religion = animism
 				}
 				primary_culture = roman
+				has_country_flag = ITA_stylize_flag
 			}
 		}
 	}
@@ -2535,6 +2609,7 @@
 					religion = animism
 				}
 				primary_culture = roman
+				has_country_flag = ITA_stylize_flag
 			}
 		}
 	}
@@ -3136,6 +3211,15 @@
 		}
 	}
 	text={
+		localisation_key = string_KIRALY
+		trigger = {
+			is_female = no
+			government_rank = 2
+			primary_culture = hungarian
+			government = monarchy
+		}
+	}
+	text={
 		localisation_key = string_KHAN
 		trigger = {
 			is_female = no
@@ -3595,6 +3679,28 @@
 		}
 	}
 	text={
+		localisation_key = string_KNIZE
+		trigger = {
+			is_female = no
+			government = monarchy
+			OR = {
+				primary_culture = czech
+				tag = BOH
+			}
+		}
+	}
+	text={
+		localisation_key = string_KNIEZA
+		trigger = {
+			is_female = no
+			government = monarchy
+			OR = {
+				primary_culture = slovak
+				tag = SLO
+			}
+		}
+	}
+	text={
 		localisation_key = string_MTAVARI
 		trigger = {
 			is_female = no
@@ -3622,6 +3728,16 @@
 			is_female = no
 			tag = KON
 			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_EMIR
+		trigger = {
+			is_female = no
+			OR = {
+				has_country_modifier = unified_islam
+				has_country_modifier = hsn_ayyubid_caliphate
+			}
 		}
 	}
 	text={
@@ -4216,6 +4332,7 @@
 					religion = animism
 				}
 				primary_culture = roman
+				has_country_flag = ITA_stylize_flag
 			}
 		}
 	}
@@ -4230,6 +4347,7 @@
 					religion = animism
 				}
 				primary_culture = roman
+				has_country_flag = ITA_stylize_flag
 			}
 		}
 	}
@@ -4859,6 +4977,14 @@
 		}
 	}
 	text={
+		localisation_key = string_HERCEG
+		trigger = {
+			is_female = no
+			primary_culture = hungarian
+			government = monarchy
+		}
+	}
+	text={
 		localisation_key = string_JINONG
 		trigger = {
 			is_female = no
@@ -5324,6 +5450,28 @@
 		}
 	}
 	text={
+		localisation_key = string_CISAROVNA
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			OR = {
+				primary_culture = czech
+				tag = BOH
+			}
+		}
+	}
+	text={
+		localisation_key = string_CISAROVNA_SK
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			OR = {
+				primary_culture = slovak
+				tag = SLO
+			}
+		}
+	}
+	text={
 		localisation_key = string_IMPERATRITSA
 		trigger = {
 			government_rank = 3
@@ -5363,7 +5511,10 @@
 		localisation_key = string_CALIPHA
 		trigger = {
 			government_rank = 3
-			has_country_modifier = unified_islam
+			OR = {
+				has_country_modifier = unified_islam
+				has_country_modifier = hsn_ayyubid_caliphate
+			}
 		}
 	}
 	text={
@@ -6045,6 +6196,7 @@
 					religion = animism
 				}
 				primary_culture = roman
+				has_country_flag = ITA_stylize_flag
 			}
 		}
 	}
@@ -6059,6 +6211,7 @@
 					religion = animism
 				}
 				primary_culture = roman
+				has_country_flag = ITA_stylize_flag
 			}
 		}
 	}
@@ -6625,6 +6778,14 @@
 		}
 	}
 	text={
+		localisation_key = string_CSASZARNO
+		trigger = {
+			government_rank = 3
+			primary_culture = hungarian
+			government = monarchy
+		}
+	}
+	text={
 		localisation_key = string_GREAT_KHATUN
 		trigger = {
 			government_rank = 3
@@ -7059,6 +7220,28 @@
 		}
 	}
 	text={
+		localisation_key = string_KRALOVNA
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			OR = {
+				primary_culture = czech
+				tag = BOH
+			}
+		}
+	}
+	text={
+		localisation_key = string_KRALOVNA
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			OR = {
+				primary_culture = slovak
+				tag = SLO
+			}
+		}
+	}
+	text={
 		localisation_key = string_MEPE_fem
 		trigger = {
 			government_rank = 2
@@ -7086,6 +7269,16 @@
 			government_rank = 2
 			tag = KON
 			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_SULTANA
+		trigger = {
+			government_rank = 2
+			OR = {
+				has_country_modifier = unified_islam
+				has_country_modifier = hsn_ayyubid_caliphate
+			}
 		}
 	}
 	text={
@@ -7631,6 +7824,7 @@
 					religion = animism
 				}
 				primary_culture = roman
+				has_country_flag = ITA_stylize_flag
 			}
 		}
 	}
@@ -7645,6 +7839,7 @@
 					religion = animism
 				}
 				primary_culture = roman
+				has_country_flag = ITA_stylize_flag
 			}
 		}
 	}
@@ -8186,6 +8381,14 @@
 		}
 	}
 	text={
+		localisation_key = string_KIRALYNO
+		trigger = {
+			government_rank = 2
+			primary_culture = hungarian
+			government = monarchy
+		}
+	}
+	text={
 		localisation_key = string_KHATUN
 		trigger = {
 			government_rank = 2
@@ -8626,6 +8829,26 @@
 		}
 	}
 	text={
+		localisation_key = string_KNEZNA
+		trigger = {
+			government = monarchy
+			OR = {
+				primary_culture = czech
+				tag = BOH
+			}
+		}
+	}
+	text={
+		localisation_key = string_KNAZNA
+		trigger = {
+			government = monarchy
+			OR = {
+				primary_culture = slovak
+				tag = SLO
+			}
+		}
+	}
+	text={
 		localisation_key = string_MTAVARI_fem
 		trigger = {
 			OR = {
@@ -8650,6 +8873,15 @@
 		trigger = {
 			tag = KON
 			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_EMIRA
+		trigger = {
+			OR = {
+				has_country_modifier = unified_islam
+				has_country_modifier = hsn_ayyubid_caliphate
+			}
 		}
 	}
 	text={
@@ -9187,6 +9419,7 @@
 					religion = animism
 				}
 				primary_culture = roman
+				has_country_flag = ITA_stylize_flag
 			}
 		}
 	}
@@ -9200,6 +9433,7 @@
 					religion = animism
 				}
 				primary_culture = roman
+				has_country_flag = ITA_stylize_flag
 			}
 		}
 	}
@@ -9760,6 +9994,13 @@
 				has_reform = crusading_kingdom_reform
 				has_reform = militarized_crusader_order_reform
 			}
+		}
+	}
+	text={
+		localisation_key = string_HERCEGNO
+		trigger = {
+			primary_culture = hungarian
+			government = monarchy
 		}
 	}
 	text={

@@ -5,6 +5,28 @@ defined_text = {
 		localisation_key = string_end_ego
 		trigger = {
 			government_rank = 3
+			government = monarchy
+			OR = {
+				primary_culture = czech
+				tag = BOH
+			}
+		}
+	}
+	text={
+		localisation_key = string_end_ego
+		trigger = {
+			government_rank = 3
+			government = monarchy
+			OR = {
+				primary_culture = slovak
+				tag = SLO
+			}
+		}
+	}
+	text={
+		localisation_key = string_end_ego
+		trigger = {
+			government_rank = 3
 			OR = {
 				primary_culture = georgian
 				primary_culture = georgian_new
@@ -41,7 +63,10 @@ defined_text = {
 		localisation_key = string_end_ego
 		trigger = {
 			government_rank = 3
-			has_country_modifier = unified_islam
+			OR = {
+				has_country_modifier = unified_islam
+				has_country_modifier = hsn_ayyubid_caliphate
+			}
 		}
 	}
 	text={
@@ -739,6 +764,7 @@ defined_text = {
 					religion = animism
 				}
 				primary_culture = roman
+				has_country_flag = ITA_stylize_flag
 			}
 		}
 	}
@@ -752,6 +778,7 @@ defined_text = {
 					religion = animism
 				}
 				primary_culture = roman
+				has_country_flag = ITA_stylize_flag
 			}
 		}
 	}
@@ -1334,6 +1361,14 @@ defined_text = {
 		localisation_key = string_end_ego
 		trigger = {
 			government_rank = 3
+			primary_culture = hungarian
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_end_ego
+		trigger = {
+			government_rank = 3
 			has_reform = steppe_horde
 			OR = {
 				culture_group = altaic
@@ -1786,6 +1821,28 @@ defined_text = {
 		localisation_key = string_end_ego
 		trigger = {
 			government_rank = 2
+			government = monarchy
+			OR = {
+				primary_culture = czech
+				tag = BOH
+			}
+		}
+	}
+	text={
+		localisation_key = string_end_ego
+		trigger = {
+			government_rank = 2
+			government = monarchy
+			OR = {
+				primary_culture = slovak
+				tag = SLO
+			}
+		}
+	}
+	text={
+		localisation_key = string_end_ego
+		trigger = {
+			government_rank = 2
 			OR = {
 				primary_culture = georgian
 				primary_culture = georgian_new
@@ -1810,6 +1867,16 @@ defined_text = {
 			government_rank = 2
 			tag = KON
 			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_end_ego
+		trigger = {
+			government_rank = 2
+			OR = {
+				has_country_modifier = unified_islam
+				has_country_modifier = hsn_ayyubid_caliphate
+			}
 		}
 	}
 	text={
@@ -2332,6 +2399,7 @@ defined_text = {
 					religion = animism
 				}
 				primary_culture = roman
+				has_country_flag = ITA_stylize_flag
 			}
 		}
 	}
@@ -2876,6 +2944,14 @@ defined_text = {
 		localisation_key = string_end_ego
 		trigger = {
 			government_rank = 2
+			primary_culture = hungarian
+			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_end_ego
+		trigger = {
+			government_rank = 2
 			has_reform = steppe_horde
 			OR = {
 				culture_group = altaic
@@ -3320,6 +3396,26 @@ defined_text = {
 	text={
 		localisation_key = string_end_ego
 		trigger = {
+			government = monarchy
+			OR = {
+				primary_culture = czech
+				tag = BOH
+			}
+		}
+	}
+	text={
+		localisation_key = string_end_ego
+		trigger = {
+			government = monarchy
+			OR = {
+				primary_culture = slovak
+				tag = SLO
+			}
+		}
+	}
+	text={
+		localisation_key = string_end_ego
+		trigger = {
 			OR = {
 				primary_culture = georgian
 				primary_culture = georgian_new
@@ -3342,6 +3438,15 @@ defined_text = {
 		trigger = {
 			tag = KON
 			government = monarchy
+		}
+	}
+	text={
+		localisation_key = string_end_ego
+		trigger = {
+			OR = {
+				has_country_modifier = unified_islam
+				has_country_modifier = hsn_ayyubid_caliphate
+			}
 		}
 	}
 	text={
@@ -3873,6 +3978,7 @@ defined_text = {
 					religion = animism
 				}
 				primary_culture = roman
+				has_country_flag = ITA_stylize_flag
 			}
 		}
 	}
@@ -4450,6 +4556,13 @@ defined_text = {
 		localisation_key = string_end_ego
 		trigger = {
 			has_reform = japanese_divine_empire
+		}
+	}
+	text={
+		localisation_key = string_end_ego
+		trigger = {
+			primary_culture = hungarian
+			government = monarchy
 		}
 	}
 	text={
