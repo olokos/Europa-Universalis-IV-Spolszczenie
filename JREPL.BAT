@@ -1,4 +1,4 @@
-﻿@if (@X)==(@Y) @end /* Harmless hybrid line that begins a JScript comment
+@if (@X)==(@Y) @end /* Harmless hybrid line that begins a JScript comment
 @goto :Batch
 
 ::JREPL.BAT by Dave Benham

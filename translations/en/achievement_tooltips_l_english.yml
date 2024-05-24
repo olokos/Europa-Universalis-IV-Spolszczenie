@@ -64,4 +64,5 @@
  achievement_mehmet_ambition_tooltip: "Owned by §Y[Root.GetName]§! or its §YCore Eyalet§! subjects."
  completed_incan_missions: "Complete the Incan mission tree (Sunset invasion missions excluded)"
  achievement_baborg_tooltip: "Assimilate at least §Y12§! culture groups (§Y[Root.GetNumAssimilatedCultureGroups]§!/§Y12§!)"
- achievement_the_hungarian_games_tooltip: "Win §Y23§! battles with either §YBlack Army§! or the §YBlack Army Reserves§! mercenary company against at least §Y12§! different countries (§Y[Root.GetBlackArmyBattleVictories]§!/§Y23§!)."
+ achievement_the_hungarian_games_tooltip: "Win §Y23§! battles with either §YBlack Army§! or the §YBlack Army Reserves§! mercenary company against at least §Y12§! different countries (§Y[Root.GetBlackArmyBattleVictories]§!/§Y23§!).\nYou can win only §Y3§! battles against the same country"
+ achievement_there_khan_only_be_one_tooltip: "No other country (excluding §Y[Root.GetName]§!) with the §YSteppe Nomads§! or the §YGreat Mongol State§! government reform exists."

@@ -1,4 +1,4 @@
-﻿@echo off
+@echo off
 :: SCRIPT SETTINGS
 set charset="polish"
 set parser_version="0.1.16"
@@ -14,12 +14,15 @@ echo Konwertowanie plikow...
 set pattern=*_english.*
 for %%A in ("%source%\%pattern%") do copy "%%A" "translations_temp\\"
 for %%A in ("translations_temp\\*") do (
-	echo %%A
-	for %%F in (%%A) do (
-	call jrepl "#[a-zA-Z0-9_,:;.'() ?]*$"^
-             "" /m /x /t "|" /f "%%F" /o -
-	)
+    echo %%A
+    for %%F in (%%A) do (
+::        call jrepl "#[a-zA-Z0-9_,:;.'() ?]*$"^
+::                 "" /m /x /t "|" /f "%%F" /o -
+		call jrepl "#[^\x22]*\n"^ "\n" /m /x /t "|" /f "%%F" /o -
+        echo %%A
+    )
 )
+
 java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_to_yaml" "translations_temp\\" "translations\\en\\" %charset%
 
 rd /s /q translations_temp
