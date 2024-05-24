@@ -267,7 +267,7 @@
  peasant_revolt_leader_personality_die_desc:0 "Our ruler was a champion of the rights of peasants and little folk alike."
  desc_peasant_revolt_leader_personality:0 "This ruler is a champion of the peasantry within our nation."
  desc_iron_crowned_personality:0 "This ruler has earned their trait as a powerful conqueror, forged by fire."
- desc_fu_papal_puppetmaster_personality:0 "This ruler has tremendous influence behind the scenes in the seat of the Holy Father."
+ desc_papal_puppetmaster_personality:0 "This ruler has tremendous influence behind the scenes in the seat of the Holy Father."
  desc_tur_silk_road_main_trade_post:0 "This province is an important point across the Silk Road."
  reform_civil_registration_decision_member:0 "Civil Registration Celestial Reform"
  reform_civil_registration_decision_emperor:0 "Civil Registration Celestial Reform"

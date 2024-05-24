@@ -62,3 +62,7 @@
  has_celebrated_festival_tooltip:0 "Zorganizowano festiwal."
  achievement_the_freest_man_in_the_world_tooltip:0 "¯adna skolonizowana prowincja na œwiecie nie produkuje §Yniewolników§!."
  achievement_mehmet_ambition_tooltip:0 "Nale¿y do paªstwa §Y[Root.GetName]§! lub §Ynarodowych eljalet§! jego wasali."
+ completed_incan_missions:0 "Complete the Incan mission tree (Sunset invasion missions excluded)"
+ achievement_baborg_tooltip:0 "Assimilate at least §Y12§! culture groups (§Y[Root.GetNumAssimilatedCultureGroups]§!/§Y12§!)"
+ achievement_the_hungarian_games_tooltip:0 "Win §Y23§! battles with either §YBlack Army§! or the §YBlack Army Reserves§! mercenary company against at least §Y12§! different countries (§Y[Root.GetBlackArmyBattleVictories]§!/§Y23§!).\nYou can win only §Y3§! battles against the same country"
+ achievement_there_khan_only_be_one_tooltip:0 "No other country (excluding §Y[Root.GetName]§!) with the §YSteppe Nomads§! or the §YGreat Mongol State§! government reform exists."

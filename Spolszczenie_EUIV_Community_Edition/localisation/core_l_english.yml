@@ -62,7 +62,7 @@
  IS_NOT_GREAT_POWER:0 "Nie jest œwiatow¹ pot²g¹"
  IS_GREAT_POWER:0 "Jest œwiatow¹ pot²g¹"
  WHO_IS_GREAT_POWER:0 "$WHO|Y$ jest œwiatow¹ pot²g¹."
- HAVE_LESS_GP_RANK:0 "Jest pot²¿niejsz¹ rang¹ œwiatow¹ pot²g¹ ni¿"
+ HAVE_LESS_GP_RANK:0 "Jest pot²¿niejsz¹ œwiatow¹ pot²g¹ ni¿"
  HAVE_MORE_GP_RANK:0 "Jest s³absz¹ lub równ¹ rang¹ œwiatow¹ pot²g¹ ni¿"
  TECHNOLOGY_COST:0 "Koszt technologii: §Y$VAL$%§!\n"
  IS_NOT_PROTECTORATE:0 "Nie jest protektoratem"

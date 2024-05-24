@@ -205,7 +205,7 @@
  BLOCK_OFFENSIVE_WARS_ENABLE_DESC:0 "Powiedzieliœmy krajowi §Y$COUNTRY$§!, ¿e nie do³¹czymy do ¿adnej z ich wojen napastniczych. Przeszkodzi to równie¿ w gromadzeniu jakichkolwiek przys³ug i mog¹ zakoªczy¾ sojusz, jeœli uznaj¹, ¿e poradz¹ sobie bez ciebie. Kliknij, aby powiedzie¾ im, ¿e ponownie do³¹czysz do wojen napastniczych."
  BLOCK_OFFENSIVE_WARS_DESC:0 "Klikni²cie tego pola uniemo¿liwi krajowi §Y$COUNTRY$§! wzywania ci² do którejkolwiek z ich wojen napastniczych. Jednak zrobienie tego przeszkodzi równie¿ w gromadzeniu jakichkolwiek przys³ug i mo¿e zakoªczy¾ sojusz, jeœli uznaj¹, ¿e poradz¹ sobie bez ciebie."
  INCREASE_TRUST_CANNOT_COST:0 "§RPotrzebujesz przynajmniej §Y$COST$§! przys³ug, aby zwi²kszy¾ zaufanie §Y$COUNTRY_ADJ$§! do: §Y$PLAYER$§!!§!"
- INCREASE_TRUST_CANNOT_NOT_ALLY:0 "§RMusisz by¾ sojusznikiem paªstwa §Y$COUNTRY$§!, aby zwi²kszy¾ zaufanie §Y$COUNTRY_ADJ$§! do: §Y$PLAYER$§!!§!"
+ INCREASE_TRUST_CANNOT_NOT_ALLY:0 "§RMusisz by¾ sojusznikiem paªstwa §Y$COUNTRY_ADJ$§!, aby zwi²kszy¾ zaufanie §Y$COUNTRY_ADJ$§! do: §Y$PLAYER$§!!§!"
  INCREASE_TRUST_TOO_TRUSTY:0 "Kraj §R$COUNTRY|Y$ osi¹gn¹³ ju¿ najwi²ksze mo¿liwe zaufanie do: $PLAYER|Y$.§!"
  INCREASE_TRUST_DESC:0 "Wykorzystaj §Y$COST$§! przys³ug, aby zwi²kszy¾ zaufanie §Y$COUNTRY_ADJ$§! do: §Y$PLAYER$§! o §Y$AMT$§!."
  PREPARE_WAR_CANNOT_COST:0 "§RPotrzebujesz przynajmniej §Y$COST$§! przys³ug u paªstwa §Y$COUNTRY$§!, aby poprosi¾ ich o przygotowanie si² do wojny.§!"

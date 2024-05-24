@@ -798,7 +798,7 @@
  nahuatl_events.17.a:0 "Przestrzegajmy zaleceª i miejmy nadziej² ¿e to pomo¿e"
  nahuatl_events.17.b:0 "Musimy z³o¿y¾ du¿e ofiary, aby udobrucha¾ bogów."
  nahuatl_events.18.t:0 "Ollamalitzli"
- nahuatl_events.18.d:0 "W swojej m³odoœci [Root.Heir.GetName] sta³ si² ca³kiem bieg³y w tradycyjnej grze w pi³k² Ollamalitzli, ale jako doros³y musia³ porzuci¾ ten nawyk. Rozgrywki tocz¹ si² w ró¿nych dzielnicach stolicy, jednak [Root.Heir.GetSheHe] cz²sto jest obecny jako widz na ró¿nych dworach w pobli¿u œwi¹tyª lub rynków. Ten zwyczaj musi równie¿ obejmowa¾ udzia³ w dzikich zak³adach, które s¹ cz²sto kojarzone z gr¹, poniewa¿ [Root.Heir.GetName] przyszed³ do ciebie dzisiaj z proœb¹ o pomoc w sp³acie [Root.Heir.GetHerHis] d³ugów."
+ nahuatl_events.18.d:0 "W swojej m³odoœci [Root.Heir.GetName] sta³[Root.Heir.GetANoun] si² ca³kiem bieg³[Root.Heir.GetAY] w tradycyjnej grze w pi³k² Ollamalitzli, ale jako doros³[Root.Heir.GetAY] musia³[Root.Heir.GetANoun] porzuci¾ ten nawyk. Rozgrywki tocz¹ si² w ró¿nych dzielnicach stolicy, jednak [Root.Heir.GetSheHe] cz²sto jest obecn[Root.Heir.GetAY] jako widz na ró¿nych dworach w pobli¿u œwi¹tyª lub rynków. Ten zwyczaj musi równie¿ obejmowa¾ udzia³ w dzikich zak³adach, które s¹ cz²sto kojarzone z gr¹, poniewa¿ [Root.Heir.GetName] przysz[Root.Heir.GetLaEdl] do ciebie dzisiaj z proœb¹ o pomoc w sp³acie [Root.Heir.GetHerHis] d³ugów."
  nahuatl_events.18.a:0 "Pomó¿ [Root.Heir.GetHerHim]"
  nahuatl_events.18.b:0 "Zabroª [Root.Heir.GetHerHim] udzia³y w zak³adach"
  nahuatl_events.19.t:0 "Kradzie¿ wi²Ÿnia"

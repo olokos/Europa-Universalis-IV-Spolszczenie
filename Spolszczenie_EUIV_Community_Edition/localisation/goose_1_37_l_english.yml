@@ -1,0 +1,12 @@
+﻿l_english:
+ NO_ANNEX_PROGRESS_WHILE_PROVINCES_OCCUPIED:0 "Kiedy nie kontroluj¹ swoich prowincji, post²p aneksji zostanie wstrzymany."
+ mechanic_heir:0 "Nast²pcy"
+ MOVE_WITH_TRANSPORT_LOCKED:0 "Ruch tutaj mo¿liwy jest z pomoc¹ statków transportowych, ale niektóre jednostki l¹dowe s¹ obecnie zablokowane."
+ MODIFIER_REVERSE_RELATION_WITH_HERETIC_RELIGION:0 "Opinia paªstwa przez inne heretyckie religie"
+ MODIFIER_REVERSE_RELATION_WITH_HEATHEN_RELIGION:0 "Opinia paªstwa przez inne pogaªskie religie"
+ ROUND_VARIABLE:0 "Zaokr¹glenie $VAR|Y$."
+ CEILING_VARIABLE:0 "Zaokr¹glenie w gór² $VAR|Y$."
+ FLOOR_VARIABLE:0 "Zaokr¹glenie w dó³ $VAR|Y$."
+ SQRT_VARIABLE:0 "Uzyskanie pierwiastka kwadratowego z $VAR|Y$."
+ RANDOM_VARIABLE:0 "Ustawia $VAR|Y$ na wartoœ¾ losow¹ pomi²dzy 0 a $VALUE|Y$"
+ MODULO_VARIABLE:0 "Modulo $VAR|Y$ z $VALUE|Y$"
