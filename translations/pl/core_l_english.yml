@@ -62,7 +62,7 @@
  IS_NOT_GREAT_POWER: "Nie jest światową potęgą"
  IS_GREAT_POWER: "Jest światową potęgą"
  WHO_IS_GREAT_POWER: "$WHO|Y$ jest światową potęgą."
- HAVE_LESS_GP_RANK: "Jest potężniejszą rangą światową potęgą niż"
+ HAVE_LESS_GP_RANK: "Jest potężniejszą światową potęgą niż"
  HAVE_MORE_GP_RANK: "Jest słabszą lub równą rangą światową potęgą niż"
  TECHNOLOGY_COST: "Koszt technologii: §Y$VAL$%§!\n"
  IS_NOT_PROTECTORATE: "Nie jest protektoratem"

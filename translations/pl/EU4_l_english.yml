@@ -1161,7 +1161,7 @@
  IMPREF_JUNIOR: "Przysięga wierności wobec $WHO$: $VAL$\n"
  IMPREF_OVERLORD_VOTING_NO: "Suweren sprzeciwia się reformie: $VAL$\n"
  IMPREF_OVERLORD_VOTING_YES: "Suweren popiera reformę: $VAL$\n"
- IMPREF_OVEREXTEND: "Przerost cesarstwa: $VAL$\n"
+ IMPREF_OVEREXTEND: "Przerost Cesarza: $VAL$\n"
  IMPREF_SIMILAR_CULTURE: "Kultura cesarza jest inna niż $NAME|Y$: $VAL$\n"
  IMPREF_SAME_CULTURE: "Kultura cesarza to również $NAME|Y$: $VAL$\n"
  IMPREF_NON_ACCEPTED_CULTURE: "$NAME|Y$ nie jest akceptowaną kulturą w państwie $EMPEROR$: $VAL$\n"

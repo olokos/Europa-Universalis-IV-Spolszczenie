@@ -589,7 +589,7 @@
  BUILDSPYNETWORK_LONG_DESC_1_SUBJECTS: "Wysłać dyplomatę, by rozwinął naszą siatkę szpiegów i informatorów w państwie $COUNTRY|Y$ i u jego poddanych ($SUBJECTS$)?"
  BUILDSPYNETWORK_LONG_DESC_2: "Będą oni co miesiąc zwiększać naszą siatkę szpiegowskiej o $AMT|G$.\n\nKiedy nasz agent jest aktywny, a wielkość siatki szpiegowskiej przekracza §Y25§!, każdego miesiąca zachodzi §R$RISK$%§! ryzyko wykrycia. Jeśli zostaniemy wykryci, zaszkodzi to naszym stosunkom z danym państwem, zmniejszy rozmiar naszej siatki i na pewien czas ograniczy jej rozwój."
  CANCEL_BUILDSPYNETWORK_LONG_DESC: "Odwołać agentów budujących naszą siatkę szpiegowską w państwie $COUNTRY|Y$? Jeśli istniejąca siatka nie będzie rozbudowywana,nastąpi jej powolny rozpad."
- CURRY_FAVORS_OUTLINER: "$NAME$ zyskuje sobie przysługi od państwa $COUNTRY|Y$. Teraz zyskujemy $VAL|+=2$ przysług miesięcznie dzięki:\n$ DLACZEGO $"
+ CURRY_FAVORS_OUTLINER: "$NAME$ zyskuje sobie przysługi od państwa $COUNTRY|Y$. Teraz zyskujemy $VAL|+=2$ przysług miesięcznie dzięki:\n$WHY$"
  COUNTERESPIONAGE_OUTLINER: "$NAME$ prowadzi działania kontrwywiadowcze w prowincji $PROV|Y$ ($COUNTRY|Y$). Zwiększa to naszą szansę na wykrycie przysłanych przezeń do nas agentów o $AMT$."
  COUNTERESPIONAGE_NO_SUBJECT: "Jako poddany nie możemy prowadzić działań kontrwywiadowczych."
  COUNTERESPIONAGETITLE: "Działania kontrwywiadowcze"

@@ -458,7 +458,7 @@
  flavor_hun.26.t: "Statuta Valachorum"
  flavor_hun.26.d: "Ekspansja Imperium Osmańskiego całkowicie zmieniła geografię polityczną Europy Południowo-Wschodniej, a wielu Słowian i Rumunów opuściło swoje stare domy, aby osiedlić się na obszarach przygranicznych posiadanych przez nasze [Root.GovernmentName]. Ci ludzie, chcąc odzyskać swoje dawne domostwa, prawdopodobnie byliby oddanymi żołnierzami i partyzantami. Gdybyśmy zagwarantowali im swobody religijne i kulturowe, przez co granica mogłaby być nieco niespokojna, ale zjednoczony nienawiścią do Osmanów lud mógłby nam dobrze służyć."
  flavor_hun.26.a: "Zagwarantujmy im swobody!"
- flavor_hun.26.b: "Nie,prawo musi być bezwzględnie przestrzegane."
+ flavor_hun.26.b: "Nie, prawo musi być bezwzględnie przestrzegane."
  flavor_hun.27.t: "Rumuński bunt"
  flavor_hun.27.d: "Rumuni, czyli Wołosi, byli częścią naszych ziem w Siedmiogrodzie od wieków, ale mieli niewielką reprezentację w siedmiogrodzkich klasach społecznych. Region zawsze był bardzo niespokojny, a Seklerzy, Siedmiogrodzcy Sasi i Wołosi współistnieli w delikatnej równowadze sił.\nOstatnio jednak Wołosi zaczęli domagać się praw i reprezentacji. Niektórzy nawet chwycili za broń przeciwko władzom państwa [Root.GetName]."
  flavor_hun.27.a: "Rozumiem."
