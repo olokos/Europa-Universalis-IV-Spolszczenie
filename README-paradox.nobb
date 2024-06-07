@@ -28,47 +28,50 @@ Lista ostatnich zmian (dane z dnia 09.08.2023):
 - Zaktualizowano spolszczenie do najnowszej wersji gry z DLC Lions Of The North
 
 
-Postęp prac nad spolszczeniem (dane z dnia 09.08.2023):
-Wersja podstawowa EU4: 
+### Postęp prac nad spolszczeniem (dane z dnia 07.06.2024):
+
+**Wersja podstawowa EU4**: 
 * Główne pliki przetłumaczone w całości oprócz części wydarzeń i zintegrowanego z grą dodatku women in history, które są w trakcie tłumaczenia.
 
-Dodatki:
+**Dodatki:**
 
-Przetłumaczone w całości:
+**Przetłumaczone w całości:**
 
 * Conquest of Paradise
 * Wealth of Nations
 * Res Publica
 * El Dorado
+* The Cossacks
 * Mare Nostrum
 * Third Rome
 * Rule Britannia
 * Dharma
 * Golden Century
 
-Tłumaczone dodatki:
+**Tłumaczone dodatki:**
 (postęp określono dla głównych plików)
 
-* Art of War - 54,72%
-* Common Sense - 30,99%
-* The Cossacks - 42,02%
-* Rights of Man - 34,37%
-* Mandate of Heaven - 21,77%
-* Cradle of Civilization - 33,91%
+* Art of War - 58,38%
+* Common Sense - 33,37%
+* Rights of Man - 43,20%
+* Mandate of Heaven - 35,91%
+* Cradle of Civilization - 41,06%
 * Emperor
-- emperor content - 30,65%
-- emperor missions - 63,21%
-- emperor - 69,50%
+- emperor content - 38,21%
+- emperor missions - 64,51%
+- emperor - 91,70%
 - emperor estates - 100%
 - emperor revolutions - 100%
 * Leviathan
-- leviathan - 14,82%
-- mandala missions - 15,42%
-- 00 lanfang - 44,40%
-- tmm - 55,96%
-* Origins - 17,66%
-* Lions of the North - 10,52%
-* Domination - 0,99%
+- leviathan - 19,00%
+- mandala missions - 16,30%
+- 00 lanfang - 47,23%
+- tmm - 59,85%
+* Origins - 17,57%
+* Lions of the North - 20,15%
+* Domination - 14,24%
+* King of Kings - 4,27%
+* Winds of Change - 2,18%
 
 Objaśnienia:
  + procenty określają postęp tłumaczenia dodatku (w zakresie wpisów (linijek))
@@ -103,7 +106,7 @@ Zgłaszanie błędów oraz pomoc techniczna:
 W razie jakichkolwiek problemów/zastrzeżeń/propozycji zachęcamy do kontaktu poprzez serwer discord https://discord.gg/bTW7G7zJGX
 
 Twórcy:
-- 200e200w - tłumaczenie
+- 200e200w - tłumaczenie, aktualizacja readme
 - Batziy - polskie czcionki
 - blizzer92 - tłumaczenie
 - DrSzuriad - tłumaczenie, tworzenie CL
