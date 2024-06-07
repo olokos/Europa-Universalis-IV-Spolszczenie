@@ -192,7 +192,7 @@
  DIPLO_ALLYS_FOR_YEARS:0 "$ALLY1$ jest sojusznikiem kraju $ALLY2$ od $YEARS$ lat:"
  DIPLO_NOT_BEEN_ALLYS_FOR_YEARS:0 "$ALLY1$ nie jest sojusznikiem kraju $ALLY2$ od $YEARS$ lat:"
  DIPLO_DEFENSIVE_BAD_WARSCORE:0 "To jest wojna obronna i Twój wynik wojny jest mniejszy ni¿ $VAL$: "
- DIPLO_DIPLOMATIC_REP:0 "Reputacja dyplomatyczna paªstwa $WHO$:"
+ DIPLO_DIPLOMATIC_REP:0 "Reputacja dyplomatyczna paªstwa $WHO$: "
  DIPLO_FED_DIPLOMATIC_REP:0 "Ca³kowita reputacja dyplomatyczna w kraju $WHO$:"
  DIPLO_DIPLOMATIC_SKILL:0 "Umiej²tnoœci dyplomatyczne paªstwa $WHO$:"
  DIPLO_DIPLOMATIC_SKILL_MODIFIERS:0 "Modyfikatory umiej²tnoœci dyplomatycznych paªstwa $WHO$:"

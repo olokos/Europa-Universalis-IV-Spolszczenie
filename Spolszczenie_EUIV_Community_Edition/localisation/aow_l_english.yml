@@ -441,7 +441,7 @@
  LIBERTY_DESIRE_FROM_HISTORICAL_RIVAL:0 "Historyczni rywale paªstwa §Y$OVERLORD$§!: $VAL$"
  LIBERTY_DESIRE_FROM_TRUST:0 "Zaufanie w stosunku do paªstwa §Y$OVERLORD$§!: $VAL$"
  LIBERTY_DESIRE_FROM_OPINION:0 "Opinia o paªstwie §Y$OVERLORD$§!: $VAL$"
- LIBERTY_DESIRE_FROM_DIP_REP:0 "Reputacja dyplomatyczna paªstwa §Y$OVERLORD$§!: $VAL$"
+ LIBERTY_DESIRE_FROM_DIP_REP:0 "Reputacja dyplomatyczna paªstwa §Y$OVERLORD$§!: $VAL$ "
  LIBERTY_DESIRE_FROM_ANNNEXATION:0 "Podlega aneksji: $VAL$"
  LIBERTY_DESIRE_FROM_DIPLO_TECH:0 "Przewy¿sza technologi¹ dyplomatyczn¹ paªstwo $OVERLORD$: $VAL$"
  LIBERTY_DESIRE_NEGATIVE_PRESTIGE:0 "Presti¿ paªstwa §Y$OVERLORD$§! jest ujemny: $VAL$"
