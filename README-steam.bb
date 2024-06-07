@@ -8,21 +8,21 @@ Jak i steam:
 [h2]Obsługiwana wersja gry i zakres tłumaczenia:[/h2]
 Spolszczenie do Europa Universalis 4 w najnowszej wersji 1.37.1.0 (Inca).
 
-[h3]Stan w wersji 3.4.3 [01.10.2023]:[/h3]
+[h3]Stan w wersji 3.6.0 [07.06.2024]:[/h3]
 [i]
-* 19,527 sprawdzonych wpisów
-* 85,859 przetłumaczone wpisy (886 tys. słów)
-* 29,175 nieprzetłumaczonych wpisów (576 tys. słów)
+* 19,492 sprawdzonych wpisów
+* 91,005 przetłumaczone wpisy (968 tys. słów)
+* 35,377 nieprzetłumaczonych wpisów (673 tys. słów)
 
-* 16.97% Zatwierdzone
-* 74.64% Przetłumaczone
-* 25.36% Nieprzetłumaczone
+* 15.42% Zatwierdzone
+* 72.01% Przetłumaczone
+* 27.99% Nieprzetłumaczone
 [/i]
 
 Jest to obecnie najpełniejsze, stworzone przez społeczność gry, spolszczenie, które posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie [b](77,47% całej gry)[/b]. Prace projektu obejmują 122 plików, z czego do przetłumaczenia pozostało 22.
 [i]Należy pamiętać, że gdy twórcy gry zaktualizują daną linijkę tekstu, wtedy uznajemy że cała linijka jest nieprzetłumaczona, aby mieć pewność, że nie ma żadnych rozbieżności, stąd po aktualizacjach postęp może się "cofać", co wynika z przyrostu nowych tekstów.[/i]
  
-[h3]Lista ostatnich zmian:[/h3]
+[h3]Lista ostatnich zmian (dane z dnia 09.08.2023):[/h3]
 - Przetłumaczono ponad 700 linijek
 - Dodano nowe funkcje Custom Localisation
 - Przetłumaczono kolejne 800 linijek 
