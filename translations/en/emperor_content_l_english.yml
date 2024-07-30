@@ -945,6 +945,7 @@
  shadow_kingdom.2.b: "We must rein in the Italians."
  shadow_kingdom_emperor_gives_up_tt: "§YItalian nations within the HRE that have been reined in will remain in the Empire.§!\n§YItalian nations that have not been reined in will leave the Empire.§!\n\n§YThe Emperor will lose §R0.2§! Imperial Authority per province development which leaves the Empire.§!"
  shadow_kingdom_incident_tt: "§YThe Emperor has until the year 1490 to rein in as many Italian nations in the Empire as possible.§!"
+ shadow_kingdom_incident_penalty_tt: "Lose §R0.2§! Imperial Authority per §YDevelopment§! from the Italian provinces which leave the Holy Roman Empire."
  shadow_kingdom.3.t: "The Shadow Kingdom"
  shadow_kingdom.3.d: "Despite the Imperial resolution to rein in Italy, there are still Italian states that refuse to accept the supremacy of the Empire. [Root.GetAdjective] efforts have not been completely in vain however; those states that have been reined in will not dare defy the Empire again."
  shadow_kingdom.3.a: "The fate of Italy is decided."

@@ -145,7 +145,7 @@
  tributary_events.12.t: "Tribute from [ningbo_country.GetName]"
  tributary_events.12.d: "An ambassador from [ningbo_country.GetName] has arrived with an enormous gift as compensation for the unpleasantries exchanged in [ningbo_province.GetCapitalName]. The [ningbo_country.Monarch.GetTitle] has dealt most severely with his disobedient underlings and will now personally guarantee that the peace will be kept for future tribute missions."
  tributary_events.12.a: "A prudent choice."
- tributary_events.12.a.tt: "[Root.GetName] will receive an entire year's worth of income from [ningbo_country.GetName]."
+ tributary_events.12.a.tt: "[Root.GetName] will receive §G[Root.money_to_give.GetValue]§! from [ningbo_country.GetName]."
  tributary_events.13.t: "The Exotic Goods of [exotic_tributary.GetName]"
  tributary_events.13.d: "Our court in [Root.Capital.GetCapitalName] marvels at the great number of exotic goods brought by the tributary mission from [exotic_tributary.GetName]. Enterprising officials and merchants alike have taken note of how sought after these items are and alliances are being formed already. If we don't act quickly it seems all but certain a smuggling ring will be set up to bring more exotic goods to the capital."
  tributary_events.13.a: "Allow it but ensure we get a share!"
