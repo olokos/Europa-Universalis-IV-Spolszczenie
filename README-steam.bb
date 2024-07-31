@@ -6,27 +6,30 @@ Jak i steam:
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1869998815]Link[/url]
 
 [h2]Obsługiwana wersja gry i zakres tłumaczenia:[/h2]
-Spolszczenie do Europa Universalis 4 w najnowszej wersji 1.37.1.0 (Inca).
+Spolszczenie do Europa Universalis 4 w najnowszej wersji 1.37.2.0 (Inca).
 
-[h3]Stan w wersji 3.6.0 [07.06.2024]:[/h3]
+[h3]Stan w wersji 3.6.1 [31.07.2024]:[/h3]
 [i]
-* 19,492 sprawdzonych wpisów
-* 91,005 przetłumaczone wpisy (968 tys. słów)
-* 35,377 nieprzetłumaczonych wpisów (673 tys. słów)
+* 19,500 sprawdzonych wpisów
+* 91,014 przetłumaczone wpisy (968 tys. słów)
+* 35,368 nieprzetłumaczonych wpisów (673 tys. słów)
 
-* 15.42% Zatwierdzone
-* 72.01% Przetłumaczone
-* 27.99% Nieprzetłumaczone
+* 15.43% Zatwierdzone
+* 72.02% Przetłumaczone
+* 27.98% Nieprzetłumaczone
 [/i]
 
-Jest to obecnie najpełniejsze, stworzone przez społeczność gry, spolszczenie, które posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie [b](77,47% całej gry)[/b]. Prace projektu obejmują 122 plików, z czego do przetłumaczenia pozostało 22.
-[i]Należy pamiętać, że gdy twórcy gry zaktualizują daną linijkę tekstu, wtedy uznajemy że cała linijka jest nieprzetłumaczona, aby mieć pewność, że nie ma żadnych rozbieżności, stąd po aktualizacjach postęp może się "cofać", co wynika z przyrostu nowych tekstów.[/i]
+Jest to obecnie najpełniejsze, stworzone przez społeczność gry, spolszczenie, które posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie [b](72.02% całej gry)[/b]. Prace projektu obejmują 145 plików, z czego do przetłumaczenia pozostało 25.
+[i]Należy pamiętać, że gdy twórcy gry zaktualizują daną linijkę tekstu, wtedy uznajemy że cała linijka jest nieprzetłumaczona, aby mieć pewność, że nie ma żadnych rozbieżności, stąd po aktualizacjach postęp może się "cofać", co wynika z przyrostu nowych tekstów, szczególnie przy nowych dodatkach DLC, czy dużych aktualizacjach.[/i]
  
-[h3]Lista ostatnich zmian (dane z dnia 09.08.2023):[/h3]
-- Przetłumaczono ponad 700 linijek
-- Dodano nowe funkcje Custom Localisation
-- Przetłumaczono kolejne 800 linijek 
-- Zaktualizowano spolszczenie do najnowszej wersji gry z DLC Lions Of The North
+[h3]Lista ostatnich zmian (dane z dnia 31.07.2024):[/h3]
+W ostatnich miesiącach:
+- Zaktualizowano wszystkie klucze tekstów do najnowszych z wersji 1.37.2.0 Inca
+- Przetłumaczono kolejne tysiące linijek
+- Poprawiono dziesiątki już obecnych tłumaczeń
+- Poprawiono błędy interfejsu gry adekwatnie do aktualizacji samej gry
+- Dodano nowe funkcje Custom Localisation / Odmiany wyrazów
+- Zaktualizowano spolszczenie do najnowszej wersji gry z DLC Winds Of Change
 
 
 [h3]Postęp prac nad spolszczeniem (dane z dnia 07.06.2024):[/h3]
