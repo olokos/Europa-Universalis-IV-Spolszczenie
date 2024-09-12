@@ -16,8 +16,8 @@
  string_BARANGAY_ins: "Barangayarze" #
  string_BEYLIK: "Bejliku" #Bejlik M
  string_BEYLIK_ins: "Bejliku" #
- string_BIRODALOM: "" # Birodalom N
- string_BIRODALOM_ins: "" #
+ string_BIRODALOM: "Birodalomu" # Birodalom N
+ string_BIRODALOM_ins: "Birodalomie" #
  string_BISHOPRIC: "Biskupstwa" #Biskupstwo N
  string_BISHOPRIC_ins: "Biskupstwie" #
  string_BLACK_KNIGHTS: "Rycerzy Hadriana" #Rycerze Hadriana MM
@@ -34,10 +34,10 @@
  string_CAH_ins: "Cahu" #
  string_CHIEFDOM: "Wodzostwa" #Wodzostwo N
  string_CHIEFDOM_ins: "Wodzostwie" #
- string_CISARSTVI: "" # Císarství N
- string_CISARSTVI_ins: "" #
- string_CISARSTVO: "" # Cisárstvo N
- string_CISARSTVO_ins: "" #
+ string_CISARSTVI: "Císarství" # Císarství N
+ string_CISARSTVI_ins: "Císarství" #
+ string_CISARSTVO: "Cisárstva" # Cisárstvo N
+ string_CISARSTVO_ins: "Cisárstvie" #
  string_COLONY: "Kolonii" #Kolonia Ż
  string_COLONY_ins: "Kolonii" #
  string_COMMONWEALTH: "Rrzeczpospolitej" #Rzeczpospolita Ż
@@ -92,8 +92,8 @@
  string_FEDERAL_KINGDOM_ins: "Królestwie Federalnym" #
  string_FEDERAL_REPUBLIC: "Republiki Federalnej" #Republika Federalna Ż
  string_FEDERAL_REPUBLIC_ins: "Republice Federalnej" #
- string_FEJEDELEMSEG: "" # Fejedelemség N
- string_FEJEDELEMSEG_ins: "" #
+ string_FEJEDELEMSEG: "Fejedelemségu" # Fejedelemség N
+ string_FEJEDELEMSEG_ins: "Fejedelemségu" #
  string_FREE_CITY: "Wolnego Miasta" #Wolne Miasto N
  string_FREE_CITY_ins: "Wolnym Mieście" #
  string_GOV_REVOLUTIONARY_REPUBLIC: "Republiki Rewolucyjnej" #Republika Rewolucyjna Ż
@@ -198,16 +198,16 @@
  string_KINGDOM_ins: "Królestwie" #
  string_KINGDOM_PALATINE: "Królewskiego Palatynatu" #Królewski Palatynat M
  string_KINGDOM_PALATINE_ins: "Królewskim Palatynacie" #
- string_KIRALYSAG: "" # Királyság N
- string_KIRALYSAG_ins: "" #
- string_KNIEZATSTVO: "" # Kniezatstvo N
- string_KNIEZATSTVO_ins: "" #
- string_KNIZECTVI: "" # Knízectví N
- string_KNIZECTVI_ins: "" #
- string_KRALOVSTVI: "" # Království N
- string_KRALOVSTVI_ins: "" #
- string_KRALOVSTVO: "" # Královstvo N
- string_KRALOVSTVO_ins: "" #
+ string_KIRALYSAG: "Királyságu" # Királyság N
+ string_KIRALYSAG_ins: "Királyságu" #
+ string_KNIEZATSTVO: "Kniezatstva" # Kniezatstvo N
+ string_KNIEZATSTVO_ins: "Kniezatstvie" #
+ string_KNIZECTVI: "Knízectví" # Knízectví N
+ string_KNIZECTVI_ins: "Knízectví" #
+ string_KRALOVSTVI: "Království" # Království N
+ string_KRALOVSTVI_ins: "Království" #
+ string_KRALOVSTVO: "Královstva" # Královstvo N
+ string_KRALOVSTVO_ins: "Královstvie" #
  string_KUCHKABAL: "Kuchkabalu" #Kuchkabal M
  string_KUCHKABAL_ins: "Kuchkabalu" #
  string_LORDSHIP: "Senioratu" #Seniorat M
@@ -387,10 +387,10 @@
  string_CHIEF: "Wodza" #Wódz
  string_CHIEFTESS: "Przywódczyni" #Przywódczyni
  string_CIHUATLAHTOANI: "Cihuatlahtani" #Cihuatlahtani
- string_CISAR: "" #Císar
- string_CISAROVNA: "" #Císarovna
- string_CISAROVNA_SK: "" #Cisárovná
- string_CISAR_SK: "" #Cisár
+ string_CISAR: "Císara" #Císar
+ string_CISAROVNA: "Císarovny" #Císarovna
+ string_CISAROVNA_SK: "Cisárovny" #Cisárovná
+ string_CISAR_SK: "Cisára" #Cisár
  string_COMMANDER_EMPEROR: "Dowódcy Imperialnego" #Dowódca Imperialny
  string_COMMANDER_EMPRESS: "Dowódczyni Imperialnej" #Dowódczyni Imperialna
  string_CONSUL: "Konsula" #Konsul
@@ -405,8 +405,8 @@
  string_COUNT_PALATINE: "Hrabiego Palatynatu" #Hrabia Palatynatu
  string_CRUSADER: "Krzyżowca" #Krzyżowiec
  string_CRUSADER_fem: "Krzyżowczyni" #Krzyżowczyni
- string_CSASZAR: "" #Császár
- string_CSASZARNO: "" #Császárno
+ string_CSASZAR: "Császára" #Császár
+ string_CSASZARNO: "Császárno" #Császárno
  string_CUAUHTLAHTOANI: "Cuauhtlahtoaniego" #Cuauhtlahtoani
  string_DAI_female: "Dai" #Dai
  string_DAI_male: "Daia" #Dai
@@ -548,7 +548,7 @@
  string_HERBAD: "Herbada" #Herbad
  string_HERCEG: "Hercega" #Herceg
  string_HERCEGI: "Hercegi" #Herceg
- string_HERCEGNO: "" #Hercegno
+ string_HERCEGNO: "Hercegny" #Hercegno
  string_HETMAN: "Hetmana" #Hetman
  string_HETMAN_fem: "Hetmanki" #Hetmanka
  string_HIGH_CHIEF: "Wielkiego Wodza" #Wielki Wódz
@@ -594,21 +594,21 @@
  string_KING: "Króla" #Król
  string_KING_ELECTOR: "Króla Elektora" #Król Elektor
  string_KING_PALATINE: "Króla Palatynatu" #Król Palatynatu
- string_KIRALY: "" #Király
- string_KIRALYNO: "" #Királyno
- string_KNAZNA: "" #Knazná
- string_KNEZNA: "" #Knezna
+ string_KIRALY: "Királya" #Király
+ string_KIRALYNO: "Királyno" #Királyno
+ string_KNAZNA: "Knazny" #Knazná
+ string_KNEZNA: "Knezny" #Knezna
  string_KNIAGINIA: "Kniahini" #Kniahini
  string_KNIAZ: "Kniazia" #Kniaź
- string_KNIEZA: "" #Knieza
+ string_KNIEZA: "Kniezy" #Knieza
  string_KNIGHT_KING: "Króla Rycerzy" #Król Rycerzy
  string_KNIGHT_QUEEN: "Królowej Rycerzy" #Królowa Rycerzy
- string_KNIZE: "" #Kníze
+ string_KNIZE: "Knízego" #Kníze
  string_KOHEN_GADOL: "Kohena Gadol" #Kohen Gadol
- string_KRAL: "" #Král
+ string_KRAL: "Krála" #Král
  string_KRALJ: "Kralja" #Kralj
  string_KRALJICA: "Kraljicy" #Kraljica
- string_KRALOVNA: "" #KRALOVNA
+ string_KRALOVNA: "Královny" #KRALOVNA
  string_KURAKA: "Kuraki" #Kuraka
  string_K_UHUL_AJAW: "K'uhul Ajawa" #K'uhul Ajaw
  string_LADY: "Lady" #Lady
@@ -815,15 +815,15 @@
  string_CHHATRAPATI: "Czatrapatiego" #Czatrapati
  string_CHIEF: "Wodza" #Wódz
  string_CHIEFTESS: "Przywódczyni" #Przywódczyni
- string_CISAR: "" #Cisár
- string_CISAROVNA: "" #Císarovna
- string_CISAROVNA_SK: "" #Cisárovná
- string_CISAR_SK: "" #Cisár
+ string_CISAR: "Císara" #Cisár
+ string_CISAROVNA: "Císarovny" #Císarovna
+ string_CISAROVNA_SK: "Cisárovny" #Cisárovná
+ string_CISAR_SK: "Cisára" #Cisár
  string_CONSORT: "Małżonka" #Małżonek
  string_CONSORT_fem: "Małżonki" #Małżoneka
  string_COUNTESS: "Hrabiny" #Hrabina
- string_CSASZAR: "" #Császár
- string_CSASZARNO: "" #Császárno
+ string_CSASZAR: "Császára" #Császár
+ string_CSASZARNO: "Császárno" #Császárno
  string_DEDOPALI: "Dedopali" #Dedopali
  string_DESPOTISSA: "Despotki" #Despotka
  string_DUCHESS: "Księżnej" #Księżna
@@ -854,7 +854,7 @@
  string_HASEKI_SULTAN: "Haseki Sułtanki" #Haseki Sułtanka
  string_HATUN: "Hatun" #Hatun
  string_HERCEG: "Hercega" #Herceg
- string_HERCEGNO: "" #Hercegno
+ string_HERCEGNO: "Hercegno" #Hercegno
  string_HIGH_KING: "Wielkiego Króla" #Wielki Król
  string_HIGH_QUEEN: "Wielkiej Królowej" #Wielka Królowa
  string_IMPERATOR: "Imperatora" #Imperator
@@ -871,20 +871,20 @@
  string_KHATUN: "Katun" #Katun
  string_KING: "Króla" #Król
  string_KING_CONSORT: "Króla Małżonka" #Król Małżonek
- string_KIRALY: "" #Király
- string_KIRALYNO: "" #Királyno
- string_KNAZNA: "" #Knazná
- string_KNEZNA: "" #Knezna
+ string_KIRALY: "Királya" #Király
+ string_KIRALYNO: "Királyno" #Királyno
+ string_KNAZNA: "Knazny" #Knazná
+ string_KNEZNA: "Knezny" #Knezna
  string_KNIAGINIA: "Kniahini" #Kniahini
  string_KNIAZ: "Kniazia" #Kniaź
- string_KNIEZA: "" #Knieza
- string_KNIZE: "" #Kníze
+ string_KNIEZA: "Kniezy" #Knieza
+ string_KNIZE: "Knízego" #Kníze
  string_KOGO: "Kogo" #Kogo
  string_KOSEI: "Kosei" #Kosei
- string_KRAL: "" #Král
+ string_KRAL: "Krála" #Král
  string_KRALJ: "Kralja" #Kralj
  string_KRALJICA: "Kraljicy" #Kraljica
- string_KRALOVNA: "" #Královna
+ string_KRALOVNA: "Královny" #Královna
  string_LADY: "Lady" #Lady
  string_LORD: "Lorda" #Lord
  string_MAHARAJA: "Maharadży" #Maharadża

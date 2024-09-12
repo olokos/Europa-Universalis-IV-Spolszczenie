@@ -355,7 +355,7 @@
  PRESTIGE_FROM_CONV: "Zwiększy to nasz prestiż o §G+$VAL$§!."
  KARMA_FROM_CONV: "Zwiększy to naszą Karmę o §G+$VAL$§!."
  KARMA_FROM_CONV_CONFIRM: "Nawrócenie tej prowincji zwiększy naszą Karmę o §G+$VAL$§!."
- MODIFIER_CAN_TRANSFER_VASSAL_WARGOAL: "Pozwala na traktat pokojowy '§YPrzekazanie poddanego§!' za połowę kosztów"
+ MODIFIER_CAN_TRANSFER_VASSAL_WARGOAL: "Pozwala na traktat pokojowy '§YPrzekazanie poddanego§!'"
  MODIFIER_CAN_CHAIN_CLAIM: "Pozwala na rozszerzone granice roszczeń"
  MODIFIER_FREE_MAINTENANCE_ON_EXPL_CONQ: "Brak kosztów utrzymania dowódcy odkrywców"
  MODIFIER_CAN_COLONY_BOOST_DEVELOPMENT: "+1 §Ywszystkich punktów rozwoju§! kiedy kolonia zostanie ukończona"

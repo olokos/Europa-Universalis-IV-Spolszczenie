@@ -945,6 +945,7 @@
  shadow_kingdom.2.b: "Musimy podporządkować Włochów."
  shadow_kingdom_emperor_gives_up_tt: "§YWłoskie narody w ŚCR, które zostały podporządkowane, pozostaną w Cesarstwie.§!\n§YWłoskie narody, które nie zostały podporządkowane, opuszczą Cesarstwo.\n\n§YCesarz straci §R0.2§! cesarskiego autorytetu za każdą rozwiniętą prowincję, która opuści Cesarstwo.§!"
  shadow_kingdom_incident_tt: "§YCesarz ma czas do 1490 roku, aby podporządkować jak najwięcej włoskich narodów w Cesarstwie.§!"
+ shadow_kingdom_incident_penalty_tt: ""
  shadow_kingdom.3.t: "Królestwo cieni"
  shadow_kingdom.3.d: "Pomimo cesarskiego postanowienia o podporządkowania Włoch, wciąż istnieją państwa włoskie, które odmawiają zaakceptowania supremacji Cesarstwa. Wysiłki [Root.GetAdjective] nie poszły jednak całkowicie na marne; te państwa, które zostały podporządkowane, nie odważą się ponownie przeciwstawić Cesarstwu."
  shadow_kingdom.3.a: "Los Włoch jest przesądzony."

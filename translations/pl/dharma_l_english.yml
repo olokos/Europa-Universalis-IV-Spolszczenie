@@ -709,7 +709,7 @@
  COT_NO_OF_LEVEL: "Brak centrów handlowych na poziomie $LEVEL|Y$\n"
  COT_OF_LEVEL: "Co najmniej jedno centrum handlowe na poziomie $LEVEL|Y$\n"
  COT_NO_OF_LEVEL_PROVINCE: "Bez centrów handlowych na poziomie $LEVEL|Y$\n"
- COT_OF_LEVEL_PROVINCE: "Co najmniej jedno centrum handlowe na poziomie $LEVEL|Y$\n"
+ COT_OF_LEVEL_PROVINCE: "Prowincja ma centrum handlowe na poziomie $LEVEL|Y$\n"
  COT_LESS_THAN: "Posiadać mniej niż $NUM|Y$ centrów handlowych\n"
  COT_AT_LEAST: "Posiadać co najmniej $NUM|Y$ centrów handlowych\n"
  COT_PROVINCE_GLOBAL_MODIFIER: "§Y$PROVINCE$:§! $NAME$"
