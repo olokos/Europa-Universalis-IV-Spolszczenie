@@ -945,6 +945,7 @@
  shadow_kingdom.2.b:0 "Musimy podporz¹dkowa¾ W³ochów."
  shadow_kingdom_emperor_gives_up_tt:0 "§YW³oskie narody w ŒCR, które zosta³y podporz¹dkowane, pozostan¹ w Cesarstwie.§!\n§YW³oskie narody, które nie zosta³y podporz¹dkowane, opuszcz¹ Cesarstwo.\n\n§YCesarz straci §R0.2§! cesarskiego autorytetu za ka¿d¹ rozwini²t¹ prowincj², która opuœci Cesarstwo.§!"
  shadow_kingdom_incident_tt:0 "§YCesarz ma czas do 1490 roku, aby podporz¹dkowa¾ jak najwi²cej w³oskich narodów w Cesarstwie.§!"
+ shadow_kingdom_incident_penalty_tt:0 "Lose §R0.2§! Imperial Authority per §YDevelopment§! from the Italian provinces which leave the Holy Roman Empire."
  shadow_kingdom.3.t:0 "Królestwo cieni"
  shadow_kingdom.3.d:0 "Pomimo cesarskiego postanowienia o podporz¹dkowania W³och, wci¹¿ istniej¹ paªstwa w³oskie, które odmawiaj¹ zaakceptowania supremacji Cesarstwa. Wysi³ki [Root.GetAdjective] nie posz³y jednak ca³kowicie na marne; te paªstwa, które zosta³y podporz¹dkowane, nie odwa¿¹ si² ponownie przeciwstawi¾ Cesarstwu."
  shadow_kingdom.3.a:0 "Los W³och jest przes¹dzony."
