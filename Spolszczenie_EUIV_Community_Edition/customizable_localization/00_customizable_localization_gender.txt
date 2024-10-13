@@ -11,6 +11,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -26,6 +29,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_y
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -41,6 +47,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_end_ym
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -56,6 +65,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_end_mu
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -71,6 +83,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_end_nim
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -86,6 +101,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_end_alpl
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -101,6 +119,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_end_szedl
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -116,6 +137,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_end_edl
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -131,6 +155,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_a
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -146,6 +173,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_epl
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -161,6 +191,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_word_wladce
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -176,6 +209,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_end_ego
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -191,6 +227,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_end_ien
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -206,6 +245,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_word_son
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -221,6 +263,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_word_son_ins
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -236,6 +281,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_word_husband_acc
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -251,6 +299,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_word_husband_gen
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -266,6 +317,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_word_husband_ins
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -281,6 +335,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_word_man_ins
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -296,6 +353,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_word_man_dat
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -311,6 +371,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_word_man_gen
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -326,6 +389,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_end_ego
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -341,6 +407,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_i
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -356,6 +425,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_end_emu
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -371,6 +443,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_apl
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -386,6 +461,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -401,6 +479,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_a
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -416,6 +497,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -431,6 +515,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -446,6 +533,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_a
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -461,6 +551,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_end_im
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1224,6 +1317,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1238,6 +1334,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1252,6 +1351,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1266,6 +1368,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1280,6 +1385,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1294,6 +1402,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1308,6 +1419,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1322,6 +1436,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1336,6 +1453,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1350,6 +1470,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1364,6 +1487,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1378,6 +1504,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1392,6 +1521,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1406,6 +1538,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1420,6 +1555,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1434,6 +1572,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1448,6 +1589,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1462,6 +1606,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1476,6 +1623,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1490,6 +1640,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1504,6 +1657,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1518,6 +1674,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1532,6 +1691,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1546,6 +1708,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1560,6 +1725,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1574,6 +1742,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1588,6 +1759,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1602,6 +1776,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1616,6 +1793,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1630,6 +1810,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1644,6 +1827,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1658,6 +1844,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_empty
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1672,6 +1861,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_a
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1686,6 +1878,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_apl
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1700,6 +1895,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_b
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1714,6 +1912,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_c
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1728,6 +1929,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_cpl
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1742,6 +1946,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_d
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1756,6 +1963,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_e
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1770,6 +1980,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_epl
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1784,6 +1997,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_f
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1798,6 +2014,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_g
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1812,6 +2031,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_h
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1826,6 +2048,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_i
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1840,6 +2065,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_j
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1854,6 +2082,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_k
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1868,6 +2099,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_l
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1882,6 +2116,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_lpl
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1896,6 +2133,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_m
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1910,6 +2150,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_n
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1924,6 +2167,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_npl
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1938,6 +2184,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_p
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1952,6 +2201,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_r
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1966,6 +2218,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_s
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1980,6 +2235,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_spl
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -1994,6 +2252,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_t
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -2008,6 +2269,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_u
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -2022,6 +2286,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_w
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -2036,6 +2303,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_y
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -2050,6 +2320,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_z
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -2064,6 +2337,9 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_zpl
+		trigger = {
+			is_male = yes
+		}
 	}
 }
 
@@ -2078,5 +2354,8 @@ defined_text = {
 	}
 	text = {
 		localisation_key = string_char_xpl
+		trigger = {
+			is_male = yes
+		}
 	}
 }
