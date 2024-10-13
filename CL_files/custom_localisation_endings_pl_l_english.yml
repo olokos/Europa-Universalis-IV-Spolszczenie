@@ -80,7 +80,7 @@
  string_word_wife_ins: "żoną"
  string_word_husband_ins: "mężem"
  
- string_char_empty: "a"
+ string_char_empty: ""
  string_char_a: "a"
  string_char_apl: "ą"
  string_char_b: "b"
