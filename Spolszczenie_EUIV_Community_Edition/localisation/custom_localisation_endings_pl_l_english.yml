@@ -78,7 +78,7 @@
  string_word_husband_gen:0 "m²¿a"
  string_word_wife_ins:0 "¿on¹"
  string_word_husband_ins:0 "m²¿em"
- string_char_empty:0 "a"
+ string_char_empty:0 ""
  string_char_a:0 "a"
  string_char_apl:0 "¹"
  string_char_b:0 "b"

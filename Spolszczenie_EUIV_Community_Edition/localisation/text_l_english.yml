@@ -3750,7 +3750,7 @@
  WT_NOT_AT_WAR:0 "Nie mo¿emy na³o¿y¾ podatków wojennych, poniewa¿ nie prowadzimy wojny."
  WT_HAS_TAX:0 "Wprowadziliœmy ju¿ podatki wojenne."
  STRAITS:0 "§Y$SEA$§W - tu w¹ska cieœnina bardziej ³¹czy ni¿ dzieli l¹d z prowincj¹ §Y$PROV$§!"
- STRAITSDESC:0 "W¹skie cieœniny mog¹ by¾ przekraczane przez armie bez u¿ycia okr²tów. Flota wroga mo¿e j¹ zablokowa¾, chyba ¿e obie strony cieœniny b²d¹ pod kontrol¹ sojuszników.\n "
+ STRAITSDESC:0 "W¹skie cieœniny mog¹ by¾ przekraczane przez armie bez u¿ycia okr²tów. Flota wroga mo¿e j¹ zablokowa¾, chyba ¿e obie strony cieœniny znajduj¹ si² pod kontrol¹ sojuszników."
  BLOCKED:0 "niemo¿liwa do przejœcia"
  PASSABLE:0 "mo¿liwa do przejœcia"
  STRAITSTATUS_DESC:0 "Cieœnina jest obecnie $STRAITSTATUS$ dla twoich oddzia³ów."
