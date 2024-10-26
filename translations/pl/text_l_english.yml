@@ -3750,7 +3750,7 @@
  WT_NOT_AT_WAR: "Nie możemy nałożyć podatków wojennych, ponieważ nie prowadzimy wojny."
  WT_HAS_TAX: "Wprowadziliśmy już podatki wojenne."
  STRAITS: "§Y$SEA$§W - tu wąska cieśnina bardziej łączy niż dzieli ląd z prowincją §Y$PROV$§!"
- STRAITSDESC: "Wąskie cieśniny mogą być przekraczane przez armie bez użycia okrętów. Flota wroga może ją zablokować, chyba że obie strony cieśniny będą pod kontrolą sojuszników.\n "
+ STRAITSDESC: "Wąskie cieśniny mogą być przekraczane przez armie bez użycia okrętów. Flota wroga może ją zablokować, chyba że obie strony cieśniny znajdują się pod kontrolą sojuszników."
  BLOCKED: "niemożliwa do przejścia"
  PASSABLE: "możliwa do przejścia"
  STRAITSTATUS_DESC: "Cieśnina jest obecnie $STRAITSTATUS$ dla twoich oddziałów."
