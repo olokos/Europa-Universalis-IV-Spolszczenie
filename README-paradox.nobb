@@ -7,23 +7,23 @@ Jak i steam:
 https://steamcommunity.com/sharedfiles/filedetails/?id=1869998815
 
 Obsługiwana wersja gry i zakres tłumaczenia:
-Spolszczenie do Europa Universalis 4 w najnowszej wersji 1.37.2.0 (Inca).
+Spolszczenie do Europa Universalis 4 w najnowszej wersji 1.37.5.0 (Inca).
 
-Stan w wersji 3.6.1 [31.07.2024]:
-* 19,500 sprawdzonych wpisów
-* 91,014 przetłumaczone wpisy (968 tys. słów)
-* 35,368 nieprzetłumaczonych wpisów (673 tys. słów)
+Stan w wersji 3.6.3 [31.03.2025]:
+* 19,499 sprawdzonych wpisów
+* 91,706 przetłumaczone wpisy (975 tys. słów)
+* 34,776 nieprzetłumaczonych wpisów (667 tys. słów)
 
-* 15.43% Zatwierdzone
-* 72.02% Przetłumaczone
-* 27.98% Nieprzetłumaczone
+* 15.42% Zatwierdzone
+* 72.51% Przetłumaczone
+* 27.49% Nieprzetłumaczone
 
-Jest to obecnie najpełniejsze, stworzone przez społeczność gry, spolszczenie, które posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie (72.02% całej gry). Prace projektu obejmują 145 plików, z czego do przetłumaczenia pozostało 25.
+Jest to obecnie najpełniejsze, stworzone przez społeczność gry, spolszczenie, które posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie (72.51% całej gry). Prace projektu obejmują 145 plików, z czego do przetłumaczenia pozostało 25.
 Należy pamiętać, że gdy twórcy gry zaktualizują daną linijkę tekstu, wtedy uznajemy że cała linijka jest nieprzetłumaczona, aby mieć pewność, że nie ma żadnych rozbieżności, stąd po aktualizacjach postęp może się "cofać", co wynika z przyrostu nowych tekstów, szczególnie przy nowych dodatkach DLC, czy dużych aktualizacjach.
  
-Lista ostatnich zmian (dane z dnia 31.07.2024):
+Lista ostatnich zmian (dane z dnia 31.03.2025):
 W ostatnich miesiącach:
-- Zaktualizowano wszystkie klucze tekstów do najnowszych z wersji 1.37.2.0 Inca
+- Zaktualizowano wszystkie klucze tekstów do najnowszych z wersji 1.37.5.0 Inca
 - Przetłumaczono kolejne tysiące linijek
 - Poprawiono dziesiątki już obecnych tłumaczeń
 - Poprawiono błędy interfejsu gry adekwatnie do aktualizacji samej gry
@@ -31,7 +31,7 @@ W ostatnich miesiącach:
 - Zaktualizowano spolszczenie do najnowszej wersji gry z DLC Winds Of Change
 
 
-Postęp prac nad spolszczeniem (dane z dnia 07.06.2024):
+Postęp prac nad spolszczeniem (dane z dnia 31.03.2025):
 
 Wersja podstawowa EU4: 
 * Główne pliki przetłumaczone w całości oprócz części wydarzeń i zintegrowanego z grą dodatku women in history, które są w trakcie tłumaczenia.
@@ -54,27 +54,27 @@ Przetłumaczone w całości:
 Tłumaczone dodatki:
 (postęp określono dla głównych plików)
 
-* Art of War - 58,38%
-* Common Sense - 33,37%
-* Rights of Man - 43,20%
-* Mandate of Heaven - 35,91%
-* Cradle of Civilization - 41,06%
+* Art of War - 58,38% (27 018)
+* Common Sense - 34,65% (22 878)
+* Rights of Man - 43,20% (26 042)
+* Mandate of Heaven - 36,15% (11 310)
+* Cradle of Civilization - 42,10% (10 514)
 * Emperor
-- emperor content - 38,21%
-- emperor missions - 64,51%
-- emperor - 91,70%
-- emperor estates - 100%
-- emperor revolutions - 100%
+- emperor content - 38,20% (52 977)
+- emperor missions - 64,84% (22 269)
+- emperor - 91,89% (654)
+- emperor estates - 100% (0)
+- emperor revolutions - 100% (0)
 * Leviathan
-- leviathan - 19,00%
-- mandala missions - 16,30%
-- 00 lanfang - 47,23%
-- tmm - 59,85%
-* Origins - 17,57%
-* Lions of the North - 20,15%
-* Domination - 14,24%
-* King of Kings - 4,27%
-* Winds of Change - 2,18%
+- leviathan - 20,63% (27 781)
+- mandala missions - 20,26% (10 162)
+- 00 lanfang - 47,23% (7 354)
+- tmm - 59,89% (6 734)
+* Origins - 21,72% (38 454)
+* Lions of the North - 22,00% (79 713)
+* Domination - 14,61% (93 156)
+* King of Kings - 5,09% (68 709)
+* Winds of Change - 6,72% (95 512)
 
 Objaśnienia:
  + procenty określają postęp tłumaczenia dodatku (w zakresie wpisów (linijek))
