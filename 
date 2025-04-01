@@ -1,288 +1,0 @@
-[1mdiff --git a/README-paradox.nobb b/README-paradox.nobb[m
-[1mindex 2b2e2ce8..bc9dacaa 100644[m
-[1m--- a/README-paradox.nobb[m
-[1m+++ b/README-paradox.nobb[m
-[36m@@ -7,23 +7,23 @@[m [mJak i steam:[m
- https://steamcommunity.com/sharedfiles/filedetails/?id=1869998815[m
- [m
- Obsługiwana wersja gry i zakres tłumaczenia:[m
-[31m-Spolszczenie do Europa Universalis 4 w najnowszej wersji 1.37.2.0 (Inca).[m
-[32m+[m[32mSpolszczenie do Europa Universalis 4 w najnowszej wersji 1.37.5.0 (Inca).[m
- [m
-[31m-Stan w wersji 3.6.1 [31.07.2024]:[m
-[31m-* 19,500 sprawdzonych wpisów[m
-[31m-* 91,014 przetłumaczone wpisy (968 tys. słów)[m
-[31m-* 35,368 nieprzetłumaczonych wpisów (673 tys. słów)[m
-[32m+[m[32mStan w wersji 3.6.3 [31.03.2025]:[m
-[32m+[m[32m* 19,499 sprawdzonych wpisów[m
-[32m+[m[32m* 91,706 przetłumaczone wpisy (975 tys. słów)[m
-[32m+[m[32m* 34,776 nieprzetłumaczonych wpisów (667 tys. słów)[m
- [m
-[31m-* 15.43% Zatwierdzone[m
-[31m-* 72.02% Przetłumaczone[m
-[31m-* 27.98% Nieprzetłumaczone[m
-[32m+[m[32m* 15.42% Zatwierdzone[m
-[32m+[m[32m* 72.51% Przetłumaczone[m
-[32m+[m[32m* 27.49% Nieprzetłumaczone[m
- [m
-[31m-Jest to obecnie najpełniejsze, stworzone przez społeczność gry, spolszczenie, które posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie (72.02% całej gry). Prace projektu obejmują 145 plików, z czego do przetłumaczenia pozostało 25.[m
-[32m+[m[32mJest to obecnie najpełniejsze, stworzone przez społeczność gry, spolszczenie, które posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie (72.51% całej gry). Prace projektu obejmują 145 plików, z czego do przetłumaczenia pozostało 25.[m
- Należy pamiętać, że gdy twórcy gry zaktualizują daną linijkę tekstu, wtedy uznajemy że cała linijka jest nieprzetłumaczona, aby mieć pewność, że nie ma żadnych rozbieżności, stąd po aktualizacjach postęp może się "cofać", co wynika z przyrostu nowych tekstów, szczególnie przy nowych dodatkach DLC, czy dużych aktualizacjach.[m
-  [m
-[31m-Lista ostatnich zmian (dane z dnia 31.07.2024):[m
-[32m+[m[32mLista ostatnich zmian (dane z dnia 31.03.2025):[m
- W ostatnich miesiącach:[m
-[31m-- Zaktualizowano wszystkie klucze tekstów do najnowszych z wersji 1.37.2.0 Inca[m
-[32m+[m[32m- Zaktualizowano wszystkie klucze tekstów do najnowszych z wersji 1.37.5.0 Inca[m
- - Przetłumaczono kolejne tysiące linijek[m
- - Poprawiono dziesiątki już obecnych tłumaczeń[m
- - Poprawiono błędy interfejsu gry adekwatnie do aktualizacji samej gry[m
-[36m@@ -31,7 +31,7 @@[m [mW ostatnich miesiącach:[m
- - Zaktualizowano spolszczenie do najnowszej wersji gry z DLC Winds Of Change[m
- [m
- [m
-[31m-Postęp prac nad spolszczeniem (dane z dnia 07.06.2024):[m
-[32m+[m[32mPostęp prac nad spolszczeniem (dane z dnia 31.03.2025):[m
- [m
- Wersja podstawowa EU4: [m
- * Główne pliki przetłumaczone w całości oprócz części wydarzeń i zintegrowanego z grą dodatku women in history, które są w trakcie tłumaczenia.[m
-[36m@@ -54,27 +54,27 @@[m [mPrzetłumaczone w całości:[m
- Tłumaczone dodatki:[m
- (postęp określono dla głównych plików)[m
- [m
-[31m-* Art of War - 58,38%[m
-[31m-* Common Sense - 33,37%[m
-[31m-* Rights of Man - 43,20%[m
-[31m-* Mandate of Heaven - 35,91%[m
-[31m-* Cradle of Civilization - 41,06%[m
-[32m+[m[32m* Art of War - 58,38% (27 018)[m
-[32m+[m[32m* Common Sense - 34,65% (22 878)[m
-[32m+[m[32m* Rights of Man - 43,20% (26 042)[m
-[32m+[m[32m* Mandate of Heaven - 36,15% (11 310)[m
-[32m+[m[32m* Cradle of Civilization - 42,10% (10 514)[m
- * Emperor[m
-[31m-- emperor content - 38,21%[m
-[31m-- emperor missions - 64,51%[m
-[31m-- emperor - 91,70%[m
-[31m-- emperor estates - 100%[m
-[31m-- emperor revolutions - 100%[m
-[32m+[m[32m- emperor content - 38,20% (52 977)[m
-[32m+[m[32m- emperor missions - 64,84% (22 269)[m
-[32m+[m[32m- emperor - 91,89% (654)[m
-[32m+[m[32m- emperor estates - 100% (0)[m
-[32m+[m[32m- emperor revolutions - 100% (0)[m
- * Leviathan[m
-[31m-- leviathan - 19,00%[m
-[31m-- mandala missions - 16,30%[m
-[31m-- 00 lanfang - 47,23%[m
-[31m-- tmm - 59,85%[m
-[31m-* Origins - 17,57%[m
-[31m-* Lions of the North - 20,15%[m
-[31m-* Domination - 14,24%[m
-[31m-* King of Kings - 4,27%[m
-[31m-* Winds of Change - 2,18%[m
-[32m+[m[32m- leviathan - 20,63% (27 781)[m
-[32m+[m[32m- mandala missions - 20,26% (10 162)[m
-[32m+[m[32m- 00 lanfang - 47,23% (7 354)[m
-[32m+[m[32m- tmm - 59,89% (6 734)[m
-[32m+[m[32m* Origins - 21,72% (38 454)[m
-[32m+[m[32m* Lions of the North - 22,00% (79 713)[m
-[32m+[m[32m* Domination - 14,61% (93 156)[m
-[32m+[m[32m* King of Kings - 5,09% (68 709)[m
-[32m+[m[32m* Winds of Change - 6,72% (95 512)[m
- [m
- Objaśnienia:[m
-  + procenty określają postęp tłumaczenia dodatku (w zakresie wpisów (linijek))[m
-[1mdiff --git a/README-steam.bb b/README-steam.bb[m
-[1mindex 71d21ff3..5c177506 100644[m
-[1m--- a/README-steam.bb[m
-[1m+++ b/README-steam.bb[m
-[36m@@ -6,25 +6,25 @@[m [mJak i steam:[m
- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1869998815]Link[/url][m
- [m
- [h2]Obsługiwana wersja gry i zakres tłumaczenia:[/h2][m
-[31m-Spolszczenie do Europa Universalis 4 w najnowszej wersji 1.37.2.0 (Inca).[m
-[32m+[m[32mSpolszczenie do Europa Universalis 4 w najnowszej wersji 1.37.5.0 (Inca).[m[41m[m
- [m
-[31m-[h3]Stan w wersji 3.6.1 [31.07.2024]:[/h3][m
-[32m+[m[32m[h3]Stan w wersji 3.6.3 [31.03.2025]:[/h3][m[41m[m
- [i][m
-[31m-* 19,500 sprawdzonych wpisów[m
-[31m-* 91,014 przetłumaczone wpisy (968 tys. słów)[m
-[31m-* 35,368 nieprzetłumaczonych wpisów (673 tys. słów)[m
-[32m+[m[32m* 19,499 sprawdzonych wpisów[m[41m[m
-[32m+[m[32m* 91,706 przetłumaczone wpisy (975 tys. słów)[m[41m[m
-[32m+[m[32m* 34,776 nieprzetłumaczonych wpisów (667 tys. słów)[m[41m[m
- [m
-[31m-* 15.43% Zatwierdzone[m
-[31m-* 72.02% Przetłumaczone[m
-[31m-* 27.98% Nieprzetłumaczone[m
-[32m+[m[32m* 15.42% Zatwierdzone[m[41m[m
-[32m+[m[32m* 72.51% Przetłumaczone[m[41m[m
-[32m+[m[32m* 27.49% Nieprzetłumaczone[m[41m[m
- [/i][m
- [m
-[31m-Jest to obecnie najpełniejsze, stworzone przez społeczność gry, spolszczenie, które posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie [b](72.02% całej gry)[/b]. Prace projektu obejmują 145 plików, z czego do przetłumaczenia pozostało 25.[m
-[32m+[m[32mJest to obecnie najpełniejsze, stworzone przez społeczność gry, spolszczenie, które posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie [b](72.51% całej gry)[/b]. Prace projektu obejmują 145 plików, z czego do przetłumaczenia pozostało 25.[m[41m[m
- [i]Należy pamiętać, że gdy twórcy gry zaktualizują daną linijkę tekstu, wtedy uznajemy że cała linijka jest nieprzetłumaczona, aby mieć pewność, że nie ma żadnych rozbieżności, stąd po aktualizacjach postęp może się "cofać", co wynika z przyrostu nowych tekstów, szczególnie przy nowych dodatkach DLC, czy dużych aktualizacjach.[/i][m
-  [m
-[31m-[h3]Lista ostatnich zmian (dane z dnia 31.07.2024):[/h3][m
-[32m+[m[32m[h3]Lista ostatnich zmian (dane z dnia 31.03.2025):[/h3][m[41m[m
- W ostatnich miesiącach:[m
-[31m-- Zaktualizowano wszystkie klucze tekstów do najnowszych z wersji 1.37.2.0 Inca[m
-[32m+[m[32m- Zaktualizowano wszystkie klucze tekstów do najnowszych z wersji 1.37.5.0 Inca[m[41m[m
- - Przetłumaczono kolejne tysiące linijek[m
- - Poprawiono dziesiątki już obecnych tłumaczeń[m
- - Poprawiono błędy interfejsu gry adekwatnie do aktualizacji samej gry[m
-[36m@@ -32,7 +32,7 @@[m [mW ostatnich miesiącach:[m
- - Zaktualizowano spolszczenie do najnowszej wersji gry z DLC Winds Of Change[m
- [m
- [m
-[31m-[h3]Postęp prac nad spolszczeniem (dane z dnia 07.06.2024):[/h3][m
-[32m+[m[32m[h3]Postęp prac nad spolszczeniem (dane z dnia 31.03.2025):[/h3][m[41m[m
- [m
- [b]Wersja podstawowa EU4[/b]: [m
- * Główne pliki przetłumaczone w całości oprócz części wydarzeń i zintegrowanego z grą dodatku women in history, które są w trakcie tłumaczenia.[m
-[36m@@ -55,27 +55,27 @@[m [mW ostatnich miesiącach:[m
- [b]Tłumaczone dodatki:[/b][m
- (postęp określono dla głównych plików)[m
- [m
-[31m-* Art of War - 58,38%[m
-[31m-* Common Sense - 33,37%[m
-[31m-* Rights of Man - 43,20%[m
-[31m-* Mandate of Heaven - 35,91%[m
-[31m-* Cradle of Civilization - 41,06%[m
-[32m+[m[32m* Art of War - 58,38% (27 018)[m[41m[m
-[32m+[m[32m* Common Sense - 34,65% (22 878)[m[41m[m
-[32m+[m[32m* Rights of Man - 43,20% (26 042)[m[41m[m
-[32m+[m[32m* Mandate of Heaven - 36,15% (11 310)[m[41m[m
-[32m+[m[32m* Cradle of Civilization - 42,10% (10 514)[m[41m[m
- * Emperor[m
-[31m-- emperor content - 38,21%[m
-[31m-- emperor missions - 64,51%[m
-[31m-- emperor - 91,70%[m
-[31m-- emperor estates - 100%[m
-[31m-- emperor revolutions - 100%[m
-[32m+[m[32m- emperor content - 38,20% (52 977)[m[41m[m
-[32m+[m[32m- emperor missions - 64,84% (22 269)[m[41m[m
-[32m+[m[32m- emperor - 91,89% (654)[m[41m[m
-[32m+[m[32m- emperor estates - 100% (0)[m[41m[m
-[32m+[m[32m- emperor revolutions - 100% (0)[m[41m[m
- * Leviathan[m
-[31m-- leviathan - 19,00%[m
-[31m-- mandala missions - 16,30%[m
-[31m-- 00 lanfang - 47,23%[m
-[31m-- tmm - 59,85%[m
-[31m-* Origins - 17,57%[m
-[31m-* Lions of the North - 20,15%[m
-[31m-* Domination - 14,24%[m
-[31m-* King of Kings - 4,27%[m
-[31m-* Winds of Change - 2,18%[m
-[32m+[m[32m- leviathan - 20,63% (27 781)[m[41m[m
-[32m+[m[32m- mandala missions - 20,26% (10 162)[m[41m[m
-[32m+[m[32m- 00 lanfang - 47,23% (7 354)[m[41m[m
-[32m+[m[32m- tmm - 59,89% (6 734)[m[41m[m
-[32m+[m[32m* Origins - 21,72% (38 454)[m[41m[m
-[32m+[m[32m* Lions of the North - 22,00% (79 713)[m[41m[m
-[32m+[m[32m* Domination - 14,61% (93 156)[m[41m[m
-[32m+[m[32m* King of Kings - 5,09% (68 709)[m[41m[m
-[32m+[m[32m* Winds of Change - 6,72% (95 512)[m[41m[m
- [m
- [b]Objaśnienia:[/b][m
-  + procenty określają postęp tłumaczenia dodatku (w zakresie wpisów (linijek))[m
-[1mdiff --git a/README.md b/README.md[m
-[1mindex 813f0858..70260a8a 100644[m
-[1m--- a/README.md[m
-[1m+++ b/README.md[m
-[36m@@ -6,24 +6,24 @@[m [mJak i steam:[m
- [Link](https://steamcommunity.com/sharedfiles/filedetails/?id=1869998815)[m
- [m
- ## Obsługiwana wersja gry i zakres tłumaczenia:[m
-[31m-Spolszczenie do Europa Universalis 4 w najnowszej wersji 1.37.2.0 (Inca).[m
-[32m+[m[32mSpolszczenie do Europa Universalis 4 w najnowszej wersji 1.37.5.0 (Inca).[m
- [m
-[31m-### Stan w wersji 3.6.1 [31.07.2024]:[m
-[31m-* 19,500 sprawdzonych wpisów[m
-[31m-* 91,014 przetłumaczone wpisy (968 tys. słów)[m
-[31m-* 35,368 nieprzetłumaczonych wpisów (673 tys. słów)[m
-[32m+[m[32m### Stan w wersji 3.6.3 [31.03.2025]:[m
-[32m+[m[32m* 19,499 sprawdzonych wpisów[m
-[32m+[m[32m* 91,706 przetłumaczone wpisy (975 tys. słów)[m
-[32m+[m[32m* 34,776 nieprzetłumaczonych wpisów (667 tys. słów)[m
- [m
-[31m-* 15.43% Zatwierdzone[m
-[31m-* 72.02% Przetłumaczone[m
-[31m-* 27.98% Nieprzetłumaczone[m
-[32m+[m[32m* 15.42% Zatwierdzone[m
-[32m+[m[32m* 72.51% Przetłumaczone[m
-[32m+[m[32m* 27.49% Nieprzetłumaczone[m
- [m
-[31m-Jest to obecnie najpełniejsze, stworzone przez społeczność gry, spolszczenie, które posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie **(72.02% całej gry)**. Prace projektu obejmują 145 plików, z czego do przetłumaczenia pozostało 25.[m
-[32m+[m[32mJest to obecnie najpełniejsze, stworzone przez społeczność gry, spolszczenie, które posiada najwięcej przetłumaczonego tekstu ze wszystkich dostępnych w internecie **(72.51% całej gry)**. Prace projektu obejmują 145 plików, z czego do przetłumaczenia pozostało 25.[m
- [m
- _Należy pamiętać, że gdy twórcy gry zaktualizują daną linijkę tekstu, wtedy uznajemy że cała linijka jest nieprzetłumaczona, aby mieć pewność, że nie ma żadnych rozbieżności, stąd po aktualizacjach postęp może się "cofać", co wynika z przyrostu nowych tekstów, szczególnie przy nowych dodatkach DLC, czy dużych aktualizacjach._[m
-  [m
-[31m-### Lista ostatnich zmian (dane z dnia 31.07.2024):[m
-[32m+[m[32m### Lista ostatnich zmian (dane z dnia 31.03.2025):[m
- W ostatnich miesiącach:[m
-[31m-- Zaktualizowano wszystkie klucze tekstów do najnowszych z wersji 1.37.2.0 Inca[m
-[32m+[m[32m- Zaktualizowano wszystkie klucze tekstów do najnowszych z wersji 1.37.5.0 Inca[m
- - Przetłumaczono kolejne tysiące linijek[m
- - Poprawiono dziesiątki już obecnych tłumaczeń[m
- - Poprawiono błędy interfejsu gry adekwatnie do aktualizacji samej gry[m
-[36m@@ -31,7 +31,7 @@[m [mW ostatnich miesiącach:[m
- - Zaktualizowano spolszczenie do najnowszej wersji gry z DLC Winds Of Change[m
- [m
- [m
-[31m-### Postęp prac nad spolszczeniem (dane z dnia 07.06.2024):[m
-[32m+[m[32m### Postęp prac nad spolszczeniem (dane z dnia 31.03.2025):[m
- [m
- **Wersja podstawowa EU4**: [m
- * Główne pliki przetłumaczone w całości oprócz części wydarzeń i zintegrowanego z grą dodatku women in history, które są w trakcie tłumaczenia.[m
-[36m@@ -54,27 +54,27 @@[m [mW ostatnich miesiącach:[m
- **Tłumaczone dodatki:**[m
- (postęp określono dla głównych plików)[m
- [m
-[31m-* Art of War - 58,38%[m
-[31m-* Common Sense - 33,37%[m
-[31m-* Rights of Man - 43,20%[m
-[31m-* Mandate of Heaven - 35,91%[m
-[31m-* Cradle of Civilization - 41,06%[m
-[32m+[m[32m* Art of War - 58,38% (27 018)[m
-[32m+[m[32m* Common Sense - 34,65% (22 878)[m
-[32m+[m[32m* Rights of Man - 43,20% (26 042)[m
-[32m+[m[32m* Mandate of Heaven - 36,15% (11 310)[m
-[32m+[m[32m* Cradle of Civilization - 42,10% (10 514)[m
- * Emperor[m
-[31m-- emperor content - 38,21%[m
-[31m-- emperor missions - 64,51%[m
-[31m-- emperor - 91,70%[m
-[31m-- emperor estates - 100%[m
-[31m-- emperor revolutions - 100%[m
-[32m+[m[32m- emperor content - 38,20% (52 977)[m
-[32m+[m[32m- emperor missions - 64,84% (22 269)[m
-[32m+[m[32m- emperor - 91,89% (654)[m
-[32m+[m[32m- emperor estates - 100% (0)[m
-[32m+[m[32m- emperor revolutions - 100% (0)[m
- * Leviathan[m
-[31m-- leviathan - 19,00%[m
-[31m-- mandala missions - 16,30%[m
-[31m-- 00 lanfang - 47,23%[m
-[31m-- tmm - 59,85%[m
-[31m-* Origins - 17,57%[m
-[31m-* Lions of the North - 20,15%[m
-[31m-* Domination - 14,24%[m
-[31m-* King of Kings - 4,27%[m
-[31m-* Winds of Change - 2,18%[m
-[32m+[m[32m- leviathan - 20,63% (27 781)[m
-[32m+[m[32m- mandala missions - 20,26% (10 162)[m
-[32m+[m[32m- 00 lanfang - 47,23% (7 354)[m
-[32m+[m[32m- tmm - 59,89% (6 734)[m
-[32m+[m[32m* Origins - 21,72% (38 454)[m
-[32m+[m[32m* Lions of the North - 22,00% (79 713)[m
-[32m+[m[32m* Domination - 14,61% (93 156)[m
-[32m+[m[32m* King of Kings - 5,09% (68 709)[m
-[32m+[m[32m* Winds of Change - 6,72% (95 512)[m
- [m
- **Objaśnienia:**[m
-  + procenty określają postęp tłumaczenia dodatku (w zakresie wpisów (linijek))[m
