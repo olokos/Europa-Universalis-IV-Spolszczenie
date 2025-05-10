@@ -7881,7 +7881,7 @@
  suez_canal_title:0 "Wybuduj kana³ Sueski"
  panama_canal:0 "Kana³ Panamski"
  panama_canal_title:0 "Wybuduj kana³ Panamski"
- GREAT_PROJECT_CONSTRUCTION_DESC:0 "Wielki projekt $NAME|Y$ zostanie ukoªczony $DATE$."
+ GREAT_PROJECT_CONSTRUCTION_DESC:0 "Wielki Projekt $NAME|Y$ zostanie ukoªczony $DATE$."
  CANAL_DESC_D:0 "$CANALNAME$ umo¿liwi statkom podró¿ mi²dzy miejscami $FROM|Y$ i $TO|Y$."
  in_trade_company:0 "Nale¿y do kompanii handlowej"
  trade_company_dominant:0 "Kompania handlowa zdominowa³a region"

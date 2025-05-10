@@ -4134,7 +4134,7 @@
  flavor_inc.3.a: "Wybudujmy sobie godną stolicę!"
  flavor_inc.3.b: "Lepiej przeznaczyć posiadane środki na inne rzeczy."
  flavor_inc.4.t: "Koniec przebudowy [807.GetName]"
- flavor_inc.4.d: "Po niemal dwudziestu latach wielki projekt przebudowy [807.GetName] dobiegł końca. Wyrównano grunt, tworząc rozległe place; wzniesiono piękne budynki, zaś pobliskie rzeki ujęto w kanały.\nPowstało miasto godne władać imperium, a nie małym królestwem. Jego podział na cztery dzielnice odpowiada podziałowi naszego andyjskiego państwa. Królewski kompleks położony jest u zbiegu ziem Antisuyu, Qullasuyu, Kuntisuyu i Chinchaysuyu, na które dzieli się zarówno dolina Cuzco jak i całe nasze imperium."
+ flavor_inc.4.d: "Po niemal 20 latach Wielki Projekt przebudowy [807.GetName] dobiegł końca. Wyrównano grunt, tworząc rozległe place; wzniesiono piękne budynki, zaś pobliskie rzeki ujęto w kanały.\nPowstało miasto godne władać imperium, a nie małym królestwem. Jego podział na cztery dzielnice odpowiada podziałowi naszego andyjskiego państwa. Królewski kompleks położony jest u zbiegu ziem Antisuyu, Qullasuyu, Kuntisuyu i Chinchaysuyu, na które dzieli się zarówno dolina Cuzco jak i całe nasze imperium."
  flavor_inc.4.a: "Wspaniale!"
  flavor_inc.5.t: "Machu Picchu"
  flavor_inc.5.d: "Tak jak [807.GetName] potrzebowało przebudowy, by móc sprostać ambicjom całego państwa, teraz $MONARCH$ potrzebuje okazałej siedziby, godnej jego osoby i rodu. $MONARCH$ postanowił zbudować w górach otoczonych przez rzekę Urubambę miasto Machu Picchu - królewskie ustronie dla dworu i panacas, a zarazem piękną siedzibę dla władcy jego formatu."

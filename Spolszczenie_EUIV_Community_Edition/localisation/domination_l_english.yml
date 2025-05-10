@@ -713,7 +713,7 @@
  mng_relations_gift_reward_tt:0 "Jeœli zakoªczymy misj² za pomoc¹ §Ystosunków dyplomatycznych§!:"
  mng_else_if_tributary_tt:0 "\nAlternatywnie, jeœli w³aœciciel prowincji [677.GetName] jest ju¿ naszym trybutariuszem:"
  as_long_as_we_or_subject_owns_this_province_desc:0 "tak d³ugo, jak my lub nasz poddany jesteœmy w³aœcicielami tej prowincji"
- mng_inward_perfection_reward_tt:0 "Wybór ukoªczenia tej misji za pomoc¹ przywileju klasy 'doskona³oœ¾ wewn²trzna' dodatkowo wzmocni go, przyznaj¹c mu nast²puj¹ce dodatkowe modyfikatory:\nRównowaga lojalnoœci dla wszystkich klas: §G+5%§!\nUmiej²tnoœci administracyjne monarchy: §G+1§!\nLiczba dozwolonych budynków: §G+1§!\nKoszt ulepszenia wielkich projektów §G-10%§!"
+ mng_inward_perfection_reward_tt:0 "Wybór ukoªczenia tej misji za pomoc¹ przywileju klasy 'doskona³oœ¾ wewn²trzna' dodatkowo wzmocni go, przyznaj¹c mu nast²puj¹ce dodatkowe modyfikatory:\nRównowaga lojalnoœci dla wszystkich klas: §G+5%§!\nUmiej²tnoœci administracyjne monarchy: §G+1§!\nLiczba dozwolonych budynków: §G+1§!\nKoszt ulepszenia Wielkich Projektów §G-10%§!"
  mng_trib_cb_every_nation_applicable_tt:0 "Zyskamy casus belli §Ywymuœ trybut§! przeciwko odpowiednim krajom, zgodnie z wymaganiami misji"
  mng_subj_cb_every_nation_applicable_tt:0 "Zyskamy casus belli §Yujarzmienie§! przeciwko odpowiednim krajom, zgodnie z wymaganiami misji"
  mng_no_inward_perfection_reward_tt:0 "\nAlternatywnie uzyskamy dost²p do przywileju klasy §Ydoskona³oœ¾ zewn²trzna§! i zdob²dziemy nast²puj¹c¹ nagrod²:"

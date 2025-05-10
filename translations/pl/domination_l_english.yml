@@ -713,7 +713,7 @@
  mng_relations_gift_reward_tt: "Jeśli zakończymy misję za pomocą §Ystosunków dyplomatycznych§!:"
  mng_else_if_tributary_tt: "\nAlternatywnie, jeśli właściciel prowincji [677.GetName] jest już naszym trybutariuszem:"
  as_long_as_we_or_subject_owns_this_province_desc: "tak długo, jak my lub nasz poddany jesteśmy właścicielami tej prowincji"
- mng_inward_perfection_reward_tt: "Wybór ukończenia tej misji za pomocą przywileju klasy 'doskonałość wewnętrzna' dodatkowo wzmocni go, przyznając mu następujące dodatkowe modyfikatory:\nRównowaga lojalności dla wszystkich klas: §G+5%§!\nUmiejętności administracyjne monarchy: §G+1§!\nLiczba dozwolonych budynków: §G+1§!\nKoszt ulepszenia wielkich projektów §G-10%§!"
+ mng_inward_perfection_reward_tt: "Wybór ukończenia tej misji za pomocą przywileju klasy 'doskonałość wewnętrzna' dodatkowo wzmocni go, przyznając mu następujące dodatkowe modyfikatory:\nRównowaga lojalności dla wszystkich klas: §G+5%§!\nUmiejętności administracyjne monarchy: §G+1§!\nLiczba dozwolonych budynków: §G+1§!\nKoszt ulepszenia Wielkich Projektów §G-10%§!"
  mng_trib_cb_every_nation_applicable_tt: "Zyskamy casus belli §Ywymuś trybut§! przeciwko odpowiednim krajom, zgodnie z wymaganiami misji"
  mng_subj_cb_every_nation_applicable_tt: "Zyskamy casus belli §Yujarzmienie§! przeciwko odpowiednim krajom, zgodnie z wymaganiami misji"
  mng_no_inward_perfection_reward_tt: "\nAlternatywnie uzyskamy dostęp do przywileju klasy §Ydoskonałość zewnętrzna§! i zdobędziemy następującą nagrodę:"

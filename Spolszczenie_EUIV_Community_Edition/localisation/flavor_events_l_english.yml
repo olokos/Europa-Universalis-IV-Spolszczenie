@@ -4134,7 +4134,7 @@
  flavor_inc.3.a:0 "Wybudujmy sobie godn¹ stolic²!"
  flavor_inc.3.b:0 "Lepiej przeznaczy¾ posiadane œrodki na inne rzeczy."
  flavor_inc.4.t:0 "Koniec przebudowy [807.GetName]"
- flavor_inc.4.d:0 "Po niemal dwudziestu latach wielki projekt przebudowy [807.GetName] dobieg³ koªca. Wyrównano grunt, tworz¹c rozleg³e place; wzniesiono pi²kne budynki, zaœ pobliskie rzeki uj²to w kana³y.\nPowsta³o miasto godne w³ada¾ imperium, a nie ma³ym królestwem. Jego podzia³ na cztery dzielnice odpowiada podzia³owi naszego andyjskiego paªstwa. Królewski kompleks po³o¿ony jest u zbiegu ziem Antisuyu, Qullasuyu, Kuntisuyu i Chinchaysuyu, na które dzieli si² zarówno dolina Cuzco jak i ca³e nasze imperium."
+ flavor_inc.4.d:0 "Po niemal 20 latach Wielki Projekt przebudowy [807.GetName] dobieg³ koªca. Wyrównano grunt, tworz¹c rozleg³e place; wzniesiono pi²kne budynki, zaœ pobliskie rzeki uj²to w kana³y.\nPowsta³o miasto godne w³ada¾ imperium, a nie ma³ym królestwem. Jego podzia³ na cztery dzielnice odpowiada podzia³owi naszego andyjskiego paªstwa. Królewski kompleks po³o¿ony jest u zbiegu ziem Antisuyu, Qullasuyu, Kuntisuyu i Chinchaysuyu, na które dzieli si² zarówno dolina Cuzco jak i ca³e nasze imperium."
  flavor_inc.4.a:0 "Wspaniale!"
  flavor_inc.5.t:0 "Machu Picchu"
  flavor_inc.5.d:0 "Tak jak [807.GetName] potrzebowa³o przebudowy, by móc sprosta¾ ambicjom ca³ego paªstwa, teraz $MONARCH$ potrzebuje okaza³ej siedziby, godnej jego osoby i rodu. $MONARCH$ postanowi³ zbudowa¾ w górach otoczonych przez rzek² Urubamb² miasto Machu Picchu - królewskie ustronie dla dworu i panacas, a zarazem pi²kn¹ siedzib² dla w³adcy jego formatu."
