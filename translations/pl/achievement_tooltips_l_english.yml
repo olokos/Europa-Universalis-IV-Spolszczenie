@@ -62,7 +62,7 @@
  has_celebrated_festival_tooltip: "Zorganizowano festiwal."
  achievement_the_freest_man_in_the_world_tooltip: "Żadna skolonizowana prowincja na świecie nie produkuje §Yniewolników§!."
  achievement_mehmet_ambition_tooltip: "Należy do państwa §Y[Root.GetName]§! lub §Ynarodowych eljalet§! jego wasali."
- completed_incan_missions: ""
+ completed_incan_missions: "Ukończ drzewko misji Inków (z wyłączeniem misji Inwazji Zachodzącego Słońca)."
  achievement_baborg_tooltip: ""
  achievement_the_hungarian_games_tooltip: ""
  achievement_there_khan_only_be_one_tooltip: ""
